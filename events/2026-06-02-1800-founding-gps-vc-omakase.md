@@ -1,0 +1,82 @@
+---
+title: "Founding GPs VC Omakase"
+event_id: "iYgTSYfpMkHDhXgcofCb"
+date: 2026-06-02
+day: "Tuesday"
+start_time: "6:00pm ET"
+end_time: "9:00pm ET"
+start_iso: "2026-06-02T22:00:00.000Z"
+end_iso: "2026-06-03T01:00:00.000Z"
+host: "Mercury, Unicorner, Sydecar"
+venue_name: "The Chemistry Room"
+venue_address: "130 W 47th St, New York, NY 10036"
+neighborhood: "Midtown"
+rsvp_url: "https://partiful.com/e/iYgTSYfpMkHDhXgcofCb"
+public_short_url: "https://go.partiful.com/lgHfctlB"
+google_maps: "https://www.google.com/maps/search/?api=1&query=130%20W%2047th%20St%2C%20New%20York%2C%20NY%2010036"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FDpz7S6tTHV9IoXfMrW3U%2FO67-XFcsZt7eedT2Ygl0Z"
+visibility: "public"
+guest_action: "APPLY"
+at_capacity: false
+going_guest_count: 101
+badges: []
+fetch_status: ok
+owner_count: 5
+owner_ids: ["Dpz7S6tTHV9IoXfMrW3U", "7DFu4rITofNzKIjA7hCx", "aloZ9e6N5tfmqe2skhb8NYFqIA32", "iTaPjJXA65tDh3knUNB2", "ttf8NOUkoZVwNEPftRDluW3j1p42"]
+is_capped: false
+total_guest_count: 103
+approved_guest_count: 20
+local_image: "images/iYgTSYfpMkHDhXgcofCb.png"
+---
+
+# Founding GPs VC Omakase
+
+![Founding GPs VC Omakase](images/iYgTSYfpMkHDhXgcofCb.png)
+
+**Hosts:** Mercury, Unicorner, Sydecar  _(+2 more host(s) on Partiful — see description for full list)_
+**When:** Tuesday, June 2, 2026 · 6:00pm–9:00pm ET
+**Where:** The Chemistry Room · 130 W 47th St, New York, NY 10036 · Midtown
+**Going:** 101 of 103
+**Access:** apply / hosts approve
+**RSVP:** https://partiful.com/e/iYgTSYfpMkHDhXgcofCb
+**Map:** https://www.google.com/maps/search/?api=1&query=130%20W%2047th%20St%2C%20New%20York%2C%20NY%2010036
+
+### Hosts on Partiful
+
+- [Unicorner](https://partiful.com/u/Dpz7S6tTHV9IoXfMrW3U)
+- [Sydecar](https://partiful.com/u/aloZ9e6N5tfmqe2skhb8NYFqIA32)
+- [Mercury](https://partiful.com/u/iTaPjJXA65tDh3knUNB2) — _Mercury is a radically different banking* product — engineered from the ground up to hold, move, and help you truly understand your money like never before. Everything you need is built in: cards, invoicing, bill pay, spend management, real-time insights, intelligent categorization. And because it all lives in one place, it gets smarter the more you use it — surfacing what you need, when you need it, in ways a patchwork of tools never could. To join the more than 300K entrepreneurs that trust Mercury, visit mercury.com.
+
+*Mercury is a fintech company, not a bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC. The IO Card is issued by Patriot Bank, Member FDIC, pursuant to a license from Mastercard®._
+- [Joyce Chen](https://partiful.com/u/ttf8NOUkoZVwNEPftRDluW3j1p42) — _Queens forever, Cambridge now. Citizen of the world & capybara. Helping to build @mercury_
+- _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
+
+
+## Description
+
+Join Unicorner, Mercury, and Sydecar for a small and highly curated omakase dinner with a room of founding GPs.
+
+Invites are extremely limited and guests must confirm attendance to participate.
+
+-- 
+
+​​​​🦄 Unicorner is the premier community for everything startups. Unicorner brings the stories of the best startups and unicorns-to-be directly to your inbox. With over two hundred startup covers and 60,000+ global readers, it's a top destination for startup content, events, and investment opportunities.
+
+🏦 Mercury is the fintech that brings all the ways people and businesses use money into a single product that feels extraordinary to use. With banking, credit cards*, and software, Mercury helps more than 200K ambitious companies and entrepreneurs make better decisions and build their businesses. To learn more, visit Mercury.com.
+
+*Mercury is a financial technology company, not a bank. Banking services provided through Choice Financial Group, Column N.A., and Evolve Bank & Trust; Members FDIC. The IO Card is issued by Patriot Bank, Member FDIC, pursuant to a license from Mastercard ®.
+
+​📝 Sydecar makes it simple and efficient for venture fund managers to form Special Purpose Vehicles (SPVs) to invest in and distribute private market assets. Through technology, Sydecar delivers institutional-grade execution without the overhead, freeing up time and resources so managers can focus on sourcing, closing, and building relationships with founders, investors, and issuers. Founded in 2021, Sydecar is on a mission to build the infrastructure that powers private markets and was named to the 2025 Inc. 5000 list, the most prestigious ranking of the fastest-growing private companies in America.
+
+This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
+By registering for this event, you consent to receive post-event communications from the hosts. You may unsubscribe at any time.
+
+
+
+
+
+
+---
+
+[Apply on Partiful →](https://partiful.com/e/iYgTSYfpMkHDhXgcofCb)

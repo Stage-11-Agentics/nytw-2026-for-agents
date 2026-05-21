@@ -1,0 +1,22 @@
+# Atin/Stage 11-specific Phase 2 artifacts — not part of the public community resource.
+TOP-PICKS.md
+scored.jsonl
+
+# Run logs — useful for local debugging, no value when shared
+fetch.log
+enrich.log
+resolve.log
+fetch-run.log
+enrich-run.log
+resolve-run.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
