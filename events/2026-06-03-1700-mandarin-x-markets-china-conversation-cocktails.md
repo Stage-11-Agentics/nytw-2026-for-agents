@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["NKXa1vyo5aacev7mvLqhLarmQN52", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 80
-approved_guest_count: 57
+total_guest_count: 81
+approved_guest_count: 58
 local_image: "images/G6SCgiK0QTXDg0MtyANy.png"
+canceled: false
 ---
 
 # Mandarin x Markets: China, Conversation, & Cocktails
@@ -33,7 +34,7 @@ local_image: "images/G6SCgiK0QTXDg0MtyANy.png"
 **Hosts:** A Day With Aslan  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:00pm–7:00pm ET
 **Where:** Flatiron
-**Going:** 80
+**Going:** 80 of 81
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/G6SCgiK0QTXDg0MtyANy
 
@@ -61,6 +62,7 @@ Hosted by Chika Dunga (董千佳)
 Founder, A Day With Aslan · MBA, Kellogg School of Management · Alum, The Beijing Center for Chinese Studies · Alum, Middlebury Chinese Language School (明德中文学校). 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

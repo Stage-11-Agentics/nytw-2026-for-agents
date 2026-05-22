@@ -25,9 +25,10 @@ owner_ids: ["E3pfYlpti9UyLUezScON07VedGm1", "7DFu4rITofNzKIjA7hCx", "ZNP9T8n8tch
 is_capped: true
 max_capacity: 250
 remaining_capacity: 76
-total_guest_count: 283
+total_guest_count: 287
 approved_guest_count: 174
 local_image: "images/8ziM85jjl6N9qzjZtFYf.png"
+canceled: false
 ---
 
 # From Idea to Live MVP in 6 Hours with GitHub Copilot — $25K Azure Prize —
@@ -81,6 +82,7 @@ Includes:
 - Everything you need to create
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

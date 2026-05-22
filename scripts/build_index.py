@@ -77,6 +77,7 @@ def main():
     by_neighborhood = defaultdict(list)
     by_badge = defaultdict(list)
     failed_or_stub = []
+    cancelled = []
 
     for r in rows:
         day = r.get("date", "unknown")
@@ -89,6 +90,8 @@ def main():
             by_badge[b].append(r)
         if r.get("fetch_status") not in (None, "ok"):
             failed_or_stub.append(r)
+        if r.get("canceled") is True or r.get("canceled") == "true":
+            cancelled.append(r)
 
     out = []
     out.append("# NY Tech Week 2026 — Index")
@@ -103,6 +106,8 @@ def main():
     out.append("## Summary")
     out.append("")
     out.append(f"- **Total events:** {len(rows)}")
+    out.append(f"- **Live events:** {len(rows) - len(cancelled)}")
+    out.append(f"- **Cancelled events:** {len(cancelled)} (see `## Cancelled` at bottom)")
     out.append(f"- **Days covered:** {len(by_day)}")
     out.append(f"- **Unique hosts:** {len(by_host)}")
     out.append(f"- **Unique neighborhoods:** {len(by_neighborhood)}")
@@ -130,14 +135,20 @@ def main():
         events = by_day[day]
         out.append(f"### {label} — {len(events)} events")
         out.append("")
-        for r in events:
+        # Live first, cancelled bumped to the end of each day with a ❌ marker.
+        live_first = sorted(events, key=lambda r: (1 if (r.get("canceled") is True or r.get("canceled") == "true") else 0, r.get("start_iso") or ""))
+        for r in live_first:
             time = r.get("start_time", "").replace(" ET", "")
             title = r.get("title", "(untitled)")
             host = r.get("host", "")
             nbhd = r.get("neighborhood", "")
             fname = r["_file"]
+            is_cancelled = r.get("canceled") is True or r.get("canceled") == "true"
             line_parts = [f"`{time:>8}`" if time else "          "]
-            line_parts.append(f"[{title}](events/{fname})")
+            if is_cancelled:
+                line_parts.append(f"❌ ~~[{title}](events/{fname})~~")
+            else:
+                line_parts.append(f"[{title}](events/{fname})")
             meta = []
             if host:
                 meta.append(host)
@@ -185,6 +196,28 @@ def main():
         evs = by_badge[badge]
         out.append(f"- **{badge}** — {len(evs)} events")
     out.append("")
+
+    # Cancelled
+    if cancelled:
+        out.append("## Cancelled")
+        out.append("")
+        out.append(
+            f"{len(cancelled)} events the hosts marked CANCELED on Partiful. "
+            "Kept in the dataset so the URLs stay resolvable and downstream "
+            "agents can see what was cancelled (and why)."
+        )
+        out.append("")
+        cancelled.sort(key=lambda r: (r.get("date") or "", r.get("start_iso") or ""))
+        for r in cancelled:
+            date = r.get("date", "")
+            time = r.get("start_time", "").replace(" ET", "")
+            title = r.get("title", "(untitled)")
+            host = r.get("host", "")
+            out.append(
+                f"- `{date} {time}` ~~[{title}](events/{r['_file']})~~"
+                + (f" — *{host}*" if host else "")
+            )
+        out.append("")
 
     # Incomplete
     if failed_or_stub:

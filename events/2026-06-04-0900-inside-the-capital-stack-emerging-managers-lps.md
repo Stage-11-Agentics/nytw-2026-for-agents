@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["SqQsoLRfjbRdkE0ghFlWrIvbfg62", "7DFu4rITofNzKIjA7hCx", "bNZMtgneEPMhAsUx8n4wlFyCc302", "JaEB7pXaWfMJ3mJQOQYJ5LlWwSG3"]
 is_capped: false
-total_guest_count: 225
-approved_guest_count: 103
+total_guest_count: 236
+approved_guest_count: 105
 local_image: "images/X6gcykqwLI9ktdlTLALK.png"
+canceled: false
 ---
 
 # Inside the Capital Stack: Emerging Managers & LPs
@@ -34,7 +35,7 @@ local_image: "images/X6gcykqwLI9ktdlTLALK.png"
 **Hosts:** NY Ventures  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 9:00am ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 225
+**Going:** 225 of 236
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/X6gcykqwLI9ktdlTLALK
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -56,6 +57,7 @@ The event will bring together key limited partners and emerging managers for a c
 We also hope to see a few family offices and family office event organizers attend, as their perspectives and potential involvement are crucial to fostering deeper connections and understanding in the fundraising ecosystem.  This event promises to foster meaningful discussions and actionable takeaways for those looking to thrive in the venture capital space.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["rzhtCGMTholWioOsZFMO", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 443
+total_guest_count: 448
 approved_guest_count: 89
 local_image: "images/ddUgaIgdAlkIM2AlSWDk.png"
+canceled: false
 ---
 
 # Scale AI | Human in the Loop LIVE
@@ -36,7 +37,7 @@ local_image: "images/ddUgaIgdAlkIM2AlSWDk.png"
 **Hosts:** Scale AI  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
 **Where:** Chelsea · Chelsea, Manhattan, New York, NY · Chelsea
-**Going:** 441 of 443
+**Going:** 441 of 448
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ddUgaIgdAlkIM2AlSWDk
 **Map:** https://www.google.com/maps/search/?api=1&query=Chelsea%2C%20Chelsea%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -64,6 +65,7 @@ Afterward, stick around for drinks and bites from an up-and-coming NYC chef in t
 Please note: RSVP is required for this event.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

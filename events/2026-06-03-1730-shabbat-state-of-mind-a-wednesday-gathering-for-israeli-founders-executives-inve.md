@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["lgDUfPziwZhkvaYaPraD", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 121
+total_guest_count: 122
 approved_guest_count: 0
 local_image: "images/4hGN5QVX8g5GvnRNgtMB.png"
+canceled: false
 ---
 
 # Shabbat State of Mind: A Wednesday Gathering for Israeli Founders, Executives & Investors
@@ -33,7 +34,7 @@ local_image: "images/4hGN5QVX8g5GvnRNgtMB.png"
 **Hosts:** Fox Rothschild  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:30pm–7:30pm ET
 **Where:** Midtown
-**Going:** 121
+**Going:** 121 of 122
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/4hGN5QVX8g5GvnRNgtMB
 
@@ -64,6 +65,7 @@ Tamar is a business-oriented attorney who advises emerging and technology compan
 This is an intimate, curated gathering. Space is limited and registration is required. Priority is given to founders, executives and investors active in the Israeli and Israeli-American technology ecosystem.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

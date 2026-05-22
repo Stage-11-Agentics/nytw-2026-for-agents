@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["Fd5U3rsSdTi8mGsFv2xU", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 127
+total_guest_count: 129
 approved_guest_count: 84
 local_image: "images/yfYQYRx4HFxA113yoZi3.jpg"
+canceled: false
 ---
 
 # The Six-Figure Mistakes International Founders Keep Making in the U.S.
@@ -36,7 +37,7 @@ local_image: "images/yfYQYRx4HFxA113yoZi3.jpg"
 **Hosts:** Acclime, Herrick
 **When:** Monday, June 1, 2026 · 12:30pm–1:30pm ET
 **Where:** Herrick Feinstein · 2 Park Ave, New York, NY 10016 · Murray Hill
-**Going:** 126 of 127
+**Going:** 126 of 129
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/yfYQYRx4HFxA113yoZi3
 **Map:** https://www.google.com/maps/search/?api=1&query=2%20Park%20Ave%2C%20New%20York%2C%20NY%2010016
@@ -74,6 +75,7 @@ About SAX: SAX is a multi-disciplinary accounting, tax, technology and advisory 
 Herrick, Acclime and SAX are members of the TAG Alliances a leading global alliance of independent law firms, accounting firms, and strategic advisors, enabling seamless cross‑border legal, tax, and business support across 110+ countries for internationally scaling companies and investors.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

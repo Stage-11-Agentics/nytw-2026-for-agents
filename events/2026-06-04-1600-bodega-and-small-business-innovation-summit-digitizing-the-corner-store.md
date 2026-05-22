@@ -26,6 +26,7 @@ is_capped: false
 total_guest_count: 86
 approved_guest_count: 78
 local_image: "images/K5lGeT64lmY0bPqejje4.png"
+canceled: false
 ---
 
 # Bodega and Small Business Innovation Summit - Digitizing the Corner Store
@@ -84,6 +85,7 @@ Este será un evento gratuito, con refrigerios y oportunidades para hacer networ
 📍 10 Centre St, Bronx, NYC
 Stuyvesant Yacht Club
 🗓 4 de junio | 4:00 PM
+
 
 
 

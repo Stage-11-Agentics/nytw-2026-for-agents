@@ -21,22 +21,23 @@ at_capacity: false
 going_guest_count: 165
 badges: []
 fetch_status: ok
-owner_count: 2
-owner_ids: ["9K2ip5KfG1VOTKg73Vjq", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 3
+owner_ids: ["9K2ip5KfG1VOTKg73Vjq", "7DFu4rITofNzKIjA7hCx", "CEjtEbOdG6Y3uevhjVKqqg9JqAl1"]
 is_capped: false
-total_guest_count: 165
+total_guest_count: 167
 approved_guest_count: 0
 local_image: "images/FXwx27l3v2cgICQDCvAm.png"
+canceled: false
 ---
 
 # Brews and Bagels
 
 ![Brews and Bagels](images/FXwx27l3v2cgICQDCvAm.png)
 
-**Hosts:** Scalpels & Spreadsheets, France Ovalle
+**Hosts:** Scalpels & Spreadsheets, France Ovalle  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 9:30am–10:30am ET
 **Where:** 307 West 38th Street · 307 W 38th St, New York, NY 10018 · Midtown
-**Going:** 165
+**Going:** 165 of 167
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/FXwx27l3v2cgICQDCvAm
 **Map:** https://www.google.com/maps/search/?api=1&query=307%20W%2038th%20St%2C%20New%20York%2C%20NY%2010018
@@ -44,6 +45,7 @@ local_image: "images/FXwx27l3v2cgICQDCvAm.png"
 ### Hosts on Partiful
 
 - [Scalpels & Spreadsheets](https://partiful.com/u/9K2ip5KfG1VOTKg73Vjq) — _North America's fastest growing healthcare community_
+- [user `CEjtEbOdG6Y3uevhjVKqqg9JqAl1`](https://partiful.com/u/CEjtEbOdG6Y3uevhjVKqqg9JqAl1) _(name not resolved)_
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -67,6 +69,7 @@ Sponsorships:
 1 slot remaining
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com..
+
 
 
 

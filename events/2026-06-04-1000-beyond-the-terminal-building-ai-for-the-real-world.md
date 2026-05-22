@@ -23,9 +23,10 @@ owner_ids: ["JOiF2d5C5bIgXGf6pP6i", "7DFu4rITofNzKIjA7hCx", "qPe4nG5jS9Y7OuvsjCW
 is_capped: true
 max_capacity: 100
 remaining_capacity: 63
-total_guest_count: 67
+total_guest_count: 71
 approved_guest_count: 37
 local_image: "images/NsKvGW4mUmItETWlK3v4.jpg"
+canceled: false
 ---
 
 # Beyond the Terminal: Building AI for the Real World
@@ -56,6 +57,7 @@ AI is rapidly moving beyond static models into systems that learn and adapt to t
 The panel conversation will followed by a short networking reception. Light bites will be provided!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

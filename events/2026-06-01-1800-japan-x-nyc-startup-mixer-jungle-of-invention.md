@@ -23,9 +23,10 @@ owner_ids: ["tkjEcq8YPiTM79dj8eGR7XrH1I13"]
 is_capped: true
 max_capacity: 50
 remaining_capacity: 50
-total_guest_count: 1
+total_guest_count: 3
 approved_guest_count: 0
 local_image: "images/k0Z3WGdanIGHlTsvsAqW.jpg"
+canceled: false
 ---
 
 # Japan x NYC Startup Mixer @ Jungle of Invention
@@ -59,6 +60,7 @@ Expect relaxed introductions, small-group conversations, and a few informal foun
 Capacity is intentionally limited to keep the room useful and conversational. RSVP requests will be reviewed.
 
 Event page: https://jungle.ofinventi.one/japan-startup-mixer.html
+
 
 
 

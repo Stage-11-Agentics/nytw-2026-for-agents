@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["XGi62NCo2AeBnWBOlF4bzfOCvyi1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 102
+total_guest_count: 111
 approved_guest_count: 36
 local_image: "images/qpq2DX18rcPKN4LDTtJb.png"
+canceled: false
 ---
 
 # AI Agents in Finance - The Next Wave of Adoption
@@ -34,7 +35,7 @@ local_image: "images/qpq2DX18rcPKN4LDTtJb.png"
 **Hosts:** Women in AI  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:00pm ET
 **Where:** NoMad · NoMad, Manhattan, New York, NY · Nomad
-**Going:** 100 of 102
+**Going:** 100 of 111
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/qpq2DX18rcPKN4LDTtJb
 **Map:** https://www.google.com/maps/search/?api=1&query=NoMad%2C%20NoMad%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -56,6 +57,7 @@ This will be a dynamic women-led speaker panel featuring startups and leaders bu
 Drawing on Women Leading AI’s institutional finance & AI lens, the event is designed for investors, finance and AI leaders seeking a practical, high-signal discussion of the next wave of AI adoption in financial services.
 
 This event is a part of #NYTechWeek – a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

@@ -25,9 +25,10 @@ owner_ids: ["WS8U2gYIoad5a0OblvEvpZqiBeR2", "7DFu4rITofNzKIjA7hCx", "xRC9D938ZIe
 is_capped: true
 max_capacity: 100
 remaining_capacity: 36
-total_guest_count: 189
+total_guest_count: 193
 approved_guest_count: 64
 local_image: "images/IND6o3UwwH5ZC1Z6FC1Y.gif"
+canceled: false
 ---
 
 # Bagels>Panels:  Physical AI x Robotics @ NY Tech Week
@@ -63,6 +64,7 @@ Expect (actually fun) programming including: insights from Sightline's latest re
 ​Bagels > Panels is a monthly breakfast climate conversation series hosted by Planeteer Capital & Foley Hoag.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

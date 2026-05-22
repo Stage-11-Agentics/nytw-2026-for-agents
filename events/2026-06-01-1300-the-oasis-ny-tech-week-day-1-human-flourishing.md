@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 8
 owner_ids: ["J3KBly0AcPMWy6v1d1sBrgGLrtF3", "9QYyEOt0M6P6C80l8zOYJ9n03Kn1", "7DFu4rITofNzKIjA7hCx", "lbXYGgqV6RPkTXqgo4lVcAK3z513", "6z7JYsIzIzNoHoSDzD4aXoIb4vy2", "RiCsGweHtncbU1QawlqeR8Uthc13", "vDXGV1yuFxQSxStWDLDOyDmsRm43", "o7Jvw7mP7qQdgesE2KLsduHbaGA3"]
 is_capped: false
-total_guest_count: 206
+total_guest_count: 208
 approved_guest_count: 174
 local_image: "images/1bGiVgRQUifMy25hzGrm.png"
+canceled: false
 ---
 
 # The Oasis @ NY Tech Week Day 1 - Human Flourishing
@@ -36,7 +37,7 @@ local_image: "images/1bGiVgRQUifMy25hzGrm.png"
 **Hosts:** Vibe Space, Flowstate, Boardy, AI Collective  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 1:00pm–4:00pm ET
 **Where:** Belong NYC · 218 Lafayette St, FL 2, New York, NY 10012 · Flatiron
-**Going:** 203 of 206
+**Going:** 203 of 208
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/1bGiVgRQUifMy25hzGrm
 **Map:** https://www.google.com/maps/search/?api=1&query=218%20Lafayette%20St%2C%20FL%202%2C%20New%20York%2C%20NY%2010012
@@ -83,6 +84,7 @@ Registration does not guarantee entry. Only approved guests will gain access int
 This event is a part of a16z #NY TechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 Thank you to our partners at Vibe Space, Boardy, The AI Collective, and Leave Normal Behind.
+
 
 
 

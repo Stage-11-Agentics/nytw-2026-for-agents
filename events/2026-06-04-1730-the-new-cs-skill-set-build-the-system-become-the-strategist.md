@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["aCkYpJKRZXgU3jHg8KKMDCw8gNA3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 153
+total_guest_count: 163
 approved_guest_count: 91
 local_image: "images/GEDtdJiI0ZyMgIDvwZRh.png"
+canceled: false
 ---
 
 # The New CS Skill Set: Build the System, Become the Strategist
@@ -33,7 +34,7 @@ local_image: "images/GEDtdJiI0ZyMgIDvwZRh.png"
 **Hosts:** Women of Customer Success  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:30pm–8:30pm ET
 **Where:** SoHo
-**Going:** 151 of 153
+**Going:** 151 of 163
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/GEDtdJiI0ZyMgIDvwZRh
 
@@ -75,6 +76,7 @@ Meet your panel:
 Please note this event is for women only.
 
 This event is a part of #NYTechWeek - a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,10 +24,11 @@ owner_count: 6
 owner_ids: ["ah4ZlSmU6LRwxxjfaDzaPJcqv5n1", "7DFu4rITofNzKIjA7hCx", "d9dtjikzCAWFzx2WaYQAEfJpEdI3", "jnCFU92hInOp7vaCytlFfnqW4Cv2", "jKy8yqTLX3cFT0tAxRP1BVpF4Sy2", "UjR2DgOKS4P4nk1hY2eXV8Cens72"]
 is_capped: true
 max_capacity: 250
-remaining_capacity: 42
-total_guest_count: 216
-approved_guest_count: 208
+remaining_capacity: 32
+total_guest_count: 223
+approved_guest_count: 218
 local_image: "images/wNHWcOC7EzCdpr3pWeoK.png"
+canceled: false
 ---
 
 # COFFEE + CONNECT Networking Mixer for Underrepresented Founders
@@ -37,7 +38,7 @@ local_image: "images/wNHWcOC7EzCdpr3pWeoK.png"
 **Hosts:** Somarae, Stripe, Task Force VA  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 8:30am–10:30am ET
 **Where:** 860 Broadway, New York, NY 10003 · Midtown
-**Capacity:** capped at 250 · 208 taken, 42 remaining
+**Capacity:** capped at 250 · 218 taken, 32 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/wNHWcOC7EzCdpr3pWeoK
 **Map:** https://www.google.com/maps/search/?api=1&query=860%20Broadway%2C%20New%20York%2C%20NY%2010003
@@ -92,6 +93,7 @@ ABOUT COMP AI:
 Comp AI gets you SOC 2 or ISO 27001 audit-ready in just a few days, so your team can get back to shipping. Evidence, controls, vendor management, and audit prep run on autopilot, so you stay audit-ready 24/7. Trusted by fast-growing teams like Dub, Better Auth, and Ramp.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

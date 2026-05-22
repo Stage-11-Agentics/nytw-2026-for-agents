@@ -22,10 +22,11 @@ owner_count: 3
 owner_ids: ["4gZAqIEmAfdmJWw5yRU2J1xkR5w2", "7DFu4rITofNzKIjA7hCx", "5mi4b6wutEeHwJZMQrbNIvtCWjt1"]
 is_capped: true
 max_capacity: 325
-remaining_capacity: 303
-total_guest_count: 25
-approved_guest_count: 22
+remaining_capacity: 299
+total_guest_count: 29
+approved_guest_count: 26
 local_image: "images/rKC8JinNw0ODFYE8bevJ.jpg"
+canceled: false
 ---
 
 # Anchor Angels x Vanderbilt C4E Pitch Day
@@ -35,7 +36,7 @@ local_image: "images/rKC8JinNw0ODFYE8bevJ.jpg"
 **Hosts:** Vanderbilt University, Anchor Angels  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 2:30pm–4:00pm ET
 **Where:** Chelsea
-**Capacity:** capped at 325 · 22 taken, 303 remaining
+**Capacity:** capped at 325 · 26 taken, 299 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/rKC8JinNw0ODFYE8bevJ
 
@@ -51,6 +52,7 @@ local_image: "images/rKC8JinNw0ODFYE8bevJ.jpg"
 Anchor Angels is an independent 501(c)6 organization benefiting capital formation for Vanderbilt-affiliated (alumni, student, faculty, & parent) founders.  Join us to learn more about this network and to hear pitches from the best Vanderbilt-affiliated startups seeking angel funding.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

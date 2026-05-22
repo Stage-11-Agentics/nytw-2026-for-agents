@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["6NjJgVx4lWeYWSxARO3qBLxfhTE3", "7DFu4rITofNzKIjA7hCx", "cTOryntYacQ7pqAMleSfEr1AbKD2"]
 is_capped: false
-total_guest_count: 153
+total_guest_count: 155
 approved_guest_count: 0
 local_image: "images/3w3F8gnlAbVfFLiL3kJA.png"
+canceled: false
 ---
 
 # The Table ✦ by Women in AI
@@ -34,7 +35,7 @@ local_image: "images/3w3F8gnlAbVfFLiL3kJA.png"
 **Hosts:** Women in AI  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm ET
 **Where:** New York, NY · New York, NY · Flatiron
-**Going:** 153
+**Going:** 153 of 155
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/3w3F8gnlAbVfFLiL3kJA
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -58,6 +59,7 @@ Women in AI connects, empowers, and elevates female founders, investors, and eng
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at 
 www.tech-week.com.
+
 
 
 

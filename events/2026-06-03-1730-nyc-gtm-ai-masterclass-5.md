@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["kWSlgcVDgbY9NfhAzdRgzShGPKy1", "mNkhgiDIKKh1sh9OvQ0ygZvxP0K3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 65
+total_guest_count: 68
 approved_guest_count: 1
 local_image: "images/2J98m1NN4k4mRVUqeI6k.png"
+canceled: false
 ---
 
 # NYC GTM AI Masterclass #5
@@ -36,7 +37,7 @@ local_image: "images/2J98m1NN4k4mRVUqeI6k.png"
 **Hosts:** NYC GTM: New York City's Go-To-Market Community, Impact 11, Swan
 **When:** Wednesday, June 3, 2026 · 5:30pm–8:30pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 65
+**Going:** 65 of 68
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/2J98m1NN4k4mRVUqeI6k
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -73,6 +74,7 @@ Join us to share and develop AI+GTM experience in a hands-on Masterclass, hosted
 ​---
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["vpUOOZv7kebVHKcZ1nTq2ZygKt12", "7DFu4rITofNzKIjA7hCx", "09iMmVVvOQTXyh9knA5WpwQ9AZW2"]
 is_capped: false
-total_guest_count: 41
+total_guest_count: 42
 approved_guest_count: 22
 local_image: "images/hAARVrxCJQoBOlxlp2Nd.png"
+canceled: false
 ---
 
 # Pitch Like a Lawyer: Build  a Winning Case for Investors
@@ -33,7 +34,7 @@ local_image: "images/hAARVrxCJQoBOlxlp2Nd.png"
 **Hosts:** Kushner Executive Advisory  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 12:00pm ET
 **Where:** 199 Water St, New York, NY 10038 · Midtown
-**Going:** 41
+**Going:** 41 of 42
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/hAARVrxCJQoBOlxlp2Nd
 **Map:** https://www.google.com/maps/search/?api=1&query=199%20Water%20St%2C%20New%20York%2C%20NY%2010038
@@ -64,6 +65,7 @@ Kushner Executive Advisory is a boutique strategic advisory firm specializing in
 Founded by a former U.S. Department of Justice attorney, our methodology is rooted in the discipline of federal litigation - precision, persuasion, and presence.
 
 Foster Garvey is a national, full-service law firm with a legacy spanning more than a century. We work alongside emerging and established companies, investors and entrepreneurs at every stage of their journey, providing counsel that fuels their growth and safeguards their future. For more information, visit foster.com.
+
 
 
 

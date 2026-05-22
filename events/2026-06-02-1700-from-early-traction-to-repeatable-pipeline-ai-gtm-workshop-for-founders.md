@@ -24,9 +24,10 @@ owner_ids: ["v0SCt7Voq2dohPoVpLY2PtEy4533", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
 remaining_capacity: 4
-total_guest_count: 96
+total_guest_count: 98
 approved_guest_count: 46
 local_image: "images/XelMoqGV0xD1bUAgYeff.png"
+canceled: false
 ---
 
 # From Early Traction to Repeatable Pipeline: AI GTM Workshop for Founders
@@ -64,6 +65,7 @@ Just the frameworks, decisions, and practical tactics founders need to build a m
 Best fit for founders with paying customers who are ready to build a more structured GTM engine but are not yet ready to hire a full-time CMO.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

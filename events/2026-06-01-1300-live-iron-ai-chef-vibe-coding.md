@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["PM0t58OCz1kg5yBM3zLy", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 190
+total_guest_count: 193
 approved_guest_count: 57
 local_image: "images/MYuBxfIaBiUXekX9cw1B.png"
+canceled: false
 ---
 
 # Live "Iron (AI) Chef" Vibe-Coding
@@ -36,7 +37,7 @@ local_image: "images/MYuBxfIaBiUXekX9cw1B.png"
 **Hosts:** Mucker Capital  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 1:00pm–2:15pm ET
 **Where:** 55 Water · 55 Water Street, New York, NY 10041 · Financial District
-**Going:** 189 of 190
+**Going:** 189 of 193
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/MYuBxfIaBiUXekX9cw1B
 **Map:** https://www.google.com/maps/search/?api=1&query=55%20Water%20Street%2C%20New%20York%2C%20NY%2010041
@@ -79,6 +80,7 @@ If you do not consent to being photographed or recorded, please withdraw your RS
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at
 
 www.tech-week.com
+
 
 
 

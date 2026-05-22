@@ -22,10 +22,11 @@ owner_count: 4
 owner_ids: ["qQvcmvOr9ETL73i3a5qyFnOh5tr1", "vc4AAMwWCSb1JNqvxdDthbwBlCH2", "MYrgiIPrxuOpv94qWHYTHFs76ZM2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 90
-remaining_capacity: 35
-total_guest_count: 177
-approved_guest_count: 55
+remaining_capacity: 29
+total_guest_count: 189
+approved_guest_count: 61
 local_image: "images/mlcBwsk8Wv96X3mzEOiM.png"
+canceled: false
 ---
 
 # AI VIPs:  Enterprise Edition
@@ -35,7 +36,7 @@ local_image: "images/mlcBwsk8Wv96X3mzEOiM.png"
 **Hosts:** Wells Fargo, Onsen Global  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:30pm–7:30pm ET
 **Where:** Hudson Yards
-**Capacity:** capped at 90 · 55 taken, 35 remaining
+**Capacity:** capped at 90 · 61 taken, 29 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/mlcBwsk8Wv96X3mzEOiM
 
@@ -66,6 +67,7 @@ This event is designed for founders, operators, and investors interested in buil
 Apply to hold your spot and receive live updates.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

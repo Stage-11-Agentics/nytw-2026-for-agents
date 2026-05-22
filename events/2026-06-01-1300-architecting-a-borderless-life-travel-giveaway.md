@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["6DwgtsM8cN9RzkMho2sP", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 1008
+total_guest_count: 1012
 approved_guest_count: 62
 local_image: "images/egJJ7avDIg6WtPaxk4yN.jpg"
+canceled: false
 ---
 
 # Architecting a Borderless Life  + Travel Giveaway
@@ -31,7 +32,7 @@ local_image: "images/egJJ7avDIg6WtPaxk4yN.jpg"
 **Hosts:** Product Advisory Collective (PAC)  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 1:00pm ET
 **Where:** Virtual (NYC)
-**Going:** 1007 of 1008
+**Going:** 1007 of 1012
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/egJJ7avDIg6WtPaxk4yN
 
@@ -76,6 +77,7 @@ Taking cues from the audience on what topics to cover, Mary Beth will lead a Q&A
 --
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

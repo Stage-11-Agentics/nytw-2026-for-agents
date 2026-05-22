@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["IE8u677XhhSjyAJugik4rbdwjvs2", "7DFu4rITofNzKIjA7hCx", "FojCADqKaSQwLuM07GO085zVypp2"]
 is_capped: false
-total_guest_count: 91
+total_guest_count: 92
 approved_guest_count: 2
 local_image: "images/KGSXQ79cHkBiKfGSa4J4.png"
+canceled: false
 ---
 
 # The Future of AI in Biology - Pareto Holdings and
@@ -33,7 +34,7 @@ local_image: "images/KGSXQ79cHkBiKfGSa4J4.png"
 **Hosts:** Pareto Holdings  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm ET
 **Where:** 130 Greene St, New York, NY 10012 · SoHo
-**Going:** 90 of 91
+**Going:** 90 of 92
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/KGSXQ79cHkBiKfGSa4J4
 **Map:** https://www.google.com/maps/search/?api=1&query=130%20Greene%20St%2C%20New%20York%2C%20NY%2010012
@@ -56,6 +57,7 @@ Expect an intimate room of founders, funders, and researchers shaping the future
 Wine and light bites will be served.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

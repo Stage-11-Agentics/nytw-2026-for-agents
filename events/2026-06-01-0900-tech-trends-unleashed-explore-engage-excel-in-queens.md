@@ -27,6 +27,7 @@ remaining_capacity: 209
 total_guest_count: 46
 approved_guest_count: 0
 local_image: "images/8NDpBHnUtRgzbjpPnFz6.png"
+canceled: false
 ---
 
 # Tech Trends Unleashed: Explore, Engage, Excel in Queens!
@@ -90,6 +91,7 @@ IT ecosystem to optimize your business for AI and the future. Hear from five loc
 Don't miss out on this opportunity to connect with local experts who can help your business flourish!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

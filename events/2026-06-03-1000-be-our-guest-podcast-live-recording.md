@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["ifCuPEreECpwECGyF9uD", "xqY9gNC7I1T2gDCtMRUnOCYdQD22", "zdtg4wZ0iTT9GPeERKo8F5edVp82", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 9
+total_guest_count: 10
 approved_guest_count: 3
 local_image: "images/QV9Nll6J0cO4WSUDjgZX.png"
+canceled: false
 ---
 
 # Be Our Guest: Podcast Live Recording
@@ -35,7 +36,7 @@ local_image: "images/QV9Nll6J0cO4WSUDjgZX.png"
 **Hosts:** Mikhail Agency  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 10:00am–5:00pm ET
 **Where:** 38 W 28th St, New York, NY 10001 · Flatiron
-**Going:** 8 of 9
+**Going:** 8 of 10
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/QV9Nll6J0cO4WSUDjgZX
 **Map:** https://www.google.com/maps/search/?api=1&query=38%20W%2028th%20St%2C%20New%20York%2C%20NY%2010001
@@ -72,6 +73,7 @@ Apply to be featured.
 Follow us at @mikhailagency on Instagram and LinkedIn
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

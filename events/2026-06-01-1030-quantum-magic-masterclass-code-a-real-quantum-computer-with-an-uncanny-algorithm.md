@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["ngH3uDjK0vMWaNZcIZo9", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 137
+total_guest_count: 140
 approved_guest_count: 123
 local_image: "images/F5Y6wtHv792PJDhV56MB.png"
+canceled: false
 ---
 
 # Quantum 'Magic' Masterclass: Code a Real Quantum Computer With an Uncanny Algorithm
@@ -36,7 +37,7 @@ local_image: "images/F5Y6wtHv792PJDhV56MB.png"
 **Hosts:** IBM  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 10:30am–11:30am ET
 **Where:** IBM One Madison Avenue · 1 Madison Ave, FL 2, New York, NY 10010 · Flatiron
-**Going:** 135 of 137
+**Going:** 135 of 140
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/F5Y6wtHv792PJDhV56MB
 **Map:** https://www.google.com/maps/search/?api=1&query=1%20Madison%20Ave%2C%20FL%202%2C%20New%20York%2C%20NY%2010010
@@ -62,6 +63,7 @@ This event is on a first-come, first-served basis. Attendees must be physically 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 IBM may take group photos or perform live streaming during the event for promotional purposes.
+
 
 
 

@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["QmczON71AST1BlfQEJX0XooC99u1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 205
+total_guest_count: 211
 approved_guest_count: 203
 local_image: "images/8ssFjGdjO5qbkmrNalai.jpg"
+canceled: false
 ---
 
 # Jobseeker Strategy for
@@ -33,7 +34,7 @@ local_image: "images/8ssFjGdjO5qbkmrNalai.jpg"
 **Hosts:** Clutch Talent  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 3:30pm–4:00pm ET
 **Where:** Virtual (NYC)
-**Going:** 205
+**Going:** 205 of 211
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/8ssFjGdjO5qbkmrNalai
 
@@ -69,6 +70,7 @@ Presenter: ​​​Jovena Natal is the founder of Clutch Talent, a tech recruit
 Clutch Talent is a boutique tech recruitment agency founded in NYC with a newly opened office in California. https://clutchtalent.com
 
 This event is a part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

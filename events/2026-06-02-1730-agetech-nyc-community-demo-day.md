@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["XFCkSFswVwgBs1BMEEufbrZQUXg1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 112
+total_guest_count: 114
 approved_guest_count: 0
 local_image: "images/mH8b6grSEnS9GCCZwU4N.png"
+canceled: false
 ---
 
 # AgeTech NYC Community Demo Day
@@ -33,7 +34,7 @@ local_image: "images/mH8b6grSEnS9GCCZwU4N.png"
 **Hosts:** AgeTech NYC  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:30pm–7:30pm ET
 **Where:** Chelsea
-**Going:** 112
+**Going:** 112 of 114
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/mH8b6grSEnS9GCCZwU4N
 
@@ -54,6 +55,7 @@ Join AgeTech NYC for a happy hour and community demo day for some of the hottest
 ​​​Whether you're looking to network, learn about AgeTech in NYC, or make new friends, you'll be in great company as we all work together to make NYC and beyond the best place to grow old!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -21,10 +21,11 @@ owner_count: 3
 owner_ids: ["yuBEiXmHPkho3J9n7HoxTroYTve2", "7DFu4rITofNzKIjA7hCx", "0cJrrMhAFAbFbVMyxV8T4mMtKOo1"]
 is_capped: true
 max_capacity: 30
-remaining_capacity: 7
-total_guest_count: 24
+remaining_capacity: 6
+total_guest_count: 25
 approved_guest_count: 0
 local_image: "images/wPTbroGTpsEN1J0YhZ7M.png"
+canceled: false
 ---
 
 # Game On: Engineering Night at Maybern
@@ -34,7 +35,7 @@ local_image: "images/wPTbroGTpsEN1J0YhZ7M.png"
 **Hosts:** Maybern  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:30pm ET
 **Where:** 10 Astor Pl, New York, NY 10003 · Union Square
-**Capacity:** capped at 30 · 23 taken, 7 remaining
+**Capacity:** capped at 30 · 24 taken, 6 remaining
 **RSVP:** https://partiful.com/e/wPTbroGTpsEN1J0YhZ7M
 **Map:** https://www.google.com/maps/search/?api=1&query=10%20Astor%20Pl%2C%20New%20York%2C%20NY%2010003
 
@@ -61,6 +62,7 @@ Join us on Thursday, June 4th at Maybern for Engineering Game Night — where pr
 ​Come for the games, stay for the community. Limited spots available!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

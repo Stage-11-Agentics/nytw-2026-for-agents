@@ -25,10 +25,11 @@ owner_count: 3
 owner_ids: ["d1LYA4knLbTHxKAXNZoe", "IYrzvljzHaPMRgSIBrchctx2NPT2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 300
-remaining_capacity: 241
-total_guest_count: 74
+remaining_capacity: 238
+total_guest_count: 77
 approved_guest_count: 0
 local_image: "images/mwJI3c1tucYhPsJ42QjE.jpg"
+canceled: false
 ---
 
 # AI Building in Law  #NYTechWeek @techweek
@@ -38,7 +39,7 @@ local_image: "images/mwJI3c1tucYhPsJ42QjE.jpg"
 **Hosts:** OOO a PC  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:30pm–8:00pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Flatiron
-**Capacity:** capped at 300 · 59 taken, 241 remaining
+**Capacity:** capped at 300 · 62 taken, 238 remaining
 **RSVP:** https://partiful.com/e/mwJI3c1tucYhPsJ42QjE
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
 
@@ -76,6 +77,7 @@ Chris Dzoba - Staff Software Engineer at GC AI. GC AI is an AI platform for in-h
 This event is a part of #NY TechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 Experts in Law, Engineering and operating sharing insights on the next frontier of Law and AI.
+
 
 
 

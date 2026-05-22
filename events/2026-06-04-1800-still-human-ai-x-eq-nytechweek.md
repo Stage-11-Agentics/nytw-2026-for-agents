@@ -22,9 +22,15 @@ is_capped: false
 total_guest_count: 76
 approved_guest_count: 49
 local_image: "images/yfRUBuGLEOBb8kY2O16s.png"
+canceled: true
+canceled_at: "2026-05-18T22:26:06.017Z"
+canceled_by: "0DHhF6hUO2MTPWRHR9XCqMvbTX42"
 ---
 
 # Still Human: AI x EQ - #NYTechWeek
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-18T22:26:06.017Z_
 
 ![Still Human: AI x EQ - #NYTechWeek](images/yfRUBuGLEOBb8kY2O16s.png)
 
@@ -62,6 +68,7 @@ We’re bringing together builders and product leaders working at the edge of AI
 If you care about building things in the age of AI that actually deepen connection, meaning, and belonging, this one's for you!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

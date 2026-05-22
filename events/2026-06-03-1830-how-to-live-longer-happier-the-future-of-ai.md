@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 12
 approved_guest_count: 1
 local_image: "images/DeSu8551onFwpwFq7tnW.png"
+canceled: false
 ---
 
 # How to Live Longer & Happier: The future of AI
@@ -62,6 +63,7 @@ Then we open the room in conversation, plus hands on access to moccet to explore
 Light refreshments, coffee, tea, matcha, and treats, courtesy of our sponsors.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

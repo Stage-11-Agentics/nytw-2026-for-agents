@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["2fWTeB3MdsQsy5ttwHemdYxrCK22", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 1113
-approved_guest_count: 127
+total_guest_count: 1115
+approved_guest_count: 129
 local_image: "images/SilVn4RefHTxrmE4dxa0.jpg"
+canceled: false
 ---
 
 # Coffee Chat Manhattan: 
@@ -36,7 +37,7 @@ Faith In Business!](images/SilVn4RefHTxrmE4dxa0.jpg)
 **Hosts:** Travelbay  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 10:00am ET
 **Where:** Manhattan · Manhattan, New York, NY · Upper Manhattan
-**Going:** 1113
+**Going:** 1113 of 1115
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/SilVn4RefHTxrmE4dxa0
 **Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -68,6 +69,7 @@ Join Builders, Backers & Believers! channel on WhatsApp: https://whatsapp.com/ch
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

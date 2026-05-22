@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["1QEi1eR2oUPQVjNnQTFUmqHxPEK2", "gZJOppCCCqVGYyiFQblUVWOcQIJ3", "7DFu4rITofNzKIjA7hCx", "ghiwgdcOQyRmTVeG6GpGpH8y0253"]
 is_capped: false
-total_guest_count: 94
-approved_guest_count: 51
+total_guest_count: 98
+approved_guest_count: 54
 local_image: "images/FHQzZG7KWORsvYyorbhQ.png"
+canceled: false
 ---
 
 # AEO + PR = Your Winning Comms Strategy
@@ -34,7 +35,7 @@ local_image: "images/FHQzZG7KWORsvYyorbhQ.png"
 **Hosts:** SUSO Digital, Kite Hill  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
 **Where:** Flatiron · Flatiron, Manhattan, New York, NY · Flatiron
-**Going:** 94
+**Going:** 94 of 98
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/FHQzZG7KWORsvYyorbhQ
 **Map:** https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -69,6 +70,7 @@ Time of Events
 Elevator and Accessibility - Please be advised that the event space is on the 2nd floor and does not have an elevator. Guests must utilize stairs to reach the event floor. If you require mobility assistance, please get in touch with ops@kitehillpr.com so that we can coordinate alternative entry, if available.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

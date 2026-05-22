@@ -25,10 +25,11 @@ owner_count: 2
 owner_ids: ["E7Z2q3cG3dXgIoJYG5gQeUxm0je2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 80
-remaining_capacity: 60
-total_guest_count: 24
-approved_guest_count: 20
+remaining_capacity: 58
+total_guest_count: 26
+approved_guest_count: 22
 local_image: "images/4Qp4a2zWqGDfkbMlBq59.png"
+canceled: false
 ---
 
 # Vibe Coding Meetup for Designers
@@ -38,7 +39,7 @@ local_image: "images/4Qp4a2zWqGDfkbMlBq59.png"
 **Hosts:** NYC Design Community  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 5:00pm–8:00pm ET
 **Where:** Pier 57 · 25 11th Ave, New York, NY 10011 · Meatpacking District
-**Capacity:** capped at 80 · 20 taken, 60 remaining
+**Capacity:** capped at 80 · 22 taken, 58 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/4Qp4a2zWqGDfkbMlBq59
 **Map:** https://www.google.com/maps/search/?api=1&query=25%2011th%20Ave%2C%20New%20York%2C%20NY%2010011
@@ -62,6 +63,7 @@ Outlets may be limited. Bring a charged laptop.
 By singing up to this event you are agreeing to be photographed, recorded, and adhere to our community guidelines 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

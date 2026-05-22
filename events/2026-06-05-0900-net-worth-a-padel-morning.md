@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["HYtKPsUbTaR5pm6pediBfFQgDCj2", "7DFu4rITofNzKIjA7hCx", "aePIFrBPOihpPW7wAGdrriodJKx1"]
 is_capped: false
-total_guest_count: 159
+total_guest_count: 160
 approved_guest_count: 0
 local_image: "images/DIYNw5DJj1QWLJxfDb4g.png"
+canceled: false
 ---
 
 # NET Worth - A padel morning
@@ -31,7 +32,7 @@ local_image: "images/DIYNw5DJj1QWLJxfDb4g.png"
 **Hosts:** Lyzr  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 9:00am ET
 **Where:** Brooklyn
-**Going:** 159
+**Going:** 159 of 160
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/DIYNw5DJj1QWLJxfDb4g
 
@@ -53,6 +54,7 @@ Post-game: coffee and a slow debrief in the lounge.
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

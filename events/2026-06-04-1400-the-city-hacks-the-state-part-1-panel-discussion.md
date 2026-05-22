@@ -26,9 +26,10 @@ owner_ids: ["dDZamIWfPeaomWI5OwK6ApngmL23", "zOaKIJaaTIWwCjMwoVuaFXWdblI2", "7DF
 is_capped: true
 max_capacity: 250
 remaining_capacity: 243
-total_guest_count: 19
+total_guest_count: 20
 approved_guest_count: 7
 local_image: "images/rYEwnDFPz3NvShbq76M1.jpg"
+canceled: false
 ---
 
 # The City Hacks the State: Part 1 - Panel Discussion
@@ -63,6 +64,7 @@ Rooftop Park Networking Reception · until sunset, overlooking the Hudson River
 Featured voices include Con Edison R&D and additional NYC & NY State agencies, utilities, and authorities — to be announced.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

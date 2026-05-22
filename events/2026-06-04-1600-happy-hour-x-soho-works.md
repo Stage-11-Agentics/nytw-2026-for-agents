@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["dmmojRcEgchU2EToC6nFcqVOLe52", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 28
-approved_guest_count: 19
+total_guest_count: 31
+approved_guest_count: 20
 local_image: "images/hDKxAgHY63MzSrmj4pv3.jpg"
+canceled: false
 ---
 
 # Happy Hour  x Soho Works
@@ -35,7 +36,7 @@ local_image: "images/hDKxAgHY63MzSrmj4pv3.jpg"
 **Hosts:** Tacos & Trends  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 4:00pm–6:00pm ET
 **Where:** 10 Jay St, Brooklyn, NY 11201 · Brooklyn
-**Going:** 28
+**Going:** 28 of 31
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/hDKxAgHY63MzSrmj4pv3
 **Map:** https://www.google.com/maps/search/?api=1&query=10%20Jay%20St%2C%20Brooklyn%2C%20NY%2011201
@@ -60,6 +61,7 @@ Stay for the conversation.
 RSVP to confirm your attendance. Spaces are limited - secure your spot today.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

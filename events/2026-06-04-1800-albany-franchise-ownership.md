@@ -28,6 +28,7 @@ remaining_capacity: 88
 total_guest_count: 12
 approved_guest_count: 0
 local_image: "images/oFvkD9veGJyteOs39NCl.png"
+canceled: false
 ---
 
 # Albany Franchise Ownership
@@ -65,6 +66,7 @@ Area 2 Farms (Oren Falkowitz): first robotic farm-franchise.
 ​Here are some snapshots into our events: https://www.linkedin.com/feed/update/urn:li:activity:7361040939223543810/?utm_source=luma
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

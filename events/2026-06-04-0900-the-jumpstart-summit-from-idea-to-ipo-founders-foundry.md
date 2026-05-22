@@ -25,8 +25,9 @@ owner_count: 3
 owner_ids: ["tE7LICkQZafgBQSpNPKippvXs4w1", "KhAGY5C1Glr1nqS4iAiz", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
 total_guest_count: 155
-approved_guest_count: 68
+approved_guest_count: 75
 local_image: "images/czmiYJieBfHBdYhrFy8Q.png"
+canceled: false
 ---
 
 # The JumpStart Summit: From Idea to IPO → Founders Foundry
@@ -58,6 +59,7 @@ The Founders Foundry is where preparation meets opportunity. Morning Labs runs i
 Complimentary food and beverages provided. 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

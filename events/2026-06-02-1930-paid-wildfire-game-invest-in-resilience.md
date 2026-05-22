@@ -21,10 +21,11 @@ owner_count: 2
 owner_ids: ["nS6usWdLKbcYjTGm7SotFn9pIh03", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 80
-total_guest_count: 20
+remaining_capacity: 79
+total_guest_count: 21
 approved_guest_count: 0
 local_image: "images/0Jl8b2j56m7sV5blh9YH.png"
+canceled: false
 ---
 
 # Paid Wildfire Game: Invest in Resilience
@@ -34,7 +35,7 @@ local_image: "images/0Jl8b2j56m7sV5blh9YH.png"
 **Hosts:** Optivide  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 7:30pm–10:00pm ET
 **Where:** Virtual (NYC)
-**Capacity:** capped at 100 · 20 taken, 80 remaining
+**Capacity:** capped at 100 · 21 taken, 79 remaining
 **RSVP:** https://partiful.com/e/0Jl8b2j56m7sV5blh9YH
 
 ### Hosts on Partiful
@@ -93,6 +94,7 @@ local_image: "images/0Jl8b2j56m7sV5blh9YH.png"
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

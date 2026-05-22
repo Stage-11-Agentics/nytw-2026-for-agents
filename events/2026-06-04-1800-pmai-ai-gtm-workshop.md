@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["vMiCBGZtVlfj7J2Y9uU6rLTOWdJ3", "7DFu4rITofNzKIjA7hCx", "OJWp88qFGSc3J8dGoWAn4zCQSZt1"]
 is_capped: false
-total_guest_count: 62
-approved_guest_count: 51
+total_guest_count: 66
+approved_guest_count: 62
 local_image: "images/Q50pWz1Jw0pVwULvZ8WA.png"
+canceled: false
 ---
 
 # PMAI: AI GTM Workshop
@@ -31,7 +32,7 @@ local_image: "images/Q50pWz1Jw0pVwULvZ8WA.png"
 **Hosts:** Pioneering Minds AI  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
 **Where:** Midtown
-**Going:** 62
+**Going:** 62 of 66
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Q50pWz1Jw0pVwULvZ8WA
 
@@ -89,6 +90,7 @@ Our mission is straightforward:
 ​​​Create Lasting Impact: Offer continued mentorship and post-event partnerships so promising concepts can scale beyond the weekend.
 
 ​​This event is part of #NYTechWeek — Techweek creates and curates engaging media, dynamic events and disruptive content on web, digital and interactive technology, bringing together diverse communities of entrepreneurs, corporate professionals and thought leaders. The ultimate goal of Techweek is to spotlight and enable innovation ecosystems.
+
 
 
 

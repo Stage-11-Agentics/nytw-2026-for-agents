@@ -26,9 +26,10 @@ owner_ids: ["cqoulyHd9CbpBVI1pQR2aGH0ZpG2", "qgw0HnD9FXStanimR4Zi65d5Cjy2", "7DF
 is_capped: true
 max_capacity: 100
 remaining_capacity: 11
-total_guest_count: 209
+total_guest_count: 211
 approved_guest_count: 89
 local_image: "images/Z2SAKZpOG6VHZvi1iTTl.jpg"
+canceled: false
 ---
 
 # Multimodal Hacks: build the interface for agents —
@@ -70,6 +71,7 @@ Teams of up to 3 people. To keep things fair and fresh, all projects must be sta
 We’re accepting people on a rolling basis.
 
 This event is part of #NYTechWeek— a week of events hosted by startups and VCs bringing together the tech ecosystem.
+
 
 
 

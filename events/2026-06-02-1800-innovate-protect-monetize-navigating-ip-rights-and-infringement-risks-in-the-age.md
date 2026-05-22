@@ -27,6 +27,7 @@ remaining_capacity: 0
 total_guest_count: 61
 approved_guest_count: 0
 local_image: "images/DZxBZ2Nm6CjxkgEaBImd.png"
+canceled: false
 ---
 
 # Innovate, protect, monetize: Navigating IP rights and infringement risks in the age of AI
@@ -74,6 +75,7 @@ Avoiding infringement: What tech businesses need to know
 Following the presentation, join us for drinks, conversation and networking.
  
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

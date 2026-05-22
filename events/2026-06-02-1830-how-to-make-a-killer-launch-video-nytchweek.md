@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["RJZVRzZi3cSjppiXz0IKIskZjG32", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 73
+total_guest_count: 74
 approved_guest_count: 41
 local_image: "images/O4PZsauSJxis3S3JB042.png"
+canceled: false
 ---
 
 # How to make a killer launch video - #NYTchWeek
@@ -33,7 +34,7 @@ local_image: "images/O4PZsauSJxis3S3JB042.png"
 **Hosts:** Boundless Creative  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:30pm ET
 **Where:** 68 Jay St, Brooklyn, NY 11201 · Brooklyn
-**Going:** 72 of 73
+**Going:** 72 of 74
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/O4PZsauSJxis3S3JB042
 **Map:** https://www.google.com/maps/search/?api=1&query=68%20Jay%20St%2C%20Brooklyn%2C%20NY%2011201
@@ -57,6 +58,7 @@ Now? We're gonna share our playbook.
 Make sure your launch lands. See you at Tech Week.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

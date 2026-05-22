@@ -22,9 +22,10 @@ owner_ids: ["Rykq0NxbG8wMbDrHobT7", "7DFu4rITofNzKIjA7hCx", "2CpflWZ2IDWFlHngLEj
 is_capped: true
 max_capacity: 600
 remaining_capacity: 574
-total_guest_count: 92
+total_guest_count: 93
 approved_guest_count: 0
 local_image: "images/ZLLtnhM5ojVy7KcNKdkS.jpg"
+canceled: false
 ---
 
 # HARMONEY PRESENTS TAP INTO FREQUENCY
@@ -62,6 +63,7 @@ Guests can expect:
 • Community-driven commerce and cultural storytelling
 
 Tickets sold at the door
+
 
 
 

@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["udAVeIzVLyY3S2rRAqmBlQ1RNva2", "7DFu4rITofNzKIjA7hCx", "oy2qbu0gVCGGXPgOCM2d"]
 is_capped: false
-total_guest_count: 174
+total_guest_count: 175
 approved_guest_count: 155
 local_image: "images/A3EUigoZVOvMZxIdbDyX.png"
+canceled: false
 ---
 
 # Go To Market Morning Mixer
@@ -33,7 +34,7 @@ local_image: "images/A3EUigoZVOvMZxIdbDyX.png"
 **Hosts:** Technology Founders of America  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 9:00am–11:00am ET
 **Where:** Union Square
-**Going:** 174
+**Going:** 174 of 175
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/A3EUigoZVOvMZxIdbDyX
 
@@ -57,6 +58,7 @@ Let's connect with other smart people, in between lunch & dinner
 No agenda.  Meet someone new
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

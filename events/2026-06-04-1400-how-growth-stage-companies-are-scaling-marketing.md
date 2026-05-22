@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["nu1faCARZVhoXRL85XZcnrpA7ST2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 591
+total_guest_count: 594
 approved_guest_count: 64
 local_image: "images/wMkipiKi9qhEhJC9uZSN.jpg"
+canceled: false
 ---
 
 # How Growth-Stage Companies Are Scaling Marketing
@@ -31,7 +32,7 @@ local_image: "images/wMkipiKi9qhEhJC9uZSN.jpg"
 **Hosts:** Azarian Growth Agency  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 2:00pm ET
 **Where:** Brooklyn
-**Going:** 591
+**Going:** 591 of 594
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/wMkipiKi9qhEhJC9uZSN
 
@@ -111,6 +112,7 @@ Hamlet also works directly with portfolio company marketing and leadership teams
 He has led 17 previous sessions in [A] Growth Lab webinar series, covering advanced Google Ads, Meta strategy, email infrastructure, server-side tracking, GEO, vibe marketing, and generative AI, consistently drawing senior marketing leaders who want operational depth, not surface-level overviews.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

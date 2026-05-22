@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["uH0wLtkpvkhfLqjI3Rg8PNhUrbR2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 85
+total_guest_count: 88
 approved_guest_count: 0
 image_download_error: "HTTP Error 403: Forbidden"
+canceled: false
 ---
 
 # AI for PR: Prompt to Power
@@ -33,7 +34,7 @@ image_download_error: "HTTP Error 403: Forbidden"
 **Hosts:** Intertwined Agency  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 12:00pm ET
 **Where:** 529 5th Ave, New York, NY 10017 · Union Square
-**Going:** 85
+**Going:** 85 of 88
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/RPGqcrnx3TRVKsBlSkgt
 **Map:** https://www.google.com/maps/search/?api=1&query=529%205th%20Ave%2C%20New%20York%2C%20NY%2010017
@@ -82,6 +83,7 @@ Exact location shared upon confirmation
 Presented By: Intertwined Agency
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

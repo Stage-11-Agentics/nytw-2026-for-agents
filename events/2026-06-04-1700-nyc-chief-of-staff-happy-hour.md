@@ -23,9 +23,10 @@ owner_ids: ["looLtqKx35NkNhNFW0xz", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 200
 remaining_capacity: 20
-total_guest_count: 191
+total_guest_count: 192
 approved_guest_count: 0
 local_image: "images/3C8IkdVR36fsPzTyJMGR.png"
+canceled: false
 ---
 
 # NYC Chief of Staff Happy Hour
@@ -55,6 +56,7 @@ Join us from 5 PM to 7 PM for an evening of connection, conversation, and celebr
 Come and meet some incredible peers, and be part of the growing Chief of Staff community in NYC 💜
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

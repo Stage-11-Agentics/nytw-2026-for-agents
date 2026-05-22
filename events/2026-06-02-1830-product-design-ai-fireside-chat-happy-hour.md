@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["GAdVqzuV6AfPGrb9JhxT", "DLEXJow4nPVhzsz0fxmzfaDzu8N2", "OphHdKO5HIdSD9kv2dJJUasM5V02", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 203
-approved_guest_count: 78
+total_guest_count: 208
+approved_guest_count: 100
 local_image: "images/wOTuzhuJUWQd4TTOkNjI.png"
+canceled: false
 ---
 
 # Product Design AI Fireside Chat  + Happy Hour
@@ -33,7 +34,7 @@ local_image: "images/wOTuzhuJUWQd4TTOkNjI.png"
 **Hosts:** Noon Design  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:30pm ET
 **Where:** 231 Hudson St, New York, NY, United States · Flatiron
-**Going:** 200 of 203
+**Going:** 200 of 208
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/wOTuzhuJUWQd4TTOkNjI
 **Map:** https://www.google.com/maps/search/?api=1&query=231%20Hudson%20St%2C%20New%20York%2C%20NY%2C%20United%20States
@@ -61,6 +62,7 @@ This event is hosted by Noon, the first design tool rebuilt from the ground up, 
 
 --
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

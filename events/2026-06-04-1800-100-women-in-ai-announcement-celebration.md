@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["evel6anepZH2W6Z8wVjw", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 446
+total_guest_count: 447
 approved_guest_count: 405
 local_image: "images/eBsvmOq8tMbpLuVWno0N.png"
+canceled: false
 ---
 
 # 100 Women in AI Announcement Celebration
@@ -36,7 +37,7 @@ local_image: "images/eBsvmOq8tMbpLuVWno0N.png"
 **Hosts:** Flybridge  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm–9:00pm ET
 **Where:** Nomad Tower · 1250 Broadway, New York, NY 10001 · Nomad
-**Going:** 444 of 446
+**Going:** 444 of 447
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/eBsvmOq8tMbpLuVWno0N
 **Map:** https://www.google.com/maps/search/?api=1&query=1250%20Broadway%2C%20New%20York%2C%20NY%2010001
@@ -52,6 +53,7 @@ local_image: "images/eBsvmOq8tMbpLuVWno0N.png"
 On June 4th, the 2026 Honorees for the "100 Women in AI" annual recognition list will be announced. Join us in NYC for a celebration with the nominees, honorees, and luminaries advancing artificial intelligence and lifting up the women making meaningful contributions across entrepreneurship, investing, technology, research, narrative and community building.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

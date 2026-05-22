@@ -26,9 +26,10 @@ owner_ids: ["KR4L2mVEOBfPvpD0RqHEAdR2bVi2", "7DFu4rITofNzKIjA7hCx", "Nf8NLvGsr8f
 is_capped: true
 max_capacity: 15
 remaining_capacity: 0
-total_guest_count: 47
+total_guest_count: 51
 approved_guest_count: 15
 local_image: "images/u7UgtF8gTKW9BOKuG7k8.jpg"
+canceled: false
 ---
 
 # Vesey Ventures & J.P. Morgan dinner: an evening of Agentic Commerce
@@ -56,6 +57,7 @@ local_image: "images/u7UgtF8gTKW9BOKuG7k8.jpg"
 Join us on the 51st floor of J.P. Morgan's iconic new NYC offices for an intimate dinner with fellow founders building in the agentic commerce space and JPM's Global Product Head for Biometric Payments and Agentic Commerce.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

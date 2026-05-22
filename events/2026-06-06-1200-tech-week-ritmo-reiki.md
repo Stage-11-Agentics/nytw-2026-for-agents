@@ -28,6 +28,7 @@ remaining_capacity: 12
 total_guest_count: 91
 approved_guest_count: 0
 local_image: "images/ZndEhiwL152GBxWRPdRD.png"
+canceled: false
 ---
 
 # Tech Week Ritmo & Reiki
@@ -81,6 +82,7 @@ Bring a friend and come move with us!
 
 This event is part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
 .
+
 
 
 

@@ -25,10 +25,11 @@ owner_count: 2
 owner_ids: ["pmncgABx4VMS6495WuBnCyPPsGP2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 9
-total_guest_count: 66
-approved_guest_count: 41
+remaining_capacity: 10
+total_guest_count: 67
+approved_guest_count: 40
 local_image: "images/ArxIzJCzN9uEAEpGvqOu.png"
+canceled: false
 ---
 
 # Power in Motion: Heels Dance Workshop for Women in Tech
@@ -38,7 +39,7 @@ local_image: "images/ArxIzJCzN9uEAEpGvqOu.png"
 **Hosts:** Ignite with Izzy  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 7:00pm–9:00pm ET
 **Where:** Ripley-Grier Studios · 520 Eighth Ave, New York, NY 10018 · Midtown
-**Capacity:** capped at 50 · 41 taken, 9 remaining
+**Capacity:** capped at 50 · 40 taken, 10 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ArxIzJCzN9uEAEpGvqOu
 **Map:** https://www.google.com/maps/search/?api=1&query=520%20Eighth%20Ave%2C%20New%20York%2C%20NY%2010018
@@ -86,6 +87,7 @@ Come for the class, stay for the connections you’ll make: with other women jus
 Limited spots available. 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

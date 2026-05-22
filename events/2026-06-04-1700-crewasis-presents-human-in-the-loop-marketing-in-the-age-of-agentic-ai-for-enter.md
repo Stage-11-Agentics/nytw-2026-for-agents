@@ -26,9 +26,10 @@ owner_ids: ["jp4yGVKjMETfzrXbSGstgxKnLtu2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 80
 remaining_capacity: 1
-total_guest_count: 84
+total_guest_count: 85
 approved_guest_count: 79
 local_image: "images/0686jCvpOQUbYoBTLKXh.png"
+canceled: false
 ---
 
 # CREWASIS Presents: Human in the Loop: Marketing in the Age of Agentic AI for Enterprise
@@ -100,6 +101,7 @@ Lite bites and refreshments will be served.
 
 SPONSOR:
 Moral Agency  https://wearemoral.co/about/
+
 
 
 

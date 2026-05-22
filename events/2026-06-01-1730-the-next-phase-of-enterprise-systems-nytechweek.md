@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["bNmRfYh05XU97WDNQOpOVd50sTn1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 221
-approved_guest_count: 212
+total_guest_count: 228
+approved_guest_count: 225
 local_image: "images/oNqXTMT4ntbsqL7PuZJ7.png"
+canceled: false
 ---
 
 # The Next Phase of Enterprise Systems
@@ -37,7 +38,7 @@ local_image: "images/oNqXTMT4ntbsqL7PuZJ7.png"
 **Hosts:** SAP, Insight Partners
 **When:** Monday, June 1, 2026 · 5:30pm–8:30pm ET
 **Where:** Hudson Yards, New York, NY 10001 · Hudson Yards
-**Going:** 221
+**Going:** 221 of 228
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/oNqXTMT4ntbsqL7PuZJ7
 **Map:** https://www.google.com/maps/search/?api=1&query=Hudson%20Yards%2C%20New%20York%2C%20NY%2010001
@@ -65,6 +66,7 @@ Hors d'oeuvres and drinks will be provided. Looking forward to seeing you there!
 Location will be sent out two days before the event via text through Partiful.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

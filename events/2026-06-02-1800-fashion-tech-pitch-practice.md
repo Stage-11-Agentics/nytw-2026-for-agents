@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 73
 approved_guest_count: 0
 local_image: "images/879TRtQv5hiyNbvqtea6.png"
+canceled: false
 ---
 
 # Fashion Tech Pitch Practice
@@ -83,6 +84,7 @@ https://thepatternmaker.substack.com/
 ---
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at [www.tech-week.com](http://www.tech-week.com/).
+
 
 
 

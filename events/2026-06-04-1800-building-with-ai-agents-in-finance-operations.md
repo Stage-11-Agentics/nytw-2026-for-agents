@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["dSDKH2UPElURb3pYEmwMLSKMu3u2", "7DFu4rITofNzKIjA7hCx", "xX3EbHstsFMcGQR0A8k1DjOOHju1"]
 is_capped: false
-total_guest_count: 176
+total_guest_count: 182
 approved_guest_count: 86
 local_image: "images/mfHRNATDYC48A1XIrUKM.png"
+canceled: false
 ---
 
 # Building with AI Agents in Finance Operations
@@ -33,7 +34,7 @@ local_image: "images/mfHRNATDYC48A1XIrUKM.png"
 **Hosts:** Zomma  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm–9:00pm ET
 **Where:** Flatiron
-**Going:** 174 of 176
+**Going:** 174 of 182
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/mfHRNATDYC48A1XIrUKM
 
@@ -61,6 +62,7 @@ We’re opening up the beta for Zomma Agent for this event.
 Zomma is an AI agent built for operational workflows. It handles the repetitive, cross-system work that lives between your applications. The workflows nobody owns, nobody documents, and everybody depends on.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

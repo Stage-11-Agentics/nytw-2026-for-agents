@@ -26,6 +26,7 @@ remaining_capacity: 96
 total_guest_count: 205
 approved_guest_count: 0
 local_image: "images/Jax5q2nEKzeH7VhmDvS3.png"
+canceled: false
 ---
 
 # NY Tech Week: First (Reality) Check
@@ -73,6 +74,7 @@ For The Firsts presents: First (Reality) Check
 ​​​​​​*This event will be photographed, and For the Firsts reserves the right to use photos and video from the event for marketing and communications purposes. By attending the event, you consent to the use of your image for these purposes.​
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

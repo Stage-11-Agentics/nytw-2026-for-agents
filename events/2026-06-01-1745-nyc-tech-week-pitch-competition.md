@@ -15,28 +15,30 @@ at_capacity: false
 going_guest_count: 386
 badges: []
 fetch_status: ok
-owner_count: 3
-owner_ids: ["TcqU5BM2tdcjY3xv7KoVEbzImxh2", "7DFu4rITofNzKIjA7hCx", "D4YtiHl4xrQqmXxFfhu2"]
+owner_count: 4
+owner_ids: ["TcqU5BM2tdcjY3xv7KoVEbzImxh2", "7DFu4rITofNzKIjA7hCx", "D4YtiHl4xrQqmXxFfhu2", "3fHxJPBO0OPey5tADMkFnlp8O7H3"]
 is_capped: false
-total_guest_count: 398
+total_guest_count: 406
 approved_guest_count: 0
 local_image: "images/t8YZUAfBPV56O8zW2dER.gif"
+canceled: false
 ---
 
 # NYC Tech Week Pitch Competition
 
 ![NYC Tech Week Pitch Competition](images/t8YZUAfBPV56O8zW2dER.gif)
 
-**Hosts:** Propel Earth  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** Propel Earth  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 5:45pm ET
 **Where:** Midtown
-**Going:** 386 of 398
+**Going:** 386 of 406
 **RSVP:** https://partiful.com/e/t8YZUAfBPV56O8zW2dER
 
 ### Hosts on Partiful
 
 - [Michael Jordan](https://partiful.com/u/TcqU5BM2tdcjY3xv7KoVEbzImxh2)
 - [Propel Earth](https://partiful.com/u/D4YtiHl4xrQqmXxFfhu2) — _Making impact radically accessible_
+- [Ark](https://partiful.com/u/3fHxJPBO0OPey5tADMkFnlp8O7H3) — _Founder of Ark the first in person social media._
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -45,6 +47,7 @@ local_image: "images/t8YZUAfBPV56O8zW2dER.gif"
 This event is a proper kickoff to NYC Tech Week with a Founder Pitch Competition!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

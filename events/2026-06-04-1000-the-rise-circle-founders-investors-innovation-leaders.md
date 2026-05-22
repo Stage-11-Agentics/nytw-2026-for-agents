@@ -22,10 +22,11 @@ owner_count: 2
 owner_ids: ["VmmtNUAAubaqXdp7WXsPbOf31L42", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 200
-remaining_capacity: 130
-total_guest_count: 78
-approved_guest_count: 70
+remaining_capacity: 121
+total_guest_count: 83
+approved_guest_count: 79
 local_image: "images/nuG19qqVmzUPc7lcUsHr.png"
+canceled: false
 ---
 
 # The Rise Circle: Founders, Investors & Innovation Leaders
@@ -35,7 +36,7 @@ local_image: "images/nuG19qqVmzUPc7lcUsHr.png"
 **Hosts:** African Women in STEM, Altruistic Scribe
 **When:** Thursday, June 4, 2026 · 10:00am–12:00pm ET
 **Where:** Midtown
-**Capacity:** capped at 200 · 70 taken, 130 remaining
+**Capacity:** capped at 200 · 79 taken, 121 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/nuG19qqVmzUPc7lcUsHr
 
@@ -70,6 +71,7 @@ ____________
 
 Interested in becoming a sponsor/ vendor for this event? Fill out the form below to apply. We are seeking partners who share our commitment to innovation, impact, and the people shaping what's next.
 http://bit.ly/4nk7c9E
+
 
 
 

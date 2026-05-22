@@ -20,9 +20,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["V4CTziWow3bdFHvg439Fyo2h72i2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 1168
+total_guest_count: 1171
 approved_guest_count: 0
 local_image: "images/epfr3IxCby4WezG4pIlW.png"
+canceled: false
 ---
 
 # Taco Tech Tuesday -#NYTechWeek🗽🌮
@@ -32,7 +33,7 @@ local_image: "images/epfr3IxCby4WezG4pIlW.png"
 **Hosts:** Taco Tech Tuesday  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:30pm–9:30pm ET
 **Where:** Midtown
-**Going:** 262 of 1168
+**Going:** 262 of 1171
 **RSVP:** https://partiful.com/e/epfr3IxCby4WezG4pIlW
 
 ### Hosts on Partiful
@@ -78,6 +79,7 @@ Schedule:
 Please bring a valid government-issued ID for building security check-in.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

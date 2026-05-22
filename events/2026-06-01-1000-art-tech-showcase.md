@@ -22,19 +22,25 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["Bcfd5MSEEHfW3A4yWV2bEiIXVSI2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 104
+total_guest_count: 103
 approved_guest_count: 0
 local_image: "images/IenfsGwJAOT1zkyDbOxu.png"
+canceled: true
+canceled_at: "2026-05-18T21:31:24.217Z"
+canceled_by: "Bcfd5MSEEHfW3A4yWV2bEiIXVSI2"
 ---
 
 # Art Tech Showcase
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-18T21:31:24.217Z_
 
 ![Art Tech Showcase](images/IenfsGwJAOT1zkyDbOxu.png)
 
 **Hosts:** Beat Brush Studios  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 10:00am–8:00pm ET
 **Where:** 32 Bridge St, Brooklyn, NY 11201 · Brooklyn
-**Going:** 74 of 104
+**Going:** 74 of 103
 **RSVP:** https://partiful.com/e/IenfsGwJAOT1zkyDbOxu
 **Map:** https://www.google.com/maps/search/?api=1&query=32%20Bridge%20St%2C%20Brooklyn%2C%20NY%2011201
 
@@ -55,6 +61,7 @@ It's a great 20 - 30 minute break in your day to see some awesome installations.
 Bring an open mind and a camera - this experience is not one to miss on your Tech Week journey.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

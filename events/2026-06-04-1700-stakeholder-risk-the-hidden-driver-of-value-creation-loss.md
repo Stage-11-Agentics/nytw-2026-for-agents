@@ -24,9 +24,15 @@ is_capped: false
 total_guest_count: 17
 approved_guest_count: 0
 local_image: "images/rHqfTd6Pxla6Sy7xkpkp.png"
+canceled: true
+canceled_at: "2026-05-12T16:50:57.825Z"
+canceled_by: "JWhsHkifBWPIyhMiY58OqCjOwxo1"
 ---
 
 # Stakeholder Risk: The Hidden Driver of Value Creation & Loss
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-12T16:50:57.825Z_
 
 ![Stakeholder Risk: The Hidden Driver of Value Creation & Loss](images/rHqfTd6Pxla6Sy7xkpkp.png)
 
@@ -84,6 +90,7 @@ HumanFactor Enterprises, the world leader in stakeholder risk intelligentce.
 The Vertical, an online publication covering the international venture ecosystem.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

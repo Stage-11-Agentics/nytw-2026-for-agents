@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["mKK66hLCd4gNXzEQDaASR9p4YQx2", "7DFu4rITofNzKIjA7hCx", "A0NJqWWjndPBI4bmH1StJlNZ2hg1", "NG0MffUhuqU9FLO8JCa1mcG9sAr2"]
 is_capped: false
-total_guest_count: 125
+total_guest_count: 126
 approved_guest_count: 8
 local_image: "images/7tw52yRkZ9wOQQGdxzjh.jpg"
+canceled: false
 ---
 
 # SOC Transformation: AI, Automation, and the Hard Choices Ahead- #NY TechWeek
@@ -31,7 +32,7 @@ local_image: "images/7tw52yRkZ9wOQQGdxzjh.jpg"
 **Hosts:** Command Zero, ZS  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 12:00pm ET
 **Where:** Financial District
-**Going:** 125
+**Going:** 125 of 126
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/7tw52yRkZ9wOQQGdxzjh
 
@@ -54,6 +55,7 @@ Description: Your SIEM bill keeps growing. Visibility across your environment is
 This session is a frank discussion about what SOC modernization actually looks like — not the pitch deck version. Three panelists, over 75 years of combined experience across enterprise security leadership and company building, will share what worked, what didn't, and what they'd do differently. Expect an honest look at the move away from legacy SIEM: the budget pressures, the operational complexity, and the real cost of getting it wrong.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

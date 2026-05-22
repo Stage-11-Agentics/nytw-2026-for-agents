@@ -24,9 +24,10 @@ owner_ids: ["HYtKPsUbTaR5pm6pediBfFQgDCj2", "7DFu4rITofNzKIjA7hCx", "aePIFrBPOih
 is_capped: true
 max_capacity: 10
 remaining_capacity: 9
-total_guest_count: 184
+total_guest_count: 186
 approved_guest_count: 1
 local_image: "images/FCICxMPNjXHXmSYNvQPn.png"
+canceled: false
 ---
 
 # Omakase - A Michelin-starred dinner with AI Leaders
@@ -66,6 +67,7 @@ Counter seating means no head of the table. Every voice carries. You'll leave fu
 By invitation only. Address shared with confirmed guests closer to the date. Kindly confirm by May 26.
 
 This event is a part of #NYTechWeek - a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

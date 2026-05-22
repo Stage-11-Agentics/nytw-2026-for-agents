@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["QjAQ7et3eKrudQ24m09Q", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 66
+total_guest_count: 69
 approved_guest_count: 57
 local_image: "images/tBeCQBUTILQSESj8hP3m.png"
+canceled: false
 ---
 
 # Brown Girls on the Rise
@@ -36,7 +37,7 @@ local_image: "images/tBeCQBUTILQSESj8hP3m.png"
 **Hosts:** American South Asian Network  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 5:00pm–6:30pm ET
 **Where:** Manhattan · Manhattan, New York, NY · Midtown
-**Going:** 66
+**Going:** 66 of 69
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/tBeCQBUTILQSESj8hP3m
 **Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -73,6 +74,7 @@ Bringing together founders, operators, and leaders, this panel goes beyond surfa
 https://www.instagram.com/asan.fyi https://www.linkedin.com/company/asanfyi
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

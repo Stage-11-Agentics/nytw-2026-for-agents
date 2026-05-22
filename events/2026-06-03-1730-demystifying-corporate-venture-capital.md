@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["JWhsHkifBWPIyhMiY58OqCjOwxo1", "7DFu4rITofNzKIjA7hCx", "3eKpXSYvOywwrXd2JCSV", "idMxr9xCMDUeoDD5WnFaDrkwURU2", "TO4HaoLJauXYqemS3rHRMttCQ3S2"]
 is_capped: false
-total_guest_count: 94
+total_guest_count: 96
 approved_guest_count: 86
 local_image: "images/CFX87WLiZbQpNWETbUcP.png"
+canceled: false
 ---
 
 # Demystifying
@@ -40,7 +41,7 @@ Venture Capital](images/CFX87WLiZbQpNWETbUcP.png)
 **Hosts:** The Vertical, Elpis Labs  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:30pm–9:00pm ET
 **Where:** Civic Hall · 124 E 14th St, New York, NY 10003 · Midtown
-**Going:** 94
+**Going:** 94 of 96
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/CFX87WLiZbQpNWETbUcP
 **Map:** https://www.google.com/maps/search/?api=1&query=124%20E%2014th%20St%2C%20New%20York%2C%20NY%2010003
@@ -94,6 +95,7 @@ Elpis Labs is a technology alignment and corporate to start up matchmaking servi
 The Vertical
 
 The Vertical is an online publication,  community platform, and event series focusing on international Tech in the U.S., including startups, VCs, and other building blocks of the venture ecosystem.
+
 
 
 

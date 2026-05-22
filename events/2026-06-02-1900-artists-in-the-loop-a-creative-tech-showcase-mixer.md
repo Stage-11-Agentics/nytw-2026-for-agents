@@ -22,10 +22,11 @@ owner_count: 2
 owner_ids: ["MxRFNJVPijfMSSeEhHJZQer3d742", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 11
-total_guest_count: 56
-approved_guest_count: 39
+remaining_capacity: 9
+total_guest_count: 57
+approved_guest_count: 41
 local_image: "images/J6lRK0aw273oGheEuqmm.png"
+canceled: false
 ---
 
 # Artists in the Loop: A Creative Tech Showcase + Mixer
@@ -35,7 +36,7 @@ local_image: "images/J6lRK0aw273oGheEuqmm.png"
 **Hosts:** Voxxy  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 7:00pm ET
 **Where:** 181 11th St, Brooklyn, NY 11215 · Brooklyn
-**Capacity:** capped at 50 · 39 taken, 11 remaining
+**Capacity:** capped at 50 · 41 taken, 9 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/J6lRK0aw273oGheEuqmm
 **Map:** https://www.google.com/maps/search/?api=1&query=181%2011th%20St%2C%20Brooklyn%2C%20NY%2011215
@@ -53,6 +54,7 @@ Three artists. Three practices. One night where the work comes off the screen an
 Artists in the Loop is a Brooklyn showcase of creative technologists exploring how innovative tools clear the operation obstacles from idea to finished piece, each walking the room through their process. Stay for the mixer. Come see where the loop begins.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

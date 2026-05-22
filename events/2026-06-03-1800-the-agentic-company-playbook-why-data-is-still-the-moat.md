@@ -25,6 +25,7 @@ remaining_capacity: 189
 total_guest_count: 12
 approved_guest_count: 0
 local_image: "images/TxqtiIE5vDlLmXeiRkDW.png"
+canceled: false
 ---
 
 # The Agentic Company Playbook: Why Data Is Still the Moat
@@ -52,6 +53,7 @@ Join us for a deep dive with Alessandro Pireno, a seasoned AI, data, and GTM lea
 The Agentic Company Playbook: Why Data Is Still the Moat explores how companies actually win in the AI era-beyond hype. We’ll break down how agentic systems change how businesses operate, and why proprietary, well-structured data remains the ultimate competitive advantage.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

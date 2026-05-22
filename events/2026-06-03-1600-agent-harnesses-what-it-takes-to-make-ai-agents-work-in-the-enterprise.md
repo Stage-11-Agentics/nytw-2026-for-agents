@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["ZEdbNotQwNjZkUY2Os2y", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 93
+total_guest_count: 97
 approved_guest_count: 0
 local_image: "images/2NP0rZW8BmdGAGUOEhGP.png"
+canceled: false
 ---
 
 # Agent Harnesses: What It Takes to Make AI Agents Work in the Enterprise
@@ -35,7 +36,7 @@ local_image: "images/2NP0rZW8BmdGAGUOEhGP.png"
 **Hosts:** STELLANS.io  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 4:00pm–9:00pm ET
 **Where:** Union Square W, New York, NY 10003 · Union Square
-**Going:** 93
+**Going:** 93 of 97
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/2NP0rZW8BmdGAGUOEhGP
 **Map:** https://www.google.com/maps/search/?api=1&query=Union%20Square%20W%2C%20New%20York%2C%20NY%2010003
@@ -56,6 +57,7 @@ The conversation will focus on real-world implementation questions: how teams de
 We are inviting engineering leaders, founders, product and platform teams, and anyone trying to understand where agent systems create real value today.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

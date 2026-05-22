@@ -21,9 +21,10 @@ owner_ids: ["I3x8IbKoWCakKZs0Xcg1ol9nr762", "o2meOCZYRdZ09wFQexRrdVcuboU2", "7DF
 is_capped: true
 max_capacity: 175
 remaining_capacity: 20
-total_guest_count: 286
+total_guest_count: 289
 approved_guest_count: 155
 local_image: "images/oXjXF7XulL335ng19B6b.png"
+canceled: false
 ---
 
 # Vega Presents: The +1 Party of the Summer
@@ -55,6 +56,7 @@ Requirements:
 3. Send your +1 this partiful
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

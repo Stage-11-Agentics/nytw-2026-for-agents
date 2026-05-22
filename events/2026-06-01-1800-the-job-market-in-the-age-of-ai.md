@@ -24,9 +24,10 @@ owner_ids: ["21pbqC443tbCuR6gckjmTMxhENF3", "YEooLYZxPtR4aNQ86I1kX6JDzIq1", "7DF
 is_capped: true
 max_capacity: 50
 remaining_capacity: 50
-total_guest_count: 146
+total_guest_count: 149
 approved_guest_count: 0
 local_image: "images/pBO053WMRiTeA0rADpmR.png"
+canceled: false
 ---
 
 # The job market in the age of AI
@@ -64,6 +65,7 @@ Andrea is a Partner at DHR Global (top 6 exec search firm), a Perplexity Fellow,
 Max Horton is a Director at Oakleaf Partnership, leading the firm’s New York office, specializing in executive search across the CPG, manufacturing and life-sciences sectors. With over a decade of experience in the talent market, he advises clients on hiring strategy, leadership trends and the impact of AI on workforce structure and capability needs.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

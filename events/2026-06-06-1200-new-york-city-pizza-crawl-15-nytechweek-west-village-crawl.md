@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["ikIF6kqsEwQ264DhWDd7YBjl1ig1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 132
-approved_guest_count: 92
+total_guest_count: 133
+approved_guest_count: 93
 local_image: "images/UcvDCeDT5tKas1H5sWSs.jpg"
+canceled: false
 ---
 
 # New York City Pizza Crawl #15- #NYTechWeek West Village Crawl
@@ -36,7 +37,7 @@ local_image: "images/UcvDCeDT5tKas1H5sWSs.jpg"
 **Hosts:** New York City Pizza Crawl  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 12:00pm–4:00pm ET
 **Where:** New York, NY · New York, NY · Greenwich Village
-**Going:** 131 of 132
+**Going:** 131 of 133
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/UcvDCeDT5tKas1H5sWSs
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -79,6 +80,7 @@ Subscribe to our event calendar for 2026 events: https://luma.com/newyorkcitypiz
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

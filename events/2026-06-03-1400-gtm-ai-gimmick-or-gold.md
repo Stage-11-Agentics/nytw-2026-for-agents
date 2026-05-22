@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["SQM4aA1EHyZRwozk3ljcK1AgE983", "PM0t58OCz1kg5yBM3zLy", "Rc3txsBZhqVmjdCnUf67Z4HBJVm1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 305
+total_guest_count: 306
 approved_guest_count: 73
 local_image: "images/WXKIsvQH11PGD8YwP1v9.png"
+canceled: false
 ---
 
 # GTM & AI: Gimmick or Gold?
@@ -31,7 +32,7 @@ local_image: "images/WXKIsvQH11PGD8YwP1v9.png"
 **Hosts:** Mucker Capital  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 2:00pm ET
 **Where:** Financial District
-**Going:** 305
+**Going:** 305 of 306
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/WXKIsvQH11PGD8YwP1v9
 
@@ -70,6 +71,7 @@ If you do not consent to being photographed or recorded, please withdraw your RS
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at
 
 www.tech-week.com
+
 
 
 

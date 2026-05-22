@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 58
 approved_guest_count: 0
 local_image: "images/QDVul6t9zZuHr6NvZYrF.png"
+canceled: false
 ---
 
 # Q2 2026 State of AI + AE (Autonomous Economy) & Investment Opportunities
@@ -68,6 +69,7 @@ Through Untapped Ventures, he has backed 35+ AI-native companies, including xAI,
 George works closely with founders at the pre-seed and seed stages on company building, positioning, and go-to-market, and is also the host of the Agentic podcast (www.agenticai.vc).
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

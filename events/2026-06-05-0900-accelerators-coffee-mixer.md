@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["k9o75egDXRZGkjxMT2fDaTGNjv52", "7DFu4rITofNzKIjA7hCx", "p0CHiRlRa2NsKPvgchmScvxjW8x2", "uF5ZdYUeI9S1VDwQLyuuuYNwWUg1", "UT45etjIdIMKwMrjgDaDCHmOzoV2"]
 is_capped: false
-total_guest_count: 115
-approved_guest_count: 30
+total_guest_count: 116
+approved_guest_count: 35
 local_image: "images/mXwYs3HTaa8IWKNrLTMy.png"
+canceled: false
 ---
 
 # Accelerators Coffee Mixer
@@ -31,7 +32,7 @@ local_image: "images/mXwYs3HTaa8IWKNrLTMy.png"
 **Hosts:** Colectivo  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 9:00am ET
 **Where:** SoHo
-**Going:** 113 of 115
+**Going:** 113 of 116
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/mXwYs3HTaa8IWKNrLTMy
 
@@ -53,6 +54,7 @@ The accelerator landscape is growing fast, but it's disconnected.
 Colombian coffee, a cool space in Soho, and the people running the programs that are backing the next generation of founders. This mixer brings together accelerator leaders, program managers, and the founders going through their programs into one room. The goal is simple: connect the programs, share what's working, and build direct pipelines between accelerators.
 
 Everyone's welcome — this one isn't just for the Latino ecosystem. If you're building, running, or investing through accelerators, pull up a chair.
+
 
 
 

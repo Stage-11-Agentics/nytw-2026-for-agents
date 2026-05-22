@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["o2Nq2vsWEnVxnmrD2dPKDH0JGup2", "7DFu4rITofNzKIjA7hCx", "KV92i7QyrNRGqCcQVpKAE5Ki7cF3"]
 is_capped: false
-total_guest_count: 234
+total_guest_count: 236
 approved_guest_count: 0
 local_image: "images/09a0qPKv0cSOIOSGxjTQ.jpg"
+canceled: false
 ---
 
 # Software for Hardware: The Tools Powering Robotics & Embodied AI
@@ -34,7 +35,7 @@ local_image: "images/09a0qPKv0cSOIOSGxjTQ.jpg"
 **Hosts:** New York Robotics, NY Tech Alliance  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:00pm ET
 **Where:** Civic Hall · 124 E 14th St, New York, NY 10003 · Union Square
-**Going:** 216 of 234
+**Going:** 216 of 236
 **RSVP:** https://partiful.com/e/09a0qPKv0cSOIOSGxjTQ
 **Map:** https://www.google.com/maps/search/?api=1&query=124%20E%2014th%20St%2C%20New%20York%2C%20NY%2010003
 
@@ -98,6 +99,7 @@ RSVP here, then complete registration + ticket purchase on Luma (required for en
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

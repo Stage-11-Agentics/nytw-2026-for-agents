@@ -21,10 +21,11 @@ owner_count: 2
 owner_ids: ["9LqnjQJpkqbv9GD1KirIelVJOkG2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 8
-total_guest_count: 42
+remaining_capacity: 7
+total_guest_count: 43
 approved_guest_count: 0
 local_image: "images/NIRmE2CXx6LigqpHaRzA.jpg"
+canceled: false
 ---
 
 # The US Expansion blueprint
@@ -34,7 +35,7 @@ local_image: "images/NIRmE2CXx6LigqpHaRzA.jpg"
 **Hosts:** Razorpay  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 3:00pm–5:00pm ET
 **Where:** Midtown
-**Capacity:** capped at 50 · 42 taken, 8 remaining
+**Capacity:** capped at 50 · 43 taken, 7 remaining
 **RSVP:** https://partiful.com/e/NIRmE2CXx6LigqpHaRzA
 
 ### Hosts on Partiful
@@ -46,6 +47,7 @@ local_image: "images/NIRmE2CXx6LigqpHaRzA.jpg"
 ## Description
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["va6ageZVG7LQbnrIm1gY", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 528
+total_guest_count: 539
 approved_guest_count: 152
 local_image: "images/zejQuL4V8LSSfgC67L5g.png"
+canceled: false
 ---
 
 # McKinsey x NY Tech Week: What actually drives AI value
@@ -36,7 +37,7 @@ local_image: "images/zejQuL4V8LSSfgC67L5g.png"
 **Hosts:** McKinsey & Co  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 2:00pm–4:30pm ET
 **Where:** Financial District · Financial District, Manhattan, New York, NY · Financial District
-**Going:** 526 of 528
+**Going:** 526 of 539
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/zejQuL4V8LSSfgC67L5g
 **Map:** https://www.google.com/maps/search/?api=1&query=Financial%20District%2C%20Financial%20District%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -56,6 +57,7 @@ This event is for founders and operators interested in how AI is changing growth
 Seats are limited. Registration does not guarantee admission, and attendance will be confirmed directly with approved guests. Venue details will be shared with confirmed attendees in advance of the event.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

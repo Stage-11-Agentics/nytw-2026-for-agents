@@ -28,6 +28,7 @@ remaining_capacity: 24
 total_guest_count: 43
 approved_guest_count: 0
 local_image: "images/TPCmxLhGC9iLmCdOVNKQ.png"
+canceled: false
 ---
 
 # #NYTechWeek Tech & Tranquility
@@ -72,6 +73,7 @@ Sahil Jain: Sahil Jain will be moderating the evening. He has worked in Uber as 
 The Venue: The Chai Spot is one of NYC's secret gems located in the vibrant neighborhood of LES. It is a cozy and unique tea shop that invited relaxation and has an extensive menu of traditional Chai! They also offer homemade snacks and cookies.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

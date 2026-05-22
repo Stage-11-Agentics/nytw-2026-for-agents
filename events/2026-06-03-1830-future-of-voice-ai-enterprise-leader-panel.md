@@ -29,6 +29,7 @@ remaining_capacity: 92
 total_guest_count: 61
 approved_guest_count: 58
 local_image: "images/7Py4iwQgSRIa0GchHpCF.jpg"
+canceled: false
 ---
 
 # Future of Voice AI - Enterprise Leader Panel
@@ -58,6 +59,7 @@ Creating remarkable experiences and sharing battle-tested insights for ambitious
 Join industry leaders for an exclusive panel on the future of Voice AI in the enterprise. Featuring insights from top innovators on scaling voice technology, implementation challenges, and next-gen applications.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

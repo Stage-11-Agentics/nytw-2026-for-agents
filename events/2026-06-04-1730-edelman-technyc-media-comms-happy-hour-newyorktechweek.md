@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["T0k0F6KmT1SKBzXFLeN1dn3IjMC2", "7DFu4rITofNzKIjA7hCx", "NC9fKW3ofwaqhZCwlwX5osgNQMp2", "48S5TDPdNBTUt0kp4MJS"]
 is_capped: false
-total_guest_count: 126
+total_guest_count: 129
 approved_guest_count: 46
 local_image: "images/6IyADQq5v84QxvH5HuAM.png"
+canceled: false
 ---
 
 # Edelman & Tech:NYC Media & Comms Happy Hour - #NewYorkTechWeek
@@ -34,7 +35,7 @@ local_image: "images/6IyADQq5v84QxvH5HuAM.png"
 **Hosts:** Edelman, Tech:NYC  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:30pm ET
 **Where:** SoHo · SoHo, Manhattan, New York, NY · SoHo
-**Going:** 124 of 126
+**Going:** 124 of 129
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/6IyADQq5v84QxvH5HuAM
 **Map:** https://www.google.com/maps/search/?api=1&query=SoHo%2C%20SoHo%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -58,6 +59,7 @@ Julie Samuels, President & CEO of Tech:NYC, will moderate a dynamic conversation
 Confirmed panelists include: Fortune, John Kell; Semafor, Rachyl Jones; Deep View, Sabina Ortiz; WSJ CIO Journal, Steve Rosenbush; LinkedIn News, Tanya Dua; NBC News, Jared Perlo
 
 This event is a part of #NewYorkTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

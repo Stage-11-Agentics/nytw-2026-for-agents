@@ -26,6 +26,7 @@ remaining_capacity: 32
 total_guest_count: 77
 approved_guest_count: 53
 local_image: "images/UBrZopzqpRwbn6Qk0npO.png"
+canceled: false
 ---
 
 # AI, Algorithms & Liability: What Tech Leaders & Creators Need to Know
@@ -56,6 +57,7 @@ For business owners and founders operating in spaces that intersect with the cre
 Panel led by Founder & Managing Partner Domenic Romano, alongside Entertainment Partner & Chair Novika Ishar. See more from Domenic and Novika here: https://www.romanolaw.com/the-firm/team/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["vN3ybX3b8Show8KJeZPc", "7DFu4rITofNzKIjA7hCx", "T3Zfg2KTRmb6WRo98CpjgcJGRHd2", "AV5mHZcD8bcmQJyIC18OQVe15Rw2"]
 is_capped: false
-total_guest_count: 1773
-approved_guest_count: 157
+total_guest_count: 1800
+approved_guest_count: 158
 local_image: "images/titPml1Nw0DKwGl9B6CF.png"
+canceled: false
 ---
 
 # Anthropic Founder Salon: Inside the AI-Native Era
@@ -33,7 +34,7 @@ local_image: "images/titPml1Nw0DKwGl9B6CF.png"
 **Hosts:** Anthropic  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 1:30pm–5:00pm ET
 **Where:** Chelsea
-**Going:** 1768 of 1773
+**Going:** 1768 of 1800
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/titPml1Nw0DKwGl9B6CF
 
@@ -68,6 +69,7 @@ Please Note: This is a limited-availability event requiring approval to attend.
 ___
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

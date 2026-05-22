@@ -22,10 +22,11 @@ owner_count: 2
 owner_ids: ["7u9n3UU3F1U2ODgOC2QcMULYiau2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 20
-remaining_capacity: 4
-total_guest_count: 19
+remaining_capacity: 2
+total_guest_count: 21
 approved_guest_count: 0
 local_image: "images/LfcdIfXJm6zJ4eEI2RaJ.jpg"
+canceled: false
 ---
 
 # Coffee & Walk: Turning Deep Tech IP into Ventures
@@ -35,7 +36,7 @@ local_image: "images/LfcdIfXJm6zJ4eEI2RaJ.jpg"
 **Hosts:** Koc University  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 8:00am–9:30am ET
 **Where:** Central Park
-**Capacity:** capped at 20 · 16 taken, 4 remaining
+**Capacity:** capped at 20 · 18 taken, 2 remaining
 **RSVP:** https://partiful.com/e/LfcdIfXJm6zJ4eEI2RaJ
 
 ### Hosts on Partiful
@@ -57,6 +58,7 @@ Expect practical discussions on accessing lab infrastructure, structuring ventur
 Meeting point: Sip and Co, 41 W 58th St, followed by a walk north into the park.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 50
 approved_guest_count: 17
 local_image: "images/uBOkf1NsfDwzdMne8E2B.png"
+canceled: false
 ---
 
 # Human Performance Innovation jog
@@ -53,6 +54,7 @@ local_image: "images/uBOkf1NsfDwzdMne8E2B.png"
 Founders, Funders, Operators, Scientists, Creators & Olympians at the edge of human performance innovation will get together for a conversation-paced 5-mile jog around Central Park. Meet us at 7 am at Tavern on the Green for prompt 7:10 departure. We will be back by 8 am to enjoy coffee and more conversations at Tavern's coffee shop.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

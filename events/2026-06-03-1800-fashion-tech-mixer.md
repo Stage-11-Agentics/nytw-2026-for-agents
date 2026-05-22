@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["lWFu5TNr5Qbh2fkKZzmDqNTwDfG2", "7DFu4rITofNzKIjA7hCx", "pwz2MotQoHZmHL6w0Pvjmd11ZJo2"]
 is_capped: false
-total_guest_count: 166
+total_guest_count: 167
 approved_guest_count: 36
 local_image: "images/27uya3lZ0qDGkfCiXGP5.png"
+canceled: false
 ---
 
 # Fashion Tech Mixer
@@ -33,7 +34,7 @@ local_image: "images/27uya3lZ0qDGkfCiXGP5.png"
 **Hosts:** The Pattern Maker  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–8:00pm ET
 **Where:** Chelsea
-**Going:** 165 of 166
+**Going:** 165 of 167
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/27uya3lZ0qDGkfCiXGP5
 
@@ -67,6 +68,7 @@ The Pattern Maker is a fashion tech publication and community run by former fash
 ---
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

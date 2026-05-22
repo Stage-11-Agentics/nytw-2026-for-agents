@@ -27,9 +27,18 @@ is_capped: false
 total_guest_count: 49
 approved_guest_count: 0
 local_image: "images/OUxJyD6iKq9FxninwLD5.png"
+canceled: true
+canceled_at: "2026-05-21T01:39:15.911Z"
+canceled_by: "RcZYCx8wBwdaaOqQxOvFYwfDzZr1"
+cancellation_message: "Apologies for having to cancel this event. Wishing you a productive and fun NY Tech Week!"
 ---
 
 # Space Builders & Billiards
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-21T01:39:15.911Z_  
+>  
+> Apologies for having to cancel this event. Wishing you a productive and fun NY Tech Week!
 
 ![Space Builders & Billiards](images/OUxJyD6iKq9FxninwLD5.png)
 
@@ -61,6 +70,7 @@ Expect:
 🥃 Food & drinks are self-covered
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

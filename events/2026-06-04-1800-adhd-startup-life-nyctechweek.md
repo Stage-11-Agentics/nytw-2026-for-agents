@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["EwBW3UX82NQg57apWX6V", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 70
+total_guest_count: 71
 approved_guest_count: 0
 local_image: "images/M9CYO508xMYhTkW9mphO.png"
+canceled: false
 ---
 
 # ADHD & Startup Life
@@ -36,7 +37,7 @@ local_image: "images/M9CYO508xMYhTkW9mphO.png"
 **Hosts:** Rho, M13
 **When:** Thursday, June 4, 2026 · 6:00pm–8:30pm ET
 **Where:** 419 Lafayette St, New York, NY 10003 · SoHo
-**Going:** 65 of 70
+**Going:** 65 of 71
 **RSVP:** https://partiful.com/e/M9CYO508xMYhTkW9mphO
 **Map:** https://www.google.com/maps/search/?api=1&query=419%20Lafayette%20St%2C%20New%20York%2C%20NY%2010003
 
@@ -57,6 +58,7 @@ Expect candid conversation, actionable insights, and a highly curated room of pe
 Space is limited and attendance is by application only. We’re prioritizing founders and technical leaders actively building and operating at scale to keep the conversation thoughtful, honest, and high-signal.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

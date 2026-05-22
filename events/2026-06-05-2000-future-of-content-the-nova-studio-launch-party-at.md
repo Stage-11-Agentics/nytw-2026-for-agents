@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["P33eXsSz2VCkZYCi2Vtz", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 108
+total_guest_count: 111
 approved_guest_count: 0
 local_image: "images/wLYY9WDfvCMooIwus7j4.png"
+canceled: false
 ---
 
 # Future of Content: The Nova Studio Launch Party at
@@ -34,7 +35,7 @@ local_image: "images/wLYY9WDfvCMooIwus7j4.png"
 **Hosts:** Insurgi Urban Concepts  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 8:00pm ET
 **Where:** New York, NY · New York, NY · Midtown
-**Going:** 107 of 108
+**Going:** 107 of 111
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/wLYY9WDfvCMooIwus7j4
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -56,6 +57,7 @@ No more fragmentation. No more burnout. Just pure, automated creativity that giv
 Come for the future of content; stay for the cocktails, hors d'oeuvres, and the best crowd in #NYTechWeek.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

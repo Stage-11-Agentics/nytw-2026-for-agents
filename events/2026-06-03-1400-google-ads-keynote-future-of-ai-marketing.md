@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 6
 owner_ids: ["rHxCovxMAacoEZ9KuJHPjAYLTDu2", "7DFu4rITofNzKIjA7hCx", "xpvIxjA7eha2VjlBr6k33rdhaaa2", "jYY4FSHvOINOTESXcxi37xmIqKg2", "UYuAoIBauwYSbU0yAop5YziWdL83", "A6QMGq8qSxO0ms2FI62s8LGwumO2"]
 is_capped: false
-total_guest_count: 138
+total_guest_count: 142
 approved_guest_count: 129
 local_image: "images/XtUAp0HilTDnyVQoiYXd.png"
+canceled: false
 ---
 
 # Google Ads Keynote: Future of AI Marketing
@@ -35,7 +36,7 @@ local_image: "images/XtUAp0HilTDnyVQoiYXd.png"
 **Hosts:** Google for Startups  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 2:00pm–3:15pm ET
 **Where:** 110 W 19th St, New York, NY 10011 · Chelsea
-**Going:** 138
+**Going:** 138 of 142
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/XtUAp0HilTDnyVQoiYXd
 **Map:** https://www.google.com/maps/search/?api=1&query=110%20W%2019th%20St%2C%20New%20York%2C%20NY%2010011
@@ -65,6 +66,7 @@ We expect these sessions to fill up quickly and be in high demand.  Space is lim
 Guests will be permitted in the Google for Startups Hub only during the time slot they are approved for.  
 
 We invite all guests to return for the Google For Developers Happy Hour at 4p.  Only those with valid badges will be permitted, space allowing.
+
 
 
 

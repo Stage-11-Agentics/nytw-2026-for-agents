@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["jpKaaGnq0cWjpW0bASyjSDq9RHA3", "7DFu4rITofNzKIjA7hCx", "iAy87r9BfJZ581vHH5fIcjL0ALH3"]
 is_capped: false
-total_guest_count: 23
+total_guest_count: 24
 approved_guest_count: 7
 local_image: "images/pmDosvwgBQPxLVDk8WWb.png"
+canceled: false
 ---
 
 # Fintech Engineers Happy Hour
@@ -36,7 +37,7 @@ local_image: "images/pmDosvwgBQPxLVDk8WWb.png"
 **Hosts:** Dots (YC S21)  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:00pm–9:00pm ET
 **Where:** SoHo · SoHo, Manhattan, New York, NY · SoHo
-**Going:** 23
+**Going:** 23 of 24
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/pmDosvwgBQPxLVDk8WWb
 **Map:** https://www.google.com/maps/search/?api=1&query=SoHo%2C%20SoHo%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -57,6 +58,7 @@ Come decompress with other engineers who get it. Whether you're at a startup wor
 Drinks, good company, and zero pitch decks. You deserve a break.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

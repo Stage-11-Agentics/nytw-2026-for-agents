@@ -22,6 +22,7 @@ is_capped: false
 total_guest_count: 27
 approved_guest_count: 20
 local_image: "images/rLezkpKZ3QRfCdlVcLF6.png"
+canceled: false
 ---
 
 # Proof Wins: The Future of Non-Profit Impact
@@ -46,6 +47,7 @@ local_image: "images/rLezkpKZ3QRfCdlVcLF6.png"
 See how nonprofits can turn mission into measurable proof at New York Tech Week with a live demo of MetriProof Impact Tracker. Discover how to capture participant data, track outcomes, manage budgets, and create powerful impact reports—all in one streamlined platform.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

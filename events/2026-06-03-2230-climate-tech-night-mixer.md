@@ -21,10 +21,11 @@ owner_count: 2
 owner_ids: ["nS6usWdLKbcYjTGm7SotFn9pIh03", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 32
-total_guest_count: 69
+remaining_capacity: 29
+total_guest_count: 73
 approved_guest_count: 0
 local_image: "images/BuMquvpz1sSqXQmYHgeC.png"
+canceled: false
 ---
 
 # Climate Tech Night Mixer
@@ -34,7 +35,7 @@ local_image: "images/BuMquvpz1sSqXQmYHgeC.png"
 **Hosts:** Optivide  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 10:30pm–12:00am ET
 **Where:** Virtual (NYC)
-**Capacity:** capped at 100 · 68 taken, 32 remaining
+**Capacity:** capped at 100 · 71 taken, 29 remaining
 **RSVP:** https://partiful.com/e/BuMquvpz1sSqXQmYHgeC
 
 ### Hosts on Partiful
@@ -81,6 +82,7 @@ Explore potential decision blind spots with our paid climate workshop here: htt
 
 About Tech Week
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

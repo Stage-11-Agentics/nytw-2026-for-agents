@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["JNsoj3jHmdKDqw13grBX", "e9WzwCwLkFdpaTg5GY6Q", "s3cbBeyMqjPiDJcdv70tKrq5WDz1", "7DFu4rITofNzKIjA7hCx", "663ubTjGFtfjQA4gsNwpxQYhqY23"]
 is_capped: false
-total_guest_count: 153
-approved_guest_count: 138
+total_guest_count: 155
+approved_guest_count: 148
 local_image: "images/hqc1Whoh5lLOU4ORC6tk.jpg"
+canceled: false
 ---
 
 # Founders/VCs Breakfast Mixer w/ Qapita & RemoFirst
@@ -34,7 +35,7 @@ local_image: "images/hqc1Whoh5lLOU4ORC6tk.jpg"
 **Hosts:** Remofirst, Qapita  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 9:30am ET
 **Where:** The Malin · 32 Mercer St, FL 3, New York, NY 10013 · Chinatown
-**Going:** 152 of 153
+**Going:** 152 of 155
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/hqc1Whoh5lLOU4ORC6tk
 **Map:** https://www.google.com/maps/search/?api=1&query=32%20Mercer%20St%2C%20FL%203%2C%20New%20York%2C%20NY%2010013
@@ -65,6 +66,7 @@ RemoFirst helps companies simplify global hiring and manage remote teams with ea
 wiggin(x) is the go-to legal partner for emerging companies and investors, providing full-stack legal support from formation through financing to exit, and every stage inbetween. 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

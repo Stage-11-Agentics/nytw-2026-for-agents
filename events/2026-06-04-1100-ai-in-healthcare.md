@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["JONkYWNRFlfUhMnhYCyTecNo1zl2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 206
-approved_guest_count: 200
+total_guest_count: 208
+approved_guest_count: 204
 local_image: "images/9XmSuiPSt1guAbEoiGeC.png"
+canceled: false
 ---
 
 # [AI in Healthcare]
@@ -31,7 +32,7 @@ local_image: "images/9XmSuiPSt1guAbEoiGeC.png"
 **Hosts:** MedPhone AI, Physician
 **When:** Thursday, June 4, 2026 · 11:00am ET
 **Where:** Virtual (NYC)
-**Going:** 206
+**Going:** 206 of 208
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/9XmSuiPSt1guAbEoiGeC
 
@@ -62,6 +63,7 @@ The future of AI-powered care operations
 Whether you’re a clinician curious about AI adoption, a healthcare leader exploring efficiency gains, or an investor interested in healthcare technology, this will be a candid, high-signal discussion with people building and using these tools today.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

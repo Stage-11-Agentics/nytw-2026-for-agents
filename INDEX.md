@@ -1,12 +1,14 @@
 # NY Tech Week 2026 — Index
 
-Auto-generated from `events/*.md` frontmatter. 1381 events. See `README.md` for schema.
+Auto-generated from `events/*.md` frontmatter. 1385 events. See `README.md` for schema.
 
 ## Summary
 
-- **Total events:** 1381
+- **Total events:** 1385
+- **Live events:** 1367
+- **Cancelled events:** 18 (see `## Cancelled` at bottom)
 - **Days covered:** 9
-- **Unique hosts:** 1154
+- **Unique hosts:** 1157
 - **Unique neighborhoods:** 32
 - **Events with incomplete data:** 7 (see `## Incomplete fetches` at bottom)
 
@@ -46,7 +48,6 @@ Vinyl House](events/2026-06-01-0900-mercury-vinyl-house.md) — *Mercury · SoHo
 - `  9:30am` [The Infrastructure Behind the Mission](events/2026-06-01-0930-the-infrastructure-behind-the-mission.md) — *Watch Her Win · Midtown*
 - `  9:30am` [Women Shaping the Future of AI](events/2026-06-01-0930-women-shaping-the-future-of-ai.md) — *Fenwick · Flatiron*
 - ` 10:00am` [AI x Investing : The Age of Agents](events/2026-06-01-1000-ai-x-investing-the-age-of-agents.md) — *Trade It, Public, OptionUp, Unusual Whales · Midtown*
-- ` 10:00am` [Art Tech Showcase](events/2026-06-01-1000-art-tech-showcase.md) — *Beat Brush Studios · Brooklyn*
 - ` 10:00am` [ATTAP (All Things to All People) Vibeathon & Agentathon](events/2026-06-01-1000-attap-all-things-to-all-people-vibeathon-agentathon.md) — *ATTAP-All Things to All People-attap.ai · Chelsea*
 - ` 10:00am` [Building Products That Scale Globally](events/2026-06-01-1000-building-products-that-scale-globally.md) — *Travelbay · Upper Manhattan*
 - ` 10:00am` [CEO Intern Public Service Entrepreneurship](events/2026-06-01-1000-ceo-intern-public-service-entrepreneurship.md) — *Comida For Familias, Inc. · Virtual (NYC)*
@@ -74,7 +75,6 @@ Vinyl House](events/2026-06-01-0900-mercury-vinyl-house.md) — *Mercury · SoHo
 - ` 11:30am` [It’s Not Capital - It’s Execution: Leadership Operating System Office Hours](events/2026-06-01-1130-its-not-capital-its-execution-leadership-operating-system-office-hours.md) — *Leap Leadership Solutions, LLC · Flatiron*
 - ` 12:00pm` [A Patent-Pending Party](events/2026-06-01-1200-a-patent-pending-party.md) — *moatly™, hubble · Midtown*
 - ` 12:00pm` [AI Startup Founders' Lunch hosted by Cherry Hill Advisory](events/2026-06-01-1200-ai-startup-founders-lunch-hosted-by-cherry-hill-advisory.md) — *Cherry Hill Advisory · Brooklyn*
-- ` 12:00pm` [If Your AI Can’t Talk and Act, It’s Broken - Agentic Voice Workshop](events/2026-06-01-1200-if-your-ai-cant-talk-and-act-its-broken-agentic-voice-workshop.md) — *Cloudonix, Inc · Financial District*
 - ` 12:00pm` [No ROI on Health Insurance? Make Health Pay Off. Join Us to Launch ionava 🚀 w/ Lunch @ SoulCycle](events/2026-06-01-1200-no-roi-on-health-insurance-make-health-pay-off-join-us-to-launch-ionava-w-lunch.md) — *ionava, Magentic · Tribeca*
 - ` 12:00pm` [Raisi: Daily Fundraising Sprint Room](events/2026-06-01-1200-raisi-daily-fundraising-sprint-room.md) — *Raisi · Lower East Side*
 - ` 12:00pm` [The 30 Min. Pitch Workshop for Figuring Out Your Hook](events/2026-06-01-1200-the-30-min-pitch-workshop-for-figuring-out-your-hook.md) — *Pitch Genius · Virtual (NYC)*
@@ -85,7 +85,6 @@ Auditable AI with Mellea.](events/2026-06-01-1230-generative-computing-mastercla
 - ` 12:30pm` [The AI & SaaS Pitch Clinic: The Neuroscience of Authority](events/2026-06-01-1230-the-ai-saas-pitch-clinic-the-neuroscience-of-authority.md) — *Jennifer Pawlitschek Consulting · Midtown*
 - ` 12:30pm` [The Six-Figure Mistakes International Founders Keep Making in the U.S.](events/2026-06-01-1230-the-six-figure-mistakes-international-founders-keep-making-in-the-us.md) — *Acclime, Herrick · Murray Hill*
 - ` 12:30pm` [Your Users Hate 2FA. (A Lunch & Learn w/ Vonage on AI Voice & Frictionless Authentication APIs)](events/2026-06-01-1230-your-users-hate-2fa-a-lunch-learn-w-vonage-on-ai-voice-frictionless-authenticati.md) — *Vonage · Tribeca*
-- `  1:00pm` [Agentic Voice Hackathon](events/2026-06-01-1300-agentic-voice-hackathon.md) — *Cloudonix, Inc · Financial District*
 - `  1:00pm` [Architecting a Borderless Life  + Travel Giveaway](events/2026-06-01-1300-architecting-a-borderless-life-travel-giveaway.md) — *Product Advisory Collective (PAC) · Virtual (NYC)*
 - `  1:00pm` [Live "Iron (AI) Chef" Vibe-Coding](events/2026-06-01-1300-live-iron-ai-chef-vibe-coding.md) — *Mucker Capital · Financial District*
 - `  1:00pm` [The Oasis @ NY Tech Week Day 1 - Human Flourishing](events/2026-06-01-1300-the-oasis-ny-tech-week-day-1-human-flourishing.md) — *Vibe Space, Flowstate, Boardy, AI Collective · Flatiron*
@@ -158,7 +157,6 @@ Happy Hour](events/2026-06-01-1700-what-ai-cant-fix-yet-happy-hour.md) — *Somn
 - `  5:30pm` [Last Call for Resumes](events/2026-06-01-1730-last-call-for-resumes.md) — *VCAR · Brooklyn*
 - `  5:30pm` [Leading HR Through the AI Revolution](events/2026-06-01-1730-leading-hr-through-the-ai-revolution.md) — *Bereisheet Tech · Financial District*
 - `  5:30pm` [LegalTech in the Age of AI: Opportunities, Challenges, and What's Next](events/2026-06-01-1730-legaltech-in-the-age-of-ai-opportunities-challenges-and-whats-next.md) — *Fox Rothschild LLP, GrayHair Venture Partners · Midtown*
-- `  5:30pm` [Stop Paying for Fake Users: A Workshop for Building an AI-stack for Fraud-proof Affiliate Growth](events/2026-06-01-1730-stop-paying-for-fake-users-a-workshop-for-building-an-ai-stack-for-fraud-proof-a.md) — *Konduit · Union Square*
 - `  5:30pm` [TECH NETWORKING MIXER](events/2026-06-01-1730-tech-networking-mixer.md) — *Cuculi · Midtown*
 - `  5:30pm` [Tech Red Flags](events/2026-06-01-1730-tech-red-flags.md) — *Bottleneck Technologies llc, Heart Arch Events · Midtown*
 - `  5:30pm` [The Next Phase of Enterprise Systems
@@ -208,6 +206,10 @@ From Academia to Funded Ventures](events/2026-06-01-1830-the-great-lab-exit-from
 - `  8:00pm` [Happy Hour with Verb](events/2026-06-01-2000-happy-hour-with-verb.md) — *Verb · Flatiron*
 - `  8:00pm` [NY Tech Week Opening After Party by Madeline & Co. + Excelsior Edge Ventures](events/2026-06-01-2000-ny-tech-week-opening-after-party-by-madeline-co-excelsior-edge-ventures.md) — *Excelsior Edge Ventures, Madeline & Co. · SoHo*
 - `  8:30pm` [Move Over Viral Dr. Pepper - Meet the Billion Views Creator-A Million Views for Brands & Creators](events/2026-06-01-2030-move-over-viral-dr-pepper-meet-the-billion-views-creator-a-million-views-for-bra.md) — *VCAR · Brooklyn*
+- ` 10:00am` ❌ ~~[Art Tech Showcase](events/2026-06-01-1000-art-tech-showcase.md)~~ — *Beat Brush Studios · Brooklyn*
+- ` 12:00pm` ❌ ~~[If Your AI Can’t Talk and Act, It’s Broken - Agentic Voice Workshop](events/2026-06-01-1200-if-your-ai-cant-talk-and-act-its-broken-agentic-voice-workshop.md)~~ — *Cloudonix, Inc · Financial District*
+- `  1:00pm` ❌ ~~[Agentic Voice Hackathon](events/2026-06-01-1300-agentic-voice-hackathon.md)~~ — *Cloudonix, Inc · Financial District*
+- `  5:30pm` ❌ ~~[Stop Paying for Fake Users: A Workshop for Building an AI-stack for Fraud-proof Affiliate Growth](events/2026-06-01-1730-stop-paying-for-fake-users-a-workshop-for-building-an-ai-stack-for-fraud-proof-a.md)~~ — *Konduit · Union Square*
 
 ### Tuesday, June 2 — 313 events
 
@@ -341,7 +343,6 @@ AT THE ALTAR](events/2026-06-02-1500-ny-tech-week-at-the-altar.md) — *The Alta
 - `  3:00pm` [OpenClaw for Investors (Amino Capital & UBS)](events/2026-06-02-1500-openclaw-for-investors-amino-capital-ubs.md) — *Amino Capital · Flatiron*
 - `  3:00pm` [Profit through Partnerships](events/2026-06-02-1500-profit-through-partnerships.md) — *Partner1, Microsoft · Midtown*
 - `  3:00pm` [Recess at Tech Week](events/2026-06-02-1500-recess-at-tech-week.md) — *Recess · Union Square*
-- `  3:00pm` [Signals in the Storm:  The Future of Public Safety](events/2026-06-02-1500-signals-in-the-storm-the-future-of-public-safety.md) — *NYSTEC · Union Square*
 - `  3:00pm` [Stand Out & Get Funded in the Age of AI](events/2026-06-02-1500-stand-out-get-funded-in-the-age-of-ai.md) — *Ellis Law Group · Midtown*
 - `  3:00pm` [The Great AI Divide: U.S., China vs the rest](events/2026-06-02-1500-the-great-ai-divide-us-china-vs-the-rest.md) — *Rest of World, Access Now, AI Now Institute · Chelsea*
 - `  3:00pm` [Whiskey Tasting at Bergdorf Goodman](events/2026-06-02-1500-whiskey-tasting-at-bergdorf-goodman.md) — *Serena Wang · Upper East Side*
@@ -453,7 +454,6 @@ Founders + Funders @ iHeartRadio HQ](events/2026-06-02-1730-consumer-crashout-th
 - `  6:00pm` [Consumer Happy Hour:
  Mayer Brown x Lerer Hippeau x Imaginary Ventures](events/2026-06-02-1800-consumer-happy-hour-mayer-brown-x-lerer-hippeau-x-imaginary-ventures.md) — *Mayer Brown LLP, Lerer Hippeau, Imaginary Ventures · SoHo*
 - `  6:00pm` [Cybersecurity Happy Hour by Dashlane](events/2026-06-02-1800-cybersecurity-happy-hour-by-dashlane.md) — *Dashlane · Union Square*
-- `  6:00pm` [Czech Startup Pitch Night](events/2026-06-02-1800-czech-startup-pitch-night.md) — *SOSA, CzechInvest · Upper East Side*
 - `  6:00pm` [Data, UX & Drinks](events/2026-06-02-1800-data-ux-drinks.md) — *STELLANS.io · Union Square*
 - `  6:00pm` [Databricks Ventures & Fenwick: Founders & Investors Happy Hour](events/2026-06-02-1800-databricks-ventures-fenwick-founders-investors-happy-hour.md) — *Databricks · Flatiron*
 - `  6:00pm` [/dev/color Panel & Mixer](events/2026-06-02-1800-devcolor-panel-mixer.md) — */dev/color · Midtown*
@@ -536,8 +536,10 @@ Founders + Funders @ iHeartRadio HQ](events/2026-06-02-1730-consumer-crashout-th
 - `  7:30pm` [Paid Wildfire Game: Invest in Resilience](events/2026-06-02-1930-paid-wildfire-game-invest-in-resilience.md) — *Optivide · Virtual (NYC)*
 - `  8:00pm` [Prediction Markets for Clinical Trials](events/2026-06-02-2000-prediction-markets-for-clinical-trials.md) — *EndpointArena.com · Union Square*
 - `  8:30pm` [Going Solo: GP Poker tournament](events/2026-06-02-2030-going-solo-gp-poker-tournament.md) — *Odin · Union Square*
+- `  3:00pm` ❌ ~~[Signals in the Storm:  The Future of Public Safety](events/2026-06-02-1500-signals-in-the-storm-the-future-of-public-safety.md)~~ — *NYSTEC · Union Square*
+- `  6:00pm` ❌ ~~[Czech Startup Pitch Night](events/2026-06-02-1800-czech-startup-pitch-night.md)~~ — *SOSA, CzechInvest · Upper East Side*
 
-### Wednesday, June 3 — 342 events
+### Wednesday, June 3 — 346 events
 
 - `  3:00am` [Agentic Finance Summit](events/2026-06-03-0300-agentic-finance-summit.md) — *Party Action People, Microsoft · SoHo*
 - `  6:30am` [Founders House Launch](events/2026-06-03-0630-founders-house-launch.md) — *Founders House · Midtown*
@@ -550,7 +552,7 @@ Founders + Funders @ iHeartRadio HQ](events/2026-06-02-1730-consumer-crashout-th
 - `  8:00am` [Community Awareness Recharge Event Day3](events/2026-06-03-0800-community-awareness-recharge-event-day3.md) — *POLLEN8 Technology, Inc, Die-Hard, Inc., Edge Studio · Midtown*
 - `  8:00am` [Concourse x a16z
 CFO Breakfast](events/2026-06-03-0800-concourse-x-a16z-cfo-breakfast.md) — *Concourse, a16z · Flatiron*
-- `  8:00am` [Femhack NYTechweek 2026](events/2026-06-03-0800-femhack-nytechweek-2026.md) — *Fierce Foundry · Nomad*
+- `  8:00am` [From Prototype to Production for Non-Technical Founders](events/2026-06-03-0800-from-prototype-to-production-for-non-technical-founders.md) — *Tequity · Flatiron*
 - `  8:00am` [GIDE Hackathon](events/2026-06-03-0800-gide-hackathon.md) — *Generative IDE, Perkins Coie · Midtown*
 - `  8:30am` [Bagels>Panels:  Physical AI x Robotics @ NY Tech Week](events/2026-06-03-0830-bagelspanels-physical-ai-x-robotics-ny-tech-week.md) — *Planeteer, Sightline, Blackhorn VC, Foley Hoag, Sightline Climate, Blackhorn Ventures, Foley Hoag LLP · Union Square*
 - `  8:30am` [Build Your Team for the Agentic Era](events/2026-06-03-0830-build-your-team-for-the-agentic-era.md) — *of All Trades, Genee · Midtown*
@@ -560,7 +562,6 @@ CFO Breakfast](events/2026-06-03-0800-concourse-x-a16z-cfo-breakfast.md) — *Co
 - `  8:30am` [QonfX - An Invite-Only Gathering of QA & Tech Leaders](events/2026-06-03-0830-qonfx-an-invite-only-gathering-of-qa-tech-leaders.md) — *The Test Tribe · Chelsea*
 - `  8:30am` [Roo Capital: Founder + Investor Breakfast](events/2026-06-03-0830-roo-capital-founder-investor-breakfast.md) — *Roo Capital · Meatpacking District*
 - `  8:30am` [The AI GTM Book Club](events/2026-06-03-0830-the-ai-gtm-book-club.md) — *Warrant · Chelsea*
-- `  8:30am` [The Founding Table: Brunch & Spa Experience](events/2026-06-03-0830-the-founding-table-brunch-spa-experience.md) — *Persona · Flatiron*
 - `  8:30am` [Women in Tech: Build your first AI workflow with Claude](events/2026-06-03-0830-women-in-tech-build-your-first-ai-workflow-with-claude.md) — *Webflow · Flatiron*
 - `  8:45am` [From Detection to Deployment:
 A New Era for Diabetic Foot Care](events/2026-06-03-0845-from-detection-to-deployment-a-new-era-for-diabetic-foot-care.md) — *Solecooler, Maison de la région Occitanie à New York · Central Park*
@@ -593,7 +594,6 @@ with Google](events/2026-06-03-1000-ai-upskilling-with-google.md) — *Colectivo
 - ` 10:00am` [Capital to Customers](events/2026-06-03-1000-capital-to-customers.md) — *Efficient Capital Labs, Carta, Zendesk · Upper Manhattan*
 - ` 10:00am` [Fast Growth, Real Pressure: Leading AI-Driven Organizations from fragmentation to alignment  –](events/2026-06-03-1000-fast-growth-real-pressure-leading-ai-driven-organizations-from-fragmentation-to.md) — *VERITAS QUEST · Nomad*
 - ` 10:00am` [Fireside chat w/ Bryan Kim by ElevenLabs and Verci](events/2026-06-03-1000-fireside-chat-w-bryan-kim-by-elevenlabs-and-verci.md) — *Verci, ElevenLabs · Flatiron*
-- ` 10:00am` [Healthcare & Self-Care, Bridging the Gap with ionava @ Yunara Life](events/2026-06-03-1000-healthcare-self-care-bridging-the-gap-with-ionava-yunara-life.md) — *Coeus Collective Ventures, ionava, Yunara Life · Gramercy Park*
 - ` 10:00am` [Just Breathe](events/2026-06-03-1000-just-breathe.md) — *Partytrick · Union Square*
 - ` 10:00am` [The (Ethical) Guide To (AI) Hacking](events/2026-06-03-1000-the-ethical-guide-to-ai-hacking.md) — *Tequity · Union Square*
 - ` 10:00am` [The Future of Work](events/2026-06-03-1000-the-future-of-work.md) — *Year Up United · Financial District*
@@ -700,6 +700,7 @@ Build World Class Learning Experiences with AI](events/2026-06-03-1500-from-cont
 - `  5:00pm` [🎤🎤 AI Pitch Night on Comedy Stage - An “Anti-Shark Tank” 🦈🦈](events/2026-06-03-1700-ai-pitch-night-on-comedy-stage-an-anti-shark-tank.md) — *Startup Intros, Ugly Talk, UpScaleX · Midtown*
 - `  5:00pm` [Become a Superhuman:
 Turn Hybrid-AI into Practical Success Cases](events/2026-06-03-1700-become-a-superhuman-turn-hybrid-ai-into-practical-success-cases.md) — *AxonJay, Belcham, Ernest NY · Nomad*
+- `  5:00pm` [Building the Responsible AI City](events/2026-06-03-1700-building-the-responsible-ai-city.md) — *AI2030 · Gramercy Park*
 - `  5:00pm` [Critical Mass: Volume Five](events/2026-06-03-1700-critical-mass-volume-five.md) — *Newlab · Brooklyn*
 - `  5:00pm` [Engineering Liquidity 
 in Late-Stage Venture](events/2026-06-03-1700-engineering-liquidity-in-late-stage-venture.md) — *Hartman Venture Advisors PLLC, Elevation Securities · Midtown*
@@ -759,6 +760,8 @@ A Reality Check on AI’s Next Frontier by ALLSIDES & NVIDIA](events/2026-06-03-
 - `  5:30pm` [Switchcraft — Build Your Own Keyboard (Anterior)](events/2026-06-03-1730-switchcraft-build-your-own-keyboard-anterior.md) — *Anterior · Midtown*
 - `  5:30pm` [Synth: The Network for Artists, Venues & Creators](events/2026-06-03-1730-synth-the-network-for-artists-venues-creators.md) — *Synth · Lower East Side*
 - `  5:30pm` [TCSI's Headshot Happy Hour](events/2026-06-03-1730-tcsis-headshot-happy-hour.md) — *The Cyber Security Intellects · Chelsea*
+- `  5:30pm` [Tessera Labs x a16z : The Closing Gap 
+(Private Dinner)](events/2026-06-03-1730-tessera-labs-x-a16z-the-closing-gap-private-dinner.md) — *Tessera Labs · Flatiron*
 - `  5:30pm` [The CTO Mixer: Humanizing Tech | #NYTechWeek Happy Hour](events/2026-06-03-1730-the-cto-mixer-humanizing-tech-nytechweek-happy-hour.md) — *Devlane, Merge Conflict · East Village*
 - `  5:30pm` [The Future of Work: AI for People Operations](events/2026-06-03-1730-the-future-of-work-ai-for-people-operations.md) — *HiBob · Flatiron*
 - `  5:30pm` [The Human Advantage with Timm Chiusano](events/2026-06-03-1730-the-human-advantage-with-timm-chiusano.md) — *The Shop Workspace, Chiusano & Daughter · Brooklyn*
@@ -780,7 +783,6 @@ A Reality Check on AI’s Next Frontier by ALLSIDES & NVIDIA](events/2026-06-03-
 - `  6:00pm` [Closing the Capital Gap: Female Founder x Investor Matchmaking for](events/2026-06-03-1800-closing-the-capital-gap-female-founder-x-investor-matchmaking-for.md) — *Fund Her Network · Midtown*
 - `  6:00pm` [Connect on Your LEVEL™](events/2026-06-03-1800-connect-on-your-level.md) — *Beau Monde Matchmaking, LEVEL™ · West Village*
 - `  6:00pm` [Creative Systems Happy Hour: AI for Commercial-Grade Design](events/2026-06-03-1800-creative-systems-happy-hour-ai-for-commercial-grade-design.md) — *Virse Labs · Flatiron*
-- `  6:00pm` [Cyber threats in the AI Era](events/2026-06-03-1800-cyber-threats-in-the-ai-era.md) — *How2Scale, Consulate General of Canada in New York · Midtown*
 - `  6:00pm` [Darkside AI Rooftop Soirée](events/2026-06-03-1800-darkside-ai-rooftop-soire.md) — *Darkside AI, YellowRocks.vc · Financial District*
 - `  6:00pm` [Data Center, Power & Enterprise Infrastructure Dinner](events/2026-06-03-1800-data-center-power-enterprise-infrastructure-dinner.md) — *Prosgrow AI, Inc · Central Park*
 - `  6:00pm` [Fashion Tech Mixer](events/2026-06-03-1800-fashion-tech-mixer.md) — *The Pattern Maker · Chelsea*
@@ -812,7 +814,6 @@ Breaking Into the U.S. Market](events/2026-06-03-1800-global-founder-meetup-brea
 - `  6:00pm` [Ramp x 8VC — Founders & Builders Night](events/2026-06-03-1800-ramp-x-8vc-founders-builders-night.md) — *Ramp, 8VC · Flatiron*
 - `  6:00pm` [Ramp x Litquidity Padel Club](events/2026-06-03-1800-ramp-x-litquidity-padel-club.md) — *Ramp, Palm & Park, Litquidity · Brooklyn*
 - `  6:00pm` [Scale AI | Human in the Loop LIVE](events/2026-06-03-1800-scale-ai-human-in-the-loop-live.md) — *Scale AI · Chelsea*
-- `  6:00pm` [Screened Out: AI Broke Hiring, What Now ?](events/2026-06-03-1800-screened-out-ai-broke-hiring-what-now.md) — *Our Wave · Flatiron*
 - `  6:00pm` [Series Tee](events/2026-06-03-1800-series-tee.md) — *Rillet · Chelsea*
 - `  6:00pm` [SGLang Happy Hour: AI Infra in Finance](events/2026-06-03-1800-sglang-happy-hour-ai-infra-in-finance.md) — *SGLang, HOF Capital, Arklex AI · SoHo*
 - `  6:00pm` [Slovak Startup Pitch Night](events/2026-06-03-1800-slovak-startup-pitch-night.md) — *SOSA, SARIO, Embassy of the Slovak Republic in Washington · Upper East Side*
@@ -838,6 +839,7 @@ Table](events/2026-06-03-1800-the-accelerator-table.md) — *AcceleratorCON · C
 - `  6:00pm` [The Table ✦ by Women in AI](events/2026-06-03-1800-the-table-by-women-in-ai.md) — *Women in AI · Flatiron*
 - `  6:00pm` [The Ultimate Marketing Trivia Night!](events/2026-06-03-1800-the-ultimate-marketing-trivia-night.md) — *Wistia · West Village*
 - `  6:00pm` [Translate Your BA Into a Tech Career](events/2026-06-03-1800-translate-your-ba-into-a-tech-career.md) — *Translating Your BA · Virtual (NYC)*
+- `  6:00pm` [Trust, Talent & AI in the Enterprise](events/2026-06-03-1800-trust-talent-ai-in-the-enterprise.md) — *Unlocked Consultancy · Midtown*
 - `  6:00pm` [Unclaimed: AI, Creator Wealth, and the Inventory the Industry Never Priced](events/2026-06-03-1800-unclaimed-ai-creator-wealth-and-the-inventory-the-industry-never-priced.md) — *FullScale Holdings · Midtown*
 - `  6:00pm` [Unicorn fintech founder AMA](events/2026-06-03-1800-unicorn-fintech-founder-ama.md) — *Inkle · SoHo*
 - `  6:00pm` [Vibe Camp](events/2026-06-03-1800-vibe-camp.md) — *Artificial Ventures · Brooklyn*
@@ -894,12 +896,17 @@ Panel & Happy Hour](events/2026-06-03-1830-work-hard-feel-good-how-to-build-a-te
 - `  7:30pm` [Kndrd Spirits: [Girls] Who Run The World](events/2026-06-03-1930-kndrd-spirits-girls-who-run-the-world.md) — *Kndrd · East Village*
 - `  8:00pm` [Founders Boat Party](events/2026-06-03-2000-founders-boat-party.md) — *Persona, Thera, Coinflow, Get Winner · SoHo*
 - `  8:00pm` [Free Phos, Real Convos. Agents in your DMs](events/2026-06-03-2000-free-phos-real-convos-agents-in-your-dms.md) — *Photon · Flatiron*
-- `  8:00pm` [Space Builders & Billiards](events/2026-06-03-2000-space-builders-billiards.md) — *Bespoken AI · Korea Town*
 - `  8:00pm` [The Afterparty (ft. Ian Asher)](events/2026-06-03-2000-the-afterparty-ft-ian-asher.md) — *Unicorner, Bolt.new, Flite · East Village*
 - `  8:30pm` [After Hours: Founders, Investors & Operators](events/2026-06-03-2030-after-hours-founders-investors-operators.md) — *Bulletpitch · West Village*
 - `  8:30pm` [Secret Boardy Party  #NY TechWeek](events/2026-06-03-2030-secret-boardy-party-ny-techweek.md) — *Boardy, Flowstate, AI Collective · Flatiron*
 - `  9:00pm` [Snark Tank Comedy](events/2026-06-03-2100-snark-tank-comedy.md) — *Live Different Comedy · East Village*
 - ` 10:30pm` [Climate Tech Night Mixer](events/2026-06-03-2230-climate-tech-night-mixer.md) — *Optivide · Virtual (NYC)*
+- `  8:00am` ❌ ~~[Femhack NYTechweek 2026](events/2026-06-03-0800-femhack-nytechweek-2026.md)~~ — *Fierce Foundry · Nomad*
+- `  8:30am` ❌ ~~[The Founding Table: Brunch & Spa Experience](events/2026-06-03-0830-the-founding-table-brunch-spa-experience.md)~~ — *Persona · Flatiron*
+- ` 10:00am` ❌ ~~[Healthcare & Self-Care, Bridging the Gap with ionava @ Yunara Life](events/2026-06-03-1000-healthcare-self-care-bridging-the-gap-with-ionava-yunara-life.md)~~ — *Coeus Collective Ventures, ionava, Yunara Life · Gramercy Park*
+- `  6:00pm` ❌ ~~[Cyber threats in the AI Era](events/2026-06-03-1800-cyber-threats-in-the-ai-era.md)~~ — *How2Scale, Consulate General of Canada in New York · Midtown*
+- `  6:00pm` ❌ ~~[Screened Out: AI Broke Hiring, What Now ?](events/2026-06-03-1800-screened-out-ai-broke-hiring-what-now.md)~~ — *Our Wave · Flatiron*
+- `  8:00pm` ❌ ~~[Space Builders & Billiards](events/2026-06-03-2000-space-builders-billiards.md)~~ — *Bespoken AI · Korea Town*
 
 ### Thursday, June 4 — 314 events
 
@@ -1061,7 +1068,6 @@ A private sunset sail with AI leaders](events/2026-06-04-1600-anchor-out-a-priva
 - `  5:00pm` [Prediction Markets Mixer](events/2026-06-04-1700-prediction-markets-mixer.md) — *FiftyOneAlpha · Financial District*
 - `  5:00pm` [Product Meetup by Lenny's Newsletter](events/2026-06-04-1700-product-meetup-by-lennys-newsletter.md) — *Friends of Lenny's Newsletter Community, Anvil, Clerk · Greenwich Village*
 - `  5:00pm` [SE Improv Night + Happy Hour](events/2026-06-04-1700-se-improv-night-happy-hour.md) — *Opine, Navattic · Midtown*
-- `  5:00pm` [Stakeholder Risk: The Hidden Driver of Value Creation & Loss](events/2026-06-04-1700-stakeholder-risk-the-hidden-driver-of-value-creation-loss.md) — *The Vertical, HumanFactor™ Enterprises · Midtown*
 - `  5:00pm` [The AI Effect: How Enterprises Are Actually Winning](events/2026-06-04-1700-the-ai-effect-how-enterprises-are-actually-winning.md) — *Kizen · Midtown*
 - `  5:00pm` [The Case for Open Generative Media: Bria X fal X LTX](events/2026-06-04-1700-the-case-for-open-generative-media-bria-x-fal-x-ltx.md) — *Bria, fal, LTX · Chelsea*
 - `  5:00pm` [The Messy Middle: From AI Promise to Clinical Reality](events/2026-06-04-1700-the-messy-middle-from-ai-promise-to-clinical-reality.md) — *8400 The Health Network, Lionbird · Union Square*
@@ -1074,7 +1080,6 @@ A private sunset sail with AI leaders](events/2026-06-04-1600-anchor-out-a-priva
 - `  5:30pm` [AI Ops in Action: Live Demos + Founder Showcases](events/2026-06-04-1730-ai-ops-in-action-live-demos-founder-showcases.md) — *AutoOpsStack, Brainstation, AI Networking Lab · SoHo*
 - `  5:30pm` [Barsys Tech Week Happy Hour](events/2026-06-04-1730-barsys-tech-week-happy-hour.md) — *Barsys · Midtown*
 - `  5:30pm` [Build Anywhere, Scale Everywhere: Global Founders Walk](events/2026-06-04-1730-build-anywhere-scale-everywhere-global-founders-walk.md) — *Afro Adventurer, christineolukere@gmail.com · SoHo*
-- `  5:30pm` [Build & Balance: Training With Your Biology](events/2026-06-04-1730-build-balance-training-with-your-biology.md) — *Pinkmatter, Sync N · Flatiron*
 - `  5:30pm` [Build Smarter Debaters: AI Debating Demo —](events/2026-06-04-1730-build-smarter-debaters-ai-debating-demo.md) — *Delta Speech And Debate · SoHo*
 - `  5:30pm` [Contech Alliance Trivia Happy Hour](events/2026-06-04-1730-contech-alliance-trivia-happy-hour.md) — *Contech Alliance · Midtown*
 - `  5:30pm` [Data + UX in the Reality of AI agents, synthetic users](events/2026-06-04-1730-data-ux-in-the-reality-of-ai-agents-synthetic-users.md) — *STELLANS.io · Union Square*
@@ -1158,14 +1163,12 @@ Rooftop Happy Hour](events/2026-06-04-1800-3rd-annual-vc-rooftop-happy-hour.md) 
 An immersive sound experience for futures thinking in the age of AI](events/2026-06-04-1800-slow-down-to-think-forward-an-immersive-sound-experience-for-futures-thinking-in.md) — *Yalla Now AI · SoHo*
 - `  6:00pm` [Soundcheck: Networking & Deals Insights for the Music Industry](events/2026-06-04-1800-soundcheck-networking-deals-insights-for-the-music-industry.md) — *PwC · Financial District*
 - `  6:00pm` [Steal These AI Workflows: Live Demos from NYC’s Top AI Builders](events/2026-06-04-1800-steal-these-ai-workflows-live-demos-from-nycs-top-ai-builders.md) — *Startup Grind · Union Square*
-- `  6:00pm` [Still Human: AI x EQ - #NYTechWeek](events/2026-06-04-1800-still-human-ai-x-eq-nytechweek.md) — *Lora · SoHo*
 - `  6:00pm` [Sunset Sips & Sushi with Female Founders and Execs](events/2026-06-04-1800-sunset-sips-sushi-with-female-founders-and-execs.md) — *JPMorgan, New Enterprise Associates · Union Square*
 - `  6:00pm` [The AI Amplification Effect: How Humans Thrive at Work](events/2026-06-04-1800-the-ai-amplification-effect-how-humans-thrive-at-work.md) — *Valutare, Seeking Floral Arrangements · Brooklyn*
 - `  6:00pm` [The AI Shift: Jobs, Skills & What Employers Really Want](events/2026-06-04-1800-the-ai-shift-jobs-skills-what-employers-really-want.md) — *VANGUARDE DIGITAL LLC · Midtown*
 - `  6:00pm` [The Business of Christian Technology](events/2026-06-04-1800-the-business-of-christian-technology.md) — *Christians*inTech · Financial District*
 - `  6:00pm` [The European Innovation Summit - TechCrunch & 13 Countries](events/2026-06-04-1800-the-european-innovation-summit-techcrunch-13-countries.md) — *How2Scale · Midtown*
 - `  6:00pm` [The Future of Tech: AI, Access & Who Gets Funded](events/2026-06-04-1800-the-future-of-tech-ai-access-who-gets-funded.md) — *Enpak · Queens*
-- `  6:00pm` [The New Arena: How Sports Are Driving Culture, Commerce, and Connection](events/2026-06-04-1800-the-new-arena-how-sports-are-driving-culture-commerce-and-connection.md) — *Capitalize VC, SickBird Production · Chelsea*
 - `  6:00pm` [The Rise Circle: After Hours](events/2026-06-04-1800-the-rise-circle-after-hours.md) — *African Women in STEM, Altruistic Scribe · Midtown*
 - `  6:00pm` [Tomato Tomato Party @ Ambrook](events/2026-06-04-1800-tomato-tomato-party-ambrook.md) — *Ambrook · SoHo*
 - `  6:00pm` [Venture Capital for enterprise leaders Happy Hour](events/2026-06-04-1800-venture-capital-for-enterprise-leaders-happy-hour.md) — *Collinear Capital · East Village*
@@ -1186,7 +1189,6 @@ An immersive sound experience for futures thinking in the age of AI](events/2026
 - `  6:30pm` [Rebuilding the Government's Front Door #NYCTechWeek](events/2026-06-04-1830-rebuilding-the-governments-front-door-nyctechweek.md) — *Kaizen Labs · Union Square*
 - `  6:30pm` [Somatic Wellness, Breathwork & Nervous System Regulation](events/2026-06-04-1830-somatic-wellness-breathwork-nervous-system-regulation.md) — *Somarae · Meatpacking District*
 - `  6:30pm` [South Asians in Tech](events/2026-06-04-1830-south-asians-in-tech.md) — *American South Asian Network (ASAN) · Midtown*
-- `  6:30pm` [Spawn Point: NYC Game Dev Night | AAA Fireside + Mixer](events/2026-06-04-1830-spawn-point-nyc-game-dev-night-aaa-fireside-mixer.md) — *Ozborn Interactive · East Village*
 - `  6:30pm` [Tech Tribe](events/2026-06-04-1830-tech-tribe.md) — *Irie Jam Media, Leader-ish Media Group · Brooklyn*
 - `  6:30pm` [The City at Play:
 Locamotive Tech in NYC](events/2026-06-04-1830-the-city-at-play-locamotive-tech-in-nyc.md) — *20Week Festival, Stoop Sets · Brooklyn*
@@ -1230,6 +1232,11 @@ Panel + Pitch Competition](events/2026-06-04-2000-raisi-x-forecastr-fundraising-
 - `  9:00pm` [Karaoke Capital: Founders & investors](events/2026-06-04-2100-karaoke-capital-founders-investors.md) — *Odin, Green Room · Union Square*
 - `  9:00pm` [The Reality of Compliance in 2026 - #NYCTechWeek](events/2026-06-04-2100-the-reality-of-compliance-in-2026-nyctechweek.md) — *SpeakUp · SoHo*
 - `  9:30pm` [Privacy Please](events/2026-06-04-2130-privacy-please.md) — *Boundless Network, Stellar Development Foundation · Tribeca*
+- `  5:00pm` ❌ ~~[Stakeholder Risk: The Hidden Driver of Value Creation & Loss](events/2026-06-04-1700-stakeholder-risk-the-hidden-driver-of-value-creation-loss.md)~~ — *The Vertical, HumanFactor™ Enterprises · Midtown*
+- `  5:30pm` ❌ ~~[Build & Balance: Training With Your Biology](events/2026-06-04-1730-build-balance-training-with-your-biology.md)~~ — *Pinkmatter, Sync N · Flatiron*
+- `  6:00pm` ❌ ~~[Still Human: AI x EQ - #NYTechWeek](events/2026-06-04-1800-still-human-ai-x-eq-nytechweek.md)~~ — *Lora · SoHo*
+- `  6:00pm` ❌ ~~[The New Arena: How Sports Are Driving Culture, Commerce, and Connection](events/2026-06-04-1800-the-new-arena-how-sports-are-driving-culture-commerce-and-connection.md)~~ — *Capitalize VC, SickBird Production · Chelsea*
+- `  6:30pm` ❌ ~~[Spawn Point: NYC Game Dev Night | AAA Fireside + Mixer](events/2026-06-04-1830-spawn-point-nyc-game-dev-night-aaa-fireside-mixer.md)~~ — *Ozborn Interactive · East Village*
 
 ### Friday, June 5 — 130 events
 
@@ -1272,7 +1279,6 @@ Hack-a-thon - #NYCPA](events/2026-06-05-0900-nycpa-hack-a-thon-nycpa.md) — *NY
 - ` 11:30am` [Female Founders Lunch](events/2026-06-05-1130-female-founders-lunch.md) — *Everywhere Ventures, Perkins Coie · Midtown*
 - ` 12:00pm` [AI-Native Services: Founders Panel –](events/2026-06-05-1200-ai-native-services-founders-panel.md) — *Elysian, Portage Ventures, BCG · Hudson Yards*
 - ` 12:00pm` [Diasporic Impact Tech: Revitalizing Millenary Solutions to Redefine How We Live and Interact](events/2026-06-05-1200-diasporic-impact-tech-revitalizing-millenary-solutions-to-redefine-how-we-live-a.md) — *GLOBAL PORTAL INSTITUTE, THE PORT GLOBAL · Virtual (NYC)*
-- ` 12:00pm` [Founders' Lunch hosted by Cherry Hill Advisory](events/2026-06-05-1200-founders-lunch-hosted-by-cherry-hill-advisory.md) — *Cherry Hill Advisory · SoHo*
 - ` 12:00pm` [Latinos & Latam in AI](events/2026-06-05-1200-latinos-latam-in-ai.md) — *Colectivo · SoHo*
 - ` 12:00pm` [Own Your Style with Storytelling and Fine-tuning](events/2026-06-05-1200-own-your-style-with-storytelling-and-fine-tuning.md) — *Underscore Animation, NA · Midtown*
 - ` 12:00pm` [Scaling Founder-led Sales on LinkedIn](events/2026-06-05-1200-scaling-founder-led-sales-on-linkedin.md) — *KRCG · Virtual (NYC)*
@@ -1367,6 +1373,7 @@ Hack-a-thon - #NYCPA](events/2026-06-05-0900-nycpa-hack-a-thon-nycpa.md) — *NY
 - `  9:00pm` [Above Fridays at PhD lounge by Stephen Michael Never Look Back](events/2026-06-05-2100-above-fridays-at-phd-lounge-by-stephen-michael-never-look-back.md) — *Propel Earth · Chelsea*
 - `  9:00pm` [Vega Presents: The +1 Party of the Summer](events/2026-06-05-2100-vega-presents-the-1-party-of-the-summer.md) — *Vega · SoHo*
 - ` 10:00pm` [The (T)echo Chamber Takeover |](events/2026-06-05-2200-the-techo-chamber-takeover.md) — *CMU T&E, IK Agba Inc. · Union Square*
+- ` 12:00pm` ❌ ~~[Founders' Lunch hosted by Cherry Hill Advisory](events/2026-06-05-1200-founders-lunch-hosted-by-cherry-hill-advisory.md)~~ — *Cherry Hill Advisory · SoHo*
 
 ### Saturday, June 6 — 68 events
 
@@ -1603,6 +1610,13 @@ A private sunset sail with AI leaders](events/2026-06-04-1600-anchor-out-a-priva
 - `2026-06-05 7:00pm` [Flow State: Dance, Rhythm & the Brain](events/2026-06-05-1900-flow-state-dance-rhythm-the-brain.md)
 - `2026-06-06 9:00am` [Brain Workout](events/2026-06-06-0900-brain-workout.md)
 
+### Tequity — 4 events
+
+- `2026-06-03 8:00am` [From Prototype to Production for Non-Technical Founders](events/2026-06-03-0800-from-prototype-to-production-for-non-technical-founders.md)
+- `2026-06-03 10:00am` [The (Ethical) Guide To (AI) Hacking](events/2026-06-03-1000-the-ethical-guide-to-ai-hacking.md)
+- `2026-06-04 9:00am` [How Humans Experience AI (Design Workshop) - #NYCTechWeek](events/2026-06-04-0900-how-humans-experience-ai-design-workshop-nyctechweek.md)
+- `2026-06-04 10:30am` [Bring Your Product. We'll Break It.](events/2026-06-04-1030-bring-your-product-well-break-it.md)
+
 ### Unicorner, Bolt.new — 4 events
 
 - `2026-06-03 11:00am` [Building the AI Concierge: A Bilt Fireside](events/2026-06-03-1100-building-the-ai-concierge-a-bilt-fireside.md)
@@ -1802,12 +1816,6 @@ for Agencies](events/2026-06-04-1730-practical-ai-for-agencies.md)
 - `2026-06-02 2:00pm` [Founders & Investors Afternoon Mixer](events/2026-06-02-1400-founders-investors-afternoon-mixer.md)
 - `2026-06-03 9:00am` [Go To Market Morning Mixer](events/2026-06-03-0900-go-to-market-morning-mixer.md)
 
-### Tequity — 3 events
-
-- `2026-06-03 10:00am` [The (Ethical) Guide To (AI) Hacking](events/2026-06-03-1000-the-ethical-guide-to-ai-hacking.md)
-- `2026-06-04 9:00am` [How Humans Experience AI (Design Workshop) - #NYCTechWeek](events/2026-06-04-0900-how-humans-experience-ai-design-workshop-nyctechweek.md)
-- `2026-06-04 10:30am` [Bring Your Product. We'll Break It.](events/2026-06-04-1030-bring-your-product-well-break-it.md)
-
 ### The Pattern Maker — 3 events
 
 - `2026-06-01 4:00pm` [Fashion Tech Panel Event @ FIT](events/2026-06-01-1600-fashion-tech-panel-event-fit.md)
@@ -1841,8 +1849,8 @@ Faith In Business!](events/2026-06-02-1000-coffee-chat-manhattan-faith-in-busine
 - **Chinatown** — 15 events
 - **East Village** — 34 events
 - **Financial District** — 75 events
-- **Flatiron** — 161 events
-- **Gramercy Park** — 6 events
+- **Flatiron** — 163 events
+- **Gramercy Park** — 7 events
 - **Greenwich Village** — 19 events
 - **Hudson Yards** — 20 events
 - **Kips Bay** — 1 events
@@ -1850,7 +1858,7 @@ Faith In Business!](events/2026-06-02-1000-coffee-chat-manhattan-faith-in-busine
 - **Long Island** — 2 events
 - **Lower East Side** — 36 events
 - **Meatpacking District** — 15 events
-- **Midtown** — 374 events
+- **Midtown** — 375 events
 - **Murray Hill** — 8 events
 - **Nomad** — 41 events
 - **Queens** — 12 events
@@ -1868,6 +1876,29 @@ Faith In Business!](events/2026-06-02-1000-coffee-chat-manhattan-faith-in-busine
 - **Evening** — 2 events
 - **Morning** — 3 events
 - **Sponsored** — 5 events
+
+## Cancelled
+
+18 events the hosts marked CANCELED on Partiful. Kept in the dataset so the URLs stay resolvable and downstream agents can see what was cancelled (and why).
+
+- `2026-06-01 10:00am` ~~[Art Tech Showcase](events/2026-06-01-1000-art-tech-showcase.md)~~ — *Beat Brush Studios*
+- `2026-06-01 12:00pm` ~~[If Your AI Can’t Talk and Act, It’s Broken - Agentic Voice Workshop](events/2026-06-01-1200-if-your-ai-cant-talk-and-act-its-broken-agentic-voice-workshop.md)~~ — *Cloudonix, Inc*
+- `2026-06-01 1:00pm` ~~[Agentic Voice Hackathon](events/2026-06-01-1300-agentic-voice-hackathon.md)~~ — *Cloudonix, Inc*
+- `2026-06-01 5:30pm` ~~[Stop Paying for Fake Users: A Workshop for Building an AI-stack for Fraud-proof Affiliate Growth](events/2026-06-01-1730-stop-paying-for-fake-users-a-workshop-for-building-an-ai-stack-for-fraud-proof-a.md)~~ — *Konduit*
+- `2026-06-02 3:00pm` ~~[Signals in the Storm:  The Future of Public Safety](events/2026-06-02-1500-signals-in-the-storm-the-future-of-public-safety.md)~~ — *NYSTEC*
+- `2026-06-02 6:00pm` ~~[Czech Startup Pitch Night](events/2026-06-02-1800-czech-startup-pitch-night.md)~~ — *SOSA, CzechInvest*
+- `2026-06-03 8:00am` ~~[Femhack NYTechweek 2026](events/2026-06-03-0800-femhack-nytechweek-2026.md)~~ — *Fierce Foundry*
+- `2026-06-03 8:30am` ~~[The Founding Table: Brunch & Spa Experience](events/2026-06-03-0830-the-founding-table-brunch-spa-experience.md)~~ — *Persona*
+- `2026-06-03 10:00am` ~~[Healthcare & Self-Care, Bridging the Gap with ionava @ Yunara Life](events/2026-06-03-1000-healthcare-self-care-bridging-the-gap-with-ionava-yunara-life.md)~~ — *Coeus Collective Ventures, ionava, Yunara Life*
+- `2026-06-03 6:00pm` ~~[Cyber threats in the AI Era](events/2026-06-03-1800-cyber-threats-in-the-ai-era.md)~~ — *How2Scale, Consulate General of Canada in New York*
+- `2026-06-03 6:00pm` ~~[Screened Out: AI Broke Hiring, What Now ?](events/2026-06-03-1800-screened-out-ai-broke-hiring-what-now.md)~~ — *Our Wave*
+- `2026-06-03 8:00pm` ~~[Space Builders & Billiards](events/2026-06-03-2000-space-builders-billiards.md)~~ — *Bespoken AI*
+- `2026-06-04 5:00pm` ~~[Stakeholder Risk: The Hidden Driver of Value Creation & Loss](events/2026-06-04-1700-stakeholder-risk-the-hidden-driver-of-value-creation-loss.md)~~ — *The Vertical, HumanFactor™ Enterprises*
+- `2026-06-04 5:30pm` ~~[Build & Balance: Training With Your Biology](events/2026-06-04-1730-build-balance-training-with-your-biology.md)~~ — *Pinkmatter, Sync N*
+- `2026-06-04 6:00pm` ~~[Still Human: AI x EQ - #NYTechWeek](events/2026-06-04-1800-still-human-ai-x-eq-nytechweek.md)~~ — *Lora*
+- `2026-06-04 6:00pm` ~~[The New Arena: How Sports Are Driving Culture, Commerce, and Connection](events/2026-06-04-1800-the-new-arena-how-sports-are-driving-culture-commerce-and-connection.md)~~ — *Capitalize VC, SickBird Production*
+- `2026-06-04 6:30pm` ~~[Spawn Point: NYC Game Dev Night | AAA Fireside + Mixer](events/2026-06-04-1830-spawn-point-nyc-game-dev-night-aaa-fireside-mixer.md)~~ — *Ozborn Interactive*
+- `2026-06-05 12:00pm` ~~[Founders' Lunch hosted by Cherry Hill Advisory](events/2026-06-05-1200-founders-lunch-hosted-by-cherry-hill-advisory.md)~~ — *Cherry Hill Advisory*
 
 ## Incomplete fetches
 

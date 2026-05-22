@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["a1LGFVkx4OXMD3UEk8jvdg0cClC3", "7DFu4rITofNzKIjA7hCx", "ymbSBF4fH5XOFmibfRiv2deK37i2", "ZqLH3YBh7qdoIhpIp8QyYEplmlI3"]
 is_capped: false
-total_guest_count: 116
-approved_guest_count: 102
+total_guest_count: 118
+approved_guest_count: 107
 local_image: "images/MJv2XcUotqaZ8mJWdnpj.png"
+canceled: false
 ---
 
 # Rebuilding the Government's Front Door #NYCTechWeek
@@ -33,7 +34,7 @@ local_image: "images/MJv2XcUotqaZ8mJWdnpj.png"
 **Hosts:** Kaizen Labs  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:30pm–8:00pm ET
 **Where:** Union Square
-**Going:** 115 of 116
+**Going:** 115 of 118
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/MJv2XcUotqaZ8mJWdnpj
 
@@ -54,6 +55,7 @@ Essential public services have been stuck in 1998 for too long. Americans deserv
 We build modern, AI-native software for local, state, and federal agencies. Today, our platform reaches 40 million residents across 50+ agencies in 17 states. Founded in 2022 and based in New York City, Kaizen has raised $35 million from NEA, a16z, Accel, 776, and Carpenter Capital. 
 
 This event is a part of #NYTechWeek - a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

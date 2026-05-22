@@ -21,9 +21,10 @@ owner_ids: ["Hm43nKp8tcZ9p8ociRv5", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 60
 remaining_capacity: 22
-total_guest_count: 44
+total_guest_count: 46
 approved_guest_count: 38
 local_image: "images/lSZgmttSVy4Eg93Di0Gr.png"
+canceled: false
 ---
 
 # Speaker Panel: Are We Building Better Lives?
@@ -63,6 +64,7 @@ Dr. Ece Tekbulut is a political philosopher and the founder of Thinking Through.
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

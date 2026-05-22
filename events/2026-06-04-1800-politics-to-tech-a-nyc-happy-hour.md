@@ -25,6 +25,7 @@ is_capped: false
 total_guest_count: 90
 approved_guest_count: 0
 local_image: "images/DcfibtJxRFnjfeZzA7PZ.jpg"
+canceled: false
 ---
 
 # Politics to Tech: A NYC Happy Hour
@@ -54,6 +55,7 @@ Hosted by Kate Cummings, Partner at EO Ventures.
 EO Ventures was founded by Bill Helman (ex-Greylock) and Roland Fryer (Harvard economist) to back companies that increase economic mobility in America.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

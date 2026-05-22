@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["SXWkVJMZ5ZYH5dFIoAUX6FBjR8B2", "J8A8HsDs1HeDy6ed6lBqlXJe1nv2", "7DFu4rITofNzKIjA7hCx", "OD7zz6lrbCOwwqE8FPCDXCgdw2O2"]
 is_capped: false
-total_guest_count: 61
-approved_guest_count: 30
+total_guest_count: 70
+approved_guest_count: 33
 image_download_error: "HTTP Error 403: Forbidden"
+canceled: false
 ---
 
 # Creators x Marketers Margarita Mixer
@@ -33,7 +34,7 @@ image_download_error: "HTTP Error 403: Forbidden"
 **Hosts:** Smooth Media  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:00pm–8:00pm ET
 **Where:** Chelsea
-**Going:** 59 of 61
+**Going:** 59 of 70
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/QMtFhbrAzUpHSHdfBM8O
 
@@ -65,6 +66,7 @@ Then we open it up. Mingle with the creators, swap notes with the marketers, dow
 This event is intentionally curated — tech marketers and creators. Come for the conversation, leave with a connection worth way more than the couple hours you spend with us.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

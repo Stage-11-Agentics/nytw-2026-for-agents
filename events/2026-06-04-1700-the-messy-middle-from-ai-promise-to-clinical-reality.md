@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["HnDQIBtbmvh5j2v0w6unPb26dHk2", "7DFu4rITofNzKIjA7hCx", "z9aUG5dc7NUUxnhagjtEbBw4vWl2"]
 is_capped: false
-total_guest_count: 114
+total_guest_count: 117
 approved_guest_count: 31
 local_image: "images/TRgVEVErU9GKEEvmPhKd.png"
+canceled: false
 ---
 
 # The Messy Middle: From AI Promise to Clinical Reality
@@ -31,7 +32,7 @@ local_image: "images/TRgVEVErU9GKEEvmPhKd.png"
 **Hosts:** 8400 The Health Network, Lionbird  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:00pm ET
 **Where:** Union Square
-**Going:** 113 of 114
+**Going:** 113 of 117
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/TRgVEVErU9GKEEvmPhKd
 
@@ -55,6 +56,7 @@ The conversation will address practical challenges such as integration into clin
 We will also feature a select group of companies working directly with healthcare organizations, sharing implementation lessons and insights from real-world deployments.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

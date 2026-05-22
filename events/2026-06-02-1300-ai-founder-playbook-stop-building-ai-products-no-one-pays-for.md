@@ -25,9 +25,10 @@ owner_ids: ["7azl6F6pHxMKqeIgHEzZlInvfgr2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 80
 remaining_capacity: 4
-total_guest_count: 347
+total_guest_count: 349
 approved_guest_count: 76
 local_image: "images/BUIddlD0RtN1sS7a67xa.png"
+canceled: false
 ---
 
 # AI Founder Playbook: Stop Building AI Products No One Pays For
@@ -87,6 +88,7 @@ Currently, CPO/CTO of Byte&Chord, advising the U.S. Department of Education on A
 Want the full 6 weeks or 1:1 product strategy support for yourself or your team? → https://aifounderplaybook.com
 
 This event is part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at https://www.tech-week.com.
+
 
 
 

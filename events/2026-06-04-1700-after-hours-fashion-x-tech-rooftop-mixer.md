@@ -28,6 +28,7 @@ remaining_capacity: 297
 total_guest_count: 642
 approved_guest_count: 0
 local_image: "images/ZefsGtWMJ6PuHQuOmOI3.png"
+canceled: false
 ---
 
 # After Hours: Fashion x Tech Rooftop Mixer
@@ -72,6 +73,7 @@ After a week of building, pitching, and learning — it’s time to unwind with 
 See you there.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

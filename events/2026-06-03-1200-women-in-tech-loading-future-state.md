@@ -25,9 +25,10 @@ owner_ids: ["SrnXjlGRiFZsoOh4FiiNw8nbqKS2", "7DFu4rITofNzKIjA7hCx", "nx4NHlAkTMe
 is_capped: true
 max_capacity: 600
 remaining_capacity: 503
-total_guest_count: 115
+total_guest_count: 120
 approved_guest_count: 97
 local_image: "images/xVRyFu1BuIaK3LIz6eyb.png"
+canceled: false
 ---
 
 # Women In Tech-Loading Future State
@@ -71,6 +72,7 @@ Let's unlock her together.
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

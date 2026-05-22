@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["ngH3uDjK0vMWaNZcIZo9", "7DFu4rITofNzKIjA7hCx", "Fqh8pYvgmabmQ5DYEyS8Q62Mm0R2", "48S5TDPdNBTUt0kp4MJS", "Nl7K3oqZDxehH4fKCySmsdz0IEl2"]
 is_capped: false
-total_guest_count: 847
+total_guest_count: 855
 approved_guest_count: 293
 image_download_error: "HTTP Error 403: Forbidden"
+canceled: false
 ---
 
 # The Future of Tech & Talent in NYC: A New Hub for Startups | Panel & Cocktail Reception
@@ -36,7 +37,7 @@ image_download_error: "HTTP Error 403: Forbidden"
 **Hosts:** IBM, Tech:NYC, Comcast Ventures  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 4:15pm–7:00pm ET
 **Where:** IBM One Madison Avenue · 1 Madison Ave, FL 2, New York, NY 10010 · Flatiron
-**Going:** 843 of 847
+**Going:** 843 of 855
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/M22GC4aLfY3Rf3wS80SR
 **Map:** https://www.google.com/maps/search/?api=1&query=1%20Madison%20Ave%2C%20FL%202%2C%20New%20York%2C%20NY%2010010
@@ -66,6 +67,7 @@ This event is on a first come, first served basis. Please arrive early to claim 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 IBM may take group photos or perform live streaming during the event for promotional purposes.
+
 
 
 

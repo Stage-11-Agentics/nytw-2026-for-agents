@@ -23,9 +23,10 @@ owner_ids: ["VyIDIJ7SAxYsjf9iTj9U7y3poaj1", "crZhYuR1YuNGW91Hm9TpUyZyaAG2", "kPw
 is_capped: true
 max_capacity: 30
 remaining_capacity: 25
-total_guest_count: 19
+total_guest_count: 20
 approved_guest_count: 5
 local_image: "images/ap7ihRX3qowb8OX2d7R2.jpg"
+canceled: false
 ---
 
 # Nordic AI  Luncheon #NYCTechWeek
@@ -53,6 +54,7 @@ local_image: "images/ap7ihRX3qowb8OX2d7R2.jpg"
 Leading Nordic AI startups meet investors at Cravath, Swaine & Moore. Cohosted by C10 Labs, Google and Borenius. Aimed at investors and corporate AI partnership leaders. 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

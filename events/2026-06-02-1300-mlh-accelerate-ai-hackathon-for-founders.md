@@ -26,6 +26,7 @@ remaining_capacity: 43
 total_guest_count: 9
 approved_guest_count: 7
 local_image: "images/MWGk8lDzyyBUFWW7Cv2f.png"
+canceled: false
 ---
 
 # MLH Accelerate - AI hackathon for founders
@@ -56,6 +57,7 @@ Founders need time to focus on learning, experimenting, and keeping up with AI. 
 Exact location will be shared with approved participants before the event.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

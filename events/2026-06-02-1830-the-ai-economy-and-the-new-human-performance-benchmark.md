@@ -27,6 +27,7 @@ remaining_capacity: 16
 total_guest_count: 45
 approved_guest_count: 0
 local_image: "images/I8n2nZDvvQZvMcpwPZWx.jpg"
+canceled: false
 ---
 
 # The AI Economy and the New Human Performance Benchmark
@@ -69,6 +70,7 @@ ___
 Sponsored by Atlas Primer • https://atlasprimer.com/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

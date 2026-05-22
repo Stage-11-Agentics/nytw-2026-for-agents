@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["lnC1pHUr0sZMUq45ji7t1ynDzAC2", "7DFu4rITofNzKIjA7hCx", "KkLukq1ZXwOjorBsd4DTRiek7aI2", "Es23ddwRfiW8PmoTtkTJpVVTNBq2", "8pXp7JMLL6OVG408gJc5"]
 is_capped: false
-total_guest_count: 532
-approved_guest_count: 69
+total_guest_count: 531
+approved_guest_count: 68
 local_image: "images/ilARL2exT4so55TVKWEW.png"
+canceled: false
 ---
 
 # Dear AI, We Need To Talk.
@@ -33,7 +34,7 @@ local_image: "images/ilARL2exT4so55TVKWEW.png"
 **Hosts:** Axioned  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 12:00pm–12:45pm ET
 **Where:** Gramercy Park
-**Going:** 532
+**Going:** 532 of 531
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ilARL2exT4so55TVKWEW
 
@@ -74,6 +75,7 @@ Three people who have been hands-on working with:
 * data, accuracy, and reliability challenges
 * scaling AI projects beyond the prototype stage
 * rescuing projects that stalled after leadership bought into the hype
+
 
 
 

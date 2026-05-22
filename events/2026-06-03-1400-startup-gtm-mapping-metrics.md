@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["ahVxpJsp11zKmHM2mZQq", "7DFu4rITofNzKIjA7hCx", "cf9875PKIt383yHcSMOb"]
 is_capped: false
-total_guest_count: 120
+total_guest_count: 121
 approved_guest_count: 0
 local_image: "images/MR78mhKL31baYtdbziHm.jpg"
+canceled: false
 ---
 
 # Startup GTM — Mapping + Metrics
@@ -33,7 +34,7 @@ local_image: "images/MR78mhKL31baYtdbziHm.jpg"
 **Hosts:** Pollen8, Die-Hard.io, Edge Studio
 **When:** Wednesday, June 3, 2026 · 2:00pm ET
 **Where:** Edge Studio Voice Over · 115 W 45th St, FL 8, New York, NY 10036 · Midtown
-**Going:** 112 of 120
+**Going:** 112 of 121
 **RSVP:** https://partiful.com/e/MR78mhKL31baYtdbziHm
 **Map:** https://www.google.com/maps/search/?api=1&query=115%20W%2045th%20St%2C%20FL%208%2C%20New%20York%2C%20NY%2010036
 
@@ -82,6 +83,7 @@ Insight into building repeatable growth loops
 Conversations with operators focused on scaling
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

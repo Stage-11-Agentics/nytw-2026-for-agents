@@ -23,9 +23,10 @@ owner_ids: ["66vAOZKqBQaOOWfOXwbGkB40zXi1", "7DFu4rITofNzKIjA7hCx", "kvqFWzRTYhh
 is_capped: true
 max_capacity: 120
 remaining_capacity: 36
-total_guest_count: 95
+total_guest_count: 98
 approved_guest_count: 84
 local_image: "images/KSKVdpcLANun9pXuG0m3.png"
+canceled: false
 ---
 
 # The New Stack: Balancing the Cap Table  for  Women-Led Wellness & Wearables
@@ -53,6 +54,7 @@ Join us for an exclusive, high-impact gathering designed for those redefining th
 We are bringing together a powerhouse room of serious investors and experienced founders to dismantle the status quo of the industry. Over a premium catered lunch, we will dive into the "Full Stack" approach to wellness and wearables—integrating technical excellence with equitable business foundations.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

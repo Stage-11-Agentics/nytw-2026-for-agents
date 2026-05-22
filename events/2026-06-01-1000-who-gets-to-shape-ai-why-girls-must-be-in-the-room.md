@@ -23,9 +23,10 @@ owner_ids: ["q7QrARjFTyIhSuNllV9W", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 300
 remaining_capacity: 0
-total_guest_count: 356
+total_guest_count: 363
 approved_guest_count: 0
 local_image: "images/9JBYSWrl1xooe9Oee17J.png"
+canceled: false
 ---
 
 # Who Gets to Shape AI? Why Girls Must Be in the Room
@@ -68,6 +69,7 @@ Dr. Jean Ryoo, Director of Research of the Computer Science Equity Project, UCLA
 Opening Remarks - Pamela Jacob, Corporate Social Responsibility Leader, North America, IBM
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

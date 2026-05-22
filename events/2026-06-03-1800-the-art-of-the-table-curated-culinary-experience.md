@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 50
 approved_guest_count: 0
 local_image: "images/Ab5lLaSZSFIEBGGIt19K.jpg"
+canceled: false
 ---
 
 # The Art of the Table Curated Culinary Experience
@@ -59,6 +60,7 @@ The Art of the Table is designed to foster connection through a shared, elevated
 Space is limited, and the guest list is curated. RSVP to secure your spot!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

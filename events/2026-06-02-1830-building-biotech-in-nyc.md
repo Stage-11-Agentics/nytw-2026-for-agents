@@ -23,9 +23,10 @@ owner_ids: ["rioKslZBpEerYt27DZJHgvzg5aN2", "7DFu4rITofNzKIjA7hCx", "kPwExLZNSY4
 is_capped: true
 max_capacity: 40
 remaining_capacity: -31
-total_guest_count: 257
+total_guest_count: 259
 approved_guest_count: 71
 local_image: "images/cBBgd3lO8pAgz6xYp3fi.png"
+canceled: false
 ---
 
 # Building Biotech in NYC
@@ -57,6 +58,7 @@ Building Biotech in NYC: From IP to Investment to Lab Space
 Join us for a dynamic panel discussion and networking event exploring what it takes to launch and scale a biotech or life science startup in New York City. Hear directly from founders, investors, patent counsel, and operators in the biotech/pharma space.  We’ll dive into early stage fundraising, patent portfolio development, and the realities of growing a science driven company in NYC’s rapidly expanding biotech ecosystem.  The conversation will be followed by networking.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

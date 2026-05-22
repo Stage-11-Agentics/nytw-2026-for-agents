@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["7cJz38YfvQf38RsWWMZoqV060W33", "7DFu4rITofNzKIjA7hCx", "vdLPkYfVgAZzhc1y0Q57CSP9AUt1", "gsn2kdZbA3lWuNpi4zji"]
 is_capped: false
-total_guest_count: 751
-approved_guest_count: 38
+total_guest_count: 750
+approved_guest_count: 39
 local_image: "images/1FFSWMPK1VyrAatMRp0s.png"
+canceled: false
 ---
 
 # Billion Oyster Project Field Trip
@@ -33,7 +34,7 @@ local_image: "images/1FFSWMPK1VyrAatMRp0s.png"
 **Hosts:** Ambrook, Casa de Tilda  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 5:00pm–8:00pm ET
 **Where:** Financial District
-**Going:** 751
+**Going:** 751 of 750
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/1FFSWMPK1VyrAatMRp0s
 
@@ -60,6 +61,7 @@ Tickets start at $85. All proceeds will be donated to the Billion Oyster Project
 There's a lot of tech in oysters. Read more about the intertwining roles of oysters, humans, and cities: https://ambrook.com/offrange/environment/the-new-shell-collectors
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

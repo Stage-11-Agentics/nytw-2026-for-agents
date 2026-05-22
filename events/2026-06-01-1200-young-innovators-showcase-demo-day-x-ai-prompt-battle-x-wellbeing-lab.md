@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 51
 approved_guest_count: 41
 local_image: "images/QKl9xqtTykyORMM50ifg.png"
+canceled: false
 ---
 
 # Young Innovators Showcase : Demo Day x AI Prompt Battle x Wellbeing Lab
@@ -73,6 +74,7 @@ If this isn't for you, it's for someone you know. The college student in your ci
 Register above. See you on June 1st.
 Under 18 attendees must have parental consent to attend this event. 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

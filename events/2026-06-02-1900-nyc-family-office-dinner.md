@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["uUrmzwgWzXOxIACnio8Ds9PY6zq2", "DQBW9YV8B4VD7jp5Ke3h", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 42
+total_guest_count: 46
 approved_guest_count: 11
 local_image: "images/h9bpa3i5jWUubKb7BpcQ.png"
+canceled: false
 ---
 
 # NYC Family Office Dinner
@@ -31,7 +32,7 @@ local_image: "images/h9bpa3i5jWUubKb7BpcQ.png"
 **Hosts:** Generous Ventures, O'Shaughnessy Ventures  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 7:00pm ET
 **Where:** Midtown
-**Going:** 40 of 42
+**Going:** 40 of 46
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/h9bpa3i5jWUubKb7BpcQ
 
@@ -47,6 +48,7 @@ local_image: "images/h9bpa3i5jWUubKb7BpcQ.png"
 Come meet NYC's family offices and those visiting for NYC Tech Week at this dinner, hosted by O'Shaughnessy Ventures and Mike MacCombie. This is the third year of hosting this dinner during NYC tech week. It will be a standing gathering for the first half hour, a seated dinner for the attendees to meet each other, and then an optional gathering for a larger group of FOs to continue the conversation afterwards. It is strictly curated for members of families with active startup investing practices, or full time investors at family offices with venture strategies.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

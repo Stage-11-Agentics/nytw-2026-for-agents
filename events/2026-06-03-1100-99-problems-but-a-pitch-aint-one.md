@@ -23,9 +23,10 @@ owner_ids: ["ZoILA8qyQrgbww8FVIqekTXbJSL2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 40
 remaining_capacity: 40
-total_guest_count: 58
+total_guest_count: 59
 approved_guest_count: 0
 local_image: "images/5GuSYgXUVmGLyAH9zHIQ.png"
+canceled: false
 ---
 
 # 99 Problems But a Pitch Ain't One
@@ -60,6 +61,7 @@ Over the past four years, he has been the go-to advisor for organizations includ
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -23,9 +23,10 @@ owner_ids: ["n7OnUZm5XlHfD78jX1mu", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
 remaining_capacity: 28
-total_guest_count: 100
+total_guest_count: 101
 approved_guest_count: 22
 local_image: "images/8j2aEOaE2GIi1b08Kw5m.png"
+canceled: false
 ---
 
 # Clair Health: Living in Clarity
@@ -55,6 +56,7 @@ Set inside The Altar, a health club, centered around a communal sauna and cold p
 
 This won’t be your typical Tech Week event! Come prepare to decompress, connect, and get an early glimpse at what’s next in femtech! - #NYTechWeek
 This event is a part of #New YorkTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com. Questions? Email: sarah@hannahcranstonmedia.com
+
 
 
 

@@ -25,6 +25,7 @@ is_capped: false
 total_guest_count: 32
 approved_guest_count: 0
 local_image: "images/1K4RUKGNdOY7K8EvJB1B.png"
+canceled: false
 ---
 
 # Trust Issues - A Traitors style game for NYTW
@@ -60,6 +61,7 @@ Just one question - "who can I trust?"
 Come ready to play.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

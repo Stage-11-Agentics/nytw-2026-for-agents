@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["Vn212txJLxYP4DJUTKqXMnsXKOJ2", "7DFu4rITofNzKIjA7hCx", "hd6zXAv2BGSbKDxq1Id41Tm5m083"]
 is_capped: false
-total_guest_count: 915
+total_guest_count: 916
 approved_guest_count: 110
 local_image: "images/L6i8pMeTV9f1aCCxcANK.jpg"
+canceled: false
 ---
 
 # She's Claiming Space
@@ -36,7 +37,7 @@ local_image: "images/L6i8pMeTV9f1aCCxcANK.jpg"
 **Hosts:** Naija Comm, The Kitchen  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 4:00pm–6:00pm ET
 **Where:** Time Out Market Union Square · 124 E 14th St, New York, NY 10003 · Upper Manhattan
-**Going:** 915
+**Going:** 915 of 916
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/L6i8pMeTV9f1aCCxcANK
 **Map:** https://www.google.com/maps/search/?api=1&query=124%20E%2014th%20St%2C%20New%20York%2C%20NY%2010003
@@ -73,6 +74,7 @@ Monday, June 1
 Come ready to connect, be inspired, and take up space!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -26,9 +26,10 @@ owner_ids: ["GUtrQthtAzgubPP37JhXzqFBIi53", "7DFu4rITofNzKIjA7hCx", "M0H3pF7PNdb
 is_capped: true
 max_capacity: 100
 remaining_capacity: 42
-total_guest_count: 302
+total_guest_count: 304
 approved_guest_count: 58
 local_image: "images/ybvORH8ClAGkGeJpEgRd.png"
+canceled: false
 ---
 
 # Founder to Founder: AI, Ops, and Scaling in 2026
@@ -61,6 +62,7 @@ Space is limited and attendance is curated by Founders Network.
 Apply to join, and/or submit a topic if you want to present live at the event.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

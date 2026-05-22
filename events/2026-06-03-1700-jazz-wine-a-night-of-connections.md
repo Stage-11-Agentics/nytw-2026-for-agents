@@ -22,9 +22,10 @@ owner_ids: ["7aa4U8SjslZXiWCpmYuScG4nFAq1", "7DFu4rITofNzKIjA7hCx", "jD8RMiQGflg
 is_capped: true
 max_capacity: 150
 remaining_capacity: 0
-total_guest_count: 346
+total_guest_count: 347
 approved_guest_count: 0
 local_image: "images/AweaKcED4gNSr3LJzfCG.png"
+canceled: false
 ---
 
 # Jazz & Wine: A Night of Connections
@@ -56,6 +57,7 @@ End your day in the Big Apple with the perfect blend of melody, flavor, and conn
 Join us for a memorable close to your evening, where great wine meets great minds.
 
 This event is a part of #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

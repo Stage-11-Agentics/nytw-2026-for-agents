@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["noP5HEE2P8N00V1e3kROI9IWIm83", "7DFu4rITofNzKIjA7hCx", "lRbsUBShN5NFJm0ApjAbfAgWpaE2", "chYEv4858OzM9E1jkvnD", "RaQek3Rt70UMU22XRGjy3af1RGR2"]
 is_capped: false
-total_guest_count: 76
+total_guest_count: 81
 approved_guest_count: 9
 local_image: "images/a1ga0i6NoEfaupZcyPuw.png"
+canceled: false
 ---
 
 # ERA/RV Portfolio Agentic AI Demo Showcase
@@ -36,7 +37,7 @@ local_image: "images/a1ga0i6NoEfaupZcyPuw.png"
 **Hosts:** Zendesk, ERA  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 3:00pm–4:30pm ET
 **Where:** Fenwick & West LLP · 902 Broadway, FL 18, New York, NY 10010 · Flatiron
-**Going:** 76
+**Going:** 76 of 81
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/a1ga0i6NoEfaupZcyPuw
 **Map:** https://www.google.com/maps/search/?api=1&query=902%20Broadway%2C%20FL%2018%2C%20New%20York%2C%20NY%2010010
@@ -105,6 +106,7 @@ This event is in partnership with Zendesk.
 
 Zendesk for Startups
 Meet your favorite startup’s favorite CX solution. Trusted by more than 50,000 founders, Zendesk for Startups delivers world-class AI-powered support at no cost for up to 6 months. No developer? No problem. Zendesk works out of the box AND scales. Your data is kept safe and your customers are delighted. Plus, native, intelligent AI agents resolve over 80% of routine tickets, freeing your team to drive growth and innovation. Get started today and unlock exclusive discounts from Zendesk partners like AWS, Google Cloud, and more: https://tinyurl.com/5dhhp2as
+
 
 
 

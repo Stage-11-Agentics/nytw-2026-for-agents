@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 162
 approved_guest_count: 110
 local_image: "images/048KYO6HrSDLWMwlMUTm.jpg"
+canceled: false
 ---
 
 # Agents in Production: The Memory Problem
@@ -56,6 +57,7 @@ This meetup is about solving it properly. Not a quick fix, not another abstracti
 We'll be joined by engineering teams from Pydantic and Tavily - covering how to structure and validate the data your agents work with, and how to handle retrieval at runtime without losing the plot mid-task.
 
 Hard questions welcome. Drinks on us.
+
 
 
 

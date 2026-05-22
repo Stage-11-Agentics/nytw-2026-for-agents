@@ -24,9 +24,10 @@ owner_ids: ["nGbYBZWLl8Ws2DS9GRZhx7PIQ3l1", "7DFu4rITofNzKIjA7hCx", "yqDqz9djyEU
 is_capped: true
 max_capacity: 100
 remaining_capacity: 24
-total_guest_count: 662
+total_guest_count: 667
 approved_guest_count: 76
 local_image: "images/z0pJ3D36syV16PqYu8HK.png"
+canceled: false
 ---
 
 # Everywhere Ventures Pre-seed founders breakfast
@@ -62,6 +63,7 @@ https://www.microsoft.com/en-us/startups
 Microsoft for Startups is a global startup program designed to help founders build, scale, and succeed by providing access to technology, cloud infrastructure, and go-to-market support. Through technical enablement, Azure credits, and direct connections to Microsoft’s product teams, partners, and customers, the program supports startups from idea to growth. Microsoft for Startups works with thousands of founders worldwide, helping them accelerate product development and bring innovative solutions to market.
 
 This event is a part of #NYTechWeek - a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

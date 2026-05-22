@@ -22,6 +22,7 @@ is_capped: false
 total_guest_count: 89
 approved_guest_count: 15
 local_image: "images/05kyAz0HT3CAko2docJW.png"
+canceled: false
 ---
 
 # Build Your Own AI Data Agent (Low-Code, Hands-On Web Scraping Workshop)
@@ -47,6 +48,7 @@ Sequentum is hosting a hands-on workshop where you'll build your own AI-powered 
 Sign up for a free Sequentum Cloud account before the session and hit the ground running when you get here!  https://www.sequentum.com/cloud
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

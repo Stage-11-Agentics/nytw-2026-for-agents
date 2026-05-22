@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["k9o75egDXRZGkjxMT2fDaTGNjv52", "7DFu4rITofNzKIjA7hCx", "ndfRUjg57KTk3DiMM4BJTvoCZ4h2"]
 is_capped: false
-total_guest_count: 92
+total_guest_count: 94
 approved_guest_count: 48
 local_image: "images/vvNMFT7CRsvXm3EBXOqd.png"
+canceled: false
 ---
 
 # Consumer Goods Coffee Mixer
@@ -33,7 +34,7 @@ local_image: "images/vvNMFT7CRsvXm3EBXOqd.png"
 **Hosts:** Bright Cup, VHS  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 9:00am–11:00am ET
 **Where:** SoHo
-**Going:** 91 of 92
+**Going:** 91 of 94
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/vvNMFT7CRsvXm3EBXOqd
 
@@ -55,6 +56,7 @@ Bright Cup — The modern coffee company blending wellness, technology, and comm
 VHS Ventures — Early-stage venture firm backing the next generation of consumer founders. Two-pronged strategy across consumer brands (Food & Beverage, Apparel & Accessories, Health/Beauty/Wellness, CPG) and the commerce infrastructure powering them (Supply Chain, Inventory, Logistics, Data & Analytics, Fulfillment).
 
 Hosted by Sumeet Shah, Founder & Managing Partner at VHS — here to meet great consumer people. Founders, investors, operators. Come say hi.
+
 
 
 

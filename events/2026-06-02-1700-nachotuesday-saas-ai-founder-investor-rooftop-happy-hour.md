@@ -26,9 +26,10 @@ owner_ids: ["uhcDzCJelzatiYnqz1UYjr9Py943", "7DFu4rITofNzKIjA7hCx", "v0GzlvhA7dN
 is_capped: true
 max_capacity: 800
 remaining_capacity: 365
-total_guest_count: 3495
+total_guest_count: 3502
 approved_guest_count: 435
 local_image: "images/cYc14RoM81gqU39dQmur.png"
+canceled: false
 ---
 
 # NachoTuesday SaaS & AI Founder + Investor Rooftop Happy Hour
@@ -64,6 +65,7 @@ This networking event will be exclusively for SaaS/AI:
 Your application will be carefully screened. No +1s allowed. Only approved guests will be allowed onto the premises.  This event will include sponsored drinks and a rooftop deck component.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

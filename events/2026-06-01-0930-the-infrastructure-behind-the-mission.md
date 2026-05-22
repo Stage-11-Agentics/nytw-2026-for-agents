@@ -24,10 +24,11 @@ owner_count: 4
 owner_ids: ["nmI7r7UEu9PzEO65u9CZev77yLS2", "7DFu4rITofNzKIjA7hCx", "dqepMwCOx0RpPajeJ1otmVuj5l63", "zs0layVa3LRZRNSozZVHDISDlM53"]
 is_capped: true
 max_capacity: 65
-remaining_capacity: 13
+remaining_capacity: 14
 total_guest_count: 65
 approved_guest_count: 0
 local_image: "images/Sowk0tqQHvZI3YEvybKo.jpg"
+canceled: false
 ---
 
 # The Infrastructure Behind the Mission
@@ -37,7 +38,7 @@ local_image: "images/Sowk0tqQHvZI3YEvybKo.jpg"
 **Hosts:** Watch Her Win  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 9:30am–10:00pm ET
 **Where:** Ponty Bistro · 2375 Adam Clayton Powell Jr Blvd, New York, NY 10030 · Midtown
-**Capacity:** capped at 65 · 52 taken, 13 remaining
+**Capacity:** capped at 65 · 51 taken, 14 remaining
 **RSVP:** https://partiful.com/e/Sowk0tqQHvZI3YEvybKo
 **Map:** https://www.google.com/maps/search/?api=1&query=2375%20Adam%20Clayton%20Powell%20Jr%20Blvd%2C%20New%20York%2C%20NY%2010030
 
@@ -54,6 +55,7 @@ local_image: "images/Sowk0tqQHvZI3YEvybKo.jpg"
 The Infrastructure Behind the Mission is a four-day series running the full length of NY Tech Week, convening technology leaders and community organization executives across keynotes, panels, a dedicated AI ethics session, a live tech audit, and a closing hybrid celebration. Hosted by Obioma Richardson who is 20-year technology professional and founder of Watch Her Win and Principal owner of OBR Consultants, each day builds toward a single outcome: durable relationships across two worlds that rarely share a room.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

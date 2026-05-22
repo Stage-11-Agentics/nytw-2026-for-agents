@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 9
 owner_ids: ["qOBEb9gLfEmoEhzfTNEJ", "PMEuASf64Fdt8XlMxKufvJl40Fb2", "cO1ztWj6rbYqK3a9KwmHh9kO3j22", "7DFu4rITofNzKIjA7hCx", "KEHiSz6f1KTAnCTjaDbnzVhtbOD3", "6Akmiu8Jw3Y6BLOWde53csDeqVJ2", "qBKna34Up2MfOez7vK8AEPbL7Nv1", "Q7gnUvsG8Fckr4Tz0UYLXpIWFQi2", "vqW8vPrWRLhs8v1aoRirWOVMMpv1"]
 is_capped: false
-total_guest_count: 166
+total_guest_count: 169
 approved_guest_count: 70
 local_image: "images/D7mgFNgIr2icwr0JJvvI.jpg"
+canceled: false
 ---
 
 # Bookkeeping and Bourbon: Rooftop Cocktails + Founder Panel
@@ -36,7 +37,7 @@ local_image: "images/D7mgFNgIr2icwr0JJvvI.jpg"
 **Hosts:** Wiss, Rillet, Artifact AI, Savitt Partners  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
 **Where:** Skylark · 200 W 39th St, FL 30, New York, NY 10018 · Midtown
-**Going:** 166
+**Going:** 166 of 169
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/D7mgFNgIr2icwr0JJvvI
 **Map:** https://www.google.com/maps/search/?api=1&query=200%20W%2039th%20St%2C%20FL%2030%2C%20New%20York%2C%20NY%2010018
@@ -75,6 +76,7 @@ Rillet is the AI-native ERP backed by a16z and Sequoia that's replacing legacy a
 Artifact AI is an a16z-backed autonomous AI agent that plugs into your existing accounting stack and handles the entire bookkeeping workflow, from reconciliation to ledger posting, without replacing the tools you already use.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

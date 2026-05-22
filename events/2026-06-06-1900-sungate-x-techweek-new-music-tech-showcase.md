@@ -24,10 +24,11 @@ owner_count: 2
 owner_ids: ["JWPX0rrWJqbhV17BRGRNYz2WDXi2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 120
-remaining_capacity: 87
-total_guest_count: 37
+remaining_capacity: 86
+total_guest_count: 38
 approved_guest_count: 0
 local_image: "images/vRlkMachucjhX6Iyx6QX.jpg"
+canceled: false
 ---
 
 # SUNGATE x TECHWEEK NEW MUSIC TECH SHOWCASE
@@ -37,7 +38,7 @@ local_image: "images/vRlkMachucjhX6Iyx6QX.jpg"
 **Hosts:** Sungate Records  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 7:00pm–10:00pm ET
 **Where:** Nublu · 151 Avenue C, East Village, NY 10009 · Brooklyn
-**Capacity:** capped at 120 · 33 taken, 87 remaining
+**Capacity:** capped at 120 · 34 taken, 86 remaining
 **RSVP:** https://partiful.com/e/vRlkMachucjhX6Iyx6QX
 **Map:** https://www.google.com/maps/search/?api=1&query=151%20Avenue%20C%2C%20East%20Village%2C%20NY%2010009
 
@@ -60,6 +61,7 @@ Doors 6pm. Show starts 8pm.
 $15 · Limited to 120 guests
 
 RSVPs are only confirmed once payment is received via Venmo. Please send $15 per person to @Mariami213 after submitting your RSVP.
+
 
 
 

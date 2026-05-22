@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["BEyCEP4Eh7hBy5ga4vUt", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 68
+total_guest_count: 70
 approved_guest_count: 60
 local_image: "images/BflyCpXXs8gQCLPyme7y.png"
+canceled: false
 ---
 
 # Fenwick Fun Run
@@ -33,7 +34,7 @@ local_image: "images/BflyCpXXs8gQCLPyme7y.png"
 **Hosts:** Fenwick  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 8:00am–10:00am ET
 **Where:** Flatiron
-**Going:** 68
+**Going:** 68 of 70
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/BflyCpXXs8gQCLPyme7y
 
@@ -54,6 +55,7 @@ The run will be led by professional running coaches Matt and Sammy McClintock!
 By confirming your attendance you agree to receive communications and updates from Fenwick.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

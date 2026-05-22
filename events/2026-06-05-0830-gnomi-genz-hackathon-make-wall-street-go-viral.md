@@ -26,9 +26,10 @@ owner_ids: ["YpyhqQTbQghiRQeGGbn68JfvgoB2", "7DFu4rITofNzKIjA7hCx", "YT1GzAtE1PS
 is_capped: true
 max_capacity: 40
 remaining_capacity: 40
-total_guest_count: 87
+total_guest_count: 90
 approved_guest_count: 0
 local_image: "images/hfSyqoSqdglV01JHqHue.png"
+canceled: false
 ---
 
 # GNOMI GenZ Hackathon:  
@@ -95,6 +96,7 @@ It is building the intelligence layer the next generation trusts, uses, and shar
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

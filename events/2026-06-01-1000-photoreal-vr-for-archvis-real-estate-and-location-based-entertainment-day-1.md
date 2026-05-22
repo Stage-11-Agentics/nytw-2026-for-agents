@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["VYeEhYb7k46mGe6edBwh", "7DFu4rITofNzKIjA7hCx", "UPoJMLzwoXhxyb6DSMxCgKg6IC02"]
 is_capped: false
-total_guest_count: 86
+total_guest_count: 88
 approved_guest_count: 6
 local_image: "images/6bUok8RK79B927TfqX7F.jpg"
+canceled: false
 ---
 
 # Photoreal VR for Archvis, Real Estate and Location-Based Entertainment - Day 1
@@ -36,7 +37,7 @@ local_image: "images/6bUok8RK79B927TfqX7F.jpg"
 **Hosts:** Agile Lens, DBOX, WanderLens Lab
 **When:** Monday, June 1, 2026 · 10:00am–6:00pm ET
 **Where:** Dbox · 15 Park Row, FL 2, New York, NY 10038 · Financial District
-**Going:** 86
+**Going:** 86 of 88
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/6bUok8RK79B927TfqX7F
 **Map:** https://www.google.com/maps/search/?api=1&query=15%20Park%20Row%2C%20FL%202%2C%20New%20York%2C%20NY%2010038
@@ -67,6 +68,7 @@ Walk through the gen 2 Four Seasons Holodeck (responsible for over $500M in pres
 This is a two day event - if this date doesn't work, sign up for Day 2 here(Fri June 5): https://partiful.com/e/dA79zHIgCReURfjwFEki
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

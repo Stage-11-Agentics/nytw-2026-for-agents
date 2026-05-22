@@ -29,6 +29,7 @@ remaining_capacity: 23
 total_guest_count: 103
 approved_guest_count: 102
 local_image: "images/N5XpjjaQK2GRCCNbEels.png"
+canceled: false
 ---
 
 # HUMANA FUTURA: Aligning Tech w/ Human Agency & Wellness
@@ -85,6 +86,7 @@ OneDay MBA is a one-of-kind MBA degree, Oneday is a tech enabled university meet
 https://www.oneday.org/us/mba
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

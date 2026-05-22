@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["PSf7o3XNaqasVz0NpoijLjUtDNh2", "7DFu4rITofNzKIjA7hCx", "nAUOJ9yOOeOnMG9oeVhu6EXgEXJ2"]
 is_capped: false
-total_guest_count: 181
+total_guest_count: 183
 approved_guest_count: 126
 local_image: "images/nnaHoXkj6VVkLNImNNxJ.jpg"
+canceled: false
 ---
 
 # Crypto and AI Rooftop Mixer with Manatt + North Island Ventures
@@ -35,7 +36,7 @@ local_image: "images/nnaHoXkj6VVkLNImNNxJ.jpg"
 **Hosts:** North Island Ventures, Manatt  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:00pm–7:00pm ET
 **Where:** 200 Park Ave S, New York, NY 10003 · Midtown
-**Going:** 178 of 181
+**Going:** 178 of 183
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/nnaHoXkj6VVkLNImNNxJ
 **Map:** https://www.google.com/maps/search/?api=1&query=200%20Park%20Ave%20S%2C%20New%20York%2C%20NY%2010003
@@ -56,6 +57,7 @@ We’re bringing together a tight group of founders, operators, and investors ac
 Whether you’re actively building in the space or simply curious about where things are headed, this is a chance to connect with a smart, engaged crowd in an easygoing setting. Drinks, good company, June open air. Come ready to talk, not perform. 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

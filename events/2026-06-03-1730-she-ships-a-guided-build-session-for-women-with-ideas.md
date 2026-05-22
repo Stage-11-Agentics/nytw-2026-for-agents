@@ -24,10 +24,11 @@ owner_count: 4
 owner_ids: ["ah4ZlSmU6LRwxxjfaDzaPJcqv5n1", "B9OiC628PCggMJK7aNHuusygU3U2", "7DFu4rITofNzKIjA7hCx", "nADjcMP0B8M1LFGrvy2g1iuhqn52"]
 is_capped: true
 max_capacity: 125
-remaining_capacity: 26
+remaining_capacity: 27
 total_guest_count: 121
-approved_guest_count: 99
+approved_guest_count: 98
 local_image: "images/3utTkNZhe2NKwkVBuUdU.jpg"
+canceled: false
 ---
 
 # She Ships: A Guided Build Session for Women with Ideas
@@ -37,7 +38,7 @@ local_image: "images/3utTkNZhe2NKwkVBuUdU.jpg"
 **Hosts:** Somarae, How I AI Podcast  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:30pm–8:00pm ET
 **Where:** 33 W 17th St, New York, NY 10011 · Midtown
-**Capacity:** capped at 125 · 99 taken, 26 remaining
+**Capacity:** capped at 125 · 98 taken, 27 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/3utTkNZhe2NKwkVBuUdU
 **Map:** https://www.google.com/maps/search/?api=1&query=33%20W%2017th%20St%2C%20New%20York%2C%20NY%2010011
@@ -107,6 +108,7 @@ We value and appreciate our male allies. However, this particular workshop is de
 
 TICKETING
 This is a free event. Registration does not guarantee entry. Seats are limited based on venue capacity and desks are on a first come, first served basis.
+
 
 
 

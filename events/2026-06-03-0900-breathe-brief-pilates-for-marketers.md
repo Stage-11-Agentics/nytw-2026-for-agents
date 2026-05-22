@@ -27,6 +27,7 @@ remaining_capacity: -15
 total_guest_count: 55
 approved_guest_count: 45
 local_image: "images/uJUFOyhkTP1LJ6z4Z8gq.png"
+canceled: false
 ---
 
 # Breathe & Brief - Pilates for marketers
@@ -62,6 +63,7 @@ Before you brief them, breathe.
 Join us for a Pilates session in Central Park for 30 senior marketing leaders — CMOs, VPs Marketing, and Heads of Growth.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

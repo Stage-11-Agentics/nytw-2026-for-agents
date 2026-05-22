@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["gKwyVcuqgUew9w0Jp1tU", "w053T7BHb7UtR1gGs5qeGV4zG8t1", "xK51laKjUpV1w2zOf3QmsixJpYz1", "7DFu4rITofNzKIjA7hCx", "9OjSPSSVGmSJdOMQdn1HQYwJckJ3"]
 is_capped: false
-total_guest_count: 7
+total_guest_count: 8
 approved_guest_count: 0
 local_image: "images/MkFFhfLec1pWUceNGwmu.png"
+canceled: false
 ---
 
 # Connection Hike presented by HubSpot for Startups
@@ -36,7 +37,7 @@ local_image: "images/MkFFhfLec1pWUceNGwmu.png"
 **Hosts:** HubSpot, Business Outside  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 9:00am–11:00am ET
 **Where:** Maine Monument · Columbus Cir, New York, NY 10028 · Central Park
-**Going:** 2 of 7
+**Going:** 2 of 8
 **RSVP:** https://partiful.com/e/MkFFhfLec1pWUceNGwmu
 **Map:** https://www.google.com/maps/search/?api=1&query=Columbus%20Cir%2C%20New%20York%2C%20NY%2010028
 
@@ -71,6 +72,7 @@ Unlike traditional networking events, this walk prioritizes conversation over pa
 Go beyond “networking”... and connect.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

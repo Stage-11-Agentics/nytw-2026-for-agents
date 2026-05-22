@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["0wMLtF8eSPHMQQCEkIZn", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 208
+total_guest_count: 213
 approved_guest_count: 17
 image_download_error: "HTTP Error 403: Forbidden"
+canceled: false
 ---
 
 # Star Sellers Dinner
@@ -34,7 +35,7 @@ image_download_error: "HTTP Error 403: Forbidden"
 **Hosts:** Gamma  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 7:00pm ET
 **Where:** Freemans · End of Freeman Alley, New York, NY 10002 · Lower East Side
-**Going:** 208
+**Going:** 208 of 213
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/USH73kQlduUcSCS6j9Q2
 **Map:** https://www.google.com/maps/search/?api=1&query=End%20of%20Freeman%20Alley%2C%20New%20York%2C%20NY%2010002
@@ -58,6 +59,7 @@ An intimate dinner for brilliant sellers.
 ​Space is limited and we're curating the room intentionally. Request your seat and we'll review and confirm your spot.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

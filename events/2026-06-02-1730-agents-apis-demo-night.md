@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 8
 owner_ids: ["G88ePaBdKghPb59SyuAlcLNy5dZ2", "7DFu4rITofNzKIjA7hCx", "ibeMPBQyqbizsTNuhUFE", "jrtyfnCClt68eNIboL6Z", "G6UAtdzYrqLi3KNqP1g7", "YHyNQzNRSmrUSRoN3KVY", "ydPVWObo7coNacdHdHZO", "HMdaiVzAF8aHyLJbqBcuhmPD5Jn1"]
 is_capped: false
-total_guest_count: 132
-approved_guest_count: 109
+total_guest_count: 135
+approved_guest_count: 112
 local_image: "images/XqIBMZmB4oubCZWFP2Sl.png"
+canceled: false
 ---
 
 # 🗽Agents & APIs Demo Night
@@ -33,7 +34,7 @@ local_image: "images/XqIBMZmB4oubCZWFP2Sl.png"
 **Hosts:** Postman, WorkOS  _(+6 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:30pm–8:00pm ET
 **Where:** SoHo
-**Going:** 132
+**Going:** 132 of 135
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/XqIBMZmB4oubCZWFP2Sl
 
@@ -61,6 +62,7 @@ This event is a part of #NYTechWeek—a week of events hosted by VCs and startup
 ​Legal Stuff
 
 ​By registering you agree that listed host companies can send you updates and news about thier products and services. You can unsubscribe anytime using the link in an email or by contacting the companies.
+
 
 
 

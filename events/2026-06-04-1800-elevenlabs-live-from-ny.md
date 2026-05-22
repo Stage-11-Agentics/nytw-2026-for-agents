@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["fJ4QInh7F8iGDc1X8lVS", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 1457
+total_guest_count: 1481
 approved_guest_count: 169
 local_image: "images/Vamn82rpSCMY5sp1UgNG.png"
+canceled: false
 ---
 
 # ElevenLabs: Live from NY
@@ -35,7 +36,7 @@ local_image: "images/Vamn82rpSCMY5sp1UgNG.png"
 **Hosts:** ElevenLabs  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm–9:00pm ET
 **Where:** 40 Crosby St, New York, NY 10012 · SoHo
-**Going:** 1457
+**Going:** 1457 of 1481
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Vamn82rpSCMY5sp1UgNG
 **Map:** https://www.google.com/maps/search/?api=1&query=40%20Crosby%20St%2C%20New%20York%2C%20NY%2010012
@@ -53,6 +54,7 @@ Come experience an unforgettable evening at our brand new ElevenLabs NY office!
 Join us for meaningful conversations with top AI and tech leaders, activations, and plenty of drinks and bites to keep the energy going. Whether you're here to connect, get inspired, or both, you're in the right place.
 
 This event is a part of #NYTechWeek 2026 —a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

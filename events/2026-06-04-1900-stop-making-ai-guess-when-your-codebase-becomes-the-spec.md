@@ -21,6 +21,7 @@ is_capped: false
 total_guest_count: 22
 approved_guest_count: 0
 local_image: "images/X0u5GrmzvIUTrjoAOgVm.png"
+canceled: false
 ---
 
 # Stop Making AI Guess: When Your Codebase Becomes the Spec —
@@ -58,6 +59,7 @@ For developers, founders, and anyone evaluating where serious frontend developme
 spynejs.com
 
 This event is part of #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at tech-week.com.
+
 
 
 

@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["6iTmUploLMbS5u2KpbSBNMMM5zz1", "e4KpLrHFpv1tDbt5xlIj", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 154
+total_guest_count: 158
 approved_guest_count: 0
 local_image: "images/yVeiohVURo6J6QMPAjUv.png"
+canceled: false
 ---
 
 # Dubai is Building the Future. Come Join Us.
@@ -31,7 +32,7 @@ local_image: "images/yVeiohVURo6J6QMPAjUv.png"
 **Hosts:** Dubai Future Foundation  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 2:00pm ET
 **Where:** SoHo
-**Going:** 153 of 154
+**Going:** 153 of 158
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/yVeiohVURo6J6QMPAjUv
 
@@ -59,6 +60,7 @@ Whether you're looking for a launchpad to scale globally or simply want to build
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

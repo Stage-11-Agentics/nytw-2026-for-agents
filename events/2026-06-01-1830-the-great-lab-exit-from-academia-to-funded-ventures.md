@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 8
 owner_ids: ["9K2ip5KfG1VOTKg73Vjq", "7DFu4rITofNzKIjA7hCx", "8ZyViLczDvd8WQWp7ZP7JuyeVRu1", "ohdcow5dcRhR9PPIJGOJZVCHkij2", "5WrXMh7QhnNC09L7I4eM52YxHQ92", "5DdWxCXrNBfISUshjrk4oBd4JUU2", "yprpltooCHY5a6wTQGEsS4GS7jG2", "GL2WbkkmsQay9aOyVB8dfuzBMCa2"]
 is_capped: false
-total_guest_count: 173
-approved_guest_count: 140
+total_guest_count: 179
+approved_guest_count: 142
 local_image: "images/mPWLkFDlQr5fo1NGtk1x.png"
+canceled: false
 ---
 
 # The Great Lab Exit:
@@ -38,7 +39,7 @@ From Academia to Funded Ventures](images/mPWLkFDlQr5fo1NGtk1x.png)
 **Hosts:** Scalpels & Spreadsheets, Nucleate  _(+6 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:30pm–9:00pm ET
 **Where:** 307 West 38th Street · 307 W 38th St, New York, NY 10018 · Midtown
-**Going:** 172 of 173
+**Going:** 172 of 179
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/mPWLkFDlQr5fo1NGtk1x
 **Map:** https://www.google.com/maps/search/?api=1&query=307%20W%2038th%20St%2C%20New%20York%2C%20NY%2010018
@@ -81,6 +82,7 @@ Sponsorships available:
 2 x venture booths
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

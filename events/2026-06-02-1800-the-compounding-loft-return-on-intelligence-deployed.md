@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 54
 approved_guest_count: 1
 local_image: "images/q2bahuz7xsdgwd4VJpEU.png"
+canceled: false
 ---
 
 # The Compounding Loft: Return on Intelligence Deployed
@@ -53,6 +54,7 @@ www.8W8.com_
 The inaugural Compounding Loft session brings together an exclusive group of senior enterprise operators and capital allocators focused on how intelligence, execution, and systems translate into enterprise value. The panel will start 6.30 pm.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

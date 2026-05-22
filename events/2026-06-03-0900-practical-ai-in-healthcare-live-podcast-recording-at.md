@@ -25,10 +25,11 @@ owner_count: 3
 owner_ids: ["CmvT64LpnUaML50CgZhg5oYrLGg2", "7DFu4rITofNzKIjA7hCx", "17Wj7Oa0GXQAp9RmP4bbjY4vvY62"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 28
-total_guest_count: 96
-approved_guest_count: 72
+remaining_capacity: 23
+total_guest_count: 99
+approved_guest_count: 77
 local_image: "images/vaFO9sGYiFZ1hzqrSkOa.png"
+canceled: false
 ---
 
 # Practical AI In Healthcare: Live Podcast Recording at
@@ -38,7 +39,7 @@ local_image: "images/vaFO9sGYiFZ1hzqrSkOa.png"
 **Hosts:** Patient Talker LLC, Practical AI in Healthcare  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 9:00am–11:00am ET
 **Where:** Hudson Yards · Hudson Yards, Manhattan, New York, NY · Midtown
-**Capacity:** capped at 100 · 72 taken, 28 remaining
+**Capacity:** capped at 100 · 77 taken, 23 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/vaFO9sGYiFZ1hzqrSkOa
 **Map:** https://www.google.com/maps/search/?api=1&query=Hudson%20Yards%2C%20Hudson%20Yards%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -65,6 +66,7 @@ Stay for a breakfast and networking reception built for the people who are actua
 Seats are limited. The episode lives forever. Be in the room.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

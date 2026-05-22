@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["9K2ip5KfG1VOTKg73Vjq", "7DFu4rITofNzKIjA7hCx", "VAQ5yC2pmlhgZNKWqkR2UBtvx003"]
 is_capped: false
-total_guest_count: 95
+total_guest_count: 97
 approved_guest_count: 80
 local_image: "images/IuM6WxNvQPgCdA5IKtW3.png"
+canceled: false
 ---
 
 # Fireside + Happy Hour: At the Heart of Healthcare
@@ -36,7 +37,7 @@ local_image: "images/IuM6WxNvQPgCdA5IKtW3.png"
 **Hosts:** Scalpels & Spreadsheets, Accurkardia  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 2:00pm–5:00pm ET
 **Where:** 307 West 38th Street · 307 W 38th St, New York, NY 10018 · Midtown
-**Going:** 95
+**Going:** 95 of 97
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/IuM6WxNvQPgCdA5IKtW3
 **Map:** https://www.google.com/maps/search/?api=1&query=307%20W%2038th%20St%2C%20New%20York%2C%20NY%2010018
@@ -70,6 +71,7 @@ Panel: 3.00PM - 3.45PM
 Networking and Happy Hour: 3.45 - 5.00PM
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

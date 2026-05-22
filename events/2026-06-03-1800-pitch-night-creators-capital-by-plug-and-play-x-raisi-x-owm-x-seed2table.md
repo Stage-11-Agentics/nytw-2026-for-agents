@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["8M6HSKroHeMSyx8jiQBnD9RvEyI3", "7DFu4rITofNzKIjA7hCx", "SEDKUP3DiKaQhA3JJViCxiOKXWk2"]
 is_capped: false
-total_guest_count: 143
+total_guest_count: 146
 approved_guest_count: 44
 local_image: "images/DKl5HdJGHTgI3mQXRIrV.png"
+canceled: false
 ---
 
 # Pitch Night: Creators + Capital - By Plug and Play x Raisi x OWM x Seed2Table
@@ -36,7 +37,7 @@ local_image: "images/DKl5HdJGHTgI3mQXRIrV.png"
 **Hosts:** Raisi, OWM, Plug and Play New York & NYEDC
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
 **Where:** Civic Hall · 124 E 14th St, New York, NY 10003 · Financial District
-**Going:** 143
+**Going:** 143 of 146
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/DKl5HdJGHTgI3mQXRIrV
 **Map:** https://www.google.com/maps/search/?api=1&query=124%20E%2014th%20St%2C%20New%20York%2C%20NY%2010003
@@ -96,6 +97,7 @@ We help founders find the creators who actually influence their customers, and p
 ---
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

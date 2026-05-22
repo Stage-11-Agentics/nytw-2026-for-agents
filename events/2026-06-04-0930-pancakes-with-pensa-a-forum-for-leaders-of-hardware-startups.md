@@ -26,9 +26,10 @@ owner_ids: ["zZPwsK2KSxb9zAopJntU8VlIZAS2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 12
 remaining_capacity: 0
-total_guest_count: 39
+total_guest_count: 41
 approved_guest_count: 0
 local_image: "images/BDQPwKS8HqWD6G5p5lQI.png"
+canceled: false
 ---
 
 # Pancakes* with PENSA: A Forum for Leaders of Hardware Startups
@@ -80,6 +81,7 @@ PENSA is an award-winning product design and invention studio that integrates st
 Founded in 2005, Pensa is led by Marco Perry, Kathy Larchian, and Mark Prommel.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

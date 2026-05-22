@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["ZjHx5V4gQHaeD1HPLlxiXKhJo2w1", "7DFu4rITofNzKIjA7hCx", "jHYVELyD9gLW1e6EsULM", "FYq1nOJgjhOdamBC76uOlStbyjg1"]
 is_capped: false
-total_guest_count: 474
+total_guest_count: 481
 approved_guest_count: 104
 local_image: "images/YtPpBkhAuVR9Wsm6UfoE.png"
+canceled: false
 ---
 
 # Founder / VC Secret Garden Party
@@ -33,7 +34,7 @@ local_image: "images/YtPpBkhAuVR9Wsm6UfoE.png"
 **Hosts:** Entre  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm ET
 **Where:** 136 2nd Ave, New York, NY 10003 · Lower East Side
-**Going:** 474
+**Going:** 474 of 481
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/YtPpBkhAuVR9Wsm6UfoE
 **Map:** https://www.google.com/maps/search/?api=1&query=136%202nd%20Ave%2C%20New%20York%2C%20NY%2010003
@@ -67,6 +68,7 @@ Zendesk for Startups empowers startups with the best customer support platform t
 https://www.zendesk.com/lp/startup-partner/?ref=gen&partner_account=0011E00001nSD3eQAG
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

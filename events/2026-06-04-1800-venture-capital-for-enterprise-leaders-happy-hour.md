@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["qZjONzXmFseI1IwExXskGbfqn9f1", "7DFu4rITofNzKIjA7hCx", "fnDBe1wRR0eqJUmr0WzHECC8xkw2", "jrNXgkbx0oQZBTftdfOSycQaW1G2"]
 is_capped: false
-total_guest_count: 89
+total_guest_count: 90
 approved_guest_count: 46
 local_image: "images/KdLa1WJ6PlhHPaaWJKgJ.png"
+canceled: false
 ---
 
 # Venture Capital for enterprise leaders Happy Hour
@@ -33,7 +34,7 @@ local_image: "images/KdLa1WJ6PlhHPaaWJKgJ.png"
 **Hosts:** Collinear Capital  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm–8:00pm ET
 **Where:** East Village
-**Going:** 89
+**Going:** 89 of 90
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/KdLa1WJ6PlhHPaaWJKgJ
 
@@ -62,6 +63,7 @@ Collinear Capital brings to bear the collective expertise of its community of co
 Find out more about how we work with consultants, technologists, and enterprise leaders at collinearcapital.vc
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

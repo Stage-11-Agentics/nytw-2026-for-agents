@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["2leicWPezxNknzhphgEFKXSpxJs2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 388
+total_guest_count: 397
 approved_guest_count: 146
 local_image: "images/A7Fi4pkz6XLgYA8YnQPp.png"
+canceled: false
 ---
 
 # Cracking Founder-Led Marketing
@@ -34,7 +35,7 @@ local_image: "images/A7Fi4pkz6XLgYA8YnQPp.png"
 **Hosts:** Founder-Led Media Community  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 11:00am ET
 **Where:** New York, NY · New York, NY · Central Park
-**Going:** 386 of 388
+**Going:** 386 of 397
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/A7Fi4pkz6XLgYA8YnQPp
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -50,6 +51,7 @@ local_image: "images/A7Fi4pkz6XLgYA8YnQPp.png"
 How do founders build brands while building products? Dive into the exact strategies—content creation, viral loops, and zero-budget growth—that are working right now. Real founders share what's working—no theory, just tactics you can use tomorrow.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

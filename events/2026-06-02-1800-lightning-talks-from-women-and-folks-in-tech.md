@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["3htS4WjPQch4Qq6WMnH7ZiGJMr33", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 164
-approved_guest_count: 131
+total_guest_count: 168
+approved_guest_count: 130
 local_image: "images/zePyRMOZRTaWdpEgb28i.png"
+canceled: false
 ---
 
 # Lightning Talks from Women and Folks in Tech
@@ -36,7 +37,7 @@ local_image: "images/zePyRMOZRTaWdpEgb28i.png"
 **Hosts:** Gusto  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–8:00pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 163 of 164
+**Going:** 163 of 168
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/zePyRMOZRTaWdpEgb28i
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -77,6 +78,7 @@ Gusto is excited to host community events at our SF and NYC offices, showcasing 
 ​​​Link will be sent out via email before the event
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

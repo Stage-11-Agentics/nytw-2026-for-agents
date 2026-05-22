@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["fgVr7vi71MRqMNoXH9TtPdsdgGF3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 48
+total_guest_count: 51
 approved_guest_count: 18
 local_image: "images/8X6emlBMVyRd9hFpy4OM.jpg"
+canceled: false
 ---
 
 # How Humans Experience AI (Design Workshop) - #NYCTechWeek
@@ -34,7 +35,7 @@ local_image: "images/8X6emlBMVyRd9hFpy4OM.jpg"
 **Hosts:** Tequity  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 9:00am ET
 **Where:** Flatiron · Flatiron, Manhattan, New York, NY · Flatiron
-**Going:** 47 of 48
+**Going:** 47 of 51
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/8X6emlBMVyRd9hFpy4OM
 **Map:** https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -76,6 +77,7 @@ Led by Design Labs at Tequity, a design and engineering studio that partners wit
 Coffee provided.
 
 This event is a part of NYC Tech Week - a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

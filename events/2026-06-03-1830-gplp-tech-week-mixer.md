@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["C53DywTmjFenhiNucknKWJnXFId2", "7DFu4rITofNzKIjA7hCx", "0tzhPVqMtmkGyjz81L78"]
 is_capped: false
-total_guest_count: 72
+total_guest_count: 78
 approved_guest_count: 25
 local_image: "images/li3OTq6DQintDXxppVK8.jpg"
+canceled: false
 ---
 
 # GP–LP Tech Week Mixer —
@@ -31,7 +32,7 @@ local_image: "images/li3OTq6DQintDXxppVK8.jpg"
 **Hosts:** The Kairos Circle  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:30pm ET
 **Where:** Midtown
-**Going:** 71 of 72
+**Going:** 71 of 78
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/li3OTq6DQintDXxppVK8
 
@@ -55,6 +56,7 @@ Open to public registration. Space is limited.
 We look forward to an evening of global dialogue and lasting connections.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

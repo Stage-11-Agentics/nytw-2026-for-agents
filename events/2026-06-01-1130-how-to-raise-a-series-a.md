@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 11
 owner_ids: ["lPywKsh4riPs5S1MsNExYwZ7NdL2", "59pLIyQzvLUwaaqbfPTTEwunPcd2", "jD8RMiQGflgg0lOUshTbKBWM4JP2", "kkfxNDzwElM9940NDaPwzvSDYUi1", "CCpP4VlZssbSgdwzCWhIMe75YK22", "3h3blufhcdQ9Q3PfQL81izAGeEh2", "RA2yItkAT4b5ZeaikCuRFoZC5zX2", "7sPFt2LZOsVj9y8jUR76mLCWu1J3", "7DFu4rITofNzKIjA7hCx", "5HV8c1GklJx1YlEeJ4wY", "qPe4nG5jS9Y7OuvsjCWBmgyuJQt1"]
 is_capped: false
-total_guest_count: 1445
+total_guest_count: 1451
 approved_guest_count: 149
 local_image: "images/ASu0bbJUv36y2648J12G.jpg"
+canceled: false
 ---
 
 # How to Raise a Series A
@@ -35,7 +36,7 @@ local_image: "images/ASu0bbJUv36y2648J12G.jpg"
 **Hosts:** Silicon Valley Bank, SSM, Pilot, TriNet  _(+7 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 11:30am–2:00pm ET
 **Where:** 11 W 42nd St, New York, NY 10036 · Midtown
-**Going:** 1444 of 1445
+**Going:** 1444 of 1451
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ASu0bbJUv36y2648J12G
 **Map:** https://www.google.com/maps/search/?api=1&query=11%20W%2042nd%20St%2C%20New%20York%2C%20NY%2010036
@@ -92,6 +93,7 @@ Panelists:
 ​This event may be attended in person (if approved) or via Zoom.  If you attend via Zoom, please enter the room with your camera turned off and your mic muted.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

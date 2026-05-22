@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["JaV50zwSWhAz663l1LBs", "7DFu4rITofNzKIjA7hCx", "SRdUqbEFQS8LjeRyI2II", "vrjaptdMT8WN3QeL3ftl"]
 is_capped: false
-total_guest_count: 480
+total_guest_count: 490
 approved_guest_count: 239
 local_image: "images/1ZvSFv5Mv6ocuCFgukwz.jpg"
+canceled: false
 ---
 
 # How AI founders are building the future of consumer health
@@ -33,7 +34,7 @@ local_image: "images/1ZvSFv5Mv6ocuCFgukwz.jpg"
 **Hosts:** Healthcare AI Guy, Cigna, Maverick  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:00pm–7:00pm ET
 **Where:** Flatiron
-**Going:** 478 of 480
+**Going:** 478 of 490
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/1ZvSFv5Mv6ocuCFgukwz
 
@@ -63,6 +64,7 @@ Hosted by:
  • Cigna Ventures
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

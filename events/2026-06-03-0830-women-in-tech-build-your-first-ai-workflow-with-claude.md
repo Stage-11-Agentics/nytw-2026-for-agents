@@ -24,9 +24,10 @@ owner_ids: ["OphHdKO5HIdSD9kv2dJJUasM5V02", "TworKKqkAiRNiT2258BJjYKMlqj1", "7DF
 is_capped: true
 max_capacity: 150
 remaining_capacity: 48
-total_guest_count: 396
+total_guest_count: 397
 approved_guest_count: 102
 local_image: "images/FCd9GMR2lf8SmGrSlTr4.png"
+canceled: false
 ---
 
 # Women in Tech: Build your first AI workflow with Claude
@@ -64,6 +65,7 @@ Hosted by Women @ Webflow
 
 --
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

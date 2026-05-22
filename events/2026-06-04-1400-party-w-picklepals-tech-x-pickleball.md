@@ -21,10 +21,11 @@ owner_count: 2
 owner_ids: ["lRw2yTTo7kf7YxZNAyeZ", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 200
-remaining_capacity: 84
-total_guest_count: 125
+remaining_capacity: 81
+total_guest_count: 128
 approved_guest_count: 0
 local_image: "images/0lVRgZZsy5HiavSn5j72.svg"
+canceled: false
 ---
 
 # Party w/ PicklePals Tech x Pickleball
@@ -34,7 +35,7 @@ local_image: "images/0lVRgZZsy5HiavSn5j72.svg"
 **Hosts:** Picklepals  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 2:00pm–6:00pm ET
 **Where:** Midtown
-**Capacity:** capped at 200 · 116 taken, 84 remaining
+**Capacity:** capped at 200 · 119 taken, 81 remaining
 **RSVP:** https://partiful.com/e/0lVRgZZsy5HiavSn5j72
 
 ### Hosts on Partiful
@@ -60,6 +61,7 @@ This is the networking event that doesn't feel like a networking event. Come for
 PicklePals is the home base for pickleball communities where players discover games, join events, and connect with their local scene.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

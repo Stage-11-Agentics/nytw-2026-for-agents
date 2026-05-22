@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["kZOu4HYexyxsfVkNjTsB", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 42
+total_guest_count: 43
 approved_guest_count: 38
 local_image: "images/g2e6kS6GPDm0icQCC14A.png"
+canceled: false
 ---
 
 # Founder Feud: Lessons from 100+ Founders Who've Been Through It
@@ -33,7 +34,7 @@ local_image: "images/g2e6kS6GPDm0icQCC14A.png"
 **Hosts:** Forecastr  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 6:30pm–8:30pm ET
 **Where:** Flatiron
-**Going:** 42
+**Going:** 42 of 43
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/g2e6kS6GPDm0icQCC14A
 
@@ -64,6 +65,7 @@ Agenda:
 8:30pm — Event ends
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

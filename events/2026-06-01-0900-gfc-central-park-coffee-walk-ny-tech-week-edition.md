@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["2uay0cSn4uCGaIJ2vjd8", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 6
+total_guest_count: 7
 approved_guest_count: 0
 local_image: "images/TWRplmkXTwYNEQHHM1VF.png"
+canceled: false
 ---
 
 # GFC Central Park Coffee Walk // NY Tech Week Edition
@@ -36,7 +37,7 @@ local_image: "images/TWRplmkXTwYNEQHHM1VF.png"
 **Hosts:** German Founders Club  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 9:00am–10:00am ET
 **Where:** Columbus Circle · W 59th St, New York, NY 10019 · Central Park
-**Going:** 5 of 6
+**Going:** 5 of 7
 **RSVP:** https://partiful.com/e/TWRplmkXTwYNEQHHM1VF
 **Map:** https://www.google.com/maps/search/?api=1&query=W%2059th%20St%2C%20New%20York%2C%20NY%2010019
 
@@ -57,6 +58,7 @@ No slides, no panels, and no service providers pitching their agency services. J
 Whether you're currently scaling a local team in the U.S., calibrating your U.S. enterprise pricing, or just landed from Germany for NY Tech Week, this is your squad in the States.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

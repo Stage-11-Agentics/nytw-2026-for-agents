@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["kqYwItUXxHokjpmycw2C", "7DFu4rITofNzKIjA7hCx", "VkmiDJPynlbEdi7wiCA65GqpwcG3"]
 is_capped: false
-total_guest_count: 245
+total_guest_count: 250
 approved_guest_count: 18
 local_image: "images/jAP9Qn0oS6GouCWve0Oq.png"
+canceled: false
 ---
 
 # Robin Hood Foundation's Demo Day
@@ -36,7 +37,7 @@ local_image: "images/jAP9Qn0oS6GouCWve0Oq.png"
 **Hosts:** Robin Hood Foundation  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:00pm–8:00pm ET
 **Where:** Home Studios · 873 Broadway, Ste 301, New York, NY 10003 · Union Square
-**Going:** 247 of 245
+**Going:** 247 of 250
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/jAP9Qn0oS6GouCWve0Oq
 **Map:** https://www.google.com/maps/search/?api=1&query=873%20Broadway%2C%20Ste%20301%2C%20New%20York%2C%20NY%2010003
@@ -59,6 +60,7 @@ For the past five months, founders from the Catalyst program have been building 
 The afternoon kicks off with a fireside chat, followed by 6 founder pitches. We'll wrap with a happy hour where you can meet the founders, ask questions, and connect with other people working at the intersection of tech and social impact.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

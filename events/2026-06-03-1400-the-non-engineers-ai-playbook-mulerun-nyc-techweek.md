@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 35
 approved_guest_count: 31
 local_image: "images/Pr0PZvKKGZ49kG8jr8XV.jpg"
+canceled: false
 ---
 
 # The Non-Engineer's AI Playbook — MuleRun - #NYC TechWeek
@@ -160,6 +161,7 @@ Approval-based admission to keep the room high-signal.
 
 Part of #NYCTechWeek
 Learn more at: tech-week.com
+
 
 
 

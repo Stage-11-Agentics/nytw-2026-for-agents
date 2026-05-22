@@ -27,6 +27,7 @@ remaining_capacity: 20
 total_guest_count: 8
 approved_guest_count: 0
 local_image: "images/Vkvjr5dBr2FmbI2yK5UB.png"
+canceled: false
 ---
 
 # Data Center, Power & Enterprise Infrastructure Dinner
@@ -54,6 +55,7 @@ An invite-only dinner for founders, operators, investors, and enterprise leaders
 This is a curated, high-signal dinner rather than a large networking event. The focus is on real conversations across the data center value chain: operators, infrastructure providers, enterprise buyers, and ecosystem partners navigating AI demand, power constraints, and deployment bottlenecks. Expect a thoughtfully selected room, hosted discussion prompts, and meaningful introductions across the stack.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

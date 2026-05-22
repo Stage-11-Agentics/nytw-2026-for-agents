@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["y1mSDCFfcVZhVptqjBiwdj8DZau2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 83
+total_guest_count: 84
 approved_guest_count: 6
 local_image: "images/mLTDKJd37C4XRu5RTBWx.jpg"
+canceled: false
 ---
 
 # Consumer Founder Show & Tell
@@ -31,7 +32,7 @@ local_image: "images/mLTDKJd37C4XRu5RTBWx.jpg"
 **Hosts:** Flex  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 7:00pm ET
 **Where:** SoHo
-**Going:** 83
+**Going:** 83 of 84
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/mLTDKJd37C4XRu5RTBWx
 
@@ -46,6 +47,7 @@ local_image: "images/mLTDKJd37C4XRu5RTBWx.jpg"
 Show & Tell for consumer founders doing $1M+ ARR
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

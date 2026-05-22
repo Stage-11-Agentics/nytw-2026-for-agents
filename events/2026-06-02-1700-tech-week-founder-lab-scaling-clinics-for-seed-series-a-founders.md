@@ -24,9 +24,10 @@ owner_ids: ["IKFY5cEFVohXMebijcgYljMy4Ij1", "7DFu4rITofNzKIjA7hCx", "8hSS5ZAmkd7
 is_capped: true
 max_capacity: 60
 remaining_capacity: 56
-total_guest_count: 12
+total_guest_count: 14
 approved_guest_count: 4
 local_image: "images/xmJ2Bjacl2LgQ3i7q6V7.jpg"
+canceled: false
 ---
 
 # Tech Week Founder Lab: Scaling Clinics for Seed & Series A Founders
@@ -57,6 +58,7 @@ As part of NY Tech Week, Karcic Partners, in collaboration with The Front Yard a
 This is not a panel. It’s a working session designed for teams actively navigating scaling, product execution, fundraising, hiring, go-to-market, AI adoption, and operational structure.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

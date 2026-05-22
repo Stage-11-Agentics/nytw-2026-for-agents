@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 7
 owner_ids: ["nOM2FbGNkQXz5IXpwnhd", "M97HllmdkSefRAz39zre3OAxWIJ3", "kdL8QJVQvwev5ypt4dr2bDG1z8i1", "op8qP8tNgnOOGkYWmalprVEdyIW2", "DwFFR4wt6ibIrxRfdrz1SFao2912", "7DFu4rITofNzKIjA7hCx", "i4pGNOpwIVUdftq3jEyF7t38nVZ2"]
 is_capped: false
-total_guest_count: 668
-approved_guest_count: 6
+total_guest_count: 683
+approved_guest_count: 7
 local_image: "images/1snvR8DAti3YEXcTuu4x.jpg"
+canceled: false
 ---
 
 # AI tech stack to Nasdaq: The modern CFO's exit playbook
@@ -36,7 +37,7 @@ local_image: "images/1snvR8DAti3YEXcTuu4x.jpg"
 **Hosts:** PwC, DFIN, Cooley, Merraine Group  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:00pm–7:30pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 664 of 668
+**Going:** 664 of 683
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/1snvR8DAti3YEXcTuu4x
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -59,6 +60,7 @@ Join PwC at Nasdaq MarketSite for an evening of candid panels and networking wit
 Panelists include Ivan Makarov, Partner, a16z; Matthieu Hafemeister, Co-Founder & CEO, Concourse; Jean Park, Partner, Capital Markets, Cooley; Aaron Goldsmith, SVP Product and Strategy, Deel; Meaghan Miller, VP, Global Capital Markets, DFIN; Nicolas Kopp, Co-Founder & CEO, Rillet; Riya Grover, CEO, Sequence; Nicholas Rudder, CEO & CFO, Sphere Inc.; Shankar Vellal, Product Leader, Stripe; Sam Zytko, Deals Partner, PwC; Rich Sola, Deals Partner, PwC; Jeremy Budzian, Partner, PwC; and Christina White, Partner, PwC.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

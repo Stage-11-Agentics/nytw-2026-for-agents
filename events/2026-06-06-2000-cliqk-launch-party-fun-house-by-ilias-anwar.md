@@ -21,6 +21,7 @@ is_capped: false
 total_guest_count: 84
 approved_guest_count: 0
 local_image: "images/951fFm115izQgb8Bsn1y.jpg"
+canceled: false
 ---
 
 # Cliqk Launch Party - Fun House by Ilias Anwar
@@ -73,6 +74,7 @@ Alcohol Policy: This event may serve alcohol. You must be 21 years of age or old
 Changes and Cancellations: Event details including time, venue, and programming are subject to change. Organizers will make reasonable efforts to notify registered guests of any material changes.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

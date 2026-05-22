@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["q7QrARjFTyIhSuNllV9W", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 93
+total_guest_count: 97
 approved_guest_count: 0
 local_image: "images/3d1kwJIjPBslCneBS0Ij.png"
+canceled: false
 ---
 
 # Who Will Defend the Internet? The Youth Cybersecurity Crisis
@@ -36,7 +37,7 @@ local_image: "images/3d1kwJIjPBslCneBS0Ij.png"
 **Hosts:** Girls Who Code  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 10:00am–11:00am ET
 **Where:** New York, NY · New York, NY · Union Square
-**Going:** 83 of 93
+**Going:** 83 of 97
 **RSVP:** https://partiful.com/e/3d1kwJIjPBslCneBS0Ij
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
 
@@ -64,6 +65,7 @@ Vivian Yu, Girl Scouts of Greater New York
 Opening remarks by Craig Newmark, Founder of craigslist 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

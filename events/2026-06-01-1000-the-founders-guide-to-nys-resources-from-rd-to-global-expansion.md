@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["9HhPBkzHvpWl3ED6PWXjicNqVxi2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 235
+total_guest_count: 238
 approved_guest_count: 165
 local_image: "images/sGbJCvDbECcdhfFN1m6O.png"
+canceled: false
 ---
 
 # The Founder's Guide to NYS Resources: From R&D to Global Expansion
@@ -35,7 +36,7 @@ local_image: "images/sGbJCvDbECcdhfFN1m6O.png"
 **Hosts:** Empire State Development, SOSV NY
 **When:** Monday, June 1, 2026 · 10:00am–12:00pm ET
 **Where:** 7 Penn Plaza, New York, NY 10001 · Midtown
-**Going:** 234 of 235
+**Going:** 234 of 238
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/sGbJCvDbECcdhfFN1m6O
 **Map:** https://www.google.com/maps/search/?api=1&query=7%20Penn%20Plaza%2C%20New%20York%2C%20NY%2010001
@@ -51,6 +52,7 @@ local_image: "images/sGbJCvDbECcdhfFN1m6O.png"
 Hosted by Empire State Development in partnership with SOSV NY, and the Puerto Rico Science Technology and Research Trust, this panel will provide founders with the information they need to leverage state resources to fund and scale their ventures. The session will offer a robust overview of New York State’s offerings from the numerous ESD divisions and initiatives that support life sciences: New York Ventures, Division of Science, Technology and Innovation (NYSTAR), Life Sciences, and Strategic Business Development (SBD). The audience also will hear Life Sciences success stories from founders and academic researchers with first-hand experience navigating and securing state-backed support. This session will help to offer a roadmap for entrepreneurs ready to start, build, and scale in New York State.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

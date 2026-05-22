@@ -24,10 +24,11 @@ owner_count: 3
 owner_ids: ["kJskJDB44ABOME8HDcns", "7DFu4rITofNzKIjA7hCx", "Ns8sBh8De3Md3ygRL6GnTBIcU2J2"]
 is_capped: true
 max_capacity: 140
-remaining_capacity: 118
-total_guest_count: 66
+remaining_capacity: 116
+total_guest_count: 68
 approved_guest_count: 0
 local_image: "images/NhoyBpx8rlyJGJXOWbwG.png"
+canceled: false
 ---
 
 # Pitch Roast Live
@@ -37,7 +38,7 @@ local_image: "images/NhoyBpx8rlyJGJXOWbwG.png"
 **Hosts:** Pitch Roast Live, Forecastr  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–8:30pm ET
 **Where:** Caveat · 21 A Clinton St, Manhattan, NY 10002 · Lower East Side
-**Capacity:** capped at 140 · 22 taken, 118 remaining
+**Capacity:** capped at 140 · 24 taken, 116 remaining
 **RSVP:** https://partiful.com/e/NhoyBpx8rlyJGJXOWbwG
 **Map:** https://www.google.com/maps/search/?api=1&query=21%20A%20Clinton%20St%2C%20Manhattan%2C%20NY%2010002
 
@@ -69,6 +70,7 @@ Law By Levin - Help founders and investors turn bold ideas into lasting companie
 lawbylevin.com
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

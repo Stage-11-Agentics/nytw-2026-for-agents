@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["2mmQo60LtxTetmcYjOjjdnnYZF13", "7DFu4rITofNzKIjA7hCx", "4E6XLZinsXon3h33PVZi", "DK1VtB3ZCLbeJCeGWfYVKEtx7jr2", "neaOb4UjF6P9TKfY8uiOnLeTOSl1"]
 is_capped: false
-total_guest_count: 20
+total_guest_count: 21
 approved_guest_count: 20
 local_image: "images/Y6JiO5I17r9Kcmz9BRXz.png"
+canceled: false
 ---
 
 # The Rise of Role-Based AI
@@ -35,7 +36,7 @@ local_image: "images/Y6JiO5I17r9Kcmz9BRXz.png"
 **Hosts:** Opine, Ariso, 24 and up  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 2:00pm–2:45pm ET
 **Where:** 306 W 43rd St, New York, NY 10036 · Nomad
-**Going:** 19 of 20
+**Going:** 19 of 21
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Y6JiO5I17r9Kcmz9BRXz
 **Map:** https://www.google.com/maps/search/?api=1&query=306%20W%2043rd%20St%2C%20New%20York%2C%20NY%2010036
@@ -66,6 +67,7 @@ Opine turns fragmented deal signals—calls, messages, and product knowledge—i
 iMpact is a global consulting group helping ambitious companies expand internationally through its proprietary “5R” Methodology, local partnerships, and faster market entry. impact5r.com
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

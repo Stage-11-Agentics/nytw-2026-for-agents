@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["ytCoDkIUv8hCeKoTjFuqM204waq1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 75
+total_guest_count: 76
 approved_guest_count: 0
 local_image: "images/TL8MXl8qHPqIAkpnfOeL.png"
+canceled: false
 ---
 
 # VoiceScale Launch Party
@@ -34,7 +35,7 @@ local_image: "images/TL8MXl8qHPqIAkpnfOeL.png"
 **Hosts:** VoiceScale  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:00pm ET
 **Where:** The Yard: Columbus Circle · 33 W 60th St, New York, NY 10023 · Hudson Yards
-**Going:** 68 of 75
+**Going:** 68 of 76
 **RSVP:** https://partiful.com/e/TL8MXl8qHPqIAkpnfOeL
 **Map:** https://www.google.com/maps/search/?api=1&query=33%20W%2060th%20St%2C%20New%20York%2C%20NY%2010023
 
@@ -59,6 +60,7 @@ Champagne & charcuterie included!
 Try it for yourself: VoiceScale.co
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

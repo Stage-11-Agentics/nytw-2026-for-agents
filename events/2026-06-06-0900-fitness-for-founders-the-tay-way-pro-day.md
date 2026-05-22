@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 177
 approved_guest_count: 130
 local_image: "images/M0IcRybbcOWR9tbpmutm.png"
+canceled: false
 ---
 
 # Fitness For Founders: The TAY Way Pro Day
@@ -98,6 +99,7 @@ Lock it in here: https://tinyurl.com/8nbn8f77
 …
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

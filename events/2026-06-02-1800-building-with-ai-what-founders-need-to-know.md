@@ -26,9 +26,10 @@ owner_ids: ["vIr90wjfnQfMmzXbLgmDFC2aB2j2", "7DFu4rITofNzKIjA7hCx", "cDTBUosGpmY
 is_capped: true
 max_capacity: 80
 remaining_capacity: 11
-total_guest_count: 93
+total_guest_count: 94
 approved_guest_count: 69
 local_image: "images/OABGjYptXq9pQerSnaAq.png"
+canceled: false
 ---
 
 # Building with AI: What Founders Need to Know
@@ -62,6 +63,7 @@ If you are an early-stage founder or GTM operator working on an AI product right
 One question on every RSVP: "What are you building with AI right now?" That is how we keep it worth your time.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

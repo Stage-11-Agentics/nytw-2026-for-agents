@@ -23,6 +23,7 @@ is_capped: false
 total_guest_count: 62
 approved_guest_count: 0
 local_image: "images/MmoaaHh8DQi0Upn3y27E.gif"
+canceled: false
 ---
 
 # Founder Bites: Legal Edition
@@ -47,6 +48,7 @@ local_image: "images/MmoaaHh8DQi0Upn3y27E.gif"
 A morning bringing together founders and legal experts to navigate the key legal challenges of building a startup in the US.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 42
 approved_guest_count: 0
 local_image: "images/v5laWvDWHWiNPxlOocJc.jpg"
+canceled: false
 ---
 
 # Soundcheck: Networking & Deals Insights for the Music Industry
@@ -56,6 +57,7 @@ This networking-focused event is designed to foster meaningful connections acros
 We hope you’ll join us for an engaging evening of insights, conversation, light bites and networking with peers, PwC practitioners and industry participants
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["AJjNwvMOoUaacdaJJDte8xHxGOn2", "0UIng3mfLbfxwv12OBuB7xQPOBj2", "CjK0KzaYg9aYvWrYhLldwPk2Q6N2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 69
+total_guest_count: 75
 approved_guest_count: 56
 local_image: "images/y1upsVnjvL885rva7lkb.jpg"
+canceled: false
 ---
 
 # Does Brand Matter in Venture? Panel & Networking
@@ -34,7 +35,7 @@ local_image: "images/y1upsVnjvL885rva7lkb.jpg"
 **Hosts:** Astronaut Monastery  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 8:30am ET
 **Where:** Wsa Nyc · 161 Water St, New York, NY 10038 · Financial District
-**Going:** 69
+**Going:** 69 of 75
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/y1upsVnjvL885rva7lkb
 **Map:** https://www.google.com/maps/search/?api=1&query=161%20Water%20St%2C%20New%20York%2C%20NY%2010038
@@ -52,6 +53,7 @@ local_image: "images/y1upsVnjvL885rva7lkb.jpg"
 Capital is commoditized so taste is the only thing that matters... right? That's what VC Twitter says at least. Come join the discussion with Reggie James (Creative Director at General Catalyst), Sydney Allen (Building at Imaginary), and Will Danilow (Head of Creative at Astronaut Monastery) on the importance of brand in tech and venture in the changing world of AI.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

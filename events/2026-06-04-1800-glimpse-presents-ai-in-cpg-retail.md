@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 6
 owner_ids: ["7DFu4rITofNzKIjA7hCx", "XjwoeTGq76ZiChQw3hhysTcuKy63", "YhdRDq8Sf4QCrJBKjXteM8QUn1Q2", "UP5l1tREo1bnUjI0g5jP8XOpw5w1", "zmVc05WJmyNakMQJGBNV1h05Fsj1", "G4MvbFWQsyL1QuNlwj0iHjOll953"]
 is_capped: false
-total_guest_count: 280
+total_guest_count: 285
 approved_guest_count: 156
 local_image: "images/9W1eBGct3noonDwcYkad.png"
+canceled: false
 ---
 
 # Glimpse presents AI in CPG & Retail
@@ -34,7 +35,7 @@ local_image: "images/9W1eBGct3noonDwcYkad.png"
 **Hosts:** StartupExperts, Glimpse  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
 **Where:** Happier Grocery · 365 Canal St, New York, NY 10013 · Gramercy Park
-**Going:** 280
+**Going:** 280 of 285
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/9W1eBGct3noonDwcYkad
 **Map:** https://www.google.com/maps/search/?api=1&query=365%20Canal%20St%2C%20New%20York%2C%20NY%2010013
@@ -58,6 +59,7 @@ This special event will be at Happier Grocery! The topic of discussion will be A
 This event is for founders, investors, and operators in the CPG & Retail world.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

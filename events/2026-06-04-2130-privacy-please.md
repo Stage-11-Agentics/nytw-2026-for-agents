@@ -26,9 +26,10 @@ owner_ids: ["mkSzI4cIXoeHH6tgzPItCf9yrDu1", "7DFu4rITofNzKIjA7hCx", "mYIa5Q9dBrV
 is_capped: true
 max_capacity: 100
 remaining_capacity: 48
-total_guest_count: 157
+total_guest_count: 162
 approved_guest_count: 52
 local_image: "images/HwlNp8UC6vwWCBX97Dp9.png"
+canceled: false
 ---
 
 # Privacy Please
@@ -59,6 +60,7 @@ Hosted by the Stellar Development Foundation and Boundless, this is an exclusive
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

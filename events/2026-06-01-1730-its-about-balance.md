@@ -25,6 +25,7 @@ is_capped: false
 total_guest_count: 146
 approved_guest_count: 47
 local_image: "images/SAc0OghDUvILWWZMOeaD.png"
+canceled: false
 ---
 
 # It's about balance
@@ -61,6 +62,7 @@ This event is hosted as a part of the NYTechWeek in partnership with Latinas in 
 This is where technology meets balance.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

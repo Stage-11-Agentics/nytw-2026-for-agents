@@ -26,6 +26,7 @@ remaining_capacity: 116
 total_guest_count: 26
 approved_guest_count: 0
 local_image: "images/E8NhJNHWGhMetLlrFvQ7.gif"
+canceled: false
 ---
 
 # Fireside chat - When coding agents are the user?
@@ -57,6 +58,7 @@ Zo and Tanagram are building into this shift from opposite ends. Zo gives indivi
 Join the founders for a candid conversation on designing for a user that reads everything, hallucinates confidently, and never sleeps — what reliably works, what reliably breaks, and how product thinking changes when tool schemas are the new UI.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -22,10 +22,11 @@ owner_count: 2
 owner_ids: ["OwmxRfAl6OTsJPqJnp2ZT0u2lrN2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 34
-total_guest_count: 16
+remaining_capacity: 33
+total_guest_count: 18
 approved_guest_count: 0
 local_image: "images/RexRXYvIzwqZbEtws5Kt.png"
+canceled: false
 ---
 
 # Land Your First U.S. Tech Opportunity
@@ -35,7 +36,7 @@ local_image: "images/RexRXYvIzwqZbEtws5Kt.png"
 **Hosts:** EZ Visa LLC, DreamIT ESL
 **When:** Tuesday, June 2, 2026 · 1:00pm–2:30pm ET
 **Where:** Korea Town
-**Capacity:** capped at 50 · 16 taken, 34 remaining
+**Capacity:** capped at 50 · 17 taken, 33 remaining
 **RSVP:** https://partiful.com/e/RexRXYvIzwqZbEtws5Kt
 
 ### Hosts on Partiful
@@ -70,6 +71,7 @@ DreamIT ESL · Midtown Manhattan
 Reserve your free seat now. We fill up fast.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

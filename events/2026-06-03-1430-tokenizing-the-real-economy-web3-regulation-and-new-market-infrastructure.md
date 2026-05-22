@@ -25,9 +25,10 @@ owner_ids: ["K8VbBKu06ZV8vlrrA0lK05kqfyT2", "7DFu4rITofNzKIjA7hCx", "UFLWR7fz5Am
 is_capped: true
 max_capacity: 40
 remaining_capacity: 10
-total_guest_count: 31
+total_guest_count: 35
 approved_guest_count: 30
 local_image: "images/KdjtJu1sSTiUTHrehm2e.jpg"
+canceled: false
 ---
 
 # Tokenizing the Real Economy: Web3, Regulation and New Market Infrastructure
@@ -64,6 +65,7 @@ Part of the Argentina Tech Hub @ #NYTechWeek 2026. Co-Host Cámara Argentina Fin
 🗓️ Wednesday, June 3rd · 2:30 PM
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

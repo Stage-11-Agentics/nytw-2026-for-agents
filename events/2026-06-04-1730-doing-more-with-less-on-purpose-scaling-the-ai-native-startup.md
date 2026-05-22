@@ -21,9 +21,10 @@ owner_ids: ["9nRBymraSWWRF2kRCUFUVZBZD443", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 60
 remaining_capacity: 14
-total_guest_count: 92
+total_guest_count: 93
 approved_guest_count: 46
 local_image: "images/dhReyZzxqXT2o2XLNjOT.png"
+canceled: false
 ---
 
 # Doing More With Less (On Purpose): 
@@ -50,6 +51,7 @@ Scaling the AI-Native Startup](images/dhReyZzxqXT2o2XLNjOT.png)
 Most startups hire their way to scale. We're trying something different. At Cogent Security, every function is being built with AI at the core, not bolted on after the fact. Our designer doesn't touch Figma. Our GTM team runs on custom-built tooling instead of off-the-shelf platforms. Our engineers built their own agent development platform from scratch. Our forward deployed engineers build custom models for each customer's environment. Join us at Cogent NYC for a cross-functional panel on what happens when a well-funded team bets on AI to scale every function with a fraction of the headcount. Hear from GTM, R&D, and FDE on how they're doing the work of teams three times their size, not because they have to, but because they believe this is how companies should be built now. Panel + Q&A, followed by drinks. We're hiring people who want to work this way.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

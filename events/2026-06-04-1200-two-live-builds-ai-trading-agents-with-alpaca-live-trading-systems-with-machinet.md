@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 62
 approved_guest_count: 61
 local_image: "images/zR6LO2nZY9AJ78Ya5um9.png"
+canceled: false
 ---
 
 # Two Live Builds: AI Trading Agents with Alpaca + Live Trading Systems with MachineTrader
@@ -72,6 +73,7 @@ You’ll leave with working systems you built yourself.
 Perfect for developers, traders, and builders exploring AI, automation, and real-world trading infrastructure.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -22,6 +22,7 @@ is_capped: false
 total_guest_count: 95
 approved_guest_count: 0
 local_image: "images/ldlqu4a7ndyU37GIi7X0.png"
+canceled: false
 ---
 
 # Healthcare Innovation Night
@@ -48,6 +49,7 @@ Learn more at www.tech-week.com.
 Fireside chat with a healthcare leader , followed by a panel of ai innovation from policy makers, builders, clinicians and operators organized by Owle Ai
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

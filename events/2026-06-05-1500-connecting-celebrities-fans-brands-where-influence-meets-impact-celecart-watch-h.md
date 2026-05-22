@@ -25,10 +25,11 @@ owner_count: 2
 owner_ids: ["attdj4PQElSaREPUM9qrhDPXgV43", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 200
-remaining_capacity: 108
-total_guest_count: 123
-approved_guest_count: 92
+remaining_capacity: 106
+total_guest_count: 124
+approved_guest_count: 94
 local_image: "images/KbU1aXj8PlE4DHqMi7nL.gif"
+canceled: false
 ---
 
 # Connecting Celebrities, Fans & Brands, Where Influence Meets Impact — Celecart × Watch Her Win at
@@ -38,7 +39,7 @@ local_image: "images/KbU1aXj8PlE4DHqMi7nL.gif"
 **Hosts:** Celecart Inc., Watch Her Win New York
 **When:** Friday, June 5, 2026 · 3:00pm–7:00pm ET
 **Where:** Kimmel Center for University Life · 60 Washington Square S, New York, NY 10012 · Greenwich Village
-**Capacity:** capped at 200 · 92 taken, 108 remaining
+**Capacity:** capped at 200 · 94 taken, 106 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/KbU1aXj8PlE4DHqMi7nL
 **Map:** https://www.google.com/maps/search/?api=1&query=60%20Washington%20Square%20S%2C%20New%20York%2C%20NY%2010012
@@ -105,6 +106,7 @@ Come for the conversations. Stay for the connections.
 Be part of a community shaping what’s next.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -22,10 +22,11 @@ owner_count: 3
 owner_ids: ["sD0UwfaA4NSsXsK8HWfN75E7F5f2", "7DFu4rITofNzKIjA7hCx", "LCd4p3Wp9qdKr8bP4FC4wAAW1td2"]
 is_capped: true
 max_capacity: 200
-remaining_capacity: 78
-total_guest_count: 228
-approved_guest_count: 122
+remaining_capacity: 79
+total_guest_count: 232
+approved_guest_count: 121
 local_image: "images/u7hEfXqivicjdtYs1gWX.png"
+canceled: false
 ---
 
 # Summer Happy Hour Mixer
@@ -35,7 +36,7 @@ local_image: "images/u7hEfXqivicjdtYs1gWX.png"
 **Hosts:** United Women in Business Foundation  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:30pm–8:30pm ET
 **Where:** Midtown
-**Capacity:** capped at 200 · 122 taken, 78 remaining
+**Capacity:** capped at 200 · 121 taken, 79 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/u7hEfXqivicjdtYs1gWX
 
@@ -57,6 +58,7 @@ Please note: this is a no-host event—guests are responsible for opening their 
 About UWIB:  UWIB is a 501(c)(3) non-profit organization dedicated to the professional and personal development of women across all industries (including tech), fostering meaningful connections through educational programming, membership events, and philanthropic initiatives.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

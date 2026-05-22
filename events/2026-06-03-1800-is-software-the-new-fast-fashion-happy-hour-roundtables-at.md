@@ -20,10 +20,11 @@ owner_count: 2
 owner_ids: ["hsnp5FoALPURiEXwT6PKna3we1Y2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 80
-remaining_capacity: 38
-total_guest_count: 74
-approved_guest_count: 42
+remaining_capacity: 39
+total_guest_count: 75
+approved_guest_count: 41
 local_image: "images/4iLm6df7Ix4OxkTWsJ5m.png"
+canceled: false
 ---
 
 # Is Software the New Fast Fashion? Happy Hour Roundtables at
@@ -33,7 +34,7 @@ local_image: "images/4iLm6df7Ix4OxkTWsJ5m.png"
 **Hosts:** Alternew, Sublayer
 **When:** Wednesday, June 3, 2026 · 6:00pm ET
 **Where:** Flatiron
-**Capacity:** capped at 80 · 42 taken, 38 remaining
+**Capacity:** capped at 80 · 41 taken, 39 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/4iLm6df7Ix4OxkTWsJ5m
 
@@ -72,6 +73,7 @@ By registering, you'll be subscribed to Works on My Machine and The Repair Era. 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 Approval required.
+
 
 
 

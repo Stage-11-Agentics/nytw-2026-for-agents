@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["iJxurtBeiMgkRgpbK6w9GoGKRxc2", "7DFu4rITofNzKIjA7hCx", "b422gjjYvBb1Aq5dTbpbfXeRBx22", "AJpbH1w1gtYmoq9CXB6LMmcAFfJ2"]
 is_capped: false
-total_guest_count: 586
-approved_guest_count: 226
+total_guest_count: 589
+approved_guest_count: 225
 local_image: "images/mY668vnewsDXdE4O8vNn.png"
+canceled: false
 ---
 
 # Investment to Acquisition II: How Founders Went From $0-$10M  with TRV and AWS hosting
@@ -33,7 +34,7 @@ local_image: "images/mY668vnewsDXdE4O8vNn.png"
 **Hosts:** AWS, Thomson Reuters  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 4:00pm–6:00pm ET
 **Where:** Midtown
-**Going:** 583 of 586
+**Going:** 583 of 589
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/mY668vnewsDXdE4O8vNn
 
@@ -71,6 +72,7 @@ Hear from founders who have scaled from $0-10M+.
 DISCLAIMER: By signing up to attend the Thomson Reuters Ventures event, you are also agreeing to receive communication post event, thanking you for your attendance.  
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

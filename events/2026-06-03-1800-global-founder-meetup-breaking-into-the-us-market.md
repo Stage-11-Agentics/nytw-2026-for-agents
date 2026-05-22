@@ -25,6 +25,7 @@ is_capped: false
 total_guest_count: 81
 approved_guest_count: 49
 local_image: "images/6rbvin19cnCqiv6pRd3v.png"
+canceled: false
 ---
 
 # Global Founder Meetup:
@@ -97,6 +98,7 @@ Build Momentum is a venture studio helping international founders enter and grow
 Holland & Knight is a global law firm supporting companies, founders, investors, and institutions across key legal, regulatory, transactional, and growth moments.
 
 This event is part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

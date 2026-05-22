@@ -26,9 +26,10 @@ owner_ids: ["pQ3xGotUklOyTD8ce2bAdMWBNh03", "7DFu4rITofNzKIjA7hCx", "3lxS59WXSxc
 is_capped: true
 max_capacity: 300
 remaining_capacity: 249
-total_guest_count: 101
+total_guest_count: 102
 approved_guest_count: 51
 local_image: "images/GxfjRxDRUK8wgxH6UMG6.png"
+canceled: false
 ---
 
 # Robots & Rollups
@@ -61,6 +62,7 @@ The only #NYTechWeek event bringing physical AI and crypto under one roof.
 Join founders, researchers, engineers, investors, and frontier builders for an evening exploring the future of embodied intelligence.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

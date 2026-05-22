@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["uApvhqqBJHgxlygeEyrMitgt3im2", "7DFu4rITofNzKIjA7hCx", "aloZ9e6N5tfmqe2skhb8NYFqIA32", "3TUQmL3togf2wRlReFSlHlBui5y2"]
 is_capped: false
-total_guest_count: 421
+total_guest_count: 422
 approved_guest_count: 86
 local_image: "images/OAnyZlPESteKmm6ypzfC.jpg"
+canceled: false
 ---
 
 # Right To Invest - Opening Night
@@ -34,7 +35,7 @@ local_image: "images/OAnyZlPESteKmm6ypzfC.jpg"
 **Hosts:** Right To Invest, Pier  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:30pm ET
 **Where:** Flatiron · Flatiron, Manhattan, New York, NY · Flatiron
-**Going:** 421
+**Going:** 421 of 422
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/OAnyZlPESteKmm6ypzfC
 **Map:** https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -69,6 +70,7 @@ and a room full of people actually building the future
 Presented with our partners at Sydecar and EisnerAmper.
 
 This event is part of #NYTechWeek.
+
 
 
 

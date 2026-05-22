@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["2fWTeB3MdsQsy5ttwHemdYxrCK22", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 1376
-approved_guest_count: 166
+total_guest_count: 1379
+approved_guest_count: 174
 local_image: "images/oCQeG6SZP23qz5nvcxBh.jpg"
+canceled: false
 ---
 
 # Building Products That Scale Globally
@@ -34,7 +35,7 @@ local_image: "images/oCQeG6SZP23qz5nvcxBh.jpg"
 **Hosts:** Travelbay  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 10:00am ET
 **Where:** Manhattan · Manhattan, New York, NY · Upper Manhattan
-**Going:** 1373 of 1376
+**Going:** 1373 of 1379
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/oCQeG6SZP23qz5nvcxBh
 **Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -86,6 +87,7 @@ Hosted by Travelbay: www.partners.travelbayonline.com
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

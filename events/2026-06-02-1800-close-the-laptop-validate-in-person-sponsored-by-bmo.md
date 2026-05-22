@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 2015
 approved_guest_count: 42
 local_image: "images/oS8dmcPrh1qCmoXJmag0.png"
+canceled: false
 ---
 
 # Close the Laptop, Validate in Person (Sponsored by BMO)
@@ -71,6 +72,7 @@ BMO has strong roots in and a deep understanding of the technology space and its
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

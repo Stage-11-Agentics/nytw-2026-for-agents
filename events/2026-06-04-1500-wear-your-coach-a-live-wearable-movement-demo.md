@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["tDxuHGVN3STHFrYHW4GSofCuQXQ2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 67
+total_guest_count: 68
 approved_guest_count: 0
 local_image: "images/wzyk1u8WVdwAoMGw0ceX.png"
+canceled: false
 ---
 
 # Wear Your Coach: A Live Wearable Movement Demo
@@ -34,7 +35,7 @@ local_image: "images/wzyk1u8WVdwAoMGw0ceX.png"
 **Hosts:** Dongan Electrical Engineering  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 3:00pm ET
 **Where:** Chinatown · Chinatown, Manhattan, New York, NY · Chinatown
-**Going:** 67
+**Going:** 67 of 68
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/wzyk1u8WVdwAoMGw0ceX
 **Map:** https://www.google.com/maps/search/?api=1&query=Chinatown%2C%20Chinatown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -62,6 +63,7 @@ Whether you're into wearables, healthtech, fitness, or just curious what it feel
 No medical background needed. Just bring your body.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

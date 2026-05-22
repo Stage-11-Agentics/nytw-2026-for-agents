@@ -23,9 +23,10 @@ owner_ids: ["iwFIMx4lwMXK2vRjUxtiVw55MZ02", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 175
 remaining_capacity: 175
-total_guest_count: 73
+total_guest_count: 74
 approved_guest_count: 0
 local_image: "images/tj3InkMnP0GqUzdUcKqD.png"
+canceled: false
 ---
 
 # GP/LP Deep Tech Dinner
@@ -49,6 +50,7 @@ Funding & building the future of deep tech._
 ## Description
 
 GPs & LPs in deep-tech. No pitches, no panels — just the conversations that matter. An intimate dinner during NY Tech Week.
+
 
 
 

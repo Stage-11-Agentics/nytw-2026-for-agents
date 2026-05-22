@@ -25,6 +25,7 @@ remaining_capacity: 151
 total_guest_count: 57
 approved_guest_count: 0
 local_image: "images/wgdV8OJvF9oyEsgJbfR7.jpg"
+canceled: false
 ---
 
 # The Rise Circle - The Reset Room Sound Bath
@@ -55,6 +56,7 @@ _______________
 
 Interested in becoming a sponsor/ vendor for this event? Fill out the form below to apply. We are seeking partners who share our commitment to innovation, impact, and the people shaping what's next.
 http://bit.ly/4nk7c9E
+
 
 
 

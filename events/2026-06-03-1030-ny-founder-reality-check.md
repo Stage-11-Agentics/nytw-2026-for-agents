@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 480
 approved_guest_count: 83
 local_image: "images/gP72ufePZapekTZvw8WN.png"
+canceled: false
 ---
 
 # NY: FOUNDER REALITY CHECK
@@ -61,6 +62,7 @@ Who It’s For:
 Founders (Pre-Seed to Series A) who need to scale: revenue; customers; or product.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

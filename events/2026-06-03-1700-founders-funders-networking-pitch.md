@@ -22,6 +22,7 @@ is_capped: false
 total_guest_count: 74
 approved_guest_count: 27
 local_image: "images/9WH7EL7bJTzYq0nWA0US.png"
+canceled: false
 ---
 
 # Founders & Funders Networking + Pitch
@@ -54,6 +55,7 @@ local_image: "images/9WH7EL7bJTzYq0nWA0US.png"
 ​Excited to see you all there!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

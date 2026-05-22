@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["Hm2En1w43SRqK6VkFl8CQKGWvCh1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 40
+total_guest_count: 42
 approved_guest_count: 35
 local_image: "images/p9eZwFALkLMiqIkrHbvK.jpg"
+canceled: false
 ---
 
 # Women Shaping the Future of Fintech
@@ -36,7 +37,7 @@ local_image: "images/p9eZwFALkLMiqIkrHbvK.jpg"
 **Hosts:** Women X  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Sunday, June 7, 2026 · 8:30am–12:00pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 39 of 40
+**Going:** 39 of 42
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/p9eZwFALkLMiqIkrHbvK
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -62,6 +63,7 @@ To keep the community thoughtful and relevant, attendance will be curated. We as
 We hope this can be a space to meet, learn, and support one another.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

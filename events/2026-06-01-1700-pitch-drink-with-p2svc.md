@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["XgRWfj3YFqXEwW9IhkYqrH388Wq2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 304
+total_guest_count: 309
 approved_guest_count: 83
 local_image: "images/lbtUQ9LI46kiVvnjYt8X.jpg"
+canceled: false
 ---
 
 # Pitch & Drink 
@@ -36,7 +37,7 @@ with P2S.vc 🥤](images/lbtUQ9LI46kiVvnjYt8X.jpg)
 **Hosts:** P2S.vc  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 5:00pm ET
 **Where:** 11 Grand Central East · 11 Grand Central East,, New York, NY 10017 · Midtown
-**Going:** 303 of 304
+**Going:** 303 of 309
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/lbtUQ9LI46kiVvnjYt8X
 **Map:** https://www.google.com/maps/search/?api=1&query=11%20Grand%20Central%20East%2C%2C%20New%20York%2C%20NY%2010017
@@ -74,6 +75,7 @@ Pre-seed to Succeed (P2S) is helping young and ambitious companies raise their f
 If you have any questions please contact us by email: raise@p2s.vc
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

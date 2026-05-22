@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 25
 approved_guest_count: 0
 local_image: "images/X1IMmy3aSHWtcbjmQwoP.png"
+canceled: false
 ---
 
 # BGDE X STEMXUS Open House
@@ -64,6 +65,7 @@ During this open house, attendees will:
 This is a focused opportunity for educators, parents, and partners to see our product in action and understand how BGDE and STEMXUS™ are leveraging technology to transform STEM education.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

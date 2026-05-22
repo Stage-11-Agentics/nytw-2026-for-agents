@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["9K2ip5KfG1VOTKg73Vjq", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 87
+total_guest_count: 90
 approved_guest_count: 65
 local_image: "images/5QlpVYkqD9Tuljy0Cfzv.png"
+canceled: false
 ---
 
 # Healthtech Founder + MBA Mixer
@@ -36,7 +37,7 @@ local_image: "images/5QlpVYkqD9Tuljy0Cfzv.png"
 **Hosts:** Scalpels & Spreadsheets, Fordham University
 **When:** Wednesday, June 3, 2026 · 9:30am–11:30am ET
 **Where:** 307 West 38th Street · 307 W 38th St, New York, NY 10018 · Midtown
-**Going:** 87
+**Going:** 87 of 90
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/5QlpVYkqD9Tuljy0Cfzv
 **Map:** https://www.google.com/maps/search/?api=1&query=307%20W%2038th%20St%2C%20New%20York%2C%20NY%2010018
@@ -62,6 +63,7 @@ Networking:  9.30 - 11.30AM
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

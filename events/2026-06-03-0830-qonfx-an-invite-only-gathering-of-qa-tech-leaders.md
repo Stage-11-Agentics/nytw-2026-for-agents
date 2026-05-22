@@ -26,6 +26,7 @@ is_capped: false
 total_guest_count: 7
 approved_guest_count: 1
 local_image: "images/orQg3cOa8TT6n5TAgni0.png"
+canceled: false
 ---
 
 # QonfX - An Invite-Only Gathering of QA & Tech Leaders
@@ -96,6 +97,7 @@ QonfX is brought to you by The Test Tribe, the World's Largest Software Testing/
 
 The Test Tribe is the world's largest Software Testing Community with over 900+ events, 45 offline chapters, and members in 136+ countries. They have run 26 large-scale Testing Conferences gathering thousands of professionals across the globe.
 Started in 2018 with a mission to give Testing Craft the glory it deserves, The Test Tribe co-creates smarter, prouder, and more confident testers, intending to provide life-altering growth to every serious Testing and Tech professional on the planet through community and technology.
+
 
 
 

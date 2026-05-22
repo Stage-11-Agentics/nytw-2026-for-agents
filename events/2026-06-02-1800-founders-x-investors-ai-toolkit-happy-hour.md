@@ -25,8 +25,9 @@ owner_count: 3
 owner_ids: ["YFnPMvlFrcfWjtE6PBVqVX8udC73", "7DFu4rITofNzKIjA7hCx", "7zRUtTpKxyIDK9UN0Sim"]
 is_capped: false
 total_guest_count: 37
-approved_guest_count: 28
+approved_guest_count: 32
 local_image: "images/Vs2eC7nERtgF0PgNWfUo.png"
+canceled: false
 ---
 
 # Founders x Investors AI Toolkit & Happy Hour
@@ -65,6 +66,7 @@ Expect panel discussions, networking, happy hour with AI robots bartenders, and 
 Learn more about Hatsu: https://hatsu.life
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

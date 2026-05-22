@@ -26,6 +26,7 @@ remaining_capacity: 432
 total_guest_count: 76
 approved_guest_count: 68
 local_image: "images/JZl9gHlfQ6edJxp2BoCy.png"
+canceled: false
 ---
 
 # FIN.TECH MARKETING CONFERENCE: DRIVING SALES & DEMAND IN AN AI WORLD
@@ -54,6 +55,7 @@ From keynote discussions on economic shifts, AI-powered growth, and the future o
 Whether you’re leading brand transformation, accelerating pipeline growth, scaling customer acquisition, or navigating investment and expansion, this is a not-to-be-missed opportunity to connect with senior peers, investors, partners, and innovators across the global FinTech ecosystem. As part of NY Tech Week, this event places you at the center of one of the world’s most influential weeks for technology, venture, and startup leadership, offering unparalleled networking, actionable insights, and strategic opportunities to fuel your next stage of growth.
 
 This event is a part of #NYTechWeek a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

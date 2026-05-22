@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["zWex7L0Z7fd78qOi2mNsYUW3E7x2", "UFLWR7fz5AmfgETqvyYh", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 12
+total_guest_count: 14
 approved_guest_count: 0
 local_image: "images/WJDHl4NiUwrLHeQxBi7S.jpg"
+canceled: false
 ---
 
 # Why Argentina? Key Facts About Argentina's Knowledge-Based Economy. Zoom in: Argentina Delivers
@@ -31,7 +32,7 @@ local_image: "images/WJDHl4NiUwrLHeQxBi7S.jpg"
 **Hosts:** Consulate General of Argentina in New York, Argencon  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 11:00am ET
 **Where:** Midtown
-**Going:** 11 of 12
+**Going:** 11 of 14
 **RSVP:** https://partiful.com/e/WJDHl4NiUwrLHeQxBi7S
 
 ### Hosts on Partiful
@@ -46,6 +47,7 @@ local_image: "images/WJDHl4NiUwrLHeQxBi7S.jpg"
 A comprehensive overview of the Knowledge Economy (KE) in its broadest sense, covering all industry verticals. We will analyze Argentina's competitive advantages within a nearshoring framework, and how local talent and expertise position the country as a strategic hub for global services and innovation.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

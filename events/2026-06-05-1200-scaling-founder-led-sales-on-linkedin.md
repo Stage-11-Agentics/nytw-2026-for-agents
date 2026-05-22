@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["X7qRCNwv9WOLzTGBgOJh5WuEYoo1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 10
-approved_guest_count: 7
+total_guest_count: 14
+approved_guest_count: 9
 local_image: "images/yR1Y0eCTykwsyhDIgUsA.png"
+canceled: false
 ---
 
 # Scaling Founder-led Sales on LinkedIn
@@ -33,7 +34,7 @@ local_image: "images/yR1Y0eCTykwsyhDIgUsA.png"
 **Hosts:** KRCG  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 12:00pm–1:00pm ET
 **Where:** Virtual (NYC)
-**Going:** 9 of 10
+**Going:** 9 of 14
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/yR1Y0eCTykwsyhDIgUsA
 
@@ -122,6 +123,7 @@ What you’ll walk away with:
 
 -Messaging principles that improve response quality
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

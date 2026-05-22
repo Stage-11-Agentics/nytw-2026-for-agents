@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["lBqccofxrbQh6vp4voskRWTy8oV2", "7DFu4rITofNzKIjA7hCx", "Wmi3D8mCKLf33TZ7c32PFo9bzu53"]
 is_capped: false
-total_guest_count: 145
+total_guest_count: 148
 approved_guest_count: 55
 local_image: "images/zZNGc5V5hVR8uBY2OA0j.png"
+canceled: false
 ---
 
 # Investors and Operators Roundtable: The Disruptive AI Operating Model
@@ -34,7 +35,7 @@ local_image: "images/zZNGc5V5hVR8uBY2OA0j.png"
 **Hosts:** StartOut, Out in Tech  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm ET
 **Where:** Midtown Manhattan · Midtown Manhattan, Manhattan, New York, NY · Midtown
-**Going:** 145
+**Going:** 145 of 148
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/zZNGc5V5hVR8uBY2OA0j
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%20Manhattan%2C%20Midtown%20Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -57,6 +58,7 @@ Where is AI actually creating enterprise value and how are organizations structu
 This is a closed-door, operator and executive level discussion centered on real AI execution, measurable outcomes, and practical lessons from deploying AI across portfolio companies and enterprise environments.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

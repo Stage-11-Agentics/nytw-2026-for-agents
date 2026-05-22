@@ -24,10 +24,11 @@ owner_count: 5
 owner_ids: ["xCFVjdlS8ldHm9wr0M8SsXKTCtL2", "7DFu4rITofNzKIjA7hCx", "GYyWDhY5rwSidNAewWZs", "wvQfJCFYRxNUnGP0hgh4jBPgVcl1", "CkVtjnOW58MTKDelkO568pWXTfo2"]
 is_capped: true
 max_capacity: 450
-remaining_capacity: 129
-total_guest_count: 639
-approved_guest_count: 321
+remaining_capacity: 116
+total_guest_count: 647
+approved_guest_count: 334
 local_image: "images/3kdgu631rtkqSSFe5ZmO.jpg"
+canceled: false
 ---
 
 # Fin x Clay: Scaling CX in the AI Era
@@ -37,7 +38,7 @@ local_image: "images/3kdgu631rtkqSSFe5ZmO.jpg"
 **Hosts:** Fin, Clay  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:30pm–9:00pm ET
 **Where:** 18 E 50th St, New York, NY 10022 · Midtown
-**Capacity:** capped at 450 · 321 taken, 129 remaining
+**Capacity:** capped at 450 · 334 taken, 116 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/3kdgu631rtkqSSFe5ZmO
 **Map:** https://www.google.com/maps/search/?api=1&query=18%20E%2050th%20St%2C%20New%20York%2C%20NY%2010022
@@ -64,6 +65,7 @@ Join Declan Ivory, VP of Customer Support at Fin / Intercom, and George Dilthey,
 This one's for teams who are past the starting line and ready to talk about what comes next.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

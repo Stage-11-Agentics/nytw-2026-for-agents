@@ -26,6 +26,7 @@ remaining_capacity: 52
 total_guest_count: 33
 approved_guest_count: 0
 local_image: "images/0qepwkdEYxO5OYEvQ52k.png"
+canceled: false
 ---
 
 # Bridge the Tech Gap, a networking run for charity
@@ -59,6 +60,7 @@ The run will be approximately 3 miles with a shorter walk option.
 For every runner that joins us, we will be making a donation to Still I Run. Still I Run is a running-based mental health nonprofit focused on supporting, inspiring, and uniting people in their journey toward better mental health through running.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

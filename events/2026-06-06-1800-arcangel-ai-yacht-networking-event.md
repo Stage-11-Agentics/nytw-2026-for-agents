@@ -24,11 +24,12 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["sWHuwb0VcXYIlX0haVRbvh81Frg2", "7DFu4rITofNzKIjA7hCx", "lEGAntwKqyPx0BSwonGmtDXbwy83", "oDLUr6X1VahiQxJc4pCQ6g6GYOh2"]
 is_capped: true
-max_capacity: 70
-remaining_capacity: 26
-total_guest_count: 591
-approved_guest_count: 44
+max_capacity: 55
+remaining_capacity: 7
+total_guest_count: 599
+approved_guest_count: 48
 local_image: "images/H2RtNpAkYJHw4iZapT8w.png"
+canceled: false
 ---
 
 # Arcangel AI Yacht Networking Event
@@ -38,7 +39,7 @@ local_image: "images/H2RtNpAkYJHw4iZapT8w.png"
 **Hosts:** Arcangel AI, JP Morgan, SHOPLINE  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 6:00pm–8:00pm ET
 **Where:** Chelsea, nyc · 415 W 20th St, New York, NY 10011 · Upper East Side
-**Capacity:** capped at 70 · 44 taken, 26 remaining
+**Capacity:** capped at 55 · 48 taken, 7 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/H2RtNpAkYJHw4iZapT8w
 **Map:** https://www.google.com/maps/search/?api=1&query=415%20W%2020th%20St%2C%20New%20York%2C%20NY%2010011
@@ -68,6 +69,7 @@ In partnership with an incredible lineup of innovators, operators, and global br
 • Red Bull: Official energy partner helping fuel the entire experience from start to finish.
 
 From venture capital and AI to commerce, media, and consumer brands, this is where the next generation of builders connects.
+
 
 
 

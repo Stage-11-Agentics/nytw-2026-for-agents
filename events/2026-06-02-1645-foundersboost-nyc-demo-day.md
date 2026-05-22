@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["TXaNZd8717hRsOx1osMJCIgUsxM2", "7DFu4rITofNzKIjA7hCx", "3Ntx65GqklbErEPBv6YT4iMkp0J3"]
 is_capped: false
-total_guest_count: 33
-approved_guest_count: 27
+total_guest_count: 35
+approved_guest_count: 34
 local_image: "images/N5MNmuL6UAxVrfURtxc8.png"
+canceled: false
 ---
 
 # FoundersBoost NYC Demo Day |
@@ -36,7 +37,7 @@ local_image: "images/N5MNmuL6UAxVrfURtxc8.png"
 **Hosts:** FoundersBoost  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:45pm–6:15pm ET
 **Where:** Morrison & Foerster · 250 W 55th St, New York, NY 10019 · Midtown
-**Going:** 33
+**Going:** 33 of 35
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/N5MNmuL6UAxVrfURtxc8
 **Map:** https://www.google.com/maps/search/?api=1&query=250%20W%2055th%20St%2C%20New%20York%2C%20NY%2010019
@@ -67,6 +68,7 @@ Presenting startups include:
 * Orbis — AI relationship OS for GTM teams that unifies multi-channel intelligence, 1,000+ integrations, extensible AI agents, and rich relationship context in one collaborative hub
 * QuantumOS — Builds quantum AI agents that turn plain-language objectives into hybrid classical and quantum optimization workflows for capital markets.
 * SwiftSound — AI-native ultrasound and proprietary needle guidance that help any doctor perform interventional radiology procedures with veteran-level precision while reducing patient risk.
+
 
 
 

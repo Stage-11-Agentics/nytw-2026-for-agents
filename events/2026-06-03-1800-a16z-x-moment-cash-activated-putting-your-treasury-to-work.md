@@ -23,10 +23,11 @@ owner_count: 3
 owner_ids: ["bxP1rSBK2xYGrvMiWILHTJF9xlT2", "7DFu4rITofNzKIjA7hCx", "EKMX6cjJRYgrdMUjBxEJFggLhdZ2"]
 is_capped: true
 max_capacity: 40
-remaining_capacity: 28
-total_guest_count: 197
-approved_guest_count: 12
+remaining_capacity: 27
+total_guest_count: 200
+approved_guest_count: 13
 local_image: "images/kXqJB4I9b8Miigs1mIjM.png"
+canceled: false
 ---
 
 # a16z x Moment: Cash, Activated — Putting Your Treasury to Work
@@ -36,7 +37,7 @@ local_image: "images/kXqJB4I9b8Miigs1mIjM.png"
 **Hosts:** a16z, Moment  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm ET
 **Where:** New York · New York, NY · Midtown
-**Capacity:** capped at 40 · 12 taken, 28 remaining
+**Capacity:** capped at 40 · 13 taken, 27 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/kXqJB4I9b8Miigs1mIjM
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20New%20York%2C%20NY
@@ -60,6 +61,7 @@ Join a16z and Moment — the AI operating system for fixed income and treasury m
 Expect candid discussion, peer learning, and the kind of conversations that don’t happen at larger conferences. Limited seats — finance leaders and controllers only.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["X7qRCNwv9WOLzTGBgOJh5WuEYoo1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 38
-approved_guest_count: 35
+total_guest_count: 39
+approved_guest_count: 36
 local_image: "images/7xiFS67WNTZphi6dvhYs.png"
+canceled: false
 ---
 
 # Ask a VP of Sales: Live GTM Office Hours for Early-Stage B2B Founders (Virtual)
@@ -33,7 +34,7 @@ local_image: "images/7xiFS67WNTZphi6dvhYs.png"
 **Hosts:** KRCG  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Sunday, June 7, 2026 · 12:00pm–1:00pm ET
 **Where:** Virtual (NYC)
-**Going:** 38
+**Going:** 38 of 39
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/7xiFS67WNTZphi6dvhYs
 
@@ -74,6 +75,7 @@ Host will message you with a recommended 15- minute time slot during the hour, b
 Kat's LinkedIn: https://www.linkedin.com/in/kat-rucker/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

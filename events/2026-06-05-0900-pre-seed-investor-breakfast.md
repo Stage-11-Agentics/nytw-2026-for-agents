@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["uUrmzwgWzXOxIACnio8Ds9PY6zq2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 291
+total_guest_count: 299
 approved_guest_count: 0
 local_image: "images/MHdN7iIv7D3p7uXBnItl.png"
+canceled: false
 ---
 
 # Pre-Seed Investor Breakfast
@@ -33,7 +34,7 @@ local_image: "images/MHdN7iIv7D3p7uXBnItl.png"
 **Hosts:** Generous Ventures  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 9:00am–11:00am ET
 **Where:** Midtown
-**Going:** 290 of 291
+**Going:** 290 of 299
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/MHdN7iIv7D3p7uXBnItl
 
@@ -48,6 +49,7 @@ local_image: "images/MHdN7iIv7D3p7uXBnItl.png"
 ​We are bringing together NYC's earliest stage investors, and those visiting, to connect and build community. For angels, VCs, FOs, CVCs, and accelerators alike, this is a context for all of the above. Only open to investors. We will share breakfast, have some time to connect, and enjoy potential serendipity. And all attendees will be able to join a monthly deal sharing event that Mike hosts, where investors share deals they actively diligence to connect founders with other investors.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

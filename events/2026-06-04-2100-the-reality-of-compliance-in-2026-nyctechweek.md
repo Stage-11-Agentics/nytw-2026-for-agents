@@ -27,6 +27,7 @@ remaining_capacity: 14
 total_guest_count: 24
 approved_guest_count: 1
 local_image: "images/Ud6pAKoIDVMAvYh2lHHQ.png"
+canceled: false
 ---
 
 # The Reality of Compliance in 2026 - #NYCTechWeek
@@ -63,6 +64,7 @@ Discussion themes include:
 This roundtable dinner has an intentionally limited capacity to ensure quality conversation for all guests. We regret that we won't be able to accept all RSVPs.
 
 This event is a part of #NYCTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

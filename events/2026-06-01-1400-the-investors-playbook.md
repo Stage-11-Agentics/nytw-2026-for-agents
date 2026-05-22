@@ -21,22 +21,23 @@ at_capacity: false
 going_guest_count: 206
 badges: []
 fetch_status: ok
-owner_count: 2
-owner_ids: ["9K2ip5KfG1VOTKg73Vjq", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 3
+owner_ids: ["9K2ip5KfG1VOTKg73Vjq", "7DFu4rITofNzKIjA7hCx", "CEjtEbOdG6Y3uevhjVKqqg9JqAl1"]
 is_capped: false
-total_guest_count: 206
+total_guest_count: 210
 approved_guest_count: 156
 local_image: "images/Ly9laOHFYulhosojIy6U.png"
+canceled: false
 ---
 
 # The Investor's Playbook
 
 ![The Investor's Playbook](images/Ly9laOHFYulhosojIy6U.png)
 
-**Hosts:** Scalpels & Spreadsheets, KLI Capital
+**Hosts:** Scalpels & Spreadsheets, KLI Capital  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 2:00pm–5:00pm ET
 **Where:** 307 West 38th Street · 307 W 38th St, New York, NY 10018 · Midtown
-**Going:** 206
+**Going:** 206 of 210
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Ly9laOHFYulhosojIy6U
 **Map:** https://www.google.com/maps/search/?api=1&query=307%20W%2038th%20St%2C%20New%20York%2C%20NY%2010018
@@ -44,6 +45,7 @@ local_image: "images/Ly9laOHFYulhosojIy6U.png"
 ### Hosts on Partiful
 
 - [Scalpels & Spreadsheets](https://partiful.com/u/9K2ip5KfG1VOTKg73Vjq) — _North America's fastest growing healthcare community_
+- [user `CEjtEbOdG6Y3uevhjVKqqg9JqAl1`](https://partiful.com/u/CEjtEbOdG6Y3uevhjVKqqg9JqAl1) _(name not resolved)_
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -76,6 +78,7 @@ Available sponsorships:
 1 x Title Sponsor
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

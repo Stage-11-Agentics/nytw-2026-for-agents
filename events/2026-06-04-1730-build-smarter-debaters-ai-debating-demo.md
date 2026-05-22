@@ -29,6 +29,7 @@ remaining_capacity: 150
 total_guest_count: 29
 approved_guest_count: 0
 local_image: "images/sCa5LOBUv2QarQsmzthk.png"
+canceled: false
 ---
 
 # Build Smarter Debaters: AI Debating Demo —
@@ -71,6 +72,7 @@ that domain experts actually trust.
 Built by a debater. Now it's fighting back.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

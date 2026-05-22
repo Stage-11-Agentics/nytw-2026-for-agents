@@ -26,9 +26,10 @@ owner_ids: ["sDFAL73di4NhLzanp9cYYvRR1a12", "UFLWR7fz5AmfgETqvyYh", "7DFu4rITofN
 is_capped: true
 max_capacity: 60
 remaining_capacity: 45
-total_guest_count: 19
+total_guest_count: 20
 approved_guest_count: 15
 local_image: "images/ZT09j5tN5H4GPqoEYnwJ.png"
+canceled: false
 ---
 
 # Structuring for Global Capital: How Argentina's Digital Zones Can Compete with Dubai and Estonia
@@ -57,6 +58,7 @@ Argentina has studied the playbook. Dubai built a jurisdiction from scratch. Est
 Co-hosted by the Consulate General of Argentina in New York, this session brings together founders, investors, and officials to pressure-test that thesis openly. What would it actually take for Argentina to compete — and win — global capital at that level?
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

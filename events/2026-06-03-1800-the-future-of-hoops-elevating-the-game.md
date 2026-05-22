@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["xTCkQnV4Tn2zumsvPgtk", "7DFu4rITofNzKIjA7hCx", "WTIXSXxZ3lO4NbhIjpZuN9Iqdx32"]
 is_capped: false
-total_guest_count: 47
+total_guest_count: 49
 approved_guest_count: 0
 local_image: "images/FMX9rru8M9pmgR5aBG57.png"
+canceled: false
 ---
 
 # The Future of Hoops: Elevating The Game
@@ -31,7 +32,7 @@ local_image: "images/FMX9rru8M9pmgR5aBG57.png"
 **Hosts:** Andiem, Swish House, SportsVisio, New Edition (& Founders Basketball)
 **When:** Wednesday, June 3, 2026 · 6:00pm ET
 **Where:** Union Square
-**Going:** 47
+**Going:** 47 of 49
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/FMX9rru8M9pmgR5aBG57
 
@@ -76,6 +77,7 @@ We're excited to host another evening of hoops with the NYC Tech Community.
 ​Location to be shared with confirmed attendees.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

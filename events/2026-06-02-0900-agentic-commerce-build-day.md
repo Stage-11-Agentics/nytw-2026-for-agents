@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 6
 owner_ids: ["64JYOa64QjXp9L1GicW02t0QHZF3", "7DFu4rITofNzKIjA7hCx", "8pTQBTDs9FfsDN8opizRj8ZKXeg1", "fEDrl39A2sapOZdqlQS4xKtu0Qj1", "S1H1mharW8TawdbQkeTUJvYMiHP2", "1BP7bszmiLZBK9thhgaVd16Pu532"]
 is_capped: false
-total_guest_count: 388
+total_guest_count: 397
 approved_guest_count: 184
 local_image: "images/yZ0XKuQUzUUArbmiCNh5.jpg"
+canceled: false
 ---
 
 # Agentic Commerce: Build Day
@@ -36,7 +37,7 @@ local_image: "images/yZ0XKuQUzUUArbmiCNh5.jpg"
 **Hosts:** Tavily AI, Microsoft  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 9:00am–5:00pm ET
 **Where:** Microsoft Research Lab · 300 Lafayette St, New York, NY 10012 · SoHo
-**Going:** 387 of 388
+**Going:** 387 of 397
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/yZ0XKuQUzUUArbmiCNh5
 **Map:** https://www.google.com/maps/search/?api=1&query=300%20Lafayette%20St%2C%20New%20York%2C%20NY%2010012
@@ -99,6 +100,7 @@ Hosted by Microsoft in collaboration with Tavily and Coinbase.
 ​🎟️ RSVP
 
 ​Spots are limited. Apply early to secure your place.
+
 
 
 

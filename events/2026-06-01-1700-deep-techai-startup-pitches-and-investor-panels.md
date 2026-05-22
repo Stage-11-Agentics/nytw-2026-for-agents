@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["baNbbaBclBQ956PM4ygkkeHIl1y2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 119
+total_guest_count: 122
 approved_guest_count: 10
 local_image: "images/rQWNiqBcukfTYjBvwnji.png"
+canceled: false
 ---
 
 # Deep Tech/AI Startup Pitches and Investor Panels
@@ -33,7 +34,7 @@ local_image: "images/rQWNiqBcukfTYjBvwnji.png"
 **Hosts:** Wallet Max  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 5:00pm–9:00pm ET
 **Where:** Midtown
-**Going:** 119
+**Going:** 119 of 122
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/rQWNiqBcukfTYjBvwnji
 
@@ -78,6 +79,7 @@ Eventbrite.com/e/deep-techai-startup-pitches-and-investor-panels-nytechweek-even
 ______________________________
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

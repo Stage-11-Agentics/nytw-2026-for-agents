@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 69
 approved_guest_count: 25
 local_image: "images/8yTv1iGFROeqAMxI5XoN.png"
+canceled: false
 ---
 
 # Build-It-Yourself Workshop. For non-technical builders inside commercial products.
@@ -64,6 +65,7 @@ Who is this for:
 👉 PMs and product designers who want to ship UI without waiting on a dev cycle
 👉 Growth and marketing people building on top of an existing product
 👉Anyone on a product team who's non-technical but ready to start building
+
 
 
 

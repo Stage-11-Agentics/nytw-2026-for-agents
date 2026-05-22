@@ -25,10 +25,11 @@ owner_count: 5
 owner_ids: ["FO2tyBLancOgVGxxL4W0", "7DFu4rITofNzKIjA7hCx", "xftzIKCYxOxZbfXWylBQ", "RvHmarVL1TnvXzyhoVSD", "X9FTUwW1yFTxcRCs7FnP3UYZHRM2"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 19
-total_guest_count: 51
-approved_guest_count: 31
+remaining_capacity: 17
+total_guest_count: 53
+approved_guest_count: 33
 local_image: "images/svhgMRybAh1XPlLVVXRH.png"
+canceled: false
 ---
 
 # Coding Agents Write Code. 
@@ -40,7 +41,7 @@ Remy Builds Products.](images/svhgMRybAh1XPlLVVXRH.png)
 **Hosts:** MindStudio, LvlUp Ventures, Sip & Scale  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:30pm–8:00pm ET
 **Where:** Nomadworks · 1216 Broadway, New York, NY 10001 · Nomad
-**Capacity:** capped at 50 · 31 taken, 19 remaining
+**Capacity:** capped at 50 · 33 taken, 17 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/svhgMRybAh1XPlLVVXRH
 **Map:** https://www.google.com/maps/search/?api=1&query=1216%20Broadway%2C%20New%20York%2C%20NY%2010001
@@ -78,6 +79,7 @@ Space is limited. Request your spot.
 Co-hosted with LvlUp Ventures and Sip & Scale during NYC Tech Week.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

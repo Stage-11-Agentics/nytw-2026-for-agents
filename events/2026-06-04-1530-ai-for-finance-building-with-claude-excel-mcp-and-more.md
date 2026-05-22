@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["KLoIMrS4zRMmyocMRWUG", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 390
-approved_guest_count: 117
+total_guest_count: 395
+approved_guest_count: 118
 local_image: "images/HjUT9chDvQXxrCHGkfcA.png"
+canceled: false
 ---
 
 # AI for Finance: Building with Claude + Excel, MCP, and more!
@@ -34,7 +35,7 @@ local_image: "images/HjUT9chDvQXxrCHGkfcA.png"
 **Hosts:** Pluvo  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 3:30pm ET
 **Where:** New York, NY · New York, NY · Financial District
-**Going:** 388 of 390
+**Going:** 388 of 395
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/HjUT9chDvQXxrCHGkfcA
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -63,6 +64,7 @@ Hosted by Pluvo & BMO, this session is designed to help finance teams cut manual
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 About BMO: BMO has strong roots in and a deep understanding of the technology space and its many subsectors. Our seamless, integrated approach provides technology companies with full lifecycle coverage from whether you’re a growth-stage company in need of recurring revenue lending, a mature-stage company forming a bank syndicate or tapping the capital markets for the first time, or a well-established large multinational with the most complex financial needs, we’re here as trusted expert advisers to support you in your growth journey. BMO’s Technology Banking practice spans North America with offices in Canada and the U.S. and is the 8th largest bank in North America by assets as of January 31, 2026. We provide personal and commercial banking, global markets and investment banking services to approximately 13 million clients.
+
 
 
 

@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["UyCmrCqYXzgX7kq9K4Mu07V0Idy2", "7DFu4rITofNzKIjA7hCx", "uSFlUxyB9KTsD9uRkVbj"]
 is_capped: false
-total_guest_count: 87
+total_guest_count: 88
 approved_guest_count: 0
 local_image: "images/BAZ9mOpGGbNBVF8wCvJA.png"
+canceled: false
 ---
 
 # Frontiers in Computing: Quantum, Chips, Semiconductors
@@ -31,7 +32,7 @@ local_image: "images/BAZ9mOpGGbNBVF8wCvJA.png"
 **Hosts:** H*QUOTIENT  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:30pm ET
 **Where:** Midtown
-**Going:** 87
+**Going:** 87 of 88
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/BAZ9mOpGGbNBVF8wCvJA
 
@@ -57,6 +58,7 @@ Join our community here: https://tally.so/r/nWjGMe and let us know how we can he
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 By registering for this event, you consent to be photographed and receive email updates from the hosts and be added to the H*QUOTIENT newsletter mailing list. Photographs may be used for marketing and media purposes without compensation.
+
 
 
 

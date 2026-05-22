@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["0C298ubxJhdsv4uOZO39ai2VCdf2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 256
+total_guest_count: 258
 approved_guest_count: 185
 local_image: "images/wiWrtmZFVPCAgObP4954.png"
+canceled: false
 ---
 
 # Kndrd Spirits: [Girls] Who Run The World
@@ -34,7 +35,7 @@ local_image: "images/wiWrtmZFVPCAgObP4954.png"
 **Hosts:** Kndrd  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 7:30pm ET
 **Where:** East Village · East Village, Manhattan, New York, NY · East Village
-**Going:** 254 of 256
+**Going:** 254 of 258
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/wiWrtmZFVPCAgObP4954
 **Map:** https://www.google.com/maps/search/?api=1&query=East%20Village%2C%20East%20Village%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -61,6 +62,7 @@ Check us out here:
 → https://apps.apple.com/us/app/kndrd-make-friends-irl/id6498315234
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

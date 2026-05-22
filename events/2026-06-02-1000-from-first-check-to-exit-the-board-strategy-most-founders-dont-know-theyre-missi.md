@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["n4se7YjWL9fbhhRiysrM", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 66
+total_guest_count: 68
 approved_guest_count: 27
 local_image: "images/Y1qPOFKb9fL9VUf0dHMi.png"
+canceled: false
 ---
 
 # 🚀 From First Check to Exit: The Board Strategy Most Founders Don't Know They're Missing
@@ -33,7 +34,7 @@ local_image: "images/Y1qPOFKb9fL9VUf0dHMi.png"
 **Hosts:** The Fourth Effect  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 10:00am–12:00pm ET
 **Where:** Midtown
-**Going:** 66
+**Going:** 66 of 68
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Y1qPOFKb9fL9VUf0dHMi
 
@@ -89,6 +90,7 @@ Come ready to learn, ask questions, and connect with other founders and operator
 Anchin: a full-service and privately owned accounting, tax, and advisory firm specializing in the unique needs of entrepreneurial, venture capital, and private equity-backed businesses from start-ups to established companies.
 
 Reitler: a top-ranked venture capital law firm with offices in New York, Los Angeles, and Princeton. The firm represents emerging companies, venture investors and limited partners across all stages of investment, in seed financings, growth rounds, mergers and acquisitions and exit transactions. Reitler is consistently ranked as a Top 10 venture capital law firm by Pitchbook and has been recognized by Chambers as a global leader in its Startups & Emerging Companies category. With thousands of venture financings completed since our founding, we bring deep experience and practical insight to help our clients achieve their goals efficiently.
+
 
 
 

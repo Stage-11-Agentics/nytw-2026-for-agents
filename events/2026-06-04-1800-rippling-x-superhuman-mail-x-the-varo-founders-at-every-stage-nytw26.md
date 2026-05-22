@@ -23,9 +23,10 @@ owner_ids: ["pYhMY7z15AZYHJEhww6Ak7UfzBI2", "7DFu4rITofNzKIjA7hCx", "9DhMdVeoxHe
 is_capped: true
 max_capacity: 200
 remaining_capacity: 49
-total_guest_count: 354
+total_guest_count: 359
 approved_guest_count: 151
 local_image: "images/ngIR5POoNayvrfRI63Ka.png"
+canceled: false
 ---
 
 # Rippling x Superhuman Mail x The Varo: Founders at Every Stage #NYTW26
@@ -82,6 +83,7 @@ About The Varo
 By clicking 'Get on the list' you agree to the use of your data in accordance with Rippling's Privacy Notice, including for marketing purposes; and the sharing of your data with the event’s sponsors, who may contact you about their services.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

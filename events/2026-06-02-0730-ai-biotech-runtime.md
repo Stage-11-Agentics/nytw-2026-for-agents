@@ -22,10 +22,11 @@ owner_count: 2
 owner_ids: ["7DFu4rITofNzKIjA7hCx", "gPoXGLplk2VnzMkrAofi"]
 is_capped: true
 max_capacity: 220
-remaining_capacity: 23
-total_guest_count: 200
+remaining_capacity: 22
+total_guest_count: 201
 approved_guest_count: 0
 local_image: "images/Dy7rUqrhVPwyYkQeucJK.png"
+canceled: false
 ---
 
 # AI & Biotech Runtime
@@ -35,7 +36,7 @@ local_image: "images/Dy7rUqrhVPwyYkQeucJK.png"
 **Hosts:** Formation Bio  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 7:30am ET
 **Where:** 16 E 34th St, New York, NY 10016 · Midtown
-**Capacity:** capped at 220 · 197 taken, 23 remaining
+**Capacity:** capped at 220 · 198 taken, 22 remaining
 **RSVP:** https://partiful.com/e/Dy7rUqrhVPwyYkQeucJK
 **Map:** https://www.google.com/maps/search/?api=1&query=16%20E%2034th%20St%2C%20New%20York%2C%20NY%2010016
 
@@ -62,6 +63,7 @@ We’ll run rain or shine, but in the event of severe weather, we'll go straight
 See you out there! 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

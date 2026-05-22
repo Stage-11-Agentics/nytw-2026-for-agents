@@ -19,10 +19,11 @@ owner_count: 2
 owner_ids: ["XBRNkPyhtuenIvmh2iuy8e1yC562", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 1000
-remaining_capacity: 960
-total_guest_count: 44
+remaining_capacity: 959
+total_guest_count: 45
 approved_guest_count: 0
 local_image: "images/xOvJDFd1n53bUaABG9qG.png"
+canceled: false
 ---
 
 # Founders Running Club: 5K Networking Run
@@ -32,7 +33,7 @@ local_image: "images/xOvJDFd1n53bUaABG9qG.png"
 **Hosts:** Founders Running Club  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 9:00am ET
 **Where:** West Village
-**Capacity:** capped at 1000 · 40 taken, 960 remaining
+**Capacity:** capped at 1000 · 41 taken, 959 remaining
 **RSVP:** https://partiful.com/e/xOvJDFd1n53bUaABG9qG
 
 ### Hosts on Partiful
@@ -48,6 +49,7 @@ Founders Running Club: 5K Networking Run - #NYCTechWeek
 Kick off Tech Week Saturday with an easy 5K run along the Hudson River. Connect with founders, investors, and operators for fresh air and authentic conversation after a busy week of events. Whether you’re sharing a pitch or just recharging, it’s the best way to start your weekend.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

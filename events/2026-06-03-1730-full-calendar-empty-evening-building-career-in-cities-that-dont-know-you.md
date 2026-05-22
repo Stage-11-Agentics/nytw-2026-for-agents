@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 4
 approved_guest_count: 1
 local_image: "images/5j2hBbAeXtCNHymh8oJV.png"
+canceled: false
 ---
 
 # Full Calendar, Empty Evening: Building Career in Cities That Don't Know You
@@ -55,6 +56,7 @@ One table, one question: what did you give up socially to be where you are profe
 With Ivr (founder, author of The Backstage, founding partner at Y·US Ventures). Invite/confirmation required. 
 
 Dinner not included - pay for what you order. Table reserved for us.
+
 
 
 

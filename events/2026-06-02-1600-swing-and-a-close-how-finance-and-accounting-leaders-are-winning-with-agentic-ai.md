@@ -22,8 +22,9 @@ owner_count: 5
 owner_ids: ["rg4RFtaR0aNZSbv6khGu39QCZzn1", "7DFu4rITofNzKIjA7hCx", "X36KrTj59ieujnY43eNoCIu46ui1", "lxhTTidfD9dwYKDh2MgCliTz6DG3", "LRXBNGvA1rYJMjO2Pl08gwZlEZJ2"]
 is_capped: false
 total_guest_count: 60
-approved_guest_count: 25
+approved_guest_count: 27
 local_image: "images/ajYdZAEhNPBNqbcSsw2H.png"
+canceled: false
 ---
 
 # Swing and a Close: How finance and accounting leaders are winning with agentic AI
@@ -53,6 +54,7 @@ AI in accounting and finance is moving fast, but most organizations are still fi
 Hear directly from our live panel of leaders at iconic enterprises who have already navigated the path to agentic AI — what worked, what didn't, and what they would do differently. Then stick around for golfing, drinking, and good company.
 
 This event is a part of #NYTechWeek —a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

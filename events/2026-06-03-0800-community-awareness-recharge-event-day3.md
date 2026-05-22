@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["ahVxpJsp11zKmHM2mZQq", "7DFu4rITofNzKIjA7hCx", "cf9875PKIt383yHcSMOb"]
 is_capped: false
-total_guest_count: 36
+total_guest_count: 37
 approved_guest_count: 0
 local_image: "images/tb4BqGF90d8iYR9YSwrA.png"
+canceled: false
 ---
 
 # Community Awareness Recharge Event Day3
@@ -35,7 +36,7 @@ local_image: "images/tb4BqGF90d8iYR9YSwrA.png"
 **Hosts:** POLLEN8 Technology, Inc, Die-Hard, Inc., Edge Studio
 **When:** Wednesday, June 3, 2026 · 8:00am–8:00pm ET
 **Where:** Edge Studio Voice Over · 115 W 45th St, FL 8, New York, NY 10036 · Midtown
-**Going:** 35 of 36
+**Going:** 35 of 37
 **RSVP:** https://partiful.com/e/tb4BqGF90d8iYR9YSwrA
 **Map:** https://www.google.com/maps/search/?api=1&query=115%20W%2045th%20St%2C%20FL%208%2C%20New%20York%2C%20NY%2010036
 
@@ -55,6 +56,7 @@ During the chaos of Tech Week, you need a place to pause without missing the mom
 No panels. No pressure. Just a space that works for you.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

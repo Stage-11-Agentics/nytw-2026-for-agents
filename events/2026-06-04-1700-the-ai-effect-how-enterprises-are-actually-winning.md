@@ -24,9 +24,10 @@ owner_ids: ["8EMBEuo9hIgr0ePWrBNltQSaJqf1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 100
 remaining_capacity: 84
-total_guest_count: 17
+total_guest_count: 18
 approved_guest_count: 16
 local_image: "images/tLkNSguUFu4OSJwMiwDI.png"
+canceled: false
 ---
 
 # The AI Effect: How Enterprises Are Actually Winning
@@ -52,6 +53,7 @@ local_image: "images/tLkNSguUFu4OSJwMiwDI.png"
 Kizen invites you to join us at our NYC AI Innovation Hub during Tech Week 2026 for an exclusive evening centered on enterprise AI. Engage with top AI leaders in an intimate fireside chat as they share how enterprises are cutting through the noise and driving real, measurable impact with AI. The night continues with cocktails, hors d'oeuvres, live product demos, and curated networking — bringing together founders, executives, and innovators shaping the future of enterprise technology. Come for the insights, stay for the connections.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

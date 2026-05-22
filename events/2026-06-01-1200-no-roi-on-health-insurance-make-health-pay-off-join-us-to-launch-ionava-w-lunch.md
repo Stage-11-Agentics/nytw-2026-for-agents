@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["WwPo1IF9JXPDA8cCyY7JoBQzA8M2", "swEfJ2jFMsQYhSyj47EKpMw6Gg03", "7DFu4rITofNzKIjA7hCx", "OSXT5FliwDUt8iw0yG7vHxtJJdx1"]
 is_capped: false
-total_guest_count: 42
+total_guest_count: 853
 approved_guest_count: 28
 local_image: "images/aA2Q8qVgXiTLTLDBodmx.png"
+canceled: false
 ---
 
 # No ROI on Health Insurance? Make Health Pay Off. Join Us to Launch ionava 🚀 w/ Lunch @ SoulCycle
@@ -36,7 +37,7 @@ local_image: "images/aA2Q8qVgXiTLTLDBodmx.png"
 **Hosts:** ionava, Magentic  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 12:00pm–4:00pm ET
 **Where:** SoulCycle TriBeCa · 103 Warren St, New York, NY 10007 · Tribeca
-**Going:** 41 of 42
+**Going:** 41 of 853
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/aA2Q8qVgXiTLTLDBodmx
 **Map:** https://www.google.com/maps/search/?api=1&query=103%20Warren%20St%2C%20New%20York%2C%20NY%2010007
@@ -79,6 +80,7 @@ ionava.com
 Please kindly note that photography and videography will take place throughout the event. By attending, you consent to the use of your likeness, voice, and appearance in event recap, promotional, and marketing materials by ionava, SoulCycle, and their partners.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

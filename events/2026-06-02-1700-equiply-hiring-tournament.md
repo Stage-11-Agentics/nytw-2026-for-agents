@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["YfiEF4biUAcUVRHHeSzbkQBFglL2", "7DFu4rITofNzKIjA7hCx", "nADjcMP0B8M1LFGrvy2g1iuhqn52"]
 is_capped: false
-total_guest_count: 7
+total_guest_count: 8
 approved_guest_count: 0
 local_image: "images/ETmLjJsMXWh9WB4nmFe0.png"
+canceled: false
 ---
 
 # Equiply hiring tournament
@@ -35,7 +36,7 @@ local_image: "images/ETmLjJsMXWh9WB4nmFe0.png"
 **Hosts:** Equiply  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:00pm–8:00pm ET
 **Where:** 33 W 17th St, New York, NY 10011 · Flatiron
-**Going:** 7
+**Going:** 7 of 8
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ETmLjJsMXWh9WB4nmFe0
 **Map:** https://www.google.com/maps/search/?api=1&query=33%20W%2017th%20St%2C%20New%20York%2C%20NY%2010011
@@ -83,6 +84,7 @@ This event is being hosted at Antler NYC. We are founder's first believer at the
 Spots are limited
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

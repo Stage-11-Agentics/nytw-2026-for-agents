@@ -24,9 +24,10 @@ owner_ids: ["AElXoekF405ZK2ScPNuq", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
 remaining_capacity: -34
-total_guest_count: 113
+total_guest_count: 115
 approved_guest_count: 84
 local_image: "images/1llAohqiK59rN516zVA5.png"
+canceled: false
 ---
 
 # Your Users Hate 2FA. (A Lunch & Learn w/ Vonage on AI Voice & Frictionless Authentication APIs)
@@ -59,6 +60,7 @@ We'll bring the food.
 Apply to the Vonage Startup Program here: https://vonage.dev/startups-NY-tech-week
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

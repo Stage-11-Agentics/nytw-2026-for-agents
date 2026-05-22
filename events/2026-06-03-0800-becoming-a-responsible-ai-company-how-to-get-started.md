@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 38
 approved_guest_count: 0
 local_image: "images/pR2diUa7uD7hgdkPhiij.png"
+canceled: false
 ---
 
 # Becoming a Responsible AI Company: How to get started
@@ -50,6 +51,7 @@ Join the Ethical Tech Project for an interactive workshop that will help you get
 Doors open at 8am for coffee, with our program starting at 8:15am.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

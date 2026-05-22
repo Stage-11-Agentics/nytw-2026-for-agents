@@ -24,6 +24,7 @@ remaining_capacity: 50
 total_guest_count: 9
 approved_guest_count: 0
 local_image: "images/cbyBD4xAhpcd4mEeBJOG.png"
+canceled: false
 ---
 
 # An Executive Harbor Dinner Experience
@@ -96,6 +97,7 @@ Executive networking, cocktails, and continued discussion above New York City
 Attendance is intentionally limited to preserve the quality of conversation and executive experience.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

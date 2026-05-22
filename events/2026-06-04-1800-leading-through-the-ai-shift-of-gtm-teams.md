@@ -22,10 +22,11 @@ owner_count: 4
 owner_ids: ["hc5rftkjLfR76KQ84iPoDWkkM212", "7DFu4rITofNzKIjA7hCx", "pW4DFsQL4IbNGIKIzEgxB8xLvfY2", "UmETNIaKb6tkcENdSDSl"]
 is_capped: true
 max_capacity: 40
-remaining_capacity: 22
-total_guest_count: 62
-approved_guest_count: 18
+remaining_capacity: 21
+total_guest_count: 64
+approved_guest_count: 19
 local_image: "images/0xOTioP4rEuXZH1VInVN.png"
+canceled: false
 ---
 
 # Leading Through the AI Shift of GTM Teams
@@ -35,7 +36,7 @@ local_image: "images/0xOTioP4rEuXZH1VInVN.png"
 **Hosts:** Emergences Labs  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
 **Where:** 2-01 50th Ave, Long Island City, NY 11101 · Midtown
-**Capacity:** capped at 40 · 18 taken, 22 remaining
+**Capacity:** capped at 40 · 19 taken, 21 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/0xOTioP4rEuXZH1VInVN
 **Map:** https://www.google.com/maps/search/?api=1&query=2-01%2050th%20Ave%2C%20Long%20Island%20City%2C%20NY%2011101
@@ -59,6 +60,7 @@ We will discuss: What does an AI-native marketing actually look like? What has c
 ___
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

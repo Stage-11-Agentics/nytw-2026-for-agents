@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["gOzNR84ixldc4rlftF75", "7DFu4rITofNzKIjA7hCx", "eMsqyxLRVMcQ8c69KN5icU31S5E3", "xnLT64wGg8arP3LvEL1zPWUA0HU2", "kXvE6l6rBSS22OHryH8JoeahzPN2"]
 is_capped: false
-total_guest_count: 165
+total_guest_count: 166
 approved_guest_count: 5
 local_image: "images/gmQJ86KtlMO3vaJxSQz0.png"
+canceled: false
 ---
 
 # Bollywood & Builders
@@ -36,7 +37,7 @@ local_image: "images/gmQJ86KtlMO3vaJxSQz0.png"
 **Hosts:** The Brown Room, Momo VC  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 6:00pm–10:00pm ET
 **Where:** Tribeca · Tribeca, Manhattan, New York, NY · Tribeca
-**Going:** 165
+**Going:** 165 of 166
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/gmQJ86KtlMO3vaJxSQz0
 **Map:** https://www.google.com/maps/search/?api=1&query=Tribeca%2C%20Tribeca%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -89,6 +90,7 @@ https://www.instagram.com/_kaizenproductions/
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

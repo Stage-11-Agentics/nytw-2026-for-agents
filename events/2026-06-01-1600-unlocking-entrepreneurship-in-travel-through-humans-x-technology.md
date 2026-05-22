@@ -22,10 +22,11 @@ owner_count: 3
 owner_ids: ["JJPjpYcD8JOrgSYLgwIN4vPpVgq2", "7DFu4rITofNzKIjA7hCx", "zppHg36lXFhswPD71Ui1"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 50
-total_guest_count: 223
-approved_guest_count: 0
+remaining_capacity: 7
+total_guest_count: 226
+approved_guest_count: 43
 local_image: "images/RrTyygZKuHP4KAmVi2QS.png"
+canceled: false
 ---
 
 # Unlocking Entrepreneurship in Travel through Humans x Technology
@@ -35,7 +36,7 @@ local_image: "images/RrTyygZKuHP4KAmVi2QS.png"
 **Hosts:** Fora Travel  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 4:00pm–6:00pm ET
 **Where:** SoHo
-**Capacity:** capped at 50 · 0 taken, 50 remaining
+**Capacity:** capped at 50 · 43 taken, 7 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/RrTyygZKuHP4KAmVi2QS
 
@@ -55,6 +56,7 @@ In a panel with Jake Peters (Co-Founder & Chief Product/Technology Officer) and 
 Backed by leading VCs including Thrive, Insight, Forerunner, and Heartcore, Fora has earned recognition across both the tech and travel industries and was recently voted a top employer on Built In. We're growing fast, and we're investing in the people who will shape what comes next.
 
 This event is part of #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

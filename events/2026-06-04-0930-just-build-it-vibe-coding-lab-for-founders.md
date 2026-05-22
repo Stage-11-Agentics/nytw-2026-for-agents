@@ -26,9 +26,10 @@ owner_ids: ["CQxi7in6zIvozaA33K5J", "7DFu4rITofNzKIjA7hCx", "pPCZrKUasoIfacFgJzA
 is_capped: true
 max_capacity: 70
 remaining_capacity: 32
-total_guest_count: 74
+total_guest_count: 80
 approved_guest_count: 38
 local_image: "images/4ZRTBFiLnPBvUbh1n7UW.png"
+canceled: false
 ---
 
 # Just Build It: Vibe Coding Lab for Founders
@@ -73,6 +74,7 @@ During this session you will be hosted by CEO of Female Founder Collective, Alis
 Capacity is limited. Come ready to build.  
 
 This event is a part of #NYTechWeek - a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -23,9 +23,10 @@ owner_ids: ["5HV8c1GklJx1YlEeJ4wY", "7DFu4rITofNzKIjA7hCx", "OoPpeyovZOY2y72SXVi
 is_capped: true
 max_capacity: 100
 remaining_capacity: 71
-total_guest_count: 180
+total_guest_count: 182
 approved_guest_count: 29
 local_image: "images/a4otiT5uQNHYsG066urY.png"
+canceled: false
 ---
 
 # B2B Founders Panel & Breakfast
@@ -70,6 +71,7 @@ Presented by BDev Ventures, Stuf Storage and Western Alliance Bank, Member FDIC
 Space is limited. Grab your spot.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

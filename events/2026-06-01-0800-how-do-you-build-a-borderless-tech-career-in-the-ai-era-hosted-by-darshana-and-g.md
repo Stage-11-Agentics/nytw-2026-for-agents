@@ -21,10 +21,11 @@ owner_count: 4
 owner_ids: ["xGMefUY3kTYerZENMpn2VCwaJpW2", "7DFu4rITofNzKIjA7hCx", "wyZCICQpWYe3nXaf0SNSyHBqUut1", "j1svywHqqaZlROVL2fE5"]
 is_capped: true
 max_capacity: 200
-remaining_capacity: 78
-total_guest_count: 138
+remaining_capacity: 75
+total_guest_count: 142
 approved_guest_count: 0
 local_image: "images/t00vYqgLgEg6ACA3C4R1.jpg"
+canceled: false
 ---
 
 # How Do You Build a Borderless Tech Career in the AI Era?
@@ -36,7 +37,7 @@ Hosted by Darshana and Get on Board](images/t00vYqgLgEg6ACA3C4R1.jpg)
 **Hosts:** darshana.ai, Get on Board  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 8:00am–9:00am ET
 **Where:** Virtual (NYC)
-**Capacity:** capped at 200 · 122 taken, 78 remaining
+**Capacity:** capped at 200 · 125 taken, 75 remaining
 **RSVP:** https://partiful.com/e/t00vYqgLgEg6ACA3C4R1
 
 ### Hosts on Partiful
@@ -68,6 +69,7 @@ Topics include:
 Open discussion + live Q&A for students, professionals, founders, and anyone thinking beyond local career paths.
 
 This event is part of #NYTechWeek — a week of events hosted by VCs and startups bringing together the global tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

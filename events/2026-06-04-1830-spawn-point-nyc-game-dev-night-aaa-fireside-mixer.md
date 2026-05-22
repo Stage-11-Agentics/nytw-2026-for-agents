@@ -27,9 +27,18 @@ is_capped: false
 total_guest_count: 4
 approved_guest_count: 0
 local_image: "images/RcCgumyDHdRqDvJaCQiT.png"
+canceled: true
+canceled_at: "2026-05-11T21:48:53.711Z"
+canceled_by: "Z2aQgmOje2MYvpveU2nsLUPO9a03"
+cancellation_message: "Postponed for Tech Week 2027"
 ---
 
 # Spawn Point: NYC Game Dev Night | AAA Fireside + Mixer
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-11T21:48:53.711Z_  
+>  
+> Postponed for Tech Week 2027
 
 ![Spawn Point: NYC Game Dev Night | AAA Fireside + Mixer](images/RcCgumyDHdRqDvJaCQiT.png)
 
@@ -52,6 +61,7 @@ local_image: "images/RcCgumyDHdRqDvJaCQiT.png"
 Spawn Point is NYC's game dev night during Tech Week - a fireside chat with AAA developers, followed by an open mixer for the city's gamedev scene. Students actively building, working developers from local studios and indies, early-career recruiters from Rockstar, Roblox and beyond, and investors backing games - one room, one night. Food and drinks throughout. Venue location will be shared with confirmed guests ahead of the event.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -26,6 +26,7 @@ is_capped: false
 total_guest_count: 36
 approved_guest_count: 0
 local_image: "images/sKTBmeGlJpYVbAyWmQIw.png"
+canceled: false
 ---
 
 # Ownership in the Age of AI
@@ -50,6 +51,7 @@ local_image: "images/sKTBmeGlJpYVbAyWmQIw.png"
 A curated NY Tech Week salon bringing together founders, operators, and investors across industries to explore the full stack of modern entrepreneurship. From AI-driven go-to-market and infrastructure to capital allocation and asset ownership, this event unpacks how today’s entrepreneurs are building, scaling, and turning cash flow into durable positions in an AI-driven economy.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

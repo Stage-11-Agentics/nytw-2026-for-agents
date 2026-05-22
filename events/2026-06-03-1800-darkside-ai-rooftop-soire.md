@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["XgRWfj3YFqXEwW9IhkYqrH388Wq2", "7DFu4rITofNzKIjA7hCx", "GSJx9z6vqlYAeMoTy8G1Dh1bXAB2"]
 is_capped: false
-total_guest_count: 207
+total_guest_count: 210
 approved_guest_count: 95
 local_image: "images/7JfEW6CdsbhpkYOQkKBP.jpg"
+canceled: false
 ---
 
 # Darkside AI Rooftop Soirée
@@ -33,7 +34,7 @@ local_image: "images/7JfEW6CdsbhpkYOQkKBP.jpg"
 **Hosts:** Darkside AI, YellowRocks.vc  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–10:00pm ET
 **Where:** Financial District
-**Going:** 207
+**Going:** 207 of 210
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/7JfEW6CdsbhpkYOQkKBP
 
@@ -81,6 +82,7 @@ For those who understand that the most important conversations happen offstage.
 ♦️Hosted by Darkside AI (http://www.darksideai.io) - a global initiative helping leaders build resilience against next‑generation AI threats.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

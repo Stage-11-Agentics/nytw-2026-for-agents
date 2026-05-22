@@ -21,11 +21,12 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["SQn9Ec17L6OggctnaR487y3N62v1", "7DFu4rITofNzKIjA7hCx", "qdJKy7oUFANudsq97UeIJf2Lrkf1", "TtcA0WAuzEaAyW10eRPEdObxBCm1"]
 is_capped: true
-max_capacity: 65
-remaining_capacity: 5
-total_guest_count: 391
-approved_guest_count: 60
+max_capacity: 75
+remaining_capacity: 2
+total_guest_count: 399
+approved_guest_count: 73
 local_image: "images/5VTezY208ZqXJI4zsvJt.jpg"
+canceled: false
 ---
 
 # Vibe Code 💻 & Tea 🍵: build with gemini
@@ -35,7 +36,7 @@ local_image: "images/5VTezY208ZqXJI4zsvJt.jpg"
 **Hosts:** GDG NYC, Columbia University Founders, Columbia Entrepreneurs Organization and FinOptiv AI  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 3:00pm–5:00pm ET
 **Where:** Lower East Side
-**Capacity:** capped at 65 · 60 taken, 5 remaining
+**Capacity:** capped at 75 · 73 taken, 2 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/5VTezY208ZqXJI4zsvJt
 
@@ -73,6 +74,7 @@ FinOptiv AI, a next generation debt matching platform powered by AI agents. Awar
 Columbia Entrepreneurship Organization
 
 Columbia University Founders
+
 
 
 

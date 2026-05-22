@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["gpgOtt7nZcTgrUIyyS18", "7DFu4rITofNzKIjA7hCx", "2T0Qle3UUKXwsZIraJFdc2B75lQ2", "011NPSKxgVgkqyEwHK4avC5R3hG2"]
 is_capped: false
-total_guest_count: 409
-approved_guest_count: 181
+total_guest_count: 415
+approved_guest_count: 184
 local_image: "images/1gPW73Afek9kp0i6nZNc.png"
+canceled: false
 ---
 
 # Off the Record: Tech & Media Mixer at
@@ -36,7 +37,7 @@ local_image: "images/1gPW73Afek9kp0i6nZNc.png"
 **Hosts:** InPress, Beehiiv  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm–9:00pm ET
 **Where:** Alphabet Bar & Café · 112 E 11th St, New York, NY 10003 · Midtown
-**Going:** 407 of 409
+**Going:** 407 of 415
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/1gPW73Afek9kp0i6nZNc
 **Map:** https://www.google.com/maps/search/?api=1&query=112%20E%2011th%20St%2C%20New%20York%2C%20NY%2010003
@@ -74,6 +75,7 @@ https://www.inpress.app
 Brought to you by InPress and beehiiv, with love, for NY Tech Week 2026.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

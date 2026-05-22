@@ -27,6 +27,7 @@ remaining_capacity: 42
 total_guest_count: 73
 approved_guest_count: 28
 local_image: "images/nXuA6YoD01FXAVYj1tYX.png"
+canceled: false
 ---
 
 # /dev/color Panel & Mixer
@@ -67,6 +68,7 @@ Learn more about our org on our website:
 🔗 devcolor.org
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

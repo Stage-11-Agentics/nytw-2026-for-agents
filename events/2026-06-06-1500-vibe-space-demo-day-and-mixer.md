@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 48
 approved_guest_count: 0
 local_image: "images/Kic8XARGdGTCYCZqd62I.jpg"
+canceled: false
 ---
 
 # Vibe Space Demo Day and Mixer
@@ -58,6 +59,7 @@ In a fast, focused session, selected teams will share what they’ve built, what
 Right after the pitches, we open the doors for a community-wide mixer, bringing together founders, operators, and investors to connect, swap ideas, and give each other the kind of candid feedback that rarely fits into a formal deck or calendar slot.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

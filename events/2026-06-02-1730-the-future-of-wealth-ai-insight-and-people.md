@@ -25,9 +25,10 @@ owner_ids: ["ns2bYgfP2nfQ4kB18F5ghTAx9Zj1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
 remaining_capacity: 0
-total_guest_count: 64
+total_guest_count: 68
 approved_guest_count: 0
 local_image: "images/ajldiNGGvQpVzTpnzqqg.png"
+canceled: false
 ---
 
 # The Future of Wealth: AI Insight and People
@@ -72,6 +73,7 @@ What to Expect:
 - A thoughtfully curated room of founders, operators, and investors across capital, culture, and technology
 - Light bites and drinks in an intimate, connection-driven setting
 - Meaningful introductions and organic networking designed to spark long-term opportunities
+
 
 
 

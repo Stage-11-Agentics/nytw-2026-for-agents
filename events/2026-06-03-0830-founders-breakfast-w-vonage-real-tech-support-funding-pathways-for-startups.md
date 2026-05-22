@@ -23,9 +23,10 @@ owner_ids: ["AElXoekF405ZK2ScPNuq", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 100
 remaining_capacity: -180
-total_guest_count: 298
+total_guest_count: 300
 approved_guest_count: 280
 local_image: "images/VzFiSUj168Sj3mJvvD3N.png"
+canceled: false
 ---
 
 # Founders Breakfast w/ Vonage: Real Tech Support & Funding Pathways for Startups
@@ -59,6 +60,7 @@ A small, founder-first breakfast bringing together leading technology and VC voi
 Apply to the Vonage Startup Program here: https://vonage.dev/startups-NY-tech-week
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 0
 approved_guest_count: 0
 local_image: "images/r5NNkxDEGwuImYwwqvqe.jpg"
+canceled: false
 ---
 
 # QueensKnow Prayer Walk for Women in Tech, Business & Leadership
@@ -70,6 +71,7 @@ What to Bring
 • Water
 • An open heart and mind
 • Business cards optional
+
 
 
 

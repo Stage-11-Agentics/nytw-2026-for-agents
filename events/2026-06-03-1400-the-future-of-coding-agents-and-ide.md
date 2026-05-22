@@ -24,8 +24,9 @@ owner_count: 2
 owner_ids: ["QLMs288XiZ1BOo6JjnNr", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
 total_guest_count: 42
-approved_guest_count: 40
+approved_guest_count: 41
 local_image: "images/1N6CtiCpYquktoTh5NUm.png"
+canceled: false
 ---
 
 # The Future of Coding Agents and IDE
@@ -59,6 +60,7 @@ Whether you’re building, investing, or exploring new technical platforms, this
 Space is limited, and advance registration is required.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

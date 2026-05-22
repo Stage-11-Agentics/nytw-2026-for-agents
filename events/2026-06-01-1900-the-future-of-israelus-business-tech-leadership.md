@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 7
 owner_ids: ["I5fGGN9vPfcOIlsTwvYdVJjSFOE2", "7DFu4rITofNzKIjA7hCx", "PQgdKV9blUMkgOah57DkGCkOXc23", "U4z0dMfMg8XhkE0a0w90Lok4ZXi2", "jG62CrmTO3axlRAbFrGvmSXheTS2", "SdGclfMayiYJ5eEc7YrfEzIgTpo2", "71ggjar6WbMhvLEQdhH5rj5Shoh2"]
 is_capped: false
-total_guest_count: 172
+total_guest_count: 177
 approved_guest_count: 64
 local_image: "images/BVopvJ4CHEgyM44al47F.jpg"
+canceled: false
 ---
 
 # The Future of Israel–U.S. Business & Tech Leadership
@@ -35,7 +36,7 @@ local_image: "images/BVopvJ4CHEgyM44al47F.jpg"
 **Hosts:** TAMID Group, itrek, Vision 2048  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 7:00pm–9:00pm ET
 **Where:** E 13th St, New York, NY 10003 · Midtown
-**Going:** 169 of 172
+**Going:** 169 of 177
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/BVopvJ4CHEgyM44al47F
 **Map:** https://www.google.com/maps/search/?api=1&query=E%2013th%20St%2C%20New%20York%2C%20NY%2010003
@@ -64,6 +65,7 @@ The evening will feature a short speaker segment with an accomplished group of l
 Drinks and food, including kosher and non-kosher options, will be served.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

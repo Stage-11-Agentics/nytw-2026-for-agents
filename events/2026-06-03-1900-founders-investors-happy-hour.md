@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["QnWG0MrBE9Y9VKKIbUmK", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 165
-approved_guest_count: 80
+total_guest_count: 160
+approved_guest_count: 110
 local_image: "images/k1T8QalDu09QHClA10Dr.png"
+canceled: false
 ---
 
 # Founders & Investors Happy Hour
@@ -33,7 +34,7 @@ local_image: "images/k1T8QalDu09QHClA10Dr.png"
 **Hosts:** Haven  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 7:00pm ET
 **Where:** 153 W 27th St, New York, NY 10001 · Chelsea
-**Going:** 165
+**Going:** 165 of 160
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/k1T8QalDu09QHClA10Dr
 **Map:** https://www.google.com/maps/search/?api=1&query=153%20W%2027th%20St%2C%20New%20York%2C%20NY%2010001
@@ -73,6 +74,7 @@ Haven is a modern full-stack accounting platform for startups and SMBs — bookk
 Bonus: Guests get priority access to Haven Second Opinion (a free 1:1 review of your financial setup with one of our CPAs)
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

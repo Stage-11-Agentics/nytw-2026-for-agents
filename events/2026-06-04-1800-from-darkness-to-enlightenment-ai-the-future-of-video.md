@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["B3tibOKyxwVyk98qzi12avIaJIl1", "unhuryWqGpYlbk3zqoABvHZRQ2l1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 137
+total_guest_count: 138
 approved_guest_count: 120
 local_image: "images/QGjkHFaKUj5Ozzx7pcAm.png"
+canceled: false
 ---
 
 # FROM DARKNESS TO ENLIGHTENMENT:      AI & THE FUTURE OF VIDEO
@@ -35,7 +36,7 @@ local_image: "images/QGjkHFaKUj5Ozzx7pcAm.png"
 **Hosts:** ElevenLabs  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm–8:30pm ET
 **Where:** 317 Greenwich St, New York, NY 10013 · Midtown
-**Going:** 137
+**Going:** 137 of 138
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/QGjkHFaKUj5Ozzx7pcAm
 **Map:** https://www.google.com/maps/search/?api=1&query=317%20Greenwich%20St%2C%20New%20York%2C%20NY%2010013
@@ -56,6 +57,7 @@ This NY Tech Week panel unpacks what it means when AI can finally see and unders
 You’ll hear from leaders across media and AI on where the real progress is happening, how new measurement and monetization models are emerging, and what a fully “enlightened” video ecosystem might look like over the next three years.
 
 This event is a part of #NYTechWeek - a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

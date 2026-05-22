@@ -25,6 +25,7 @@ is_capped: false
 total_guest_count: 93
 approved_guest_count: 80
 local_image: "images/H5hGfwGeZkSjaKitxWLz.png"
+canceled: false
 ---
 
 # Beyond Burnout: The Future of Brain Health
@@ -68,6 +69,7 @@ What to Expect
 ✨ A first look into RelaXi’s sensory host and creator ecosystem
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

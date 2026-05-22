@@ -28,6 +28,7 @@ remaining_capacity: 12
 total_guest_count: 39
 approved_guest_count: 0
 local_image: "images/PAj0yD76njrxg5Mbyj7V.png"
+canceled: false
 ---
 
 # Entrepreneurs Run - 5 km
@@ -64,6 +65,7 @@ Format: 5 km run in Central Park. Exact meeting point and route shared with conf
 ✍️ About the organiser: LatentWorlds AI is building the data infrastructure layer for physical AI focused on robotics and real-world systems. At its core, the company develops a backend that captures, organises, and processes complex multi-sensor data from robot fleets, turning raw operational data into structured, usable datasets for training and debugging AI systems. The bigger vision: give robotics and physical AI teams the same level of data infrastructure maturity that web and software teams already have, so they can focus on building intelligence, not pipelines.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

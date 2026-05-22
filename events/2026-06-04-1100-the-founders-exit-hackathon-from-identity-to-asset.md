@@ -20,8 +20,9 @@ owner_count: 2
 owner_ids: ["2guvWZ07SdR1kBH442f9FdQ3Hi02", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
 total_guest_count: 22
-approved_guest_count: 18
+approved_guest_count: 20
 local_image: "images/mfI66ljwzfZeqxn7v52g.png"
+canceled: false
 ---
 
 # The Founder's Exit Hackathon: From Identity to Asset
@@ -57,6 +58,7 @@ https://www.instagram.com/itsalishamp
 https://www.linkedin.com/in/alisha-m-pennington
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

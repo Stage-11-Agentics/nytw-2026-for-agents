@@ -25,9 +25,10 @@ owner_ids: ["lIwoviIbOSZcFwztlPELaK0tGMh1", "WU1188DqEfMSXwiCVSYGGtLYRmE3", "7DF
 is_capped: true
 max_capacity: 50
 remaining_capacity: 2
-total_guest_count: 69
+total_guest_count: 70
 approved_guest_count: 48
 local_image: "images/N2keUjttusXkEOfbu9Cv.svg"
+canceled: false
 ---
 
 # IEEE and the future of AI
@@ -83,6 +84,7 @@ Mariela Machado: Humanitarian Impact & Social Responsibility perspective (IEEE H
 Jeff Lontoc: Implementation & Entrepreneurship perspective (Guidehouse)
 
 Gautami Nadkarni: Cloud & Industry Trends perspective (Google)
+
 
 
 

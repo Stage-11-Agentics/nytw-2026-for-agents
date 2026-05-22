@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["k9o75egDXRZGkjxMT2fDaTGNjv52", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 608
-approved_guest_count: 99
+total_guest_count: 610
+approved_guest_count: 105
 local_image: "images/FDxH8qpnWSZ4DtT5Bp2a.png"
+canceled: false
 ---
 
 # Latino Tech Mixer Vol 4
@@ -36,7 +37,7 @@ local_image: "images/FDxH8qpnWSZ4DtT5Bp2a.png"
 **Hosts:** Pygma, Colectivo
 **When:** Thursday, June 4, 2026 · 6:00pm–9:00pm ET
 **Where:** Hotel Alameda, High Line · 518 W 27th St, New York, NY 10001 · Lower East Side
-**Going:** 608
+**Going:** 608 of 610
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/FDxH8qpnWSZ4DtT5Bp2a
 **Map:** https://www.google.com/maps/search/?api=1&query=518%20W%2027th%20St%2C%20New%20York%2C%20NY%2010001
@@ -61,6 +62,7 @@ Are you building a startup? Apply to the Best 100 Latino & LatAm
 
 Startups:
 https://tally.so/r/WOYjMN
+
 
 
 

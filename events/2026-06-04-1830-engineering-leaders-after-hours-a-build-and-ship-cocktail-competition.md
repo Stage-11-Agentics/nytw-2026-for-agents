@@ -26,9 +26,10 @@ owner_ids: ["7DFu4rITofNzKIjA7hCx", "t5TIR85CtO1bChyHvtot", "pgLi5Hg86rZJFFNa2pF
 is_capped: true
 max_capacity: 70
 remaining_capacity: 65
-total_guest_count: 41
+total_guest_count: 42
 approved_guest_count: 5
 local_image: "images/bETmU06uq4TtORng6I1l.png"
+canceled: false
 ---
 
 # Engineering Leaders After Hours:  A Build and Ship Cocktail Competition
@@ -65,6 +66,7 @@ Spots are limited. Request an invite to join us.
 ​---
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

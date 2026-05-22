@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["5t9uFuWZpnWDggQvkOmXdRRjfJr1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 263
+total_guest_count: 266
 approved_guest_count: 129
 local_image: "images/Qe0yJoqr1sgMYukouF73.png"
+canceled: false
 ---
 
 # Secondary is Primary Panel & Happy Hour
@@ -34,7 +35,7 @@ local_image: "images/Qe0yJoqr1sgMYukouF73.png"
 **Hosts:** Manhattan Venture Partners  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 2:00pm ET
 **Where:** Soho Grand · 310 W Broadway, New York, NY 10013 · SoHo
-**Going:** 263
+**Going:** 263 of 266
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Qe0yJoqr1sgMYukouF73
 **Map:** https://www.google.com/maps/search/?api=1&query=310%20W%20Broadway%2C%20New%20York%2C%20NY%2010013
@@ -75,6 +76,7 @@ The Room: To ensure a high-density environment for peer-to-peer connection, we a
 Attendance is curated and space is limited. We encourage you to arrive on time.
 
 This event is part of #NYTechWeek – a week of events hosted by VCs and startups bringing together the tech ecosystem.
+
 
 
 

@@ -27,6 +27,7 @@ remaining_capacity: 0
 total_guest_count: 19
 approved_guest_count: 18
 local_image: "images/zv377n2JhHS9VlfJ8UXS.jpg"
+canceled: false
 ---
 
 # Finding Harmony Tech Week Jam Session
@@ -67,6 +68,7 @@ We’ll have drums, keys, guitars, basses, mics, and a whole percussion closet t
 Make this the #NYTECHWEEK one to remember.
 
 This event is a part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

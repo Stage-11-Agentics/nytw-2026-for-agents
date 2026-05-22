@@ -21,9 +21,10 @@ owner_ids: ["6ZIOv6O9VVcdXWOxoS0N0qGs86m2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 60
 remaining_capacity: -56
-total_guest_count: 181
+total_guest_count: 184
 approved_guest_count: 116
 local_image: "images/t0O0kfWCNoBezm5F5x75.gif"
+canceled: false
 ---
 
 # Last Call for Resumes
@@ -74,6 +75,7 @@ To get the most out of this event (the Networking part) if you are a hiring mana
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 *Please allow 12-72 hours for approval.
+
 
 
 

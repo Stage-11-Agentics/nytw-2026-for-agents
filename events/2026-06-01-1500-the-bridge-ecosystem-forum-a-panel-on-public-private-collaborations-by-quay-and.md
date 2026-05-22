@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["sTIJ2YE7hBxj4qTtFef2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 77
+total_guest_count: 81
 approved_guest_count: 45
 local_image: "images/Ns37lYVhz9dp10iFZURH.png"
+canceled: false
 ---
 
 # The Bridge Ecosystem Forum: A Panel on Public-Private Collaborations by QUAY and Brown Rudnick
@@ -34,7 +35,7 @@ local_image: "images/Ns37lYVhz9dp10iFZURH.png"
 **Hosts:** QUAY Acceleration, Brown Rudnick
 **When:** Monday, June 1, 2026 · 3:00pm ET
 **Where:** Times Square · Times Square, Manhattan, New York, NY · Midtown
-**Going:** 76 of 77
+**Going:** 76 of 81
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Ns37lYVhz9dp10iFZURH
 **Map:** https://www.google.com/maps/search/?api=1&query=Times%20Square%2C%20Times%20Square%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -64,6 +65,7 @@ QUAY Acceleration leads a portfolio of over 900+ technology startups and SMB’s
 
 About Brown Rudnick:
 Brown Rudnick is a leading international law firm that provides exceptional, client-driven service in global litigation, crisis management (restructuring, investigations and special situations), brand and reputation management, life sciences and technology.  We advise on high-profile cross-border matters while providing the kind of personal attention to clients that is typically found at boutiques. Our enterprising and tenacious lawyers serve our clients around the globe from offices in key financial centers in the U.S. and the U.K., and have been recognized by, among others, Chambers USA, Legal 500, Benchmark Litigation and Law360 for excellence in their fields. Learn more at: https://brownrudnick.com/
+
 
 
 

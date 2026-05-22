@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["DjjNSnV3cKSAcV6WdF9IDkU6eWN2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 70
+total_guest_count: 71
 approved_guest_count: 64
 local_image: "images/05ZXMuLsZr76jJcu6T5N.png"
+canceled: false
 ---
 
 # Liquidity for RWA Private Credit Asset Managers
@@ -35,7 +36,7 @@ local_image: "images/05ZXMuLsZr76jJcu6T5N.png"
 **Hosts:** Protofire  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 4:00pm–8:00pm ET
 **Where:** 529 5th Ave, New York, NY 10017 · SoHo
-**Going:** 70
+**Going:** 70 of 71
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/05ZXMuLsZr76jJcu6T5N
 **Map:** https://www.google.com/maps/search/?api=1&query=529%205th%20Ave%2C%20New%20York%2C%20NY%2010017
@@ -75,6 +76,7 @@ About Protofire:
 Protofire is a Web3 engineering partner to the world's leading blockchain ecosystems. We architect and deploy the financial infrastructure (staking, DEXs, liquid staking, lending markets) that transforms static tokens into productive, yield-generating assets. Our work is the engine behind TVL growth and capital efficiency for protocols that refuse to be ghost chains.
 
 Seats are limited. If you're building the liquidity layer for real-world assets, or you're the capital looking for it, this is your room.
+
 
 
 

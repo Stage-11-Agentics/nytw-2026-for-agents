@@ -22,8 +22,9 @@ owner_count: 2
 owner_ids: ["Quyy2nPi8mQiOXNmUfIpmKnAO4g1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
 total_guest_count: 76
-approved_guest_count: 60
+approved_guest_count: 62
 local_image: "images/rHJGm9ykUTSOWQawYe68.png"
+canceled: false
 ---
 
 # The convo the workplace is too polite to have
@@ -72,6 +73,7 @@ WHY THIS EVENT FOR TECH WEEK:
 The economic cost of untreated PMS and PMDD is measurable, significant, and almost entirely absent from the workplace conversation. As women's health becomes one of the fastest-growing investment categories in tech, this panel puts the science, the founder building solutions, and the clinical expertise in the same room as the investors and operators who can accelerate change. The performance tax framing makes this a business conversation as much as a health one, and that's exactly what Tech Week audiences are here for.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

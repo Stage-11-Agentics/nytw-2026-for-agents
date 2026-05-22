@@ -28,6 +28,7 @@ remaining_capacity: 31
 total_guest_count: 27
 approved_guest_count: 0
 local_image: "images/0YT8cdfJmiZ7RfwO6QNv.png"
+canceled: false
 ---
 
 # Sidewalk Games: Recess
@@ -62,6 +63,7 @@ Founders, operators, and anyone in tech who wants to meet people somewhere other
 This is a free event hosted by Urban Origins, makers of Sidewalk Games — outdoor, team-building experiences.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

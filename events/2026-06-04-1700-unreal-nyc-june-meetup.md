@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["VYeEhYb7k46mGe6edBwh", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 72
+total_guest_count: 74
 approved_guest_count: 0
 local_image: "images/kNzjYKYZPsXC63XE7Jn6.jpg"
+canceled: false
 ---
 
 # Unreal NYC June Meetup
@@ -31,7 +32,7 @@ local_image: "images/kNzjYKYZPsXC63XE7Jn6.jpg"
 **Hosts:** Agile Lens  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:00pm ET
 **Where:** Midtown
-**Going:** 66 of 72
+**Going:** 66 of 74
 **RSVP:** https://partiful.com/e/kNzjYKYZPsXC63XE7Jn6
 
 ### Hosts on Partiful
@@ -53,6 +54,7 @@ Unreal NYC Discord group: https://discord.gg/9A9NdW6DDA
 More info: http://AgileLens.com/unrealnyc
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

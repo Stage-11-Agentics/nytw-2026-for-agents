@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["zD9iTfNzFx3BqWTT8bbS", "Qc7GyPMdRyg9xqDSEFjfDqZtF1s2", "SlGuUcrSFYPQS1hGxHyVd0ZWV3I2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 15
+total_guest_count: 17
 approved_guest_count: 0
 local_image: "images/79Er0b9t7T3CeaAOzYrs.png"
+canceled: false
 ---
 
 # HealthTech by the Harbor
@@ -36,7 +37,7 @@ local_image: "images/79Er0b9t7T3CeaAOzYrs.png"
 **Hosts:** Marwood Group  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
 **Where:** Quick Eternity · 22 Peck Slip, New York, NY 10038 · Financial District
-**Going:** 15
+**Going:** 15 of 17
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/79Er0b9t7T3CeaAOzYrs
 **Map:** https://www.google.com/maps/search/?api=1&query=22%20Peck%20Slip%2C%20New%20York%2C%20NY%2010038
@@ -54,6 +55,7 @@ local_image: "images/79Er0b9t7T3CeaAOzYrs.png"
 An invite-only NY Tech Week reception for HealthTech innovators, operators, and investors in historic South Street Seaport, with a limited number of spots available by application. Please reach out to marketing@marwoodgroup.com for Plus-Ones or any questions about the event.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

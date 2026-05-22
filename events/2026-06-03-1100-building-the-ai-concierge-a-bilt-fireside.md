@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 657
 approved_guest_count: 74
 local_image: "images/5hhjGFJdaccHUlu3nUrO.png"
+canceled: false
 ---
 
 # Building the AI Concierge: A Bilt Fireside
@@ -75,6 +76,7 @@ The Afterparty (ft. Ian Asher): https://partiful.com/e/ScshPTV3NbGkHPRQ5Ith
 This event is a part of #NYCTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 By registering for this event, you consent to receive post-event communications from the hosts. You may unsubscribe at any time.
+
 
 
 

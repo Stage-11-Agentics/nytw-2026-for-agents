@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["nIECmQwd8rezlt3TY3N05O825sk1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 83
-approved_guest_count: 66
+total_guest_count: 84
+approved_guest_count: 67
 local_image: "images/0FFe3j83K3swyZ7QndDu.png"
+canceled: false
 ---
 
 # Pitch & Network: Czech Edition
@@ -36,7 +37,7 @@ local_image: "images/0FFe3j83K3swyZ7QndDu.png"
 **Hosts:** CzechInvest  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:00pm–8:30pm ET
 **Where:** Bohemian National Hall · 321 E 73rd St, New York, NY 10021 · Upper East Side
-**Going:** 83
+**Going:** 83 of 84
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/0FFe3j83K3swyZ7QndDu
 **Map:** https://www.google.com/maps/search/?api=1&query=321%20E%2073rd%20St%2C%20New%20York%2C%20NY%2010021
@@ -65,6 +66,7 @@ Who should attend:
 Investors, founders, startup operators, and anyone interested in tech, innovation, and cross‑border collaboration.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

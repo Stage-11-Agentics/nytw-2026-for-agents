@@ -22,6 +22,7 @@ is_capped: false
 total_guest_count: 114
 approved_guest_count: 111
 local_image: "images/JiBs94gNoe1bITFBC2Ie.jpg"
+canceled: false
 ---
 
 # Investing in Cultural Infrastructure Lunch
@@ -83,6 +84,7 @@ Investors · Founders · Operators
 Co-hosted by PlayMind Labs, a NYC behavioral analytics infrastructure company. We build real-time scoring APIs that help digital platforms understand user behavior as it happens. The company is pre-seed and based in New York. Find our CFO, Sergio Monterroso if you want to ask any questions. Learn more at www.playmindlabs.com or reach us at info@playmindlabs.com.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

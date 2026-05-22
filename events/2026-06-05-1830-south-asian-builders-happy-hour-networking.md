@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["cbgrQlHqiqUs1Use3D0AUOvLPbr1", "7DFu4rITofNzKIjA7hCx", "ZWgKFrZH7Qc9xmwJ11N2UFFqOvF2"]
 is_capped: false
-total_guest_count: 274
-approved_guest_count: 135
+total_guest_count: 280
+approved_guest_count: 148
 local_image: "images/qcs6HrzV1RsoT1Hj1tnI.png"
+canceled: false
 ---
 
 # South Asian Builders Happy Hour / Networking
@@ -34,7 +35,7 @@ local_image: "images/qcs6HrzV1RsoT1Hj1tnI.png"
 **Hosts:** Geeks & Experts, Products by Women  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 6:30pm ET
 **Where:** Tom and Jerry's Bar · 288 Elizabeth St, New York, NY 10012 · Chelsea
-**Going:** 272 of 274
+**Going:** 272 of 280
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/qcs6HrzV1RsoT1Hj1tnI
 **Map:** https://www.google.com/maps/search/?api=1&query=288%20Elizabeth%20St%2C%20New%20York%2C%20NY%2010012
@@ -57,6 +58,7 @@ Whether you're founding a company, writing code, leading product, or writing ang
 No panels. No pitches. Just meaningful conversations with people who get it.
 
 This event is part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech community.
+
 
 
 

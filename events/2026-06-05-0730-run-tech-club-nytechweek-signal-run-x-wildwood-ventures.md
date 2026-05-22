@@ -25,10 +25,11 @@ owner_count: 2
 owner_ids: ["1GsUsNRS6RVYqYoiM5Mys3l8fRl2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 71
-total_guest_count: 78
-approved_guest_count: 29
+remaining_capacity: 22
+total_guest_count: 81
+approved_guest_count: 78
 local_image: "images/OiFkcaWT26YBs7Hr5dtL.png"
+canceled: false
 ---
 
 # Run Tech Club #NYTechWeek | Signal Run x Wildwood Ventures
@@ -38,7 +39,7 @@ local_image: "images/OiFkcaWT26YBs7Hr5dtL.png"
 **Hosts:** Run Tech Club, Wildwood Ventures
 **When:** Friday, June 5, 2026 · 7:30am–9:00am ET
 **Where:** Fabrik · 16 Vestry St, New York, NY 10013 · Tribeca
-**Capacity:** capped at 100 · 29 taken, 71 remaining
+**Capacity:** capped at 100 · 78 taken, 22 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/OiFkcaWT26YBs7Hr5dtL
 **Map:** https://www.google.com/maps/search/?api=1&query=16%20Vestry%20St%2C%20New%20York%2C%20NY%2010013
@@ -79,6 +80,7 @@ Wildwood Ventures (Backed by VF Corp. Fortune 500 owner of iconic brands like Th
 
 ———
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

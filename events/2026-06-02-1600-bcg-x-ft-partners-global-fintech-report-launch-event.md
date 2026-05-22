@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["xB82gsWFgOWt0uN4BFvEdNCoWng2", "SIFdFJuyjEUX3uXgEfp6lQNNLnQ2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 424
+total_guest_count: 431
 approved_guest_count: 0
 local_image: "images/eDG0gXdzcRWx1pWjUZAq.png"
+canceled: false
 ---
 
 # BCG X FT Partners Global Fintech Report Launch Event
@@ -36,7 +37,7 @@ local_image: "images/eDG0gXdzcRWx1pWjUZAq.png"
 **Hosts:** Boston Consulting Group, FT Partners  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:00pm–6:30pm ET
 **Where:** Hudson Yards · Hudson Yards, Manhattan, New York, NY · Hudson Yards
-**Going:** 423 of 424
+**Going:** 423 of 431
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/eDG0gXdzcRWx1pWjUZAq
 **Map:** https://www.google.com/maps/search/?api=1&query=Hudson%20Yards%2C%20Hudson%20Yards%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -57,6 +58,7 @@ Over the past three months, we have conducted extensive research into the future
 Join BCG & FT Partners for an exclusive first look at this year’s findings, followed by a candid discussion with senior industry leaders on what the emerging forces in the industry mean for the road ahead. The session will conclude with informal drinks, offering an opportunity to engage with peers.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

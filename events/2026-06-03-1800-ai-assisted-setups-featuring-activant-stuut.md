@@ -23,9 +23,10 @@ owner_ids: ["ehHQpLOe07OHzbwzTUgL8YKknib2", "yhJgez1wGjd9YlRhtdRWepBvNv93", "V2G
 is_capped: true
 max_capacity: 80
 remaining_capacity: -9
-total_guest_count: 225
+total_guest_count: 227
 approved_guest_count: 89
 local_image: "images/ELpOGky1e3EphdQfLUHC.jpg"
+canceled: false
 ---
 
 # AI-assisted setups featuring Activant & Stuut
@@ -57,6 +58,7 @@ local_image: "images/ELpOGky1e3EphdQfLUHC.jpg"
 We're hosting a happy hour for builders to discuss how they using AI to build. From claude to openclaw. We're sharing best practices and how people cook up their best dev environment.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

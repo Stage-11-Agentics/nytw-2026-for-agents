@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["9K2ip5KfG1VOTKg73Vjq", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 218
-approved_guest_count: 0
+total_guest_count: 220
+approved_guest_count: 62
 local_image: "images/UHnwevW4JRQyBdRAOc9V.png"
+canceled: false
 ---
 
 # Healthtech Pizza Station
@@ -36,7 +37,7 @@ local_image: "images/UHnwevW4JRQyBdRAOc9V.png"
 **Hosts:** Scalpels & Spreadsheets, France Ovalle
 **When:** Tuesday, June 2, 2026 · 12:30pm–2:30pm ET
 **Where:** 307 West 38th Street · 307 W 38th St, New York, NY 10018 · Midtown
-**Going:** 216 of 218
+**Going:** 216 of 220
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/UHnwevW4JRQyBdRAOc9V
 **Map:** https://www.google.com/maps/search/?api=1&query=307%20W%2038th%20St%2C%20New%20York%2C%20NY%2010018
@@ -61,6 +62,7 @@ Sponsorships:
 1 remaining
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.de
+
 
 
 

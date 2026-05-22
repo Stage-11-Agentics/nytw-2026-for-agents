@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["Tsrt5RrXDpRRnyQ3jTKVb7sOisl1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 315
+total_guest_count: 317
 approved_guest_count: 0
 local_image: "images/oIAGx5NCqfYVJS9iPljh.png"
+canceled: false
 ---
 
 # Code For Climate: Build with AI @
@@ -36,7 +37,7 @@ local_image: "images/oIAGx5NCqfYVJS9iPljh.png"
 **Hosts:** Mentor Me Collective, Google Cloud, Thinking About Thinking, Base44
 **When:** Saturday, June 6, 2026 · 9:00am–6:00pm ET
 **Where:** New York, NY · New York, NY · Midtown
-**Going:** 245 of 315
+**Going:** 245 of 317
 **RSVP:** https://partiful.com/e/oIAGx5NCqfYVJS9iPljh
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
 
@@ -55,6 +56,7 @@ On June 6th, we’re launching NYC’s homegrown talent into a high-velocity spr
 Whether you are a CUNY student, an alum, or an ally to the mission, this is your invitation to build for the planet from the heart of the city. We aren’t just talking about change; we’re coding it.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

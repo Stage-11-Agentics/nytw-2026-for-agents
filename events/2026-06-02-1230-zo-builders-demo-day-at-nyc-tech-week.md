@@ -23,6 +23,7 @@ remaining_capacity: 99
 total_guest_count: 55
 approved_guest_count: 0
 local_image: "images/pmpzDSI9HP2mJlTBFXRS.png"
+canceled: false
 ---
 
 # Zo Builders Demo Day at NYC Tech Week
@@ -52,6 +53,7 @@ New York builds different. This one's a love letter to the operators, founders, 
 In the room: founders, operators, and folks building in and exploring AI. If you've been curious about what a personal cloud unlocks, this is the fastest way to find out, straight from the people building on it.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

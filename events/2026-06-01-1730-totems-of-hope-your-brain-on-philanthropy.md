@@ -23,9 +23,10 @@ owner_ids: ["ToClD7bXG7UNUBm7wGjYlyzClCG2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 67
 remaining_capacity: 0
-total_guest_count: 76
+total_guest_count: 78
 approved_guest_count: 0
 local_image: "images/SgKlRCyR9G7xYn2ftKRu.png"
+canceled: false
 ---
 
 # Totems of Hope: Your Brain On Philanthropy
@@ -66,6 +67,7 @@ Presented internationally, including at AWE USA and LA Tech Week / Internet Tech
 A space to slow down, tune in, and experience technology differently — not as distraction, but as a medium for connection.
 
 This event is part of NY Tech Week — a week of events hosted by VCs and startups bringing together the technology ecosystem.
+
 
 
 

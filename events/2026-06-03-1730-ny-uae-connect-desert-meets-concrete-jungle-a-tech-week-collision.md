@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["QnBEMRqeGuM96jxuKVr2aS9l2FH3", "7DFu4rITofNzKIjA7hCx", "RWvaPuAxsvcg0ruhuw74JAxYuD92", "LPhtfcjuWReGyGdcZ9lke1EWJ2i1", "Q6hlxVbORtTj8psOWtJoYNsXffr1"]
 is_capped: false
-total_guest_count: 146
+total_guest_count: 147
 approved_guest_count: 127
 local_image: "images/HT0UUtpvWrsGGJyjGSdG.png"
+canceled: false
 ---
 
 # NY-UAE Connect - Desert Meets Concrete Jungle: A Tech Week Collision
@@ -31,7 +32,7 @@ local_image: "images/HT0UUtpvWrsGGJyjGSdG.png"
 **Hosts:** Vencapital  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:30pm ET
 **Where:** Midtown
-**Going:** 145 of 146
+**Going:** 145 of 147
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/HT0UUtpvWrsGGJyjGSdG
 
@@ -59,6 +60,7 @@ About Host - Alumni Ventures
 ​Vencapital is a VC accelerator for emerging minority and female investors. We have supported 200+ alums through the program and have 100+ active VC fund managers and experienced investors in our community. Learn more about us at https://www.vencapital.org/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

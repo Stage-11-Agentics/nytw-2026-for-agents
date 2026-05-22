@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 46
 approved_guest_count: 40
 local_image: "images/BZmYKmtn6mwaNQ9Yf24O.png"
+canceled: false
 ---
 
 # South Asians in Tech
@@ -67,6 +68,7 @@ This is a casual, community-first meetup focused on real conversations and meani
 https://www.instagram.com/asan.fyi https://www.linkedin.com/company/asanfyi
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

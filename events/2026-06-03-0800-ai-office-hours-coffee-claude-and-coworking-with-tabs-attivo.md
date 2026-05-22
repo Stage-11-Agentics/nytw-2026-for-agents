@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["SfaAvaMQxnvunqKAih9C", "RljyWMAkYyNrujAUIldJ7OA3d9Z2", "7DFu4rITofNzKIjA7hCx", "3EiNioKPZRQNyUnkk06lVjtOhGd2", "HvQVrZ3y1xQ1X8fwXZQ6sal28jA3"]
 is_capped: false
-total_guest_count: 109
+total_guest_count: 111
 approved_guest_count: 3
 local_image: "images/DGJ1CuMG1bUlTJN89gAi.png"
+canceled: false
 ---
 
 # AI Office Hours: Coffee, Claude, and Coworking with Tabs & Attivo
@@ -36,7 +37,7 @@ local_image: "images/DGJ1CuMG1bUlTJN89gAi.png"
 **Hosts:** Tabs, Attivo  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 8:00am–4:30pm ET
 **Where:** SoHo · SoHo, Manhattan, New York, NY · SoHo
-**Going:** 108 of 109
+**Going:** 108 of 111
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/DGJ1CuMG1bUlTJN89gAi
 **Map:** https://www.google.com/maps/search/?api=1&query=SoHo%2C%20SoHo%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -75,6 +76,7 @@ Time: 8:00 AM – 4:30 PM
 Drop in anytime throughout the day.
 
 This event is part of #NYTechWeek — a week of events hosted by VCs and startups bringing together the tech ecosystem.
+
 
 
 

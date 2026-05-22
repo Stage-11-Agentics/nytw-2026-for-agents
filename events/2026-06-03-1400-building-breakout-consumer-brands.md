@@ -20,9 +20,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["g9WSVDEoL7sXE3iuPf86", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 107
+total_guest_count: 111
 approved_guest_count: 0
 local_image: "images/JfVnY8xQybNGHAIRxCRN.png"
+canceled: false
 ---
 
 # Building Breakout
@@ -34,7 +35,7 @@ Consumer Brands](images/JfVnY8xQybNGHAIRxCRN.png)
 **Hosts:** AcceleratorCON  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 2:00pm ET
 **Where:** 229 W 28th St, New York, NY 10001 · Chelsea
-**Going:** 101 of 107
+**Going:** 101 of 111
 **RSVP:** https://partiful.com/e/JfVnY8xQybNGHAIRxCRN
 **Map:** https://www.google.com/maps/search/?api=1&query=229%20W%2028th%20St%2C%20New%20York%2C%20NY%2010001
 
@@ -62,6 +63,7 @@ https://share.hsforms.com/2t2pL1K6tQ426PBBZVnKmxwnlxrs
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["ifbsG3uOuvXtIWtcroImxdOwqNB3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 184
+total_guest_count: 187
 approved_guest_count: 58
 local_image: "images/Cb4C4y5CJc9KRaCCMfUB.png"
+canceled: false
 ---
 
 # Seed To Sale & Beyond
@@ -34,7 +35,7 @@ local_image: "images/Cb4C4y5CJc9KRaCCMfUB.png"
 **Hosts:** UBS  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:30pm ET
 **Where:** Zero Bond · Zero Bond St, New York, NY 10012 · West Village
-**Going:** 184
+**Going:** 184 of 187
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Cb4C4y5CJc9KRaCCMfUB
 **Map:** https://www.google.com/maps/search/?api=1&query=Zero%20Bond%20St%2C%20New%20York%2C%20NY%2010012
@@ -59,6 +60,7 @@ https://www.linkedin.com/in/charlie-leggate-63606384/
 https://www.anorak.vc/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -20,9 +20,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["tdk0BW2cJ8V531ZqWsCjJjPwsIP2", "7DFu4rITofNzKIjA7hCx", "QmYdWAdzk6XWZpXoN1IiUixZtqS2"]
 is_capped: false
-total_guest_count: 8
+total_guest_count: 10
 approved_guest_count: 0
 local_image: "images/rbrAD6bdIvtkmWCsBThO.png"
+canceled: false
 ---
 
 # Build & Pitch w/ Raylu
@@ -32,7 +33,7 @@ local_image: "images/rbrAD6bdIvtkmWCsBThO.png"
 **Hosts:** Raylu  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:30pm–9:00pm ET
 **Where:** Midtown
-**Going:** 8
+**Going:** 8 of 10
 **RSVP:** https://partiful.com/e/rbrAD6bdIvtkmWCsBThO
 
 ### Hosts on Partiful
@@ -115,6 +116,7 @@ Team info
 💬 Questions? Email dayo@raylu.ai
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

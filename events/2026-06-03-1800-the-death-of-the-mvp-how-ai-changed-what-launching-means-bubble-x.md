@@ -22,10 +22,11 @@ owner_count: 3
 owner_ids: ["GtgUx2GEz3bjWyoxorX9v9FcEPN2", "7DFu4rITofNzKIjA7hCx", "n2OLqMUQcFZogUgc57wVKULe7qE2"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 63
-total_guest_count: 41
+remaining_capacity: 44
+total_guest_count: 60
 approved_guest_count: 0
 local_image: "images/dJh4IgxuEgjfcXelqTCZ.png"
+canceled: false
 ---
 
 # The Death of the MVP: How AI Changed What “Launching” Means - Bubble x
@@ -35,7 +36,7 @@ local_image: "images/dJh4IgxuEgjfcXelqTCZ.png"
 **Hosts:** Bubble.io, Ohana  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm ET
 **Where:** 22 W 21st St, New York, NY 10010 · SoHo
-**Capacity:** capped at 100 · 37 taken, 63 remaining
+**Capacity:** capped at 100 · 56 taken, 44 remaining
 **RSVP:** https://partiful.com/e/dJh4IgxuEgjfcXelqTCZ
 **Map:** https://www.google.com/maps/search/?api=1&query=22%20W%2021st%20St%2C%20New%20York%2C%20NY%2010010
 
@@ -55,6 +56,7 @@ This is the conversation happening behind the scenes. We’re bringing it exclus
 Stay for a Builder Exchange happy hour after the panel, where the conversations continue, and be ready to answer: if everyone can build, what’s the real moat?
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

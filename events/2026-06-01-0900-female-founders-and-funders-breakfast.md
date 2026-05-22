@@ -21,21 +21,22 @@ at_capacity: false
 going_guest_count: 520
 badges: []
 fetch_status: ok
-owner_count: 5
-owner_ids: ["mVLI4p4rGhb0DeaNRw7tUyWnddI3", "7DFu4rITofNzKIjA7hCx", "VvWi7zFXRgMpTJQD5lP9Fekxt9c2", "0UxZSxrIjQbXII1KFS5CldEqIHh1", "lNqzgPOx21dRoqNZQPIV"]
+owner_count: 6
+owner_ids: ["mVLI4p4rGhb0DeaNRw7tUyWnddI3", "7DFu4rITofNzKIjA7hCx", "VvWi7zFXRgMpTJQD5lP9Fekxt9c2", "0UxZSxrIjQbXII1KFS5CldEqIHh1", "lNqzgPOx21dRoqNZQPIV", "xIK4rFxOzzLwlxAgOmUDDrGdPCG2"]
 is_capped: true
 max_capacity: 300
 remaining_capacity: 6
 total_guest_count: 520
 approved_guest_count: 294
 local_image: "images/NUHPiYrVsDZX1D3CYfBZ.png"
+canceled: false
 ---
 
 # Female founders  and funders breakfast
 
 ![Female founders  and funders breakfast](images/NUHPiYrVsDZX1D3CYfBZ.png)
 
-**Hosts:** Sisters Capital, EVO VC & Startups Community  _(+3 more host(s) on Partiful — see description for full list)_
+**Hosts:** Sisters Capital, EVO VC & Startups Community  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 9:00am–12:00pm ET
 **Where:** New York, NY · New York, NY · Midtown
 **Capacity:** capped at 300 · 294 taken, 6 remaining
@@ -50,6 +51,7 @@ local_image: "images/NUHPiYrVsDZX1D3CYfBZ.png"
 - [Mariane Bekker](https://partiful.com/u/0UxZSxrIjQbXII1KFS5CldEqIHh1) — _Head of Dev Rel @ You.com | Founder  at Founders Bay - 200k+ AI Builders 
 www.foundersbay.com_
 - [You.com](https://partiful.com/u/lNqzgPOx21dRoqNZQPIV) — _You.com is the AI Search Infrastructure company for enterprises. We build the intellectual backbone that enables organizations to reason like experts, decide with confidence, and act at scale through intelligent agents and workflows._
+- [user `xIK4rFxOzzLwlxAgOmUDDrGdPCG2`](https://partiful.com/u/xIK4rFxOzzLwlxAgOmUDDrGdPCG2) _(name not resolved)_
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -74,6 +76,7 @@ Note: We are keeping this gathering intimate to ensure every attendee has the op
 This event is held as part of the local New York tech community's week of activities.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

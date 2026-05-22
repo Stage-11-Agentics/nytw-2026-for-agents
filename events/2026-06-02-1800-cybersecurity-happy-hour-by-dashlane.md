@@ -25,9 +25,10 @@ owner_ids: ["qE8S4EouvkeJM7RjbyTUqOtndDs1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
 remaining_capacity: -4
-total_guest_count: 109
+total_guest_count: 110
 approved_guest_count: 54
 local_image: "images/ploDSsK5Pxj3iKdDAQk3.png"
+canceled: false
 ---
 
 # Cybersecurity Happy Hour by Dashlane
@@ -56,6 +57,7 @@ Join Dashlane CTO for an evening of drinks, conversation, and connections with s
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 RSVPs are reviewed and approved for security and tech professionals to keep the conversation relevant and the room valuable.
+
 
 
 

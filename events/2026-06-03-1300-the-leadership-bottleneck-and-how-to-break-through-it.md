@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["bzRJcvmlfohIWzWbxFHY8Ggpffp2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 1988
+total_guest_count: 1989
 approved_guest_count: 0
 local_image: "images/A8dHZHCZ4lYHLHDbNx75.png"
+canceled: false
 ---
 
 # The Leadership Bottleneck — and How to Break Through It
@@ -31,7 +32,7 @@ local_image: "images/A8dHZHCZ4lYHLHDbNx75.png"
 **Hosts:** Momentum360™  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 1:00pm ET
 **Where:** Central Park
-**Going:** 45 of 1988
+**Going:** 45 of 1989
 **RSVP:** https://partiful.com/e/A8dHZHCZ4lYHLHDbNx75
 
 ### Hosts on Partiful
@@ -49,6 +50,7 @@ In this talk, executive decision strategist Kim Groshek introduces the concept o
 Perfect for founders, executives, and operators navigating growth, transition, or complex decision environments. Expect sharp insight, practical frameworks, and a new way to think about leadership momentum.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

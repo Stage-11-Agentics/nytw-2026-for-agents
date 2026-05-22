@@ -23,9 +23,10 @@ owner_ids: ["6ZIOv6O9VVcdXWOxoS0N0qGs86m2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 107
 remaining_capacity: 0
-total_guest_count: 114
+total_guest_count: 116
 approved_guest_count: 0
 local_image: "images/aj9i4KLrw0lbSx1qRC2k.gif"
+canceled: false
 ---
 
 # Move Over Viral Dr. Pepper - Meet the Billion Views Creator-A Million Views for Brands & Creators
@@ -63,6 +64,7 @@ This session is for creators and brands that want to stand out from the status q
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 *Please allow 12-72 hours for approval.
+
 
 
 

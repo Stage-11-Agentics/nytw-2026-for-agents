@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 6
 owner_ids: ["4fpGfFrH0LV7M2jrzMsWKw6oHek1", "7DFu4rITofNzKIjA7hCx", "8xYQIQ8YBKZsbTYCoJqP8CqnSOr2", "dUYHYPPxr3NJl2Osq1cqgZgWGgc2", "OJpFjrrrkDaJ73TsKZLuhc83c1u1", "I8NFZ8RrRbOlaSo9eYOZ"]
 is_capped: false
-total_guest_count: 256
+total_guest_count: 259
 approved_guest_count: 46
 local_image: "images/M3xlfwQ93o3IjcGUAkIQ.png"
+canceled: false
 ---
 
 # Founders & Funders: VC Reverse Pitch
@@ -36,7 +37,7 @@ local_image: "images/M3xlfwQ93o3IjcGUAkIQ.png"
 **Hosts:** Atlassian, Founders N’ Funders  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:00pm–7:00pm ET
 **Where:** New York, NY · New York, NY · Midtown
-**Going:** 255 of 256
+**Going:** 255 of 259
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/M3xlfwQ93o3IjcGUAkIQ
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -75,6 +76,7 @@ Atlassian • Agora • Carta • Shopline
 The event is a part of #NYTechWeek- a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 #venturecapital #VC #startupfunding #fundraising #founder #investor
+
 
 
 

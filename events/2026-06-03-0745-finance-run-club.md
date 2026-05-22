@@ -23,10 +23,11 @@ owner_count: 3
 owner_ids: ["YY3EknnZqcW5qyoehq65RBPGGWi2", "7DFu4rITofNzKIjA7hCx", "aV0aBzQPhZV5fmuaqeIn16nZq4v2"]
 is_capped: true
 max_capacity: 75
-remaining_capacity: 13
-total_guest_count: 176
-approved_guest_count: 62
+remaining_capacity: 14
+total_guest_count: 179
+approved_guest_count: 61
 local_image: "images/nwxJ2O5JhxJfTSFaksLr.png"
+canceled: false
 ---
 
 # Finance Run Club
@@ -36,7 +37,7 @@ local_image: "images/nwxJ2O5JhxJfTSFaksLr.png"
 **Hosts:** Runway Financial  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 7:45am ET
 **Where:** New York, NY · New York, NY · SoHo
-**Capacity:** capped at 75 · 62 taken, 13 remaining
+**Capacity:** capped at 75 · 61 taken, 14 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/nwxJ2O5JhxJfTSFaksLr
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -59,6 +60,7 @@ We'll run from 17 W 20th St, up the highline 10 blocks, then back to 17 W 20th S
 ​Recent attendees include CFOs and FP&A leaders from Figma, Clay, Zoom, Carta, Unity, Zynga, Docker, Opal, Lambda, Insight Timer, and Roku.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

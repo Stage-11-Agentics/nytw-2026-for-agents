@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["ZKoPxqhAaKcBqjdjofiw1HME5To1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 98
+total_guest_count: 102
 approved_guest_count: 14
 local_image: "images/n5x8mA6dCodI2A53nAtk.png"
+canceled: false
 ---
 
 # Women’s Physiology in AI, Performance & Longevity
@@ -33,7 +34,7 @@ local_image: "images/n5x8mA6dCodI2A53nAtk.png"
 **Hosts:** AskPetal  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm–8:00pm ET
 **Where:** Chelsea
-**Going:** 96 of 98
+**Going:** 96 of 102
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/n5x8mA6dCodI2A53nAtk
 
@@ -69,6 +70,7 @@ Open to founders, engineers, clinicians, investors, and operators interested in 
 Space is limited.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

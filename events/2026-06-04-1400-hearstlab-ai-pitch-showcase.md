@@ -26,9 +26,10 @@ owner_ids: ["8koaYOdE8H2mig6H6SIl", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 75
 remaining_capacity: -2
-total_guest_count: 149
+total_guest_count: 154
 approved_guest_count: 77
 local_image: "images/3vxIg2S6kieQBEjPoPgg.png"
+canceled: false
 ---
 
 # HearstLab AI Pitch & Showcase
@@ -56,6 +57,7 @@ We are a mission-focused strategic corporate venture fund committed to changing 
 HearstLab will host its first ever AI Pitch & Showcase, a live event in person at Hearst Tower where select portfolio founders will pitch a new AI feature or enhancement to a panel of judges for the opportunity to receive up to $100K in grant funding.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

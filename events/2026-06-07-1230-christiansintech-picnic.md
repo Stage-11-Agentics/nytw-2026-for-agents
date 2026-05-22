@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["XGkhIGnjIEXnoDTlscaOU7MqHZ83", "7DFu4rITofNzKIjA7hCx", "T2VAM4TLXxR8xM0NBnkoFXK3kSl2", "f5yFAcIdTNM11VRrCnIK"]
 is_capped: false
-total_guest_count: 96
-approved_guest_count: 0
+total_guest_count: 97
+approved_guest_count: 1
 local_image: "images/J3QgJAdVI8mGoxIqfzTa.png"
+canceled: false
 ---
 
 # Christians*inTech Picnic
@@ -36,7 +37,7 @@ local_image: "images/J3QgJAdVI8mGoxIqfzTa.png"
 **Hosts:** Christians*inTech  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Sunday, June 7, 2026 · 12:30pm–3:30pm ET
 **Where:** Central Park · New York, NY 10028 · Central Park
-**Going:** 96
+**Going:** 96 of 97
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/J3QgJAdVI8mGoxIqfzTa
 **Map:** https://www.google.com/maps/search/?api=1&query=Central%20Park%2C%20New%20York%2C%20NY%2010028
@@ -62,6 +63,7 @@ Come hang with fellow believers in tech for a laid-back afternoon in the sun ☀
 ​Whether you're an engineer, designer, product thinker, or just tech-curious, this is a great chance to connect in person and build community.
 
 ​This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

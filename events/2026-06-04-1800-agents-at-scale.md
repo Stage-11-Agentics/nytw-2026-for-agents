@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["qYdDZWrASlZfTUwyM0iL4mEFvo92", "7DFu4rITofNzKIjA7hCx", "UxkW5gQgOD9G09vo5Hco", "SC27BKmdo0L25wluvKZ2"]
 is_capped: false
-total_guest_count: 1096
+total_guest_count: 1100
 approved_guest_count: 140
 local_image: "images/6BlGFmwIdpyndqyLYS2v.png"
+canceled: false
 ---
 
 # Agents at Scale
@@ -34,7 +35,7 @@ local_image: "images/6BlGFmwIdpyndqyLYS2v.png"
 **Hosts:** Deskree, tavily, Braintrust, Modal
 **When:** Thursday, June 4, 2026 · 6:00pm ET
 **Where:** SoHo · SoHo, Manhattan, New York, NY · SoHo
-**Going:** 1095 of 1096
+**Going:** 1095 of 1100
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/6BlGFmwIdpyndqyLYS2v
 **Map:** https://www.google.com/maps/search/?api=1&query=SoHo%2C%20SoHo%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -62,6 +63,7 @@ Technical leads evaluating agent infrastructure
 Technical founders navigating the same production challenges
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

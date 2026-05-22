@@ -24,8 +24,9 @@ owner_count: 7
 owner_ids: ["TPO90tcTCAVTYhTnXoNbjscxFe32", "7ZTMjPyFwRZ5BGsgS1URn5j18zp2", "oz1Xi13asuOK8tARBpDJhnXEAzu2", "QqGzbVfnV2XO3OM85usWo8VZTv02", "OggjRER7vKTOabVdroweUaSVQG12", "36yVlNk03ERaqOR677btZxuVIYl1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
 total_guest_count: 87
-approved_guest_count: 26
+approved_guest_count: 27
 local_image: "images/seZGbZT3BDyfF9Ds4bI5.jpg"
+canceled: false
 ---
 
 # The Invisible Engine: How Embedded Payments Powers the Next Era of Growth
@@ -56,6 +57,7 @@ local_image: "images/seZGbZT3BDyfF9Ds4bI5.jpg"
 NYC Tech Week. Happy hour at 270 Park. Join J.P. Morgan Payments for a fireside chat on the moat that matters now. AI is reshaping the software landscape. Embedded Payments is how leading platforms are turning that shift into their biggest growth opportunity.  Grab a drink, bring your questions and make new connections.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

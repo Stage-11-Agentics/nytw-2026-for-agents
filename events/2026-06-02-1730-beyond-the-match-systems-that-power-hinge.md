@@ -23,9 +23,10 @@ owner_ids: ["bjHH9hyLBAlseoffkqVZ", "7DFu4rITofNzKIjA7hCx", "Gi8eOywGJtZjiVdyCqU
 is_capped: true
 max_capacity: 75
 remaining_capacity: 26
-total_guest_count: 232
+total_guest_count: 234
 approved_guest_count: 49
 local_image: "images/WZRB36bFpwMiawawUMD5.png"
+canceled: false
 ---
 
 # Beyond the Match: Systems That Power Hinge
@@ -57,6 +58,7 @@ After the talks, stay for drinks, light bites, and the chance to connect with a 
 Whether you're building, designing, leading, or simply curious about the intersection of technology and human connection, we’d love to see you there.
 
 This event is a part of #NYTechWeek-a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

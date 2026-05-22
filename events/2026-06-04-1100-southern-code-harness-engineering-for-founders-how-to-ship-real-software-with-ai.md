@@ -16,24 +16,25 @@ at_capacity: false
 going_guest_count: 8
 badges: []
 fetch_status: ok
-owner_count: 3
-owner_ids: ["VHmZLxFwWjdNN2pLjoKVlUjGfhx1", "UFLWR7fz5AmfgETqvyYh", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 4
+owner_ids: ["VHmZLxFwWjdNN2pLjoKVlUjGfhx1", "UFLWR7fz5AmfgETqvyYh", "7DFu4rITofNzKIjA7hCx", "YtEQKe1uFbXfJNPL11OJtIdCNVz2"]
 is_capped: true
 max_capacity: 12
-remaining_capacity: 8
-total_guest_count: 8
-approved_guest_count: 4
+remaining_capacity: 4
+total_guest_count: 9
+approved_guest_count: 8
 local_image: "images/JSaitRA2wgRoRy9FP45G.png"
+canceled: false
 ---
 
 # Southern Code — Harness Engineering for Founders: How to Ship Real Software with AI at
 
 ![Southern Code — Harness Engineering for Founders: How to Ship Real Software with AI at](images/JSaitRA2wgRoRy9FP45G.png)
 
-**Hosts:** Consulate General of Argentina in New York, Southern Code  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Consulate General of Argentina in New York, Southern Code  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 11:00am ET
 **Where:** Central Park
-**Capacity:** capped at 12 · 4 taken, 8 remaining
+**Capacity:** capped at 12 · 8 taken, 4 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/JSaitRA2wgRoRy9FP45G
 
@@ -41,6 +42,7 @@ local_image: "images/JSaitRA2wgRoRy9FP45G.png"
 
 - [Alexis Giovoglanian](https://partiful.com/u/VHmZLxFwWjdNN2pLjoKVlUjGfhx1)
 - [Consulate General of Argentina in New York](https://partiful.com/u/UFLWR7fz5AmfgETqvyYh) — _Consulate General and Promotion Center of Argentina in New York_
+- [user `YtEQKe1uFbXfJNPL11OJtIdCNVz2`](https://partiful.com/u/YtEQKe1uFbXfJNPL11OJtIdCNVz2) _(name not resolved)_
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -59,6 +61,7 @@ Built for founders, operators, and leaders at companies adopting AI coding — w
 Hosted at the Argentina Tech Hub during #NYTechWeek.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

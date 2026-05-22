@@ -24,9 +24,10 @@ owner_ids: ["DSUX5xFhgigOZOFJ8IsUFBOVV7J3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 150
 remaining_capacity: 43
-total_guest_count: 206
+total_guest_count: 209
 approved_guest_count: 107
 local_image: "images/1DfnTdwjX1aN2XaPS5YC.png"
+canceled: false
 ---
 
 # Mastercard’s Discovering Quantum Computing
@@ -52,6 +53,7 @@ local_image: "images/1DfnTdwjX1aN2XaPS5YC.png"
 Join us at Mastercard’s NYC Tech Hub for Discovering Quantum, an event dedicated to demystifying the technology set to redefine computation as we know it. From qubits to quantum annealing, this event brings together pioneers at the forefront of quantum innovation to share insights, breakthroughs, and practical applications that are shaping the future.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

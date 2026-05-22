@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["k9o75egDXRZGkjxMT2fDaTGNjv52", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 939
-approved_guest_count: 85
+total_guest_count: 940
+approved_guest_count: 86
 local_image: "images/3dsSQ4jlafwg2QjIMXW3.jpg"
+canceled: false
 ---
 
 # LatAm & Latinos in Fintech
@@ -31,7 +32,7 @@ local_image: "images/3dsSQ4jlafwg2QjIMXW3.jpg"
 **Hosts:** Pygma  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm ET
 **Where:** Flatiron
-**Going:** 940 of 939
+**Going:** 940
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/3dsSQ4jlafwg2QjIMXW3
 
@@ -51,6 +52,7 @@ Panels, fireside chat, and networking. Last year Mastercard partnered with us to
 
 Are you building a startup? Apply to the Best 100 Latino & LatAm Startups:
 https://tally.so/r/WOYjMN
+
 
 
 

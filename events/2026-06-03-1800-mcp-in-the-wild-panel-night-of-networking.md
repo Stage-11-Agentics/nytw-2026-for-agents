@@ -29,6 +29,7 @@ remaining_capacity: 27
 total_guest_count: 44
 approved_guest_count: 33
 local_image: "images/6ZuudQBBZXcMNjdMynJ2.png"
+canceled: false
 ---
 
 # MCP in the Wild: Panel & Night of Networking
@@ -61,6 +62,7 @@ Panelists include:
 - Usercentrics' VP of AI Michael Yaroshefsky.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

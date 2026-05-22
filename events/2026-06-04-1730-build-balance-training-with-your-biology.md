@@ -25,9 +25,15 @@ is_capped: false
 total_guest_count: 17
 approved_guest_count: 0
 local_image: "images/K1ivmFFt8ooSTv3l48vS.png"
+canceled: true
+canceled_at: "2026-05-14T20:39:37.667Z"
+canceled_by: "Quyy2nPi8mQiOXNmUfIpmKnAO4g1"
 ---
 
 # Build & Balance: Training With Your Biology
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-14T20:39:37.667Z_
 
 ![Build & Balance: Training With Your Biology](images/K1ivmFFt8ooSTv3l48vS.png)
 
@@ -54,6 +60,7 @@ This event combines a cycle-aware fitness session led by Sync with a science-for
 The goal is to shift the conversation from “pushing through” to training and performing in alignment with biological signals.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

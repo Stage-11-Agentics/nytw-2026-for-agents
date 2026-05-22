@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["igIfcXFzqGQO3nW0NrZKEA7dk1M2", "UoWefw2fblMexOpisAWgwNEF3u23", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 252
-approved_guest_count: 35
+total_guest_count: 255
+approved_guest_count: 50
 local_image: "images/eP89tnFPXauq0Uwoq45t.jpg"
+canceled: false
 ---
 
 # GTM Breakfast: Rooftop, Robots & Revenue
@@ -33,7 +34,7 @@ local_image: "images/eP89tnFPXauq0Uwoq45t.jpg"
 **Hosts:** Default, People Data Labs  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 8:30am ET
 **Where:** 54 Thompson St, New York, NY 10012 · Flatiron
-**Going:** 251 of 252
+**Going:** 251 of 255
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/eP89tnFPXauq0Uwoq45t
 **Map:** https://www.google.com/maps/search/?api=1&query=54%20Thompson%20St%2C%20New%20York%2C%20NY%2010012
@@ -54,6 +55,7 @@ A rooftop morning gathering for revenue operators, GTM leaders, data nerds, and 
 Good food, live robot dogs you can pilot with a controller, and a room full of people who care about the infrastructure and data layer underneath every AI workflow.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

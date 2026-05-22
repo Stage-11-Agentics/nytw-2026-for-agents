@@ -26,6 +26,7 @@ remaining_capacity: 0
 total_guest_count: 48
 approved_guest_count: 30
 local_image: "images/xec08ytxQinpShin4rOV.jpg"
+canceled: false
 ---
 
 # Walk with a Purpose: BFVC x Allies
@@ -51,6 +52,7 @@ local_image: "images/xec08ytxQinpShin4rOV.jpg"
 Founders and investors, join Black Female Venture Club for an intimate walk through Central Park! Chat with ambitious founders and investors alike looking to learn from one another, share challenges and triumphs, and start the day off with some movement!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

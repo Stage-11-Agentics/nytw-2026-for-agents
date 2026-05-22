@@ -23,10 +23,11 @@ owner_count: 3
 owner_ids: ["TEQkc4HMmNdMtaHM5bFLE4K4PvD3", "UFLWR7fz5AmfgETqvyYh", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 40
-remaining_capacity: 20
-total_guest_count: 22
+remaining_capacity: 19
+total_guest_count: 24
 approved_guest_count: 0
 local_image: "images/3FJhBMtmVPBNG5pIaPlb.png"
+canceled: false
 ---
 
 # Rewiring Humans for AI Era
@@ -36,7 +37,7 @@ local_image: "images/3FJhBMtmVPBNG5pIaPlb.png"
 **Hosts:** RobinTests, Consulate General of Argentina in New York  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 11:00am–12:30pm ET
 **Where:** 12 W 56th St, New York, NY 10019 · Midtown
-**Capacity:** capped at 40 · 20 taken, 20 remaining
+**Capacity:** capped at 40 · 21 taken, 19 remaining
 **RSVP:** https://partiful.com/e/3FJhBMtmVPBNG5pIaPlb
 **Map:** https://www.google.com/maps/search/?api=1&query=12%20W%2056th%20St%2C%20New%20York%2C%20NY%2010019
 
@@ -84,6 +85,7 @@ Presented by Argentine neurotechnology company RobinTests, with the support of t
 Join founder Noelia Aguirre for an exploration into why the AI economy may also become the Brain Economy — and what humans will need to become truly AI-ready.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

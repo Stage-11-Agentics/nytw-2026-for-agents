@@ -25,10 +25,11 @@ owner_count: 2
 owner_ids: ["lg92HprfhJfaUg1fmoAuP5iDQ9D2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 17
-total_guest_count: 85
+remaining_capacity: 16
+total_guest_count: 86
 approved_guest_count: 0
 local_image: "images/ytrORmKjcLHr4rudjY3k.jpg"
+canceled: false
 ---
 
 # Intersection: 
@@ -40,7 +41,7 @@ AI + Blockchain](images/ytrORmKjcLHr4rudjY3k.jpg)
 **Hosts:** Hyperglade  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:30pm–6:00pm ET
 **Where:** Midtown Manhattan · Midtown Manhattan, Manhattan, New York, NY · Midtown
-**Capacity:** capped at 100 · 83 taken, 17 remaining
+**Capacity:** capped at 100 · 84 taken, 16 remaining
 **RSVP:** https://partiful.com/e/ytrORmKjcLHr4rudjY3k
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%20Manhattan%2C%20Midtown%20Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
 
@@ -55,6 +56,7 @@ AI + Blockchain](images/ytrORmKjcLHr4rudjY3k.jpg)
 Join us for Intersection: AI + Blockchain, a focused panel and Q&A featuring VCs, operators, and founders discussing the practical realities of these converging technologies. Following the discussion, stick around for dedicated networking to connect, talk shop, and share ideas with fellow builders and investors.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

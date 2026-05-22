@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["SqNFieBop8cCNWza3GY0kj4Olwd2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 80
+total_guest_count: 82
 approved_guest_count: 76
 local_image: "images/ArIDOyhww8NjQN7yyMyy.png"
+canceled: false
 ---
 
 # Next Gen Innovation Summit - Future Builders: From Vision to Impact
@@ -33,7 +34,7 @@ local_image: "images/ArIDOyhww8NjQN7yyMyy.png"
 **Hosts:** Global Futures Network  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 9:30am–5:00pm ET
 **Where:** 9:30am·Global Futures NetworkGlobal Futures NetworkNext Gen Innovation Summit - Future Builders: From Vision to Impact
-**Going:** 80
+**Going:** 80 of 82
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ArIDOyhww8NjQN7yyMyy
 
@@ -63,6 +64,7 @@ Whether you are an executive, investor, technologist, policymaker, or emerging l
 Space is limited. RSVP required.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

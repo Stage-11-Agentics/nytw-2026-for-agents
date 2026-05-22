@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["f8NM1d9KMfdp9XWZsolGIlQHgBq2", "7DFu4rITofNzKIjA7hCx", "3s0uYdxiWwQPHaiA9cardg6O1bp2", "KY13S2rXSQwe9mxo5Vkq"]
 is_capped: false
-total_guest_count: 186
+total_guest_count: 189
 approved_guest_count: 38
 local_image: "images/EDvSG5uaWJ1DJVAlgj6q.png"
+canceled: false
 ---
 
 # The Founding Table: Brunch & Spa Experience
@@ -36,7 +37,7 @@ local_image: "images/EDvSG5uaWJ1DJVAlgj6q.png"
 **Hosts:** Persona  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 9:00am–11:00am ET
 **Where:** Equinox NoMad · 31 W 27th St, New York, NY 10010 · Flatiron
-**Going:** 187 of 186
+**Going:** 187 of 189
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/EDvSG5uaWJ1DJVAlgj6q
 **Map:** https://www.google.com/maps/search/?api=1&query=31%20W%2027th%20St%2C%20New%20York%2C%20NY%2010010
@@ -70,6 +71,7 @@ Lightfield is an AI-native CRM platform designed for startups and B2B teams to a
 Chargebee helps AI-native, SaaS, and consumer subscription businesses scale with billing and monetization infrastructure built for speed, flexibility, and rapid iteration.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

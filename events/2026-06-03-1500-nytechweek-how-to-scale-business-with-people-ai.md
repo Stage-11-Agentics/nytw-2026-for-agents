@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 69
 approved_guest_count: 4
 local_image: "images/0qPzNNm0AgeHmfFyC9h2.png"
+canceled: false
 ---
 
 # #NYTechWeek How to Scale Business with People & AI
@@ -65,6 +66,7 @@ Expect practical conversations on how sales is evolving toward deeper diagnosis,
 You will also join curated mastermind circles with peers to workshop real challenges and walk away with actionable insights.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

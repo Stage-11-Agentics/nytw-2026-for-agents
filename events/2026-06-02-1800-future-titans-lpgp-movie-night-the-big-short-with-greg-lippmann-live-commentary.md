@@ -23,10 +23,11 @@ owner_count: 2
 owner_ids: ["VrHDcKtkVwbGZQ2j9zctIs0m4Ow1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 40
-remaining_capacity: 19
-total_guest_count: 83
-approved_guest_count: 21
+remaining_capacity: 16
+total_guest_count: 89
+approved_guest_count: 24
 local_image: "images/JWVWOaAPymS8WRbP2g5T.png"
+canceled: false
 ---
 
 # FUTURE TITANS LP/GP Movie Night: The Big Short (with Greg Lippmann live commentary)
@@ -36,7 +37,7 @@ local_image: "images/JWVWOaAPymS8WRbP2g5T.png"
 **Hosts:** Rock Yard Ventures  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Capacity:** capped at 40 · 21 taken, 19 remaining
+**Capacity:** capped at 40 · 24 taken, 16 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/JWVWOaAPymS8WRbP2g5T
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -90,6 +91,7 @@ With support from:
 This event is part of #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com. 
 
 NOTE: By applying to attend this event, you are agreeing to your email being added to event host and sponsor newsletters.
+
 
 
 

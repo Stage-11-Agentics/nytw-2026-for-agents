@@ -29,6 +29,7 @@ remaining_capacity: 47
 total_guest_count: 17
 approved_guest_count: 0
 local_image: "images/otWn9aTcoYTcUY4QWh5x.png"
+canceled: false
 ---
 
 # NY TECH PRAYER BRUNCH
@@ -57,6 +58,7 @@ If you are a Believer working in Tech, you know how isolating the industry can f
 Gather for Glory and Baddies in Tech are hosting a Prayer Brunch for Christian tech professionals during NY Tech Week. Join us to pray over the tech industry, break bread with other believers, and build new connections with Christians working across the technology sector. Together, we can advance the Kingdom of God in Tech.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

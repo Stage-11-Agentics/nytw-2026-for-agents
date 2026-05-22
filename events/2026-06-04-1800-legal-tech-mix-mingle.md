@@ -24,9 +24,10 @@ owner_ids: ["UWkNUJrWKcVRsrDKcX2eWL9Z6cm2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
 remaining_capacity: 45
-total_guest_count: 15
+total_guest_count: 17
 approved_guest_count: 5
 local_image: "images/zfoERhqNuTZjpq3mhfPX.png"
+canceled: false
 ---
 
 # Legal Tech Mix & Mingle
@@ -53,6 +54,7 @@ Clio brings legal AI to New York Tech Week.
 Join Clio (www.clio.com) for an evening of cocktails, appetizers, and good conversation with legal leaders, operators, firm founders, and investors from across the legal tech community. We’re gathering an exclusive group in New York to connect, unwind, and celebrate one of the biggest weeks in tech.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

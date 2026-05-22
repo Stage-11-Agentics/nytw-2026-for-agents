@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 11
 approved_guest_count: 0
 local_image: "images/m6zg2yXrZXoH8y7BFVgx.jpg"
+canceled: false
 ---
 
 # The Future of Tech: AI, Access & Who Gets Funded
@@ -67,6 +68,7 @@ AI is reshaping the tech landscape, but who’s benefiting, who’s getting fund
 ​By registering, you’ll be added to the Enpak newsletter to stay connected to future events, local opportunities, and community updates. You can unsubscribe at any time.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

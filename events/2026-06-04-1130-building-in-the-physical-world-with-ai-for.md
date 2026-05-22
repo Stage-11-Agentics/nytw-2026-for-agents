@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["mQ5MkyMKjhW0DJzOpIgKZxtjmT92", "7DFu4rITofNzKIjA7hCx", "FNvO5aQJdPQOvmohgfasexkUB6E2"]
 is_capped: false
-total_guest_count: 210
+total_guest_count: 212
 approved_guest_count: 127
 local_image: "images/ET08mdx8yiVrNczoRIBj.png"
+canceled: false
 ---
 
 # Building in the Physical World with AI for
@@ -35,7 +36,7 @@ local_image: "images/ET08mdx8yiVrNczoRIBj.png"
 **Hosts:** NextView Ventures  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 11:30am–1:00pm ET
 **Where:** 1250 Broadway, New York, NY 10001 · Flatiron
-**Going:** 210
+**Going:** 210 of 212
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ET08mdx8yiVrNczoRIBj
 **Map:** https://www.google.com/maps/search/?api=1&query=1250%20Broadway%2C%20New%20York%2C%20NY%2010001
@@ -63,6 +64,7 @@ ABOUT NEXTVIEW
 ​NextView Ventures is a high-conviction, hands-on venture capital firm that helps entrepreneurs build companies of consequence to shape a future of collective prosperity. NextView specializes in leading seed and pre-seed rounds in pre-traction businesses that leverage AI and software to tackle mass-market human problems. Since 2011, NextView has invested in 200+ portfolio companies nationally, including WHOOP, Attentive, ThredUP, Devoted Health, Setpoint, TripleLift, and Bobbie.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

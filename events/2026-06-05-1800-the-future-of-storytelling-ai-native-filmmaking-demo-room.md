@@ -22,10 +22,11 @@ owner_count: 2
 owner_ids: ["ufdzAMn8AYNmbWRQADMfKc5GAmq1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 42
-remaining_capacity: 23
-total_guest_count: 21
+remaining_capacity: 22
+total_guest_count: 22
 approved_guest_count: 0
 local_image: "images/V6w1IXuollfxgvdfYcHZ.png"
+canceled: false
 ---
 
 # The Future of Storytelling: AI-Native Filmmaking Demo Room
@@ -35,7 +36,7 @@ local_image: "images/V6w1IXuollfxgvdfYcHZ.png"
 **Hosts:** Just Videos Studios  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 6:00pm ET
 **Where:** New York, NY · New York, NY · Brooklyn
-**Capacity:** capped at 42 · 19 taken, 23 remaining
+**Capacity:** capped at 42 · 20 taken, 22 remaining
 **RSVP:** https://partiful.com/e/V6w1IXuollfxgvdfYcHZ
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
 
@@ -56,6 +57,7 @@ We will showcase real workflows used by studios and brands, followed by an inter
 Designed for investors, operators, and creative technologists interested in the next evolution of storytelling.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

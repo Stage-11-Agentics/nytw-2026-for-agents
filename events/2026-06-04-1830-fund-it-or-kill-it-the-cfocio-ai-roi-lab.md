@@ -25,6 +25,7 @@ is_capped: false
 total_guest_count: 47
 approved_guest_count: 8
 local_image: "images/VelsqrAD2a26jnovmOK1.png"
+canceled: false
 ---
 
 # Fund It or Kill It: The CFO–CIO AI ROI Lab
@@ -60,6 +61,7 @@ Hosted by Andra Vaduva, Founder and CEO of SafeSpace, a New York–based AI Adop
 Together, they combine expertise in AI adoption and implementation to help U.S. mid-market companies move beyond the hype and deploy AI in ways that drive real, measurable business value.
 
 This event is part of #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

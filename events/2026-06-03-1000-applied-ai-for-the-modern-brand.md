@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["m6cil6ZJtEnDdElptu7S", "7DFu4rITofNzKIjA7hCx", "w6THAyz0FHUtdgFxgExkEuWe9s33", "SEDKUP3DiKaQhA3JJViCxiOKXWk2"]
 is_capped: false
-total_guest_count: 207
+total_guest_count: 210
 approved_guest_count: 119
 local_image: "images/U1WrM7svk12I0W8tyk7L.png"
+canceled: false
 ---
 
 # Applied AI for the Modern Brand
@@ -35,7 +36,7 @@ local_image: "images/U1WrM7svk12I0W8tyk7L.png"
 **Hosts:** Plug and Play New York & NYEDC, NYEDC  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 10:00am–2:00pm ET
 **Where:** 124 E 14th St, New York, NY 10003 · Union Square
-**Going:** 207
+**Going:** 207 of 210
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/U1WrM7svk12I0W8tyk7L
 **Map:** https://www.google.com/maps/search/?api=1&query=124%20E%2014th%20St%2C%20New%20York%2C%20NY%2010003
@@ -73,6 +74,7 @@ Who Should Attend?
 • Corporate partners, researchers, and ecosystem builders interested in applied AI
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 53
 approved_guest_count: 0
 local_image: "images/83GF2SN1253QIV5Yr2rY.png"
+canceled: false
 ---
 
 # Consumer AI hackathon For Builder
@@ -58,6 +59,7 @@ We're living in an era where everything moves at lightning speed. In just the pa
 Food and drinks will be provided.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -22,9 +22,10 @@ owner_ids: ["bHc2XWmFhnxi9GxTj5zG", "7DFu4rITofNzKIjA7hCx", "hOnY4V0PHsUiNXuf9it
 is_capped: true
 max_capacity: 150
 remaining_capacity: 0
-total_guest_count: 207
+total_guest_count: 211
 approved_guest_count: 0
 local_image: "images/RLhDCt8BJz36bQu16hDY.png"
+canceled: false
 ---
 
 # NYC Tech Week Brooklyn Kickoff Zo Happy Hour
@@ -54,6 +55,7 @@ That's Zo. And we're kicking off NYC Tech Week in Brooklyn with a happy hour at 
 Come for the drinks, stay for a look at where personal computing is headed. Founders Ben and Rob will say a quick hello, otherwise it's an open night to meet the team, see Zo in action if you're curious, and meet other folks who are AI-curious or AI-deep.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

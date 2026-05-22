@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["jBmtn5o6m0Z79oQLSMTS2X6WHUr2", "nYJ4o3ffx1grwiWAz893sjU4rNf2", "ylqSqX2N7pbn8zWVDoBD8lUpnEB3", "LXf6Ii7TYMYMM0sCKXU5CoG0grB2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 368
-approved_guest_count: 209
+total_guest_count: 372
+approved_guest_count: 240
 local_image: "images/ot8041Lhdg9cEm9rludb.png"
+canceled: false
 ---
 
 # Ironspring Ventures/Eclipse/SVB Industrial Tech Breakfast
@@ -35,7 +36,7 @@ local_image: "images/ot8041Lhdg9cEm9rludb.png"
 **Hosts:** SVB, Ironspring Ventures, Eclipse  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 8:30am–10:00am ET
 **Where:** 11 W 42nd St, New York, NY 10036 · Midtown
-**Going:** 368
+**Going:** 368 of 372
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ot8041Lhdg9cEm9rludb
 **Map:** https://www.google.com/maps/search/?api=1&query=11%20W%2042nd%20St%2C%20New%20York%2C%20NY%2010036
@@ -59,6 +60,7 @@ Featured Speakers:
 -Saleh ElHattab, Founder & CEO, Gravity
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

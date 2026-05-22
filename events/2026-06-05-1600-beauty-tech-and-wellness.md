@@ -21,9 +21,10 @@ owner_ids: ["w2yaLutbqSaSS3vZSjiariQlR2A3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 120
 remaining_capacity: 120
-total_guest_count: 7
+total_guest_count: 10
 approved_guest_count: 0
 local_image: "images/ZOeFRrNgEB4lXfbQLvFR.png"
+canceled: false
 ---
 
 # Beauty-tech and Wellness
@@ -48,6 +49,7 @@ local_image: "images/ZOeFRrNgEB4lXfbQLvFR.png"
 Beauty is as internal as it is external, and the most exciting innovations happening right now prove it. The Future of Beauty Tech is a curated gathering during NY Tech Week bringing together founders, skincare and makeup brands, supplement and ingestible innovators, wellness tech builders, and beauty-forward creators. Designed to build an aligned community, the event is rooted in the belief that the best brands are curated IRL first. From what you apply to what you consume, this is where the full future of beauty gets built.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

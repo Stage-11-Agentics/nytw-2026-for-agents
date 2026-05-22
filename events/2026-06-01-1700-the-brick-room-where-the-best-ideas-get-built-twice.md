@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 31
 approved_guest_count: 30
 local_image: "images/IoEy26e6LoWbvwVRCTzR.png"
+canceled: false
 ---
 
 # The Brick Room - Where the Best Ideas get built Twice
@@ -74,6 +75,7 @@ Hosted by Saad Bin Tariq, certified LEGO® Serious Play® facilitator and Founde
 The Brick Room is an official NYC Tech Week 2026 event.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 52
 approved_guest_count: 0
 local_image: "images/ntFLcJCa0fpG8Lorosoh.png"
+canceled: false
 ---
 
 # The Ventures Startup Award New York 2026
@@ -56,6 +57,7 @@ Apply now to become a finalist and pitch directly to leading investors! It only 
 We’d love to have you! Please reach out to us at award@the-ventures.com
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

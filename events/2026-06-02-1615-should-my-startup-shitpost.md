@@ -19,10 +19,11 @@ owner_count: 2
 owner_ids: ["NQZsKMZM9TN13tCBqGFka68eKp93", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 39
-total_guest_count: 65
+remaining_capacity: 38
+total_guest_count: 66
 approved_guest_count: 0
 local_image: "images/xC1k2IB7TiquN4mMKhmA.png"
+canceled: false
 ---
 
 # Should my startup shitpost?
@@ -32,7 +33,7 @@ local_image: "images/xC1k2IB7TiquN4mMKhmA.png"
 **Hosts:** Memelord.com  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:15pm ET
 **Where:** Flatiron
-**Capacity:** capped at 100 · 61 taken, 39 remaining
+**Capacity:** capped at 100 · 62 taken, 38 remaining
 **RSVP:** https://partiful.com/e/xC1k2IB7TiquN4mMKhmA
 
 ### Hosts on Partiful
@@ -56,6 +57,7 @@ But even I don’t think your brand always should shitpost
 We’ll be discussing live and making memes for your brand on the spot
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

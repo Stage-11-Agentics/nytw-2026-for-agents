@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["yHNSQLgJg6RMBCU4JCGfzkBglw52", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 55
+total_guest_count: 56
 approved_guest_count: 0
 local_image: "images/c4CcsNTOnQyeIn1kpSW1.png"
+canceled: false
 ---
 
 # A Security Leaders Dinner
@@ -34,7 +35,7 @@ local_image: "images/c4CcsNTOnQyeIn1kpSW1.png"
 **Hosts:** Konvu  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:30pm ET
 **Where:** Manhattan · Manhattan, New York, NY · Flatiron
-**Going:** 55
+**Going:** 55 of 56
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/c4CcsNTOnQyeIn1kpSW1
 **Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -56,6 +57,7 @@ Limited seating. Selective audience.
 Hosted by Konvu https://konvu.com/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

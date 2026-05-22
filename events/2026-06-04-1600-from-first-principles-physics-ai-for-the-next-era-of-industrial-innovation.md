@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["2W28G66PaYTZSPoZaikuix7iGWo1", "7DFu4rITofNzKIjA7hCx", "SA7HZZekSTeLGOFVIX7R109Dqw12"]
 is_capped: false
-total_guest_count: 153
+total_guest_count: 157
 approved_guest_count: 0
 local_image: "images/NEVIHlvoy0l9uAXH63P5.jpg"
+canceled: false
 ---
 
 # From First Principles: Physics AI for the Next Era of Industrial Innovation
@@ -36,7 +37,7 @@ local_image: "images/NEVIHlvoy0l9uAXH63P5.jpg"
 **Hosts:** PhysicsX, NVIDIA  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 4:00pm–6:30pm ET
 **Where:** Flatiron · Flatiron, Manhattan, New York, NY · Flatiron
-**Going:** 153
+**Going:** 153 of 157
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/NEVIHlvoy0l9uAXH63P5
 **Map:** https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -53,6 +54,7 @@ local_image: "images/NEVIHlvoy0l9uAXH63P5.jpg"
 The way complex physical systems are designed and built is changing. AI-driven simulation is compressing development cycles, unlocking design spaces that were previously out of reach, and shifting engineering from iteration-heavy processes to system-level optimization. This panel brings together engineering leaders, founders, and practitioners at the frontier of physics AI to explore what's actually being deployed — across advanced manufacturing, industrial systems, and beyond. Hosted by PhysicsX with NVIDIA.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

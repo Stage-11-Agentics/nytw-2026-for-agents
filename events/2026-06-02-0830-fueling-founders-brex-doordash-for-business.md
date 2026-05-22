@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["DnI5WoVlM9ArLHvhogkn", "LA73olsyObbiooYPLVnWqSCrbKj2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 394
-approved_guest_count: 220
+total_guest_count: 398
+approved_guest_count: 239
 local_image: "images/YcSebrL4YrehGiEKdpxi.png"
+canceled: false
 ---
 
 # Fueling Founders: Brex + DoorDash for Business
@@ -33,7 +34,7 @@ local_image: "images/YcSebrL4YrehGiEKdpxi.png"
 **Hosts:** Brex, DoorDash for Business  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 8:30am–2:00pm ET
 **Where:** Flatiron
-**Going:** 392 of 394
+**Going:** 392 of 398
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/YcSebrL4YrehGiEKdpxi
 
@@ -57,6 +58,7 @@ What to expect
 - Exclusive startup perks: TechWeek offers from Brex and DoorDash for Business (business.doordash.com/en-us/techweek) 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

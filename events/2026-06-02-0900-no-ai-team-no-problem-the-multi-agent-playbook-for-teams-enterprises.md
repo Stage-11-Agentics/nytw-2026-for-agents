@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 6
 owner_ids: ["FvwHPtyvkybd3sHd5oYq", "U5nqvZyUf9hojrnqMnzgRiK0diR2", "17Wj7Oa0GXQAp9RmP4bbjY4vvY62", "cIrnqThnibSB9fF8vlRp", "7DFu4rITofNzKIjA7hCx", "vwFzRtvb7JNs5T41iUlCi2jcyo93"]
 is_capped: false
-total_guest_count: 104
-approved_guest_count: 55
+total_guest_count: 106
+approved_guest_count: 79
 local_image: "images/CpZhOzE6JH2RuPZfKDgK.png"
+canceled: false
 ---
 
 # No AI Team, No Problem :
@@ -38,7 +39,7 @@ The Multi-Agent Playbook For Teams & Enterprises.](images/CpZhOzE6JH2RuPZfKDgK.p
 **Hosts:** Phinite AI, Baker Tilly  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 9:00am–11:00am ET
 **Where:** BakerTilly US LLP · 66 Hudson Blvd E, Ste 2200, New York, NY 10001 · Hudson Yards
-**Going:** 103 of 104
+**Going:** 103 of 106
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/CpZhOzE6JH2RuPZfKDgK
 **Map:** https://www.google.com/maps/search/?api=1&query=66%20Hudson%20Blvd%20E%2C%20Ste%202200%2C%20New%20York%2C%20NY%2010001
@@ -64,6 +65,7 @@ Join us for an intimate morning of coffee, conversation, and concrete AI use cas
 Space is limited. RSVP to secure your spot.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

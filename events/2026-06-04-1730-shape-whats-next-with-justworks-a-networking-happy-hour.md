@@ -24,10 +24,11 @@ owner_count: 1
 owner_ids: ["LyuynlPDblUtg7OWPoZi"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 13
-total_guest_count: 40
+remaining_capacity: 7
+total_guest_count: 46
 approved_guest_count: 0
 local_image: "images/k5BGHkPmkIiP0SUK4n0F.png"
+canceled: false
 ---
 
 # Shape What's Next with Justworks - A Networking Happy Hour!
@@ -37,7 +38,7 @@ local_image: "images/k5BGHkPmkIiP0SUK4n0F.png"
 **Hosts:** Justworks
 **When:** Thursday, June 4, 2026 · 5:30pm–8:00pm ET
 **Where:** London & Martin · 6 Stone St, New York, NY 10004 · Financial District
-**Capacity:** capped at 50 · 37 taken, 13 remaining
+**Capacity:** capped at 50 · 43 taken, 7 remaining
 **RSVP:** https://partiful.com/e/k5BGHkPmkIiP0SUK4n0F
 **Map:** https://www.google.com/maps/search/?api=1&query=6%20Stone%20St%2C%20New%20York%2C%20NY%2010004
 
@@ -55,6 +56,7 @@ This is an opportunity to connect directly with Justworks leaders — the people
 We're actively hiring! Justworks is looking for our next great technologists across engineering, product, data and design— and we expect to meet them at events like this one. If you're open to exploring what's possible, come ready for great conversations with leaders who are ready to hire!
 
 Drinks and light bites will be provided!
+
 
 
 

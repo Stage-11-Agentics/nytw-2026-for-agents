@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["udAVeIzVLyY3S2rRAqmBlQ1RNva2", "7DFu4rITofNzKIjA7hCx", "oy2qbu0gVCGGXPgOCM2d"]
 is_capped: false
-total_guest_count: 429
-approved_guest_count: 397
+total_guest_count: 434
+approved_guest_count: 407
 local_image: "images/nNJ80KODX1rqDJbIKCln.png"
+canceled: false
 ---
 
 # Founders & Investors Afternoon Mixer
@@ -36,7 +37,7 @@ local_image: "images/nNJ80KODX1rqDJbIKCln.png"
 **Hosts:** Technology Founders of America  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 2:00pm–4:00pm ET
 **Where:** Manhattan · Manhattan, New York, NY · Union Square
-**Going:** 425 of 429
+**Going:** 425 of 434
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/nNJ80KODX1rqDJbIKCln
 **Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -62,6 +63,7 @@ Just IRL connecting with other smart people like you
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

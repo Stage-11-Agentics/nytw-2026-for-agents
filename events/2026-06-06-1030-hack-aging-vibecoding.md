@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["sQVJzncM2wPqTWArLX7YQONxE6d2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 33
+total_guest_count: 34
 approved_guest_count: 0
 local_image: "images/ldrUZdvoSlbrx3uQT7dd.png"
+canceled: false
 ---
 
 # Hack-Aging Vibecoding
@@ -33,7 +34,7 @@ local_image: "images/ldrUZdvoSlbrx3uQT7dd.png"
 **Hosts:** Owle AI  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 10:30am–7:00pm ET
 **Where:** Midtown
-**Going:** 32 of 33
+**Going:** 32 of 34
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ldrUZdvoSlbrx3uQT7dd
 
@@ -48,6 +49,7 @@ local_image: "images/ldrUZdvoSlbrx3uQT7dd.png"
 Hack Aging is a fast-paced vibecoding event where builders, clinicians, caregivers, and operators team up to create bold solutions for aging and care delivery. In just a few hours, you’ll turn real problems into working prototypes that can improve independence, coordination, and quality of life for older adults. Winners will be announced at the end of the event with 1st prize, 2nd prize and audience choice. Learn more at www.tech-week.com.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

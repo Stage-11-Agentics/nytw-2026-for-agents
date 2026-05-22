@@ -22,6 +22,7 @@ is_capped: false
 total_guest_count: 84
 approved_guest_count: 14
 local_image: "images/ZUYiQONLFm1fcVMiVAL2.png"
+canceled: false
 ---
 
 # Scale Without the Burn in AZ: A Private Founder Dinner
@@ -80,6 +81,7 @@ Companies must have a minimum of $1M in revenue and be open to exploring relocat
 Attendance is limited and subject to approval
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

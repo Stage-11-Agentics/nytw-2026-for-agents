@@ -24,10 +24,11 @@ owner_count: 2
 owner_ids: ["o2Nq2vsWEnVxnmrD2dPKDH0JGup2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 200
-remaining_capacity: 111
-total_guest_count: 90
+remaining_capacity: 109
+total_guest_count: 92
 approved_guest_count: 0
 local_image: "images/GSRIMLKsiwt2WYLiw8TC.jpg"
+canceled: false
 ---
 
 # The Operators Behind the Operators
@@ -37,7 +38,7 @@ local_image: "images/GSRIMLKsiwt2WYLiw8TC.jpg"
 **Hosts:** New York Robotics, EisnerAmper
 **When:** Thursday, June 4, 2026 · 12:00pm–2:30pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Capacity:** capped at 200 · 89 taken, 111 remaining
+**Capacity:** capped at 200 · 91 taken, 109 remaining
 **RSVP:** https://partiful.com/e/GSRIMLKsiwt2WYLiw8TC
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
 
@@ -59,6 +60,7 @@ Expect a high-signal, low-BS room of people who understand that building a compa
 Come for the conversations, stay for the connections, and leave with a clearer picture of what it actually takes to grow.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["iXetCaYIoBcLbA9WKSwhRNlhAoe2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 126
+total_guest_count: 128
 approved_guest_count: 0
 image_download_error: "HTTP Error 403: Forbidden"
+canceled: false
 ---
 
 # Advanced Product Managers social
@@ -33,7 +34,7 @@ image_download_error: "HTTP Error 403: Forbidden"
 **Hosts:** TheProductSociety  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–8:00pm ET
 **Where:** Chelsea
-**Going:** 125 of 126
+**Going:** 125 of 128
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/2QlDq6efVNjMcnOCGY3E
 
@@ -58,6 +59,7 @@ This event is sponsored by Popadelics, and Rupee beer!
 Follow @Theproductsociety for future socials and dm for any questions
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

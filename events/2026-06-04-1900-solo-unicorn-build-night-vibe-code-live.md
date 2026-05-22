@@ -23,10 +23,11 @@ owner_count: 2
 owner_ids: ["5e3cCqntxWb5Uu3D8K1r", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 93
-total_guest_count: 8
+remaining_capacity: 92
+total_guest_count: 10
 approved_guest_count: 0
 local_image: "images/gX1zdtbIO2AvDe8bhWzy.png"
+canceled: false
 ---
 
 # SOLO UNICORN BUILD NIGHT — Vibe Code Live
@@ -36,7 +37,7 @@ local_image: "images/gX1zdtbIO2AvDe8bhWzy.png"
 **Hosts:** Solo Unicorn Club, Manhattan Elite Club
 **When:** Thursday, June 4, 2026 · 7:00pm–10:00pm ET
 **Where:** 225 W 34th St, New York, NY 10122 · Midtown
-**Capacity:** capped at 100 · 7 taken, 93 remaining
+**Capacity:** capped at 100 · 8 taken, 92 remaining
 **RSVP:** https://partiful.com/e/gX1zdtbIO2AvDe8bhWzy
 **Map:** https://www.google.com/maps/search/?api=1&query=225%20W%2034th%20St%2C%20New%20York%2C%20NY%2010122
 
@@ -72,6 +73,7 @@ Bring: your laptop if you want to follow along.
 Want to be one of the 4 builders? Email  hello@SoloUnicorn.Club.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

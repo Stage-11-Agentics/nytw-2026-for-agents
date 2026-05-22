@@ -25,9 +25,10 @@ owner_ids: ["ogFxDTOM9S2eM6KSUO3B", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
 remaining_capacity: 50
-total_guest_count: 167
+total_guest_count: 168
 approved_guest_count: 0
 local_image: "images/5CiOULh6wh0ooq6LeF6X.avif"
+canceled: false
 ---
 
 # Calm before the storm...NY Tech Week Breakfast
@@ -57,6 +58,7 @@ local_image: "images/5CiOULh6wh0ooq6LeF6X.avif"
 ​A simple morning hang before the week begins.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -25,9 +25,10 @@ owner_ids: ["GOEt0wOn4HTWo7XSiycS1zvZReq2", "7DFu4rITofNzKIjA7hCx", "1gQb2SlySlf
 is_capped: true
 max_capacity: 60
 remaining_capacity: 0
-total_guest_count: 301
+total_guest_count: 306
 approved_guest_count: 0
 local_image: "images/W1wgKUzLIYEUHksaomkD.png"
+canceled: false
 ---
 
 # Claude Code Hackathon - Build an Agentic Team #nytechweek
@@ -64,6 +65,7 @@ Part of #NYTechWeek
 Facilitator include Nicole Patten (Ex-Google Engineer of 7 Years, Founder of ClaudeTraining.com) and Harry Roper (Founder of imaginaryspace.ai, Lovable Partner) and Ford Prior (Gieco, Flying Pig Labs).
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

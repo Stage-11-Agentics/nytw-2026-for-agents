@@ -26,6 +26,7 @@ remaining_capacity: 100
 total_guest_count: 22
 approved_guest_count: 0
 local_image: "images/nHdWQ9BiS434yZS636i0.png"
+canceled: false
 ---
 
 # Run One With Me: Plan Your First Tech Event in One Session
@@ -83,6 +84,7 @@ Format:
 You don't leave with inspiration. You leave with an event that's half-built before you close the laptop.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

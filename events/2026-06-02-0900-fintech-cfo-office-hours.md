@@ -25,6 +25,7 @@ is_capped: false
 total_guest_count: 89
 approved_guest_count: 32
 local_image: "images/YCxJ1L7QWreA9OWcKFau.png"
+canceled: false
 ---
 
 # Fintech CFO Office Hours
@@ -50,6 +51,7 @@ local_image: "images/YCxJ1L7QWreA9OWcKFau.png"
 We are bringing our popular Fintech CFO Office Hours to NYTechWeek! Scalepoint provides fractional CFO and Capital Markets Advisory services to Seed to B VC-backed Fintech startups. Early stage Fintech finance is hard, and sometimes founders just need someone to talk to about it. Book a time slot with us here https://cal.com/scalepoint-cfo/ny-tech-week-cfo-office-hours to bounce your ideas, get some hot takes and sage advice from our experienced Fintech CFOs and Capital Markets experts. 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["Mug63ol7GhORWStwhlKzbaeqdS53", "7DFu4rITofNzKIjA7hCx", "4p6GCVtPOad4VeMrVwvn"]
 is_capped: false
-total_guest_count: 88
+total_guest_count: 91
 approved_guest_count: 0
 local_image: "images/tCB5SR4rrqMPxtOu9EuY.png"
+canceled: false
 ---
 
 # Find a Cofounder, Help or Join a Startup
@@ -34,7 +35,7 @@ local_image: "images/tCB5SR4rrqMPxtOu9EuY.png"
 **Hosts:** Startup Oasis  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
 **Where:** The Yard: Columbus Circle · 33 W 60th St, New York, NY 10023 · Midtown
-**Going:** 77 of 88
+**Going:** 77 of 91
 **RSVP:** https://partiful.com/e/tCB5SR4rrqMPxtOu9EuY
 **Map:** https://www.google.com/maps/search/?api=1&query=33%20W%2060th%20St%2C%20New%20York%2C%20NY%2010023
 
@@ -61,6 +62,7 @@ Schedule for the Day:
 The audience will vote for a winner after the last pitch, who will be eligible to compete in the championship at the end of the year.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

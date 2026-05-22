@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 63
 approved_guest_count: 44
 local_image: "images/jgMKPC3cREYqMzEvxTzo.png"
+canceled: false
 ---
 
 # Postponed---  The Draft Experience:
@@ -57,6 +58,7 @@ The combine starts here. The Draft Experience is AcceleratorCON's multi-city pit
 ●Top Founders Advance to Championship Day
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

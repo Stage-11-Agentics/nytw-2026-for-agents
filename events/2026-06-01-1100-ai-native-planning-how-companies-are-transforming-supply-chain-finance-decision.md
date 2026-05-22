@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["CLUBDCDx6vRk9kTY3CmeHPX4J5W2", "7DFu4rITofNzKIjA7hCx", "UFLWR7fz5AmfgETqvyYh"]
 is_capped: false
-total_guest_count: 12
+total_guest_count: 17
 approved_guest_count: 12
 local_image: "images/499cWPHnN3Uoh8j7C9AN.png"
+canceled: false
 ---
 
 # AI-Native Planning: How Companies Are Transforming Supply Chain & Finance Decision-Making
@@ -35,7 +36,7 @@ local_image: "images/499cWPHnN3Uoh8j7C9AN.png"
 **Hosts:** Consulate General of Argentina in New York, Pyplan  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 11:00am–12:30pm ET
 **Where:** 12 W 56th St, New York, NY 10019 · Midtown
-**Going:** 12
+**Going:** 12 of 17
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/499cWPHnN3Uoh8j7C9AN
 **Map:** https://www.google.com/maps/search/?api=1&query=12%20W%2056th%20St%2C%20New%20York%2C%20NY%2010019
@@ -68,6 +69,7 @@ Speaker: Rodrigo Durán
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["wgY7gTxfPfRUZRBTn51Fy5Tmex72", "7DFu4rITofNzKIjA7hCx", "xamEr6EWU0cgsySD7lXTe84U8Em2"]
 is_capped: false
-total_guest_count: 96
+total_guest_count: 99
 approved_guest_count: 93
 local_image: "images/zJHDqWIiejSqWi4VR7Hq.png"
+canceled: false
 ---
 
 # From Idea to Impact: Building Products That Actually Ship
@@ -33,7 +34,7 @@ local_image: "images/zJHDqWIiejSqWi4VR7Hq.png"
 **Hosts:** NexPost  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 3:00pm–5:00pm ET
 **Where:** Nomad
-**Going:** 96
+**Going:** 96 of 99
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/zJHDqWIiejSqWi4VR7Hq
 
@@ -94,6 +95,7 @@ Come ready to think, build, and leave with something real.
 Spots are limited. Save your spot.
 
 This event is a part of NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

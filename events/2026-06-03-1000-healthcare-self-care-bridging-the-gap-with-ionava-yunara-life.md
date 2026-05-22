@@ -25,12 +25,21 @@ owner_ids: ["WwPo1IF9JXPDA8cCyY7JoBQzA8M2", "7DFu4rITofNzKIjA7hCx", "swEfJ2jFMsQ
 is_capped: true
 max_capacity: 888
 remaining_capacity: 840
-total_guest_count: 776
+total_guest_count: 775
 approved_guest_count: 48
 local_image: "images/sPplaYAA13KdbMUnQQiu.jpg"
+canceled: true
+canceled_at: "2026-05-20T20:02:22.521Z"
+canceled_by: "OSXT5FliwDUt8iw0yG7vHxtJJdx1"
+cancellation_message: "Hello! Unfortunately, this event has been postponed due to construction delays. Nevertheless, we would love to see you at another event during NYTW: come through to Monday's event at SoulCycle at 12pm; Tuesday's reception at The Maze Sober Social Club at 6pm; and/or Thursday's free Othership sauna session at 1:30pm! Looking forward to an exceptional week. Email team@coeuscollective.xyz with any questions!"
 ---
 
 # Healthcare & Self-Care, Bridging the Gap with ionava @ Yunara Life
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-20T20:02:22.521Z_  
+>  
+> Hello! Unfortunately, this event has been postponed due to construction delays. Nevertheless, we would love to see you at another event during NYTW: come through to Monday's event at SoulCycle at 12pm; Tuesday's reception at The Maze Sober Social Club at 6pm; and/or Thursday's free Othership sauna session at 1:30pm! Looking forward to an exceptional week. Email team@coeuscollective.xyz with any questions!
 
 ![Healthcare & Self-Care, Bridging the Gap with ionava @ Yunara Life](images/sPplaYAA13KdbMUnQQiu.jpg)
 
@@ -80,6 +89,7 @@ By signing up for our event, you agree to join Club ionava and Yunara Life's wai
 Please kindly note that photography and videography will take place throughout the event. By attending, you consent to the use of your likeness, voice, and appearance in event recap, promotional, and marketing materials by ionava, Yunara Life, and their partners.
 
 This event is a part of #NYTechWeek - a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

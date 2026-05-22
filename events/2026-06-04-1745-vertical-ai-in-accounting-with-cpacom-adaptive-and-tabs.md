@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["KyHD8bGnbvr19XpFt8c7", "7DFu4rITofNzKIjA7hCx", "UjF4a9BEX4TwCup1W6DbEqGGTrn1", "RljyWMAkYyNrujAUIldJ7OA3d9Z2", "SfaAvaMQxnvunqKAih9C"]
 is_capped: false
-total_guest_count: 187
+total_guest_count: 188
 approved_guest_count: 79
 local_image: "images/B6yvP8U2ZeeL3tVCudrZ.png"
+canceled: false
 ---
 
 # Vertical AI in Accounting with CPA.com, Adaptive, and Tabs
@@ -35,7 +36,7 @@ local_image: "images/B6yvP8U2ZeeL3tVCudrZ.png"
 **Hosts:** Adaptive, CPA.com, Tabs  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:45pm–8:30pm ET
 **Where:** 1345 6th Ave, New York, NY 10105 · Central Park
-**Going:** 187
+**Going:** 187 of 188
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/B6yvP8U2ZeeL3tVCudrZ
 **Map:** https://www.google.com/maps/search/?api=1&query=1345%206th%20Ave%2C%20New%20York%2C%20NY%2010105
@@ -76,6 +77,7 @@ Schedule:
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["Z2DA8l20Fdexiki7HRPxbsfST7k1", "FWxVO9vQIXQ8v43oNcQkU4qZ8dE3", "7DFu4rITofNzKIjA7hCx", "3ZjrKpLJzpM7A7aVqoGWzK50zAz2"]
 is_capped: false
-total_guest_count: 150
+total_guest_count: 156
 approved_guest_count: 39
 local_image: "images/fhZexBCTeyZAMH4Z37wg.png"
+canceled: false
 ---
 
 # A Conversation on Capital and Growth by Mercury - Sentra - ECL
@@ -36,7 +37,7 @@ local_image: "images/fhZexBCTeyZAMH4Z37wg.png"
 **Hosts:** Efficient Capital Labs, Sentra, Mercury  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:00pm–6:00pm ET
 **Where:** Flatiron Building · 175 Fifth Ave, New York, NY 10010 · Flatiron
-**Going:** 148 of 150
+**Going:** 148 of 156
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/fhZexBCTeyZAMH4Z37wg
 **Map:** https://www.google.com/maps/search/?api=1&query=175%20Fifth%20Ave%2C%20New%20York%2C%20NY%2010010
@@ -63,6 +64,7 @@ Itinerary:
 Don't miss it.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

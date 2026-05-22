@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["7DFu4rITofNzKIjA7hCx", "YbRqtYMY7k4j8M540Otu", "gbjILrDct8coLMJYvIZ5XSHwyZk2"]
 is_capped: false
-total_guest_count: 1248
-approved_guest_count: 172
+total_guest_count: 1239
+approved_guest_count: 199
 local_image: "images/AQPQKes1HVxpemJcyrR8.png"
+canceled: false
 ---
 
 # Founder Fireside w/ Partiful x a16z
@@ -34,7 +35,7 @@ local_image: "images/AQPQKes1HVxpemJcyrR8.png"
 **Hosts:** a16z, Partiful  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:00pm ET
 **Where:** SoHo · SoHo, Manhattan, New York, NY · SoHo
-**Going:** 1248
+**Going:** 1248 of 1239
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/AQPQKes1HVxpemJcyrR8
 **Map:** https://www.google.com/maps/search/?api=1&query=SoHo%2C%20SoHo%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -52,6 +53,7 @@ Join Shreya Murthy (cofounder, Partiful) & Olivia Moore (partner at a16z) for a 
 _______________
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

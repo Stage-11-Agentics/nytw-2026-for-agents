@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["fkMsYygU4Zd1Sg14CyYjtmphvDI3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 238
+total_guest_count: 245
 approved_guest_count: 0
 local_image: "images/NGgfzMriEK2HgnbSsvzs.png"
+canceled: false
 ---
 
 # What if healthcare moved as fast as everything else?
@@ -34,7 +35,7 @@ local_image: "images/NGgfzMriEK2HgnbSsvzs.png"
 **Hosts:** Willow Health  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:00pm ET
 **Where:** Tribeca · Tribeca, Manhattan, New York, NY · Flatiron
-**Going:** 238
+**Going:** 238 of 245
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/NGgfzMriEK2HgnbSsvzs
 **Map:** https://www.google.com/maps/search/?api=1&query=Tribeca%2C%20Tribeca%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -50,6 +51,7 @@ local_image: "images/NGgfzMriEK2HgnbSsvzs.png"
 Healthcare is one of the most consequential industries in the world — and one of the slowest to change. Join us for an intimate panel, hosted by Willow Health (an a16z portfolio company), where founders, clinicians, and investors tackle the big question: what would it actually take for healthcare to move at the speed of technology? Come ready for honest conversation, bold takes, and the people building the future of health.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

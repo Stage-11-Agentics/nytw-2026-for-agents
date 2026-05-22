@@ -21,9 +21,10 @@ owner_ids: ["5dyGU7suUARe6DZWMqdZyFzkam83", "7DFu4rITofNzKIjA7hCx", "5l1CINAFueT
 is_capped: true
 max_capacity: 25
 remaining_capacity: 25
-total_guest_count: 72
+total_guest_count: 74
 approved_guest_count: 0
 local_image: "images/sKDElAcr0GLf9YUmGq3t.png"
+canceled: false
 ---
 
 # AI x Games Dinner
@@ -55,6 +56,7 @@ Expect thoughtful conversations, live perspectives from operators in the field, 
 Seats are limited.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

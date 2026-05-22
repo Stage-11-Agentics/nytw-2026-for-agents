@@ -22,6 +22,7 @@ is_capped: false
 total_guest_count: 58
 approved_guest_count: 0
 local_image: "images/gf8tz8WU0NoITEo7LWGf.gif"
+canceled: false
 ---
 
 # Building in 3D Happy Hour –
@@ -51,6 +52,7 @@ From generative AI and coding agents to new workflows and production pipelines, 
 This is the 5th time we’ve hosted this gathering, and it continues to be one of the best rooms for thoughtful, high-quality conversation around 3D.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

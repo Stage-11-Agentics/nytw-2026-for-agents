@@ -25,8 +25,9 @@ owner_count: 4
 owner_ids: ["4YVoojjWTyR06Or8pGChKuhQabj2", "JdW44CcjVrPDEA6ye6eNp21TpRB3", "zoD4bN6bksSOjQ5bxbwb0FpSVuJ3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
 total_guest_count: 182
-approved_guest_count: 155
+approved_guest_count: 156
 local_image: "images/kYWNQTNgGYDZV4EfE9Ia.png"
+canceled: false
 ---
 
 # After Hours by Bounty
@@ -60,6 +61,7 @@ After Hours by Bounty is an official NY Tech Week event for founders, creators, 
 No tech background required!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

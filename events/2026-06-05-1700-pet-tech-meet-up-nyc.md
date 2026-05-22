@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 22
 approved_guest_count: 0
 local_image: "images/DbJ8hrweBskIasfuf4cM.png"
+canceled: false
 ---
 
 # Pet Tech Meet Up NYC
@@ -54,6 +55,7 @@ Come connect, share ideas, and meet others shaping the space.
 🐶 Pets welcome!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

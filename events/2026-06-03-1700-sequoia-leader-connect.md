@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["fhIht7tQskPUZcYWruMVZOg48zp2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 259
+total_guest_count: 263
 approved_guest_count: 56
 local_image: "images/5bTJOqJWwdhk70hBt7sx.png"
+canceled: false
 ---
 
 # Sequoia Leader Connect
@@ -36,7 +37,7 @@ local_image: "images/5bTJOqJWwdhk70hBt7sx.png"
 **Hosts:** Sequoia  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:00pm–7:00pm ET
 **Where:** Flatiron · Flatiron, Manhattan, New York, NY · Flatiron
-**Going:** 257 of 259
+**Going:** 257 of 263
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/5bTJOqJWwdhk70hBt7sx
 **Map:** https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -56,6 +57,7 @@ It will be a short, deck-free conversation, packed with wisdom and insights, and
 This event is intended for Senior Leaders (Founders, CFOs, CHROs)  at Tech Companies. 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

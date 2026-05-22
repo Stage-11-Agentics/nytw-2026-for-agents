@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 11
 owner_ids: ["3RbIneJRtxZ6B18R6EzxNZvnhCN2", "7DFu4rITofNzKIjA7hCx", "IcSHJ4qov9QGam57FkODSgcsnwp2", "lRbsUBShN5NFJm0ApjAbfAgWpaE2", "chYEv4858OzM9E1jkvnD", "RaQek3Rt70UMU22XRGjy3af1RGR2", "lkHXThR6tzTYq8BmJcxx", "unjMSF3meteMQ3LbgHKGrBRN7363", "mNwbiS40q4H2zK05Ct4Z", "XRfQP3vu7PRPGvbyLVQT7aP2sF63", "FETIzZke7PZ1s66QaOQ73svJ37z2"]
 is_capped: false
-total_guest_count: 266
-approved_guest_count: 55
+total_guest_count: 270
+approved_guest_count: 56
 local_image: "images/roBdpE5BbsISagoa8CzN.png"
+canceled: false
 ---
 
 # founder wellness
@@ -36,7 +37,7 @@ local_image: "images/roBdpE5BbsISagoa8CzN.png"
 **Hosts:** The Collective, Zendesk  _(+9 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:00pm–8:00pm ET
 **Where:** Manhattan · Manhattan, New York, NY · East Village
-**Going:** 264 of 266
+**Going:** 264 of 270
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/roBdpE5BbsISagoa8CzN
 **Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -69,6 +70,7 @@ This event is a part of #NYTechWeek—a week of events hosted by VCs and startup
 —
 
 ​​​⭐ The Collective is a community for the world's most ambitious young people.
+
 
 
 

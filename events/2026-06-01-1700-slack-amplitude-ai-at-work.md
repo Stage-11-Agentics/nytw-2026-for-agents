@@ -26,9 +26,10 @@ owner_ids: ["nKGqFAioS5P18UkBOfRPD6om7Id2", "ZR3QwsUjE1wLr4WD9989", "7DFu4rITofN
 is_capped: true
 max_capacity: 150
 remaining_capacity: 21
-total_guest_count: 443
+total_guest_count: 448
 approved_guest_count: 129
 local_image: "images/dmFBKIxzn2LdFmktqas8.png"
+canceled: false
 ---
 
 # Slack ✖︎ Amplitude: 
@@ -71,6 +72,7 @@ Hosted at Fabrik in NYC. Capped at 70 attendees.
 Brought to you by Slack Community NYC, Amplitude, and Tightknit.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["v9Rib6DG1kNchPu5Jb8aLxY3gu72", "7DFu4rITofNzKIjA7hCx", "HucaE41nIAgVz07P337ABgp4qY92"]
 is_capped: false
-total_guest_count: 218
-approved_guest_count: 169
+total_guest_count: 228
+approved_guest_count: 173
 local_image: "images/wO7Livvy7ag3WP8PoPUQ.png"
+canceled: false
 ---
 
 # Agent-Led Growth: The CMO Briefing
@@ -34,7 +35,7 @@ local_image: "images/wO7Livvy7ag3WP8PoPUQ.png"
 **Hosts:** Limy AI  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:30pm ET
 **Where:** Chelsea Centro · 200 W 26th St, New York, NY 10001 · Midtown
-**Going:** 215 of 218
+**Going:** 215 of 228
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/wO7Livvy7ag3WP8PoPUQ
 **Map:** https://www.google.com/maps/search/?api=1&query=200%20W%2026th%20St%2C%20New%20York%2C%20NY%2010001
@@ -63,6 +64,7 @@ We'll also get into the new job description for marketers in the agentic era —
 Looking forward to seeing you there!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

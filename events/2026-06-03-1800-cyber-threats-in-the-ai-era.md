@@ -24,9 +24,18 @@ is_capped: false
 total_guest_count: 39
 approved_guest_count: 0
 local_image: "images/Y4qVEuhXoPZo3xGIptiA.jpg"
+canceled: true
+canceled_at: "2026-05-13T14:42:53.603Z"
+canceled_by: "diBWKUeogOQ7DF47t5PQ5OtXEPE3"
+cancellation_message: "Very sorry folks - next year!"
 ---
 
 # Cyber threats in the AI Era
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-13T14:42:53.603Z_  
+>  
+> Very sorry folks - next year!
 
 ![Cyber threats in the AI Era](images/Y4qVEuhXoPZo3xGIptiA.jpg)
 
@@ -63,6 +72,7 @@ Connecting Canada’s strength in AI & cyber with NYC’s scale, capital, and en
 This event will be photographed and recorded. By registering and attending, you grant the organizers and their partners the right to use any photographs or video footage in which you may appear for marketing, communications, and promotional purposes, without compensation.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["MnrTVn6T1Yc80jibtVg1tau6sQI2", "7DFu4rITofNzKIjA7hCx", "acw1fFGaAmamAfMCGQMoGBP3ADQ2"]
 is_capped: false
-total_guest_count: 75
+total_guest_count: 81
 approved_guest_count: 0
 local_image: "images/EdiAncVfz5Pwyx8ljgDR.png"
+canceled: false
 ---
 
 # LinkedIn GTM Hackathon
@@ -33,7 +34,7 @@ local_image: "images/EdiAncVfz5Pwyx8ljgDR.png"
 **Hosts:** GenZtea, The Business Lesson  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
 **Where:** Flatiron
-**Going:** 75
+**Going:** 75 of 81
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/EdiAncVfz5Pwyx8ljgDR
 
@@ -76,6 +77,7 @@ Laura Lee — Founder of BCBO: Big City Big Opp. Wharton | BCG | ex-Goldman. Bui
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

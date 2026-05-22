@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["JulomszOkROrTpcTz6ObJGiw4SR2", "7DFu4rITofNzKIjA7hCx", "zg3v9nQHJcVRxO9UWfhoSriyK6z1"]
 is_capped: false
-total_guest_count: 104
-approved_guest_count: 82
+total_guest_count: 105
+approved_guest_count: 83
 local_image: "images/ByVS3R0LSmqvOoywWhDe.png"
+canceled: false
 ---
 
 # Startup Spotlight: Lithuania
@@ -33,7 +34,7 @@ local_image: "images/ByVS3R0LSmqvOoywWhDe.png"
 **Hosts:** Consulate General of the Republic of Lithuania in New York, Innovation Agency Lithuania  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 4:30pm–6:30pm ET
 **Where:** Midtown
-**Going:** 104
+**Going:** 104 of 105
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ByVS3R0LSmqvOoywWhDe
 
@@ -60,6 +61,7 @@ Expect startups that show a broader picture of the Lithuanian ecosystem: cyberse
 The goal is to help the right people meet Lithuanian founders with concrete US market-entry asks around capital, customers, partnerships, distribution, and strategic introductions💡
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

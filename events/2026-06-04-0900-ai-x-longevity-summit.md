@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 8
 owner_ids: ["LwJpThZ6KKcjlSDE8pPiaSF0HMi2", "IpFJiA1iJ0Yt07HbVFaRHKICmna2", "FOMX4DeYH2WI4KWiTOlFT5DEVaU2", "cq4SB4i0yuRFa645DXLOCFiU2Wb2", "7DFu4rITofNzKIjA7hCx", "0wNkn3yXNoZWcbvpbvXHgRCeK4r1", "zDdU1DuTlhX415fGpBSCBuHASqS2", "jTbPupYf63aGeCyR1qbUs3H1xUn2"]
 is_capped: false
-total_guest_count: 145
+total_guest_count: 148
 approved_guest_count: 6
 local_image: "images/8bgCoU7MTA6AyqkNh6FZ.png"
+canceled: false
 ---
 
 # AI x Longevity Summit
@@ -35,7 +36,7 @@ local_image: "images/8bgCoU7MTA6AyqkNh6FZ.png"
 **Hosts:** Longevity Global, Dovetail Biopartners, Yale University  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 9:00am–7:00pm ET
 **Where:** 45-18 Court Square W, Long Island City, NY 11101 · Queens
-**Going:** 144 of 145
+**Going:** 144 of 148
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/8bgCoU7MTA6AyqkNh6FZ
 **Map:** https://www.google.com/maps/search/?api=1&query=45-18%20Court%20Square%20W%2C%20Long%20Island%20City%2C%20NY%2011101
@@ -91,6 +92,7 @@ Yale University — Raghav Sehgal
 
 
 This event is part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

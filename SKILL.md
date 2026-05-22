@@ -42,6 +42,10 @@ Each `events/*.md` has YAML frontmatter and a body. Filename is `YYYY-MM-DD-HHMM
 | `is_capped`, `max_capacity`, `remaining_capacity` | bool / int | When the host capped the guestlist |
 | `going_guest_count`, `total_guest_count`, `approved_guest_count` | int | Guest count at crawl time (2026-05-21) |
 | `at_capacity` | bool | Whether RSVPs are currently closed |
+| `canceled` | bool | `true` if the host marked the event canceled on Partiful |
+| `canceled_at` | ISO 8601 | When cancellation was logged (only when `canceled: true`) |
+| `canceled_by` | string | Partiful user ID that triggered the cancellation |
+| `cancellation_message` | string | The host's note explaining why (verbatim, may be multi-line) |
 | `guest_action` | `"APPLY"` or `"RSVP"` | APPLY = hosts approve; RSVP = open |
 | `visibility` | string | `"public"` for the entire dataset |
 | `badges` | list[string] | `["Sponsored"]`, `["Morning"]`, etc. |
@@ -95,7 +99,12 @@ Each `events/*.md` has YAML frontmatter and a body. Filename is `YYYY-MM-DD-HHMM
 
 5. **One outlier date.** One event (`Pitch and Rum`) is dated 2026-06-11, outside the official June 1–7 window. It's on tech-week.com's calendar so it stays.
 
-6. **Crawl provenance.** Snapshotted 2026-05-21. Event details, RSVP availability, and guest counts may have drifted since.
+6. **Cancellations stay in the dataset.** When a host marks an event `CANCELED` on Partiful, we keep the file (so the URL stays resolvable, the data stays diff-able across crawls, and downstream agents can see *what* was cancelled and *why*) but flag it loudly: `canceled: true` in frontmatter, a `⚠ CANCELED` banner at the top of the body with the host's `cancellation_message`. Filter at analysis time:
+   ```python
+   live_events = [f for f in events if not f.get("canceled")]
+   ```
+
+7. **Crawl provenance.** Snapshotted 2026-05-21. Event details, RSVP availability, and guest counts may have drifted since.
 
 ## Common queries
 
@@ -133,6 +142,16 @@ for uid, n in counts.most_common(10):
 ### "Build a shortlist for a specific person"
 
 Score each event against the person's interests (use their bio, role, or stated themes as keyword seeds), then pick top N per day. See `scripts/score.py` for the pattern used to score events for Atin Woodard / Stage 11. **Do not modify individual event files** for a person-specific shortlist — write the picks to a new file like `picks-for-<name>.md`. Keep `events/` neutral so it stays useful to everyone.
+
+### "Show me all cancelled events and why"
+
+```bash
+grep -l '^canceled: true' events/*.md | while read f; do
+  title=$(grep -m1 '^title:' "$f" | sed 's/title: //; s/^"//; s/"$//')
+  msg=$(grep -m1 '^cancellation_message:' "$f" || true)
+  printf "%s\n  %s\n  %s\n\n" "$title" "$f" "$msg"
+done
+```
 
 ### "Find events at risk of filling up"
 

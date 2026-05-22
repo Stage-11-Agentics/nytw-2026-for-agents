@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["o0Ue0opsLlcC5DFSFF67tzgU1Mc2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 91
+total_guest_count: 93
 approved_guest_count: 0
 local_image: "images/jeb9AxJN56eYiF5etSjH.png"
+canceled: false
 ---
 
 # Don't Call It That — Naming, Brand & GTM with Eli Altman
@@ -33,7 +34,7 @@ local_image: "images/jeb9AxJN56eYiF5etSjH.png"
 **Hosts:** get.tech  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:30pm ET
 **Where:** New York, NY · New York, NY · Hudson Yards
-**Going:** 86 of 91
+**Going:** 86 of 93
 **RSVP:** https://partiful.com/e/jeb9AxJN56eYiF5etSjH
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
 
@@ -57,6 +58,7 @@ Every attendee leaves with the Go Name Yourself Kit — A Hundred Monkeys' 90-ca
 Come for the talk. Stay for the drinks and the room — founders, accelerators, and early-stage VCs all figuring out brand, GTM, and how to build something that actually sticks.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

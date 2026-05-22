@@ -23,9 +23,10 @@ owner_ids: ["mkSzI4cIXoeHH6tgzPItCf9yrDu1", "mYIa5Q9dBrVYHKsPSjRL", "7DFu4rITofN
 is_capped: true
 max_capacity: 30
 remaining_capacity: 27
-total_guest_count: 60
+total_guest_count: 61
 approved_guest_count: 3
 local_image: "images/aMqjo2Rjk5bg1IBYHc38.png"
+canceled: false
 ---
 
 # The Privacy Table
@@ -55,6 +56,7 @@ This is a curated evening for c-suite executives and decision makers shaping the
 Please join us for an afterparty: https://partiful.com/create?techweek=true
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

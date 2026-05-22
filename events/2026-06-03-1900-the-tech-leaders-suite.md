@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["P33eXsSz2VCkZYCi2Vtz", "X3CyfMdON8wWcwtL6QoH", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 58
+total_guest_count: 59
 approved_guest_count: 0
 local_image: "images/UhyErPPxuo2vELIutdGj.png"
+canceled: false
 ---
 
 # The Tech Leaders Suite
@@ -34,7 +35,7 @@ local_image: "images/UhyErPPxuo2vELIutdGj.png"
 **Hosts:** Insurgi Urban Concepts, Optical Diversity Telecom  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 7:00pm ET
 **Where:** Brooklyn · Brooklyn, New York, NY · Brooklyn
-**Going:** 58
+**Going:** 58 of 59
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/UhyErPPxuo2vELIutdGj
 **Map:** https://www.google.com/maps/search/?api=1&query=Brooklyn%2C%20Brooklyn%2C%20New%20York%2C%20NY
@@ -58,6 +59,7 @@ This event is curated by Optical Diversity Telecom, Insurgi Urban Concepts, and 
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com. By registering for this event you agree to receive information from our partners.
+
 
 
 

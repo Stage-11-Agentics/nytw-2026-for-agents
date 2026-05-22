@@ -21,10 +21,11 @@ owner_count: 1
 owner_ids: ["6alkJKsV5gMEFIuKpwS7bod8qDC3"]
 is_capped: true
 max_capacity: 500
-remaining_capacity: 500
-total_guest_count: 1
+remaining_capacity: 498
+total_guest_count: 3
 approved_guest_count: 0
 local_image: "images/JBz0cmetzCNNmrxKhAfI.png"
+canceled: false
 ---
 
 # Stable Summit IV: New York City
@@ -34,7 +35,7 @@ local_image: "images/JBz0cmetzCNNmrxKhAfI.png"
 **Hosts:** Stable Summit
 **When:** Thursday, June 4, 2026 · 8:00am–5:00pm ET
 **Where:** SoHo
-**Capacity:** capped at 500 · 0 taken, 500 remaining
+**Capacity:** capped at 500 · 2 taken, 498 remaining
 **RSVP:** https://partiful.com/e/JBz0cmetzCNNmrxKhAfI
 
 ### Hosts on Partiful
@@ -49,6 +50,7 @@ Hosted by Curve. Tickets need to be purchased on the website. Venue will be disc
 Taking place during NY Tech Week, Stable Summit IV will expand beyond issuance and regulation to focus on distribution, integration and real-world usage, including how stablecoins interface with existing payment systems, enterprise platforms and consumer-facing products. 
  
 This is Stable Summit IV.
+
 
 
 

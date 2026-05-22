@@ -20,8 +20,9 @@ owner_count: 5
 owner_ids: ["k9o75egDXRZGkjxMT2fDaTGNjv52", "7DFu4rITofNzKIjA7hCx", "eSRV03jtrOekte4WDGegHN1vqqw1", "mOUdyWR57LhjFYRjcfLXpCLP0xf1", "5u5a87JUtnUEE0ndwdWu1TFOrgx1"]
 is_capped: false
 total_guest_count: 93
-approved_guest_count: 7
+approved_guest_count: 9
 local_image: "images/f6KrALsCB9k0DXqcG63d.png"
+canceled: false
 ---
 
 # Latinos In VC Vol lI
@@ -63,6 +64,7 @@ Join the Latino Tech Week WhatsApp community:
 https://chat.whatsapp.com/LmBobs1cLC0GmwBkHNyZS0
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

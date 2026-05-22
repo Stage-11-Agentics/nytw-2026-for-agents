@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["xzim090RhZKUhvBKmbgO", "7DFu4rITofNzKIjA7hCx", "HEwQdOWT8kVeCn2JuoFl", "qHzWLX6VmJgztJIUnjfUtsdpNnt2"]
 is_capped: false
-total_guest_count: 122
+total_guest_count: 123
 approved_guest_count: 24
 local_image: "images/ZxCTPNAXwPBHfwY631IS.png"
+canceled: false
 ---
 
 # The Data Room by Snowflake and Verci
@@ -31,7 +32,7 @@ local_image: "images/ZxCTPNAXwPBHfwY631IS.png"
 **Hosts:** Verci, Snowflake  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 7:00pm ET
 **Where:** Flatiron
-**Going:** 121 of 122
+**Going:** 121 of 123
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ZxCTPNAXwPBHfwY631IS
 
@@ -52,6 +53,7 @@ Welcome to The Data Room: a jazz bar and speakeasy-style event with an open bar,
 👾 Verci is a workspace and community in NYC (and soon LA/SF), meticulously curated for founders, artists, and creatives. Learn more at verci.com and read our manifesto at verci.com/manifesto.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

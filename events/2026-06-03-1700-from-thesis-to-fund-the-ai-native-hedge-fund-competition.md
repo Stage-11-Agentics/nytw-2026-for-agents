@@ -25,9 +25,10 @@ owner_ids: ["9EGQjqGV3hP1Xl40c28Z4BZVEMp2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 100
 remaining_capacity: 42
-total_guest_count: 82
+total_guest_count: 85
 approved_guest_count: 58
 local_image: "images/1lFPBFTViilfxtfefSd9.png"
+canceled: false
 ---
 
 # From Thesis to Fund: The AI-Native Hedge Fund Competition
@@ -66,6 +67,7 @@ Podium exists to make that operating layer accessible to a new generation.
 We believe AI, software, and modern infrastructure are fundamentally reshaping who can build, validate, and scale investment strategies. The next wave of exceptional portfolio managers may emerge not only from traditional hedge funds or investment banks, but from high-agency founders, systematic thinkers, domain experts, and technical builders who possess real edge — but have historically lacked the institutional environment to prove it.
 
 This program is designed to identify and cultivate those individuals.
+
 
 
 

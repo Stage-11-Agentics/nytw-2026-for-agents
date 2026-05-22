@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["LhdhbBYFOicINugxXQc5BAsvlNx1", "7DFu4rITofNzKIjA7hCx", "gq8GeZ4WaUTRo6iEwQ1kLbSh4KM2"]
 is_capped: false
-total_guest_count: 166
+total_guest_count: 171
 approved_guest_count: 152
 local_image: "images/MYIMRXEDdObGOyBaCpeK.png"
+canceled: false
 ---
 
 # Intuit Mailchimp Dev Happy Hour
@@ -36,7 +37,7 @@ local_image: "images/MYIMRXEDdObGOyBaCpeK.png"
 **Hosts:** Intuit Mailchimp  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm–9:00pm ET
 **Where:** Meatpacking District · Meatpacking District, Manhattan, New York, NY · Meatpacking District
-**Going:** 166
+**Going:** 166 of 171
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/MYIMRXEDdObGOyBaCpeK
 **Map:** https://www.google.com/maps/search/?api=1&query=Meatpacking%20District%2C%20Meatpacking%20District%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -67,6 +68,7 @@ Whether you’re building with APIs, experimenting with AI agents, rethinking yo
 Full lineup of speakers coming soon.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

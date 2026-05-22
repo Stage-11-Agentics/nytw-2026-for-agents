@@ -25,10 +25,11 @@ owner_count: 6
 owner_ids: ["JXSseDHFp5dKWqKVi9Jdegdjhoj2", "7DFu4rITofNzKIjA7hCx", "9tExiAMygqd2pRR9V9PJHkXsDpk1", "bXAkNI0Vkadb0kasgrhrWCKffRV2", "uhcDzCJelzatiYnqz1UYjr9Py943", "Q0sYSGNzCQZKzebysHCc20RIwzh1"]
 is_capped: true
 max_capacity: 800
-remaining_capacity: 685
-total_guest_count: 1120
-approved_guest_count: 115
+remaining_capacity: 679
+total_guest_count: 1131
+approved_guest_count: 121
 local_image: "images/pnYKgdY9IvyeGStLgEKU.png"
+canceled: false
 ---
 
 # Frontier House NYC   Community Mixer
@@ -38,7 +39,7 @@ local_image: "images/pnYKgdY9IvyeGStLgEKU.png"
 **Hosts:** Eleven Wall Ventures  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 3:00pm–6:00pm ET
 **Where:** Valbella At The Park · 126 W 42nd St, New York, NY 10036 · Midtown
-**Capacity:** capped at 800 · 115 taken, 685 remaining
+**Capacity:** capped at 800 · 121 taken, 679 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/pnYKgdY9IvyeGStLgEKU
 **Map:** https://www.google.com/maps/search/?api=1&query=126%20W%2042nd%20St%2C%20New%20York%2C%20NY%2010036
@@ -62,6 +63,7 @@ Join us for the Frontier House NYC - Community Mixer on Wednesday, June 3rd, fro
 A special thanks to our Hosts: Eleven Wall Ventures, Ohio Startup Network, OneSixOne Ventures and Tech Week.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

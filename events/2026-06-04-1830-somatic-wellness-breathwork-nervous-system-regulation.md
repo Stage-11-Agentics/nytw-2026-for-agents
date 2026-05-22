@@ -26,9 +26,10 @@ owner_ids: ["ah4ZlSmU6LRwxxjfaDzaPJcqv5n1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 80
 remaining_capacity: 3
-total_guest_count: 88
+total_guest_count: 91
 approved_guest_count: 77
 local_image: "images/BZqpixojsn6MKtOvYbBb.png"
+canceled: false
 ---
 
 # Somatic Wellness, Breathwork & Nervous System Regulation
@@ -92,6 +93,7 @@ Marian Bacol is a TEDx Speaker, Certified Somatic Coach, Breathwork Facilitator 
 
 With over 20 years of experience across corporate, startup, and entrepreneurial environments, Marian understands both the demands of the boardroom and the realities of burnout. Today, she partners with organizations through keynotes, corporate trainings, coaching, and retreats, delivering immersive, science-backed experiences that people don’t just learn, but feel and apply in real time.
 https://www.linkedin.com/in/marianbacol
+
 
 
 

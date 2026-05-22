@@ -23,10 +23,11 @@ owner_count: 3
 owner_ids: ["yHnl2v0OJJSndKiz3JRMAURawQk1", "OXa8wq1TtIUkfcoRcdOKr8Ak76F2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 350
-remaining_capacity: 86
-total_guest_count: 1252
+remaining_capacity: 79
+total_guest_count: 1259
 approved_guest_count: 0
 local_image: "images/qfMnfCfdVU5HZZuZjFaq.jpg"
+canceled: false
 ---
 
 # #NYTechWeek - Faith Driven Investors & Founders
@@ -36,7 +37,7 @@ local_image: "images/qfMnfCfdVU5HZZuZjFaq.jpg"
 **Hosts:** Shane & Ife, Hubtal  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 9:00am–10:30am ET
 **Where:** 7 W 55th St, New York, NY 10019 · Financial District
-**Capacity:** capped at 350 · 264 taken, 86 remaining
+**Capacity:** capped at 350 · 271 taken, 79 remaining
 **RSVP:** https://partiful.com/e/qfMnfCfdVU5HZZuZjFaq
 **Map:** https://www.google.com/maps/search/?api=1&query=7%20W%2055th%20St%2C%20New%20York%2C%20NY%2010019
 
@@ -86,6 +87,7 @@ https://chat.whatsapp.com/ElhzksTZWYU6y6MF1LsGxQ
 ~~~ HOLD THIS TIME ON YOUR CALENDAR BY CLICKING THE "Calendar Icon" ABOVE, THEN CLICK "Add this event only." ~~~
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -26,9 +26,10 @@ owner_ids: ["d3G7O8jbaDcdcW0j9nynpmMD8Ki2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 250
 remaining_capacity: 98
-total_guest_count: 329
+total_guest_count: 331
 approved_guest_count: 152
 local_image: "images/s9ffBVagaNmFQpfNVYmA.png"
+canceled: false
 ---
 
 # MVP to Launch: Content Credentials for Creators, Builders, and Brands #NYTechWeek #Adobe
@@ -62,6 +63,7 @@ Drinks and heavy appetizers are on us! Given limited capacity, we'll follow up t
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 What You'll Experience
+
 
 
 

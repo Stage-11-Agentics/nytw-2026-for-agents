@@ -25,9 +25,10 @@ owner_ids: ["5ANd6czuaXZQhjh8esHwBwdfiZn1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 75
 remaining_capacity: 9
-total_guest_count: 76
+total_guest_count: 77
 approved_guest_count: 0
 local_image: "images/yDpsVvIoqgdkoJ93i1hX.jpg"
+canceled: false
 ---
 
 # Before the Ballots Drop with Sway
@@ -56,6 +57,7 @@ Sway (sway.co) is a voting group platform that shifts influence into actual vote
 Join us for drinks, bites, and spicy conversations about the digital organizing in the midterms and beyond.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

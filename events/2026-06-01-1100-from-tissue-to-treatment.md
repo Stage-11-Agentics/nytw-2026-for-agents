@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 111
 approved_guest_count: 46
 local_image: "images/CoVrmdYxgwtHlP7IkPoJ.png"
+canceled: false
 ---
 
 # From Tissue to Treatment
@@ -50,6 +51,7 @@ Artificial intelligence is transforming drug discovery and clinical medicine - b
 This panel brings together five leading scientists and technologists from Yale, Columbia, IAS Princeton, and KAUST to explore a pivotal question: How will spatial multi-omics reshape AI models for disease treatment across diverse ancestral backgrounds, and accelerate drug discovery from target identification to clinical validation?
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

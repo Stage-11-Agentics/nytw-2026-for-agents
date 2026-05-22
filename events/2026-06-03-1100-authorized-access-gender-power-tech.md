@@ -23,6 +23,7 @@ is_capped: false
 total_guest_count: 0
 approved_guest_count: 0
 image_download_error: "HTTP Error 403: Forbidden"
+canceled: false
 ---
 
 # Authorized Access: Gender, Power & Tech
@@ -68,6 +69,7 @@ Register & Pay by June 2nd to receive:
 - Panel discussion with all 3 authors 
 - Guaranteed spot in a private discussion group with the author whose book you chose.
 - First-come, first-served waitlist access to the private discussion sessions of the other 2 authors.
+
 
 
 

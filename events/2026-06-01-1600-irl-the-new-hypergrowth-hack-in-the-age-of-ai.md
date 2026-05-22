@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["XwfBkUJqR2cg6xryAS68AnjeM622", "7DFu4rITofNzKIjA7hCx", "Ci0khQtpBnVXyKUaVPa1HkjUOxB3"]
 is_capped: false
-total_guest_count: 337
+total_guest_count: 344
 approved_guest_count: 248
 local_image: "images/JcKbjHvQDyem5xIfCZom.png"
+canceled: false
 ---
 
 # IRL: The New Hypergrowth Hack in the Age of AI
@@ -36,7 +37,7 @@ local_image: "images/JcKbjHvQDyem5xIfCZom.png"
 **Hosts:** Mostest  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 4:00pm–6:00pm ET
 **Where:** Maxwell Social · 135 Watts St, New York, NY 10013 · Tribeca
-**Going:** 336 of 337
+**Going:** 336 of 344
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/JcKbjHvQDyem5xIfCZom
 **Map:** https://www.google.com/maps/search/?api=1&query=135%20Watts%20St%2C%20New%20York%2C%20NY%2010013
@@ -73,6 +74,7 @@ Moderator:
 Hosted at Maxwell Social Club. 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

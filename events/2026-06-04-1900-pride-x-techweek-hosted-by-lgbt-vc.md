@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 78
 approved_guest_count: 55
 local_image: "images/JARG5N9akq8WxYuD0sJN.png"
+canceled: false
 ---
 
 # Pride x TechWeek hosted by LGBT+ VC
@@ -49,6 +50,7 @@ local_image: "images/JARG5N9akq8WxYuD0sJN.png"
 Tech Week meets Pride. Drinks, music, and brilliant people.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -22,10 +22,11 @@ owner_count: 3
 owner_ids: ["buVflFIiB8MODlUII1tpvHWUj1Q2", "fIhDTkzoh9cBdURcFn5Uxh1yuoK2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 49
-remaining_capacity: 3
+remaining_capacity: 2
 total_guest_count: 55
-approved_guest_count: 46
+approved_guest_count: 47
 local_image: "images/R1bB2tFJzIqr2bToSw6R.jpg"
+canceled: false
 ---
 
 # Build Your Team for the Agentic Era
@@ -35,7 +36,7 @@ local_image: "images/R1bB2tFJzIqr2bToSw6R.jpg"
 **Hosts:** of All Trades, Genee  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 8:30am–10:30am ET
 **Where:** Midtown
-**Capacity:** capped at 49 · 46 taken, 3 remaining
+**Capacity:** capped at 49 · 47 taken, 2 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/R1bB2tFJzIqr2bToSw6R
 
@@ -71,6 +72,7 @@ What you'll walk away with:
 Why Britt & Mina: Britt has spent four years deploying fractional operators onto early and growth-stage teams, a model that's essentially a preview of where all teams are heading. Mina brings the AI implementation layer, including a sharp framework for thinking about agents the way we once thought about org hierarchy. Together: here's how to design it, and here's how to build it.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -22,6 +22,7 @@ is_capped: false
 total_guest_count: 163
 approved_guest_count: 122
 local_image: "images/6xOCaM1O0odnjhhFoer6.png"
+canceled: false
 ---
 
 # Iconic Futures
@@ -76,6 +77,7 @@ Neuehouse is a timeless creative hub and social space in the heart of Flatiron N
 By RSVP’ing, you agree to be added to the hosts' marketing emails, and acknowledge you may be photographed/recorded at the event for promotional purposes.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

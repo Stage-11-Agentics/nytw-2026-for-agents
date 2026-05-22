@@ -25,6 +25,7 @@ is_capped: false
 total_guest_count: 123
 approved_guest_count: 4
 local_image: "images/XegmGLkc2dLtgSWxHdpj.png"
+canceled: false
 ---
 
 # Capital Meets Credibility: ZavoVentures Tech Week Experience
@@ -56,6 +57,7 @@ New York Tech Week is a citywide, high-energy tech gathering (June 1–7) that b
 ZavoVentures’ Tech Week Event is an exclusive private mixer and dinner designed to connect startups and investors, offering opportunities in fundraising, legal readiness, and PR—built to turn meaningful connections into real capital and growth.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

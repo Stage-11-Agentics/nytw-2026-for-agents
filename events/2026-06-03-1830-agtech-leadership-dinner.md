@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["J9u08iJji9YbodciYdXEf9o2UpU2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 35
+total_guest_count: 36
 approved_guest_count: 0
 local_image: "images/TMkUilGT51I97Mdui4BE.png"
+canceled: false
 ---
 
 # Agtech Leadership Dinner
@@ -31,7 +32,7 @@ local_image: "images/TMkUilGT51I97Mdui4BE.png"
 **Hosts:** Leaf Agriculture  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:30pm ET
 **Where:** West Village
-**Going:** 35
+**Going:** 35 of 36
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/TMkUilGT51I97Mdui4BE
 
@@ -46,6 +47,7 @@ local_image: "images/TMkUilGT51I97Mdui4BE.png"
 A private dinner for AgTech Leaders. Please apply or reach out to Bailey Stockdale for an invitation.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["PXUSTcYv60AqH25fPwdi", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 162
+total_guest_count: 166
 approved_guest_count: 102
 local_image: "images/Jq1quUvHHfm2rmoNU6qm.png"
+canceled: false
 ---
 
 # Coffee, Walk, and Schmooze
@@ -34,7 +35,7 @@ local_image: "images/Jq1quUvHHfm2rmoNU6qm.png"
 **Hosts:** JFE (Jews For Entrepreneurship) Network  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Sunday, June 7, 2026 · 10:00am ET
 **Where:** Central Park · New York, NY 10028 · Central Park
-**Going:** 162
+**Going:** 162 of 166
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Jq1quUvHHfm2rmoNU6qm
 **Map:** https://www.google.com/maps/search/?api=1&query=Central%20Park%2C%20New%20York%2C%20NY%2010028
@@ -57,6 +58,7 @@ This event is a part of #NYTechWeek—a week of events hosted by VCs and startup
 
 About JFE:
 Founded in SF in '09, JFE Network is a leading organization that supports Jewish innovation and tech entrepreneurship. Learn more at www.jfenetwork.com.
+
 
 
 

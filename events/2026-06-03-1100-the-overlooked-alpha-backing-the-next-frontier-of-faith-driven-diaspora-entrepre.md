@@ -22,6 +22,7 @@ is_capped: false
 total_guest_count: 29
 approved_guest_count: 0
 local_image: "images/ZKhEYadbnGCC8wVlGiET.png"
+canceled: false
 ---
 
 # The Overlooked Alpha: Backing the Next Frontier of Faith-Driven Diaspora Entrepreneurs
@@ -61,6 +62,7 @@ This event will explore:
 This is not an impact story—it is an access story. One where cultural insight, conviction, and community-driven distribution create the conditions for both outsized returns and durable global impact.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

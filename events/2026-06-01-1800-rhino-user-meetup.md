@@ -25,6 +25,7 @@ is_capped: false
 total_guest_count: 50
 approved_guest_count: 14
 local_image: "images/pE0mRfPx7XPRe9uegQyl.png"
+canceled: false
 ---
 
 # Rhino User Meetup
@@ -50,6 +51,7 @@ local_image: "images/pE0mRfPx7XPRe9uegQyl.png"
 Come to this Rhino User Meetup, the first edition in the US! Get the latest insights on Rhino, Grasshopper, and AI in the CAD world during TechWeek NY. After some input 'lightning talks' by McNeel, Raven & SOM, there is enough time to discuss and network in the beautiful SOM office — looking forward to welcome you there!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

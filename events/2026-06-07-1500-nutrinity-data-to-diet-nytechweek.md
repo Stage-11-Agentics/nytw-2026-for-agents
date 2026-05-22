@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 62
 approved_guest_count: 58
 local_image: "images/p7KXoFYmCuOcPl7nBRkg.png"
+canceled: false
 ---
 
 # Nutrinity: Data to Diet - #NYTECHWEEK
@@ -73,6 +74,7 @@ About Us
 Nutrinity is an AI driven platform focused on transforming nutrition from a manual process into an intelligent system. By combining real-time data, user preferences, and external inputs such as food availability, the platform generates optimized meal decisions aligned with performance and lifestyle. Instead of acting as a passive tracker, it operates as an active decision engine that continuously adapts and refines outputs, reducing friction and making optimization the default. Learn more here: https://nutrinity.app
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

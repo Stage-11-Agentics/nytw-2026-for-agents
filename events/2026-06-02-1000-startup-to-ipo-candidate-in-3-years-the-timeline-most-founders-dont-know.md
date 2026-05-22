@@ -23,9 +23,10 @@ owner_ids: ["bOUbZkBHThWAApfdi6tcNkYksxn1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 25
 remaining_capacity: 0
-total_guest_count: 74
+total_guest_count: 76
 approved_guest_count: 0
 local_image: "images/vRLuXuKmW04TmEn0JgN0.png"
+canceled: false
 ---
 
 # Startup to IPO Candidate in 3 Years: The Timeline Most Founders Don't know
@@ -84,6 +85,7 @@ From startup to public company, we help companies: be seen → be investible →
 Not a point solution — an operating system for capital formation across the entire lifecycle.
 
 More: theallin.ai
+
 
 
 

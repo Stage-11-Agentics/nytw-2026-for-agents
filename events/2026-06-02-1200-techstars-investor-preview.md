@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 6
 owner_ids: ["NH1udNCYbyXDS5MNxkpCBfTaGKh2", "7DFu4rITofNzKIjA7hCx", "DalWF2XN4PQWTLIfeb0wfGPnQCd2", "pewqMzPxHOTFywi841usEBVBNWI3", "p0CHiRlRa2NsKPvgchmScvxjW8x2", "uF5ZdYUeI9S1VDwQLyuuuYNwWUg1"]
 is_capped: false
-total_guest_count: 531
+total_guest_count: 538
 approved_guest_count: 214
 local_image: "images/t9rcgqhGn2tx8udcMKmX.png"
+canceled: false
 ---
 
 # Techstars Investor Preview
@@ -36,7 +37,7 @@ local_image: "images/t9rcgqhGn2tx8udcMKmX.png"
 **Hosts:** Techstars  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 12:00pm–3:00pm ET
 **Where:** Manhattan · Manhattan, New York, NY · SoHo
-**Going:** 528 of 531
+**Going:** 528 of 538
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/t9rcgqhGn2tx8udcMKmX
 **Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -62,6 +63,7 @@ As our venue has strict security protocols, attendance is limited to approved re
 This event is held in collaboration with Google Cloud. Through the Google for Startups Cloud Program, founders can access expert support, up to $350K in cloud credits, and more. Learn more here: https://cloud.google.com/startup
 
 This event is also part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the broader tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

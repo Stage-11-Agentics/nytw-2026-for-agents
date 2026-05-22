@@ -23,6 +23,7 @@ remaining_capacity: 9
 total_guest_count: 63
 approved_guest_count: 0
 local_image: "images/7Vqi83f78jnzCQpxqes7.png"
+canceled: false
 ---
 
 # The Relationship Layer of Capital
@@ -49,6 +50,7 @@ Capital still moves through trust, but the tooling and tactics around that trust
 Hosted by Kevin Siskar, CEO of Finta, with additional speakers (TBD) from the founder/investor/operator ecosystem. What makes it special is that this is a direct conversation about how capital actually moves now, with a real product/news hook instead of another vague “future of AI” panel.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

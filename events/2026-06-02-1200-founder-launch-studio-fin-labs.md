@@ -26,6 +26,7 @@ is_capped: false
 total_guest_count: 247
 approved_guest_count: 2
 local_image: "images/wDUtH0Ykej7Li71GxFYW.png"
+canceled: false
 ---
 
 # Founder Launch Studio @ Fin Labs
@@ -61,6 +62,7 @@ You are welcome to bring along some of your team, investors, customers or adviso
 Spaces are HIGHLY limited. Link to signups will be sent to approved founders.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

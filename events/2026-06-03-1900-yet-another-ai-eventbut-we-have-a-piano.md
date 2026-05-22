@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["yvJuk11XviMM1FRuS2E3CNQ0e063", "7DFu4rITofNzKIjA7hCx", "tdNznmazRCZOIhbvFn6wECdJWc13", "ad1Qq0fJkBhkv9EuFiBLHnwBbJ33", "B7C4m2n1qsYxfF8glbp23qIUjmy2"]
 is_capped: false
-total_guest_count: 201
+total_guest_count: 203
 approved_guest_count: 110
 local_image: "images/AatZ5NHezNiTvaZUsFdP.jpg"
+canceled: false
 ---
 
 # Yet Another AI Event....But we have a piano
@@ -34,7 +35,7 @@ local_image: "images/AatZ5NHezNiTvaZUsFdP.jpg"
 **Hosts:** Lotus Technology Management, Eleks  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 7:00pm ET
 **Where:** Brooklyn · Brooklyn, New York, NY · Brooklyn
-**Going:** 201
+**Going:** 201 of 203
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/AatZ5NHezNiTvaZUsFdP
 **Map:** https://www.google.com/maps/search/?api=1&query=Brooklyn%2C%20Brooklyn%2C%20New%20York%2C%20NY
@@ -70,6 +71,7 @@ Instead:
 Hosted at the home of Alap Shah founder of Lotus Technology Management and the co-author of the viral Citrini essay “The Global Intelligence Crisis”
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,6 +24,7 @@ remaining_capacity: 21
 total_guest_count: 104
 approved_guest_count: 79
 local_image: "images/7crlodxkSPD1lihpIyzB.png"
+canceled: false
 ---
 
 # True Confessions:AI Hype & Fundraising
@@ -76,6 +77,7 @@ You'll Leave With
 - Clarity on signal vs. hype: a grounded read on what’s actually driving AI fundraising decisions right now (and what’s just noise)
 - Unfiltered market insight:  real, anonymous sentiment from founders and investors you won’t hear on stage or in press cycles
 - Actionable positioning edge: how to navigate (or leverage) the AI narrative whether you’re building in AI or not, to raise and compete more effectively
+
 
 
 

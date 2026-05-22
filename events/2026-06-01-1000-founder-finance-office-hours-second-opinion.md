@@ -25,8 +25,9 @@ owner_count: 2
 owner_ids: ["QnWG0MrBE9Y9VKKIbUmK", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
 total_guest_count: 55
-approved_guest_count: 26
+approved_guest_count: 35
 local_image: "images/iNz2d5f2PFPwdFnpvHOl.png"
+canceled: false
 ---
 
 # Founder Finance Office Hours: Second Opinion
@@ -76,6 +77,7 @@ About the Host
 Haven is a modern full-stack accounting platform for startups and SMBs — bookkeeping, taxes, and R&D credits, AR/AP, all in one place. Learn more at usehaven.com
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -26,6 +26,7 @@ remaining_capacity: 25
 total_guest_count: 86
 approved_guest_count: 75
 local_image: "images/glbUe1VF4t4MRsDbktVx.png"
+canceled: false
 ---
 
 # Building AI Agents for Science
@@ -82,6 +83,7 @@ Duration
 2-hour
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com. This event is sponsored by The Front Yard at Pace University.  Learn more about their entrepreneur program at https://www.linkedin.com/company/the-front-yard-at-pace-university
+
 
 
 

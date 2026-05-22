@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["lNqzgPOx21dRoqNZQPIV", "0UxZSxrIjQbXII1KFS5CldEqIHh1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 35
+total_guest_count: 38
 approved_guest_count: 1
 local_image: "images/Cm9Vo7iQf7tMc60ZdAcN.jpg"
+canceled: false
 ---
 
 # AI Founder × VC Breakfast
@@ -33,7 +34,7 @@ local_image: "images/Cm9Vo7iQf7tMc60ZdAcN.jpg"
 **Hosts:** You.com  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 10:00am–12:00pm ET
 **Where:** SoHo
-**Going:** 35
+**Going:** 35 of 38
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Cm9Vo7iQf7tMc60ZdAcN
 
@@ -82,6 +83,7 @@ www.foundersbay.com_
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

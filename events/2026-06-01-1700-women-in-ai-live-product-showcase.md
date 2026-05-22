@@ -26,9 +26,10 @@ owner_ids: ["GsZ1Jq4FkTCSIQPda4cv", "TPMCHQKr10oxSmhtZHPB", "7DFu4rITofNzKIjA7hC
 is_capped: true
 max_capacity: 200
 remaining_capacity: 40
-total_guest_count: 230
+total_guest_count: 235
 approved_guest_count: 160
 local_image: "images/lNPCWHf4JsZ27DguZ1uN.png"
+canceled: false
 ---
 
 # Women in AI: Live Product Showcase
@@ -85,6 +86,7 @@ Come for the products, stay for the conversations—and leave with new ideas, co
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

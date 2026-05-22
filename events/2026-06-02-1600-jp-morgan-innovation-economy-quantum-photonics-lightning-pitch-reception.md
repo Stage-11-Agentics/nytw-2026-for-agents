@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["a3eX0Vmwy3V9tzU3yEClZ9R58Nv2", "7DFu4rITofNzKIjA7hCx", "N1sfjnY4eePNGSK1YfMn9H49dAb2"]
 is_capped: false
-total_guest_count: 390
-approved_guest_count: 161
+total_guest_count: 398
+approved_guest_count: 165
 local_image: "images/3xn91RaPZ6AHJeHVIgtI.png"
+canceled: false
 ---
 
 # J.P. Morgan Innovation Economy Quantum & Photonics Lightning Pitch Reception
@@ -36,7 +37,7 @@ local_image: "images/3xn91RaPZ6AHJeHVIgtI.png"
 **Hosts:** J.P. Morgan, DLA Piper, AlleyCorp
 **When:** Tuesday, June 2, 2026 · 4:00pm–7:00pm ET
 **Where:** JPMorgan Chase & Co. · 270 Park Ave, New York, NY 10017 · Midtown
-**Going:** 387 of 390
+**Going:** 387 of 398
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/3xn91RaPZ6AHJeHVIgtI
 **Map:** https://www.google.com/maps/search/?api=1&query=270%20Park%20Ave%2C%20New%20York%2C%20NY%2010017
@@ -92,6 +93,7 @@ _________
 Please note: This event is for 21+ and approved guests only (valid photo ID will be required upon check-in).
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

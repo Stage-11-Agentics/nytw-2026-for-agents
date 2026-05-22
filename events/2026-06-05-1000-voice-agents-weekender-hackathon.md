@@ -26,9 +26,10 @@ owner_ids: ["o9ASq15jeU54U3KbjfAN", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 600
 remaining_capacity: 600
-total_guest_count: 79
+total_guest_count: 80
 approved_guest_count: 0
 local_image: "images/rlbH6VVwOsJZfXlJkLpY.png"
+canceled: false
 ---
 
 # Voice Agents Weekender Hackathon
@@ -54,6 +55,7 @@ local_image: "images/rlbH6VVwOsJZfXlJkLpY.png"
 Build the future of voice at our flagship 48-hour Voice Agents Hackathon! Join 500+ developers to create innovative voice applications. Features overnight access, mentorship, and major prizes.
 
 This event is a part of #NYCTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

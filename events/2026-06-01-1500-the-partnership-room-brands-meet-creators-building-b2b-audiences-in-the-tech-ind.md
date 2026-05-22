@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 137
 approved_guest_count: 0
 local_image: "images/6XYVSFuCgrRMLcuGQQyV.png"
+canceled: false
 ---
 
 # The Partnership Room: Brands, Meet Creators Building B2B Audiences in the Tech Industry
@@ -58,6 +59,7 @@ https://www.instagram.com/artisha_walker/
 https://www.linkedin.com/in/artisha-walker/
 
 This event is part of #NYTechWeek—a week of events hosted by VCs and startups to bring the tech ecosystem together. Learn more at www.tech-week.com
+
 
 
 

@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 332
 approved_guest_count: 35
 local_image: "images/MI78ceqUW5P10OgKERSv.jpg"
+canceled: false
 ---
 
 # Latino & LatAm Founders & Investors 
@@ -64,6 +65,7 @@ https://tally.so/r/WOYjMN
 
 Hosted at CLA (CliftonLarsonAllen)
 CLA exists to create opportunities for our clients, our people, and our communities through our industry-focused advisory, digital, audit, tax, and outsourcing services. CLAconnect.com
+
 
 
 

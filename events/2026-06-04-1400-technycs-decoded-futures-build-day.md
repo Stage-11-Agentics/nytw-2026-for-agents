@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["48S5TDPdNBTUt0kp4MJS", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 64
+total_guest_count: 66
 approved_guest_count: 0
 local_image: "images/KOwyHVmXJ0MHmuKHPRmu.png"
+canceled: false
 ---
 
 # Tech:NYC's Decoded Futures Build Day
@@ -35,7 +36,7 @@ local_image: "images/KOwyHVmXJ0MHmuKHPRmu.png"
 **Hosts:** Decoded Futures (Tech:NYC)  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 2:00pm–5:00pm ET
 **Where:** 32 Old Slip, New York, NY 10005 · Financial District
-**Going:** 64
+**Going:** 64 of 66
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/KOwyHVmXJ0MHmuKHPRmu
 **Map:** https://www.google.com/maps/search/?api=1&query=32%20Old%20Slip%2C%20New%20York%2C%20NY%2010005
@@ -63,6 +64,7 @@ RSVP by Thursday, May 28th
 We would love to have you join us for this afternoon of collaboration and creativity. Space is limited, so please RSVP soon if you are interested.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

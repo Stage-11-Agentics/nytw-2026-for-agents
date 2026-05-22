@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["8M6HSKroHeMSyx8jiQBnD9RvEyI3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 510
+total_guest_count: 520
 approved_guest_count: 329
 local_image: "images/JBmmrgrMzARVXgTMO34l.png"
+canceled: false
 ---
 
 # Raisi: Pre-Seed and Seed Fundraising Breakfast
@@ -31,7 +32,7 @@ local_image: "images/JBmmrgrMzARVXgTMO34l.png"
 **Hosts:** Raisi  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 9:00am ET
 **Where:** Midtown
-**Going:** 508 of 510
+**Going:** 508 of 520
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/JBmmrgrMzARVXgTMO34l
 
@@ -103,6 +104,7 @@ Raisi is a fundraising operating system built to help founders run their raise e
 Since 2024, once every 50.1 minutes, a founder has met with an investor interested in their company through Raisi. The platform has facilitated 21,000+ positive connections between founders and investors and is powered by up-to-date signals from millions of live interactions across the private markets.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

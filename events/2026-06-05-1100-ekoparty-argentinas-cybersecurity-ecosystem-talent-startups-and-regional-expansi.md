@@ -25,6 +25,7 @@ is_capped: false
 total_guest_count: 17
 approved_guest_count: 0
 local_image: "images/9H9IsgkJAWIo4dUMlqmO.jpg"
+canceled: false
 ---
 
 # Ekoparty: Argentina’s Cybersecurity Ecosystem, Talent, Startups, and Regional Expansion
@@ -54,6 +55,7 @@ Today, Argentina represents one of the most distinctive cybersecurity ecosystems
 This session will explore how Argentina built this ecosystem, the role community platforms like Ekoparty played in fostering collaboration and visibility, and why the country has become a strategic opportunity for U.S. companies, investors, and organizations looking to connect with Latin American cybersecurity talent and innovation. It will also cover how Ekoparty expanded beyond Argentina to strengthen regional and international connections, including its recent launch in the United States with Ekoparty Miami.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

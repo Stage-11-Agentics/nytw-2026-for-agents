@@ -25,9 +25,10 @@ owner_ids: ["wl53wuXEmvds4IJP8XNCdaHpIux1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 30
 remaining_capacity: 0
-total_guest_count: 66
+total_guest_count: 67
 approved_guest_count: 0
 local_image: "images/gqqUhCjTFgyxyawPSUrx.png"
+canceled: false
 ---
 
 # The Agentic Commerce Era
@@ -59,6 +60,7 @@ Expect a 30-minute moderated panel followed by drinks, conversation, and real ta
 Who should come: founders, product leaders, marketers, and investors working in AI, commerce, retail tech, or consumer products
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

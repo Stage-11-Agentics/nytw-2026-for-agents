@@ -24,9 +24,10 @@ owner_ids: ["YTIl8li1mcMXPL3WZTxgrTql1ck1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 20
 remaining_capacity: 0
-total_guest_count: 88
+total_guest_count: 90
 approved_guest_count: 0
 local_image: "images/HyeK0R0M60v3y1c7s7rK.jpg"
+canceled: false
 ---
 
 # Scaling Deep Tech with Federal Funding
@@ -52,6 +53,7 @@ local_image: "images/HyeK0R0M60v3y1c7s7rK.jpg"
 Join Inspiralia for a roundtable on “Scaling Deep Tech with Federal Funding: Federal Contracts, SBIRs & beyond .” Led by Inspiralia, innovation funding management consultants, and a guest company, this session will cover strategies for startups to combine venture capital with non-dilutive funding sources including SBIRs (Army, Navy, DARPA), OTAs, and other federal mechanisms to scale efficiently. Content includes interactive discussion and networking.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["CjbTluOMkUhnrWyl2RALBgZjmLi1", "7DFu4rITofNzKIjA7hCx", "DHQcmBL6hDbqj1mMH9azif9oZXd2", "xHTPwyHTapcvdRu2wj8B0THhJQh2"]
 is_capped: false
-total_guest_count: 196
+total_guest_count: 201
 approved_guest_count: 0
 local_image: "images/N7nJMJdM3bIOtaUWfcmN.png"
+canceled: false
 ---
 
 # Design Thinking Meets AI: Book Talk & Live Build
@@ -33,7 +34,7 @@ local_image: "images/N7nJMJdM3bIOtaUWfcmN.png"
 **Hosts:** Build First, Studio Rodrigo  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 5:00pm–7:30pm ET
 **Where:** Brooklyn
-**Going:** 173 of 196
+**Going:** 173 of 201
 **RSVP:** https://partiful.com/e/N7nJMJdM3bIOtaUWfcmN
 
 ### Hosts on Partiful
@@ -76,6 +77,7 @@ Bethany and Louise will take a design concept from the book and build it live, i
 ​https://www.studiorodrigo.com/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

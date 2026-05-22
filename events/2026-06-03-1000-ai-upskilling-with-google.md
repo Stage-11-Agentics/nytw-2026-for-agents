@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["k9o75egDXRZGkjxMT2fDaTGNjv52", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 130
+total_guest_count: 131
 approved_guest_count: 86
 local_image: "images/vb18Eco3mtAOFscT98vk.png"
+canceled: false
 ---
 
 # AI Upskilling   
@@ -35,7 +36,7 @@ with Google](images/vb18Eco3mtAOFscT98vk.png)
 **Hosts:** Colectivo, Google
 **When:** Wednesday, June 3, 2026 · 10:00am–1:30pm ET
 **Where:** Chelsea
-**Going:** 130
+**Going:** 130 of 131
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/vb18Eco3mtAOFscT98vk
 
@@ -54,6 +55,7 @@ This is the Latin Flavor Edition, same energy Google brings to their AI programm
 Breakfast + networking.
 
 This event is sold out.
+
 
 
 

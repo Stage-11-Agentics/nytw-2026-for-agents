@@ -23,9 +23,10 @@ owner_ids: ["Kx6nfnPw55WyYMbB0vTk0nuExHz2", "7DFu4rITofNzKIjA7hCx", "U9dFkWEOdCc
 is_capped: true
 max_capacity: 100
 remaining_capacity: 39
-total_guest_count: 177
+total_guest_count: 182
 approved_guest_count: 61
 local_image: "images/l79XoRaeQh6iKy77AjAz.png"
+canceled: false
 ---
 
 # Mission Ready: Scaling Defense Tech
@@ -52,6 +53,7 @@ local_image: "images/l79XoRaeQh6iKy77AjAz.png"
 Join industry leaders and policymakers to examine the intersection of defense technology and strategic competition. Panel discussions will address defense acquisition reform and the mechanisms needed for navigating defense budgets and identifying warfighter requirements. Participants will explore how public-private cooperation strengthens national resilience while managing the regulatory frameworks that impact investor confidence.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

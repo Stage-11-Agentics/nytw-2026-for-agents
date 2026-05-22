@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["8M6HSKroHeMSyx8jiQBnD9RvEyI3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 56
+total_guest_count: 59
 approved_guest_count: 0
 local_image: "images/qG3izuxTUNhkCyhc3I45.png"
+canceled: false
 ---
 
 # Raisi x Forecastr: 
@@ -35,7 +36,7 @@ Panel + Pitch Competition](images/qG3izuxTUNhkCyhc3I45.png)
 **Hosts:** Raisi, Forecastr
 **When:** Thursday, June 4, 2026 · 8:00pm ET
 **Where:** SoHo
-**Going:** 54 of 56
+**Going:** 54 of 59
 **RSVP:** https://partiful.com/e/qG3izuxTUNhkCyhc3I45
 
 ### Hosts on Partiful
@@ -92,6 +93,7 @@ About Forecastr
 Forecastr helps founders build investor-ready financial models and projections. From early-stage planning to growth-stage forecasting, Forecastr gives you the clarity and structure investors expect, so you can walk into conversations with confidence and back up your story with real numbers.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

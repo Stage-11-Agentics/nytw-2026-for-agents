@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["nue7IfMWa3ZBhCUEOt33sPumRqF2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 13
-approved_guest_count: 7
+total_guest_count: 15
+approved_guest_count: 8
 local_image: "images/FMRHU5PZmbpskRMORfqK.jpg"
+canceled: false
 ---
 
 # The Autonomous enterprise: You're Not Late. You're Right on Time
@@ -35,7 +36,7 @@ local_image: "images/FMRHU5PZmbpskRMORfqK.jpg"
 **Hosts:** Consulate General of Argentina in New York, WillDom, JeenAI
 **When:** Thursday, June 4, 2026 · 11:00am–12:30pm ET
 **Where:** 12 W 56th St, New York, NY 10019 · Midtown
-**Going:** 12 of 13
+**Going:** 12 of 15
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/FMRHU5PZmbpskRMORfqK
 **Map:** https://www.google.com/maps/search/?api=1&query=12%20W%2056th%20St%2C%20New%20York%2C%20NY%2010019
@@ -61,6 +62,7 @@ Who should attend
 This session is built for enterprise leaders trying to move AI out of pilots and into production: CIOs, CTOs, CDOs, Heads of AI and Data, and innovation leads. It will also be valuable for executives in regulated industries—banking, telco, healthcare, government, defense—who need AI that respects security, sovereignty, and cost controls from day one.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

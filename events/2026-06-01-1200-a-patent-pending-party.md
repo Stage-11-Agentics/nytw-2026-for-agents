@@ -23,9 +23,10 @@ owner_ids: ["X4UEZ3jfTZRg8PKPCXYhHzZynwI3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 60
 remaining_capacity: 0
-total_guest_count: 92
+total_guest_count: 93
 approved_guest_count: 0
 local_image: "images/Txk9K71WKRm5OK6cmMNO.png"
+canceled: false
 ---
 
 # A Patent-Pending Party
@@ -49,6 +50,7 @@ local_image: "images/Txk9K71WKRm5OK6cmMNO.png"
 ## Description
 
 This event is an invite-only event and a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 45
 approved_guest_count: 0
 local_image: "images/4KBxsjank7wig3VCp3za.png"
+canceled: false
 ---
 
 # Outreach OS: Creators…Let’s Build the AI Agent That Does Work While You Sleep
@@ -58,6 +59,7 @@ https://www.instagram.com/artisha_walker/
 https://www.linkedin.com/in/artisha-walker/
 
 This event is part of #NYTechWeek—a week of events hosted by VCs and startups to bring the tech ecosystem together. Learn more at www.tech-week.com
+
 
 
 

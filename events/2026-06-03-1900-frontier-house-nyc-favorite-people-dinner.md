@@ -29,6 +29,7 @@ remaining_capacity: 50
 total_guest_count: 101
 approved_guest_count: 0
 local_image: "images/IdI7GpcyYOd2xnOnrn2G.png"
+canceled: false
 ---
 
 # Frontier House NYC   Favorite People Dinner
@@ -60,6 +61,7 @@ Join us for the Frontier House NYC - Favorite People Dinner on Wednesday, June 3
 A special thanks to our Hosts: Eleven Wall Ventures, OneSixOne and Tech Week.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

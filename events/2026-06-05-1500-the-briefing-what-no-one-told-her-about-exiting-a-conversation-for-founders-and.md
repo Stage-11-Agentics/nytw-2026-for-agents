@@ -22,6 +22,7 @@ is_capped: false
 total_guest_count: 22
 approved_guest_count: 21
 local_image: "images/W1Y2Nl4n23PBrt3KWj3Z.png"
+canceled: false
 ---
 
 # The Briefing: What No One Told Her About Exiting — A Conversation for Founders and Their Advisors
@@ -54,6 +55,7 @@ https://www.instagram.com/itsalishamp
 https://www.linkedin.com/in/alisha-m-pennington
 
 This event is a part of #NYCTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

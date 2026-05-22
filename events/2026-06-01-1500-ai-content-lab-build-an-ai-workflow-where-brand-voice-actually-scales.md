@@ -25,10 +25,11 @@ owner_count: 4
 owner_ids: ["wgY7gTxfPfRUZRBTn51Fy5Tmex72", "DUGMXL0RhBQEtkAMSaMei5pR9t23", "7DFu4rITofNzKIjA7hCx", "xamEr6EWU0cgsySD7lXTe84U8Em2"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 15
-total_guest_count: 92
-approved_guest_count: 85
+remaining_capacity: 13
+total_guest_count: 97
+approved_guest_count: 87
 local_image: "images/uiwKdsUhGWODSJJzwO0C.png"
+canceled: false
 ---
 
 # AI Content Lab: 
@@ -40,7 +41,7 @@ Build an AI Workflow Where Brand Voice Actually Scales](images/uiwKdsUhGWODSJJzw
 **Hosts:** NexPost, Next Growth Wave  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 3:00pm–5:00pm ET
 **Where:** NoMad · NoMad, Manhattan, New York, NY · Nomad
-**Capacity:** capped at 100 · 85 taken, 15 remaining
+**Capacity:** capped at 100 · 87 taken, 13 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/uiwKdsUhGWODSJJzwO0C
 **Map:** https://www.google.com/maps/search/?api=1&query=NoMad%2C%20NoMad%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -83,6 +84,7 @@ A hands-on working session with real deliverables.
 Bring your laptop and leave with clarity and results.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

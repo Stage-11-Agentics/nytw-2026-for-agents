@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["PSf7o3XNaqasVz0NpoijLjUtDNh2", "7DFu4rITofNzKIjA7hCx", "fEO8AEGRcLN3in3ntiocABNiqdu1"]
 is_capped: false
-total_guest_count: 319
+total_guest_count: 326
 approved_guest_count: 162
 local_image: "images/Za7fre0uqCIayfraXeE9.jpg"
+canceled: false
 ---
 
 # From Model to Market: The Future of Clinical AI in Healthcare
@@ -33,7 +34,7 @@ local_image: "images/Za7fre0uqCIayfraXeE9.jpg"
 **Hosts:** Milken Institute, Oak HC/FT, Manatt
 **When:** Monday, June 1, 2026 · 3:00pm–5:00pm ET
 **Where:** Midtown
-**Going:** 317 of 319
+**Going:** 317 of 326
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Za7fre0uqCIayfraXeE9
 
@@ -67,6 +68,7 @@ Panelists:
 Expect a thoughtful, off‑the‑record discussion with time for audience Q&A and informal networking with fellow founders, operators, investors and health system innovators. Refreshments will be provided.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

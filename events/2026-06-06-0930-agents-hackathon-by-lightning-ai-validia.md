@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["AQs2VRie1jSBAiZjbynQN09xZ0L2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 139
+total_guest_count: 141
 approved_guest_count: 122
 local_image: "images/UUSBKyeFqHuURxthFyji.png"
+canceled: false
 ---
 
 # Agents Hackathon by Lightning AI & Validia
@@ -33,7 +34,7 @@ local_image: "images/UUSBKyeFqHuURxthFyji.png"
 **Hosts:** Validia, Lightning AI
 **When:** Saturday, June 6, 2026 · 9:30am–6:30pm ET
 **Where:** Chinatown
-**Going:** 139
+**Going:** 139 of 141
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/UUSBKyeFqHuURxthFyji
 
@@ -68,6 +69,7 @@ local_image: "images/UUSBKyeFqHuURxthFyji.png"
 ​The best submissions won't just be the most capable agents. They'll be the ones that are hardest to break.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

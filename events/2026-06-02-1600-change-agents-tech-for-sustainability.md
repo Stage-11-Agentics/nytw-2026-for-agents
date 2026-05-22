@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["CxPo24N2NBNYhGy2DvSAg9NmgHA2", "7DFu4rITofNzKIjA7hCx", "O7jKw8XDSvNmTn8oFlt0hOv2Jaf1"]
 is_capped: false
-total_guest_count: 87
+total_guest_count: 90
 approved_guest_count: 9
 local_image: "images/HbxTd2UuJeIGLlNF9NFX.jpg"
+canceled: false
 ---
 
 # Change Agents: Tech for Sustainability
@@ -33,7 +34,7 @@ local_image: "images/HbxTd2UuJeIGLlNF9NFX.jpg"
 **Hosts:** GPM, MIGSO-PCUBE  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:00pm ET
 **Where:** 60 E 42nd St, New York, NY 10017 · Midtown
-**Going:** 86 of 87
+**Going:** 86 of 90
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/HbxTd2UuJeIGLlNF9NFX
 **Map:** https://www.google.com/maps/search/?api=1&query=60%20E%2042nd%20St%2C%20New%20York%2C%20NY%2010017
@@ -62,6 +63,7 @@ The goal is not to build a polished product, but to explore ideas, test concepts
 Spots are limited ✨
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["YnhffflreVWukMgbHpnzJmp8VnC3", "7DFu4rITofNzKIjA7hCx", "WLBS05YTjFVK2CU1nK8TTZv6ICI3"]
 is_capped: false
-total_guest_count: 139
-approved_guest_count: 46
+total_guest_count: 145
+approved_guest_count: 47
 local_image: "images/ZKdzI3nrlNT6w8ofxtWk.png"
+canceled: false
 ---
 
 # Happy Wellness Group Demo Day II
@@ -36,7 +37,7 @@ local_image: "images/ZKdzI3nrlNT6w8ofxtWk.png"
 **Hosts:** Happy Wellness Group  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 2:00pm–5:30pm ET
 **Where:** Gerald W. Lynch Theater · 524 W 59th St, New York, NY 10019 · Midtown
-**Going:** 139
+**Going:** 139 of 145
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ZKdzI3nrlNT6w8ofxtWk
 **Map:** https://www.google.com/maps/search/?api=1&query=524%20W%2059th%20St%2C%20New%20York%2C%20NY%2010019
@@ -80,6 +81,7 @@ Event Slide Deck: https://drive.google.com/file/d/1lmkBVtdE6KAvOwAjvpWgAZM1mFmRP
 Interested in pitching? Applications close on  5/8 https://form.jotform.com/260854543442155
 
 Interested in sponsoring? Applications close on  5/8  https://form.jotform.com/260877906415163
+
 
 
 

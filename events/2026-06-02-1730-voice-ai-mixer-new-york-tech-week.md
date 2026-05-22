@@ -24,10 +24,11 @@ owner_count: 4
 owner_ids: ["K4oWfVgb05Adw5Ay3kV3", "7DFu4rITofNzKIjA7hCx", "kZOu4HYexyxsfVkNjTsB", "HD9bL0hjXIdBZ2yu4BaZAGYKGsq1"]
 is_capped: true
 max_capacity: 150
-remaining_capacity: 83
-total_guest_count: 76
-approved_guest_count: 67
+remaining_capacity: 82
+total_guest_count: 78
+approved_guest_count: 68
 local_image: "images/6tGWbwFLINhov8Qc0U83.jpg"
+canceled: false
 ---
 
 # Voice AI Mixer: New York Tech Week
@@ -37,7 +38,7 @@ local_image: "images/6tGWbwFLINhov8Qc0U83.jpg"
 **Hosts:** Agora  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:30pm–8:30pm ET
 **Where:** 137 Grand St, New York, NY 10013 · Midtown
-**Capacity:** capped at 150 · 67 taken, 83 remaining
+**Capacity:** capped at 150 · 68 taken, 82 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/6tGWbwFLINhov8Qc0U83
 **Map:** https://www.google.com/maps/search/?api=1&query=137%20Grand%20St%2C%20New%20York%2C%20NY%2010013
@@ -89,6 +90,7 @@ Voice is now becoming a core part of how users interact with products - from sup
 ​This event is part of Agora’s Convo AI World event series, designed to bring together the community shaping the future of Voice AI and real-time AI applications.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

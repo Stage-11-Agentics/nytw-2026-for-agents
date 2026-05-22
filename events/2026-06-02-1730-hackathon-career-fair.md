@@ -18,9 +18,10 @@ fetch_status: ok
 owner_count: 9
 owner_ids: ["TcqU5BM2tdcjY3xv7KoVEbzImxh2", "7DFu4rITofNzKIjA7hCx", "D4YtiHl4xrQqmXxFfhu2", "FpM76ozcVOPg19gK7jUcjaQeNXn2", "EkUQiq03aHgiyCg8L5dVgjhBBGD3", "eNKl6SbdlhVYrxUCzuJt2iLGHOc2", "HWKWBnsoITSBn6rPhJ6Rgll5qSu1", "9mjPCRpaOvOpokXpckOaBdxoUCx2", "J3KBly0AcPMWy6v1d1sBrgGLrtF3"]
 is_capped: false
-total_guest_count: 106
+total_guest_count: 109
 approved_guest_count: 0
 local_image: "images/GxT0MlpEgP8RgFxRH2QG.gif"
+canceled: false
 ---
 
 # Hackathon & Career Fair
@@ -30,7 +31,7 @@ local_image: "images/GxT0MlpEgP8RgFxRH2QG.gif"
 **Hosts:** Propel Earth  _(+8 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:30pm ET
 **Where:** Midtown
-**Going:** 100 of 106
+**Going:** 100 of 109
 **RSVP:** https://partiful.com/e/GxT0MlpEgP8RgFxRH2QG
 
 ### Hosts on Partiful
@@ -53,6 +54,7 @@ Community to eliminate loneliness on the founder journey and connect people with
 Solve some bounties, find a job, and find your next hire! We combined the best of in-person networking with problem solving and real jobs!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

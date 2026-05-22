@@ -26,6 +26,7 @@ remaining_capacity: 86
 total_guest_count: 14
 approved_guest_count: 0
 local_image: "images/LnN7pfnjNMZ2RcNIK6T6.jpg"
+canceled: false
 ---
 
 # From Your Own H-1B Cap Exempt Employer #NYtechweek
@@ -52,6 +53,7 @@ DHS seeks to encourage more nonimmigrant entrepreneurs possessing highly special
 Participants will review the documentation for OPENAI FOUNDATION, INC. (formerly OPENAI, INC.) or OPEN RESEARCH, INC. (formerly Y COMBINATOR RESEARCH INC.) to learn how to incorporate their own Delaware Charitable Nonstock Corporation in one business day, how to qualify for, and request, the Apple Developer Membership Fee Waiver for nonprofit organizations, and how to publish their first iOS mobile application to the Apple App Store that solves a community need or addresses a community problem.
 
 This event is a part of #BosTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at https://https://www.tech-week.com/boston
+
 
 
 

@@ -25,10 +25,11 @@ owner_count: 2
 owner_ids: ["jpKaaGnq0cWjpW0bASyjSDq9RHA3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 120
-remaining_capacity: 4
-total_guest_count: 121
-approved_guest_count: 116
+remaining_capacity: 1
+total_guest_count: 123
+approved_guest_count: 119
 local_image: "images/Z3xUojW8GTGPBovlBBml.png"
+canceled: false
 ---
 
 # Beyond the Subscribe Button: Building a Media Business That Actually Pays
@@ -38,7 +39,7 @@ local_image: "images/Z3xUojW8GTGPBovlBBml.png"
 **Hosts:** Dots (YC S21)  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 2:00pm–3:30pm ET
 **Where:** Manhattan · Manhattan, New York, NY · Nomad
-**Capacity:** capped at 120 · 116 taken, 4 remaining
+**Capacity:** capped at 120 · 119 taken, 1 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Z3xUojW8GTGPBovlBBml
 **Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -58,6 +59,7 @@ But converting an audience into sustainable revenue, finding monetization models
 Join us as founders and operators of the platforms powering independent media get real about what it actually takes to build a business that lasts.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

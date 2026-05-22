@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 7
 owner_ids: ["l1hKX68uH7hDeYHw03V02u0jkA93", "mNFDOvxDQCNF0dZoBzDZc0kA1p03", "7DFu4rITofNzKIjA7hCx", "Fm72xABwlaOT9rs8GnNqlHqlAqq2", "kIxlvv5RQfQs5Zv1WjLQBcaRbAw2", "BaCBVcO1aIjk4A3X4h8H", "xhqyGkVu6tX8ch1RfRNR8PyyWun2"]
 is_capped: false
-total_guest_count: 457
-approved_guest_count: 152
+total_guest_count: 463
+approved_guest_count: 151
 local_image: "images/Lzs3GJd3dscd60ZHfliX.png"
+canceled: false
 ---
 
 # Founders' Landing, Tech Week Kickoff
@@ -33,7 +34,7 @@ local_image: "images/Lzs3GJd3dscd60ZHfliX.png"
 **Hosts:** Deel, Betterment  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 4:00pm–6:00pm ET
 **Where:** Hudson Yards
-**Going:** 456 of 457
+**Going:** 456 of 463
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Lzs3GJd3dscd60ZHfliX
 
@@ -63,6 +64,7 @@ This event is a part of #NYTechWeek—a week of events hosted by VCs and startup
 This event is presented by Betterment, Deel & DealMaker. 
 
 Want to learn more about Deel? Get in touch here and https://www.deel.com/partners/a16ztechweek/
+
 
 
 

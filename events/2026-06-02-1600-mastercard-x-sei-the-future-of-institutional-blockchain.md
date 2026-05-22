@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["sDDBEuuapFeA964Prhdclz3oAHb2", "f01bS2gIEjeK05bI3IZhY1XHhyp1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 221
-approved_guest_count: 72
+total_guest_count: 226
+approved_guest_count: 74
 local_image: "images/GC8DzreyqYSFhsRnwUtY.jpg"
+canceled: false
 ---
 
 # Mastercard x Sei:
@@ -36,7 +37,7 @@ The Future of Institutional Blockchain](images/GC8DzreyqYSFhsRnwUtY.jpg)
 **Hosts:** Mastercard, Sei Development Foundation  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:00pm ET
 **Where:** New York, NY · New York, NY · Midtown
-**Going:** 221
+**Going:** 221 of 226
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/GC8DzreyqYSFhsRnwUtY
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -69,6 +70,7 @@ Launch the joint whitepaper as a standout thought leadership piece and use the e
 
 The perfect backdrop to engage innovators, decision-makers, and market leaders where technology and finance intersect.
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

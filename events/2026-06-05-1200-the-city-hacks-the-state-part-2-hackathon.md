@@ -23,9 +23,10 @@ owner_ids: ["dDZamIWfPeaomWI5OwK6ApngmL23", "7DFu4rITofNzKIjA7hCx", "zOaKIJaaTIW
 is_capped: true
 max_capacity: 250
 remaining_capacity: 246
-total_guest_count: 10
+total_guest_count: 11
 approved_guest_count: 4
 local_image: "images/ncMRzEENiRelhy8yHSIM.jpg"
+canceled: false
 ---
 
 # The City Hacks the State: Part 2 - Hackathon
@@ -61,6 +62,7 @@ What to expect:
 • Direct path to internships & apprenticeships
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

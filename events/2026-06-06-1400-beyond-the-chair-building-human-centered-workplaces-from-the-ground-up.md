@@ -25,6 +25,7 @@ remaining_capacity: 26
 total_guest_count: 24
 approved_guest_count: 0
 local_image: "images/BL7kNCTtwHWtSlcaftcW.jpg"
+canceled: false
 ---
 
 # Beyond the Chair: Building Human-Centered Workplaces from the Ground Up
@@ -51,6 +52,7 @@ Hosted by Libernovo, pioneers in intelligent ergonomic solutions, this half-day 
 From dynamic support to data-driven wellbeing, join us to discover how the intersection of technology, health, and comfort is reshaping the future of work — one workspace at a time.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

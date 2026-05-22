@@ -25,6 +25,7 @@ is_capped: false
 total_guest_count: 74
 approved_guest_count: 1
 local_image: "images/YI7TdarS61gA5leaFsR2.png"
+canceled: false
 ---
 
 # The Leap: From Executive to Founder
@@ -93,6 +94,7 @@ Attendance is invite-only. Request an invitation to be considered.
 Location shared upon approval.
 
 This event is hosted by Build Momentum and Merrill Lynch as part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

@@ -21,10 +21,11 @@ owner_count: 4
 owner_ids: ["zNt0mM9zamXM5iiQ1H97I0bYAXy1", "pujFpqAjGdVYNtBAFJrYupkFuYg1", "cBmaMgIvVqVns840PhM1lvCzKGj2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 150
-remaining_capacity: 138
-total_guest_count: 51
+remaining_capacity: 137
+total_guest_count: 52
 approved_guest_count: 0
 local_image: "images/Zm3BaEMeL5lyMrBGyOW9.png"
+canceled: false
 ---
 
 # From AI Prompt to Real Jewelry
@@ -34,7 +35,7 @@ local_image: "images/Zm3BaEMeL5lyMrBGyOW9.png"
 **Hosts:** EchoHer, Skyveil AI  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:30pm–9:30pm ET
 **Where:** SoHo
-**Capacity:** capped at 150 · 12 taken, 138 remaining
+**Capacity:** capped at 150 · 13 taken, 137 remaining
 **RSVP:** https://partiful.com/e/Zm3BaEMeL5lyMrBGyOW9
 
 ### Hosts on Partiful
@@ -74,6 +75,7 @@ Hosted by:
 Skyveil AI × EchoHer
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

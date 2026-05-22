@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["miIhAjTZRJoFd1pKLShN", "7DFu4rITofNzKIjA7hCx", "r1HQcxBufIckLJmYm1RKRhLUKEo1", "PjSWnZNuyYZQQj17n3R5isbEq6Z2"]
 is_capped: false
-total_guest_count: 550
+total_guest_count: 551
 approved_guest_count: 75
 local_image: "images/gqcsznzpItihFOcdHIBH.png"
+canceled: false
 ---
 
 # Female Founders & Investors Speakeasy
@@ -36,7 +37,7 @@ local_image: "images/gqcsznzpItihFOcdHIBH.png"
 **Hosts:** Madeline & Co., Excelsior Edge Ventures  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:00pm–7:00pm ET
 **Where:** Ketchy Shuby · 406 Broome St, New York, NY 10013 · West Village
-**Going:** 549 of 550
+**Going:** 549 of 551
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/gqcsznzpItihFOcdHIBH
 **Map:** https://www.google.com/maps/search/?api=1&query=406%20Broome%20St%2C%20New%20York%2C%20NY%2010013
@@ -117,6 +118,7 @@ https://www.linkedin.com/in/victorballadares
 https://www.thelewfirm.com/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["QjAQ7et3eKrudQ24m09Q", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 15
+total_guest_count: 16
 approved_guest_count: 8
 local_image: "images/TTOsCwiWb0y2ox67ZI1h.png"
+canceled: false
 ---
 
 # South Asian Collective
@@ -36,7 +37,7 @@ local_image: "images/TTOsCwiWb0y2ox67ZI1h.png"
 **Hosts:** American South Asian Network (ASAN)  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 5:30pm–7:30pm ET
 **Where:** New York · New York · Midtown
-**Going:** 14 of 15
+**Going:** 14 of 16
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/TTOsCwiWb0y2ox67ZI1h
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20New%20York
@@ -69,6 +70,7 @@ Come meet ambitious, like minded South Asians, expand your network, and be part 
 https://www.instagram.com/asan.fyi https://www.linkedin.com/company/asanfyi 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

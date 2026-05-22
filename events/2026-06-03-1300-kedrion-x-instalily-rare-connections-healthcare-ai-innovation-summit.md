@@ -24,8 +24,9 @@ owner_count: 4
 owner_ids: ["d1cDFLOiiGcWJvs2wJy24Xo6thx2", "7DFu4rITofNzKIjA7hCx", "svocKHOXOXPdfyQ3vzrpTjYQ5Uz1", "toTMHZfgNhOR9nMRXEtY"]
 is_capped: false
 total_guest_count: 111
-approved_guest_count: 51
+approved_guest_count: 49
 local_image: "images/PdiozfxUMSvzekP4cU32.png"
+canceled: false
 ---
 
 # Kedrion X InstaLILY Rare Connections: Healthcare AI Innovation Summit
@@ -57,6 +58,7 @@ local_image: "images/PdiozfxUMSvzekP4cU32.png"
 ​The Kedrion x InstaLILY AI & Innovation Summit will showcase how artificial intelligence is operationalized responsibly, at scale, and inside real-world systems.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -29,6 +29,7 @@ remaining_capacity: 95
 total_guest_count: 5
 approved_guest_count: 0
 local_image: "images/6FmuBjS60nrpePXnGWhC.png"
+canceled: false
 ---
 
 # The Future of Healthcare: Innovation, Access, and Value
@@ -66,6 +67,7 @@ Attendees will gain insights into the key opportunities and challenges facing he
 This event is ideal for founders, clinicians, investors, and healthcare operators interested in the intersection of innovation, access, and value.
 
 This event is a part of #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -18,9 +18,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["hyE8BeMvPOUrViKlCdKF5VfaDDk2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 38
+total_guest_count: 39
 approved_guest_count: 0
 local_image: "images/urfFckPmvamG39em2KPC.png"
+canceled: false
 ---
 
 # Peacock Hill Web3 Vibe & Build: The AI Jam Session
@@ -30,7 +31,7 @@ local_image: "images/urfFckPmvamG39em2KPC.png"
 **Hosts:** PEACOCK HILL PRODUCTIONS  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 2:00pm ET
 **Where:** Midtown
-**Going:** 37 of 38
+**Going:** 37 of 39
 **RSVP:** https://partiful.com/e/urfFckPmvamG39em2KPC
 
 ### Hosts on Partiful
@@ -78,6 +79,7 @@ Meet people who are actively building with AI — and those just getting started
 ⚡Soft drinks and light refreshments will be served.⚡
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -25,6 +25,7 @@ is_capped: false
 total_guest_count: 38
 approved_guest_count: 31
 local_image: "images/67G3mKpklwCGWzAjYkgz.png"
+canceled: false
 ---
 
 # Invest Before the Ticker Exists: Augment's Invite-Only App Launch Party
@@ -66,6 +67,7 @@ We give institutional investors, asset managers, and brokers the pricing data, m
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

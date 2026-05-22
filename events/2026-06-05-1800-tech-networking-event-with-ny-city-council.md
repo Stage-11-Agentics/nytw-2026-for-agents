@@ -20,9 +20,10 @@ owner_ids: ["RYD25U7dkeNk1oShBGEBSd23qo93", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 99
 remaining_capacity: 0
-total_guest_count: 110
+total_guest_count: 111
 approved_guest_count: 0
 local_image: "images/EWOiH1i0q7dBW763j1HH.png"
+canceled: false
 ---
 
 # Tech Networking Event with NY City Council
@@ -45,6 +46,7 @@ local_image: "images/EWOiH1i0q7dBW763j1HH.png"
 ## Description
 
 Join ContraSearch for an evening of networking with New York's City Council! Entrepreneurship drives and strengthens the US economy. Meet and network with New York's City Council to identify synergies and opportunities between local government and your startup!
+
 
 
 

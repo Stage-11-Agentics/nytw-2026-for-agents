@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 6
 owner_ids: ["A1xo1YqxZhPcirnlNunLRsxd69e2", "rDiTgJA6A3hVV9NiCrGtS30uA3j2", "YVULHUzkzuUf4LWCoF5sQikuA7F2", "7DFu4rITofNzKIjA7hCx", "1rkcpX4WamV4YaZZGXeWNKoJkMc2", "eNKl6SbdlhVYrxUCzuJt2iLGHOc2"]
 is_capped: false
-total_guest_count: 397
+total_guest_count: 406
 approved_guest_count: 115
 local_image: "images/RvVuxFKB01u59pmVZnTE.png"
+canceled: false
 ---
 
 # MATCH HOUSE 
@@ -38,7 +39,7 @@ Founders, Investors, Operators](images/RvVuxFKB01u59pmVZnTE.png)
 **Hosts:** MatchPlay Ventures, Boop, FirstGlance  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 12:00pm–5:00pm ET
 **Where:** Mr. Purple · 180 Orchard St, FL 15, New York, NY 10002 · Flatiron
-**Going:** 396 of 397
+**Going:** 396 of 406
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/RvVuxFKB01u59pmVZnTE
 **Map:** https://www.google.com/maps/search/?api=1&query=180%20Orchard%20St%2C%20FL%2015%2C%20New%20York%2C%20NY%2010002
@@ -71,6 +72,7 @@ Schedule:
 This event is a part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
 
 Interested in partnering? cal.com/horaciorilo/match-house-partnership
+
 
 
 

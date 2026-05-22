@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["NxXoVEVRLmO75c6tkZ6Z5V4dTb42", "7DFu4rITofNzKIjA7hCx", "TQ20exfKEsUDM0xIBsucODxE7pE3"]
 is_capped: false
-total_guest_count: 104
+total_guest_count: 106
 approved_guest_count: 30
 local_image: "images/iym9LN4KS0uf1UV9BaB8.png"
+canceled: false
 ---
 
 # Trans Talent In Tech
@@ -36,7 +37,7 @@ local_image: "images/iym9LN4KS0uf1UV9BaB8.png"
 **Hosts:** Cool Trans Girl, Avid Society, NYC Pride, MSCI Pride & Allies
 **When:** Friday, June 5, 2026 · 4:00pm–7:00pm ET
 **Where:** 7 World Trade Center · 250 Greenwich St, New York, NY 10007 · Tribeca
-**Going:** 104
+**Going:** 104 of 106
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/iym9LN4KS0uf1UV9BaB8
 **Map:** https://www.google.com/maps/search/?api=1&query=250%20Greenwich%20St%2C%20New%20York%2C%20NY%2010007
@@ -68,6 +69,7 @@ Free to attend. Invite-only guestlist.
 This event is part of #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem. 
 
 Learn more at www.tech-week.com.
+
 
 
 

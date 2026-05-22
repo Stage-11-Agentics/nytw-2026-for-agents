@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["hjMaPvaumHUNxXnLTdanM6sYylT2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 79
+total_guest_count: 80
 approved_guest_count: 46
 local_image: "images/llXiWmjG8QWnTZjhjpLc.png"
+canceled: false
 ---
 
 # The Morning Bell
@@ -36,7 +37,7 @@ local_image: "images/llXiWmjG8QWnTZjhjpLc.png"
 **Hosts:** Connor Group, a16z
 **When:** Thursday, June 4, 2026 · 8:30am–10:00am ET
 **Where:** Bryant Park · 40th and 42nd Streets & Fifth and Sixth Avenues, New York, NY 10018 · Midtown
-**Going:** 79
+**Going:** 79 of 80
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/llXiWmjG8QWnTZjhjpLc
 **Map:** https://www.google.com/maps/search/?api=1&query=40th%20and%2042nd%20Streets%20%26%20Fifth%20and%20Sixth%20Avenues%2C%20New%20York%2C%20NY%2010018
@@ -63,6 +64,7 @@ Jonathan Kearl, Managing Partner - Connor Group
 Adrian Mitchell, Chief Financial Officer - Warby Parker
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

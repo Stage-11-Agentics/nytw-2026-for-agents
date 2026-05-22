@@ -26,9 +26,10 @@ owner_ids: ["mjKBgriHpSMhQ6kGn7pSLrPgtT53", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 300
 remaining_capacity: 299
-total_guest_count: 147
+total_guest_count: 149
 approved_guest_count: 1
 local_image: "images/4o8WaAmgjpoMjk7qRwuI.png"
+canceled: false
 ---
 
 # AI in Real Estate Summit
@@ -134,6 +135,7 @@ Drinks and appetizers
 8:00 PM — Event Closes
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

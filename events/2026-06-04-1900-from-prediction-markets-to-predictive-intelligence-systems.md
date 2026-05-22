@@ -22,6 +22,7 @@ is_capped: false
 total_guest_count: 96
 approved_guest_count: 0
 local_image: "images/eSldi3iNIvAVo9utdd8S.png"
+canceled: false
 ---
 
 # From Prediction Markets to Predictive Intelligence Systems
@@ -52,6 +53,7 @@ Hosted by Daedalus Research, we’ll share early prototypes and ideas at the int
 The session will include short talks, demos, and open discussion with builders working on AI, crypto, and decision systems.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["rdtiJlanMXhkhKbMvzxLlYPNFOq2", "7DFu4rITofNzKIjA7hCx", "gSP8PY3ornS2OIlftUjo0xWYgWI2"]
 is_capped: false
-total_guest_count: 95
+total_guest_count: 99
 approved_guest_count: 91
 local_image: "images/E4CH5kGRDlO8mGl8JJpY.jpg"
+canceled: false
 ---
 
 # LegalTech in the Age of AI: Opportunities, Challenges, and What's Next
@@ -33,7 +34,7 @@ local_image: "images/E4CH5kGRDlO8mGl8JJpY.jpg"
 **Hosts:** Fox Rothschild LLP, GrayHair Venture Partners  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 5:30pm ET
 **Where:** 101 Park Ave, New York, NY 10178 · Midtown
-**Going:** 95
+**Going:** 95 of 99
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/E4CH5kGRDlO8mGl8JJpY
 **Map:** https://www.google.com/maps/search/?api=1&query=101%20Park%20Ave%2C%20New%20York%2C%20NY%2010178
@@ -73,6 +74,7 @@ Following the panel, join fellow founders, investors, and legal professionals fo
 This event is designed for startup founders building in the LegalTech space, venture capital and angel investors evaluating legal technology opportunities, and anyone passionate about the intersection of law and technology.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -25,10 +25,11 @@ owner_count: 2
 owner_ids: ["lxLVpw15y0Y6pOW2hV40", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 27
-total_guest_count: 85
+remaining_capacity: 26
+total_guest_count: 87
 approved_guest_count: 0
 local_image: "images/TqQqF6AsVrPzJOiMvXkc.png"
+canceled: false
 ---
 
 # Recess at Tech Week
@@ -38,7 +39,7 @@ local_image: "images/TqQqF6AsVrPzJOiMvXkc.png"
 **Hosts:** Recess  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 3:00pm–5:00pm ET
 **Where:** Union Square Park · 201 Park Ave S, New York, NY 10003 · Union Square
-**Capacity:** capped at 100 · 73 taken, 27 remaining
+**Capacity:** capped at 100 · 74 taken, 26 remaining
 **RSVP:** https://partiful.com/e/TqQqF6AsVrPzJOiMvXkc
 **Map:** https://www.google.com/maps/search/?api=1&query=201%20Park%20Ave%20S%2C%20New%20York%2C%20NY%2010003
 
@@ -69,6 +70,7 @@ THE RULES:
 RSVP here and we'll see you on the field 🏃‍♀️⚽🎨
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

@@ -28,6 +28,7 @@ remaining_capacity: 69
 total_guest_count: 278
 approved_guest_count: 0
 local_image: "images/3Ulq45rDvuTDjRsrSIPg.svg"
+canceled: false
 ---
 
 # Build, Buy or Borrow: Launching your product in the age of AI
@@ -78,6 +79,7 @@ Moderated by Benji Schwartz
 Founder, Tavern Communtity
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

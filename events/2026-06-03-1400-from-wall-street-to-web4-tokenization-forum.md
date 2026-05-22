@@ -22,9 +22,10 @@ owner_ids: ["NsnZ0leG2DRz2X8qHNSBEIo7opB2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 120
 remaining_capacity: 0
-total_guest_count: 130
+total_guest_count: 132
 approved_guest_count: 0
 local_image: "images/HYTe0PKAwn3S8y6V1108.png"
+canceled: false
 ---
 
 # From Wall Street to Web4: Tokenization Forum
@@ -62,6 +63,7 @@ The evening will feature a short panel discussion followed by networking with pr
 Space is limited. RSVP required.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

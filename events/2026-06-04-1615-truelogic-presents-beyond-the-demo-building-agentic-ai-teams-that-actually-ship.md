@@ -28,6 +28,7 @@ remaining_capacity: 15
 total_guest_count: 5
 approved_guest_count: 0
 local_image: "images/FA2Q9jHGnpJig9RwCOax.png"
+canceled: false
 ---
 
 # Truelogic presents Beyond the Demo: Building Agentic AI Teams That Actually Ship
@@ -56,6 +57,7 @@ During this event Truelogic will showcase how enterprises and scale-ups are rest
 Your application will be carefully screened. No +1s allowed. Only approved guests will be allowed onto the premises
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

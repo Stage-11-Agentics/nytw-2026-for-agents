@@ -26,9 +26,10 @@ owner_ids: ["zJNlZxHZuAehIMKCG8HlXfqvUVj1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 60
 remaining_capacity: 51
-total_guest_count: 24
+total_guest_count: 25
 approved_guest_count: 9
 local_image: "images/DO8XlNCIKaedsYpjKgny.png"
+canceled: false
 ---
 
 # Kamp Café (NYC Tech Week Kick Off Party @ High End Italian Bakery)
@@ -100,6 +101,7 @@ Want to sponsor? Hit us at info@kampevents.com
 Limited spots! Register today!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

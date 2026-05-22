@@ -26,6 +26,7 @@ is_capped: false
 total_guest_count: 18
 approved_guest_count: 15
 local_image: "images/VYLWElwvSQQsaO2bOZGn.png"
+canceled: false
 ---
 
 # Agribusiness Softlanding in Argentina
@@ -61,6 +62,7 @@ Lezaun is currently leading the implementation of Global Initiatives to support 
 Argentina offers a strategic soft landing as a leading sustainable food supplier. Its ecosystem merges cutting-edge AgTech and carbon-smart farming to ensure global security. Investing now capitalizes on high-impact traceability and bio-business opportunities, overcoming structural challenges through world-class innovation.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

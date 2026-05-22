@@ -21,22 +21,23 @@ at_capacity: false
 going_guest_count: 418
 badges: []
 fetch_status: ok
-owner_count: 6
-owner_ids: ["ZiOPJfDGbFpk7yazy2r8", "7DFu4rITofNzKIjA7hCx", "3eTu4ikBoiE1Yg4a9S7d", "chYEv4858OzM9E1jkvnD", "RaQek3Rt70UMU22XRGjy3af1RGR2", "lRbsUBShN5NFJm0ApjAbfAgWpaE2"]
+owner_count: 7
+owner_ids: ["ZiOPJfDGbFpk7yazy2r8", "7DFu4rITofNzKIjA7hCx", "3eTu4ikBoiE1Yg4a9S7d", "chYEv4858OzM9E1jkvnD", "RaQek3Rt70UMU22XRGjy3af1RGR2", "lRbsUBShN5NFJm0ApjAbfAgWpaE2", "ojYimJvvB4R4Ky9IHjzMd5MniPr1"]
 is_capped: false
-total_guest_count: 422
+total_guest_count: 430
 approved_guest_count: 313
 local_image: "images/ufVzlWMFQfSIbmaWnC8U.png"
+canceled: false
 ---
 
 # AI After Tomorrow: Investing, Building Tech, and Serving Customers
 
 ![AI After Tomorrow: Investing, Building Tech, and Serving Customers](images/ufVzlWMFQfSIbmaWnC8U.png)
 
-**Hosts:** Techstars, DigitalOcean, Zendesk  _(+3 more host(s) on Partiful — see description for full list)_
+**Hosts:** Techstars, DigitalOcean, Zendesk  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 3:30pm–7:00pm ET
 **Where:** Maxwell Social · 135 Watts St, New York, NY 10013 · Tribeca
-**Going:** 418 of 422
+**Going:** 418 of 430
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ufVzlWMFQfSIbmaWnC8U
 **Map:** https://www.google.com/maps/search/?api=1&query=135%20Watts%20St%2C%20New%20York%2C%20NY%2010013
@@ -49,6 +50,7 @@ Helping founders scale their startups into world-changing businesses._
 - [Zendesk for Startups](https://partiful.com/u/chYEv4858OzM9E1jkvnD)
 - [Derek](https://partiful.com/u/RaQek3Rt70UMU22XRGjy3af1RGR2)
 - [Kristofer Martin](https://partiful.com/u/lRbsUBShN5NFJm0ApjAbfAgWpaE2)
+- [user `ojYimJvvB4R4Ky9IHjzMd5MniPr1`](https://partiful.com/u/ojYimJvvB4R4Ky9IHjzMd5MniPr1) _(name not resolved)_
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -61,6 +63,7 @@ Featuring Andrew Cleland, Chief Investment Officer of Techstars, alongside Salma
 Be in the room with those who may become co-founders, customers, or checks. The rest is up to you.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

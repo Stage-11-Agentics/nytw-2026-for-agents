@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["l5aJYRXl8FcuiKQ8eIq6S32zRB93", "7DFu4rITofNzKIjA7hCx", "7ZTMjPyFwRZ5BGsgS1URn5j18zp2"]
 is_capped: false
-total_guest_count: 116
+total_guest_count: 119
 approved_guest_count: 42
 local_image: "images/B8dMAYmTTQKX7Oq3FUVy.png"
+canceled: false
 ---
 
 # Tech Week & Pride Month Kickoff Event hosted by J.P. Morgan
@@ -34,7 +35,7 @@ local_image: "images/B8dMAYmTTQKX7Oq3FUVy.png"
 **Hosts:** JPMorgan  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm ET
 **Where:** Stonewall National Monument Visitor Center · 51 Christopher St, New York, NY 10014 · West Village
-**Going:** 115 of 116
+**Going:** 115 of 119
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/B8dMAYmTTQKX7Oq3FUVy
 **Map:** https://www.google.com/maps/search/?api=1&query=51%20Christopher%20St%2C%20New%20York%2C%20NY%2010014
@@ -55,6 +56,7 @@ Immerse yourself in an evening of networking, inspiration, and community spirit.
 Don't miss out on this unique opportunity to be part of a movement that champions innovation and inclusivity. We look forward to celebrating with you!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

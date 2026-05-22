@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["eUhS3XwF2GaE6i7OBx4rqIKMAtp1", "7DFu4rITofNzKIjA7hCx", "7gUO6bef90MoR2GC7RA33kkoSNi1"]
 is_capped: false
-total_guest_count: 254
+total_guest_count: 257
 approved_guest_count: 1
 local_image: "images/OD2KJyMtSdJZKcvqUhut.png"
+canceled: false
 ---
 
 # [Everything AI Startup Pitch Competition]
@@ -33,7 +34,7 @@ local_image: "images/OD2KJyMtSdJZKcvqUhut.png"
 **Hosts:** Fundraising Bootcamp, Berkeley SkyDeck  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 3:00pm–6:00pm ET
 **Where:** Financial District
-**Going:** 252 of 254
+**Going:** 252 of 257
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/OD2KJyMtSdJZKcvqUhut
 
@@ -60,6 +61,7 @@ Format: Startup Pitch Competition followed by an exclusive dinner for VCs and ju
 3. Finalist Selection — Only the most promising 10 startups, combining technical excellence and market potential, will be invited to pitch live on stage
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

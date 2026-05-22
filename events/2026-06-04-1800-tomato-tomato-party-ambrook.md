@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["vdLPkYfVgAZzhc1y0Q57CSP9AUt1", "gsn2kdZbA3lWuNpi4zji", "4VWvncQAXWWbM3CdPQNbOPtuXEd2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 824
+total_guest_count: 827
 approved_guest_count: 184
 local_image: "images/MkbepF7zY8oKuzIMECtC.gif"
+canceled: false
 ---
 
 # Tomato Tomato Party @ Ambrook
@@ -33,7 +34,7 @@ local_image: "images/MkbepF7zY8oKuzIMECtC.gif"
 **Hosts:** Ambrook  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
 **Where:** 425 Broadway, New York, NY 10013 · SoHo
-**Going:** 824
+**Going:** 824 of 827
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/MkbepF7zY8oKuzIMECtC
 **Map:** https://www.google.com/maps/search/?api=1&query=425%20Broadway%2C%20New%20York%2C%20NY%2010013
@@ -59,6 +60,7 @@ Gentle rave music inspired by the rolling hills of Olive Garden's Tuscany will b
 Dress code: Tomato-core is encouraged but not required. 
 
 There's a lot of tech in tomatoes. Required pre-reading (you will be quizzed): https://ambrook.com/offrange/crops/rediscovering-the-taste-of-tomatoes
+
 
 
 

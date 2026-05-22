@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["1INO9RjWjjdPf5ghrSBfxvew3sk2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 181
-approved_guest_count: 18
+total_guest_count: 184
+approved_guest_count: 22
 local_image: "images/r0srpfriv3SWRcQEBVk7.png"
+canceled: false
 ---
 
 # The New 0→1 GTM Playbook for AI-Native Founders
@@ -36,7 +37,7 @@ local_image: "images/r0srpfriv3SWRcQEBVk7.png"
 **Hosts:** Digitalista  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 4:30pm–6:30pm ET
 **Where:** Manhattan · Manhattan, New York, NY · Midtown
-**Going:** 181
+**Going:** 181 of 184
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/r0srpfriv3SWRcQEBVk7
 **Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -77,6 +78,7 @@ Confirmed speakers and venue TBC soon.
 Hosted by Digitalista, an AI-native GTM system for early-stage B2B SaaS and AI founders. Digitalista helps founders turn customer signals, positioning, and experiments into a repeatable growth engine.
 
 This event is part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

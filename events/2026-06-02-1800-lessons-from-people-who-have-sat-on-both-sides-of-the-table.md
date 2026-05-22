@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 853
 approved_guest_count: 0
 local_image: "images/eZyYOASnhlTpvJNfDXKu.png"
+canceled: false
 ---
 
 # Lessons from People Who Have Sat on Both Sides of the Table.
@@ -64,6 +65,7 @@ Oni Kabir brings 30+ years of experience across enterprise architecture, cyberse
 Stefan Lehmann-Karp is an Executive Director with Morgan Stanley Inclusive & Sustainable Ventures. Stefan brings over 20 years across venture capital, investment banking, and startup operations to supports early-stage founders through fundraising, growth, governance, and strategic scaling. Previously, he held leadership roles at Bridgewater Associates, Morgan Stanley, and Lehman Brothers, as well as CFO and COO positions at venture-backed startups. Stefan holds an MBA from Columbia Business School and a BA from Cornell University.
 
 This event is a part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

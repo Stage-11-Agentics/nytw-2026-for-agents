@@ -24,9 +24,10 @@ owner_ids: ["v0SCt7Voq2dohPoVpLY2PtEy4533", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 20
 remaining_capacity: -16
-total_guest_count: 71
+total_guest_count: 75
 approved_guest_count: 36
 local_image: "images/mFZrUoTromWldzT4JrXy.png"
+canceled: false
 ---
 
 # AI GTM Coffee & Walk for Tech Founders
@@ -57,6 +58,7 @@ This is a relaxed gathering for tech founders who want to exchange ideas on posi
 No formal agenda, just thoughtful conversations, valuable connections, and an opportunity to share perspectives and explore new ideas during Tech Week.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

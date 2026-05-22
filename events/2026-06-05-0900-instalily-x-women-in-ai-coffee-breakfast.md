@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["AwhTqVCrNNQiN3QxtbtWwyTpHyC3", "smpc26PwAMeD5No1yGUMvUut7Mw2", "7DFu4rITofNzKIjA7hCx", "d1cDFLOiiGcWJvs2wJy24Xo6thx2", "toTMHZfgNhOR9nMRXEtY"]
 is_capped: false
-total_guest_count: 171
+total_guest_count: 174
 approved_guest_count: 25
 local_image: "images/b5VPB8KMbUuHvUOcKMHG.png"
+canceled: false
 ---
 
 # InstaLILY x Women in AI Coffee & Breakfast
@@ -36,7 +37,7 @@ local_image: "images/b5VPB8KMbUuHvUOcKMHG.png"
 **Hosts:** instalily, Wilson Sonsini  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 9:00am–12:00pm ET
 **Where:** Chief · 13 E 19th St, New York, NY 10003 · SoHo
-**Going:** 170 of 171
+**Going:** 170 of 174
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/b5VPB8KMbUuHvUOcKMHG
 **Map:** https://www.google.com/maps/search/?api=1&query=13%20E%2019th%20St%2C%20New%20York%2C%20NY%2010003
@@ -75,6 +76,7 @@ This isn’t your average breakfast. Expect sharp perspectives, real talk on whe
 You’ll leave inspired, connected, and caffeinated.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

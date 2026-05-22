@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 6
 owner_ids: ["ESIB1GQkTJNtHEF3ScPHpu2jFP62", "7DFu4rITofNzKIjA7hCx", "AVHmGG9wC3Wl0ertjuM6RgzAo4J3", "rlu6HYrxXVeWa85tmOhZUG1ghmP2", "JxIpN9s9NeUBBaiItqAe", "GFp1kiZjk1MPU1MzX2GxKUwt6ze2"]
 is_capped: false
-total_guest_count: 122
+total_guest_count: 126
 approved_guest_count: 20
 local_image: "images/VQkNaT8Va2ysY4AgswEn.png"
+canceled: false
 ---
 
 # LP | VC | Founder Private Sushi Dinner in Noho
@@ -35,7 +36,7 @@ local_image: "images/VQkNaT8Va2ysY4AgswEn.png"
 **Hosts:** Venetian Capital, Max Ventures, NA  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:30pm–9:00pm ET
 **Where:** 704 Broadway, New York, NY 10003 · Greenwich Village
-**Going:** 122
+**Going:** 122 of 126
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/VQkNaT8Va2ysY4AgswEn
 **Map:** https://www.google.com/maps/search/?api=1&query=704%20Broadway%2C%20New%20York%2C%20NY%2010003
@@ -59,6 +60,7 @@ local_image: "images/VQkNaT8Va2ysY4AgswEn.png"
 Drinks, bites, and focused relationship building with an invite-only group of allocators, investors, and operators.
 
 Supported by our partners at Stifel Bank. This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem.
+
 
 
 

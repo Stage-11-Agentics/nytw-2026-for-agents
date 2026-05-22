@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["RNHKTLiQo0R6i8sc3UtdsG4t84V2", "7DFu4rITofNzKIjA7hCx", "RFHSSmfAgGbZzy2GiRBbuDBHoeg1", "veMqoqaUF4ZkIJZKRlxEuRz4Zfv2", "xkbqSgAMKZEGONXxQ9XD"]
 is_capped: false
-total_guest_count: 719
+total_guest_count: 734
 approved_guest_count: 503
 local_image: "images/RobIjG7RR9EwAdmIQ5IP.jpg"
+canceled: false
 ---
 
 # Founders and Funders Rooftop Party
@@ -36,7 +37,7 @@ local_image: "images/RobIjG7RR9EwAdmIQ5IP.jpg"
 **Hosts:** Morrison Foerster, Carta, NYU Tandon Future Labs  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm–10:00pm ET
 **Where:** Mr. Purple · 180 Orchard St, FL 15, New York, NY 10002 · Lower East Side
-**Going:** 719
+**Going:** 719 of 734
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/RobIjG7RR9EwAdmIQ5IP
 **Map:** https://www.google.com/maps/search/?api=1&query=180%20Orchard%20St%2C%20FL%2015%2C%20New%20York%2C%20NY%2010002
@@ -69,6 +70,7 @@ This event is a part of #NYTechWeek—a week of events hosted by VCs and startup
 As this is a co-sponsored event, Morrison & Foerster LLP and Tech Week will each collect your registration data. 
 • Please see Tech Week's Privacy Policy: https://www.termsfeed.com/live/7e5a15e4-406a-419c-84f1-80dbf17e57bb. 
 • To learn more about how Morrison & Foerster LLP uses and protects your personal data, please view our Privacy Policy: https://www.mofo.com/about/privacy-policy.
+
 
 
 

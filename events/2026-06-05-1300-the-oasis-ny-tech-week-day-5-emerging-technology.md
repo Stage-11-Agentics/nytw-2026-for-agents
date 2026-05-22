@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["J3KBly0AcPMWy6v1d1sBrgGLrtF3", "9QYyEOt0M6P6C80l8zOYJ9n03Kn1", "7DFu4rITofNzKIjA7hCx", "lbXYGgqV6RPkTXqgo4lVcAK3z513"]
 is_capped: false
-total_guest_count: 84
-approved_guest_count: 78
+total_guest_count: 85
+approved_guest_count: 77
 local_image: "images/wME3CoGVwNPhbRyevKYp.png"
+canceled: false
 ---
 
 # The Oasis @ NY Tech Week Day 5 - Emerging Technology
@@ -36,7 +37,7 @@ local_image: "images/wME3CoGVwNPhbRyevKYp.png"
 **Hosts:** Vibe Space, Flowstate, Boardy, AI Collective
 **When:** Friday, June 5, 2026 · 1:00pm–4:00pm ET
 **Where:** Belong NYC · 218 Lafayette St, FL 2, New York, NY 10012 · Flatiron
-**Going:** 84
+**Going:** 84 of 85
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/wME3CoGVwNPhbRyevKYp
 **Map:** https://www.google.com/maps/search/?api=1&query=218%20Lafayette%20St%2C%20FL%202%2C%20New%20York%2C%20NY%2010012
@@ -60,6 +61,7 @@ The series blends daily ‘co-flow’ drop-in sessions with curated collaborativ
 This fifth and final day is focused on discussions about emerging technologies, highlighting new technological developments and ideas that surfaced along the week.
 
 This event is a part of #NY TechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

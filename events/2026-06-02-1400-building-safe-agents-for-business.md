@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["gAhejYvOKRQ5uRwNeojQM3EtSW33", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 40
+total_guest_count: 42
 approved_guest_count: 0
 local_image: "images/SsoQR8v1U9oS3KHP517R.png"
+canceled: false
 ---
 
 # Building Safe Agents for Business
@@ -35,7 +36,7 @@ local_image: "images/SsoQR8v1U9oS3KHP517R.png"
 **Hosts:** ICME Labs  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 2:00pm–3:00pm ET
 **Where:** Union Square · 201 Park Ave S, New York, NY 10003 · Union Square
-**Going:** 37 of 40
+**Going:** 37 of 42
 **RSVP:** https://partiful.com/e/SsoQR8v1U9oS3KHP517R
 **Map:** https://www.google.com/maps/search/?api=1&query=201%20Park%20Ave%20S%2C%20New%20York%2C%20NY%2010003
 
@@ -54,6 +55,7 @@ The missing piece is cryptographic guarantees. Not better prompts. Not more filt
 This workshop teaches you how to build agents that enforce policies with formal verification, resist prompt injection and hijacking, and prove compliance before every action. Hands-on, technical, and applicable to any agent framework.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["OiL5pdHjvR3PlusNCDIU", "7DFu4rITofNzKIjA7hCx", "egwm3b5jywYTR5PKiYgw", "72CvWxXljBZJIZAeSVLlSpuLtpx1", "5gYay0zvhYYXPGtSG49Z4E127W93"]
 is_capped: false
-total_guest_count: 178
+total_guest_count: 180
 approved_guest_count: 88
 local_image: "images/LEDa1R82yEii1oxgrTBF.jpg"
+canceled: false
 ---
 
 # Curated Happy Hour for European founders and US Investors! Powered by ESE
@@ -38,7 +39,7 @@ local_image: "images/LEDa1R82yEii1oxgrTBF.jpg"
 **Hosts:** European Startup Embassy, Valka AI  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 4:00pm–6:30pm ET
 **Where:** Manhattan · Manhattan, New York, NY · Upper Manhattan
-**Going:** 177 of 178
+**Going:** 177 of 180
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/LEDa1R82yEii1oxgrTBF
 **Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -78,6 +79,7 @@ We also have a partner space available for selected startups in Austin.
 And now we´re expanding to NYC! 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

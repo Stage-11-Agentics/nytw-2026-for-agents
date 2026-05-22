@@ -22,9 +22,10 @@ owner_ids: ["5kGBfOiltAQ4KZ5MpGaGiDfZYVU2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 20
 remaining_capacity: 0
-total_guest_count: 110
+total_guest_count: 113
 approved_guest_count: 0
 local_image: "images/wqueNyka7qksh4pd6DTb.jpg"
+canceled: false
 ---
 
 # AI → Alpha: How Data Becomes Investment Edge
@@ -66,6 +67,7 @@ Who should attend
 • Data & AI professionals in finance
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

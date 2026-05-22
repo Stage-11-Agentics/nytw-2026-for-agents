@@ -26,6 +26,7 @@ remaining_capacity: 16
 total_guest_count: 62
 approved_guest_count: 4
 local_image: "images/qbDSnp1ZsPjrh0Z4SsCH.png"
+canceled: false
 ---
 
 # White Space: Custom AF1 Workshop for CMOs
@@ -68,6 +69,7 @@ Adam Gilbert — CEO, ViewEngine
 For any press, sponsorship, or invitation inquiries please email: yo@meettheedge.com
 
 This event is a part of #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

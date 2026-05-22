@@ -26,9 +26,10 @@ owner_ids: ["Hc3Aico8FXVFkZlk8mzxg38NIiR2", "LcZD2hHcN8bugyJLSW7lnXD2N4k1", "UH7
 is_capped: true
 max_capacity: 250
 remaining_capacity: 110
-total_guest_count: 153
+total_guest_count: 158
 approved_guest_count: 140
 local_image: "images/tVledXQK9bwSVjCF0OUT.png"
+canceled: false
 ---
 
 # Hacking Customer Retention with AI
@@ -105,6 +106,7 @@ A clear next step to turn your hack into a live experiment or product
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 This event is sponsored by The Front Yard at Pace University. Learn more about their entrepreneur program at: https://www.linkedin.com/company/the-front-yard-at-pace-university
+
 
 
 

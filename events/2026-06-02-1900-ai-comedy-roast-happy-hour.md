@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["dXBrmtqdjkbr4gxpSF11P9fBtLw1", "7DFu4rITofNzKIjA7hCx", "GOPJUWIHjNXalhHScUIvwSODWNt2", "cZlKyntmI1eAwKh3BnqpsVLP1Lg1"]
 is_capped: false
-total_guest_count: 136
+total_guest_count: 138
 approved_guest_count: 0
 image_download_error: "HTTP Error 403: Forbidden"
+canceled: false
 ---
 
 # AI Comedy Roast + Happy Hour
@@ -33,7 +34,7 @@ image_download_error: "HTTP Error 403: Forbidden"
 **Hosts:** WorkClaw, Workmate  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 7:00pm ET
 **Where:** Comedy Village · 352 W 44th St, New York, NY 10036 · Midtown
-**Going:** 123 of 136
+**Going:** 123 of 138
 **RSVP:** https://partiful.com/e/7QRI7F6JJM3BSJw6dEj5
 **Map:** https://www.google.com/maps/search/?api=1&query=352%20W%2044th%20St%2C%20New%20York%2C%20NY%2010036
 
@@ -56,6 +57,7 @@ Expect sharp jokes, unfiltered takes, and plenty of crowd work as they dive into
 First 50 at the door receive two free drinks.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

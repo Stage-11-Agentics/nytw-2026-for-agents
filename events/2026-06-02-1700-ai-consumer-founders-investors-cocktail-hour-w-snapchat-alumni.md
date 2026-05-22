@@ -23,9 +23,10 @@ owner_ids: ["YMSfIwNJ3bYlRR7R2xvsxtju6Vu2", "7DFu4rITofNzKIjA7hCx", "RmZOhQaKLsX
 is_capped: true
 max_capacity: 30
 remaining_capacity: 30
-total_guest_count: 159
+total_guest_count: 162
 approved_guest_count: 0
 local_image: "images/m7pci5eDGgvEMhby9pGq.png"
+canceled: false
 ---
 
 # •• AI Consumer Founders & Investors Cocktail Hour w/ Snapchat Alumni
@@ -61,6 +62,7 @@ We are an early-stage fund led by Snapchat alumni, actively deploying capital in
 _____________________________________
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -28,6 +28,7 @@ remaining_capacity: 60
 total_guest_count: 24
 approved_guest_count: 0
 local_image: "images/pRGMGLY8pbqZl3qbuG9s.png"
+canceled: false
 ---
 
 # From Detection to Deployment:
@@ -70,6 +71,7 @@ Around the table: clinicians on the front lines, payers tired of paying for what
 [REGISTER NOW →]
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

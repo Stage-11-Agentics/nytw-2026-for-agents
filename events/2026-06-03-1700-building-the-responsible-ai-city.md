@@ -18,14 +18,35 @@ at_capacity: false
 going_guest_count: 409
 badges: []
 fetch_status: ok
+owner_count: 6
+owner_ids: ["TchpVIUtIuUiYNk3OMsC3Ucp0zA3", "QsN4505Y8hegXKwb8qOpIwSkU4X2", "8KapVyPBTHaMAraIxBJD23ovUYo1", "W6JyP3teDFgHg3737cx1cxNne1W2", "ZW8dUQRvshNxw6G9oPDsbRiJfvo1", "7DFu4rITofNzKIjA7hCx"]
+is_capped: false
+canceled: false
+total_guest_count: 410
+approved_guest_count: 14
+local_image: "images/RRKTFLLQ3k5UpzWqjCtH.jpg"
 ---
 
 # Building the Responsible AI City
 
-**Host:** AI2030
+![Building the Responsible AI City](images/RRKTFLLQ3k5UpzWqjCtH.jpg)
+
+**Hosts:** AI2030  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:00pm–7:30pm ET
 **Where:** Gramercy Park
+**Going:** 409 of 410
+**Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/RRKTFLLQ3k5UpzWqjCtH
+
+### Hosts on Partiful
+
+- [user `TchpVIUtIuUiYNk3OMsC3Ucp0zA3`](https://partiful.com/u/TchpVIUtIuUiYNk3OMsC3Ucp0zA3) _(name not resolved)_
+- [user `QsN4505Y8hegXKwb8qOpIwSkU4X2`](https://partiful.com/u/QsN4505Y8hegXKwb8qOpIwSkU4X2) _(name not resolved)_
+- [user `8KapVyPBTHaMAraIxBJD23ovUYo1`](https://partiful.com/u/8KapVyPBTHaMAraIxBJD23ovUYo1) _(name not resolved)_
+- [user `W6JyP3teDFgHg3737cx1cxNne1W2`](https://partiful.com/u/W6JyP3teDFgHg3737cx1cxNne1W2) _(name not resolved)_
+- [user `ZW8dUQRvshNxw6G9oPDsbRiJfvo1`](https://partiful.com/u/ZW8dUQRvshNxw6G9oPDsbRiJfvo1) _(name not resolved)_
+- _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
+
 
 ## Description
 
@@ -82,6 +103,7 @@ About 1871 https://1871.com/
 The Chicagoland Entrepreneurial Center, dba 1871, is a 501(c)(3) organization that exists to inspire, equip, and support people from all backgrounds to build and innovate extraordinary businesses.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 ---
 

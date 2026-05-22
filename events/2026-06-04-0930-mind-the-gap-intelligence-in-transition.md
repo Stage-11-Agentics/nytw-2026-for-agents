@@ -26,6 +26,7 @@ remaining_capacity: 54
 total_guest_count: 143
 approved_guest_count: 96
 local_image: "images/JAFfRfnsp4ARFRlY4JnR.svg"
+canceled: false
 ---
 
 # Mind the Gap: Intelligence in Transition
@@ -77,6 +78,7 @@ Announced Speakers:
 - Rob Sloan - Zscalar
 - Judene Small - Partner, a16z
 - Fatima Tambajang - NVIDIA
+
 
 
 

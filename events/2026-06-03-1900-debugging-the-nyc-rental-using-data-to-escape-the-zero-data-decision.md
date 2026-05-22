@@ -22,6 +22,7 @@ is_capped: false
 total_guest_count: 7
 approved_guest_count: 6
 local_image: "images/67csjJfCRZMu8aQL8xes.jpg"
+canceled: false
 ---
 
 # Debugging the NYC Rental: Using Data to Escape "The Zero Data Decision"
@@ -58,6 +59,7 @@ HR to Housing: Why vetting your next landlord should look exactly like vetting y
 Goal: To equip the next wave of NYC residents with the tools to demand transparency and move with confidence.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["VrHDcKtkVwbGZQ2j9zctIs0m4Ow1", "7DFu4rITofNzKIjA7hCx", "KorIGqEy1iVecirMvTSTzrtpvm82", "D48sn5g2hzfWrCQM1ShPA0rCkAn1"]
 is_capped: false
-total_guest_count: 223
-approved_guest_count: 196
+total_guest_count: 231
+approved_guest_count: 223
 local_image: "images/iDvWUNFiXJGuAHCBID5O.png"
+canceled: false
 ---
 
 # Maersk presents: the ultimate goal of full-stack supply chain transformation
@@ -36,7 +37,7 @@ local_image: "images/iDvWUNFiXJGuAHCBID5O.png"
 **Hosts:** Rock Yard Ventures, Maersk  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 8:30am–10:30am ET
 **Where:** Manhattan · Manhattan, New York, NY · Union Square
-**Going:** 223
+**Going:** 223 of 231
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/iDvWUNFiXJGuAHCBID5O
 **Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -91,6 +92,7 @@ Rho is the all-in-one banking platform for startups. With banking set up in minu
 Rho is a fintech company, not a bank. Checking and card services are provided by Webster Bank, N.A., member FDIC; savings account services are provided by American Deposit Management Co. and its partner banks.
 
 This event is part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

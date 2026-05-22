@@ -21,22 +21,23 @@ at_capacity: false
 going_guest_count: 751
 badges: []
 fetch_status: ok
-owner_count: 4
-owner_ids: ["gHP8XmnWFZgTpeby0OuLecKXtuQ2", "7DFu4rITofNzKIjA7hCx", "tYcAfpofy7W5WVpP8OPgYmbKIyT2", "3s9kPU0wnsdzsoQ9wfiqB4FyCQX2"]
+owner_count: 5
+owner_ids: ["gHP8XmnWFZgTpeby0OuLecKXtuQ2", "7DFu4rITofNzKIjA7hCx", "tYcAfpofy7W5WVpP8OPgYmbKIyT2", "3s9kPU0wnsdzsoQ9wfiqB4FyCQX2", "xU6IEVHGJhNnORMucJ5DI6ytPN82"]
 is_capped: false
-total_guest_count: 754
+total_guest_count: 773
 approved_guest_count: 451
 local_image: "images/xsONW2ZNe84j144gdSMl.png"
+canceled: false
 ---
 
 # Building in the Age of AI: What Skills Founders, Operators, & Investors Are Looking For
 
 ![Building in the Age of AI: What Skills Founders, Operators, & Investors Are Looking For](images/xsONW2ZNe84j144gdSMl.png)
 
-**Hosts:** Columbia Business School  _(+3 more host(s) on Partiful — see description for full list)_
+**Hosts:** Columbia Business School  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 2:00pm–3:30pm ET
 **Where:** Columbia Business School · 665 West 130th Street, New York, NY 10027 · Upper Manhattan
-**Going:** 751 of 754
+**Going:** 751 of 773
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/xsONW2ZNe84j144gdSMl
 **Map:** https://www.google.com/maps/search/?api=1&query=665%20West%20130th%20Street%2C%20New%20York%2C%20NY%2010027
@@ -46,6 +47,7 @@ local_image: "images/xsONW2ZNe84j144gdSMl.png"
 - [Sunita Lokuge](https://partiful.com/u/gHP8XmnWFZgTpeby0OuLecKXtuQ2)
 - [Jaci Czarnecki Thompson](https://partiful.com/u/tYcAfpofy7W5WVpP8OPgYmbKIyT2)
 - [Gabriel M.](https://partiful.com/u/3s9kPU0wnsdzsoQ9wfiqB4FyCQX2)
+- [user `xU6IEVHGJhNnORMucJ5DI6ytPN82`](https://partiful.com/u/xU6IEVHGJhNnORMucJ5DI6ytPN82) _(name not resolved)_
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -60,6 +62,7 @@ From the skills investors are funding, to the curriculum being built for the nex
 Open to the CBS community first, then the public.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

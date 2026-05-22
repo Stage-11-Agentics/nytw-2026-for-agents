@@ -27,6 +27,7 @@ remaining_capacity: 174
 total_guest_count: 42
 approved_guest_count: 26
 local_image: "images/bn5h1g13xzOV6R5XkLaE.png"
+canceled: false
 ---
 
 # From Copilot to Control Plane - Visdom
@@ -94,6 +95,7 @@ If you're working on AI in software delivery, this is where it starts to actuall
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

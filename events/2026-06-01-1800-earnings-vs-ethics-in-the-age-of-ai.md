@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["yfowkCcZn5XD3B7IZlvw779N1lA2", "7DFu4rITofNzKIjA7hCx", "05gtv3ORzyZ7BWnxdI82iE1vptw2"]
 is_capped: false
-total_guest_count: 131
+total_guest_count: 132
 approved_guest_count: 77
 local_image: "images/U0LZzHA1qWQO0QvduT3C.png"
+canceled: false
 ---
 
 # Earnings vs. Ethics in the Age of AI
@@ -34,7 +35,7 @@ local_image: "images/U0LZzHA1qWQO0QvduT3C.png"
 **Hosts:** Kirkland & Ellis, Fordham University Gabelli School of Business  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:00pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 131
+**Going:** 131 of 132
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/U0LZzHA1qWQO0QvduT3C
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -57,6 +58,7 @@ Feature speakers include:
 The Fordham AI Business Hub is New York City’s new home for ethical, applied AI grounded in discipline-specific expertise, academic rigor, and experiential learning. The Hub connects companies, entrepreneurs, policymakers, students, and community partners to harness AI responsibly for growth, innovation, and meaningful impact.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

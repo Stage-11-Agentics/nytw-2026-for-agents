@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["jYU64rUKsFXlfSlqZeMbO3sZHga2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 76
-approved_guest_count: 68
+total_guest_count: 78
+approved_guest_count: 71
 local_image: "images/CNhLw58DXtAMPjBzhmSL.png"
+canceled: false
 ---
 
 # Before You Raise: What Investors Actually Check –
@@ -33,7 +34,7 @@ local_image: "images/CNhLw58DXtAMPjBzhmSL.png"
 **Hosts:** Ad Hoc Founders Counsel  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 11:30am–12:30pm ET
 **Where:** Virtual (NYC)
-**Going:** 76
+**Going:** 76 of 78
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/CNhLw58DXtAMPjBzhmSL
 
@@ -67,6 +68,7 @@ Learn more: www.founderscounsel.law
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 This session is for informational purposes only and does not constitute legal advice or create an attorney–client relationship.
+
 
 
 

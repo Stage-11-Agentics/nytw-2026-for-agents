@@ -26,6 +26,7 @@ is_capped: false
 total_guest_count: 94
 approved_guest_count: 33
 local_image: "images/dr4panHTBefqyiB4ggk4.jpg"
+canceled: false
 ---
 
 # Tea: Founder/CEO Self-Mastery - a Dialogue
@@ -63,6 +64,7 @@ The session will be facilitated by post exit founder, Peter Corbett who is widel
 The experience will take place in the format of a Tea Ceremony inside a 15’ Lotus Belle tent! 🎪 inside the Domino Sugar Factory.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

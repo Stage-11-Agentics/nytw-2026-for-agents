@@ -22,6 +22,7 @@ is_capped: false
 total_guest_count: 23
 approved_guest_count: 0
 local_image: "images/iQP19UAfSBvF0wGAzqwx.png"
+canceled: false
 ---
 
 # Snark Tank Comedy
@@ -45,6 +46,7 @@ local_image: "images/iQP19UAfSBvF0wGAzqwx.png"
 A Tech Week favorite. Founders pitch, and then investors and comedians give candid feedback. Email Elizabeth at eswaney@gmail.com to apply, or if you'd like to partner/sponsor. 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

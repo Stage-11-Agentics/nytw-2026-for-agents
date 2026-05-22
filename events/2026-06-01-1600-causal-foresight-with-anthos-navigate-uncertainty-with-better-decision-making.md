@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["W7DWBJuT8jczC4yGk3nUskoXDRv2", "A2piO1iWCL5kL8yppQ4E", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 10
-approved_guest_count: 3
+total_guest_count: 13
+approved_guest_count: 4
 local_image: "images/VP9dWPMJ5h3V8Wv5K4G5.jpg"
+canceled: false
 ---
 
 # Causal Foresight with Anthos: Navigate Uncertainty with Better Decision-Making.
@@ -36,7 +37,7 @@ local_image: "images/VP9dWPMJ5h3V8Wv5K4G5.jpg"
 **Hosts:** Anthos Systems  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 4:00pm–6:00pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 10
+**Going:** 10 of 13
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/VP9dWPMJ5h3V8Wv5K4G5
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -57,6 +58,7 @@ Anthos is a simulation platform that lets investors, philanthropies, and policym
 Join us for an intimate, hands-on workshop where you'll be among the first to see the platform in action. Anthos founders Devin Young (CEO) and DJ Passey (CTO) together with advisor C. Robin Castelli, MSc (former Global Head of Climate Modeling Analytics at Citibank), will walk you through live model demonstrations. Then, with the help of our AI agents, you'll build your own causal models in Anthos.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

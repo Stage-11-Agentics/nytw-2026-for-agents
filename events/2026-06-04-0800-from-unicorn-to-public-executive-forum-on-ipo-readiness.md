@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["nOM2FbGNkQXz5IXpwnhd", "mJTRVHb6DKUscjfCOXAM5RsL5CD2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 267
+total_guest_count: 269
 approved_guest_count: 0
 local_image: "images/R9L7G8gn58zhSRtBncv7.jpg"
+canceled: false
 ---
 
 # From unicorn to public: Executive forum on IPO readiness
@@ -36,7 +37,7 @@ local_image: "images/R9L7G8gn58zhSRtBncv7.jpg"
 **Hosts:** PwC, NYSE  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 8:00am–10:30am ET
 **Where:** Financial District · Financial District, Manhattan, New York, NY · Financial District
-**Going:** 267
+**Going:** 267 of 269
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/R9L7G8gn58zhSRtBncv7
 **Map:** https://www.google.com/maps/search/?api=1&query=Financial%20District%2C%20Financial%20District%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -61,6 +62,7 @@ Through candid discussion and practical perspectives, attendees will gain insigh
 Location: New York Stock Exchange, 11 Wall Street, New York, NY
 
 This event is part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

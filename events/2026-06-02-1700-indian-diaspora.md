@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["jQTV3s22ZTTnSPuHnKKW", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 101
+total_guest_count: 103
 approved_guest_count: 0
 local_image: "images/b21AYGlO0gIMQGNwjXg5.png"
+canceled: false
 ---
 
 # Indian Diaspora @
@@ -34,7 +35,7 @@ local_image: "images/b21AYGlO0gIMQGNwjXg5.png"
 **Hosts:** Inkle  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:00pm ET
 **Where:** Tribeca · Tribeca, Manhattan, New York, NY · Tribeca
-**Going:** 101
+**Going:** 101 of 103
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/b21AYGlO0gIMQGNwjXg5
 **Map:** https://www.google.com/maps/search/?api=1&query=Tribeca%2C%20Tribeca%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -55,6 +56,7 @@ All Indian founders travelling to New York for tech week - come make friends and
 (more to come .......)
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

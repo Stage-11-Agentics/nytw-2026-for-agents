@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["qeReXwU0yJUFN6fMvcpPfPfnChv2", "7DFu4rITofNzKIjA7hCx", "nstX806JebdvWYqjL2gkz6qLIq82", "wQOrXhOt58Phx2sklobcd6GmkeA3"]
 is_capped: false
-total_guest_count: 1084
-approved_guest_count: 17
+total_guest_count: 1106
+approved_guest_count: 20
 local_image: "images/YFlFyVXYl8MFYSUapd3o.png"
+canceled: false
 ---
 
 # Stripe x a16z Supper Club
@@ -36,7 +37,7 @@ local_image: "images/YFlFyVXYl8MFYSUapd3o.png"
 **Hosts:** Stripe  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:00pm–8:30pm ET
 **Where:** Lower East Side · Lower East Side, Manhattan, New York, NY · SoHo
-**Going:** 1082 of 1084
+**Going:** 1082 of 1106
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/YFlFyVXYl8MFYSUapd3o
 **Map:** https://www.google.com/maps/search/?api=1&query=Lower%20East%20Side%2C%20Lower%20East%20Side%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -70,6 +71,7 @@ Strictly Exclusive: This event is reserved for venture-funded founders currently
 Invite-Only: Space is extremely limited to maintain the intimacy and candor of the conversation.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

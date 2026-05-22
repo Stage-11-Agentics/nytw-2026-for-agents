@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 549
 approved_guest_count: 0
 local_image: "images/vMgh1HOU0xqBmBJdxwCI.jpg"
+canceled: false
 ---
 
 # Jetzy presents: The Future of Travel - Meet Investors and Founders
@@ -93,6 +94,7 @@ https://jetzy.com/download.html
 Invite Code: Jetzy-me
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

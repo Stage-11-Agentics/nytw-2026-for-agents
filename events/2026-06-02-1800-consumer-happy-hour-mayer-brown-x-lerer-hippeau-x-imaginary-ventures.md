@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 7
 owner_ids: ["NA53ITjVONNi2ZMTxqgykrmRCJp1", "U7tpZmPUGESSEbhU4KRWWQ22gkj1", "7DFu4rITofNzKIjA7hCx", "RlC8MVhyybWtRiFyv81wh9nuBpx2", "mxXXadWt01fXcMqeain257xU7Az2", "EfWxe0gNPdb3O3AwlKMktEvATGz1", "GO6bKszQj3SrXuwYnO8KJXTKIbo1"]
 is_capped: false
-total_guest_count: 479
+total_guest_count: 492
 approved_guest_count: 174
 local_image: "images/8Ebmn6EyMiu19uevP7x4.jpg"
+canceled: false
 ---
 
 # Consumer Happy Hour:
@@ -38,7 +39,7 @@ local_image: "images/8Ebmn6EyMiu19uevP7x4.jpg"
 **Hosts:** Mayer Brown LLP, Lerer Hippeau, Imaginary Ventures  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–8:00pm ET
 **Where:** Jac’s on Bond · 26 Bond St, New York, NY 10012 · SoHo
-**Going:** 479
+**Going:** 479 of 492
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/8Ebmn6EyMiu19uevP7x4
 **Map:** https://www.google.com/maps/search/?api=1&query=26%20Bond%20St%2C%20New%20York%2C%20NY%2010012
@@ -61,6 +62,7 @@ Please join us as we kick off NY Tech Week with cocktails and conversation, brin
 Hosted by Mayer Brown, Lerer Hippeau, and Imaginary Ventures.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

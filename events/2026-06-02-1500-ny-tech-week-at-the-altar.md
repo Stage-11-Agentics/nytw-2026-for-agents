@@ -20,9 +20,10 @@ owner_ids: ["qUwBOhIDmaYHaDjqby6yshr0Xyb2", "7DFu4rITofNzKIjA7hCx", "2lKgr4Ey6hX
 is_capped: true
 max_capacity: 40
 remaining_capacity: 0
-total_guest_count: 85
+total_guest_count: 86
 approved_guest_count: 0
 local_image: "images/KlS7UfwRDZbVeru6kvqq.png"
+canceled: false
 ---
 
 # NY TECH WEEK 
@@ -54,6 +55,7 @@ Communal guided sauna and cold plunge experience in The Altar's Atrium. Move thr
 Chat with one of our in-house nurses who will offer medically supervised peptide shots and NAD+ injections on-site, alongside compression boots, red light panels and muscle guns.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

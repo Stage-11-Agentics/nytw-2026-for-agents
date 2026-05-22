@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["7YEsFCf5VIfKNXZK1ufTypAfkpT2", "7DFu4rITofNzKIjA7hCx", "DZSlsEjLpxOq4GpfoFOiDNUEVyn1"]
 is_capped: false
-total_guest_count: 78
+total_guest_count: 80
 approved_guest_count: 0
 local_image: "images/yTqgggQ3ob59khjHM9F9.png"
+canceled: false
 ---
 
 # Startup Friends - Coffee & Chill by Satori & Seedlegals
@@ -34,7 +35,7 @@ local_image: "images/yTqgggQ3ob59khjHM9F9.png"
 **Hosts:** Satori, Seedlegals  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 12:30pm ET
 **Where:** Sheep Meadow · West Side between 66th and 69th, New York, NY 10028 · Central Park
-**Going:** 72 of 78
+**Going:** 72 of 80
 **RSVP:** https://partiful.com/e/yTqgggQ3ob59khjHM9F9
 **Map:** https://www.google.com/maps/search/?api=1&query=West%20Side%20between%2066th%20and%2069th%2C%20New%20York%2C%20NY%2010028
 
@@ -60,6 +61,7 @@ local_image: "images/yTqgggQ3ob59khjHM9F9.png"
 SeedLegals is your full-stack legal platform from incorporation to Series A and beyond. Our tools make it simple to create and sign essential legal docs, close funding rounds, and reward your team – without burning time or cash on admin. Learn more at https://seedlegals.com/us/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

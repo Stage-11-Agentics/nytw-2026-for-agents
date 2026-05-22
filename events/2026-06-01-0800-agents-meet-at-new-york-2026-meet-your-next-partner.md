@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["v39DX5JwOj8UWyW1W6HR", "7DFu4rITofNzKIjA7hCx", "WhUATdxmi2gF0RBfsr8oNNsg7nN2", "IS60pU04ebMi66MuQrYaExkmEWB3"]
 is_capped: false
-total_guest_count: 242
+total_guest_count: 248
 approved_guest_count: 9
 local_image: "images/xEcp6n0qYyUuFZdbVauV.png"
+canceled: false
 ---
 
 # Agents Meet at New York 2026: Meet Your Next Partner
@@ -36,7 +37,7 @@ local_image: "images/xEcp6n0qYyUuFZdbVauV.png"
 **Hosts:** Walnut AI  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 8:00am–4:00pm ET
 **Where:** Brooklyn · Brooklyn, New York, NY · Brooklyn
-**Going:** 242
+**Going:** 242 of 248
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/xEcp6n0qYyUuFZdbVauV
 **Map:** https://www.google.com/maps/search/?api=1&query=Brooklyn%2C%20Brooklyn%2C%20New%20York%2C%20NY
@@ -68,6 +69,7 @@ Jun 1, 2:00 – 4:00 PM → Join us for an in-person networking session at a caf
 We look forward to seeing you there!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

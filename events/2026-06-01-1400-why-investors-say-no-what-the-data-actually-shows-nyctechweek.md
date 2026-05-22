@@ -24,9 +24,10 @@ owner_ids: ["g15JNcqGnCXWDKwQuC4A6mTz46I2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 120
 remaining_capacity: 63
-total_guest_count: 80
+total_guest_count: 81
 approved_guest_count: 57
 local_image: "images/tITnWmy3y2QvpNeyg6tS.png"
+canceled: false
 ---
 
 # Why Investors Say No; What the Data Actually Shows #NYCTechWeek
@@ -61,6 +62,7 @@ We're bringing together investors and founders who've been on both sides of that
 This is a small-format fireside designed for honest conversation, not polished talking points. 30-50 seats. Founders raising now and investors actively deploying.
 
 This event is a part of #NYCTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

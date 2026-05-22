@@ -29,6 +29,7 @@ remaining_capacity: 11
 total_guest_count: 10
 approved_guest_count: 1
 local_image: "images/foEPEVCrozyJZCN4W19S.png"
+canceled: false
 ---
 
 # The Alignment Lab: a Live Experience to Reveal Your Human Advantages & Navigate Complexity
@@ -68,6 +69,7 @@ Maria Lai is a product architect and leader. Maria is passionate about building 
 A limited number of pay-what-you-can spaces are available for those experiencing extenuating circumstances. If this applies to you, please RSVP and venmo what you’re able to contribute.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

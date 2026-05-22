@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["ngH3uDjK0vMWaNZcIZo9", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 809
+total_guest_count: 818
 approved_guest_count: 560
 local_image: "images/Vkqzm6uJ1LkUk8bVBQU7.png"
+canceled: false
 ---
 
 # Masters of Scale Live with IBM CEO Arvind Krishna Session & Reception
@@ -36,7 +37,7 @@ local_image: "images/Vkqzm6uJ1LkUk8bVBQU7.png"
 **Hosts:** IBM  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 3:00pm–5:00pm ET
 **Where:** IBM One Madison Avenue · 1 Madison Ave, FL 2, New York, NY 10010 · Flatiron
-**Going:** 809
+**Going:** 809 of 818
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Vkqzm6uJ1LkUk8bVBQU7
 **Map:** https://www.google.com/maps/search/?api=1&query=1%20Madison%20Ave%2C%20FL%202%2C%20New%20York%2C%20NY%2010010
@@ -60,6 +61,7 @@ This event is on a first come, first served basis. Please arrive early to claim 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 IBM may take group photos or perform live streaming during the event for promotional purposes.
+
 
 
 

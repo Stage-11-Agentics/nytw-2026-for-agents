@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["2rwgLM4MnJa3iDwjfJt80CBU7b03", "7DFu4rITofNzKIjA7hCx", "jKTIIf0dq8dlXq3z12ydH1DifV42"]
 is_capped: false
-total_guest_count: 163
+total_guest_count: 167
 approved_guest_count: 135
 local_image: "images/nMHSe5NbSjJJLWaJJeDl.png"
+canceled: false
 ---
 
 # Cofounder Matchmaking
@@ -34,7 +35,7 @@ local_image: "images/nMHSe5NbSjJJLWaJJeDl.png"
 **Hosts:** Relationality, DefinedTalent  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 4:00pm ET
 **Where:** Sweet Linda · 29 Second Avenue, New York, NY 10003 · East Village
-**Going:** 163
+**Going:** 163 of 167
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/nMHSe5NbSjJJLWaJJeDl
 **Map:** https://www.google.com/maps/search/?api=1&query=29%20Second%20Avenue%2C%20New%20York%2C%20NY%2010003
@@ -73,6 +74,7 @@ Come ReDefine what alignment can look like in business and beyond.
 Learn more at www.relationalityforwork.com and www.definedtalent.com
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

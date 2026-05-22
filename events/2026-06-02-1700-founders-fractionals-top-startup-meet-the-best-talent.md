@@ -25,10 +25,11 @@ owner_count: 3
 owner_ids: ["ix7kL3E62KVYGBYcyFNZdu2eT5y2", "7DFu4rITofNzKIjA7hCx", "kut1cgTTsOV1rAVqKcGZzCR2IKG3"]
 is_capped: true
 max_capacity: 150
-remaining_capacity: 47
-total_guest_count: 128
-approved_guest_count: 103
+remaining_capacity: 41
+total_guest_count: 131
+approved_guest_count: 109
 local_image: "images/vLLvbzyVeYg1xvWK0FTi.png"
+canceled: false
 ---
 
 # Founders & Fractionals: Top startup, meet the best talent
@@ -38,7 +39,7 @@ local_image: "images/vLLvbzyVeYg1xvWK0FTi.png"
 **Hosts:** Build Momentum, Founders and Fractionals  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:00pm–8:00pm ET
 **Where:** New York, NY · New York, NY · Lower East Side
-**Capacity:** capped at 150 · 103 taken, 47 remaining
+**Capacity:** capped at 150 · 109 taken, 41 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/vLLvbzyVeYg1xvWK0FTi
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -79,6 +80,7 @@ Register to be eligible for a complimentary 15-minute post-event strategy call w
 Event location shared upon approval.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

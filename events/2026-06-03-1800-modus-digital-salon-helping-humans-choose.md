@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 40
 approved_guest_count: 2
 local_image: "images/ph7PbMda2wCCpzRmLh1H.png"
+canceled: false
 ---
 
 # Modus Digital Salon: Helping Humans Choose
@@ -64,6 +65,7 @@ Nerjada Maksutaj Oflazer, Product Management, Google DeepMind
 Hosted by Kristen Kulenych, Chief Experience Officer, Modus Digital.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

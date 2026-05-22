@@ -29,6 +29,7 @@ remaining_capacity: 58
 total_guest_count: 39
 approved_guest_count: 22
 local_image: "images/yVM17p4sbb6XGNUq8Odp.png"
+canceled: false
 ---
 
 # AI Search: Off the Record
@@ -70,6 +71,7 @@ Schedule:
 7:30 PM - Refreshments + networking
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

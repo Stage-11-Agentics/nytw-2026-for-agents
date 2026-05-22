@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 66
 approved_guest_count: 65
 local_image: "images/TGzSQYaHYTCxI1gx0M4h.png"
+canceled: false
 ---
 
 # Orbitour AI x XGRIDS: How Spatial AI Sells Real Estate and Engages Museum Audiences
@@ -65,6 +66,7 @@ Two real case studies that night:
 Plus a panel with leaders from The New York Times, and major venue platforms across NYC. Full lineup coming soon.
 
 Co-hosting with XGRIDS, who'll be unveiling LCC2 the same night. Hands-on demo stations, finger food, and drinks after.
+
 
 
 

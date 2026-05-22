@@ -25,9 +25,10 @@ owner_ids: ["zi6XphOiU3PIZDPGD4c5", "7DFu4rITofNzKIjA7hCx", "XzC2hqh6flicrw32ama
 is_capped: true
 max_capacity: 80
 remaining_capacity: 42
-total_guest_count: 142
+total_guest_count: 147
 approved_guest_count: 38
 local_image: "images/NSLiWDiJVzPWl0DyQcDU.png"
+canceled: false
 ---
 
 # AI-Native Services: Founders Panel –
@@ -58,6 +59,7 @@ Services markets — legal, finance, insurance, compliance — represent over $1
 This panel brings together a curated group of founders building in that category, alongside the investors backing them, to work through the questions that are top of mind in the space right now: Where does AI replace the service, and where does it only make the service faster? And what are the pitfalls, technical and otherwise, that founders building AI-native services most commonly encounter?
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

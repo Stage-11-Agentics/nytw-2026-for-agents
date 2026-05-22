@@ -25,9 +25,10 @@ owner_ids: ["t4RZ753bSmbpbzgoKKyHaYa6NEg2", "7DFu4rITofNzKIjA7hCx", "lTJU3z7fVIX
 is_capped: true
 max_capacity: 350
 remaining_capacity: 117
-total_guest_count: 462
+total_guest_count: 471
 approved_guest_count: 233
 local_image: "images/eVXwspZygA7cPx3Tjgnw.png"
+canceled: false
 ---
 
 # Build Agent-first Companies with Hyperagent
@@ -60,6 +61,7 @@ The room votes. Winner takes an additional grand prize.
 Everyone leaves with $10K in Hyperagent credits to spin up their own agent team.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

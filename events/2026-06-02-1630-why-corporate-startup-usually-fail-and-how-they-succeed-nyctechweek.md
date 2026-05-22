@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["19XqLXgzBJyVGsTpRwCr", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 47
+total_guest_count: 48
 approved_guest_count: 32
 local_image: "images/GIL3nPFjeoczGdirM7Cr.png"
+canceled: false
 ---
 
 # Why Corporate × Startup Usually Fail -And How They Succeed?🍣 #NYCTechWeek
@@ -35,7 +36,7 @@ local_image: "images/GIL3nPFjeoczGdirM7Cr.png"
 **Hosts:** Elev X! by NEC X  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:30pm–6:30pm ET
 **Where:** 55 W 46th St, New York, NY 10036 · Midtown
-**Going:** 46 of 47
+**Going:** 46 of 48
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/GIL3nPFjeoczGdirM7Cr
 **Map:** https://www.google.com/maps/search/?api=1&query=55%20W%2046th%20St%2C%20New%20York%2C%20NY%2010036
@@ -72,6 +73,7 @@ Register AND fill out the Pitch Application Form to apply. A limited number of s
 Spots are limited and curated. Apply to join the room.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

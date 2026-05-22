@@ -20,9 +20,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["4r1CIfaQQQPa4kMHUpZpu2Kyl2k2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 69
+total_guest_count: 70
 approved_guest_count: 0
 local_image: "images/S6Qa7oltBDN0RiFeWCP6.png"
+canceled: false
 ---
 
 # Off the Record: AI, Liability & What’s Actually Coming ⚖️
@@ -32,7 +33,7 @@ local_image: "images/S6Qa7oltBDN0RiFeWCP6.png"
 **Hosts:** XL AI  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
 **Where:** East Village
-**Going:** 64 of 69
+**Going:** 64 of 70
 **RSVP:** https://partiful.com/e/S6Qa7oltBDN0RiFeWCP6
 
 ### Hosts on Partiful
@@ -77,6 +78,7 @@ If you should be in this room—you already know.
 —
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

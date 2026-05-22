@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 8
 approved_guest_count: 0
 local_image: "images/TyWioDVBdTPLR3y80ZtJ.png"
+canceled: false
 ---
 
 # "Unlocking the Youth Market with Age-Aware Design" Roundtable / Workshop
@@ -52,6 +53,7 @@ Join Vaishnavi J, Founder of Vys, for a working session on how to turn youth saf
 For founders, investors, and product leaders. Come with the hard questions you can't ask in your all hands.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

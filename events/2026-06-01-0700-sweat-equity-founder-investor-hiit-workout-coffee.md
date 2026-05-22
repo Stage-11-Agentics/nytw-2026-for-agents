@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["ix7kL3E62KVYGBYcyFNZdu2eT5y2", "7DFu4rITofNzKIjA7hCx", "kut1cgTTsOV1rAVqKcGZzCR2IKG3"]
 is_capped: false
-total_guest_count: 230
+total_guest_count: 233
 approved_guest_count: 0
 local_image: "images/TbbdKjbVcYRMaHyA5PTp.png"
+canceled: false
 ---
 
 # Sweat Equity: Founder + Investor HIIT Workout & Coffee
@@ -33,7 +34,7 @@ local_image: "images/TbbdKjbVcYRMaHyA5PTp.png"
 **Hosts:** Build Momentum, Founders and Fractioals  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 7:00am–8:45am ET
 **Where:** Greenwich Village
-**Going:** 229 of 230
+**Going:** 229 of 233
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/TbbdKjbVcYRMaHyA5PTp
 
@@ -74,6 +75,7 @@ Schedule
 Come ready to move, meet sharp founders and investors, and start Tech Week with momentum.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 6
 owner_ids: ["FWU6zXVH0qZbbPq3lomB2ZWfKRT2", "7DFu4rITofNzKIjA7hCx", "iWo82h1ANVTansHF9NVS", "chYEv4858OzM9E1jkvnD", "RaQek3Rt70UMU22XRGjy3af1RGR2", "lRbsUBShN5NFJm0ApjAbfAgWpaE2"]
 is_capped: false
-total_guest_count: 143
+total_guest_count: 149
 approved_guest_count: 5
 local_image: "images/qxjNrusOA1hYxqATXnsn.png"
+canceled: false
 ---
 
 # Private AI x Private Equity and Fund Operators Dinner ft. MD at Insights Partners ($90B+ AUM)
@@ -33,7 +34,7 @@ local_image: "images/qxjNrusOA1hYxqATXnsn.png"
 **Hosts:** Supermomos  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:30pm–8:30pm ET
 **Where:** Midtown
-**Going:** 143
+**Going:** 143 of 149
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/qxjNrusOA1hYxqATXnsn
 
@@ -75,6 +76,7 @@ $3K bonus with $500K deposit, 3% cash back, 6 months free HR & payroll, and 50% 
 Zendesk: Meet your favorite startup’s favorite CX solution. Trusted by more than 50,000 founders, Zendesk for Startups delivers world-class AI-powered support at no cost for up to 6 months. No developer? No problem. Zendesk works out of the box AND scales. Your data is kept safe and your customers are delighted. Plus, native, intelligent AI agents resolve over 80% of routine tickets, freeing your team to drive growth and innovation. Get started today and unlock exclusive discounts from Zendesk partners like AWS, Google Cloud, and more: https://tinyurl.com/3v4chnat
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

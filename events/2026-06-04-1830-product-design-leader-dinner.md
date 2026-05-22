@@ -27,6 +27,7 @@ remaining_capacity: 2
 total_guest_count: 83
 approved_guest_count: 6
 local_image: "images/0LzOTdMr0JBCzNfr1jKz.png"
+canceled: false
 ---
 
 # Product design leader dinner
@@ -64,6 +65,7 @@ This event is brought to you by Koi Studios (https://www.koistudios.io/)
 -----
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

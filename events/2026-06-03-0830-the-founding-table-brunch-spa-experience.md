@@ -25,9 +25,18 @@ is_capped: false
 total_guest_count: 15
 approved_guest_count: 0
 local_image: "images/bkKnnXki0QaAP3cUZvPD.png"
+canceled: true
+canceled_at: "2026-05-18T23:44:30.323Z"
+canceled_by: "3s0uYdxiWwQPHaiA9cardg6O1bp2"
+cancellation_message: "We merged this event with https://partiful.com/e/EDvSG5uaWJ1DJVAlgj6q"
 ---
 
 # The Founding Table: Brunch & Spa Experience
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-18T23:44:30.323Z_  
+>  
+> We merged this event with https://partiful.com/e/EDvSG5uaWJ1DJVAlgj6q
 
 ![The Founding Table: Brunch & Spa Experience](images/bkKnnXki0QaAP3cUZvPD.png)
 
@@ -59,6 +68,7 @@ Spots are extremely limited. If you received this link, you're already on the sh
 Seed stage · AI founders · 20 guests maximum
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

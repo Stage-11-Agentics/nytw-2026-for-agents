@@ -19,10 +19,11 @@ owner_count: 5
 owner_ids: ["8T6Negdyeqg2lWHyYOc9V5JZDU82", "7DFu4rITofNzKIjA7hCx", "hUK0qmvI0TQUJ1T5gWr4zLdNFe92", "yqDw3a93S2ZF0RThE1DninSTqLH2", "tX3vaibCLgQCzAFfpmqdbrcPPVp1"]
 is_capped: true
 max_capacity: 130
-remaining_capacity: 13
-total_guest_count: 125
+remaining_capacity: 12
+total_guest_count: 126
 approved_guest_count: 0
 local_image: "images/Mj2iNm6MWK3WnCtIHaRb.png"
+canceled: false
 ---
 
 # From Classroom to Civic Life: How Innovative Tech Is Reshaping Education and Democracy
@@ -32,7 +33,7 @@ local_image: "images/Mj2iNm6MWK3WnCtIHaRb.png"
 **Hosts:** New Rising Ventures  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:45pm ET
 **Where:** Midtown
-**Capacity:** capped at 130 · 117 taken, 13 remaining
+**Capacity:** capped at 130 · 118 taken, 12 remaining
 **RSVP:** https://partiful.com/e/Mj2iNm6MWK3WnCtIHaRb
 
 ### Hosts on Partiful
@@ -53,6 +54,7 @@ Moderated by Liz Willen, editor-in-chief of The Hechinger Report, the event feat
 The event will include a networking reception with drinks and light bites, offering a unique chance to connect with professionals, foundations, investors and changemakers. Discover how education technology is shaping a more equitable and engaging future for all.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

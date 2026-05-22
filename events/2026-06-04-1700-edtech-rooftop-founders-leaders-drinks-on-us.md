@@ -26,9 +26,10 @@ owner_ids: ["rWyzTMuijcPngCfPEbCyqymCLYp1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 40
 remaining_capacity: -4
-total_guest_count: 136
+total_guest_count: 141
 approved_guest_count: 44
 local_image: "images/v5HOrZHjo2oq7YvxwxYx.png"
+canceled: false
 ---
 
 # EdTech Rooftop: Founders & Leaders (Drinks on us)
@@ -71,6 +72,7 @@ Exact address will be shared upon approval.
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

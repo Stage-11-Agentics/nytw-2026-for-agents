@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["X4zClxB590hKufMYyCXb", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 53
-approved_guest_count: 15
+total_guest_count: 56
+approved_guest_count: 16
 local_image: "images/D46hAuAjMEYlwq69AJ0c.png"
+canceled: false
 ---
 
 # Synthetic Audiences, Real Consequences
@@ -34,7 +35,7 @@ local_image: "images/D46hAuAjMEYlwq69AJ0c.png"
 **Hosts:** Panoplai  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:30pm ET
 **Where:** Pianos · 158 Ludlow St, New York, NY 10002 · Lower East Side
-**Going:** 53
+**Going:** 53 of 56
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/D46hAuAjMEYlwq69AJ0c
 **Map:** https://www.google.com/maps/search/?api=1&query=158%20Ludlow%20St%2C%20New%20York%2C%20NY%2010002
@@ -71,6 +72,7 @@ Moderated by Josh Ingram, TheMostWanted.
 Panel discussion followed by happy hour at Pianos NYC.
 
 www.panoplai.com
+
 
 
 

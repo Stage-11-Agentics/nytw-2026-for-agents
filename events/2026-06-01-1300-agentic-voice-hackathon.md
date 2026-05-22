@@ -21,19 +21,29 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["LcZD2hHcN8bugyJLSW7lnXD2N4k1", "7DFu4rITofNzKIjA7hCx", "UH7VYlZKNqMB5wcwLWIM403EjAs2"]
 is_capped: false
-total_guest_count: 69
-approved_guest_count: 68
+total_guest_count: 68
+approved_guest_count: 67
 local_image: "images/E915u2aKmufVgYwg0Cdf.png"
+canceled: true
+canceled_at: "2026-05-11T18:05:47.944Z"
+canceled_by: "LcZD2hHcN8bugyJLSW7lnXD2N4k1"
+cancellation_message: "Sorry, that we have to cancel.\nAir France canceled our flights and we will not be able to get to NY for Tech Week."
 ---
 
 # Agentic Voice Hackathon
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-11T18:05:47.944Z_  
+>  
+> Sorry, that we have to cancel.  
+> Air France canceled our flights and we will not be able to get to NY for Tech Week.
 
 ![Agentic Voice Hackathon](images/E915u2aKmufVgYwg0Cdf.png)
 
 **Hosts:** Cloudonix, Inc  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 1:00pm–5:00pm ET
 **Where:** Financial District
-**Going:** 69
+**Going:** 69 of 68
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/E915u2aKmufVgYwg0Cdf
 
@@ -109,6 +119,7 @@ Who Should Participate
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.   
 This event is sponsored by The Front Yard at Pace University.  Learn more about their entrepreneur program at So use this 
 https://www.linkedin.com/company/the-front-yard-at-pace-university
+
 
 
 

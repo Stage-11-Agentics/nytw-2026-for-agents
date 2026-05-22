@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["ns2bYgfP2nfQ4kB18F5ghTAx9Zj1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 35
+total_guest_count: 38
 approved_guest_count: 0
 local_image: "images/7UpZe9eo90pwQSpSutZ0.png"
+canceled: false
 ---
 
 # DWD - Wearing the Future: Culture, Capital & Community - (Women Only)
@@ -35,7 +36,7 @@ local_image: "images/7UpZe9eo90pwQSpSutZ0.png"
 **Hosts:** Mothers to Daughters  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 12:00pm–3:00pm ET
 **Where:** New York · New York, NY · Union Square
-**Going:** 35
+**Going:** 35 of 38
 **RSVP:** https://partiful.com/e/7UpZe9eo90pwQSpSutZ0
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20New%20York%2C%20NY
 
@@ -73,6 +74,7 @@ Mothers to Daughters’ vision is to help launch 100,000 women entrepreneurs by 
 For inquiries, please contact: francine@motherstodaughters.org
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

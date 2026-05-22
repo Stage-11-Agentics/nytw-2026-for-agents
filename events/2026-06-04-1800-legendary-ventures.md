@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["BemGKqA7OyeSmkTQhk8sp9ULmd12", "c2m4vHTsvbUZNdWv2WkOI0NXA042", "kwQWFf8DhgVTLSVj2uaYRoajvVm2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 279
+total_guest_count: 283
 approved_guest_count: 0
 image_download_error: "HTTP Error 403: Forbidden"
+canceled: false
 ---
 
 # Legendary Ventures
@@ -33,7 +34,7 @@ image_download_error: "HTTP Error 403: Forbidden"
 **Hosts:** Legendary Ventures  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
 **Where:** W - Times Square · 1567 Broadway, New York, NY 10036 · Midtown
-**Going:** 266 of 279
+**Going:** 266 of 283
 **RSVP:** https://partiful.com/e/sVle9BfwwyLeKURBoPEC
 **Map:** https://www.google.com/maps/search/?api=1&query=1567%20Broadway%2C%20New%20York%2C%20NY%2010036
 
@@ -50,6 +51,7 @@ image_download_error: "HTTP Error 403: Forbidden"
 Legendary Ventures is hosting an exclusive shindig for investors, founders, and entrepreneurs to share, learn, and engage each other in the VC ecosystem. Availability is limited to thirty (30) people.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

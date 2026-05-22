@@ -23,10 +23,11 @@ owner_count: 2
 owner_ids: ["hLE16Ix2T6WoGx58IQXoQEKXWoQ2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 40
-remaining_capacity: 0
-total_guest_count: 80
-approved_guest_count: 40
+remaining_capacity: -1
+total_guest_count: 81
+approved_guest_count: 41
 local_image: "images/hyK62JYZ42Vc6YqsIeWq.png"
+canceled: false
 ---
 
 # Human in the Loop: Women in Tech AI Speed Networking
@@ -36,7 +37,7 @@ local_image: "images/hyK62JYZ42Vc6YqsIeWq.png"
 **Hosts:** Salesforce Women in Tech NYC Community Group  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:30pm ET
 **Where:** Pier 57 · 25 11th Ave, New York, NY 10011 · Chelsea
-**Capacity:** capped at 40 · 40 taken, 0 remaining · ⚠ **FULL**
+**Capacity:** capped at 40 · 41 taken, -1 remaining
 **Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/hyK62JYZ42Vc6YqsIeWq
@@ -59,6 +60,7 @@ After you RSVP, you'll answer 5 quick questions — takes under 2 minutes. Your 
 Part of #NYTechWeek 2026 | Brought to you by the Salesforce Women in Tech NYC Community Group
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

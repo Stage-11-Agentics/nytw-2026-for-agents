@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 6
 approved_guest_count: 1
 local_image: "images/mG8lr0MOZDcE9Aid3QXR.png"
+canceled: false
 ---
 
 # The $15M Founder Forum: Private Lunch at
@@ -76,6 +77,7 @@ What You Walk Away With:
 Space is strictly limited to 24 seats to ensure high-quality interaction.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

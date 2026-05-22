@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 35
 approved_guest_count: 0
 local_image: "images/1fK2CqrZyzHrEaBIKJKI.png"
+canceled: false
 ---
 
 # ​SMB Healthcare Benefits Luncheon
@@ -61,6 +62,7 @@ Learn more about our tech-enabled dental plans here. https://dentalfynd.us/patie
 Questions? Reach us at hello@dentalfynd.com.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

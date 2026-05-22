@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 65
 approved_guest_count: 1
 local_image: "images/o3Ux5EmDllYV8E8yuJMA.png"
+canceled: false
 ---
 
 # Max Her Potential — by AI Valley × MiniMax
@@ -90,6 +91,7 @@ Who Should Attend
 • Investors and ecosystem partners
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

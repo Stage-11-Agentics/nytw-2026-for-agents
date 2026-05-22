@@ -25,10 +25,11 @@ owner_count: 2
 owner_ids: ["LZTfYgmJPpeCWBeCoo2B", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 500
-remaining_capacity: 175
-total_guest_count: 332
-approved_guest_count: 325
+remaining_capacity: 165
+total_guest_count: 339
+approved_guest_count: 335
 local_image: "images/o1qradCjiAlnUg3c6ZWj.png"
+canceled: false
 ---
 
 # Build Mode: How RevOps & GTM Teams Are Becoming AI-Powered Builders
@@ -38,7 +39,7 @@ local_image: "images/o1qradCjiAlnUg3c6ZWj.png"
 **Hosts:** HubSpot  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–8:00pm ET
 **Where:** Bowery · Bowery, Manhattan, New York, NY · SoHo
-**Capacity:** capped at 500 · 325 taken, 175 remaining
+**Capacity:** capped at 500 · 335 taken, 165 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/o1qradCjiAlnUg3c6ZWj
 **Map:** https://www.google.com/maps/search/?api=1&query=Bowery%2C%20Bowery%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -72,6 +73,7 @@ Want to demo or be a speaker? Tell us more in the form and/or reach out to dev-c
 By RSVPing to this event, you agree to abide by our Builder Event Code of Conduct: https://developers.hubspot.com/builder-events-code-of-conduct
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

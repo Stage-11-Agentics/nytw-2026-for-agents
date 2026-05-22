@@ -26,9 +26,10 @@ owner_ids: ["Ktt4pgkBAfRbWsA1IZQzomlYPLx1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 100
 remaining_capacity: 75
-total_guest_count: 98
+total_guest_count: 103
 approved_guest_count: 25
 local_image: "images/FenpRxL7UHuPW7xxXEjB.jpg"
+canceled: false
 ---
 
 # Israel Founders Mission NYC: Opening Cocktail
@@ -87,6 +88,7 @@ Confirmed guests will receive a calendar invitation (non-transferable). Addition
 ​If you do not agree to these terms, please do not attend.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

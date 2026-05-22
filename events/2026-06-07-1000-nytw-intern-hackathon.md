@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["X4cYB9FoB3alAa6gHRZ2XtH1JLA2", "7DFu4rITofNzKIjA7hCx", "ofYzIubzOnJBiXRDYVLS"]
 is_capped: false
-total_guest_count: 235
-approved_guest_count: 41
+total_guest_count: 234
+approved_guest_count: 43
 local_image: "images/Ve6Zk5IVb4UQkiDDcpYg.png"
+canceled: false
 ---
 
 # NYTW Intern Hackathon
@@ -36,7 +37,7 @@ local_image: "images/Ve6Zk5IVb4UQkiDDcpYg.png"
 **Hosts:** Hackathon Company of California  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Sunday, June 7, 2026 · 10:00am–10:00pm ET
 **Where:** New York, NY · New York, NY · Meatpacking District
-**Going:** 235
+**Going:** 235 of 234
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Ve6Zk5IVb4UQkiDDcpYg
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -56,6 +57,7 @@ Hosted by The Hackathon Company of California.
 www.hackathoncompany.com
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

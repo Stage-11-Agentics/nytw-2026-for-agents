@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 71
 approved_guest_count: 67
 local_image: "images/mlTKGO4ougVZjKKQNAJk.png"
+canceled: false
 ---
 
 # AI Game Dev Mini- Hackathon (by Vevey!) - #NYCTechWeek
@@ -51,6 +52,7 @@ local_image: "images/mlTKGO4ougVZjKKQNAJk.png"
 Come build your own video game from scratch in just one afternoon! Using Vevey's AI-powered platform, you will go from idea to fully playable game in a few hours, no coding experience needed. Throughout the event, friendly mentors and hands-on workshops will guide you every step of the way, from designing characters to building levels. Whether you're a total beginner or a budding developer, this is your chance to unleash your creativity and walk away with a game you actually made yourself. Come ready to play, build, and have fun!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

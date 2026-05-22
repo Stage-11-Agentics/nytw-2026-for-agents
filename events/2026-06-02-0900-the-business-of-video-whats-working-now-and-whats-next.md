@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["W81CTIAFhAM5keKncYLdGNruPfz1", "rLUlXPZOW9QcXY4vtCGsouuq3Ho2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 91
-approved_guest_count: 87
+total_guest_count: 93
+approved_guest_count: 86
 local_image: "images/0vbjAvadzQtRjreGKQ0G.png"
+canceled: false
 ---
 
 # The Business of Video: What’s Working Now (and What’s Next)
@@ -33,7 +34,7 @@ local_image: "images/0vbjAvadzQtRjreGKQ0G.png"
 **Hosts:** Wistia  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 9:00am–2:00pm ET
 **Where:** Midtown
-**Going:** 91
+**Going:** 91 of 93
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/0vbjAvadzQtRjreGKQ0G
 
@@ -59,6 +60,7 @@ Who’s this event for: Marketing leaders (VPs, CMOs, Directors) and the markete
 Space is limited. Save your seat today! 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

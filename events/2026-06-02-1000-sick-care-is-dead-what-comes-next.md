@@ -26,9 +26,10 @@ owner_ids: ["9K2ip5KfG1VOTKg73Vjq", "7DFu4rITofNzKIjA7hCx", "UGVoirQYOuZcznIiuuU
 is_capped: true
 max_capacity: 140
 remaining_capacity: 16
-total_guest_count: 230
+total_guest_count: 234
 approved_guest_count: 124
 local_image: "images/FY3KclQ7SZQRANVS4iYT.png"
+canceled: false
 ---
 
 # Sick Care is Dead. What Comes Next?
@@ -77,6 +78,7 @@ Panel:  10.30 - 11.15AM
 Networking: 11.15 - 12.00PM 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

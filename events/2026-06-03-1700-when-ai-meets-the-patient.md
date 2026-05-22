@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["hUUpHSKIeTQUJBit2iydSjUhvXH3", "OoHafVbQKafcOh3c1uQk", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 46
-approved_guest_count: 20
+total_guest_count: 58
+approved_guest_count: 26
 local_image: "images/4MdmB4GHC4bD4vav1tPQ.jpg"
+canceled: false
 ---
 
 # When AI meets the patient.
@@ -36,7 +37,7 @@ local_image: "images/4MdmB4GHC4bD4vav1tPQ.jpg"
 **Hosts:** Amigo.AI  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:00pm–7:00pm ET
 **Where:** Flatiron · Flatiron, Manhattan, New York, NY · Flatiron
-**Going:** 44 of 46
+**Going:** 44 of 58
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/4MdmB4GHC4bD4vav1tPQ
 **Map:** https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -67,6 +68,7 @@ Jay Shah, Chief of the Medical Staff at Stanford and Chief Medical Officer at Am
 We are shaping this to be a candid conversation. Expect a room curated for honest disagreement, hot takes from people in the audience as well as on stage, and a working answer to what it takes to deploy patient-facing AI responsibly. When you walk in, we will ask you where you stand on patient-facing AI today. Where the room lands by the end is part of the conversation. Stay for bites and drinks after, including a few we named for the occasion (one of them is The Red Flag).
 
 Part of NYC Tech Week. Learn more at tech-week.com.
+
 
 
 

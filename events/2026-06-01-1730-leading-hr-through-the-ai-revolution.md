@@ -26,9 +26,10 @@ owner_ids: ["tdO4EceLNgXwVnt29jM5kVEnG5u2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
 remaining_capacity: 50
-total_guest_count: 7
+total_guest_count: 8
 approved_guest_count: 0
 local_image: "images/BFLcrBj99wiF87EefZM3.png"
+canceled: false
 ---
 
 # Leading HR Through the AI Revolution
@@ -165,6 +166,7 @@ Important Notes
 • Exact location details will be shared with approved guests closer to the event.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

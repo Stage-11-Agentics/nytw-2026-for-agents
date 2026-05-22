@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 726
 approved_guest_count: 136
 local_image: "images/ZzxFq9vcfoDUqBBRQTzv.png"
+canceled: false
 ---
 
 # Google for Startups Hub at
@@ -68,6 +69,7 @@ Secure your VIP pass here for all-day access, or browse our schedule below, to R
 Please note: This Hub and its programming are strictly reserved for the startup community. Our sessions are unapologetically technical and built exclusively for early-stage founders, CTOs, and startup builders. If you are building the next generation of tech, this is your home base for state-of-the-art AI insights, hands-on workshops, and high-value networking.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

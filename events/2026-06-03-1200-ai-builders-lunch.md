@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["lzTScIK0U4LyT9cgCzDm", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 84
+total_guest_count: 85
 approved_guest_count: 0
 local_image: "images/h473UHUqIyFjDct4PAfU.png"
+canceled: false
 ---
 
 # AI Builders Lunch
@@ -34,7 +35,7 @@ local_image: "images/h473UHUqIyFjDct4PAfU.png"
 **Hosts:** Cuculi  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 12:00pm ET
 **Where:** The Brazen Tavern · 356 W 44th St, New York, NY 10036 · Midtown
-**Going:** 84
+**Going:** 84 of 85
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/h473UHUqIyFjDct4PAfU
 **Map:** https://www.google.com/maps/search/?api=1&query=356%20W%2044th%20St%2C%20New%20York%2C%20NY%2010036
@@ -62,6 +63,7 @@ Dress Code: Business Casual
 Please note: To support the restaurant hosting us, there is a minimum one food order policy. This helps us continue partnering with great venues and hosting experiences like this.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

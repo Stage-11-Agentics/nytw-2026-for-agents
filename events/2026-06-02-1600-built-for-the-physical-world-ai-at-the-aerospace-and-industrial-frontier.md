@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["2W28G66PaYTZSPoZaikuix7iGWo1", "7DFu4rITofNzKIjA7hCx", "SA7HZZekSTeLGOFVIX7R109Dqw12", "gwvDcNnSCtdomz9FolD1ulXMDt43"]
 is_capped: false
-total_guest_count: 236
+total_guest_count: 239
 approved_guest_count: 1
 local_image: "images/YA82tfIthdrTzphju3cm.jpg"
+canceled: false
 ---
 
 # Built for the Physical World: AI at the Aerospace and Industrial Frontier
@@ -36,7 +37,7 @@ local_image: "images/YA82tfIthdrTzphju3cm.jpg"
 **Hosts:** PhysicsX, NVIDIA, Zuru Automation  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:00pm–6:30pm ET
 **Where:** Flatiron · Flatiron, Manhattan, New York, NY · Flatiron
-**Going:** 234 of 236
+**Going:** 234 of 239
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/YA82tfIthdrTzphju3cm
 **Map:** https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -56,6 +57,7 @@ https://www.linkedin.com/in/schwieger/_
 As AI moves from software into the physical world, a new stack is emerging for how intelligent systems are built, trained, and deployed. Aerospace primes, critical infrastructure operators, and advanced manufacturers face the same challenge: accurate and fast multi-physics simulation and system-level validation at scale. Join us for a panel that brings together engineers, founders, and builders at the frontier of physical AI to explore what's actually being deployed today — from robotics and autonomy to industrial inspection and aerospace applications. Hosted by PhysicsX with NVIDIA Omniverse and Zuru Automation.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

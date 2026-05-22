@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["gm9hdg5Pz9chXxALbKbeexBf1Hh2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 62
+total_guest_count: 63
 approved_guest_count: 0
 local_image: "images/QUnG1qTMwyGP9hkg8MYP.png"
+canceled: false
 ---
 
 # Walk and Talk Tech in Central Park
@@ -36,7 +37,7 @@ local_image: "images/QUnG1qTMwyGP9hkg8MYP.png"
 **Hosts:** Fish & Richardson P.C.  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 10:30am–12:00pm ET
 **Where:** Grand Army Plaza · E 59th Street, New York, NY 10019 · Central Park
-**Going:** 61 of 62
+**Going:** 61 of 63
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/QUnG1qTMwyGP9hkg8MYP
 **Map:** https://www.google.com/maps/search/?api=1&query=E%2059th%20Street%2C%20New%20York%2C%20NY%2010019
@@ -52,6 +53,7 @@ local_image: "images/QUnG1qTMwyGP9hkg8MYP.png"
 Join us on a guided walk through Central Park!  The focus here is to get outside and meet some other NY Tech Week participants.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

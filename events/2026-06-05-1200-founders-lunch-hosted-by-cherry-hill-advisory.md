@@ -24,9 +24,15 @@ remaining_capacity: 30
 total_guest_count: 1
 approved_guest_count: 0
 local_image: "images/3s09stRIIrmrcoVEFCT8.png"
+canceled: true
+canceled_at: "2026-04-27T12:57:55.385Z"
+canceled_by: "rGvKo0gGIfVRQG4iQaDDo0bsLAR2"
 ---
 
 # Founders' Lunch hosted by Cherry Hill Advisory
+
+> ## ⚠ CANCELED  
+> _canceled 2026-04-27T12:57:55.385Z_
 
 ![Founders' Lunch hosted by Cherry Hill Advisory](images/3s09stRIIrmrcoVEFCT8.png)
 
@@ -50,6 +56,7 @@ Join fellow founders for an intimate meetup to discuss all things strategy. We w
 This event is a part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 Event Hosted by Cherry Hill Advisory.
+
 
 
 

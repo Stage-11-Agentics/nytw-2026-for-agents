@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["8hSS5ZAmkd7O1OJN4pi6", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 129
+total_guest_count: 131
 approved_guest_count: 54
 local_image: "images/F8vJqLhP62bGK7Stqdgg.png"
+canceled: false
 ---
 
 # The Future of Work: AI for People Operations
@@ -33,7 +34,7 @@ local_image: "images/F8vJqLhP62bGK7Stqdgg.png"
 **Hosts:** HiBob  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:30pm–7:30pm ET
 **Where:** Flatiron
-**Going:** 128 of 129
+**Going:** 128 of 131
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/F8vJqLhP62bGK7Stqdgg
 
@@ -59,6 +60,7 @@ Kenneth Matos, Ph.D., is Director, Insights Lab at HiBob.  He leads HiBob’s re
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

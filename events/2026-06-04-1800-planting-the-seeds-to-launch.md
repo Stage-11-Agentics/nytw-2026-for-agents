@@ -27,6 +27,7 @@ remaining_capacity: 117
 total_guest_count: 38
 approved_guest_count: 33
 local_image: "images/HGXptwRUS8GaLld8zyz1.png"
+canceled: false
 ---
 
 # Planting the Seeds to Launch
@@ -52,6 +53,7 @@ local_image: "images/HGXptwRUS8GaLld8zyz1.png"
 Join us for an evening celebrating Women Blooming in Technology featuring a moderated panel discussion and silent auction as we launch TechBloom, a nonprofit apprenticeship program dedicated to opening doors in technology for women at every stage of their journey. 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

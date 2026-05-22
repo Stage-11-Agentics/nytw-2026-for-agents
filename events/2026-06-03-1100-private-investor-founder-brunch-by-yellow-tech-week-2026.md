@@ -26,9 +26,10 @@ owner_ids: ["L3vb95sYoDZ8bA8YemmgSGcvztC3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 100
 remaining_capacity: 100
-total_guest_count: 111
+total_guest_count: 113
 approved_guest_count: 0
 local_image: "images/DIULMTXNf5mkt8da0Kbw.png"
+canceled: false
 ---
 
 # Private Investor-Founder Brunch by Yellow | Tech Week 2026
@@ -83,6 +84,7 @@ About Yellow:
 📍​Guest access is restricted. Each attendee must register individually via the official link and await approval. Unregistered +1s will not be admitted.
 
 📍​Check-in requires confirmation. Be ready to present your official confirmation email at entry for seamless access.
+
 
 
 

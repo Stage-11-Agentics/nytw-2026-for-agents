@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["GfDQNqOF7wdoCRGulSqVBkxKHhC2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 117
-approved_guest_count: 116
+total_guest_count: 120
+approved_guest_count: 118
 local_image: "images/wjcoIW0CMJNRVf2sogq8.jpg"
+canceled: false
 ---
 
 # Rebuilding The Creative Stack
@@ -31,7 +32,7 @@ local_image: "images/wjcoIW0CMJNRVf2sogq8.jpg"
 **Hosts:** Howdy  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 2:00pm ET
 **Where:** Flatiron
-**Going:** 116 of 117
+**Going:** 116 of 120
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/wjcoIW0CMJNRVf2sogq8
 
@@ -53,6 +54,7 @@ This panel brings together creative leaders and AI builders to address what shou
 🤠  Complimentary snacks and drinks provided.
 
 Hosted by Howdy (www.howdy.nyc), a brand and marketing studio focusing on impactful creative content for startup clients.
+
 
 
 

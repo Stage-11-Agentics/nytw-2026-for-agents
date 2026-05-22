@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["PnTOtNabP8aTcDV46mz8g59Ex5x1", "7DFu4rITofNzKIjA7hCx", "FW2RRyOsLVVGskWiFlC7qTFVgsv2", "4diINKpudaNPYfl3PX7FitKk2xv2"]
 is_capped: false
-total_guest_count: 38
+total_guest_count: 39
 approved_guest_count: 0
 local_image: "images/ZHsSj1cL8U5WhQgohQrV.png"
+canceled: false
 ---
 
 # Health TechWalk
@@ -31,7 +32,7 @@ local_image: "images/ZHsSj1cL8U5WhQgohQrV.png"
 **Hosts:** TechWalk  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 3:00am ET
 **Where:** Financial District
-**Going:** 32 of 38
+**Going:** 32 of 39
 **RSVP:** https://partiful.com/e/ZHsSj1cL8U5WhQgohQrV
 
 ### Hosts on Partiful
@@ -61,6 +62,7 @@ F﻿or real-time updates on special events and new Co-Hosts follow us sign up fo
 ​Check our Code of Conduct, Community Guidelines, and Privacy Policy.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

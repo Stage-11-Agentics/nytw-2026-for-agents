@@ -28,6 +28,7 @@ remaining_capacity: 40
 total_guest_count: 83
 approved_guest_count: 0
 local_image: "images/WY7cbyGr92UjKOlj86tr.png"
+canceled: false
 ---
 
 # The Rise of AI-Native Marketing Systems
@@ -81,6 +82,7 @@ Schedule
 If you’re building, scaling, or investing in the future of marketing and commerce, this is where the next wave of systems - and companies - gets defined.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

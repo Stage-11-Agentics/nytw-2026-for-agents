@@ -23,9 +23,10 @@ owner_ids: ["Wpad1XHbsKS3LJFERVQsizZf6QH2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 180
 remaining_capacity: 4
-total_guest_count: 190
+total_guest_count: 194
 approved_guest_count: 176
 local_image: "images/8eZFNPbkIvMBjsJELaAE.png"
+canceled: false
 ---
 
 # Democratizing the Creative Economy - Powered with Seedance 2.0
@@ -61,6 +62,7 @@ What to expect:
 🍸 Rooftop Vibes: Open bar, sunset views, and the best crowd in NoMad.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

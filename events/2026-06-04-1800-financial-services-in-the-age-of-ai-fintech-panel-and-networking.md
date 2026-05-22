@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 97
 approved_guest_count: 0
 local_image: "images/7yVLWDSWCrZChpot2fGl.png"
+canceled: false
 ---
 
 # Financial Services in the age of AI - FinTech Panel and Networking
@@ -48,6 +49,7 @@ local_image: "images/7yVLWDSWCrZChpot2fGl.png"
 Financial Services in the Age of AI will be hosted during NY Tech Week 2026 in New York City. Bringing together leaders from banking, real estate, AI, and fintech, the event will explore how financial institutions are adopting AI in practice, with discussion focused on enterprise use cases, risk management, board oversight, governance, and measurable business impact.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

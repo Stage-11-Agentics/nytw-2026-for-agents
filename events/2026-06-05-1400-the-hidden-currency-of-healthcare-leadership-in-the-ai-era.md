@@ -27,6 +27,7 @@ remaining_capacity: 19
 total_guest_count: 139
 approved_guest_count: 56
 local_image: "images/M7TEr1UmiL341A0iFk7Q.png"
+canceled: false
 ---
 
 # The Hidden Currency of Healthcare Leadership in the AI Era
@@ -57,6 +58,7 @@ The conversation will cover changing industry dynamics, the growing importance o
 Experts will share practical insights on where AI creates real business value and where human leadership remains irreplaceable.  
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

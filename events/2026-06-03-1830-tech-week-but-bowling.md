@@ -27,6 +27,7 @@ remaining_capacity: 81
 total_guest_count: 128
 approved_guest_count: 69
 local_image: "images/URwyTSJO382HLiStFktb.png"
+canceled: false
 ---
 
 # Tech Week, But Bowling
@@ -57,6 +58,7 @@ Hosted by Valon. The Series C ex-Millennium, BCG, McKinsey, Bain, and Goldman fo
 Wednesday after work. Lanes reserved with food and drinks
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

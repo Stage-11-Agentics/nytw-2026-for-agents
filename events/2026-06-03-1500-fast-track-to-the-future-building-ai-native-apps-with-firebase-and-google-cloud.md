@@ -26,6 +26,7 @@ is_capped: false
 total_guest_count: 65
 approved_guest_count: 57
 local_image: "images/6yRRQjBxExk25JqIoBoJ.png"
+canceled: false
 ---
 
 # Fast Track to the Future: Building AI-Native Apps with Firebase and Google Cloud
@@ -63,6 +64,7 @@ We expect these sessions to fill up quickly and be in high demand.  Space is lim
 Guests will be permitted in the Google for Startups Hub only during the time slot they are approved for.  
 
 We invite all guests to return for the Google For Developers Happy Hour at 4p.  Only those with valid badges will be permitted, space allowing.
+
 
 
 

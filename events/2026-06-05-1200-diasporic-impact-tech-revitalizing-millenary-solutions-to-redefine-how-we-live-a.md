@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["vqk0tlNZ48ZPLBB8fyNG0tw6xYe2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 25
+total_guest_count: 26
 approved_guest_count: 0
 local_image: "images/Nz0QBVpUivKQKpzIs7Xl.png"
+canceled: false
 ---
 
 # Diasporic Impact Tech: Revitalizing Millenary Solutions to Redefine How We Live and Interact
@@ -31,7 +32,7 @@ local_image: "images/Nz0QBVpUivKQKpzIs7Xl.png"
 **Hosts:** GLOBAL PORTAL INSTITUTE, THE PORT GLOBAL
 **When:** Friday, June 5, 2026 · 12:00pm ET
 **Where:** Virtual (NYC)
-**Going:** 24 of 25
+**Going:** 24 of 26
 **RSVP:** https://partiful.com/e/Nz0QBVpUivKQKpzIs7Xl
 
 ### Hosts on Partiful
@@ -49,6 +50,7 @@ Following Tech Week NY 2025 (https://www.globalportal.in/nytechweek2025), this f
 ---
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

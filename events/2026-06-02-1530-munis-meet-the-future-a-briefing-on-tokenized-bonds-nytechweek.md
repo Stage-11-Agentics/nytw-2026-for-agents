@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["tSWtLl0H6UaHivXcGwHzlss2Tlf1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 30
+total_guest_count: 32
 approved_guest_count: 19
 local_image: "images/6I7FKBOq3eeCIyKALJA3.png"
+canceled: false
 ---
 
 # Munis, Meet the Future: A Briefing on Tokenized Bonds - #NYTechWeek
@@ -33,7 +34,7 @@ local_image: "images/6I7FKBOq3eeCIyKALJA3.png"
 **Hosts:** Zuzlab Inc.  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 3:30pm–5:00pm ET
 **Where:** Union Square
-**Going:** 30
+**Going:** 30 of 32
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/6I7FKBOq3eeCIyKALJA3
 
@@ -56,6 +57,7 @@ linkedin.com/in/sethcopengoldstein
 linkedin.com/in/lisanne-biolos
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

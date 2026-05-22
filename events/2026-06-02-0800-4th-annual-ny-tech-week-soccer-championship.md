@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["Haz1gkimAER3yHDgjkiDT29ugGp2", "BhonLo79fubkXaW26rkz", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 190
+total_guest_count: 193
 approved_guest_count: 106
 local_image: "images/ea6MPpQj3n4C3BqH4qLl.png"
+canceled: false
 ---
 
 # 4th Annual NY Tech Week Soccer Championship
@@ -33,7 +34,7 @@ local_image: "images/ea6MPpQj3n4C3BqH4qLl.png"
 **Hosts:** Alumni Ventures, StartupExperts  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 8:00am ET
 **Where:** 450 W 27th St, New York, NY 10001 · Chelsea
-**Going:** 190
+**Going:** 190 of 193
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ea6MPpQj3n4C3BqH4qLl
 **Map:** https://www.google.com/maps/search/?api=1&query=450%20W%2027th%20St%2C%20New%20York%2C%20NY%2010001
@@ -106,6 +107,7 @@ Spots are limited to keep teams tight, RSVP early to secure your place on the pi
 See you out there. ⚽
 
 This event is a part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

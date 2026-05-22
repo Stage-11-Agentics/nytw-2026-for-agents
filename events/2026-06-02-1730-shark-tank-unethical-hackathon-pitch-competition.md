@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["TUMVR2b17XSQUkAzw66Nduhba3g1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 301
+total_guest_count: 306
 approved_guest_count: 0
 local_image: "images/NCyCpVKFHXfdVuODhP90.png"
+canceled: false
 ---
 
 # Shark Tank: Unethical Hackathon & Pitch Competition
@@ -35,7 +36,7 @@ local_image: "images/NCyCpVKFHXfdVuODhP90.png"
 **Hosts:** MAANG  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:30pm–9:00pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Lower East Side
-**Going:** 69 of 301
+**Going:** 69 of 306
 **RSVP:** https://partiful.com/e/NCyCpVKFHXfdVuODhP90
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
 
@@ -92,6 +93,7 @@ CTA
 RSVP to pitch, judge, or just witness what gets built.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

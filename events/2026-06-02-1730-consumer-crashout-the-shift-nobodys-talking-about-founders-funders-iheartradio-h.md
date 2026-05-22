@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["BhonLo79fubkXaW26rkz", "7DFu4rITofNzKIjA7hCx", "oUr5ipHuGVWsuzZL94TZ53uXGh63"]
 is_capped: false
-total_guest_count: 285
+total_guest_count: 288
 approved_guest_count: 0
 local_image: "images/TpLCSAej2w4Mg9TbFTyH.png"
+canceled: false
 ---
 
 # Consumer Crashout: The Shift Nobody's Talking About 
@@ -35,7 +36,7 @@ Founders + Funders @ iHeartRadio HQ](images/TpLCSAej2w4Mg9TbFTyH.png)
 **Hosts:** Alumni Ventures, iHeart Radio Ventures  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:30pm–7:30pm ET
 **Where:** Midtown
-**Going:** 286 of 285
+**Going:** 286 of 288
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/TpLCSAej2w4Mg9TbFTyH
 
@@ -67,6 +68,7 @@ About Coefficient Capital: Coefficient Capital leads venture and growth stage in
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

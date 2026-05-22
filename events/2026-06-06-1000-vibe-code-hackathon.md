@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["cbgrQlHqiqUs1Use3D0AUOvLPbr1", "7DFu4rITofNzKIjA7hCx", "ZWgKFrZH7Qc9xmwJ11N2UFFqOvF2", "QMf195usCRNUQCpEQA91EsNwV6H2", "cIJgxMgReoj0kCXFMpmc"]
 is_capped: false
-total_guest_count: 156
-approved_guest_count: 132
+total_guest_count: 161
+approved_guest_count: 133
 local_image: "images/uQdzb29YFCGMt5EyS7T0.png"
+canceled: false
 ---
 
 # Vibe Code Hackathon
@@ -33,7 +34,7 @@ local_image: "images/uQdzb29YFCGMt5EyS7T0.png"
 **Hosts:** Geeks & Experts, Products by Women  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 10:00am–3:30pm ET
 **Where:** Chelsea
-**Going:** 156
+**Going:** 156 of 161
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/uQdzb29YFCGMt5EyS7T0
 
@@ -60,6 +61,7 @@ This is a focused, high-signal hackathon for early-mid career professionals in p
 
 How to Participate
 Everyone should apply individually. If you have a group in mind, we can assign you together closer to the event.
+
 
 
 

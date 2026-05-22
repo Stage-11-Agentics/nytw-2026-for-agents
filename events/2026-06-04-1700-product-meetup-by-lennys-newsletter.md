@@ -25,10 +25,11 @@ owner_count: 3
 owner_ids: ["EUeQCy2zUlQIYt27ObdLeOfgnsA2", "fWoYE2mgVcN36ifarrkBcfaavVA2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 400
-remaining_capacity: 5
-total_guest_count: 401
+remaining_capacity: 0
+total_guest_count: 406
 approved_guest_count: 0
 local_image: "images/9f5IxBLEiOhNjijLN7h3.jpg"
+canceled: false
 ---
 
 # Product Meetup by Lenny's Newsletter
@@ -38,7 +39,7 @@ local_image: "images/9f5IxBLEiOhNjijLN7h3.jpg"
 **Hosts:** Friends of Lenny's Newsletter Community, Anvil, Clerk
 **When:** Thursday, June 4, 2026 · 5:00pm–7:00pm ET
 **Where:** Greenwich Village · Greenwich Village, Manhattan, New York, NY · Greenwich Village
-**Capacity:** capped at 400 · 395 taken, 5 remaining
+**Capacity:** capped at 400 · 400 taken, 0 remaining · ⚠ **FULL**
 **RSVP:** https://partiful.com/e/9f5IxBLEiOhNjijLN7h3
 **Map:** https://www.google.com/maps/search/?api=1&query=Greenwich%20Village%2C%20Greenwich%20Village%2C%20Manhattan%2C%20New%20York%2C%20NY
 
@@ -62,6 +63,7 @@ Free drinks for the first ~50 attendees are courtesy of Clerk.
 ​Clerk lets you ship production-grade authentication instantly without burning engineering sprints on sign-in/sign-up plumbing. We give your app everything it needs: pre-built components, organizations for B2B multi-tenancy, built-in subscription billing, and more — plus MCP server support so AI agents can authenticate and act on behalf of your users. Build the product, not the auth layer: https://go.clerk.com/3BQSdrx
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

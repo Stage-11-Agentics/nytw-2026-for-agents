@@ -26,9 +26,10 @@ owner_ids: ["jZw6KKlLrZYRDkY4Ec63ODL4aiu1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 20
 remaining_capacity: 20
-total_guest_count: 24
+total_guest_count: 25
 approved_guest_count: 0
 local_image: "images/6HaKD546tO44phJnQHVx.png"
+canceled: false
 ---
 
 # Consumer Founders & Investors Breakfast
@@ -60,6 +61,7 @@ Hosted by Tiny Dinner, a platform for dinner parties with friends of friends.
 Request an invite: tiny-dinner.com
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

@@ -26,9 +26,10 @@ owner_ids: ["0wMLtF8eSPHMQQCEkIZn", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 400
 remaining_capacity: 231
-total_guest_count: 2656
+total_guest_count: 2700
 approved_guest_count: 169
 local_image: "images/JCwSwROiFoNl6u8gm2qb.png"
+canceled: false
 ---
 
 # Official Tech Week Kickoff Party (hosted by Gamma x a16z)
@@ -56,6 +57,7 @@ Want to be on the ROOF where it happens?
 Gamma (https://gamma.app) and a16z are kicking off Tech Week in proper New York fashion: on the rooftop of a storied NY hotel — iconic 360-degree skyline views, cocktails, appetizers, and a few surprises.  This is a tightly curated room of founders, investors, and operators who are building what's next. Come be a part of it.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

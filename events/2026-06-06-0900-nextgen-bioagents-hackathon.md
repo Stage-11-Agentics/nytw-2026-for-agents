@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["uTpNwH3PRHa3sxloHqLppc2tLsO2", "7DFu4rITofNzKIjA7hCx", "yprpltooCHY5a6wTQGEsS4GS7jG2", "ATGNBRa2fIMDybr0EqkeZg7QOt23"]
 is_capped: false
-total_guest_count: 283
-approved_guest_count: 66
+total_guest_count: 290
+approved_guest_count: 106
 local_image: "images/RD1KcZIDmYx2q5J7fUbM.png"
+canceled: false
 ---
 
 # NextGen BioAgents Hackathon
@@ -36,7 +37,7 @@ local_image: "images/RD1KcZIDmYx2q5J7fUbM.png"
 **Hosts:** Nucleate NY  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 9:00am–9:00pm ET
 **Where:** Automattic · 166 Crosby St, New York, NY 10012 · Kips Bay
-**Going:** 283
+**Going:** 283 of 290
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/RD1KcZIDmYx2q5J7fUbM
 **Map:** https://www.google.com/maps/search/?api=1&query=166%20Crosby%20St%2C%20New%20York%2C%20NY%2010012
@@ -82,6 +83,7 @@ Space is limited · rolling RSVPs · apply early!
 By signing up for the hackathon, you agree to receive communications from our partners
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

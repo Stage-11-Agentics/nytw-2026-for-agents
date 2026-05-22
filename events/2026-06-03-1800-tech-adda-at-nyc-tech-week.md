@@ -23,10 +23,11 @@ owner_count: 2
 owner_ids: ["AqdI0BESIwa13BUzF6kAmyQJ1bW2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 12
-total_guest_count: 44
+remaining_capacity: 11
+total_guest_count: 45
 approved_guest_count: 0
 local_image: "images/OhUsbOxXZolx8sPIhXZy.png"
+canceled: false
 ---
 
 # Tech Adda at NYC Tech Week
@@ -36,7 +37,7 @@ local_image: "images/OhUsbOxXZolx8sPIhXZy.png"
 **Hosts:** SJ Innovation  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–7:30pm ET
 **Where:** 74-09 37th Ave, Jackson Heights, NY 11372 · Queens
-**Capacity:** capped at 50 · 38 taken, 12 remaining
+**Capacity:** capped at 50 · 39 taken, 11 remaining
 **RSVP:** https://partiful.com/e/OhUsbOxXZolx8sPIhXZy
 **Map:** https://www.google.com/maps/search/?api=1&query=74-09%2037th%20Ave%2C%20Jackson%20Heights%2C%20NY%2011372
 
@@ -57,6 +58,7 @@ Whether you’re a founder, operator, creative, or just curious about building, 
 Expect live guidance, practical examples, and a clear look at how to go from concept to working product faster than ever. Come meet other builders, learn something useful, and see what is actually possible with modern AI tools.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

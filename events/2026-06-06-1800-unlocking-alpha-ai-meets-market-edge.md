@@ -24,9 +24,10 @@ owner_ids: ["eYoLsRxcrgbGWLJMRUiCZbfA64t1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 100
 remaining_capacity: 100
-total_guest_count: 55
+total_guest_count: 56
 approved_guest_count: 0
 local_image: "images/jgRIft4JG6uRIUFVDWC2.jpg"
+canceled: false
 ---
 
 # Unlocking Alpha: AI Meets Market Edge
@@ -52,6 +53,7 @@ local_image: "images/jgRIft4JG6uRIUFVDWC2.jpg"
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com. 
 
 This event brings together the worlds of algorithmic trading, artificial intelligence, and market innovation in an unforgettable setting. Hosted by Strata Fund inside a legendary boxing gym, the event blends high‑energy exhibition fights and a live DJ with deep conversations about how AI is reshaping market edge and trading strategy. It’s a warm, dynamic networking experience designed for traders, asset managers, and institutions ready to connect, exchange insights, and witness a special guest appearance that will make the night truly memorable
+
 
 
 

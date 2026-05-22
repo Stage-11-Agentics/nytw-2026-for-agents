@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 631
 approved_guest_count: 0
 local_image: "images/s4Oj5daPuG8kw5MqKOQV.png"
+canceled: false
 ---
 
 # Build Anywhere, Scale Everywhere: Global Founders Walk
@@ -84,6 +85,7 @@ Come as you are. Scale from anywhere. Belong everywhere.
  Join more global builders like you at : https://forms.gle/vfi7poynFQjLWWgHA and follow our adventurers with 1300+ Career Adventurers on LinkedIn: https://www.linkedin.com/company/afroadventurer
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

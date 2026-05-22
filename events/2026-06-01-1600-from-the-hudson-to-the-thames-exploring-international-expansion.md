@@ -29,6 +29,7 @@ remaining_capacity: 7
 total_guest_count: 115
 approved_guest_count: 73
 local_image: "images/P90AiasegjS9oTsIyLvd.jpg"
+canceled: false
 ---
 
 # From the Hudson to the Thames: Exploring International Expansion
@@ -66,6 +67,7 @@ A networking reception will follow, connecting founders, investors, and advisors
 Location will be shared with approved attendees.  Please note - entry will not be permitted unless attendees have registered in advance.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -26,9 +26,10 @@ owner_ids: ["lC00MxA7jjctVfftB3q1zVFq9112", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 147
 remaining_capacity: 4
-total_guest_count: 162
+total_guest_count: 165
 approved_guest_count: 143
 local_image: "images/Wgd27MHUJPFotcMBodca.jpg"
+canceled: false
 ---
 
 # #NYTechWeek  Central Park Run 1
@@ -57,6 +58,7 @@ Let's get Tech Week started early and with ENERGY! We'll do a 5km loop, at 6:00/
 Slight preference for active AI native builders (no matter how big or small your project), or those interested, and all are welcome. We will finish the run no later than 7:45 (assuming 6:00/km pace), with the run starting at exactly 7:07am sharp.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

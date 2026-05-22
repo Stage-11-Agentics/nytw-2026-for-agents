@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["hYcMLVumTQXYISj427YYrs4OHZf1", "UFLWR7fz5AmfgETqvyYh", "7DFu4rITofNzKIjA7hCx", "4bhEtzQVgYMG6EZhXcdQ9ltcPWJ3"]
 is_capped: false
-total_guest_count: 3
-approved_guest_count: 2
+total_guest_count: 4
+approved_guest_count: 3
 local_image: "images/YHIW5UdTNrTFWFnIIGhX.png"
+canceled: false
 ---
 
 # Taste the Truth-  What do you know about your food?
@@ -36,7 +37,7 @@ local_image: "images/YHIW5UdTNrTFWFnIIGhX.png"
 **Hosts:** Consulate General of Argentina in New York, AgriConsult LATAM & OFC  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 2:30pm–4:30pm ET
 **Where:** Consulate General of Argentina in New York · 12 W 56th St, New York, NY 10019 · Midtown
-**Going:** 3
+**Going:** 3 of 4
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/YHIW5UdTNrTFWFnIIGhX
 **Map:** https://www.google.com/maps/search/?api=1&query=12%20W%2056th%20St%2C%20New%20York%2C%20NY%2010019
@@ -62,6 +63,7 @@ European traceability technology meets Latin American agri-food expertise — to
 Open Food Chain is leveraging blockchain technology to build with AgriConsult LATAM a data infrastructure for more connected, transparent and sustainable food supply chains
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

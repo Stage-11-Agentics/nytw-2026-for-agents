@@ -29,6 +29,7 @@ remaining_capacity: 50
 total_guest_count: 18
 approved_guest_count: 0
 local_image: "images/2pEmZp1BxNcZENUjpUxv.jpg"
+canceled: false
 ---
 
 # The Make & Market Hackathon
@@ -70,6 +71,7 @@ We'll suggest your match - you have the first 30 minutes to swap if the vibe's o
 The Make & Market Hackathon is part of a16z Tech Week, and brought to you by The FOMO Group, the builder community behind FOMO Hack and FOMO Club, and Verci, NYC's home for the creator economy. Two communities, one room, one afternoon.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

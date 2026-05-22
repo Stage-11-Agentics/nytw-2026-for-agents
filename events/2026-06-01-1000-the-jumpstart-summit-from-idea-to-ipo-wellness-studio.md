@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["KhAGY5C1Glr1nqS4iAiz", "tE7LICkQZafgBQSpNPKippvXs4w1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 114
+total_guest_count: 115
 approved_guest_count: 15
 local_image: "images/ejqizBZwN2AWf6J6ifk4.png"
+canceled: false
 ---
 
 # The JumpStart Summit: From Idea to IPO → Wellness Studio
@@ -34,7 +35,7 @@ local_image: "images/ejqizBZwN2AWf6J6ifk4.png"
 **Hosts:** Next Jump  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 10:00am ET
 **Where:** Next Jump · 512 W 22nd St, New York, NY 10011 · Chelsea
-**Going:** 114
+**Going:** 114 of 115
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ejqizBZwN2AWf6J6ifk4
 **Map:** https://www.google.com/maps/search/?api=1&query=512%20W%2022nd%20St%2C%20New%20York%2C%20NY%2010011
@@ -56,6 +57,7 @@ Each morning kicks off with active physical and mental conditioning designed to 
 Complimentary food and beverages provided.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

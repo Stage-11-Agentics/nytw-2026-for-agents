@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["fJ4QInh7F8iGDc1X8lVS", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 462
+total_guest_count: 475
 approved_guest_count: 0
 local_image: "images/hVN69QHHQKaL72l700kB.png"
+canceled: false
 ---
 
 # ElevenLabs NY Tech Week PopUp
@@ -34,7 +35,7 @@ local_image: "images/hVN69QHHQKaL72l700kB.png"
 **Hosts:** ElevenLabs  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 11:00am–7:00pm ET
 **Where:** 54 Crosby St, New York, NY 10012 · SoHo
-**Going:** 405 of 462
+**Going:** 405 of 475
 **RSVP:** https://partiful.com/e/hVN69QHHQKaL72l700kB
 **Map:** https://www.google.com/maps/search/?api=1&query=54%20Crosby%20St%2C%20New%20York%2C%20NY%2010012
 
@@ -55,6 +56,7 @@ Beyond the shopping experience, the space is packed with hands-on demos: create 
 Come visit anytime between Monday June 1st and Sunday June 7th!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -26,9 +26,10 @@ owner_ids: ["SIkn2pPyD6kshMBk28TW", "nA06TRHU8BnDZnNEpUHC", "7DFu4rITofNzKIjA7hC
 is_capped: true
 max_capacity: 300
 remaining_capacity: 97
-total_guest_count: 228
+total_guest_count: 237
 approved_guest_count: 203
 local_image: "images/CKczGayvJbdWdba2q8kr.png"
+canceled: false
 ---
 
 # The Light Stack | #NYTechWeek 2026
@@ -56,6 +57,7 @@ local_image: "images/CKczGayvJbdWdba2q8kr.png"
 Join Sentry, Neon by Databricks, and Harness at The Lightbox for an immersive art and tech experience unlike anything you’ve seen before. We’ll have some real talk on AI infra plus bites, drinks and lots of swag.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

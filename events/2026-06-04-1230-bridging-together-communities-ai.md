@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["Cp7BTf4V2JTUnEaXSBvNL0Tb7Yv2", "TovIwltJqThWhyAzCUo5dtBRGgy2", "7qAosDzaRLSkXjaqzz7m2ScZOWE3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 8
+total_guest_count: 12
 approved_guest_count: 4
 local_image: "images/90GOuJSB0E4e46U5Bo4b.png"
+canceled: false
 ---
 
 # Bridging Together Communities & AI
@@ -36,7 +37,7 @@ local_image: "images/90GOuJSB0E4e46U5Bo4b.png"
 **Hosts:** YOUTH CIVIC SERVICE INC., HealthBridge  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 12:30pm–3:00pm ET
 **Where:** Chinatown · Chinatown, Manhattan, New York, NY · Chinatown
-**Going:** 8
+**Going:** 8 of 12
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/90GOuJSB0E4e46U5Bo4b
 **Map:** https://www.google.com/maps/search/?api=1&query=Chinatown%2C%20Chinatown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -54,6 +55,7 @@ local_image: "images/90GOuJSB0E4e46U5Bo4b.png"
 HealthBridge is an AI-powered database tackling one of the most overlooked problems in American healthcare, where millions of low-income and non-English-speaking families cannot reach the care that exists around them, blocked by confusing insurance policies and a complete lack of direction. Co-hosted with Youth Civic Service, a nonprofit dedicated to empowering young people through community engagement, this event brings together roughly 50 attendees in Chinatown, NYC for a live demonstration of the HealthBridge platform, a formal presentation by the founding team, and an open conversation about what it actually takes to build health technology for the communities most often left behind. Refreshments provided. HealthBridge was invited to present at the U.S. Congress on April 21st & 22nd, 2026. Pending Co-hosts with the Association of Chinese American Physicians & Congressman Tom Suozzi.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

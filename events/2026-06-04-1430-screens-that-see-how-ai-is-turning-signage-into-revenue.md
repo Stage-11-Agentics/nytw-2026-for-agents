@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 9
 approved_guest_count: 6
 local_image: "images/Z8jfrYxy2LpndGfiyoDF.png"
+canceled: false
 ---
 
 # Screens That See: How AI Is Turning Signage Into Revenue.
@@ -62,6 +63,7 @@ This session is built for retail, QSR, hospitality, fitness, and entertainment o
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

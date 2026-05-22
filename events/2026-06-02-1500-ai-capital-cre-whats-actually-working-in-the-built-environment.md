@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["S0EG4KziO7bBrJgxxEBMOHNDBuo1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 54
+total_guest_count: 56
 approved_guest_count: 50
 local_image: "images/vfnHvA22yQNk1H8Hh1Fb.png"
+canceled: false
 ---
 
 # AI, Capital & CRE: What's Actually Working in the Built Environment
@@ -35,7 +36,7 @@ local_image: "images/vfnHvA22yQNk1H8Hh1Fb.png"
 **Hosts:** Relm, Metropolis Group, JUUNOO, Proptimal
 **When:** Tuesday, June 2, 2026 · 3:00pm–6:00pm ET
 **Where:** 41 Union Square W, New York, NY 10003 · Union Square
-**Going:** 52 of 54
+**Going:** 52 of 56
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/vfnHvA22yQNk1H8Hh1Fb
 **Map:** https://www.google.com/maps/search/?api=1&query=41%20Union%20Square%20W%2C%20New%20York%2C%20NY%2010003
@@ -78,6 +79,7 @@ Lilian Chen — CEO & Founder, Proptimal | Lilian Chen is the Founder and CEO of
 Space is extremely limited. RSVPs are capped and will close early.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

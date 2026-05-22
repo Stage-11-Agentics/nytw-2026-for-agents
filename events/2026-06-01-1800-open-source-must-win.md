@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["4r1CIfaQQQPa4kMHUpZpu2Kyl2k2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 85
+total_guest_count: 86
 approved_guest_count: 79
 local_image: "images/OF1vP5L8dtXKRtInyWKs.jpg"
+canceled: false
 ---
 
 # Open Source Must Win
@@ -36,7 +37,7 @@ local_image: "images/OF1vP5L8dtXKRtInyWKs.jpg"
 **Hosts:** OPEN SOURCE WEEK  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:00pm–9:00pm ET
 **Where:** New York · New York, NY · Lower East Side
-**Going:** 84 of 85
+**Going:** 84 of 86
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/OF1vP5L8dtXKRtInyWKs
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20New%20York%2C%20NY
@@ -70,6 +71,7 @@ Speaking or sponsoring:
 Lyndsay · lyndsaygoldfarb21@icloud.com · (516)-736-4590
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

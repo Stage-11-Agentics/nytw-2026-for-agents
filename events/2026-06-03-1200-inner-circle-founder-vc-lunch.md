@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["pJdqNM8uwJQ9LpposqfOq3ZHN6d2", "7DFu4rITofNzKIjA7hCx", "7p9C02LuIEY6GpVJ6nlimbhGKR43"]
 is_capped: false
-total_guest_count: 667
+total_guest_count: 677
 approved_guest_count: 4
 local_image: "images/EkVKsItVP7ZxENEfmZSV.png"
+canceled: false
 ---
 
 # Inner Circle: Founder & VC Lunch
@@ -36,7 +37,7 @@ local_image: "images/EkVKsItVP7ZxENEfmZSV.png"
 **Hosts:** Menlo Ventures, AmEx Ventures, Confidante: Cofounder Dynamics, BambooX
 **When:** Wednesday, June 3, 2026 · 12:00pm–1:30pm ET
 **Where:** Odd Sister · 45 Mercer St, New York, NY 10013 · SoHo
-**Going:** 666 of 667
+**Going:** 666 of 677
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/EkVKsItVP7ZxENEfmZSV
 **Map:** https://www.google.com/maps/search/?api=1&query=45%20Mercer%20St%2C%20New%20York%2C%20NY%2010013
@@ -67,6 +68,7 @@ If you have any questions, please email annie@confidante.info.
 We can’t wait to see you there!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

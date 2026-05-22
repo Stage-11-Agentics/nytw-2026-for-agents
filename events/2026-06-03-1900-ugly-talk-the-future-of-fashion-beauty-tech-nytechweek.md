@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["ewVvfwCDEifyj4ykvdRVNB42zr42", "7DFu4rITofNzKIjA7hCx", "BkRb8WXVjRTB0FK8gItaihwSjFC3", "i4XQa1sdTgRma2XaNAKe942tsru2"]
 is_capped: false
-total_guest_count: 104
+total_guest_count: 105
 approved_guest_count: 100
 local_image: "images/68VP2zOWWMpKd3gZsojI.jpg"
+canceled: false
 ---
 
 # Ugly Talk: The Future of Fashion & Beauty Tech - #NYTechweek
@@ -34,7 +35,7 @@ local_image: "images/68VP2zOWWMpKd3gZsojI.jpg"
 **Hosts:** Yorkseed, Ugly Talk  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 7:00pm ET
 **Where:** Belong NYC · 218 Lafayette St, FL 2, New York, NY 10012 · SoHo
-**Going:** 104
+**Going:** 104 of 105
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/68VP2zOWWMpKd3gZsojI
 **Map:** https://www.google.com/maps/search/?api=1&query=218%20Lafayette%20St%2C%20FL%202%2C%20New%20York%2C%20NY%2010012
@@ -107,6 +108,7 @@ Yorkseed - Yorkseed is a global venture platform and community connecting founde
 Belong NYC- We offer our members a unique blend of luxury and convenience, including access to showers, locker space, luggage storage, private phone booths, conference rooms, nap pods, and co-working space.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

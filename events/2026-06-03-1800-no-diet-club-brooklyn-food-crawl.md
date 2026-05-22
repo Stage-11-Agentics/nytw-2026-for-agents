@@ -23,6 +23,7 @@ remaining_capacity: 0
 total_guest_count: 55
 approved_guest_count: 0
 local_image: "images/ObEt3ZXuTwK5o4CltorM.png"
+canceled: false
 ---
 
 # No Diet Club Brooklyn Food Crawl
@@ -47,6 +48,7 @@ local_image: "images/ObEt3ZXuTwK5o4CltorM.png"
 Join Flybridge and No Diet Club for a walking food tour in Downtown Brooklyn.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -25,9 +25,10 @@ owner_ids: ["mDHBXeJZmoz7bSQyxAd0", "7DFu4rITofNzKIjA7hCx", "WHr18w8A1sdLs2n8FgF
 is_capped: true
 max_capacity: 100
 remaining_capacity: 59
-total_guest_count: 52
+total_guest_count: 53
 approved_guest_count: 41
 local_image: "images/Igsl0PM9f4966lvt7uPc.png"
+canceled: false
 ---
 
 # Slovak Startup Pitch Night
@@ -67,6 +68,7 @@ Spacebrains - AI powered recruiting platform
 Surge Europe - mobile e-sports platform
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -26,9 +26,10 @@ owner_ids: ["FJtatFNOddMvE8Jn03tE5gnDr6h1", "7DFu4rITofNzKIjA7hCx", "xk4hjaHagFb
 is_capped: true
 max_capacity: 120
 remaining_capacity: -89
-total_guest_count: 249
+total_guest_count: 251
 approved_guest_count: 209
 local_image: "images/ZkoF0HAUirlcek9ECWbI.png"
+canceled: false
 ---
 
 # Women Who Restore
@@ -61,6 +62,7 @@ Join Valon for an afternoon of cold plunge, sauna, breathwork, and genuine conne
 Spots are limited so be sure to sign up.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

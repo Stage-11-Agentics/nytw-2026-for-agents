@@ -21,10 +21,11 @@ owner_count: 3
 owner_ids: ["agnLhjxwzLXsujKgbpBRlrsKssd2", "7DFu4rITofNzKIjA7hCx", "JxMUkeIwktTLwqF4fIJCU7WZPQJ2"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 21
-total_guest_count: 31
+remaining_capacity: 19
+total_guest_count: 33
 approved_guest_count: 0
 local_image: "images/lqu38pgygnmLVET26n7I.png"
+canceled: false
 ---
 
 # Data in Motion NYC: Messaging, Streaming & Processing
@@ -34,7 +35,7 @@ local_image: "images/lqu38pgygnmLVET26n7I.png"
 **Hosts:** Beam Summit, Google Cloud  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 11:00am–2:00pm ET
 **Where:** Midtown
-**Capacity:** capped at 50 · 29 taken, 21 remaining
+**Capacity:** capped at 50 · 31 taken, 19 remaining
 **RSVP:** https://partiful.com/e/lqu38pgygnmLVET26n7I
 
 ### Hosts on Partiful
@@ -49,6 +50,7 @@ local_image: "images/lqu38pgygnmLVET26n7I.png"
 Experience an afternoon of high-level networking and technical insights over a refreshing summer lunch. Discover how to effectively scale your data pipelines with Apache Beam and optimize your messaging integration using Apache ActiveMQ alongside industry peers.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

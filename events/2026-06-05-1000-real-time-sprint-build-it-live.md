@@ -26,6 +26,7 @@ is_capped: false
 total_guest_count: 23
 approved_guest_count: 0
 local_image: "images/hy44NsXy8fICdvIMp2bI.jpg"
+canceled: false
 ---
 
 # Real-Time Sprint: Build It Live
@@ -102,6 +103,7 @@ Core idea
 What if everything you built had to happen live?
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

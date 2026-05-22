@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["udAVeIzVLyY3S2rRAqmBlQ1RNva2", "7DFu4rITofNzKIjA7hCx", "oy2qbu0gVCGGXPgOCM2d"]
 is_capped: false
-total_guest_count: 409
+total_guest_count: 417
 approved_guest_count: 369
 local_image: "images/sLMniNFeuyQo2DIlR81o.png"
+canceled: false
 ---
 
 # Advertising & Marketing Mixer
@@ -36,7 +37,7 @@ local_image: "images/sLMniNFeuyQo2DIlR81o.png"
 **Hosts:** Technology Founders of America  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:00pm–8:00pm ET
 **Where:** Manhattan · Manhattan, New York, NY · Union Square
-**Going:** 408 of 409
+**Going:** 408 of 417
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/sLMniNFeuyQo2DIlR81o
 **Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -62,6 +63,7 @@ Just great conversations
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

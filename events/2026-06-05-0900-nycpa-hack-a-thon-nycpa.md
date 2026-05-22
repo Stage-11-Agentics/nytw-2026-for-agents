@@ -20,9 +20,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["ztinVizeexW8yrhXcqkcChaD7013", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 143
+total_guest_count: 147
 approved_guest_count: 0
 local_image: "images/BGETQMMJexGVcvaJYX6l.png"
+canceled: false
 ---
 
 # NYCPA 
@@ -34,7 +35,7 @@ Hack-a-thon - #NYCPA](images/BGETQMMJexGVcvaJYX6l.png)
 **Hosts:** NYCPA  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 9:00am–3:45pm ET
 **Where:** Midtown
-**Going:** 133 of 143
+**Going:** 133 of 147
 **RSVP:** https://partiful.com/e/BGETQMMJexGVcvaJYX6l
 
 ### Hosts on Partiful
@@ -83,6 +84,7 @@ What You’ll Do
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -20,9 +20,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["UeslnxCHmaYmNSerxkYgkGjkmOT2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 16
+total_guest_count: 20
 approved_guest_count: 0
 local_image: "images/5apSj4xpKEHJ0C1DzIXb.jpg"
+canceled: false
 ---
 
 # Women Who Code Summit Cocktails & Conversations - Tuesday, June 2nd
@@ -32,7 +33,7 @@ local_image: "images/5apSj4xpKEHJ0C1DzIXb.jpg"
 **Hosts:** Women Who Code  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:00pm–7:00pm ET
 **Where:** Financial District
-**Going:** 14 of 16
+**Going:** 14 of 20
 **RSVP:** https://partiful.com/e/5apSj4xpKEHJ0C1DzIXb
 
 ### Hosts on Partiful
@@ -54,6 +55,7 @@ Calling all creatives, engineers, technical talent and women interested in learn
 Limited access, so RSVP for your complimentary access.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

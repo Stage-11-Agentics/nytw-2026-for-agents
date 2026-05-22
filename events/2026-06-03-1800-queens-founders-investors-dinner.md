@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 22
 approved_guest_count: 19
 local_image: "images/0D0CXzkR1otSnvSekJh4.png"
+canceled: false
 ---
 
 # Queens Founders & Investors Dinner
@@ -70,6 +71,7 @@ An intimate, curated dinner bringing together a select group of founders and inv
 By registering, you’ll be added to the Enpak newsletter to stay connected to future events, local opportunities, and community updates. You can unsubscribe at any time.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

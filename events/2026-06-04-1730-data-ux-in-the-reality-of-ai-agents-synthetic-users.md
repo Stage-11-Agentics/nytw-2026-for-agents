@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 89
 approved_guest_count: 0
 local_image: "images/m5xlxRZNLV9VsZZ97lGf.png"
+canceled: false
 ---
 
 # Data + UX in the Reality of AI agents, synthetic users
@@ -51,6 +52,7 @@ Data + UX in the New Reality of AI agents and synthetic users
 
 Stellans.io is hosting a panel focusing on the ways UX professionals work together with data engineers and data scientists in an era of large-scale data extraction, data amalgamation, synthetic users, and a new kind of user: AI agents. We explore what those shifts mean for how teams understand behavior, define users, make decisions, and design experiences that still feel trustworthy and useful. Speakers will bring perspectives from data, UX, and applied technology to discuss what is already changing, what remains unresolved, and what deserves much closer scrutiny. The panel will be followed by networking and informal discussions.
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["Sss7NLV42aPDgsL06tEXeeCTWEs1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 77
+total_guest_count: 78
 approved_guest_count: 55
 local_image: "images/XWigjBTiDrQxZJFVL8zq.png"
+canceled: false
 ---
 
 # The Performance Protocol: Stay Sharp in the Age of AI
@@ -33,7 +34,7 @@ local_image: "images/XWigjBTiDrQxZJFVL8zq.png"
 **Hosts:** Catalyst Noir  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 12:00pm–1:00pm ET
 **Where:** Virtual (NYC)
-**Going:** 76 of 77
+**Going:** 76 of 78
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/XWigjBTiDrQxZJFVL8zq
 
@@ -65,6 +66,7 @@ Professionals, founders, and creatives navigating rapid change and looking to wo
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

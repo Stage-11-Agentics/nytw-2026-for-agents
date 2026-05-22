@@ -24,9 +24,10 @@ owner_ids: ["9s4P0Eu7wpawxRJdI4AOmmtiaZN2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 6
 remaining_capacity: 6
-total_guest_count: 31
+total_guest_count: 33
 approved_guest_count: 0
 local_image: "images/CQLd4GquFqdpcKGVCyUE.png"
+canceled: false
 ---
 
 # Beauty E-commerce Leaders Dinner
@@ -62,6 +63,7 @@ This event is brought to you by MaquillAR Studio (https://www.maquillar.studio)
 -----
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

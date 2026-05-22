@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["Dpz7S6tTHV9IoXfMrW3U", "7DFu4rITofNzKIjA7hCx", "aloZ9e6N5tfmqe2skhb8NYFqIA32", "iTaPjJXA65tDh3knUNB2", "ttf8NOUkoZVwNEPftRDluW3j1p42"]
 is_capped: false
-total_guest_count: 103
+total_guest_count: 106
 approved_guest_count: 20
 local_image: "images/iYgTSYfpMkHDhXgcofCb.png"
+canceled: false
 ---
 
 # Founding GPs VC Omakase
@@ -36,7 +37,7 @@ local_image: "images/iYgTSYfpMkHDhXgcofCb.png"
 **Hosts:** Mercury, Unicorner, Sydecar  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–9:00pm ET
 **Where:** The Chemistry Room · 130 W 47th St, New York, NY 10036 · Midtown
-**Going:** 101 of 103
+**Going:** 101 of 106
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/iYgTSYfpMkHDhXgcofCb
 **Map:** https://www.google.com/maps/search/?api=1&query=130%20W%2047th%20St%2C%20New%20York%2C%20NY%2010036
@@ -71,6 +72,7 @@ Invites are extremely limited and guests must confirm attendance to participate.
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 By registering for this event, you consent to receive post-event communications from the hosts. You may unsubscribe at any time.
+
 
 
 

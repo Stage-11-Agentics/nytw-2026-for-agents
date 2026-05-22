@@ -23,9 +23,10 @@ owner_ids: ["gEVchqseljbGBjob2Ib6bvbahBf2", "7DFu4rITofNzKIjA7hCx", "vgqEYZ4X6hb
 is_capped: true
 max_capacity: 100
 remaining_capacity: 97
-total_guest_count: 67
+total_guest_count: 68
 approved_guest_count: 3
 local_image: "images/yaaxNQZSjLZ40Sgx48Gh.png"
+canceled: false
 ---
 
 # FS Vector x Lithic x Tech Week Coffee Talk
@@ -52,6 +53,7 @@ local_image: "images/yaaxNQZSjLZ40Sgx48Gh.png"
 Join FS Vector and Lithic for an interactive coffee talk to celebrate NY Tech Week! This event will give you the opportunity to network while trying the Flatiron Districts best breakfast.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

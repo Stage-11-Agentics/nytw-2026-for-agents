@@ -26,9 +26,15 @@ remaining_capacity: 100
 total_guest_count: 61
 approved_guest_count: 0
 local_image: "images/TvlF0H0cSQa9lSMDxEqU.png"
+canceled: true
+canceled_at: "2026-05-14T00:34:59.432Z"
+canceled_by: "LAAsxrRLvdMOMLy5MuFJ3MkCThj2"
 ---
 
 # The New Arena: How Sports Are Driving Culture, Commerce, and Connection
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-14T00:34:59.432Z_
 
 ![The New Arena: How Sports Are Driving Culture, Commerce, and Connection](images/TvlF0H0cSQa9lSMDxEqU.png)
 
@@ -56,6 +62,7 @@ Expect a direct, unscripted conversation about how sports are shaping cultural m
 
 Panelists:
 - Brandice Daniel
+
 
 
 

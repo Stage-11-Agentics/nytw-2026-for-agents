@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 29
 approved_guest_count: 25
 local_image: "images/zh0xYiNA0DCbZsa16DId.png"
+canceled: false
 ---
 
 # Dance Unbound: Dance for Every Body
@@ -58,6 +59,7 @@ Our guest speaker is Chun Wai Chan, principal dancer at New York City Ballet and
 What makes it special? Most Tech Week events ask you to sit and absorb. This one asks you to show up, take a risk, and feel something. The technology is the floor, not the stage.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

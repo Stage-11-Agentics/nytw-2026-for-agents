@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["l1hKX68uH7hDeYHw03V02u0jkA93", "7DFu4rITofNzKIjA7hCx", "nEU622VFBcVjao3IFhpwAZe5K6y2", "4HTFLapxufSa49SBiTYubyTEhNr2"]
 is_capped: false
-total_guest_count: 1141
+total_guest_count: 1154
 approved_guest_count: 48
 local_image: "images/pqEys4amaG8z14ZJnDGF.png"
+canceled: false
 ---
 
 # Deel&a16z Masterclass: Founder's guide to building one of the world's fastest growing companies
@@ -36,7 +37,7 @@ local_image: "images/pqEys4amaG8z14ZJnDGF.png"
 **Hosts:** a16z, Deel, Orrick  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 4:00pm–7:00pm ET
 **Where:** Orrick · 51 W 52nd St, New York, NY 10019 · Midtown
-**Going:** 1139 of 1141
+**Going:** 1139 of 1154
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/pqEys4amaG8z14ZJnDGF
 **Map:** https://www.google.com/maps/search/?api=1&query=51%20W%2052nd%20St%2C%20New%20York%2C%20NY%2010019
@@ -65,6 +66,7 @@ Want to learn more about Deel? Get in touch here: https://www.deel.com/partners/
 Hosted by Deel, a16z & Orrick
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -20,9 +20,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["4r1CIfaQQQPa4kMHUpZpu2Kyl2k2", "7DFu4rITofNzKIjA7hCx", "clTOzCedptO0ZDEIzycc"]
 is_capped: false
-total_guest_count: 439
+total_guest_count: 446
 approved_guest_count: 0
 local_image: "images/EbLHvoBrSl7ZV6xScsgz.png"
+canceled: false
 ---
 
 # NYTW Kickoff Networking Breakfast
@@ -32,7 +33,7 @@ local_image: "images/EbLHvoBrSl7ZV6xScsgz.png"
 **Hosts:** XL AI  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 9:00am–12:00pm ET
 **Where:** Hudson Yards
-**Going:** 420 of 439
+**Going:** 420 of 446
 **RSVP:** https://partiful.com/e/EbLHvoBrSl7ZV6xScsgz
 
 ### Hosts on Partiful
@@ -69,6 +70,7 @@ XLAI is a founder-focused community running tech and founder events across NYC. 
 PlayMind Labs is a NYC behavioral analytics infrastructure company building real-time scoring APIs that help digital platforms understand user behavior as it happens. Find CEO Shay Bouchles with any questions. Learn more at www.playmindlabs.com or reach us at info@playmindlabs.com.
 
 Part of #NYTechWeek — learn more at www.tech-week.com.
+
 
 
 

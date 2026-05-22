@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["gCmPTG2GgGNqIiKqonD7cAAlL4p1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 62
-approved_guest_count: 0
+total_guest_count: 64
+approved_guest_count: 64
 local_image: "images/PJAnIbUBwQNC4wGsGaBq.gif"
+canceled: false
 ---
 
 # How Founders Hire, Lead & Scale Without Burnout
@@ -33,7 +34,7 @@ local_image: "images/PJAnIbUBwQNC4wGsGaBq.gif"
 **Hosts:** GroundedForward  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 12:30pm–1:00pm ET
 **Where:** Virtual (NYC)
-**Going:** 62
+**Going:** 62 of 64
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/PJAnIbUBwQNC4wGsGaBq
 
@@ -58,6 +59,7 @@ I currently serve as a People Advisor / Head of HR to multiple startups and ment
 My experience spans early-stage startups (10–50 employees), where I’ve built people functions from the ground up, and Fortune 500 environments supporting 800+ employees across multiple countries. I’m also a certified executive coach, helping founders strengthen leadership effectiveness, executive presence, and stakeholder influence.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

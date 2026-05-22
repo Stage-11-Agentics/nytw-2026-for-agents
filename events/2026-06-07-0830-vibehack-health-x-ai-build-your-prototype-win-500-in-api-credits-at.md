@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 221
 approved_guest_count: 85
 local_image: "images/sc4MhJbd0dglGivVnHYe.png"
+canceled: false
 ---
 
 # VibeHack: Health x AI - Build your prototype & win $500+ in API credits at
@@ -74,6 +75,7 @@ No deck required. Just bring your laptop, your idea, and the energy to build.
 Girls Into VC is the first non-profit organization dedicated to empowering the next generation of women in Venture Capital.
 
 This event is a part of #NYTechWeek —a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

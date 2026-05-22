@@ -29,6 +29,7 @@ remaining_capacity: -13
 total_guest_count: 56
 approved_guest_count: 33
 local_image: "images/DWeEKEPfH5j5K8rt6Q6W.png"
+canceled: false
 ---
 
 # Why Your Team Isn’t Scaling (Yet): A Live Leadership OS Diagnostic  - #NY TechWeek
@@ -57,6 +58,7 @@ As companies scale, the constraint isn’t product or funding - it’s how teams
 Where is execution breaking down most on your team right now? Alignment, ownership, follow-through, decision-making?
 
 This event is a part of #NY TechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

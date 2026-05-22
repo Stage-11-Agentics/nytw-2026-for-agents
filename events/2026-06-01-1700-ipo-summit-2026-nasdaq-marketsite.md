@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["BWQ3fX5L1tZgC6B2Xfkz6RGm5dg2", "7DFu4rITofNzKIjA7hCx", "gqHi7JadxQPw0yw4rLhW3TVdKnq2"]
 is_capped: false
-total_guest_count: 397
-approved_guest_count: 77
+total_guest_count: 405
+approved_guest_count: 78
 local_image: "images/ALTnfJqBtsExypyNvzAj.png"
+canceled: false
 ---
 
 # IPO Summit 2026 - Nasdaq MarketSite
@@ -34,7 +35,7 @@ local_image: "images/ALTnfJqBtsExypyNvzAj.png"
 **Hosts:** Sidebar Summit  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 5:00pm ET
 **Where:** 4 Times Square · 151 W 42nd St, New York, NY 10036 · Midtown
-**Going:** 396 of 397
+**Going:** 396 of 405
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ALTnfJqBtsExypyNvzAj
 **Map:** https://www.google.com/maps/search/?api=1&query=151%20W%2042nd%20St%2C%20New%20York%2C%20NY%2010036
@@ -55,6 +56,7 @@ Sidebar Summit is back! This time at one of the most iconic venues in finance: t
 Join an exclusive gathering of technology leaders, investors, and entrepreneurs for an afternoon of candid conversation, strategic insight, and high-caliber networking — set against the backdrop of the world's most recognized financial exchange.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

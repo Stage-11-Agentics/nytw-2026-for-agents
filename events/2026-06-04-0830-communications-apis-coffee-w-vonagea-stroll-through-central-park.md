@@ -26,6 +26,7 @@ remaining_capacity: 67
 total_guest_count: 54
 approved_guest_count: 33
 local_image: "images/AxEyDd2VdRrG1VU7mG3P.png"
+canceled: false
 ---
 
 # Communications APIs & Coffee w/ Vonage...A Stroll through Central Park
@@ -53,6 +54,7 @@ Bring your questions.
 Apply to the Vonage Startup Program here: https://vonage.dev/startups-NY-tech-week
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

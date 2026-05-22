@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 197
 approved_guest_count: 47
 local_image: "images/Sq84DVyhqLuB0Qj6vFhh.png"
+canceled: false
 ---
 
 # Speak Easy: Rooftop Pitch Lab
@@ -85,6 +86,7 @@ Thank you to our venue sponsor:
 VERSA Rooftop is NYC’s ultimate elevated sports bar, perfectly located steps from Madison Square Garden and Penn Station. Spanning nearly 9,000 square feet, VERSA features expansive open-air space and the City’s largest retractable Canopy, making it a year-round destination for upwards of 850 of your closest friends and colleagues. Whether you're catching the game, enjoying outdoor dining and drinks, or hosting a private event, VERSA delivers an energetic, elevated experience right in the middle of the action.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -26,9 +26,10 @@ owner_ids: ["WM0miS1v6eJmE6NLT88o", "x2zTS1hoev583mbqTlQh", "7DFu4rITofNzKIjA7hC
 is_capped: true
 max_capacity: 100
 remaining_capacity: 100
-total_guest_count: 66
+total_guest_count: 69
 approved_guest_count: 0
 local_image: "images/aT7YZV6DtRClIOEcIBSx.png"
+canceled: false
 ---
 
 # Prediction Markets Mixer
@@ -59,6 +60,7 @@ From regulation to real-world use cases, we’ll get into where the space is act
 Drinks, sharp conversations, and a crowd that actually gets it.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

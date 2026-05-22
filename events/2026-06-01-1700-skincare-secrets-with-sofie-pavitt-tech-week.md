@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["ju0pWmTxFlJDrqwCeQI0", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 184
-approved_guest_count: 23
+total_guest_count: 186
+approved_guest_count: 24
 local_image: "images/9GdJjzzsHpK4zpvr0dOl.jpg"
+canceled: false
 ---
 
 # Skincare Secrets with Sofie Pavitt -  Tech Week
@@ -33,7 +34,7 @@ local_image: "images/9GdJjzzsHpK4zpvr0dOl.jpg"
 **Hosts:** The Ok Sweetie Show, True Beauty Ventures
 **When:** Monday, June 1, 2026 · 5:00pm–7:00pm ET
 **Where:** SoHo
-**Going:** 183 of 184
+**Going:** 183 of 186
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/9GdJjzzsHpK4zpvr0dOl
 
@@ -52,6 +53,7 @@ Please arrive on time as the live podcast will begin promptly at 5:30pm.
 Thank you to our partners at Signal Labs and Nightcap for all their support!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

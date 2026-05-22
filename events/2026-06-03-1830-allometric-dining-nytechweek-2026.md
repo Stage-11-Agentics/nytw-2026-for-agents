@@ -29,6 +29,7 @@ remaining_capacity: 12
 total_guest_count: 360
 approved_guest_count: 0
 local_image: "images/ngqSYGVrZpgvkP9AuoFT.png"
+canceled: false
 ---
 
 # Allometric Dining #NYTechWeek 2026
@@ -90,6 +91,7 @@ If you sit at one of those tables, write to hello@allometry.com.
 
 
 This event is part of #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at tech-week.com.
+
 
 
 

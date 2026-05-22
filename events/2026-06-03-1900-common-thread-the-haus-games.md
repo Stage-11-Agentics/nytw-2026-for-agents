@@ -23,10 +23,11 @@ owner_count: 5
 owner_ids: ["6ULIpuqJjtzh0iB958oz", "EuGBtbNsGbUoUQ47BCM5", "Dlp3XnxylLcE7SXJcUT8HSAwuWq1", "7DFu4rITofNzKIjA7hCx", "08gMvYQMVtMUcbp2xD7qkuoRIRr1"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 99
-total_guest_count: 1
+remaining_capacity: 98
+total_guest_count: 2
 approved_guest_count: 0
 local_image: "images/4rKK0rE5UYPMKSO3bQoZ.png"
+canceled: false
 ---
 
 # Common Thread: The Haus Games
@@ -36,7 +37,7 @@ local_image: "images/4rKK0rE5UYPMKSO3bQoZ.png"
 **Hosts:** Fostr, Tera  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 7:00pm ET
 **Where:** Tara Rose · 384 Third Ave, New York, NY 10016 · Murray Hill
-**Capacity:** capped at 100 · 1 taken, 99 remaining
+**Capacity:** capped at 100 · 2 taken, 98 remaining
 **RSVP:** https://partiful.com/e/4rKK0rE5UYPMKSO3bQoZ
 **Map:** https://www.google.com/maps/search/?api=1&query=384%20Third%20Ave%2C%20New%20York%2C%20NY%2010016
 
@@ -85,6 +86,7 @@ This is a 21+ Event
 
 Content & Photography Notice:
 This event will be photographed and filmed. By purchasing a ticket and attending Common Thread: The Haus Games, you give Fostr and Tera permission to use photos and videos taken on the night for promotional purposes across our social media channels and marketing materials.
+
 
 
 

@@ -23,9 +23,10 @@ owner_ids: ["inRGIWKbozapKAhdOnaHELRzHrf2", "7DFu4rITofNzKIjA7hCx", "OJpFjrrrkDa
 is_capped: true
 max_capacity: 75
 remaining_capacity: 27
-total_guest_count: 310
+total_guest_count: 315
 approved_guest_count: 48
 local_image: "images/WDfboGXhdigeIntfwsNW.png"
+canceled: false
 ---
 
 # AI Collective Demo Night
@@ -82,6 +83,7 @@ AI Collective's Demo Night brings together the best minds in AI for an evening o
 ​​Unfortunately, space is very limited at these community events and we can not always accept everyone we would like to. If you are not accepted to this event, please keep applying! We appreciate your application tremendously and we are looking forward to seeing you at a future event very soon!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["3heFZy22CnXtrHDLO9vJ", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 246
+total_guest_count: 248
 approved_guest_count: 7
 local_image: "images/jk9RAhLXAwGUteraldWT.png"
+canceled: false
 ---
 
 # The AI GTM Book Club
@@ -36,7 +37,7 @@ local_image: "images/jk9RAhLXAwGUteraldWT.png"
 **Hosts:** Warrant  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 8:30am–10:00am ET
 **Where:** New York, NY · New York, NY · Chelsea
-**Going:** 245 of 246
+**Going:** 245 of 248
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/jk9RAhLXAwGUteraldWT
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -80,6 +81,7 @@ Together, they give marketing, legal, and compliance teams the structure to move
 Learn more at http://hellowarrant.com/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

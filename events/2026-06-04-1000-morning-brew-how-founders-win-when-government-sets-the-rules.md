@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["8IZXvl2vfUdldnqFy6qcrKbeeUv2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 89
+total_guest_count: 92
 approved_guest_count: 82
 local_image: "images/SH6BD91ODnGWa6TGY52P.png"
+canceled: false
 ---
 
 # Morning  Brew: How Founders Win When Government Sets the Rules
@@ -36,7 +37,7 @@ local_image: "images/SH6BD91ODnGWa6TGY52P.png"
 **Hosts:** Tusk Venture Partners, Odyssey
 **When:** Thursday, June 4, 2026 · 10:00am–12:00pm ET
 **Where:** P&T Knitwear · 180 Orchard St, New York, NY 10002 · Lower East Side
-**Going:** 89
+**Going:** 89 of 92
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/SH6BD91ODnGWa6TGY52P
 **Map:** https://www.google.com/maps/search/?api=1&query=180%20Orchard%20St%2C%20New%20York%2C%20NY%2010002
@@ -66,6 +67,7 @@ This discussion will explore:
 For founders, investors, and operators, this is a conversation about where innovation is headed next, and how to stay ahead of it.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 242
 approved_guest_count: 22
 local_image: "images/TDVls3ivYND4qPkb5ltW.png"
+canceled: false
 ---
 
 # #NYTechWeek Women Founder & Funder Dinner
@@ -52,6 +53,7 @@ EchoHer is hosting an invite-only dinner during NY Tech Week, bringing together 
 Generously sponsored by One Wall Street, the evening will feature a seated dinner in an elegant setting, followed by a private tour of the space—adding a memorable and immersive touch.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

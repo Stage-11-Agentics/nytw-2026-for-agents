@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 6
 owner_ids: ["rHxCovxMAacoEZ9KuJHPjAYLTDu2", "7DFu4rITofNzKIjA7hCx", "xpvIxjA7eha2VjlBr6k33rdhaaa2", "jYY4FSHvOINOTESXcxi37xmIqKg2", "UYuAoIBauwYSbU0yAop5YziWdL83", "A6QMGq8qSxO0ms2FI62s8LGwumO2"]
 is_capped: false
-total_guest_count: 579
-approved_guest_count: 214
+total_guest_count: 585
+approved_guest_count: 220
 local_image: "images/e0FYrBmBfIPXGQdUttNW.png"
+canceled: false
 ---
 
 # Google for Startups: Latest from Google DeepMind
@@ -35,7 +36,7 @@ local_image: "images/e0FYrBmBfIPXGQdUttNW.png"
 **Hosts:** Google for Startups  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 9:00am–10:45am ET
 **Where:** 110 W 19th St, New York, NY 10011 · Chelsea
-**Going:** 575 of 579
+**Going:** 575 of 585
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/e0FYrBmBfIPXGQdUttNW
 **Map:** https://www.google.com/maps/search/?api=1&query=110%20W%2019th%20St%2C%20New%20York%2C%20NY%2010011
@@ -67,6 +68,7 @@ We expect these sessions to fill up quickly and be in high demand.  Space is lim
 Guests will be permitted in the Google for Startups Hub only during the time slot they are approved for.  
 
 We invite all guests to return for the Google For Developers Happy Hour at 4p.  Only those with valid badges will be permitted, space allowing.
+
 
 
 

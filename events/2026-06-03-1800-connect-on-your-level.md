@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 94
 approved_guest_count: 80
 local_image: "images/GNv7CypZevOpJN6ol6Jk.jpg"
+canceled: false
 ---
 
 # Connect on Your LEVEL™
@@ -77,6 +78,7 @@ Address: 218 8th Ave, New York, NY 10011
 Come as you are—leave with new connections, fresh perspective, and perhaps something more.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 88
 approved_guest_count: 76
 local_image: "images/1mYYwDoQV3EtIxTp2kU6.png"
+canceled: false
 ---
 
 # Healthcare Power Walk for Real Talk |
@@ -61,6 +62,7 @@ Have questions or want to connect?
 - Reach out to Abe Kwon (Partner, Emerging Companies & Venture Capital) at akwon@lowenstein.com.
 - Reach out to Rachel Yee (VP, Life Sciences & Healthcare) at rayee@svb.com.
 - Reach out to Jean Kim (Strategy & Regulatory Advisor, Oughta) at kim@oughta.co.
+
 
 
 

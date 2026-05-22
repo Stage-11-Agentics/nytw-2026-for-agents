@@ -24,10 +24,11 @@ owner_count: 3
 owner_ids: ["7L2isZRy2mgPHEocJVgGMpcqSJ22", "aYEX81qeRhMFLs41itS2z0IdW573", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 140
-remaining_capacity: 65
-total_guest_count: 81
+remaining_capacity: 62
+total_guest_count: 83
 approved_guest_count: 0
 local_image: "images/kWJ6biyd9u1mGrlP3NU4.png"
+canceled: false
 ---
 
 # AI at Scale: From Deployment to Business Impact
@@ -37,7 +38,7 @@ local_image: "images/kWJ6biyd9u1mGrlP3NU4.png"
 **Hosts:** Jobbrex, SocialEDG  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 2:00pm–3:30pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Capacity:** capped at 140 · 75 taken, 65 remaining
+**Capacity:** capped at 140 · 78 taken, 62 remaining
 **RSVP:** https://partiful.com/e/kWJ6biyd9u1mGrlP3NU4
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
 
@@ -79,6 +80,7 @@ Thomson Reuters | Times Square, Midtown
 3 Times Sq, New York, NY
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

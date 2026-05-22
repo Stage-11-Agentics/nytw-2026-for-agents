@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["iTaPjJXA65tDh3knUNB2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 912
+total_guest_count: 922
 approved_guest_count: 0
 local_image: "images/OQcXidQ0QEKhEdW61f49.jpg"
+canceled: false
 ---
 
 # Mercury 
@@ -37,7 +38,7 @@ Vinyl House](images/OQcXidQ0QEKhEdW61f49.jpg)
 **Hosts:** Mercury  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 9:00am–3:00pm ET
 **Where:** Port Sa'id · 88 King St, New York, NY 10014 · SoHo
-**Going:** 810 of 912
+**Going:** 810 of 922
 **RSVP:** https://partiful.com/e/OQcXidQ0QEKhEdW61f49
 **Map:** https://www.google.com/maps/search/?api=1&query=88%20King%20St%2C%20New%20York%2C%20NY%2010014
 
@@ -90,6 +91,7 @@ Mercury is a radically different banking* product — engineered from the ground
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 The event hosts and sponsors may use the personal information collected from and about you for business purposes, including sending newsletters, updates, and other communications about services, programming, and events, unless you choose to opt out. Please note that a photographer will be on-site, and Mercury may use event photos in its marketing materials.
+
 
 
 

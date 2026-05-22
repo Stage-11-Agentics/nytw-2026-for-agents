@@ -24,9 +24,15 @@ remaining_capacity: 6
 total_guest_count: 51
 approved_guest_count: 24
 local_image: "images/jcGHr89B49F18BoiQmmx.png"
+canceled: true
+canceled_at: "2026-05-21T16:52:22.604Z"
+canceled_by: "J10089kxfsQALj94w2m3TaMdFzi2"
 ---
 
 # Stop Paying for Fake Users: A Workshop for Building an AI-stack for Fraud-proof Affiliate Growth
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-21T16:52:22.604Z_
 
 ![Stop Paying for Fake Users: A Workshop for Building an AI-stack for Fraud-proof Affiliate Growth](images/jcGHr89B49F18BoiQmmx.png)
 
@@ -49,6 +55,7 @@ local_image: "images/jcGHr89B49F18BoiQmmx.png"
 Fintech affiliate programs lose 30–43% of CPA spend to fraud: click injection, fake KYC completions, and synthetic identities that pass verification before vanishing. In this workshop, we'll break down the layered technical architecture that cuts fraud losses to under 3%, drawn from Konduit's firsthand experience deploying these systems across more than a dozen fintech unicorns. Attendees will leave with a working Claude Cowork agent they can deploy immediately to augment their growth team.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

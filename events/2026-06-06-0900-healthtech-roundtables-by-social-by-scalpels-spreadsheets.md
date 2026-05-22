@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["9K2ip5KfG1VOTKg73Vjq", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 56
+total_guest_count: 59
 approved_guest_count: 0
 local_image: "images/ojZeZf4Fgq48lmtmv0xx.png"
+canceled: false
 ---
 
 # Healthtech Roundtables by Social by Scalpels & Spreadsheets
@@ -36,7 +37,7 @@ local_image: "images/ojZeZf4Fgq48lmtmv0xx.png"
 **Hosts:** Scalpels & Spreadsheets  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 9:00am–12:00pm ET
 **Where:** 307 West 38th Street · 307 W 38th St, New York, NY 10018 · Midtown
-**Going:** 56
+**Going:** 56 of 59
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ojZeZf4Fgq48lmtmv0xx
 **Map:** https://www.google.com/maps/search/?api=1&query=307%20W%2038th%20St%2C%20New%20York%2C%20NY%2010018
@@ -63,6 +64,7 @@ Doors Open: 9.00AM
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

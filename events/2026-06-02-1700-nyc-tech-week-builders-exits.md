@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 96
 approved_guest_count: 0
 local_image: "images/tqFtk1LjwFwXxJJTLyaf.png"
+canceled: false
 ---
 
 # NYC Tech Week: Builders & Exits
@@ -72,6 +73,7 @@ Featuring:
 Expect a high-signal room, honest conversation, and real connections.
 
 Limited capacity. Approval required.
+
 
 
 

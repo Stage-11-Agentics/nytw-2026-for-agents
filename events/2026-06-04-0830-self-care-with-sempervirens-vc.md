@@ -24,10 +24,11 @@ owner_count: 3
 owner_ids: ["aKaJOO7UtvWn28oIWG2Z5TLhnfM2", "7DFu4rITofNzKIjA7hCx", "0RRWKIjKMJdN5mMvVEZeIt4DVuh2"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 20
-total_guest_count: 123
-approved_guest_count: 30
+remaining_capacity: 18
+total_guest_count: 128
+approved_guest_count: 32
 local_image: "images/0aiMw5kuhE8yIzGTMpy6.png"
+canceled: false
 ---
 
 # Self Care with SemperVirens VC  |
@@ -37,7 +38,7 @@ local_image: "images/0aiMw5kuhE8yIzGTMpy6.png"
 **Hosts:** SemperVirens  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 8:30am–11:00am ET
 **Where:** 132 W 31st St, New York, NY 10001 · Midtown
-**Capacity:** capped at 50 · 30 taken, 20 remaining
+**Capacity:** capped at 50 · 32 taken, 18 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/0aiMw5kuhE8yIzGTMpy6
 **Map:** https://www.google.com/maps/search/?api=1&query=132%20W%2031st%20St%2C%20New%20York%2C%20NY%2010001
@@ -60,6 +61,7 @@ Join us for a slow morning — think nourishing breakfast, coffee and juices, an
 Come when you can, leave when you need to!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

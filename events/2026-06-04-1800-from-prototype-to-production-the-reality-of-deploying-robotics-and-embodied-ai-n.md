@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["o2Nq2vsWEnVxnmrD2dPKDH0JGup2", "7DFu4rITofNzKIjA7hCx", "CJywqjf5QwT4lYLHeDWKffZStJ42"]
 is_capped: false
-total_guest_count: 191
+total_guest_count: 193
 approved_guest_count: 140
 local_image: "images/LjcDUfXhSF8zoLtGn03K.jpg"
+canceled: false
 ---
 
 # From Prototype to Production: The Reality of Deploying Robotics and Embodied AI - #NYCTechWeek
@@ -34,7 +35,7 @@ local_image: "images/LjcDUfXhSF8zoLtGn03K.jpg"
 **Hosts:** New York Robotics, 22 Astronauts  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 191
+**Going:** 191 of 193
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/LjcDUfXhSF8zoLtGn03K
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -66,6 +67,7 @@ Expect:
 
 This event is part of #NYTech Week—a week of events hosted by VCs and startups bringing together the tech ecosystem.
  Learn more at www.tech-week.com.
+
 
 
 

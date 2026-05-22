@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 8
 owner_ids: ["QOpFAiUjgoVX8wPRlCMDylys4pT2", "6Hbi8dGlMjVDfl4YMep1jBCnpPR2", "X7a2veUUbIbLRxoWLSnlcmgKsfL2", "xK2xrhlVa6a0nn9lW7ZZrAsHgL43", "7DFu4rITofNzKIjA7hCx", "9yb9hCLElcbDViid0mk9", "tXYPu3w5uwgIpMx1alpO9Xxifnl2", "2HOxyKETjjdzNUriQKbSGOqfLL92"]
 is_capped: false
-total_guest_count: 66
+total_guest_count: 70
 approved_guest_count: 3
 local_image: "images/NCbNEdj2iHAMwKqJkBHa.png"
+canceled: false
 ---
 
 # Grind & Grow: A Cacao Ceremony for Founders & Investors
@@ -33,7 +34,7 @@ local_image: "images/NCbNEdj2iHAMwKqJkBHa.png"
 **Hosts:** A-Players, Brderless  _(+6 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 9:00am–11:00am ET
 **Where:** Lower East Side
-**Going:** 66
+**Going:** 66 of 70
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/NCbNEdj2iHAMwKqJkBHa
 
@@ -76,6 +77,7 @@ wiggin(x) is Wiggin and Dana’s venture-focused platform for high-growth compan
 Silicon Valley Bank (SVB) specializes in providing clients, especially at the earliest stages, a dedicated Relationship Team to help founders access startup-focused resources (including venture debt), optimize their banking infrastructure, and bridge relevant connections across the innovation economy.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -25,20 +25,26 @@ owner_count: 4
 owner_ids: ["jexjlis0vIR5IZ9fCAWzlnnSQOr1", "7DFu4rITofNzKIjA7hCx", "ld9fh1AmrIXQproYALEOwPL6BhD2", "hi0nnVyIsfeto0IleDRtJMBFRDu2"]
 is_capped: true
 max_capacity: 300
-remaining_capacity: 202
-total_guest_count: 115
-approved_guest_count: 98
+remaining_capacity: 203
+total_guest_count: 114
+approved_guest_count: 97
 local_image: "images/T3BAFsqBE9zGGewtNSm0.png"
+canceled: true
+canceled_at: "2026-05-21T16:25:57.247Z"
+canceled_by: "jexjlis0vIR5IZ9fCAWzlnnSQOr1"
 ---
 
 # Signals in the Storm:  The Future of Public Safety
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-21T16:25:57.247Z_
 
 ![Signals in the Storm:  The Future of Public Safety](images/T3BAFsqBE9zGGewtNSm0.png)
 
 **Hosts:** NYSTEC  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 3:00pm–7:30pm ET
 **Where:** Civic Hall · 124 E 14th St, New York, NY 10003 · Union Square
-**Capacity:** capped at 300 · 98 taken, 202 remaining
+**Capacity:** capped at 300 · 97 taken, 203 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/T3BAFsqBE9zGGewtNSm0
 **Map:** https://www.google.com/maps/search/?api=1&query=124%20E%2014th%20St%2C%20New%20York%2C%20NY%2010003
@@ -60,6 +66,7 @@ Join us for Signals in the Storm, an immersive public safety event bringing toge
 The program features a panel discussion, interactive technology demos and exhibits, and dedicated time to connect with peers across the public safety community. Light refreshments will be provided.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

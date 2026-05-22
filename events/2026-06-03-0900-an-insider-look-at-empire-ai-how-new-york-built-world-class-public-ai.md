@@ -23,10 +23,11 @@ owner_count: 3
 owner_ids: ["yhWm5nw5mT9PQx4JD8IG", "7DFu4rITofNzKIjA7hCx", "48S5TDPdNBTUt0kp4MJS"]
 is_capped: true
 max_capacity: 150
-remaining_capacity: 26
-total_guest_count: 128
+remaining_capacity: 18
+total_guest_count: 137
 approved_guest_count: 0
 local_image: "images/fFd0btC2b2HFv0yHTmrl.png"
+canceled: false
 ---
 
 # An insider look at Empire AI: how New York built world-class public AI
@@ -36,7 +37,7 @@ local_image: "images/fFd0btC2b2HFv0yHTmrl.png"
 **Hosts:** HR&A Advisors, Tech:NYC  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 9:00am ET
 **Where:** Civic Hall · 124 E 14th St, New York, NY 10003 · Midtown
-**Capacity:** capped at 150 · 124 taken, 26 remaining
+**Capacity:** capped at 150 · 132 taken, 18 remaining
 **RSVP:** https://partiful.com/e/fFd0btC2b2HFv0yHTmrl
 **Map:** https://www.google.com/maps/search/?api=1&query=124%20E%2014th%20St%2C%20New%20York%2C%20NY%2010003
 
@@ -59,6 +60,7 @@ The event features:
 - Giacomo Bagarella, Principal, HR&A Advisors (moderator)
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

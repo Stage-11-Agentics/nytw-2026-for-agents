@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["iSUVg4fNhbSVWGqkH5PyfhDXWj03", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 133
+total_guest_count: 135
 approved_guest_count: 102
 local_image: "images/TfQk8z0Kzm00HCm55rVN.png"
+canceled: false
 ---
 
 # Money in 2036: The Future of Finance and How We Get There
@@ -33,7 +34,7 @@ local_image: "images/TfQk8z0Kzm00HCm55rVN.png"
 **Hosts:** CreditBridge, NYU Blockchain Lab
 **When:** Friday, June 5, 2026 · 1:00pm–4:00pm ET
 **Where:** SoHo
-**Going:** 133
+**Going:** 133 of 135
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/TfQk8z0Kzm00HCm55rVN
 
@@ -54,6 +55,7 @@ We're putting together a panel featuring leaders in traditional finance, DeFi, c
 Hosted by CreditBridge and NYU Blockchain Club, as part of #NYCTechWeek.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

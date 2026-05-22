@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["4HTFLapxufSa49SBiTYubyTEhNr2", "taOhXzoUKLfP7DbIAJZNJc4LArq2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 207
+total_guest_count: 213
 approved_guest_count: 0
 local_image: "images/S4lPq961p4AgBePznzvu.png"
+canceled: false
 ---
 
 # 🏌️Lunch Time Tee-Off w/ Citizens Bank & Deel
@@ -36,7 +37,7 @@ local_image: "images/S4lPq961p4AgBePznzvu.png"
 **Hosts:** Deel, Citizens Private Bank  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 12:00pm–2:00pm ET
 **Where:** Chelsea · Chelsea, Manhattan, New York, NY · Chelsea
-**Going:** 207
+**Going:** 207 of 213
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/S4lPq961p4AgBePznzvu
 **Map:** https://www.google.com/maps/search/?api=1&query=Chelsea%2C%20Chelsea%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -69,6 +70,7 @@ Deel
 **If you RSVP to an event, we ask that you attend. Repeated no-shows may impact approval for future events.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

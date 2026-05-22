@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["TcqU5BM2tdcjY3xv7KoVEbzImxh2", "7DFu4rITofNzKIjA7hCx", "D4YtiHl4xrQqmXxFfhu2"]
 is_capped: false
-total_guest_count: 94
+total_guest_count: 101
 approved_guest_count: 0
 local_image: "images/NliTjJnlzHdCsjcx3JFS.gif"
+canceled: false
 ---
 
 # Above Fridays at PhD lounge by Stephen Michael Never Look Back
@@ -33,7 +34,7 @@ local_image: "images/NliTjJnlzHdCsjcx3JFS.gif"
 **Hosts:** Propel Earth  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 9:00pm ET
 **Where:** PHD Rooftop Lounge · 355 W 16th St, New York, NY 10011 · Chelsea
-**Going:** 93 of 94
+**Going:** 93 of 101
 **RSVP:** https://partiful.com/e/NliTjJnlzHdCsjcx3JFS
 **Map:** https://www.google.com/maps/search/?api=1&query=355%20W%2016th%20St%2C%20New%20York%2C%20NY%2010011
 
@@ -49,6 +50,7 @@ local_image: "images/NliTjJnlzHdCsjcx3JFS.gif"
 Investors and founders informal mixer with networking at PhD Lounge.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

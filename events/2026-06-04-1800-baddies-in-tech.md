@@ -21,11 +21,12 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["NZm73Y1kwQeMN6Rv5ork1rWiJwH3", "7DFu4rITofNzKIjA7hCx", "MqPTDIS2SyWHd9j59ruqlfi9Sdy1"]
 is_capped: true
-max_capacity: 45
-remaining_capacity: 0
-total_guest_count: 165
-approved_guest_count: 45
+max_capacity: 50
+remaining_capacity: 4
+total_guest_count: 169
+approved_guest_count: 46
 local_image: "images/BHebxeHV8NH7GxZdypXE.png"
+canceled: false
 ---
 
 # Baddies In Tech
@@ -35,7 +36,7 @@ local_image: "images/BHebxeHV8NH7GxZdypXE.png"
 **Hosts:** Karamacare, Resident  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
 **Where:** 115 E 23rd St, New York, NY 10010 · Union Square
-**Capacity:** capped at 45 · 45 taken, 0 remaining · ⚠ **FULL**
+**Capacity:** capped at 50 · 46 taken, 4 remaining
 **Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/BHebxeHV8NH7GxZdypXE
@@ -63,6 +64,7 @@ Come as you are. Leave with your people. 🤍
 Good energy only.✨
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -17,15 +17,30 @@ visibility: "public"
 at_capacity: false
 badges: []
 fetch_status: ok
+owner_count: 2
+owner_ids: ["K5BvXyKdG9ajSoXIYLo9FucCyHy2", "7DFu4rITofNzKIjA7hCx"]
+is_capped: false
+canceled: false
+total_guest_count: 0
+approved_guest_count: 0
+local_image: "images/AbbL1aqeScPPUW22Ijrf.png"
 ---
 
 # From Prototype to Production for Non-Technical Founders
 
-**Host:** Tequity
+![From Prototype to Production for Non-Technical Founders](images/AbbL1aqeScPPUW22Ijrf.png)
+
+**Hosts:** Tequity  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 8:00am ET
 **Where:** Flatiron · Flatiron, Manhattan, New York, NY · Flatiron
 **RSVP:** https://partiful.com/e/AbbL1aqeScPPUW22Ijrf
 **Map:** https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY
+
+### Hosts on Partiful
+
+- [Rahul Nair](https://partiful.com/u/K5BvXyKdG9ajSoXIYLo9FucCyHy2)
+- _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
+
 
 ## Description
 
@@ -54,6 +69,7 @@ Hosted by Applied AI at Tequity, the engineering team that ships AI products for
 Coffee provided.
 
 This event is a part of NYC Tech Week, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 ---
 

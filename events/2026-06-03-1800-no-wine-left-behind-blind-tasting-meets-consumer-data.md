@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["TEn1kn3m8HYJzMTRHdEkFUrK0Hl1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 245
-approved_guest_count: 224
+total_guest_count: 247
+approved_guest_count: 222
 local_image: "images/1fVvsQZUFf7Dohot0Ed9.jpg"
+canceled: false
 ---
 
 # No Wine Left Behind: Blind Tasting Meets Consumer Data
@@ -36,7 +37,7 @@ local_image: "images/1fVvsQZUFf7Dohot0Ed9.jpg"
 **Hosts:** No Wine Left Behind, Le Dû’s Wines
 **When:** Wednesday, June 3, 2026 · 6:00pm–8:00pm ET
 **Where:** West Village · West Village, Manhattan, New York, NY · West Village
-**Going:** 245
+**Going:** 245 of 247
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/1fVvsQZUFf7Dohot0Ed9
 **Map:** https://www.google.com/maps/search/?api=1&query=West%20Village%2C%20West%20Village%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -65,6 +66,7 @@ Perks:
 – A chance to help decide what gets stocked at Le Dû’s
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

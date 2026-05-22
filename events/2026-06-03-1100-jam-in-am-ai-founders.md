@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 65
 approved_guest_count: 44
 local_image: "images/0TsrnbBR1D2fI4HqJRcj.png"
+canceled: false
 ---
 
 # Jam in AM | AI founders @
@@ -56,6 +57,7 @@ Kick off #NYTechWeek with a morning meetup made for founders, builders, and ever
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

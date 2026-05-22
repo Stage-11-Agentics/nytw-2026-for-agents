@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["cztrXmOLaGfZZgQTUM6jHT0FmUt2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 26
+total_guest_count: 28
 approved_guest_count: 0
 local_image: "images/CU8HGeTEOW6mmQouXu4R.png"
+canceled: false
 ---
 
 # ​SMB Healthcare Benefits Breakfast
@@ -36,7 +37,7 @@ local_image: "images/CU8HGeTEOW6mmQouXu4R.png"
 **Hosts:** CEO, DentalFynd
 **When:** Thursday, June 4, 2026 · 9:00am–10:30am ET
 **Where:** New York, NY · New York, NY · Flatiron
-**Going:** 26
+**Going:** 26 of 28
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/CU8HGeTEOW6mmQouXu4R
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -61,6 +62,7 @@ Learn more about our tech-enabled dental plans here. https://dentalfynd.us/patie
 Questions? Reach us at hello@dentalfynd.com.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

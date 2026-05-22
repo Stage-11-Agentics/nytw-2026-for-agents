@@ -25,10 +25,11 @@ owner_count: 5
 owner_ids: ["Hc3Aico8FXVFkZlk8mzxg38NIiR2", "LcZD2hHcN8bugyJLSW7lnXD2N4k1", "UH7VYlZKNqMB5wcwLWIM403EjAs2", "7DFu4rITofNzKIjA7hCx", "GpohFMxkIpeTGfxNI5FwciPMEZQ2"]
 is_capped: true
 max_capacity: 250
-remaining_capacity: 168
+remaining_capacity: 170
 total_guest_count: 93
-approved_guest_count: 82
+approved_guest_count: 80
 local_image: "images/I3ROKuMjZcyfAcyUQcp8.png"
+canceled: false
 ---
 
 # Building AI-Powered Customer Retention Systems
@@ -38,7 +39,7 @@ local_image: "images/I3ROKuMjZcyfAcyUQcp8.png"
 **Hosts:** Wooxy  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 10:00am–12:00pm ET
 **Where:** Pace University Seidenberg School Of Computer Science And Information Systems · 15 Beekman St, New York, NY 10038 · Financial District
-**Capacity:** capped at 250 · 82 taken, 168 remaining
+**Capacity:** capped at 250 · 80 taken, 170 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/I3ROKuMjZcyfAcyUQcp8
 **Map:** https://www.google.com/maps/search/?api=1&query=15%20Beekman%20St%2C%20New%20York%2C%20NY%2010038
@@ -96,6 +97,7 @@ All participants receive 3 months of free access to Wooxy, so you can continue b
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 This event is sponsored by The Front Yard at Pace University.  Learn more about their entrepreneur program at: https://www.linkedin.com/company/the-front-yard-at-pace-university
+
 
 
 

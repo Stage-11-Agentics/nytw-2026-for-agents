@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["Y1yQu7afzjcbIt5L9RjlxtrxZ3I2", "7DFu4rITofNzKIjA7hCx", "llJDRN0fs1yQCpyDXbIQ"]
 is_capped: false
-total_guest_count: 131
+total_guest_count: 132
 approved_guest_count: 40
 local_image: "images/CVDYwREXwTGlAxsek3BM.png"
+canceled: false
 ---
 
 # Creative Systems Happy Hour: AI for Commercial-Grade Design
@@ -33,7 +34,7 @@ local_image: "images/CVDYwREXwTGlAxsek3BM.png"
 **Hosts:** Virse Labs  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
 **Where:** Flatiron
-**Going:** 131
+**Going:** 131 of 132
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/CVDYwREXwTGlAxsek3BM
 
@@ -65,6 +66,7 @@ Who this is for:
 - You are excited about creative AI!!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

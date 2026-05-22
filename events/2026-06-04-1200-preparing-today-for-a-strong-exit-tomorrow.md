@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["aouKpeA0WoNnsaBp3IN08nWisqY2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 78
-approved_guest_count: 60
+total_guest_count: 82
+approved_guest_count: 62
 local_image: "images/WXYNNxKX6xuZYPv1R0nY.png"
+canceled: false
 ---
 
 # Preparing Today for a Strong Exit Tomorrow
@@ -34,7 +35,7 @@ local_image: "images/WXYNNxKX6xuZYPv1R0nY.png"
 **Hosts:** Ellis Law Group  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 12:00pm ET
 **Where:** Midtown East · Midtown East, Manhattan, New York, NY · Midtown
-**Going:** 77 of 78
+**Going:** 77 of 82
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/WXYNNxKX6xuZYPv1R0nY
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%20East%2C%20Midtown%20East%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -71,6 +72,7 @@ Location details coming soon.
 
 This event is part of #NYTechWeek, a citywide series that brings together founders, investors, and operators across the tech ecosystem.
 Learn more at www.tech-week.com.
+
 
 
 

@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["pujFpqAjGdVYNtBAFJrYupkFuYg1", "gjlHyjRU3FtOIaxNsFvR", "7DFu4rITofNzKIjA7hCx", "oXvym8wmevfIxIkWDUYekXvjN5D2"]
 is_capped: false
-total_guest_count: 273
-approved_guest_count: 140
+total_guest_count: 279
+approved_guest_count: 148
 local_image: "images/gm6d8Dmrh9UeDnDUlKrW.png"
+canceled: false
 ---
 
 # The New GTM Stack: How Startups Win Distribution Today
@@ -35,7 +36,7 @@ local_image: "images/gm6d8Dmrh9UeDnDUlKrW.png"
 **Hosts:** EchoHer, Witti Marketing  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 2:00pm–4:00pm ET
 **Where:** 29 Little W 12th St, New York, NY 10014 · West Village
-**Going:** 271 of 273
+**Going:** 271 of 279
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/gm6d8Dmrh9UeDnDUlKrW
 **Map:** https://www.google.com/maps/search/?api=1&query=29%20Little%20W%2012th%20St%2C%20New%20York%2C%20NY%2010014
@@ -72,6 +73,7 @@ Multi-channel growth strategy
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

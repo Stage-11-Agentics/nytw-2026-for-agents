@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 37
 approved_guest_count: 0
 image_download_error: "HTTP Error 403: Forbidden"
+canceled: false
 ---
 
 # Collective Action for AI Safety
@@ -75,6 +76,7 @@ The powerful don't want you to have leverage. The status quo is betting you'll s
 We’re in, if you’re in.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

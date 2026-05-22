@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["9eJrNjIu7JFLpzX4d8yy", "lkHXThR6tzTYq8BmJcxx", "X6ytBVpxXxXObrqKTKaJ6tn7eAJ3"]
 is_capped: false
-total_guest_count: 132
-approved_guest_count: 69
+total_guest_count: 134
+approved_guest_count: 79
 local_image: "images/aJLpUi2Ui1WZYrGLTHiF.png"
+canceled: false
 ---
 
 # Law in the Age of AI
@@ -36,7 +37,7 @@ local_image: "images/aJLpUi2Ui1WZYrGLTHiF.png"
 **Hosts:** SimpleClosure, Carta  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 8:30am–10:30am ET
 **Where:** Primary Venture Management · 386 Park Ave S, New York, NY 10016 · SoHo
-**Going:** 131 of 132
+**Going:** 131 of 134
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/aJLpUi2Ui1WZYrGLTHiF
 **Map:** https://www.google.com/maps/search/?api=1&query=386%20Park%20Ave%20S%2C%20New%20York%2C%20NY%2010016
@@ -80,6 +81,7 @@ About SimpleClosure: SimpleClosure is the shutdown partner for founders and star
 About Carta: Carta is the leading cap table management platform trusted by startups and investors to manage equity, valuations, and cap table administration.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

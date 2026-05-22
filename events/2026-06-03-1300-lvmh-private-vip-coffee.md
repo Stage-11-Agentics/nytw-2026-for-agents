@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["wiRIaZzitiTRT8QygzsClZYdlHS2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 199
+total_guest_count: 200
 approved_guest_count: 0
 local_image: "images/dyCpr134CU69bhNKxNGq.jpg"
+canceled: false
 ---
 
 # LVMH Private VIP Coffee
@@ -34,7 +35,7 @@ local_image: "images/dyCpr134CU69bhNKxNGq.jpg"
 **Hosts:** Serena Wang  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 1:00pm ET
 **Where:** Le Café Louis Vuitton NYC · 6 E 57th St, Fl 4, New York, NY 10022 · Upper East Side
-**Going:** 197 of 199
+**Going:** 197 of 200
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/dyCpr134CU69bhNKxNGq
 **Map:** https://www.google.com/maps/search/?api=1&query=6%20E%2057th%20St%2C%20Fl%204%2C%20New%20York%2C%20NY%2010022
@@ -50,6 +51,7 @@ local_image: "images/dyCpr134CU69bhNKxNGq.jpg"
 An invite-only private coffee chat hosted at the LVMH cafe. This is exclusive to GPs, principal investors, and founders in Serena Wang’s community.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

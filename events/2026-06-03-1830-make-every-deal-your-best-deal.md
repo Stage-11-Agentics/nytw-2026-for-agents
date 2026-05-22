@@ -26,6 +26,7 @@ remaining_capacity: 19
 total_guest_count: 38
 approved_guest_count: 11
 local_image: "images/9x67cUmFh48zj6PY01IC.png"
+canceled: false
 ---
 
 # Make Every Deal your Best Deal
@@ -54,6 +55,7 @@ Join Lumaril and General Catalyst at our New York HQ for a night of poker, good 
 No buy-in. No dress code. Just sharp people having a good time.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

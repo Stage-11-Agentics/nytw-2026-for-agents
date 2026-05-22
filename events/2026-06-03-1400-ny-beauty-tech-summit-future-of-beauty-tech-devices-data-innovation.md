@@ -23,9 +23,10 @@ owner_ids: ["bBJamfyzGbVRELbIdAIu6E8CmHn2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 70
 remaining_capacity: 0
-total_guest_count: 148
+total_guest_count: 151
 approved_guest_count: 0
 local_image: "images/e32DJWAieEIPVwRTAxLU.jpg"
+canceled: false
 ---
 
 # NY Beauty Tech Summit: Future of Beauty Tech Devices, Data & Innovation
@@ -51,6 +52,7 @@ local_image: "images/e32DJWAieEIPVwRTAxLU.jpg"
 The Future of Beauty Tech: Devices, Data & Innovation
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

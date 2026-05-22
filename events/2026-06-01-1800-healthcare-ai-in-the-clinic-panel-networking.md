@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["CAnfHcKqyydq82IBMvpR", "XIWqfNsnxyVbpo4lLxL8rv49Cvl2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 259
-approved_guest_count: 87
+total_guest_count: 261
+approved_guest_count: 86
 local_image: "images/HGE7C0HO0VIVhZG5wJwX.png"
+canceled: false
 ---
 
 # Healthcare AI In the Clinic - Panel & Networking
@@ -31,7 +32,7 @@ local_image: "images/HGE7C0HO0VIVhZG5wJwX.png"
 **Hosts:** Confido Health  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:00pm ET
 **Where:** Midtown
-**Going:** 259
+**Going:** 259 of 261
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/HGE7C0HO0VIVhZG5wJwX
 
@@ -57,6 +58,7 @@ Moderated by Dr. Raihan Faroqui, VP of Partnerships at Confido Health, the panel
 Confido Health has deployed across more than 1,000 sites, and those deployments inform the conversation throughout. But this is not a product pitch. The goal is to give PE operating partners, AI and technology advisors, MSO and DSO leaders, and healthcare operators a room where the questions are practical and the answers are grounded in what these groups are seeing right now.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["r1HQcxBufIckLJmYm1RKRhLUKEo1", "miIhAjTZRJoFd1pKLShN", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 684
+total_guest_count: 691
 approved_guest_count: 68
 local_image: "images/LCvyYaFwldgIhU0yb8cW.png"
+canceled: false
 ---
 
 # Tech Week Closing Party by Madeline & Co. + Excelsior Edge Ventures
@@ -36,7 +37,7 @@ local_image: "images/LCvyYaFwldgIhU0yb8cW.png"
 **Hosts:** Madeline & Co., Excelsior Edge Ventures  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 7:00pm–10:00pm ET
 **Where:** Ketchy Shuby · 406 Broome St, New York, NY 10013 · SoHo
-**Going:** 683 of 684
+**Going:** 683 of 691
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/LCvyYaFwldgIhU0yb8cW
 **Map:** https://www.google.com/maps/search/?api=1&query=406%20Broome%20St%2C%20New%20York%2C%20NY%2010013
@@ -107,6 +108,7 @@ https://www.thelewfirm.com/
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["E2T6mEePmEXi4tO1qbX0WXoKOYI3", "7DFu4rITofNzKIjA7hCx", "cKssDvujGChMCvJZOMAZPT7ORs22", "fP4gvG4TPGNX3n80XNBnSjPsmkf1", "wWkhR3Dbtuedw3vOX56ABQ44YM52"]
 is_capped: false
-total_guest_count: 174
+total_guest_count: 176
 approved_guest_count: 56
 local_image: "images/ifuH1HpxZuX8IjSb3Khb.jpg"
+canceled: false
 ---
 
 # Accelerate AI Summit: Australian x US AI
@@ -34,7 +35,7 @@ local_image: "images/ifuH1HpxZuX8IjSb3Khb.jpg"
 **Hosts:** American Australian Association  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 8:00am ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 173 of 174
+**Going:** 173 of 176
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ifuH1HpxZuX8IjSb3Khb
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -73,6 +74,7 @@ Join American Australian Association, Austrade and Tech Council of Australia for
 ​- An executive session with Goldman Sachs
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

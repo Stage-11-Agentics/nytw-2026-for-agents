@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["nSZmKuFfi2c9yhXlwzfOwS493M93", "7DFu4rITofNzKIjA7hCx", "G32wyfPFxOYDCk8hQo4QifBQXf62"]
 is_capped: false
-total_guest_count: 128
+total_guest_count: 136
 approved_guest_count: 84
 local_image: "images/2sVPnwqQOK5sF4FckWXf.png"
+canceled: false
 ---
 
 # Rat Pack Hack with Lovable
@@ -36,7 +37,7 @@ local_image: "images/2sVPnwqQOK5sF4FckWXf.png"
 **Hosts:** Paradigm  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 10:00am–3:00pm ET
 **Where:** Ramp · 28 W 23rd St, FL 2, New York, NY 10010 · Flatiron
-**Going:** 128
+**Going:** 128 of 136
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/2sVPnwqQOK5sF4FckWXf
 **Map:** https://www.google.com/maps/search/?api=1&query=28%20W%2023rd%20St%2C%20FL%202%2C%20New%20York%2C%20NY%2010010
@@ -63,6 +64,7 @@ All apps will be reviewed by a panel of expert judges, including Lovable experts
 All skill levels welcome. 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

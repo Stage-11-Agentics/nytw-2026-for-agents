@@ -23,9 +23,10 @@ owner_ids: ["LcZD2hHcN8bugyJLSW7lnXD2N4k1", "7DFu4rITofNzKIjA7hCx", "UH7VYlZKNqM
 is_capped: true
 max_capacity: 100
 remaining_capacity: 59
-total_guest_count: 43
+total_guest_count: 44
 approved_guest_count: 41
 local_image: "images/JcyP1ORbOE16X2gY5wAu.png"
+canceled: false
 ---
 
 # Equity to Estate - Turning Startup Wealth into Long-Term Legacy
@@ -54,6 +55,7 @@ In the startup world, years of hard work often translate into concentrated, even
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 This event is sponsored by The Front Yard at Pace University.  Learn more about their entrepreneur program at www.linkedin.com/company/the-front-yard-at-pace-university
+
 
 
 

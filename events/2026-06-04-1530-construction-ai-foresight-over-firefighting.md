@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["GwilUNBDT6drpmMmxmr5wB8KvGK2", "7DFu4rITofNzKIjA7hCx", "AlJJHUdjL0cPQQKWBpRcPceFPtS2"]
 is_capped: false
-total_guest_count: 45
+total_guest_count: 46
 approved_guest_count: 37
 local_image: "images/Zvvlqyq8a1QOStZXGQry.jpg"
+canceled: false
 ---
 
 # Construction: AI Foresight Over Firefighting
@@ -31,7 +32,7 @@ local_image: "images/Zvvlqyq8a1QOStZXGQry.jpg"
 **Hosts:** Jobotics, Bowser AI  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 3:30pm ET
 **Where:** Financial District
-**Going:** 45
+**Going:** 45 of 46
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Zvvlqyq8a1QOStZXGQry
 
@@ -70,6 +71,7 @@ If you care about applying AI beyond the screen - into the physical world - this
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com. 
 
 Know someone else who might be interested in attending? Forward this to them.
+
 
 
 

@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["4S0YA5gnWaVn1f1wdsQCzb7Rfry1", "V8AYy1N1iQd5IpwXRGrIppnBKC03", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 38
+total_guest_count: 39
 approved_guest_count: 15
 local_image: "images/xC3JsNbWiiEfrxXOijHQ.png"
+canceled: false
 ---
 
 # The City at Play:
@@ -33,7 +34,7 @@ Locamotive Tech in NYC](images/xC3JsNbWiiEfrxXOijHQ.png)
 **Hosts:** 20Week Festival, Stoop Sets  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:30pm ET
 **Where:** Brooklyn
-**Going:** 38
+**Going:** 38 of 39
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/xC3JsNbWiiEfrxXOijHQ
 
@@ -53,6 +54,7 @@ Join 20Week Festival and Stoop Sets for a conversation about locamotive games an
 Featuring speakers from the frontier of location-based entertainment, interactive storytelling, and neighborhood-scale experience design.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

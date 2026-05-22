@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["o2Nq2vsWEnVxnmrD2dPKDH0JGup2", "CwsxP00cwnoI87JX9eDO", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 266
+total_guest_count: 270
 approved_guest_count: 233
 local_image: "images/FymrHYN71HqMEA2aqaO4.jpg"
+canceled: false
 ---
 
 # Humans, Robots & The Factory Floor –
@@ -36,7 +37,7 @@ local_image: "images/FymrHYN71HqMEA2aqaO4.jpg"
 **Hosts:** New York Robotics, American Manufacturing Futures Institute  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 3:30pm–5:30pm ET
 **Where:** Brooklyn · Brooklyn, New York, NY · Brooklyn
-**Going:** 266
+**Going:** 266 of 270
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/FymrHYN71HqMEA2aqaO4
 **Map:** https://www.google.com/maps/search/?api=1&query=Brooklyn%2C%20Brooklyn%2C%20New%20York%2C%20NY
@@ -76,6 +77,7 @@ New York Robotics (NYR) is a nonprofit organization dedicated to advancing the r
 The American Manufacturing Futures Institute (AMFI) is a national 501(c)(3) advancing U.S. manufacturing through the intersection of policy, people, and place.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

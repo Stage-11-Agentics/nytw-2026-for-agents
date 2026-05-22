@@ -22,10 +22,11 @@ owner_count: 4
 owner_ids: ["Vyt4mypnWYNsPQLat8aM", "7DFu4rITofNzKIjA7hCx", "lkHXThR6tzTYq8BmJcxx", "qPe4nG5jS9Y7OuvsjCWBmgyuJQt1"]
 is_capped: true
 max_capacity: 375
-remaining_capacity: 248
-total_guest_count: 158
-approved_guest_count: 127
+remaining_capacity: 220
+total_guest_count: 164
+approved_guest_count: 155
 local_image: "images/J6blMPb7wLXWeNTeuJCN.jpg"
+canceled: false
 ---
 
 # How We Build with Agents
@@ -35,7 +36,7 @@ local_image: "images/J6blMPb7wLXWeNTeuJCN.jpg"
 **Hosts:** Betaworks  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm ET
 **Where:** 29 Little W 12th St, New York, NY 10014 · Meatpacking District
-**Capacity:** capped at 375 · 127 taken, 248 remaining
+**Capacity:** capped at 375 · 155 taken, 220 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/J6blMPb7wLXWeNTeuJCN
 **Map:** https://www.google.com/maps/search/?api=1&query=29%20Little%20W%2012th%20St%2C%20New%20York%2C%20NY%2010014
@@ -57,6 +58,7 @@ Speaker List TBD!
 Hosted by Betaworks, Carta, and Differential Ventures
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

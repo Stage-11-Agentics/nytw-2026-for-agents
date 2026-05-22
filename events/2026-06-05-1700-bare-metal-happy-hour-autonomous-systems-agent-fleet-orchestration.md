@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 32
 approved_guest_count: 30
 local_image: "images/jkjGahQgmH9PLIxjfTFt.png"
+canceled: false
 ---
 
 # Bare Metal Happy Hour: Autonomous Systems & Agent Fleet Orchestration
@@ -66,6 +67,7 @@ Expect to talk about things like:
 Whether you're orchestrating agents through Claude or running Llama on bare metal, come ready to talk implementation details with people who are building the same way you are.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

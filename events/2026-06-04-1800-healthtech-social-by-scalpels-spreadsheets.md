@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 47
 approved_guest_count: 0
 local_image: "images/zBR84Ayt1fwNpL7b6SCX.png"
+canceled: false
 ---
 
 # Healthtech Social by Scalpels & Spreadsheets
@@ -65,6 +66,7 @@ Panel: 3.00PM - 3.45PM
 Networking: 3.45 - 5.00PM 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["ahVxpJsp11zKmHM2mZQq", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 123
+total_guest_count: 126
 approved_guest_count: 0
 local_image: "images/b2flvvvnTgn0MKshqnt5.jpg"
+canceled: false
 ---
 
 # Startup Storytelling
@@ -33,7 +34,7 @@ local_image: "images/b2flvvvnTgn0MKshqnt5.jpg"
 **Hosts:** Pollen8, Die-Hard.io, Edge Studio
 **When:** Wednesday, June 3, 2026 · 5:00pm ET
 **Where:** Edge Studio Voice Over · 115 W 45th St, FL 8, New York, NY 10036 · Midtown
-**Going:** 119 of 123
+**Going:** 119 of 126
 **RSVP:** https://partiful.com/e/b2flvvvnTgn0MKshqnt5
 **Map:** https://www.google.com/maps/search/?api=1&query=115%20W%2045th%20St%2C%20FL%208%2C%20New%20York%2C%20NY%2010036
 
@@ -81,6 +82,7 @@ Insights on building trust and audience connection
 A high-energy, social networking environment
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

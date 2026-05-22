@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["OhzHZy9yoYMMjUdQo0lVfuOT7ie2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 515
-approved_guest_count: 495
+total_guest_count: 530
+approved_guest_count: 494
 local_image: "images/D0zhXwwvQVDKz26IKab3.png"
+canceled: false
 ---
 
 # Raising Capital in Today’s Tech Market - An insider conversation with VCs and family offices
@@ -34,7 +35,7 @@ local_image: "images/D0zhXwwvQVDKz26IKab3.png"
 **Hosts:** RSM  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 8:30am ET
 **Where:** Times Square · Times Square, Manhattan, New York, NY · Midtown
-**Going:** 512 of 515
+**Going:** 512 of 530
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/D0zhXwwvQVDKz26IKab3
 **Map:** https://www.google.com/maps/search/?api=1&query=Times%20Square%2C%20Times%20Square%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -74,6 +75,7 @@ What Attendees Will Walk Away With
 •	Direct access to senior investors in a small, curated setting
 
 Space is limited. Attendance is curated to support meaningful dialogue and real investor access.
+
 
 
 

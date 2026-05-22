@@ -28,6 +28,7 @@ remaining_capacity: 499
 total_guest_count: 1
 approved_guest_count: 0
 local_image: "images/04HsBAOTcvaqnnCycyQD.png"
+canceled: false
 ---
 
 # Vault Summit: New York City
@@ -55,6 +56,7 @@ Tickets need to be purchased on the website. Venue will be disclosed when you re
 Vault Summit is a global conference series focused on onchain vault infrastructure for institutional asset management.  Institutional confidence in on-chain asset management, built vault by vault.  
  
 This is Vault Summit NYC.
+
 
 
 

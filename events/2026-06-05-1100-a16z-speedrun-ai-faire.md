@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["Fn3x6INVS3ZFGF66imM8", "7DFu4rITofNzKIjA7hCx", "YzGV0wF47xbDevhTPiQCOgDeAj53"]
 is_capped: false
-total_guest_count: 959
+total_guest_count: 978
 approved_guest_count: 5
 local_image: "images/JXbUkObwnkyVvC87cz8a.png"
+canceled: false
 ---
 
 # a16z speedrun AI Faire
@@ -36,7 +37,7 @@ local_image: "images/JXbUkObwnkyVvC87cz8a.png"
 **Hosts:** a16z speedrun, Orrick  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 11:00am–3:00pm ET
 **Where:** Orrick · 51 W 52nd St, New York, NY 10019 · Midtown
-**Going:** 956 of 959
+**Going:** 956 of 978
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/JXbUkObwnkyVvC87cz8a
 **Map:** https://www.google.com/maps/search/?api=1&query=51%20W%2052nd%20St%2C%20New%20York%2C%20NY%2010019
@@ -63,6 +64,7 @@ a16z speedrun is Andreessen Horowitz’s program to invest in and support early-
 Due to capacity constraints, not all applications can be accommodated. Please wait for a confirmation email stating “you’re on the list” before making plans to attend. Thank you for understanding.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

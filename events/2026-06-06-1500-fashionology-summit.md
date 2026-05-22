@@ -26,6 +26,7 @@ is_capped: false
 total_guest_count: 74
 approved_guest_count: 0
 local_image: "images/VmF6aB4qEp7mD0mxZMSG.png"
+canceled: false
 ---
 
 # FASHIONOLOGY SUMMIT
@@ -51,6 +52,7 @@ local_image: "images/VmF6aB4qEp7mD0mxZMSG.png"
 Bringing fashion tech into focus. Tickets at https://fashionologynyc.com/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

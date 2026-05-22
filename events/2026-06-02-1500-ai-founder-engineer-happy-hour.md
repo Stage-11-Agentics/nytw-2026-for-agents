@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["DTtLY1uCitaTEzfJOS1xZ0BZJWx2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 241
+total_guest_count: 244
 approved_guest_count: 19
 local_image: "images/bwI0kidjjzif7TcWtxYb.png"
+canceled: false
 ---
 
 # AI Founder + Engineer Happy Hour
@@ -35,7 +36,7 @@ local_image: "images/bwI0kidjjzif7TcWtxYb.png"
 **Hosts:** Tower Research Ventures  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 3:00pm–5:00pm ET
 **Where:** 377 Broadway, New York, NY 10013 · Tribeca
-**Going:** 241
+**Going:** 241 of 244
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/bwI0kidjjzif7TcWtxYb
 **Map:** https://www.google.com/maps/search/?api=1&query=377%20Broadway%2C%20New%20York%2C%20NY%2010013
@@ -51,6 +52,7 @@ local_image: "images/bwI0kidjjzif7TcWtxYb.png"
 ​Come meet other AI founders and engineers on Tower Research Ventures' beautiful penthouse rooftop in Tribeca! Refreshments will be served. 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

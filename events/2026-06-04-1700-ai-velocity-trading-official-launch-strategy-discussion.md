@@ -22,6 +22,7 @@ is_capped: false
 total_guest_count: 36
 approved_guest_count: 34
 local_image: "images/vfUtZSxua5sANHaUJPdb.png"
+canceled: false
 ---
 
 # AI Velocity Trading: Official Launch & Strategy Discussion
@@ -69,6 +70,7 @@ Anyone exploring AI workflows for real-world use cases.
 https://www.aivelocitytrading.com
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at https://www.tech-week.com
+
 
 
 

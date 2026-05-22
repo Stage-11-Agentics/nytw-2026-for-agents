@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["U75prYDlvfdRNKoWrgGG6MB4fX82", "7DFu4rITofNzKIjA7hCx", "bxLtSf4XkTbIuHB0XqUHSuMwqHI2"]
 is_capped: false
-total_guest_count: 435
+total_guest_count: 440
 approved_guest_count: 232
 local_image: "images/Qjruk2dwZb16a4TFqSaN.png"
+canceled: false
 ---
 
 # Healthtech Funders + Founders Happy Hour
@@ -35,7 +36,7 @@ local_image: "images/Qjruk2dwZb16a4TFqSaN.png"
 **Hosts:** Health2047  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:00pm–8:00pm ET
 **Where:** 120 Walker St, New York, NY 10013 · Chinatown
-**Going:** 435
+**Going:** 435 of 440
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Qjruk2dwZb16a4TFqSaN
 **Map:** https://www.google.com/maps/search/?api=1&query=120%20Walker%20St%2C%20New%20York%2C%20NY%2010013
@@ -52,6 +53,7 @@ local_image: "images/Qjruk2dwZb16a4TFqSaN.png"
 Health2047 is opening New York Tech Week with drinks, bites, and a room full of founders, funders and physicians driving change in digital health. Whether you're raising, investing, or in it because you believe healthcare needs better answers — this one's for you. Come for the conversation, stay for the empanadas. Hosted by Health2047, the American Medical Association's early-stage venture studio.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

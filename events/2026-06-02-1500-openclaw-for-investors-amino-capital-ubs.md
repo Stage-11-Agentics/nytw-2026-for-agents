@@ -25,9 +25,10 @@ owner_ids: ["b50V1RdDxGNpRGq0UzhjycGDBPL2", "7DFu4rITofNzKIjA7hCx", "A06Tk817jSb
 is_capped: true
 max_capacity: 60
 remaining_capacity: 13
-total_guest_count: 202
+total_guest_count: 210
 approved_guest_count: 47
 local_image: "images/EKVRCkLXxR7HVL9Ogump.png"
+canceled: false
 ---
 
 # OpenClaw for Investors (Amino Capital & UBS)
@@ -132,6 +133,7 @@ Benefits may include: speaking opportunities, brand visibility, panel naming rig
 ​UBS is a global financial services firm and the world’s largest wealth manager, with over $5 trillion in invested assets. Serving clients across more than 50 markets, UBS provides expertise in wealth management, asset management, and investment banking, while actively investing in innovation across AI, digital assets, and next-generation financial technologies.
 
 ​This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

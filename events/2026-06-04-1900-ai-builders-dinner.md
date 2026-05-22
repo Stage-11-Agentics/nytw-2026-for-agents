@@ -26,9 +26,10 @@ owner_ids: ["v5dUeZiFOthTTZMy8I4YFO68r3Q2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 40
 remaining_capacity: -7
-total_guest_count: 72
+total_guest_count: 73
 approved_guest_count: 47
 local_image: "images/idltitmjA4ZzL9IuK0Y6.png"
+canceled: false
 ---
 
 # AI BUILDERS DINNER
@@ -70,6 +71,7 @@ Dinner location shared with confirmed guests only. Seated. 30 people. The conver
 Attendance is confirmed by the host. If you're reading this, someone thought you belonged in the room.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

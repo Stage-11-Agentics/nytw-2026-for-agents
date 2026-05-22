@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["G61iuyjG6cqgBRAnEjcM", "7DFu4rITofNzKIjA7hCx", "ICP1NzhhDah6HeWdlHjH", "Rmu8gF6xckQKYDShONUGKu5zLwo2", "uUrmzwgWzXOxIACnio8Ds9PY6zq2"]
 is_capped: false
-total_guest_count: 99
-approved_guest_count: 64
+total_guest_count: 106
+approved_guest_count: 69
 local_image: "images/Umw3coh8ELu8mNKoRqWT.jpg"
+canceled: false
 ---
 
 # European Café Night: For VCs and Founders
@@ -36,7 +37,7 @@ local_image: "images/Umw3coh8ELu8mNKoRqWT.jpg"
 **Hosts:** Reitler Law  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm–8:00pm ET
 **Where:** Virgin Hotels · 1227 Broadway, New York, NY 10001 · Flatiron
-**Going:** 99
+**Going:** 99 of 106
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Umw3coh8ELu8mNKoRqWT
 **Map:** https://www.google.com/maps/search/?api=1&query=1227%20Broadway%2C%20New%20York%2C%20NY%2010001
@@ -65,6 +66,7 @@ TriNet is a full-service HR solution that combines payroll, benefits, and compli
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

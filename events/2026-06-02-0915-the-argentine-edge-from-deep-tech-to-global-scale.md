@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["UFLWR7fz5AmfgETqvyYh", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 14
+total_guest_count: 16
 approved_guest_count: 0
 local_image: "images/BlZgZXgnXauVuQtAvgTc.jpg"
+canceled: false
 ---
 
 # The Argentine Edge: From Deep Tech to Global Scale
@@ -36,7 +37,7 @@ local_image: "images/BlZgZXgnXauVuQtAvgTc.jpg"
 **Hosts:** Consulate General of Argentina in New York  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 9:15am–10:45am ET
 **Where:** Consulate General Of Argentina · 12 W 56th St, New York, NY 10019 · Midtown
-**Going:** 14
+**Going:** 14 of 16
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/BlZgZXgnXauVuQtAvgTc
 **Map:** https://www.google.com/maps/search/?api=1&query=12%20W%2056th%20St%2C%20New%20York%2C%20NY%2010019
@@ -62,6 +63,7 @@ Speakers:
    - Baufest
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["VyACpHpPqHYB9HUrqyxuIMbcNL83", "7DFu4rITofNzKIjA7hCx", "ix7kL3E62KVYGBYcyFNZdu2eT5y2"]
 is_capped: false
-total_guest_count: 54
+total_guest_count: 55
 approved_guest_count: 0
 local_image: "images/qqC3IXlm4F4XffMCo8WL.png"
+canceled: false
 ---
 
 # Your Next Exec Won't Be Human
@@ -35,7 +36,7 @@ local_image: "images/qqC3IXlm4F4XffMCo8WL.png"
 **Hosts:** Masinov Company / Claw Mart, Build Momentum  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 3:00pm–5:00pm ET
 **Where:** 53 W 23rd St, New York, NY 10010 · Flatiron
-**Going:** 54
+**Going:** 54 of 55
 **RSVP:** https://partiful.com/e/qqC3IXlm4F4XffMCo8WL
 **Map:** https://www.google.com/maps/search/?api=1&query=53%20W%2023rd%20St%2C%20New%20York%2C%20NY%2010010
 
@@ -89,6 +90,7 @@ Felix will show how an AI executive can support prioritization, execution, monit
 Founders will leave with a first draft of their hybrid operating roadmap: what to own, what to fractionalize, what to hire for later, and what to turn into AI-agent workflows.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

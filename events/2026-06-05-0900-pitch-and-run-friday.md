@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["xzvn0sbT5jTcOgtlWgfIPpkeCQA3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 46
+total_guest_count: 48
 approved_guest_count: 0
 image_download_error: "HTTP Error 403: Forbidden"
+canceled: false
 ---
 
 # Pitch and Run Friday
@@ -33,7 +34,7 @@ image_download_error: "HTTP Error 403: Forbidden"
 **Hosts:** Pitch and Run  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 9:00am ET
 **Where:** 62 Chelsea Piers, New York, NY 10011 · Chelsea
-**Going:** 45 of 46
+**Going:** 45 of 48
 **RSVP:** https://partiful.com/e/h1cWOUaSCLmevpgdttai
 **Map:** https://www.google.com/maps/search/?api=1&query=62%20Chelsea%20Piers%2C%20New%20York%2C%20NY%2010011
 
@@ -56,6 +57,7 @@ Run 4.5 Miles down WSH and back https://www.strava.com/routes/304616978043334129
 Coffee after
 
 Pitch and Run was founded to make it easy for founders to connect with Angels and VCs without the pressure of a pitch meeting and to allow founders and startup employees to connect. Many companies have raised their round, found customers, and met their co-founders, and even found jobs from connections made at Pitch and Run
+
 
 
 

@@ -26,9 +26,10 @@ owner_ids: ["ZeHayHY6dJfIE9eDas3FNyPV4ZJ2", "UX3QGs434BZzW0sOTNSNNqcyrXk2", "iu2
 is_capped: true
 max_capacity: 40
 remaining_capacity: -6
-total_guest_count: 50
+total_guest_count: 51
 approved_guest_count: 46
 local_image: "images/6dWzjKVsM4dwYn1nHfYv.png"
+canceled: false
 ---
 
 # UES Parents in Tech - Central Park Meetup w/ Your Kids
@@ -67,6 +68,7 @@ Sapna Chudgar advises founders, executives, and entrepreneurial families as grow
 
 *~*~*~*~*
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

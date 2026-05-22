@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["nSZmKuFfi2c9yhXlwzfOwS493M93", "cIJgxMgReoj0kCXFMpmc", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 58
+total_guest_count: 59
 approved_guest_count: 44
 local_image: "images/wBX9hRAZ70hPhugZfvHY.png"
+canceled: false
 ---
 
 # Build Agents with TheVibeFounder
@@ -34,7 +35,7 @@ local_image: "images/wBX9hRAZ70hPhugZfvHY.png"
 **Hosts:** TheVibeFounder  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:00pm ET
 **Where:** Flatiron · Flatiron, Manhattan, New York, NY · Flatiron
-**Going:** 58
+**Going:** 58 of 59
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/wBX9hRAZ70hPhugZfvHY
 **Map:** https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -57,6 +58,7 @@ Hackathon led by Ajay Yadav (@theVibeFounder, Otto.ai) for a hands-on session to
 We'll dig into how to architect agents that actually work, and leave with the momentum of building something real.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

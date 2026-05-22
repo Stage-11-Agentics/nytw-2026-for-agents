@@ -24,9 +24,10 @@ owner_ids: ["F3XJcVrfd3YgM20T4v1w", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 20
 remaining_capacity: -2
-total_guest_count: 104
+total_guest_count: 106
 approved_guest_count: 22
 local_image: "images/JfnhQNRqGfA7BXSYtjll.png"
+canceled: false
 ---
 
 # The Builder's Table with Adobe for Startups
@@ -57,6 +58,7 @@ We'll look at some of what Adobe is building for teams like yours, get into the 
 This is also something of a first conversation. Adobe for Startups is early, and we want to build it with the people who'd actually use it. So if you have opinions about what tools are useful, what's overhyped, and what you actually need, we want to hear them. 
 
 This is part of #NYTechWeek — a week of events hosted by VCs and startups across New York's tech ecosystem. More at www.tech-week.com.
+
 
 
 

@@ -21,10 +21,11 @@ owner_count: 2
 owner_ids: ["2d4NYzymfPYNrvCA9uwSD4w2OFW2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 200
-remaining_capacity: 87
-total_guest_count: 121
+remaining_capacity: 86
+total_guest_count: 122
 approved_guest_count: 0
 local_image: "images/4YRLsfNwwGUl2cmJjPX8.png"
+canceled: false
 ---
 
 # Agent Era: How Women Founders Are Building AI That Works for Their Business
@@ -34,7 +35,7 @@ local_image: "images/4YRLsfNwwGUl2cmJjPX8.png"
 **Hosts:** Black Women Talk Tech  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 10:00am ET
 **Where:** 229 W 28th St, New York, NY 10001 · Chelsea
-**Capacity:** capped at 200 · 113 taken, 87 remaining
+**Capacity:** capped at 200 · 114 taken, 86 remaining
 **RSVP:** https://partiful.com/e/4YRLsfNwwGUl2cmJjPX8
 **Map:** https://www.google.com/maps/search/?api=1&query=229%20W%2028th%20St%2C%20New%20York%2C%20NY%2010001
 
@@ -60,6 +61,7 @@ Agenda:
 2:00 PM – End
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

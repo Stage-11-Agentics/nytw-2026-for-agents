@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["q8EuE2TMl8TknoRxihV6RGtH94k2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 34
+total_guest_count: 36
 approved_guest_count: 0
 local_image: "images/AfaQ98WoXIVZNcAvPcxJ.png"
+canceled: false
 ---
 
 # AI for HR: Simplifying the H1B Process with AI Support
@@ -31,7 +32,7 @@ local_image: "images/AfaQ98WoXIVZNcAvPcxJ.png"
 **Hosts:** peoplepower.ai  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 7:00pm ET
 **Where:** Union Square
-**Going:** 34
+**Going:** 34 of 36
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/AfaQ98WoXIVZNcAvPcxJ
 
@@ -50,6 +51,7 @@ We'll talk through how visibility into your pipeline changes everything. What al
 You'll leave knowing what you're actually working with, what options you've been missing, and how to move immigration from a compliance headache to a strategic lever in your hiring. And you'll do it over dinner with HR leaders dealing with the exact same friction.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

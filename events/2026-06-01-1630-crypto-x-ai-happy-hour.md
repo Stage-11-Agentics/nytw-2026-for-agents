@@ -24,10 +24,11 @@ owner_count: 6
 owner_ids: ["1rgoqhVJ4jeTI8XldlpUVmWTVBs1", "7DFu4rITofNzKIjA7hCx", "rPCvftpWfdU0BnD9wauxMl5tLJ43", "9zozbl9AL7U9sGpJjIhNOc3n5FV2", "f01bS2gIEjeK05bI3IZhY1XHhyp1", "a5iYZBaEAcOIbkkeohOWPMbNFAC3"]
 is_capped: true
 max_capacity: 120
-remaining_capacity: -18
-total_guest_count: 332
-approved_guest_count: 138
+remaining_capacity: -22
+total_guest_count: 334
+approved_guest_count: 142
 local_image: "images/P6WLaUwmRr1d6sWZks7O.png"
+canceled: false
 ---
 
 # Crypto x AI Happy Hour
@@ -37,7 +38,7 @@ local_image: "images/P6WLaUwmRr1d6sWZks7O.png"
 **Hosts:** Sei Labs, Sumvin  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 4:30pm–7:30pm ET
 **Where:** 419 Lafayette St, New York, NY 10003 · East Village
-**Capacity:** capped at 120 · 138 taken, -18 remaining
+**Capacity:** capped at 120 · 142 taken, -22 remaining
 **Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/P6WLaUwmRr1d6sWZks7O
@@ -69,6 +70,7 @@ Rooftop drinks and skyline views of NYC. A curated crowd across AI x crypto. Gre
 Limited space. Approved RSVP only.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

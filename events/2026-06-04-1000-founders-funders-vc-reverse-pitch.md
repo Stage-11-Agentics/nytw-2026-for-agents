@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["4fpGfFrH0LV7M2jrzMsWKw6oHek1", "7DFu4rITofNzKIjA7hCx", "8xYQIQ8YBKZsbTYCoJqP8CqnSOr2", "dUYHYPPxr3NJl2Osq1cqgZgWGgc2", "HasM68RS6EQhvq4WDLxZgcUe10M2"]
 is_capped: false
-total_guest_count: 337
-approved_guest_count: 73
+total_guest_count: 343
+approved_guest_count: 72
 local_image: "images/ZpetibTpS29umF27quIF.png"
+canceled: false
 ---
 
 # Founders & Funders: VC Reverse Pitch
@@ -36,7 +37,7 @@ local_image: "images/ZpetibTpS29umF27quIF.png"
 **Hosts:** Founders N’ Funders, Microsoft  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 10:00am–1:00pm ET
 **Where:** New York, NY · New York, NY · Midtown
-**Going:** 337
+**Going:** 337 of 343
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ZpetibTpS29umF27quIF
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -73,6 +74,7 @@ Microsoft • Carta • Vouch • Forecastr
 The event is a part of #NYTechWeek- a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 #venturecapital #VC #startupfunding #fundraising #founder #investor
+
 
 
 

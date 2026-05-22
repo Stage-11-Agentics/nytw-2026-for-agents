@@ -28,9 +28,19 @@ remaining_capacity: 12
 total_guest_count: 78
 approved_guest_count: 78
 local_image: "images/pxdWahJXi0EQklEuU50W.png"
+canceled: true
+canceled_at: "2026-05-11T18:04:44.550Z"
+canceled_by: "LcZD2hHcN8bugyJLSW7lnXD2N4k1"
+cancellation_message: "Sorry, we have to cancel. \nAir France canceled our flights and we will not be able to get to New York for Tech Week."
 ---
 
 # If Your AI Can’t Talk and Act, It’s Broken - Agentic Voice Workshop
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-11T18:04:44.550Z_  
+>  
+> Sorry, we have to cancel.   
+> Air France canceled our flights and we will not be able to get to New York for Tech Week.
 
 ![If Your AI Can’t Talk and Act, It’s Broken - Agentic Voice Workshop](images/pxdWahJXi0EQklEuU50W.png)
 
@@ -85,6 +95,7 @@ Duration
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

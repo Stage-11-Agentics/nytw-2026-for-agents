@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["yVmK5ct5XpV3pslXHlQ9xxZAeXv2", "7DFu4rITofNzKIjA7hCx", "8I9AwFaLDiMzfAOTN1gQTIEBiJf1", "Pa9o0uOvaVinE7Er9PbX"]
 is_capped: false
-total_guest_count: 87
-approved_guest_count: 55
+total_guest_count: 88
+approved_guest_count: 59
 local_image: "images/5K5c4eODrGPKME7or20H.png"
+canceled: false
 ---
 
 # Shipping Faster with AI Coding Agents: What's Working and What's Not
@@ -33,7 +34,7 @@ local_image: "images/5K5c4eODrGPKME7or20H.png"
 **Hosts:** Driver AI  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 4:00pm–7:00pm ET
 **Where:** SoHo
-**Going:** 85 of 87
+**Going:** 85 of 88
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/5K5c4eODrGPKME7or20H
 
@@ -63,6 +64,7 @@ About Your Host
 Backed by YC and Google Ventures, Driver AI is the rigorous, pre-compiled context layer that brings deterministic performance to agentic coding at scale. Learn more at driver.ai.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

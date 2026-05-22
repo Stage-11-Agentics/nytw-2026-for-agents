@@ -21,22 +21,23 @@ at_capacity: false
 going_guest_count: 206
 badges: []
 fetch_status: ok
-owner_count: 6
-owner_ids: ["9K2ip5KfG1VOTKg73Vjq", "7DFu4rITofNzKIjA7hCx", "f7BmfGrdQNeQJTgpdjzKZZZxk1h1", "CtEdgsapDkOZutSSCCIPyclWqus2", "jHiKG2grwQcUfUm4sQGnSGPPQNt1", "ihcxmOFqWnN1V1m98AfUpRH2zHz2"]
+owner_count: 7
+owner_ids: ["9K2ip5KfG1VOTKg73Vjq", "7DFu4rITofNzKIjA7hCx", "f7BmfGrdQNeQJTgpdjzKZZZxk1h1", "CtEdgsapDkOZutSSCCIPyclWqus2", "jHiKG2grwQcUfUm4sQGnSGPPQNt1", "ihcxmOFqWnN1V1m98AfUpRH2zHz2", "CEjtEbOdG6Y3uevhjVKqqg9JqAl1"]
 is_capped: false
-total_guest_count: 208
+total_guest_count: 216
 approved_guest_count: 0
 local_image: "images/wAZzOJIAzjIpjfMYrgpS.png"
+canceled: false
 ---
 
 # The Patient Will See You Now: How Health Systems & Clinicians Are Responding to Consumer Health
 
 ![The Patient Will See You Now: How Health Systems & Clinicians Are Responding to Consumer Health](images/wAZzOJIAzjIpjfMYrgpS.png)
 
-**Hosts:** Scalpels & Spreadsheets, One Health Collective  _(+4 more host(s) on Partiful — see description for full list)_
+**Hosts:** Scalpels & Spreadsheets, One Health Collective  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 11:00am–1:30pm ET
 **Where:** 307 West 38th Street · 307 W 38th St, New York, NY 10018 · Midtown
-**Going:** 206 of 208
+**Going:** 206 of 216
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/wAZzOJIAzjIpjfMYrgpS
 **Map:** https://www.google.com/maps/search/?api=1&query=307%20W%2038th%20St%2C%20New%20York%2C%20NY%2010018
@@ -48,6 +49,7 @@ local_image: "images/wAZzOJIAzjIpjfMYrgpS.png"
 - [Aakash Saraiya](https://partiful.com/u/CtEdgsapDkOZutSSCCIPyclWqus2)
 - [Riya Kalra](https://partiful.com/u/jHiKG2grwQcUfUm4sQGnSGPPQNt1)
 - [Addison Montiel](https://partiful.com/u/ihcxmOFqWnN1V1m98AfUpRH2zHz2)
+- [user `CEjtEbOdG6Y3uevhjVKqqg9JqAl1`](https://partiful.com/u/CEjtEbOdG6Y3uevhjVKqqg9JqAl1) _(name not resolved)_
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -70,6 +72,7 @@ Panel: 12.00AM - 12.45PM
 Networking: 12.45 - 1.30PM 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

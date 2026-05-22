@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["ahVxpJsp11zKmHM2mZQq", "7DFu4rITofNzKIjA7hCx", "cf9875PKIt383yHcSMOb"]
 is_capped: false
-total_guest_count: 122
+total_guest_count: 124
 approved_guest_count: 0
 local_image: "images/l1luqKOiqTwR8cLX9lfL.jpg"
+canceled: false
 ---
 
 # Why Great Startups Build Communities
@@ -33,7 +34,7 @@ local_image: "images/l1luqKOiqTwR8cLX9lfL.jpg"
 **Hosts:** Die-Hard.io, Edge Studio, Pollen8.app
 **When:** Wednesday, June 3, 2026 · 1:00pm ET
 **Where:** Edge Studio Voice Over · 115 W 45th St, FL 8, New York, NY 10036 · Midtown
-**Going:** 119 of 122
+**Going:** 119 of 124
 **RSVP:** https://partiful.com/e/l1luqKOiqTwR8cLX9lfL
 **Map:** https://www.google.com/maps/search/?api=1&query=115%20W%2045th%20St%2C%20FL%208%2C%20New%20York%2C%20NY%2010036
 
@@ -81,6 +82,7 @@ Honest perspectives from active operators
 High-quality networking with founders and builders
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

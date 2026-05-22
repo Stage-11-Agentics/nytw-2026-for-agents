@@ -24,9 +24,10 @@ owner_ids: ["tKRTb9VdvuTW7FJtlr6PCZ5XhBL2", "7szJijSfVkM9KR2Bv0Xdi9uwU953", "D3H
 is_capped: true
 max_capacity: 150
 remaining_capacity: 0
-total_guest_count: 224
+total_guest_count: 238
 approved_guest_count: 0
 local_image: "images/Qmtu47YtTIxUJ7JGzPSP.jpg"
+canceled: false
 ---
 
 # Vercel's AI Cafe
@@ -54,6 +55,7 @@ local_image: "images/Qmtu47YtTIxUJ7JGzPSP.jpg"
 Pull up a chair. We're turning Verci's Flatiron space into the Vercel AI Café for a day during NY Tech Week - a place to work, connect and talk shop with the people building the next generation of AI-powered products.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

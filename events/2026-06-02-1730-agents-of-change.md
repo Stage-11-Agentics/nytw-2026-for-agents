@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["JLK8FdV36S5TXqeijEwy", "7DFu4rITofNzKIjA7hCx", "gZbR8ZZhY9Mrf9jFgZI1d6PvWg42", "06ATrjn7o0RDctAJEcKH8nt0SnV2"]
 is_capped: false
-total_guest_count: 198
-approved_guest_count: 38
+total_guest_count: 199
+approved_guest_count: 40
 local_image: "images/ZZFWMkisfYJrUyqR18cb.png"
+canceled: false
 ---
 
 # Agents of Change
@@ -34,7 +35,7 @@ local_image: "images/ZZFWMkisfYJrUyqR18cb.png"
 **Hosts:** 3percentclub  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:30pm ET
 **Where:** Civic Hall · 124 E 14th St, New York, NY 10003 · Flatiron
-**Going:** 198
+**Going:** 198 of 199
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ZZFWMkisfYJrUyqR18cb
 **Map:** https://www.google.com/maps/search/?api=1&query=124%20E%2014th%20St%2C%20New%20York%2C%20NY%2010003
@@ -56,6 +57,7 @@ The 3percentclub was founded to put technical power in the hands of underreprese
 This workshop is a dedicated space for women and underrepresented builders to dive into the technical heart of Agentic AI. We’re bypassing the hype to build multi-agent systems from the ground up. If you’re a woman or an ally in tech looking to level up your AI development skills, this is your room.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

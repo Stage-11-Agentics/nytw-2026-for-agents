@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 38
 approved_guest_count: 0
 local_image: "images/9pSmQHu2ooiZAvj7RoVV.png"
+canceled: false
 ---
 
 # Non-Alcoholic Happy Hour @ Soft Bar
@@ -56,6 +57,7 @@ As part of Tech Week, Steady is bringing together founders, builders, investors 
 We’ll be gathering at Soft Bar in Brooklyn for a chill, alcohol-free happy hour with our friends who are sober, sober-ish, sober-curious or just trying to make it through the end of Tech Week in one piece. :)
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

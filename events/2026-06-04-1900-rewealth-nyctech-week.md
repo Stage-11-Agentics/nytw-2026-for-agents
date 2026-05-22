@@ -26,6 +26,7 @@ remaining_capacity: 50
 total_guest_count: 25
 approved_guest_count: 0
 local_image: "images/N0eqFpTuPdUZKPjJAhqj.png"
+canceled: false
 ---
 
 # RE:WEALTH #NYCTECH WEEK
@@ -64,6 +65,7 @@ Check the RE:WEALTH event page for updates on the agenda and speakers.
 
 
 This event is a part of #NYCTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

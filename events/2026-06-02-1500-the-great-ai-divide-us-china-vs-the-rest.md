@@ -23,9 +23,10 @@ owner_ids: ["3FSslPIpkTW6Qt2ZisobHyZdgxz2", "K5wB9PDzHEaxLf8PrkKGoZgC8di2", "eGf
 is_capped: true
 max_capacity: 115
 remaining_capacity: -3
-total_guest_count: 150
+total_guest_count: 152
 approved_guest_count: 118
 local_image: "images/2UzoY58jttvpNlysyUbc.png"
+canceled: false
 ---
 
 # The Great AI Divide: U.S., China vs the rest
@@ -61,6 +62,7 @@ Aditya Vashistha, Assistant Professor, Cornell University
 Sam Winter-Levy, Fellow, Carnegie Endowment
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

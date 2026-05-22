@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["BEyCEP4Eh7hBy5ga4vUt", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 1117
+total_guest_count: 1131
 approved_guest_count: 345
 local_image: "images/UOnETVUQrpuNwEKePLYn.png"
+canceled: false
 ---
 
 # Founder Story: A Fireside Chat with a16z & the CEO of Moment
@@ -33,7 +34,7 @@ local_image: "images/UOnETVUQrpuNwEKePLYn.png"
 **Hosts:** Fenwick  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 2:00pm–4:00pm ET
 **Where:** Flatiron
-**Going:** 1116 of 1117
+**Going:** 1116 of 1131
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/UOnETVUQrpuNwEKePLYn
 
@@ -52,6 +53,7 @@ They will discuss what it takes to build from idea to execution. From early insi
 By confirming your attendance you agree to receive communications and updates from Fenwick.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

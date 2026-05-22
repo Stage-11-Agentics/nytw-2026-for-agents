@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["lgDUfPziwZhkvaYaPraD", "7DFu4rITofNzKIjA7hCx", "pcI8D4YZnkcm177VdKNZrXZtnqK2"]
 is_capped: false
-total_guest_count: 125
+total_guest_count: 131
 approved_guest_count: 4
 local_image: "images/BLHCHSAj6duohcGynakT.png"
+canceled: false
 ---
 
 # Innovation at the Regulatory Frontier: A Digital Assets Cocktail Evening
@@ -33,7 +34,7 @@ local_image: "images/BLHCHSAj6duohcGynakT.png"
 **Hosts:** EisnerAmper, Fox Rothschild  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:00pm–7:00pm ET
 **Where:** Midtown
-**Going:** 123 of 125
+**Going:** 123 of 131
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/BLHCHSAj6duohcGynakT
 
@@ -77,6 +78,7 @@ John Delalio is a Partner at EisnerAmper and member of the firm's Blockchain & D
 Chris Brodersen is a Managing Director at EisnerAmper specializing in blockchain and digital asset solutions, with nearly 40 years of cross-industry experience. Formerly a Blockchain Lab Leader at a Big 4 firm, he now leads the firm's blockchain and digital asset practice.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -25,9 +25,10 @@ owner_ids: ["V5ZX1BNqhcy8y2SOUkFo", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 100
 remaining_capacity: 100
-total_guest_count: 188
+total_guest_count: 192
 approved_guest_count: 0
 local_image: "images/EstgcJd2gxjOPGIbPHmv.png"
+canceled: false
 ---
 
 # NYC AI/ML Hackathon
@@ -57,6 +58,7 @@ The challenge sits at the intersection of causal forecasting, intervention analy
 Teams of 2–4. Pre-formed teams welcome.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

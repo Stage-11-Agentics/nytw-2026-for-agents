@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 68
 approved_guest_count: 1
 local_image: "images/WLI2FHyuUJeKxYxsl7L5.png"
+canceled: false
 ---
 
 # Walk and Talk Tech in Central Park
@@ -52,6 +53,7 @@ local_image: "images/WLI2FHyuUJeKxYxsl7L5.png"
 Join us on a guided walk through Central Park!  The focus here is to get outside and meet some other NY Tech Week participants.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

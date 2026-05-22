@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 6
 owner_ids: ["fbGzDRIjrjMmgnG6GZZpaBu41Tb2", "7DFu4rITofNzKIjA7hCx", "NsNvNrDG8fGPq1jPShF4", "Td2XfvkO8bRFLvpilYDApHpw2TB2", "KtbYtWz3ByO6TXZUHiamJYxaycu1", "FtzXc6MouWQNyZVS0SOcJ8VL7cN2"]
 is_capped: false
-total_guest_count: 157
-approved_guest_count: 6
+total_guest_count: 164
+approved_guest_count: 11
 local_image: "images/W1pVUsH2vjwnOsmqM7QT.png"
+canceled: false
 ---
 
 # VC Breakfast [Hosted by Collab Fund x J2 x Rho]
@@ -36,7 +37,7 @@ local_image: "images/W1pVUsH2vjwnOsmqM7QT.png"
 **Hosts:** J2 Ventures, Rho, Collab Fund  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 8:30am–11:30am ET
 **Where:** Creatures Rooftop · 518 W 27th St, New York, NY 10001 · Flatiron
-**Going:** 156 of 157
+**Going:** 156 of 164
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/W1pVUsH2vjwnOsmqM7QT
 **Map:** https://www.google.com/maps/search/?api=1&query=518%20W%2027th%20St%2C%20New%20York%2C%20NY%2010001
@@ -66,6 +67,7 @@ Collab Fund's mission is to identify and support companies that live at the inte
 ​​​​Rho is a fintech company, not a bank. Checking and card services are provided by Webster Bank, N.A., member FDIC; savings account services are provided by American Deposit Management Co. and its partner banks.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

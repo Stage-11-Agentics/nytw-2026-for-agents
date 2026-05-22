@@ -25,10 +25,11 @@ owner_count: 3
 owner_ids: ["iwFIMx4lwMXK2vRjUxtiVw55MZ02", "7DFu4rITofNzKIjA7hCx", "zIRGpAoyifcnSThUc6cDpWxqFN03"]
 is_capped: true
 max_capacity: 175
-remaining_capacity: 101
-total_guest_count: 145
-approved_guest_count: 74
+remaining_capacity: 98
+total_guest_count: 148
+approved_guest_count: 77
 local_image: "images/q9Ekc1IjHSv32Xmd8hXB.png"
+canceled: false
 ---
 
 # Investors in the Cutting Edge Luncheon with Mercury
@@ -38,7 +39,7 @@ local_image: "images/q9Ekc1IjHSv32Xmd8hXB.png"
 **Hosts:** Actuate Ventures  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 11:00am–1:30pm ET
 **Where:** SoHo · SoHo, Manhattan, New York, NY · SoHo
-**Capacity:** capped at 175 · 74 taken, 101 remaining
+**Capacity:** capped at 175 · 77 taken, 98 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/q9Ekc1IjHSv32Xmd8hXB
 **Map:** https://www.google.com/maps/search/?api=1&query=SoHo%2C%20SoHo%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -77,6 +78,7 @@ ___
 Actuate Ventures is an early stage VC firm with a focus on deep-tech and space-tech for the advancement of humanity. (www.letsactuate.com)
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

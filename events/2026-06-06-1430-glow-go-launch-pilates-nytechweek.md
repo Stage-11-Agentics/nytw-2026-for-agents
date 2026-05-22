@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["BB7i0m1GAEZMD0JUmZ23EzfcwBw2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 14
+total_guest_count: 16
 approved_guest_count: 0
 local_image: "images/skTQjAxgpIZ5kvh3mX6J.jpg"
+canceled: false
 ---
 
 # GLOW & GO LAUNCH PILATES #NYTECHWEEK ✨
@@ -35,7 +36,7 @@ local_image: "images/skTQjAxgpIZ5kvh3mX6J.jpg"
 **Hosts:** Skinsights.Ai  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 2:30pm–5:00pm ET
 **Where:** New York · New York, NY · Flatiron
-**Going:** 9 of 14
+**Going:** 9 of 16
 **RSVP:** https://partiful.com/e/skTQjAxgpIZ5kvh3mX6J
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20New%20York%2C%20NY
 
@@ -70,6 +71,7 @@ The Details
 Ready to own your skin and celebrate your glow this summer? See you there.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

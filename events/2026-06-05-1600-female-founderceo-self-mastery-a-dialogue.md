@@ -25,9 +25,10 @@ owner_ids: ["bCQsevEGoTdhjbdYK77fQZ5jPsI3", "7DFu4rITofNzKIjA7hCx", "X7Ru007LGqZ
 is_capped: true
 max_capacity: 50
 remaining_capacity: 17
-total_guest_count: 86
+total_guest_count: 88
 approved_guest_count: 33
 local_image: "images/d9mOqctHrPQiu4oeaF6t.jpg"
+canceled: false
 ---
 
 # Female Founder/CEO Self-Mastery - a Dialogue
@@ -67,6 +68,7 @@ The session will be facilitated by post exit founder, Peter Corbett who is widel
 The experience will take place in the format of a Tea Ceremony inside a 15’ Lotus Belle tent! 🎪 inside the Domino Sugar Factory.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

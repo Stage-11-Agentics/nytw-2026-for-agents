@@ -24,10 +24,11 @@ owner_count: 3
 owner_ids: ["lSxTXEoT6KVKsf8FQYrp2hojO7r1", "7DFu4rITofNzKIjA7hCx", "YiKBA7akagfzzNM5Z1X8rpqEiqa2"]
 is_capped: true
 max_capacity: 60
-remaining_capacity: 15
-total_guest_count: 61
-approved_guest_count: 45
+remaining_capacity: 13
+total_guest_count: 63
+approved_guest_count: 47
 local_image: "images/mVKbO7NA2Xf0qLmT4hKt.png"
+canceled: false
 ---
 
 # Taiwan Founder Night
@@ -37,7 +38,7 @@ local_image: "images/mVKbO7NA2Xf0qLmT4hKt.png"
 **Hosts:** LANDED Accelerator, Taipei Economic And Cultural Office In New York  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 6:00pm–8:00pm ET
 **Where:** 1 E 42nd St, New York, NY 10017 · Midtown
-**Capacity:** capped at 60 · 45 taken, 15 remaining
+**Capacity:** capped at 60 · 47 taken, 13 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/mVKbO7NA2Xf0qLmT4hKt
 **Map:** https://www.google.com/maps/search/?api=1&query=1%20E%2042nd%20St%2C%20New%20York%2C%20NY%2010017
@@ -71,6 +72,7 @@ Agenda
 7:50–8:00 PM — Closing
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

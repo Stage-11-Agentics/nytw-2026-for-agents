@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 55
 approved_guest_count: 40
 local_image: "images/yd3Guyw42WWbKU5yvfOf.png"
+canceled: false
 ---
 
 # Sip & Ship: The Un-Hackathon
@@ -74,6 +75,7 @@ Landing page, MVP, automation, content system, data viz—scrappy to real, fast.
 
 🥂 Flow
 Drop in. Build. Share. Iterate.
+
 
 
 

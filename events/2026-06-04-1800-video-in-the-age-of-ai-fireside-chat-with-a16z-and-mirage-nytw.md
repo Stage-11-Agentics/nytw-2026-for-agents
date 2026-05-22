@@ -21,9 +21,10 @@ owner_ids: ["31GmWzCYwFbC9el252TybqcVvO42", "7DFu4rITofNzKIjA7hCx", "ASav0BsHoBV
 is_capped: true
 max_capacity: 120
 remaining_capacity: 11
-total_guest_count: 253
+total_guest_count: 261
 approved_guest_count: 109
 local_image: "images/dNI5cNYva0wRz2LinJRV.jpg"
+canceled: false
 ---
 
 # Video in the Age of AI: Fireside Chat with a16z and Mirage - #NYTW
@@ -66,6 +67,7 @@ Agenda:
 7:15 – 8:00pm  |  Reception and light bites 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["Fn3x6INVS3ZFGF66imM8", "Qh6aQBcEyegnGFVaOfNi", "7DFu4rITofNzKIjA7hCx", "ofYzIubzOnJBiXRDYVLS"]
 is_capped: false
-total_guest_count: 338
+total_guest_count: 340
 approved_guest_count: 9
 local_image: "images/CKP1QMCbZPFuWHlNo6y0.png"
+canceled: false
 ---
 
 # speedrun Insiders VIP Dinner
@@ -36,7 +37,7 @@ local_image: "images/CKP1QMCbZPFuWHlNo6y0.png"
 **Hosts:** Datadog, a16z speedrun, Replit  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–9:00pm ET
 **Where:** Manhattan · Manhattan, New York, NY · SoHo
-**Going:** 337 of 338
+**Going:** 337 of 340
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/CKP1QMCbZPFuWHlNo6y0
 **Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -64,6 +65,7 @@ Location details will be shared upon event registration and acceptance.
 Due to limited capacity, attendance is by application only. Thank you for understanding.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

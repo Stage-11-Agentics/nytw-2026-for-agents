@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 6
 owner_ids: ["eWn422fL7RUU65cdpDmRltRjmM62", "3Mvv8SDe4NUvxWkKN1xzzYmvhaF3", "7DFu4rITofNzKIjA7hCx", "YfCpoozNnBgcMirAEWSFEHy6WwJ3", "asdvViL1hqRXe4R3IemFjce37oo1", "cjqFLNR6ZYPYV3WRdo1v"]
 is_capped: false
-total_guest_count: 248
-approved_guest_count: 141
+total_guest_count: 251
+approved_guest_count: 142
 local_image: "images/gx05U9GiNs8y0Rh7lC2E.png"
+canceled: false
 ---
 
 # Cut Through Noise & Make the News: Media Panel for Founders
@@ -35,7 +36,7 @@ local_image: "images/gx05U9GiNs8y0Rh7lC2E.png"
 **Hosts:** LaunchLink Communications, Pressto AI  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 8:00am–11:00am ET
 **Where:** 130 W 25th St, New York, NY 10001 · Financial District
-**Going:** 248
+**Going:** 248 of 251
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/gx05U9GiNs8y0Rh7lC2E
 **Map:** https://www.google.com/maps/search/?api=1&query=130%20W%2025th%20St%2C%20New%20York%2C%20NY%2010001
@@ -63,6 +64,7 @@ Founders, apply for the a limited spot in the workshop to follow and put what yo
 Presented by LaunchLink, Pressto and Smooth. Fast-moving tech brands, get expert PR service at launchlink.co. Early brands that want to DIY their PR can do it all with heypressto.ai. Smoothmedia.co represents the most influential knowledge creators who educate and empower their audiences through smart, insightful content. 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

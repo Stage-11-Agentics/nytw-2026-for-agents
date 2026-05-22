@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["OpbZXD7pUibKZpH0xzfo4fQtvAa2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 14
+total_guest_count: 16
 approved_guest_count: 0
 local_image: "images/lKauxsY3iT3JRiLZji2c.png"
+canceled: false
 ---
 
 # AI-Native Women · NYC: Build, Operate, Influence
@@ -33,7 +34,7 @@ local_image: "images/lKauxsY3iT3JRiLZji2c.png"
 **Hosts:** Her Frontier  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 6:00pm–9:00pm ET
 **Where:** Chinatown
-**Going:** 14
+**Going:** 14 of 16
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/lKauxsY3iT3JRiLZji2c
 
@@ -86,6 +87,7 @@ A curated gathering for women becoming AI-native — founders, operators, and cr
 ​→ herfrontier.a
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

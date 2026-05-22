@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["qImzKUkXJQUvGW7mbYOJutmR3jU2", "lHYcbjGJvkX6HEFXA3DxSJPXNo53", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 26
+total_guest_count: 27
 approved_guest_count: 0
 local_image: "images/IaHFZrZwfwKVMbQGFvAt.png"
+canceled: false
 ---
 
 # Impact Room: Building The Future We Want
@@ -34,7 +35,7 @@ local_image: "images/IaHFZrZwfwKVMbQGFvAt.png"
 **Hosts:** AAC, Starseed Studios  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 6:00pm ET
 **Where:** New York, NY · New York, NY · Lower East Side
-**Going:** 26
+**Going:** 26 of 27
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/IaHFZrZwfwKVMbQGFvAt
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -69,6 +70,7 @@ After the discussion, join us for the Impact Room Mixer with great drinks, great
 Because the future is not inevitable. It is built by the people willing to shape it.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

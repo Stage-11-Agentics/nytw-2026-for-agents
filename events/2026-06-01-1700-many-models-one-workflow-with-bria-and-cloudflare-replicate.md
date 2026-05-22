@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["WQ1SUqNb7qq75eUlIzt0", "7DFu4rITofNzKIjA7hCx", "YAvQajzJ9cje6OnPIELN"]
 is_capped: false
-total_guest_count: 37
+total_guest_count: 38
 approved_guest_count: 32
 local_image: "images/ibT9C0IBhvOASyp5qIks.png"
+canceled: false
 ---
 
 # Many Models, One Workflow — with Bria and Cloudflare Replicate
@@ -33,7 +34,7 @@ local_image: "images/ibT9C0IBhvOASyp5qIks.png"
 **Hosts:** Cloudflare Replicate, Bria  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 5:00pm ET
 **Where:** 315 W 35th St, New York, NY 10001 · Chelsea
-**Going:** 37
+**Going:** 37 of 38
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ibT9C0IBhvOASyp5qIks
 **Map:** https://www.google.com/maps/search/?api=1&query=315%20W%2035th%20St%2C%20New%20York%2C%20NY%2010001
@@ -81,6 +82,7 @@ Cloudflare Replicate
 The inference platform for thousands of open and proprietary models — one API to run, fine-tune, and ship them at scale.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

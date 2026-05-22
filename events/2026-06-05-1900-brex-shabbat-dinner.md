@@ -25,9 +25,10 @@ owner_ids: ["WSe9RMDtTJPTVfjBpg2MGebC7qj2", "7DFu4rITofNzKIjA7hCx", "9QH3i4cxUZV
 is_capped: true
 max_capacity: 92
 remaining_capacity: 63
-total_guest_count: 200
+total_guest_count: 205
 approved_guest_count: 29
 local_image: "images/4ZZwfYwsanqlxiKEHMY6.png"
+canceled: false
 ---
 
 # Brex Shabbat Dinner
@@ -97,6 +98,7 @@ Admitted guests will be notified by way of event approval (with calendar invite)
 ​​​I understand that Brex Inc. (the "Company") may use, reproduce, distribute, perform and publicly display my name, photographic likeness and videography, including, but not limited to, my likeness, image, voice, and/or signature which may appear therein, alone and/or in combination with other works, in print, broadcast and/or all other media, whether known or hereafter devised, including, but not limited to, advertising, trade and any other lawful purposes.  I understand that the Company may edit and alter the photography and videography at the Company’s sole discretion. Any copyright or trademarks in the photography and videography (including extensions and renewals) shall be exclusively the Company’s property. I hereby release and hold harmless the Company and those acting pursuant to its authority from liability for any claims by me or or any third party in connection with my participation in any Company events in reliance of this consent and release.
 
 ​​By providing your information you agree to be added to our email distribution list. You can unsubscribe anytime here.
+
 
 
 

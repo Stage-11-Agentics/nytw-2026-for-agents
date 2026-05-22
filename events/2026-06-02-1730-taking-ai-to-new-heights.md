@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["Qh6aQBcEyegnGFVaOfNi", "7DFu4rITofNzKIjA7hCx", "D3H2CfVDLjzTu5BF7Ht1"]
 is_capped: false
-total_guest_count: 974
+total_guest_count: 991
 approved_guest_count: 144
 local_image: "images/NHLbgkXd64ICegk4dNks.png"
+canceled: false
 ---
 
 # taking AI to new heights
@@ -36,7 +37,7 @@ local_image: "images/NHLbgkXd64ICegk4dNks.png"
 **Hosts:** Vercel, Datadog  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:30pm–8:30pm ET
 **Where:** New York Times Tower · 628 8th Ave, New York, NY 10018 · Midtown
-**Going:** 974
+**Going:** 974 of 991
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/NHLbgkXd64ICegk4dNks
 **Map:** https://www.google.com/maps/search/?api=1&query=628%208th%20Ave%2C%20New%20York%2C%20NY%2010018
@@ -57,6 +58,7 @@ We’re hosting an evening on one of the city’s highest private rooftops to ta
 Food, drinks, and speakers (tbd) from Vercel and Datadog.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

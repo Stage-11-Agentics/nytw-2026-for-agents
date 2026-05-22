@@ -20,9 +20,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["CpBJ659iYzAFEg45nzKd", "7DFu4rITofNzKIjA7hCx", "7iKme5aPtLPvcVwUxRGbiZRxl8g1", "fXPxzWRKBnNcdlD4o0KPEKe4l2v2"]
 is_capped: false
-total_guest_count: 72
+total_guest_count: 73
 approved_guest_count: 0
 local_image: "images/hI6Tdz9djTmB6Zrpz9ZS.png"
+canceled: false
 ---
 
 # AI Agents in the Wild: A Candid Conversation on Trust and Accountability
@@ -32,7 +33,7 @@ local_image: "images/hI6Tdz9djTmB6Zrpz9ZS.png"
 **Hosts:** Ezio  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 11:00am–1:00pm ET
 **Where:** Flatiron
-**Going:** 61 of 72
+**Going:** 61 of 73
 **RSVP:** https://partiful.com/e/hI6Tdz9djTmB6Zrpz9ZS
 
 ### Hosts on Partiful
@@ -59,6 +60,7 @@ We’re convening the best group of leading VCs, founders, academics, and produc
 Grounded in lessons from high-stakes domains like finance and healthcare - where risk is modeled, audited, and continuously monitored - we’ll explore how similar principles might translate (or fail to translate) to modern AI systems. Topics will include hallucination and bias detection, evaluation blind spots, human-in-the-loop design, and emerging approaches to quantifying model reliability.
 
 There is “responsible AI” as a principle. But this is a working session on something more concrete: how to move from intuition-based trust to system-level guarantees - and what needs to exist, technically and institutionally, for that shift to happen.
+
 
 
 

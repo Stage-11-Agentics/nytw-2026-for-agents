@@ -23,10 +23,11 @@ owner_count: 2
 owner_ids: ["vU4zhSFcQef7detldF3hA5iVSSn2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 40
-total_guest_count: 11
-approved_guest_count: 10
+remaining_capacity: 36
+total_guest_count: 15
+approved_guest_count: 14
 local_image: "images/sM2xFUYglx4DTIZZrw3S.png"
+canceled: false
 ---
 
 # Duct Tape and GPUs: How AI is Being Used to Stitch PE Rollups Together
@@ -36,7 +37,7 @@ local_image: "images/sM2xFUYglx4DTIZZrw3S.png"
 **Hosts:** Tallaris Partners  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 1:00pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Capacity:** capped at 50 · 10 taken, 40 remaining
+**Capacity:** capped at 50 · 14 taken, 36 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/sM2xFUYglx4DTIZZrw3S
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -53,6 +54,7 @@ Private equity firms are acquiring companies faster than anyone can integrate th
 This event brings together engineers, builders, and founders to have an honest conversation about what that actually looks like in practice. What works, what breaks, and what it means for the people building these systems. If you have ever inherited a mess and been asked to make it intelligent, this one is for you. Hosted by Tallaris Partners.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

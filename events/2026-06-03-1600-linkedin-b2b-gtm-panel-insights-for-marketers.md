@@ -26,9 +26,10 @@ owner_ids: ["4hcz2Z2ihEYMj3BiLryn", "AZdP8xph4je8QOzfb1h1bFo2H112", "7DFu4rITofN
 is_capped: true
 max_capacity: 200
 remaining_capacity: 29
-total_guest_count: 457
+total_guest_count: 468
 approved_guest_count: 171
 local_image: "images/TSvj1ztLBB4HbpvW9JgE.png"
+canceled: false
 ---
 
 # LinkedIn B2B GTM Panel - Insights for Marketers
@@ -70,6 +71,7 @@ What to expect:
 • Networking with founders, marketers, and operators over drinks and light bites
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

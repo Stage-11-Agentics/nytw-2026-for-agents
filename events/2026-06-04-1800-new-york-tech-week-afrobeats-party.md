@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["2fWTeB3MdsQsy5ttwHemdYxrCK22", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 1235
-approved_guest_count: 265
+total_guest_count: 1240
+approved_guest_count: 273
 local_image: "images/sQabZ7OHPLufkb0Kgk4W.png"
+canceled: false
 ---
 
 # New York Tech Week Afrobeats Party
@@ -34,7 +35,7 @@ local_image: "images/sQabZ7OHPLufkb0Kgk4W.png"
 **Hosts:** Travelbay  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
 **Where:** Manhattan · Manhattan, New York, NY · Upper Manhattan
-**Going:** 1235
+**Going:** 1235 of 1240
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/sQabZ7OHPLufkb0Kgk4W
 **Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -60,6 +61,7 @@ Hosted by Travelbay:
 It’s a celebration of innovation, creativity, and the people shaping the future of tech - set to the sounds that are shaping global culture.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

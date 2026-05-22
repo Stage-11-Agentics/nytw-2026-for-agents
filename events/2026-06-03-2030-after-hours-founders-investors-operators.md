@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["z4B7DhhpH2OQRAFXZpZqWzIjs5o2", "7DFu4rITofNzKIjA7hCx", "GHkBFBZbPlgEoqrLfadRZAkeXt52"]
 is_capped: false
-total_guest_count: 263
-approved_guest_count: 257
+total_guest_count: 271
+approved_guest_count: 262
 local_image: "images/l7bvHYnBBBKSeC7CjeOG.png"
+canceled: false
 ---
 
 # After Hours: Founders, Investors & Operators
@@ -33,7 +34,7 @@ local_image: "images/l7bvHYnBBBKSeC7CjeOG.png"
 **Hosts:** Bulletpitch  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 8:30pm ET
 **Where:** 157 Bleecker St, New York, NY 10012 · West Village
-**Going:** 263
+**Going:** 263 of 271
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/l7bvHYnBBBKSeC7CjeOG
 **Map:** https://www.google.com/maps/search/?api=1&query=157%20Bleecker%20St%2C%20New%20York%2C%20NY%2010012
@@ -54,6 +55,7 @@ There’s no formal agenda or programming. Just a welcoming space to meet intere
 Come as you are, stay as long as you’d like, and connect with others who are building, investing, and operating.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

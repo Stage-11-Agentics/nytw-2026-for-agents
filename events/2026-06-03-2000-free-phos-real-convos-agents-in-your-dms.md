@@ -25,6 +25,7 @@ is_capped: false
 total_guest_count: 90
 approved_guest_count: 87
 local_image: "images/ed2EFWip0do9OuYmVPZI.png"
+canceled: false
 ---
 
 # Free Phos, Real Convos. Agents in your DMs
@@ -65,6 +66,7 @@ Photon is the easiest way to build and deploy AI agents inside the messaging app
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

@@ -28,6 +28,7 @@ remaining_capacity: 53
 total_guest_count: 13
 approved_guest_count: 0
 local_image: "images/gP80ioDptVy1W5Gx5Lv4.png"
+canceled: false
 ---
 
 # From Startup to Scale: Using AI to Streamline and Grow
@@ -50,6 +51,7 @@ local_image: "images/gP80ioDptVy1W5Gx5Lv4.png"
 ## Description
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

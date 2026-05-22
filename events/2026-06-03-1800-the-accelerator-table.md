@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 51
 approved_guest_count: 7
 local_image: "images/DY6XJUWM6H39sVyu4Ize.png"
+canceled: false
 ---
 
 # The Accelerator
@@ -57,6 +58,7 @@ The people who build the launchpads deserve their own room. The Accelerator Tabl
 ●Curated Dinner Experience
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

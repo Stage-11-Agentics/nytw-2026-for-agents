@@ -29,6 +29,7 @@ remaining_capacity: 26
 total_guest_count: 58
 approved_guest_count: 0
 local_image: "images/OrQcBqgwq8KX9NOUxhSv.png"
+canceled: false
 ---
 
 # Sanctum Digital: Global Mindful Movement
@@ -61,6 +62,7 @@ Come to move, reset, and connect—before the noise of the day sets in.
 Limited capacity.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

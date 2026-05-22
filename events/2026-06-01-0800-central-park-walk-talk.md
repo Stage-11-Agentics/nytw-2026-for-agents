@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["8T1HSuwhbSOYpq1uNzduVwXa0q32", "EwHOojp9Fk1jdpvzWpGV", "7DFu4rITofNzKIjA7hCx", "BZnNbMg82kg0e46H5PEftPHda6W2"]
 is_capped: false
-total_guest_count: 182
-approved_guest_count: 99
+total_guest_count: 184
+approved_guest_count: 98
 local_image: "images/nM6p1woMkNCsrCmbgFlS.png"
+canceled: false
 ---
 
 # Central Park Walk & Talk
@@ -34,7 +35,7 @@ local_image: "images/nM6p1woMkNCsrCmbgFlS.png"
 **Hosts:** Steady  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 8:00am ET
 **Where:** Central Park · New York, NY 10028 · Central Park
-**Going:** 182
+**Going:** 182 of 184
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/nM6p1woMkNCsrCmbgFlS
 **Map:** https://www.google.com/maps/search/?api=1&query=Central%20Park%2C%20New%20York%2C%20NY%2010028
@@ -52,6 +53,7 @@ local_image: "images/nM6p1woMkNCsrCmbgFlS.png"
 Kick off Tech Week with a morning walk in Central Park and a conversation about the human side of innovation. As technology continues to reshape how we live, work and connect, we’re gathering founders and builders to talk about wellbeing, presence, human connection and what it means to create tools that support a full life.
 
 This event is a part of #NYTechWeek – a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 6
 owner_ids: ["vL6dCeMKG9N7eVvEtYsvMZCI9zo2", "7DFu4rITofNzKIjA7hCx", "61UBvjQVjxYzfVIDsGabqIo9Sus1", "w0HO7dBfehYg1pSk5TxyrjgdCL22", "fYtPb5xC71bO9wCs4lWFja0NDtm2", "lBSvfo1Zu4V7XyR4dIzc5KB8tCl1"]
 is_capped: false
-total_guest_count: 211
-approved_guest_count: 168
+total_guest_count: 217
+approved_guest_count: 211
 local_image: "images/EuXFQer0qIBFcE0xOhBX.jpg"
+canceled: false
 ---
 
 # Tech x Creator Social at
@@ -33,7 +34,7 @@ local_image: "images/EuXFQer0qIBFcE0xOhBX.jpg"
 **Hosts:** Wells Fargo TMT Investment Banking  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:30pm–7:30pm ET
 **Where:** Lower East Side
-**Going:** 209 of 211
+**Going:** 209 of 217
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/EuXFQer0qIBFcE0xOhBX
 
@@ -62,6 +63,7 @@ Come through and make new friends! 👯 👯
 Brought to you by cohosts from Tech & Media Investment Banking at Wells Fargo, Third Space Capital, Shamrock Capital, and more.
 
 This event is a part of #NYTechWeek - a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

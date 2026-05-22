@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 655
 approved_guest_count: 67
 local_image: "images/ApHnxYHtB9fZYBmsj0g5.png"
+canceled: false
 ---
 
 # Zero to (Acquired) Unicorn: Graphite Founder Fireside
@@ -75,6 +76,7 @@ The Afterparty (ft. Ian Asher): https://partiful.com/e/ScshPTV3NbGkHPRQ5Ith
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 By registering for this event, you consent to receive post-event communications from the hosts. You may unsubscribe at any time.
+
 
 
 

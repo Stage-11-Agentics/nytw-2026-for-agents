@@ -26,6 +26,7 @@ is_capped: false
 total_guest_count: 11
 approved_guest_count: 10
 local_image: "images/U2ypFIJ3AxTOaSxGwLcM.png"
+canceled: false
 ---
 
 # From ads to play: Bringing Argentina’s largest brand to Fortnite - #NewYorkTechWeek
@@ -54,6 +55,7 @@ Traditional advertising is evolving into cultural participation. Join us as we e
 We’ll dive into how companies can leverage platforms like Fortnite and Roblox to reach Gen Z and Alpha where they naturally socialize. By harnessing the power of gaming, YPF translated its "Full" retail stations into interactive mechanics, turning a physical brand into a premier virtual destination.
 
 This event is hosted by Odaclick (Game Sudio) & Exomindset and is part of #NewYorkTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

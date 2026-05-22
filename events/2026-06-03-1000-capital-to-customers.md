@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 6
 owner_ids: ["chYEv4858OzM9E1jkvnD", "7DFu4rITofNzKIjA7hCx", "lRbsUBShN5NFJm0ApjAbfAgWpaE2", "3ZjrKpLJzpM7A7aVqoGWzK50zAz2", "Cb6Qp1meBDBhfTOkVhNj", "lkHXThR6tzTYq8BmJcxx"]
 is_capped: false
-total_guest_count: 153
+total_guest_count: 156
 approved_guest_count: 45
 local_image: "images/blNIAVH8VYaVAx5doUig.png"
+canceled: false
 ---
 
 # Capital to Customers
@@ -36,7 +37,7 @@ local_image: "images/blNIAVH8VYaVAx5doUig.png"
 **Hosts:** Efficient Capital Labs, Carta, Zendesk  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 10:00am–1:00pm ET
 **Where:** Lowenstein Sandler · 1251 Avenue of the Americas, FL 17, New York, NY 10020 · Upper Manhattan
-**Going:** 151 of 153
+**Going:** 151 of 156
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/blNIAVH8VYaVAx5doUig
 **Map:** https://www.google.com/maps/search/?api=1&query=1251%20Avenue%20of%20the%20Americas%2C%20FL%2017%2C%20New%20York%2C%20NY%2010020
@@ -62,6 +63,7 @@ This session brings together leading voices across venture capital, fintech, and
 We’ll focus on how smart funding (venture debt, revenue-based financing, strategic venture capital, secondary liquidity), clean ownership (cap table optimization, data-driven underwriting), and high-performing customer experience (AI-powered support, success, and operations) work together to extend runway, reduce drag, and build momentum in practice.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

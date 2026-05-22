@@ -29,6 +29,7 @@ remaining_capacity: 21
 total_guest_count: 134
 approved_guest_count: 4
 local_image: "images/b9eWW3hyaBDVJD4tFS6c.png"
+canceled: false
 ---
 
 # CFO Dinner  - Future of Pricing in AI
@@ -64,6 +65,7 @@ Join Tabs during #NYTechWeek for a private dinner for senior finance leaders to 
 ​Spots are limited. Apply to join.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["JRxyzVmQ5vQvEWPGTZhE9OFABDi2", "7DFu4rITofNzKIjA7hCx", "w85DlnzDJcOU79PNi2AEmMlNWST2", "pI10d5WcPFZgqN3GyisiaoHQDNo2"]
 is_capped: false
-total_guest_count: 103
+total_guest_count: 108
 approved_guest_count: 40
 local_image: "images/hsySQRXtBbizFv4V6sDT.png"
+canceled: false
 ---
 
 # Krea Demo Night and Office Warming
@@ -34,7 +35,7 @@ local_image: "images/hsySQRXtBbizFv4V6sDT.png"
 **Hosts:** Krea  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 7:00pm ET
 **Where:** Williamsburg · Williamsburg, Brooklyn, New York, NY · Brooklyn
-**Going:** 103
+**Going:** 103 of 108
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/hsySQRXtBbizFv4V6sDT
 **Map:** https://www.google.com/maps/search/?api=1&query=Williamsburg%2C%20Williamsburg%2C%20Brooklyn%2C%20New%20York%2C%20NY
@@ -56,6 +57,7 @@ We’ll walk through a few core use cases in a live setting, while also celebrat
 After party to follow.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

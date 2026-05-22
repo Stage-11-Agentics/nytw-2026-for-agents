@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 325
 approved_guest_count: 0
 local_image: "images/SwFhpd2jWPqseLa92wsP.png"
+canceled: false
 ---
 
 # Mission Satellite
@@ -52,6 +53,7 @@ Join our partners from Blockchain House Portugal, Brainchild Enterprises, New Yo
 A Special sneak peak at "Death of an Office Slave" a film about a fed up hacker looking to take down the system.  Produced by JCut with co producers Krypto2009 and Randy this film was shot on location over 3 years with AI enhancements.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

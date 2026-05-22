@@ -25,6 +25,7 @@ is_capped: false
 total_guest_count: 48
 approved_guest_count: 44
 local_image: "images/WqSb1H70yuPkhNDf9q7v.png"
+canceled: false
 ---
 
 # AI Side-Project Showcase
@@ -60,6 +61,7 @@ Organized by The New Builder Podcast
 Note: Due to time limitations, presenter slots may be limited.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["4HTFLapxufSa49SBiTYubyTEhNr2", "y02ADABgWcbL8ENKlNHlvXDWJTh1", "nwB7r0Ss2seRaHdQeKFGzg2SgJc2", "3EeCD011elVljhzpMFi87xx6q7t2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 209
+total_guest_count: 210
 approved_guest_count: 1
 local_image: "images/j0xoBU60bTkvoB7XSbld.png"
+canceled: false
 ---
 
 # 🍻Write It Off - Happy Hour w/ Escalon x Withum x Deel
@@ -36,7 +37,7 @@ local_image: "images/j0xoBU60bTkvoB7XSbld.png"
 **Hosts:** Deel, Escalon, Withum  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:00pm–7:00pm ET
 **Where:** Greenwich Village · Greenwich Village, Manhattan, New York, NY · Greenwich Village
-**Going:** 208 of 209
+**Going:** 208 of 210
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/j0xoBU60bTkvoB7XSbld
 **Map:** https://www.google.com/maps/search/?api=1&query=Greenwich%20Village%2C%20Greenwich%20Village%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -78,6 +79,7 @@ Deel
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

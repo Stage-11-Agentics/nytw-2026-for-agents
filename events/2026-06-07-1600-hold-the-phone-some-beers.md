@@ -25,9 +25,10 @@ owner_ids: ["w9jOPVVUfTMvJs7jWuXyz6vnbWG2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 75
 remaining_capacity: 11
-total_guest_count: 64
+total_guest_count: 65
 approved_guest_count: 64
 local_image: "images/bjTaMqKYweRN3M8syced.png"
+canceled: false
 ---
 
 # Hold The Phone! & Some Beers
@@ -63,6 +64,7 @@ Anne Renga Weaver, LCSW, therapist, anxiety specialist, college social worker, a
 Dan Fox, marketing executive at Light Phone, the Brooklyn-based alternative phone company.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

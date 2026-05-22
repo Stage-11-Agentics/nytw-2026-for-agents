@@ -26,6 +26,7 @@ remaining_capacity: 24
 total_guest_count: 47
 approved_guest_count: 26
 local_image: "images/6IyrrQO0OeyIwFF8RdEz.png"
+canceled: false
 ---
 
 # An Engineering Mindset for AI Adoption Beyond Engineering
@@ -55,6 +56,7 @@ amp is a connected-fitness company building adaptive strength training hardware 
 AI finally lets the engineering mindset escape R&D- marketing, customer success, and ops can now build systems instead of buying tools. This talk is about the leadership shifts that make that real, especially at companies that weren't built AI-native.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

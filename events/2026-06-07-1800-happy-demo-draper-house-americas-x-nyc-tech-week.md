@@ -20,9 +20,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["xaNW1TNKkZbARKoe2otQxSCJQ3f2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 103
+total_guest_count: 105
 approved_guest_count: 0
 local_image: "images/Vxxev8vasdfViiBYqQjd.gif"
+canceled: false
 ---
 
 # Happy Demo | Draper House Americas x NYC Tech Week
@@ -32,7 +33,7 @@ local_image: "images/Vxxev8vasdfViiBYqQjd.gif"
 **Hosts:** Draper House Americas, Tha Yard
 **When:** Sunday, June 7, 2026 · 6:00pm ET
 **Where:** 106 W 32nd St, New York, NY 10001 · Midtown
-**Going:** 92 of 103
+**Going:** 92 of 105
 **RSVP:** https://partiful.com/e/Vxxev8vasdfViiBYqQjd
 **Map:** https://www.google.com/maps/search/?api=1&query=106%20W%2032nd%20St%2C%20New%20York%2C%20NY%2010001
 
@@ -45,6 +46,7 @@ local_image: "images/Vxxev8vasdfViiBYqQjd.gif"
 ## Description
 
 Join Draper House Americas and friends for Happy Demo — a one-of-a-kind Demo Day meets Happy Hour during NY Tech Week 2026. Early-stage founders from our global community will take the stage for rapid-fire pitches in front of a crowd of VCs, angel investors, and fellow builders. Expect bold ideas, great energy, and craft drinks — the best startup, selected by the crowd, wins a full scholarship to the Draper Founders Program. This is your chance to connect, pitch, and celebrate the future of tech in NYC.
+
 
 
 

@@ -23,9 +23,10 @@ owner_ids: ["93Ut6zWTw3Uw3J4iLqsskrbgSkp1", "7DFu4rITofNzKIjA7hCx", "Sss7NLV42aP
 is_capped: true
 max_capacity: 60
 remaining_capacity: 59
-total_guest_count: 49
+total_guest_count: 50
 approved_guest_count: 1
 local_image: "images/AKtjgFWAn6y37yoxfFan.png"
+canceled: false
 ---
 
 # How Great Teams Win in the Age of AI
@@ -68,6 +69,7 @@ The discussion will go beyond surface-level insights. Panelists will challenge a
 Attendees will leave with clearer thinking, sharper questions, and a better understanding of how to strengthen their teams in an AI-driven environment.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

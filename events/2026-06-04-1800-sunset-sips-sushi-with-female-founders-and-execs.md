@@ -23,9 +23,10 @@ owner_ids: ["uqGH4Yj4hXWQostZKGZEOYcpfbH3", "7DFu4rITofNzKIjA7hCx", "E8pPmotF7wP
 is_capped: true
 max_capacity: 100
 remaining_capacity: 100
-total_guest_count: 188
+total_guest_count: 194
 approved_guest_count: 0
 local_image: "images/WWPAAjfT9ybpzmNwU0UZ.png"
+canceled: false
 ---
 
 # Sunset Sips & Sushi with Female Founders and Execs
@@ -72,6 +73,7 @@ For more than 60 years, Wilson Sonsini has represented technology pioneers assoc
 Today, Wilson Sonsini is synonymous with ushering promising and innovative technology and life sciences companies through their business life cycle.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

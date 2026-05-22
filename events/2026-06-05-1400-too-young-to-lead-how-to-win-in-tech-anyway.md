@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["QcoRHqvnbQf8Kfc19UI5VZBIug03", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 24
+total_guest_count: 25
 approved_guest_count: 0
 local_image: "images/M066UywP0GahJpN3RtDM.jpg"
+canceled: false
 ---
 
 # Too Young to Lead? How to Win in Tech Anyway
@@ -33,7 +34,7 @@ local_image: "images/M066UywP0GahJpN3RtDM.jpg"
 **Hosts:** Smadlytics Inc  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 2:00pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 18 of 24
+**Going:** 18 of 25
 **RSVP:** https://partiful.com/e/M066UywP0GahJpN3RtDM
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
 
@@ -59,6 +60,7 @@ Key Takeaways:
 >> The specific moves that convert age bias into competitive advantage
 >> What closing multi-billion dollar deals taught her about trust, timing, and positioning
 >> A first look at AI startup Smadlytics and the global growth behind it
+
 
 
 

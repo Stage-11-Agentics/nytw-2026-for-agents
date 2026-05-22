@@ -29,6 +29,7 @@ remaining_capacity: 10
 total_guest_count: 55
 approved_guest_count: 10
 local_image: "images/2DMDnnMCfblj3XRPNAuO.png"
+canceled: false
 ---
 
 # Dinner & Insights: FoodTech Innovation Shaping healthier communities
@@ -62,6 +63,7 @@ From cutting-edge startups to transformative organizations and investors that fu
 Join us for dinner, networking, and insightful conversations. This event is part of NY Tech Week — a week of events hosted by venture capital firms, startups, and technology leaders designed to bring together the broader innovation ecosystem. Learn more at www.tech-week.com
 
 ***Please note that there is a registration fee to attend the event. Details will only be shared with registered attendees.
+
 
 
 

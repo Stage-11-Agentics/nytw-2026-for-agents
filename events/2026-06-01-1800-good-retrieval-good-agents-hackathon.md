@@ -23,10 +23,11 @@ owner_count: 2
 owner_ids: ["QI7p5iuvmlMwdjQhm8appWbG0012", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 70
-remaining_capacity: 17
-total_guest_count: 62
+remaining_capacity: 16
+total_guest_count: 63
 approved_guest_count: 0
 local_image: "images/4WmNb227JLOKmvufTsET.png"
+canceled: false
 ---
 
 # Good retrieval = good agents hackathon
@@ -36,7 +37,7 @@ local_image: "images/4WmNb227JLOKmvufTsET.png"
 **Hosts:** Shaped  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:00pm–9:00pm ET
 **Where:** 15 W 18th St, New York, NY 10011 · Flatiron
-**Capacity:** capped at 70 · 53 taken, 17 remaining
+**Capacity:** capped at 70 · 54 taken, 16 remaining
 **RSVP:** https://partiful.com/e/4WmNb227JLOKmvufTsET
 **Map:** https://www.google.com/maps/search/?api=1&query=15%20W%2018th%20St%2C%20New%20York%2C%20NY%2010011
 
@@ -57,6 +58,7 @@ We'll guide you on setting up your first retrieval engine and wiring it to your 
 You'll get direct API access and real talk from people running this at scale.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 91
 approved_guest_count: 0
 local_image: "images/BDyQ9ImpqOIrqqZqmFAn.png"
+canceled: false
 ---
 
 # The Business of Christian Technology
@@ -53,6 +54,7 @@ local_image: "images/BDyQ9ImpqOIrqqZqmFAn.png"
 A high-signal New York Tech Week gathering exploring the scale, legitimacy, and future of Christian technology as a market category—while spotlighting founders, builders, and startups creating values-aligned products.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

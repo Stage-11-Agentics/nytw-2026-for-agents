@@ -25,6 +25,7 @@ is_capped: false
 total_guest_count: 19
 approved_guest_count: 7
 local_image: "images/0gu1lOnNUW1XdAVgqlKt.png"
+canceled: false
 ---
 
 # [BIOADAPTING Happy Hour: AI, Holograms & the Future of Live Performance]
@@ -55,6 +56,7 @@ When: Thursday, June 4th 5-7pm
 Where: Luminary, 1204 Broadway, 4th floor, New York, NY 10001
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

@@ -20,8 +20,9 @@ owner_count: 2
 owner_ids: ["rnGOGo2sGCbbYsZnMPqA3Ci1Qhp2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
 total_guest_count: 70
-approved_guest_count: 62
+approved_guest_count: 64
 local_image: "images/Jl1DEHZSKYd66t6P0OHA.png"
+canceled: false
 ---
 
 # Travel Recharge Mixer!
@@ -84,6 +85,7 @@ Flex-N-Fly is a travel wellness company dedicated to supporting the mental and p
 ____________________________________
 
 This event is a part of #NYTechWeek - a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

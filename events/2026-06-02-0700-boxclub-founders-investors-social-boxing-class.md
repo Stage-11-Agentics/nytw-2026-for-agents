@@ -26,9 +26,10 @@ owner_ids: ["90YLKB3THDU1E4N9ZAqthQowxc83", "7DFu4rITofNzKIjA7hCx", "IVz0V88QcbQ
 is_capped: true
 max_capacity: 150
 remaining_capacity: 43
-total_guest_count: 119
+total_guest_count: 123
 approved_guest_count: 107
 local_image: "images/YzPaCE875DoVvWVPo4Rh.png"
+canceled: false
 ---
 
 # BOXCLUB - Founders & Investors Social Boxing Class
@@ -58,6 +59,7 @@ Break a sweat and learn a new skill with other founders and investors in a priva
 Please secure your spot here: https://events.sweatpals.com/1537e495. RSVP approval after payment.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

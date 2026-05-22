@@ -28,6 +28,7 @@ remaining_capacity: 25
 total_guest_count: 116
 approved_guest_count: 0
 local_image: "images/QEtLHa6f52i11Y37wyfb.png"
+canceled: false
 ---
 
 # Vibe Code Live: Build, Learn, Repeat
@@ -76,6 +77,7 @@ NYAI is a global community of AI builders, founders, and investors exploring the
 BrainStation is the global leader in digital skills learning and workforce transformation. They empower businesses and professionals to succeed in the digital age by equipping them with the necessary skills to create value in fields such as AI, data, design, marketing and product.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["lWFu5TNr5Qbh2fkKZzmDqNTwDfG2", "7DFu4rITofNzKIjA7hCx", "pwz2MotQoHZmHL6w0Pvjmd11ZJo2"]
 is_capped: false
-total_guest_count: 278
+total_guest_count: 280
 approved_guest_count: 0
 local_image: "images/JqgGz3jnIK9GEXFSfPMs.png"
+canceled: false
 ---
 
 # Fashion Tech Panel Event @ FIT
@@ -33,7 +34,7 @@ local_image: "images/JqgGz3jnIK9GEXFSfPMs.png"
 **Hosts:** The Pattern Maker  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 4:00pm–7:00pm ET
 **Where:** Chelsea
-**Going:** 247 of 278
+**Going:** 247 of 280
 **RSVP:** https://partiful.com/e/JqgGz3jnIK9GEXFSfPMs
 
 ### Hosts on Partiful
@@ -58,6 +59,7 @@ Panelists will be announced May 15th.
 Want to get a taste of what to expect? Check out last years event here: https://thepatternmaker.substack.com/p/the-complete-guide-to-fashion-tech
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

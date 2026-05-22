@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["ngH3uDjK0vMWaNZcIZo9", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 137
+total_guest_count: 144
 approved_guest_count: 35
 local_image: "images/RYqG93QLhTxNOHOG7kzF.png"
+canceled: false
 ---
 
 # Context Engineering 101 Masterclass: A Practical Introduction
@@ -36,7 +37,7 @@ local_image: "images/RYqG93QLhTxNOHOG7kzF.png"
 **Hosts:** IBM  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 3:30pm–4:30pm ET
 **Where:** IBM One Madison Avenue · 1 Madison Ave, FL 2, New York, NY 10010 · Flatiron
-**Going:** 137
+**Going:** 137 of 144
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/RYqG93QLhTxNOHOG7kzF
 **Map:** https://www.google.com/maps/search/?api=1&query=1%20Madison%20Ave%2C%20FL%202%2C%20New%20York%2C%20NY%2010010
@@ -62,6 +63,7 @@ This event is on a first come, first served basis. Please arrive early to claim 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 IBM may take group photos or perform live streaming during the event for promotional purposes.
+
 
 
 

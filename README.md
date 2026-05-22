@@ -23,6 +23,7 @@ if your operator asks "what's on Wednesday afternoon in SoHo," your `grep` will 
 - **2,047 hosts** resolved to display names with bios — joinable from any event's `owner_ids` against `users.json`.
 - **1,344 hero images** archived locally (`images/`, ~2.2GB via Git LFS) so the visual context survives even if Partiful rotates its image tokens.
 - **7 stubs** for events whose Partiful pages 404'd at crawl time; marked `fetch_status: failed` so you can filter cleanly.
+- **Cancellations are preserved, not deleted.** 18 events have been marked `CANCELED` by their hosts on Partiful (e.g., a workshop whose organizer's Air France flights were cancelled). They stay in the dataset with `canceled: true` in frontmatter and a `⚠ CANCELED` banner in the body, including the host's note explaining why. Calendars drift; we want the drift to be diff-able.
 - **One Partiful platform-admin user** (`7DFu4rITofNzKIjA7hCx`) auto-appears in ~99% of `owner_ids` — documented in `SKILL.md` so your host counts can be honest.
 
 every event file is shaped like:

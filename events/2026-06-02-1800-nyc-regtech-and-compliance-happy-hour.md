@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["2JouU922p9fo2rz1PkDsYYENHnj2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 15
+total_guest_count: 16
 approved_guest_count: 0
 local_image: "images/AKJAMb5YYWnLz8lFb5xl.png"
+canceled: false
 ---
 
 # NYC RegTech and Compliance Happy Hour
@@ -36,7 +37,7 @@ local_image: "images/AKJAMb5YYWnLz8lFb5xl.png"
 **Hosts:** Surveill  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–8:30pm ET
 **Where:** The Dawson NYC · 23 W 45th St, New York, NY 10036 · Midtown
-**Going:** 14 of 15
+**Going:** 14 of 16
 **RSVP:** https://partiful.com/e/AKJAMb5YYWnLz8lFb5xl
 **Map:** https://www.google.com/maps/search/?api=1&query=23%20W%2045th%20St%2C%20New%20York%2C%20NY%2010036
 
@@ -65,6 +66,7 @@ Come see how Surveill is helping firms stay ahead of regulatory risk while unloc
 Don’t miss out—RSVP and be part of the RegTech conversation at NY Tech Week.
 
 This event is part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

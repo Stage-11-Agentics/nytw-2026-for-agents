@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["Mug63ol7GhORWStwhlKzbaeqdS53", "7DFu4rITofNzKIjA7hCx", "4p6GCVtPOad4VeMrVwvn"]
 is_capped: false
-total_guest_count: 378
+total_guest_count: 383
 approved_guest_count: 0
 local_image: "images/nsJWESaFmNRxg58VfNjT.png"
+canceled: false
 ---
 
 # Startup Founders + Tech Professionals Happy Hour
@@ -36,7 +37,7 @@ local_image: "images/nsJWESaFmNRxg58VfNjT.png"
 **Hosts:** Startup Oasis  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 7:00pm–9:00pm ET
 **Where:** The Three Monkeys · 832 8th Ave, New York, NY 10019 · Midtown
-**Going:** 357 of 378
+**Going:** 357 of 383
 **RSVP:** https://partiful.com/e/nsJWESaFmNRxg58VfNjT
 **Map:** https://www.google.com/maps/search/?api=1&query=832%208th%20Ave%2C%20New%20York%2C%20NY%2010019
 
@@ -61,6 +62,7 @@ The location is in Midtown, please RSVP to get the address.
 Note: Capacity is limited. Priority given to founders and operators. Drinks available for purchase at the bar.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

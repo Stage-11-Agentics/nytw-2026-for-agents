@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 74
 approved_guest_count: 0
 local_image: "images/W8Zz3f2lutZZRksKD1hr.png"
+canceled: false
 ---
 
 # Growth and Ecom in the Age of AI Happy Hour
@@ -72,6 +73,7 @@ About the Hosts
 Haven is a modern full-stack accounting platform for startups and SMBs — bookkeeping, taxes, R&D credits, AR/AP, all in one place. Learn more at usehaven.com
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 2022
 approved_guest_count: 46
 local_image: "images/KhKOePrEky8gzr3zllTi.png"
+canceled: false
 ---
 
 # NYC University Founders ONLY Meet
@@ -83,6 +84,7 @@ Part of IRL events at reversenetworkmeets.com
 Reverse Networking events can happen anywhere, from parks and co-working spaces to bars, clubs, and more. Invite the people you've connected with online and meet them all in one place in real life. Skip endless coffee meetings and connect with multiple people at once.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

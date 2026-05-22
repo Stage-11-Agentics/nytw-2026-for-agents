@@ -26,6 +26,7 @@ remaining_capacity: 204
 total_guest_count: 50
 approved_guest_count: 0
 local_image: "images/cy4iiLTbdihqqMMs9WeM.png"
+canceled: false
 ---
 
 # Innovators' Hub: Cutting-Edge Tech, SMB Ready
@@ -89,6 +90,7 @@ You might have ideas or have tried AI before. But if you want to go big—why no
 Experience innovation at its finest—right here in Queens.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

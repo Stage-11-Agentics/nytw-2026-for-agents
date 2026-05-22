@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 17
 approved_guest_count: 17
 local_image: "images/MhtX7VF0KCx9iVNYduLe.png"
+canceled: false
 ---
 
 # Memorize PI with AI - #NYTechweek
@@ -52,6 +53,7 @@ local_image: "images/MhtX7VF0KCx9iVNYduLe.png"
 Discover how AI tools and storytelling combine to help you memorize the first 100 digits of Pi—faster and easier than you’d expect.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

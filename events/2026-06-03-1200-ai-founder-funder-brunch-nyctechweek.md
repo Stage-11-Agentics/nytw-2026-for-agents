@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["w1jqgdPm3vKwUxog6CmM", "7DFu4rITofNzKIjA7hCx", "Lj7PokxduyNh2lyURaz4x6Qv7Kn2"]
 is_capped: false
-total_guest_count: 105
+total_guest_count: 106
 approved_guest_count: 10
 local_image: "images/CFCQZrHUAIGOer02VXgS.png"
+canceled: false
 ---
 
 # AI Founder & Funder Brunch - #NYCTechWeek
@@ -36,7 +37,7 @@ local_image: "images/CFCQZrHUAIGOer02VXgS.png"
 **Hosts:** The AI Furnace, Foley Hoag LLP  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 12:00pm–3:00pm ET
 **Where:** Chelsea · Chelsea, Manhattan, New York, NY · Chelsea
-**Going:** 105
+**Going:** 105 of 106
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/CFCQZrHUAIGOer02VXgS
 **Map:** https://www.google.com/maps/search/?api=1&query=Chelsea%2C%20Chelsea%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -68,6 +69,7 @@ This event is a part of #NYTechWeek—a week of events hosted by VCs and startup
 HUGE THANKS TO OUR SPONSORS
 
 Foley Hoag offers practical, forward-looking advice in the fast-changing world of artificial intelligence, including at the leading edge of generative and agentic technologies. We partner with the thought leaders driving innovation and the dreamers who are responsibly developing AI to transform our world for the better. Our work with AI-enabled technologies and businesses covers various industries and stages of growth, but follows a core guiding principle: At every turn, set the stage for AI innovation and then get out of the way. Learn more at www.foleyhoag.com.
+
 
 
 

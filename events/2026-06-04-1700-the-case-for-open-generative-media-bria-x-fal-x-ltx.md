@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["WQ1SUqNb7qq75eUlIzt0", "7DFu4rITofNzKIjA7hCx", "GgzH7GiAH8ULICotKOOnlNTbOQu1", "JzCOgHmnaEZO4saGeJEi"]
 is_capped: false
-total_guest_count: 67
+total_guest_count: 69
 approved_guest_count: 48
 local_image: "images/MGw5Ckm5L452QnaezIkR.png"
+canceled: false
 ---
 
 # The Case for Open Generative Media: Bria X fal X LTX
@@ -33,7 +34,7 @@ local_image: "images/MGw5Ckm5L452QnaezIkR.png"
 **Hosts:** Bria, fal, LTX  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:00pm ET
 **Where:** 315 W 35th St, New York, NY 10001 · Chelsea
-**Going:** 65 of 67
+**Going:** 65 of 69
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/MGw5Ckm5L452QnaezIkR
 **Map:** https://www.google.com/maps/search/?api=1&query=315%20W%2035th%20St%2C%20New%20York%2C%20NY%2010001
@@ -87,6 +88,7 @@ Moderator: Gil Shefler, Bria -- Partnerships
 ​LTX is an open-source foundational multi-modal model built for precision, control, and efficiency — from production-ready media to content at scale.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

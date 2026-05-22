@@ -29,6 +29,7 @@ remaining_capacity: 50
 total_guest_count: 65
 approved_guest_count: 0
 local_image: "images/iwz1MCsuGW7sQSYYAuzn.png"
+canceled: false
 ---
 
 # Made In This Room
@@ -62,6 +63,7 @@ Limited by design. Each guest is chosen for what they bring into it, and the exp
 The guest list is intentionally limited, and each invitation is extended with care. Because of this, we ask that if you accept, you plan to be fully present for the  entire evening.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

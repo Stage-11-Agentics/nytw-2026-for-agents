@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["0wMLtF8eSPHMQQCEkIZn", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 534
-approved_guest_count: 428
+total_guest_count: 537
+approved_guest_count: 430
 local_image: "images/cDtdUampmcbyc1wqrRid.png"
+canceled: false
 ---
 
 # Gammarama Pitch Competition: Share a Stage with Malcolm Gladwell, Bobbi Brown, and More
@@ -36,7 +37,7 @@ local_image: "images/cDtdUampmcbyc1wqrRid.png"
 **Hosts:** Gamma  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 4:00pm–6:00pm ET
 **Where:** The Manhattan Center · 311 W 34th St, New York, NY 10001 · Midtown
-**Going:** 534
+**Going:** 534 of 537
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/cDtdUampmcbyc1wqrRid
 **Map:** https://www.google.com/maps/search/?api=1&query=311%20W%2034th%20St%2C%20New%20York%2C%20NY%2010001
@@ -64,6 +65,7 @@ In your RSVP, indicate if you'd like to compete or are coming to watch the 10 fi
 ***This page is for the pitch finals. Register for the main-stage Gammarama show here: https://partiful.com/e/fCEfTvswCDe1lJYqLHQv ***
 
 This event is hosted by Gamma (gamma.app) and part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

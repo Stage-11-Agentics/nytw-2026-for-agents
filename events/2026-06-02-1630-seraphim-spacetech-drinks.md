@@ -26,9 +26,10 @@ owner_ids: ["LNX6FH857cdOjlFjHcfLP4id3XW2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 120
 remaining_capacity: 69
-total_guest_count: 378
+total_guest_count: 381
 approved_guest_count: 51
 local_image: "images/NEACQLRcBvDYbv4ERCaW.png"
+canceled: false
 ---
 
 # Seraphim SpaceTech Drinks
@@ -63,6 +64,7 @@ Space is limited and registrations will be reviewed and approved.
 
 
 This event is a part of NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

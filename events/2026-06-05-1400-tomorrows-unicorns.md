@@ -20,9 +20,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["O3llFsj4z0RX3y0M2ZpC", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 24
+total_guest_count: 25
 approved_guest_count: 0
 local_image: "images/p0S0WixaAo2RJlWgsVlf.png"
+canceled: false
 ---
 
 # Tomorrow's Unicorns
@@ -32,7 +33,7 @@ local_image: "images/p0S0WixaAo2RJlWgsVlf.png"
 **Hosts:** G-Fellows  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 2:00pm–4:00pm ET
 **Where:** Flatiron
-**Going:** 22 of 24
+**Going:** 22 of 25
 **RSVP:** https://partiful.com/e/p0S0WixaAo2RJlWgsVlf
 
 ### Hosts on Partiful
@@ -46,6 +47,7 @@ local_image: "images/p0S0WixaAo2RJlWgsVlf.png"
 Student founders, investors, and operators coming together to explore the startup ideas, industries, and technologies shaping the next generation of companies in the AI era. Featuring a fireside chat, roundtables, rapid fire pitching, and networking.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

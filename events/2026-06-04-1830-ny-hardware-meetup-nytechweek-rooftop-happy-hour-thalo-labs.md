@@ -22,10 +22,11 @@ owner_count: 5
 owner_ids: ["963muC9hvXT5pMSylN4h6IlJBVE2", "7DFu4rITofNzKIjA7hCx", "tDT6OSRIZWQyYtJnNHsxarWLVhv1", "7XIjmGxfFBSFJoTuFSXMkYffUx32", "vfykmNMP34X4nJLQjvpFMKPiMHe2"]
 is_capped: true
 max_capacity: 200
-remaining_capacity: 2
-total_guest_count: 277
-approved_guest_count: 198
+remaining_capacity: 0
+total_guest_count: 280
+approved_guest_count: 200
 image_download_error: "HTTP Error 403: Forbidden"
+canceled: false
 ---
 
 # NY Hardware Meetup – #NYTechWeek Rooftop Happy Hour @ Thalo Labs
@@ -35,7 +36,7 @@ image_download_error: "HTTP Error 403: Forbidden"
 **Hosts:** NY Hardware Meetup, SRVO, Helogen, Informal  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:30pm ET
 **Where:** 55 5th Ave, New York, NY 10003 · Midtown
-**Capacity:** capped at 200 · 198 taken, 2 remaining
+**Capacity:** capped at 200 · 200 taken, 0 remaining · ⚠ **FULL**
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/yJeAGfIAYFfgZIdyjB2u
 **Map:** https://www.google.com/maps/search/?api=1&query=55%205th%20Ave%2C%20New%20York%2C%20NY%2010003
@@ -88,6 +89,7 @@ WANT TO GET INVOLVED?
 ​​Speaker: Do you have something interesting to share with our community? We're on the lookout for fresh faces to talk about their journey and experiences.
 
 ​​If you want to get involved, head here: https://linktr.ee/nyhardware
+
 
 
 

@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["cQaXdbk2GGrAExFlxt6i", "7DFu4rITofNzKIjA7hCx", "UxZ659QUb7veiWz1GMEq", "n7OnUZm5XlHfD78jX1mu"]
 is_capped: false
-total_guest_count: 304
+total_guest_count: 306
 approved_guest_count: 83
 local_image: "images/3Bh9VU2spmA3kWHsroRE.jpg"
+canceled: false
 ---
 
 # The Female Tech Stack: Hormones, AI, & Money
@@ -31,7 +32,7 @@ local_image: "images/3Bh9VU2spmA3kWHsroRE.jpg"
 **Hosts:** Clair Health, Hannah Cranston Media (HCM), Frich, FLORA (Flora Fertility)
 **When:** Tuesday, June 2, 2026 · 9:00am ET
 **Where:** Flatiron
-**Going:** 304
+**Going:** 304 of 306
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/3Bh9VU2spmA3kWHsroRE
 
@@ -57,6 +58,7 @@ Katrin Kaurov (Co-Founder & CEO, Frich)
 Length: 45-minute conversation + 15-minute audience Q&A. Questions? Email: sarah@hannahcranstonmedia.com
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

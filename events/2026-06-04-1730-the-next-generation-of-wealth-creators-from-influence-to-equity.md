@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["sF6ciYJuAxm6LcGqt0iq", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 121
+total_guest_count: 124
 approved_guest_count: 39
 local_image: "images/QYBJTmEeWSbkEgCpIc0d.png"
+canceled: false
 ---
 
 # The Next Generation of Wealth Creators: From Influence to Equity
@@ -35,7 +36,7 @@ local_image: "images/QYBJTmEeWSbkEgCpIc0d.png"
 **Hosts:** Lazard Wealth  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:30pm–8:00pm ET
 **Where:** 30 Rockefeller Plaza, New York, NY 10112 · Midtown
-**Going:** 120 of 121
+**Going:** 120 of 124
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/QYBJTmEeWSbkEgCpIc0d
 **Map:** https://www.google.com/maps/search/?api=1&query=30%20Rockefeller%20Plaza%2C%20New%20York%2C%20NY%2010112
@@ -53,6 +54,7 @@ The creator economy is evolving. Today’s most impactful creators, athletes, an
 Join Lazard Wealth in conversation with Baron Davis, former NBA All-Star and founder of Business Inside the Game (B.I.G.); Ella Rose McFadin, creator and founder of clean beauty brand Skin by Ella Rose, and Hilary Williams, Partner at UTA and Head of Talent at Digital Brand Architects, as we explore how the talent behind today’s largest platforms is turning influence into ownership and equity.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

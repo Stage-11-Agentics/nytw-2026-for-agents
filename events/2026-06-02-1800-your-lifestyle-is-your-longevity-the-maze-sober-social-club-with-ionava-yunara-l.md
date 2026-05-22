@@ -25,9 +25,10 @@ owner_ids: ["WwPo1IF9JXPDA8cCyY7JoBQzA8M2", "7DFu4rITofNzKIjA7hCx", "swEfJ2jFMsQ
 is_capped: true
 max_capacity: 150
 remaining_capacity: 82
-total_guest_count: 903
+total_guest_count: 904
 approved_guest_count: 68
 local_image: "images/jXbuPWhpQ1NlFBhNozAD.png"
+canceled: false
 ---
 
 # Your Lifestyle is Your Longevity @ The Maze Sober Social Club  with ionava & Yunara Life
@@ -82,6 +83,7 @@ By signing up for our event, you agree to join Club ionava and receive emails wi
 Please kindly note that photography and videography will take place throughout the event. By attending, you consent to the use of your likeness, voice, and appearance in event recap, promotional, and marketing materials by ionava, Yunara Life, The Maze, and their partners.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

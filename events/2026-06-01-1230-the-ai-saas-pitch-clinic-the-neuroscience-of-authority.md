@@ -26,6 +26,7 @@ remaining_capacity: 0
 total_guest_count: 51
 approved_guest_count: 0
 local_image: "images/nVdos7eUUmpArmPn6UDb.png"
+canceled: false
 ---
 
 # The AI & SaaS Pitch Clinic: The Neuroscience of Authority
@@ -64,6 +65,7 @@ Key Takeaways:
 Limited to 10 founders to ensure personalized coaching and high-impact results. Secure your seat via the RSVP button below.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

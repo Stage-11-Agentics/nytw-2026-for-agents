@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["D3zHuXuWarUFXKKyMuprJn6gmwl2", "gAlyVoOAe5YRiFW7h9mTDv610Mn2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 362
-approved_guest_count: 186
+total_guest_count: 370
+approved_guest_count: 207
 local_image: "images/6racWcR6SfxbsyO2zmVA.jpg"
+canceled: false
 ---
 
 # London x NYC: Scaling Across Borders w/ Revolut & Ramp + the Experience Economy w/ Delta & Virgin
@@ -36,7 +37,7 @@ local_image: "images/6racWcR6SfxbsyO2zmVA.jpg"
 **Hosts:** London & Partners  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:00pm–7:00pm ET
 **Where:** 28 Liberty Street · 28 Liberty St, New York, NY 10005 · Financial District
-**Going:** 359 of 362
+**Going:** 359 of 370
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/6racWcR6SfxbsyO2zmVA
 **Map:** https://www.google.com/maps/search/?api=1&query=28%20Liberty%20St%2C%20New%20York%2C%20NY%2010005
@@ -85,6 +86,7 @@ This event is part of New York Tech Week, a week of events bringing together fou
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

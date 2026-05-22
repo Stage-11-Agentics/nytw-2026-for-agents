@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["r1HQcxBufIckLJmYm1RKRhLUKEo1", "miIhAjTZRJoFd1pKLShN", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 1193
+total_guest_count: 1206
 approved_guest_count: 121
 local_image: "images/SoDNNl5aPjceB4M661s4.png"
+canceled: false
 ---
 
 # NY Tech Week Opening After Party by Madeline & Co. + Excelsior Edge Ventures
@@ -36,7 +37,7 @@ local_image: "images/SoDNNl5aPjceB4M661s4.png"
 **Hosts:** Excelsior Edge Ventures, Madeline & Co.  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 8:00pm–11:45pm ET
 **Where:** Ketchy Shuby · 406 Broome St, New York, NY 10013 · SoHo
-**Going:** 1190 of 1193
+**Going:** 1190 of 1206
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/SoDNNl5aPjceB4M661s4
 **Map:** https://www.google.com/maps/search/?api=1&query=406%20Broome%20St%2C%20New%20York%2C%20NY%2010013
@@ -111,6 +112,7 @@ Victor Balladares advises founders, funds, and emerging companies on complex leg
 https://www.linkedin.com/in/victorballadares
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

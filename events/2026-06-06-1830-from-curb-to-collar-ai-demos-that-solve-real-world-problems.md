@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["74jXHe5zY1VoQBwRBiFnkLAVTXK2", "7DFu4rITofNzKIjA7hCx", "0e2STPY2E8YX2BXZShAXIhiDzG13", "4o4T9bg7xSbkl5h9admhyLrUMRB3"]
 is_capped: false
-total_guest_count: 33
+total_guest_count: 34
 approved_guest_count: 24
 local_image: "images/T9QDurH6p4XVT71XQzye.jpg"
+canceled: false
 ---
 
 # From Curb to Collar: AI Demos That Solve Real-World Problems
@@ -31,7 +32,7 @@ local_image: "images/T9QDurH6p4XVT71XQzye.jpg"
 **Hosts:** TechMatte Inc  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 6:30pm ET
 **Where:** Chinatown
-**Going:** 32 of 33
+**Going:** 32 of 34
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/T9QDurH6p4XVT71XQzye
 
@@ -68,6 +69,7 @@ About TechMatte Inc: a fast-growing and innovative technology company invested i
 About LinaX Tech: a start up builds intelligent AI-powered solutions that improve safety, efficiency, and operational flow for schools, parking systems, and smart infrastructure. We combine computer vision, automation, and real-time data to create practical technology with real-world impact.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

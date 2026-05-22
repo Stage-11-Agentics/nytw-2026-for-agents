@@ -23,6 +23,7 @@ remaining_capacity: 11
 total_guest_count: 19
 approved_guest_count: 0
 local_image: "images/sDrNi3lXsHFWExiKn9Gf.png"
+canceled: false
 ---
 
 # Chi-Ching: Integrated Financial Operations
@@ -46,6 +47,7 @@ local_image: "images/sDrNi3lXsHFWExiKn9Gf.png"
 To be paid or not to be paid, that is the question. Learn about and be the first to test new SAAS infrastructure applications  that will  change the way we work in media and entertainment, education, healthcare, and real estate.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,9 +24,10 @@ owner_ids: ["fi1Xi6MUXPbsY5gy17Jm5BJqbdB3", "7DFu4rITofNzKIjA7hCx", "4lplnmouJNa
 is_capped: true
 max_capacity: 80
 remaining_capacity: 40
-total_guest_count: 141
+total_guest_count: 147
 approved_guest_count: 40
 local_image: "images/UzxEf3JkuHZ9bBliW4pa.png"
+canceled: false
 ---
 
 # Celebrating Israeli Tech in the Big Apple, NYC Style
@@ -59,6 +60,7 @@ Join an intimate group of founders, VC investors, LPs and friends of the fund as
 The event is in collaboration with our partners - IDB Bank, Bereisheet Tech, Pearl Cohen, and Deel. 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

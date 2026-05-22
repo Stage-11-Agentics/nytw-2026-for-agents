@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 25
 approved_guest_count: 23
 local_image: "images/BMBvJqXkWckboYnpl0Si.png"
+canceled: false
 ---
 
 # Wine & Einstein: Could you be an NPC? + Unlimited Gaming
@@ -71,6 +72,7 @@ This event is a part of #NYTechWeek—a week of events hosted by VCs and startup
 
 *SECURE YOUR TICKET ON EVENTBRITE*
 LINK: https://www.eventbrite.com/e/wine-einstein-npcs-and-consciousness-nytechweek-tickets-1988260930967?aff=oddtdtcreator
+
 
 
 

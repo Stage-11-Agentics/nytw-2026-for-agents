@@ -23,10 +23,11 @@ owner_count: 3
 owner_ids: ["8XE4f4fHOCRiSc4qonG7Hm7NOyc2", "7DFu4rITofNzKIjA7hCx", "u3TFnGNTMhPgi1Ng7MEVTDeFBg63"]
 is_capped: true
 max_capacity: 120
-remaining_capacity: 24
-total_guest_count: 106
+remaining_capacity: 22
+total_guest_count: 108
 approved_guest_count: 0
 local_image: "images/e0YuY73DbgjtYRu0DgJj.png"
+canceled: false
 ---
 
 # HerChain: Women shaping blockchain in NYC
@@ -36,7 +37,7 @@ local_image: "images/e0YuY73DbgjtYRu0DgJj.png"
 **Hosts:** Women Uninterrupted! Comedy, babs NYC.news  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 5:00pm–7:00pm ET
 **Where:** St Marks Pl, New York, NY 10003 · East Village
-**Capacity:** capped at 120 · 96 taken, 24 remaining
+**Capacity:** capped at 120 · 98 taken, 22 remaining
 **RSVP:** https://partiful.com/e/e0YuY73DbgjtYRu0DgJj
 **Map:** https://www.google.com/maps/search/?api=1&query=St%20Marks%20Pl%2C%20New%20York%2C%20NY%2010003
 
@@ -78,6 +79,7 @@ The future is all of us - we welcome people of all genders interested in this to
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
 
 By RSVPing, you agree to receive follow‑up emails about this event and updates from babsNYCnews. Thank you and we can't wait to see you!
+
 
 
 

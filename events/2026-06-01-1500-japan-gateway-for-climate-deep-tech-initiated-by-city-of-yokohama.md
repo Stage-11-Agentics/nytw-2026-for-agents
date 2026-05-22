@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["UtSFSZsuTvf1E9u9q9Th8rGo1TA2", "7DFu4rITofNzKIjA7hCx", "dpUPMQA7csd2n5r6onlW", "JLzutHcySLQ22bgcmshL", "CwZgLdZxw8clzyUvB62w9Ht8o3q1"]
 is_capped: false
-total_guest_count: 281
+total_guest_count: 286
 approved_guest_count: 0
 local_image: "images/8hY03hoEB7xDq7J3Rc7B.jpg"
+canceled: false
 ---
 
 # Japan Gateway for Climate & Deep Tech - 
@@ -35,7 +36,7 @@ Initiated by City of Yokohama](images/8hY03hoEB7xDq7J3Rc7B.jpg)
 **Hosts:** City of Yokohama  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 3:00pm–6:00pm ET
 **Where:** Midtown
-**Going:** 218 of 281
+**Going:** 218 of 286
 **RSVP:** https://partiful.com/e/8hY03hoEB7xDq7J3Rc7B
 
 ### Hosts on Partiful
@@ -91,6 +92,7 @@ Developing next-generation ultracapacitors for renewable integration, EV chargin
 5.	Networking
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

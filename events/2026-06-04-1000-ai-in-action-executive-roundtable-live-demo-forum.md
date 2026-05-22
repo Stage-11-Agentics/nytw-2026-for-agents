@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["nOM2FbGNkQXz5IXpwnhd", "7DFu4rITofNzKIjA7hCx", "mJTRVHb6DKUscjfCOXAM5RsL5CD2", "YUeSr5zWC0clo9eT7PU68cBezwh1"]
 is_capped: false
-total_guest_count: 72
-approved_guest_count: 0
+total_guest_count: 74
+approved_guest_count: 6
 local_image: "images/ng86YpYK7z8hyoGBDHb2.jpg"
+canceled: false
 ---
 
 # AI in action: Executive roundtable & live demo forum
@@ -36,7 +37,7 @@ local_image: "images/ng86YpYK7z8hyoGBDHb2.jpg"
 **Hosts:** PwC  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 10:00am–1:00pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 72
+**Going:** 72 of 74
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ng86YpYK7z8hyoGBDHb2
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -54,6 +55,7 @@ local_image: "images/ng86YpYK7z8hyoGBDHb2.jpg"
 PwC is convening an invite-only roundtable for CTOs, Heads of AI, and senior technical leaders to explore how emerging AI solutions are driving real impact across the enterprise. The session will feature live demonstrations from three innovative startups, offering a firsthand look at how these technologies operate and where they can unlock meaningful value. Through focused discussion and peer exchange, attendees will gain practical insights into implementation, scalability, and the strategic advantages AI can deliver across their organizations.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

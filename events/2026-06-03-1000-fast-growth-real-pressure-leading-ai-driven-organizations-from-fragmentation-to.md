@@ -23,10 +23,11 @@ owner_count: 3
 owner_ids: ["zFUPqqNuUsYFVdouQS9CJlFZGCo1", "7DFu4rITofNzKIjA7hCx", "cML64z6RpwRpPXzkMuqHK3s8wXo1"]
 is_capped: true
 max_capacity: 75
-remaining_capacity: 24
-total_guest_count: 94
+remaining_capacity: 20
+total_guest_count: 98
 approved_guest_count: 0
 local_image: "images/R7LqowC06vTdkNjyGJQT.png"
+canceled: false
 ---
 
 # Fast Growth, Real Pressure: Leading AI-Driven Organizations from fragmentation to alignment  –
@@ -36,7 +37,7 @@ local_image: "images/R7LqowC06vTdkNjyGJQT.png"
 **Hosts:** VERITAS QUEST  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 10:00am ET
 **Where:** Cure · 345 Park Ave S, New York, NY 10010 · Nomad
-**Capacity:** capped at 75 · 51 taken, 24 remaining
+**Capacity:** capped at 75 · 55 taken, 20 remaining
 **RSVP:** https://partiful.com/e/R7LqowC06vTdkNjyGJQT
 **Map:** https://www.google.com/maps/search/?api=1&query=345%20Park%20Ave%20S%2C%20New%20York%2C%20NY%2010010
 
@@ -68,6 +69,7 @@ Through real-world tech scenarios, you’ll learn how to:
 Built for founders, product leaders, and VCs navigating high-velocity environments where performance must hold, even without clear answers.
 
 If your organization is growing but execution is getting harder, this session will show you why and how to fix it.
+
 
 
 

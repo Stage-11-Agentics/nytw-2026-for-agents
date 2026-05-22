@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["r7VOzhs7j58OX6EdBgdu", "7DFu4rITofNzKIjA7hCx", "oBvwDSghGtS3qkvMOq1YGLKQ6jr2"]
 is_capped: false
-total_guest_count: 304
+total_guest_count: 305
 approved_guest_count: 38
 local_image: "images/4HvzWY1VZlHgK21fMBUz.png"
+canceled: false
 ---
 
 # Building secure AI  for your data: DeepFellow Demo + Q&A
@@ -31,7 +32,7 @@ local_image: "images/4HvzWY1VZlHgK21fMBUz.png"
 **Hosts:** SIMPLITO, Polish Investment and Trade Agency - New York Office  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 12:00pm ET
 **Where:** Chelsea
-**Going:** 304
+**Going:** 304 of 305
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/4HvzWY1VZlHgK21fMBUz
 
@@ -63,6 +64,7 @@ AGENDA:
 ---
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

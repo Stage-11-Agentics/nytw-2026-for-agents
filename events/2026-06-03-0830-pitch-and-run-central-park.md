@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["xzvn0sbT5jTcOgtlWgfIPpkeCQA3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 95
+total_guest_count: 96
 approved_guest_count: 0
 image_download_error: "HTTP Error 403: Forbidden"
+canceled: false
 ---
 
 # Pitch and Run Central Park
@@ -34,7 +35,7 @@ image_download_error: "HTTP Error 403: Forbidden"
 **Hosts:** Pitch and Run  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 8:30am ET
 **Where:** Le Pain Quotidien · 1800 Broadway, New York, NY 10019 · Central Park
-**Going:** 86 of 95
+**Going:** 86 of 96
 **RSVP:** https://partiful.com/e/wrblHPhZVVfIESHff5D1
 **Map:** https://www.google.com/maps/search/?api=1&query=1800%20Broadway%2C%20New%20York%2C%20NY%2010019
 
@@ -59,6 +60,7 @@ Run 4.5 miles in Central Park https://www.strava.com/routes/3314367143117942620
 Coffee after
 
 Pitch and Run was founded to make it easy for founders to connect with Angels and VCs without the pressure of a pitch meeting and to allow founders and startup employees to connect. Many companies have raised their round, found customers, and met their co-founders, and even found jobs from connections made at Pitch and Run
+
 
 
 

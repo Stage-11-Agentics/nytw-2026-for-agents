@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["qAIRIFWfoMQhhLoDlpHCrOgcNT32", "7DFu4rITofNzKIjA7hCx", "O7EXC5ZLwAXPcKPJ7FwV0gU7fbG3"]
 is_capped: false
-total_guest_count: 287
-approved_guest_count: 145
+total_guest_count: 292
+approved_guest_count: 146
 local_image: "images/Uw9rS8e5eoX6wXWsU2ii.png"
+canceled: false
 ---
 
 # Breakfast with Nirvana & Health Tech Nerds: Bagels, Coffee & Digital Health
@@ -31,7 +32,7 @@ local_image: "images/Uw9rS8e5eoX6wXWsU2ii.png"
 **Hosts:** Nirvana  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 8:00am ET
 **Where:** Union Square
-**Going:** 286 of 287
+**Going:** 286 of 292
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Uw9rS8e5eoX6wXWsU2ii
 
@@ -51,6 +52,7 @@ Stop by Nirvana's Union Square offices to grab a bite and meet your health tech 
 There won’t be any formal programming or agenda for this gathering, just good food, lots of coffee, and genuine conversation in a relaxed setting to help you build connections with your peers across the industry. Breakfast is provided by Nirvana.  
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

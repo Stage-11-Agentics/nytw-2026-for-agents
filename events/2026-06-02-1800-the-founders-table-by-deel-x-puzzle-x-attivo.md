@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["4HTFLapxufSa49SBiTYubyTEhNr2", "taODQKd163hGTqvBZYa9amAZMPR2", "3EiNioKPZRQNyUnkk06lVjtOhGd2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 262
+total_guest_count: 264
 approved_guest_count: 1
 local_image: "images/aitjrOoW2OBXSa7CtKhG.png"
+canceled: false
 ---
 
 # 🍴The Founders Table by Deel x Puzzle x Attivo
@@ -36,7 +37,7 @@ local_image: "images/aitjrOoW2OBXSa7CtKhG.png"
 **Hosts:** Deel, Attivo Partners, Puzzle.io  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–8:00pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 260 of 262
+**Going:** 260 of 264
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/aitjrOoW2OBXSa7CtKhG
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -83,6 +84,7 @@ Deel
 **If you RSVP to an event, we ask that you attend. Repeated no-shows may impact approval for future events.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

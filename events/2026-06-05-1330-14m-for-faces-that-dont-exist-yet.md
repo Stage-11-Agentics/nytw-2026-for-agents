@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 77
 approved_guest_count: 50
 local_image: "images/WPs4H72VXEFetgndB7A0.png"
+canceled: false
 ---
 
 # $14M for Faces That Don’t Exist Yet
@@ -68,6 +69,7 @@ We’ll cover:
 No slides about the future. Just what’s already happening, and what you’re about to see everywhere soon.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

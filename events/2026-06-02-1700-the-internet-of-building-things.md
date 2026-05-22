@@ -23,10 +23,11 @@ owner_count: 7
 owner_ids: ["JjNoOvV21xW9TXkjbkaJjLOtCYp2", "r4SOmLKipTWeT27r7vXBsVC8e9Z2", "7DFu4rITofNzKIjA7hCx", "7VpCeHzFXpTiLp9K0fmW5iWGkcu2", "xYec0zE0TtVP6G9V8VKF2Ed5rkl2", "kjzy6BA4JxXldo1VYImR6Kdx9zd2", "Pq1NIHd6LsR9UR0PfDLMG9ZwdtI2"]
 is_capped: true
 max_capacity: 150
-remaining_capacity: 115
-total_guest_count: 101
-approved_guest_count: 35
+remaining_capacity: 109
+total_guest_count: 102
+approved_guest_count: 41
 local_image: "images/NViHHNrgfBvxzJchdcqP.png"
+canceled: false
 ---
 
 # The Internet of Building Things
@@ -36,7 +37,7 @@ local_image: "images/NViHHNrgfBvxzJchdcqP.png"
 **Hosts:** MistyWest  _(+6 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:00pm ET
 **Where:** Loft39 · 38 W 39th St, New York, NY 10018 · Brooklyn
-**Capacity:** capped at 150 · 35 taken, 115 remaining
+**Capacity:** capped at 150 · 41 taken, 109 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/NViHHNrgfBvxzJchdcqP
 **Map:** https://www.google.com/maps/search/?api=1&query=38%20W%2039th%20St%2C%20New%20York%2C%20NY%2010018
@@ -89,6 +90,7 @@ Intent (https://withintent.com/) is a Polish software design and engineering fir
 Nordic (https://nordicsemi.com/) makes the wireless chips powering the world's most advanced connected devices.
 
 Boast (https://boast.ai/) is a Vancouver-based platform that automates SR&ED and R&D tax credit claims, helping North American hardware and deep tech companies recover up to 64% of eligible R&D expenses with less paperwork and audit risk.
+
 
 
 

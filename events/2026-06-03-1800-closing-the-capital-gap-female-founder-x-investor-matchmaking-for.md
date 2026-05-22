@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 77
 approved_guest_count: 1
 local_image: "images/6iuVOkztFGRo2HPIPHZ3.png"
+canceled: false
 ---
 
 # Closing the Capital Gap: Female Founder x Investor Matchmaking for
@@ -48,6 +49,7 @@ local_image: "images/6iuVOkztFGRo2HPIPHZ3.png"
 Registration required via our event page—https://luma.com/bi8bdlti
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

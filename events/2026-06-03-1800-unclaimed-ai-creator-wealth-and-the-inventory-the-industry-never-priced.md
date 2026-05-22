@@ -22,10 +22,11 @@ owner_count: 3
 owner_ids: ["oG5XFyGDLmdHw7MW20hPkuFrr9Z2", "7DFu4rITofNzKIjA7hCx", "xaE5THtamrbywPHaNpp9ZxfCFpv1"]
 is_capped: true
 max_capacity: 80
-remaining_capacity: 5
-total_guest_count: 81
+remaining_capacity: 4
+total_guest_count: 82
 approved_guest_count: 0
 local_image: "images/mNGisJ5Fpt9LLK9EiZPc.png"
+canceled: false
 ---
 
 # Unclaimed: AI, Creator Wealth, and the Inventory the Industry Never Priced
@@ -35,7 +36,7 @@ local_image: "images/mNGisJ5Fpt9LLK9EiZPc.png"
 **Hosts:** FullScale Holdings  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm ET
 **Where:** Little Maven · 30 W 18th St, New York, NY 10011 · Midtown
-**Capacity:** capped at 80 · 75 taken, 5 remaining
+**Capacity:** capped at 80 · 76 taken, 4 remaining
 **RSVP:** https://partiful.com/e/mNGisJ5Fpt9LLK9EiZPc
 **Map:** https://www.google.com/maps/search/?api=1&query=30%20W%2018th%20St%2C%20New%20York%2C%20NY%2010011
 
@@ -57,6 +58,7 @@ FullScale brings its AI-powered product placement technology into the room and r
 Expect a focused guest mix, a room shaped with intention, and a conversation with something real to say. No pitch competition. No keynote theater. Just a live demonstration and the kind of discussion that tends to keep going after the event ends.
 
 This event is part of NY Tech Week 2026. Learn more at tech-week.com.
+
 
 
 

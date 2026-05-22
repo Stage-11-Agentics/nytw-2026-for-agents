@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["MvFWDocqQ6h3AskohrCO9eyLAfm2", "GJcussrz7idZBNZu1bcjkTcNWtc2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 120
+total_guest_count: 123
 approved_guest_count: 33
 local_image: "images/AqfYBWRorTzyWNL6B0uO.png"
+canceled: false
 ---
 
 # LAN Accelerator V4 Demo Day
@@ -33,7 +34,7 @@ local_image: "images/AqfYBWRorTzyWNL6B0uO.png"
 **Hosts:** LAN Accelerator  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:00pm–7:00pm ET
 **Where:** Midtown
-**Going:** 120
+**Going:** 120 of 123
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/AqfYBWRorTzyWNL6B0uO
 
@@ -57,6 +58,7 @@ Join us for the LAN Accelerator V4 Demo Day in New York — a curated showcase o
 LAN Accelerator is a venture-backed acceleration program supporting globally minded startups, with demo days and events across New York, Miami, Santiago, and beyond.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

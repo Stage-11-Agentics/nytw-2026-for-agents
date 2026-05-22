@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["zBfwWjiXLtP4Zn2MxvY3Aalm3443", "8CYnnyAZAoSkAOPEypCwEBPhX2L2", "7DFu4rITofNzKIjA7hCx", "UMx7C2D2wNQmh1cSkufQ25nsMD63"]
 is_capped: false
-total_guest_count: 96
-approved_guest_count: 42
+total_guest_count: 99
+approved_guest_count: 43
 local_image: "images/cuho3rLbstXqMSZAbREE.png"
+canceled: false
 ---
 
 # Economic Justice + Startups: A Conversation with Deputy Mayor Julie Su + Impact-Driven Demos
@@ -34,7 +35,7 @@ local_image: "images/cuho3rLbstXqMSZAbREE.png"
 **Hosts:** Gutter Capital, Techonomic Mobility  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
 **Where:** Chinatown · Chinatown, Manhattan, New York, NY · Chinatown
-**Going:** 96
+**Going:** 96 of 99
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/cuho3rLbstXqMSZAbREE
 **Map:** https://www.google.com/maps/search/?api=1&query=Chinatown%2C%20Chinatown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -54,6 +55,7 @@ Together, Gutter Capital and Tech:NYC will convene Julie Su, Deputy Mayor of Eco
 Food and drinks, good people, and big ideas — see you there. 
 
 This event is a part of #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -25,6 +25,7 @@ remaining_capacity: 33
 total_guest_count: 17
 approved_guest_count: 0
 local_image: "images/OCYHq1Lc3wZVhQDp6Xo7.jpg"
+canceled: false
 ---
 
 # The Future of Relocation: AI, Fintech & Logistics Converging
@@ -66,6 +67,7 @@ This is not a traditional networking event. Attendance is limited to ensure high
 Coffee and breakfast will be included. VC, Angel Investor mixer
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["sdxB9R8ZrPo5hg4kYimK", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 34
-approved_guest_count: 1
+total_guest_count: 40
+approved_guest_count: 2
 local_image: "images/2cw8oY83GlBtW74X1B3x.png"
+canceled: false
 ---
 
 # 🎤🎤 AI Pitch Night on Comedy Stage - An “Anti-Shark Tank” 🦈🦈
@@ -36,7 +37,7 @@ local_image: "images/2cw8oY83GlBtW74X1B3x.png"
 **Hosts:** Startup Intros, Ugly Talk, UpScaleX
 **When:** Wednesday, June 3, 2026 · 5:00pm–8:00pm ET
 **Where:** Room 52 · 212 E 52nd St, FL 3, New York, NY 10022 · Midtown
-**Going:** 34
+**Going:** 34 of 40
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/2cw8oY83GlBtW74X1B3x
 **Map:** https://www.google.com/maps/search/?api=1&query=212%20E%2052nd%20St%2C%20FL%203%2C%20New%20York%2C%20NY%2010022
@@ -59,6 +60,7 @@ Expect sharp founder stories, live "anti-shark" feedback, drinks, light bites, a
 
 ---
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

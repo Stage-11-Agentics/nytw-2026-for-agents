@@ -22,10 +22,11 @@ owner_count: 2
 owner_ids: ["4gZAqIEmAfdmJWw5yRU2J1xkR5w2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 350
-remaining_capacity: 331
-total_guest_count: 24
-approved_guest_count: 19
+remaining_capacity: 330
+total_guest_count: 25
+approved_guest_count: 20
 local_image: "images/56JZd57ccfmBIPipRzxG.png"
+canceled: false
 ---
 
 # Vanderbilt Founders x Investors Breakfast
@@ -35,7 +36,7 @@ local_image: "images/56JZd57ccfmBIPipRzxG.png"
 **Hosts:** Vanderbilt Center for Entrepreneurship  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 8:00am–10:30am ET
 **Where:** Chelsea
-**Capacity:** capped at 350 · 19 taken, 331 remaining
+**Capacity:** capped at 350 · 20 taken, 330 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/56JZd57ccfmBIPipRzxG
 
@@ -57,6 +58,7 @@ Join us for a 2.5 hour breakfast roundtable + anti-conference format.  We look f
 - What Vanderbilt can provide you / role of the NYC campus in promoting the alumni startup ecosystem
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

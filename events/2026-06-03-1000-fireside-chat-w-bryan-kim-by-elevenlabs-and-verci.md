@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["xzim090RhZKUhvBKmbgO", "7DFu4rITofNzKIjA7hCx", "iEhdrWh5uSbbtFtbEE2z1uYNpw53", "fJ4QInh7F8iGDc1X8lVS"]
 is_capped: false
-total_guest_count: 394
+total_guest_count: 403
 approved_guest_count: 0
 local_image: "images/kcNK4Mal67OURfFcBLRy.png"
+canceled: false
 ---
 
 # Fireside chat w/ Bryan Kim by ElevenLabs and Verci
@@ -31,7 +32,7 @@ local_image: "images/kcNK4Mal67OURfFcBLRy.png"
 **Hosts:** Verci, ElevenLabs  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 10:00am ET
 **Where:** Flatiron
-**Going:** 394
+**Going:** 394 of 403
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/kcNK4Mal67OURfFcBLRy
 
@@ -48,6 +49,7 @@ local_image: "images/kcNK4Mal67OURfFcBLRy.png"
 fireside chat with bryan kim
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

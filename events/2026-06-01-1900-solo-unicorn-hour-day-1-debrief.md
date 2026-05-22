@@ -23,10 +23,11 @@ owner_count: 2
 owner_ids: ["5e3cCqntxWb5Uu3D8K1r", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 72
-total_guest_count: 30
+remaining_capacity: 70
+total_guest_count: 34
 approved_guest_count: 0
 local_image: "images/ZvcuMmgNFFdga0eFdy5R.png"
+canceled: false
 ---
 
 # SOLO UNICORN HOUR — Day 1 Debrief
@@ -36,7 +37,7 @@ local_image: "images/ZvcuMmgNFFdga0eFdy5R.png"
 **Hosts:** Solo Unicorn Club, Manhattan Elite Club
 **When:** Monday, June 1, 2026 · 7:00pm–10:00pm ET
 **Where:** 225 W 34th St, New York, NY 10122 · Midtown
-**Capacity:** capped at 100 · 28 taken, 72 remaining
+**Capacity:** capped at 100 · 30 taken, 70 remaining
 **RSVP:** https://partiful.com/e/ZvcuMmgNFFdga0eFdy5R
 **Map:** https://www.google.com/maps/search/?api=1&query=225%20W%2034th%20St%2C%20New%20York%2C%20NY%2010122
 
@@ -66,6 +67,7 @@ What to bring: your Survival Guide (we'll have extra copies).
 What to expect: warm room, light programming, real conversations.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

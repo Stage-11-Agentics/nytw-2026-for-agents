@@ -26,9 +26,10 @@ owner_ids: ["PtKGB5UyPvV22cMY3MOrNq91QdN2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
 remaining_capacity: 50
-total_guest_count: 65
+total_guest_count: 66
 approved_guest_count: 0
 local_image: "images/CxK2X6xl26SiGhiMB1IZ.png"
+canceled: false
 ---
 
 # Unlock the Grid
@@ -60,6 +61,7 @@ The conversation will dig into what's blocking faster deployment, regulatory fra
 The grid of the future won't be built from scratch. It'll be unlocked. Join us.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

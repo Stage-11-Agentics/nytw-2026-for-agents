@@ -24,10 +24,11 @@ owner_count: 2
 owner_ids: ["2idmZ2f00ogmQmMpiYs7COLCDyi1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 150
-remaining_capacity: 52
-total_guest_count: 123
-approved_guest_count: 98
+remaining_capacity: 47
+total_guest_count: 131
+approved_guest_count: 103
 local_image: "images/5gz90KPGpE1XoK3GZtoW.png"
+canceled: false
 ---
 
 # Rebuild x Eleven Labs Hackathon
@@ -37,7 +38,7 @@ local_image: "images/5gz90KPGpE1XoK3GZtoW.png"
 **Hosts:** Rebuild, Eleven Labs
 **When:** Saturday, June 6, 2026 · 9:00am–9:00pm ET
 **Where:** 221 Canal St, New York, NY 10013 · Chinatown
-**Capacity:** capped at 150 · 98 taken, 52 remaining
+**Capacity:** capped at 150 · 103 taken, 47 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/5gz90KPGpE1XoK3GZtoW
 **Map:** https://www.google.com/maps/search/?api=1&query=221%20Canal%20St%2C%20New%20York%2C%20NY%2010013
@@ -88,6 +89,7 @@ The event runs for a full day, and teams will have time to build, test, and put 
 Whether you come in with a fully formed idea or just a vague feeling that voice interfaces are underrated, you are welcome here. Register, show up, eat good food, and build something worth talking about.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

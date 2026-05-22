@@ -22,8 +22,9 @@ owner_count: 2
 owner_ids: ["H8xqrLfjeZowt3cHjoZX", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
 total_guest_count: 29
-approved_guest_count: 25
+approved_guest_count: 27
 local_image: "images/yA3gzGGSIW6kN2QOkdId.png"
+canceled: false
 ---
 
 # Managing in an AI-Native Company: Live Podcast
@@ -62,6 +63,7 @@ Register to save the date! More details to come…
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

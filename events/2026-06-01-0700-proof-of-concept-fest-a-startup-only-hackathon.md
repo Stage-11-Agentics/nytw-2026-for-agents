@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["0tzhrZiumcMrpMR67jiBCv9ITaz2", "7DFu4rITofNzKIjA7hCx", "WAhrXnS8RhQUTCbc1anPYM9m7wT2", "sTo3tdPLPdgpfJcUFGkrazTPClj2", "9SJ0EDo9n5YK0ef4alS4S1vNN9f2"]
 is_capped: false
-total_guest_count: 166
-approved_guest_count: 89
+total_guest_count: 168
+approved_guest_count: 91
 local_image: "images/uaMJVd3xreNGjfWDdiUF.png"
+canceled: false
 ---
 
 # Proof of Concept Fest: A Startup-Only Hackathon
@@ -35,7 +36,7 @@ local_image: "images/uaMJVd3xreNGjfWDdiUF.png"
 **Hosts:** GoTogether AI, Valiron  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 7:00am–2:00pm ET
 **Where:** 529 5th Ave, New York, NY 10017 · Midtown
-**Going:** 164 of 166
+**Going:** 164 of 168
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/uaMJVd3xreNGjfWDdiUF
 **Map:** https://www.google.com/maps/search/?api=1&query=529%205th%20Ave%2C%20New%20York%2C%20NY%2010017
@@ -56,6 +57,7 @@ No panels. No fireside chats. No pitch tourists. Just a curated group of founder
 Spots are limited and attendees are screened. Apply with your GitHub and LinkedIn; we'll confirm qualified builders on a rolling basis.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

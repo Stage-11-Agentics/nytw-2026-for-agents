@@ -29,6 +29,7 @@ remaining_capacity: 16
 total_guest_count: 85
 approved_guest_count: 4
 local_image: "images/CXgpxdHdQQ3umurfwb2Y.png"
+canceled: false
 ---
 
 # Investor Dinner
@@ -81,6 +82,7 @@ Unscripted conversation on where the market is actually moving, what's getting f
 ​Photography Notice: By attending, you consent to being photographed or recorded for promotional purposes.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

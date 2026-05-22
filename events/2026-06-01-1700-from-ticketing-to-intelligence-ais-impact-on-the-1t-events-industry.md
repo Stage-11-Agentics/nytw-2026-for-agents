@@ -25,10 +25,11 @@ owner_count: 2
 owner_ids: ["PO6rrB6Hsvhgbli5qwQm0a3nLYC2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 150
-remaining_capacity: 7
-total_guest_count: 197
-approved_guest_count: 143
+remaining_capacity: 6
+total_guest_count: 199
+approved_guest_count: 144
 local_image: "images/pApvNad0HXI8rB7YoP2C.png"
+canceled: false
 ---
 
 # From Ticketing to Intelligence: AI’s Impact on the $1T Events Industry
@@ -38,7 +39,7 @@ local_image: "images/pApvNad0HXI8rB7YoP2C.png"
 **Hosts:** AES NYC  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 5:00pm–8:00pm ET
 **Where:** 417 Fifth Avenue · 417 Fifth Ave, New York, NY 10016 · Midtown
-**Capacity:** capped at 150 · 143 taken, 7 remaining
+**Capacity:** capped at 150 · 144 taken, 6 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/pApvNad0HXI8rB7YoP2C
 **Map:** https://www.google.com/maps/search/?api=1&query=417%20Fifth%20Ave%2C%20New%20York%2C%20NY%2010016
@@ -52,6 +53,7 @@ local_image: "images/pApvNad0HXI8rB7YoP2C.png"
 ## Description
 
 Meet the founders of notable new & emerging Tech Startups and Platforms that are shaping Events and Hospitality Tech — including event planning, attendee engagement, venue sourcing, AI agents for events, and hospitality experiences. This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

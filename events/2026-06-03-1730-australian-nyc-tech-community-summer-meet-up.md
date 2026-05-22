@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["cKssDvujGChMCvJZOMAZPT7ORs22", "FWTlaHB4L1XlNid9qQDGmigHCnz2", "7DFu4rITofNzKIjA7hCx", "wWkhR3Dbtuedw3vOX56ABQ44YM52"]
 is_capped: false
-total_guest_count: 116
-approved_guest_count: 80
+total_guest_count: 118
+approved_guest_count: 83
 image_download_error: "HTTP Error 403: Forbidden"
+canceled: false
 ---
 
 # Australian NYC Tech Community Summer Meet-up
@@ -36,7 +37,7 @@ image_download_error: "HTTP Error 403: Forbidden"
 **Hosts:** Austrade, American Australian Association  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:30pm–8:00pm ET
 **Where:** American Australian Association · 600 Third Avenue, FL 34, New York, NY 10016 · Midtown
-**Going:** 115 of 116
+**Going:** 115 of 118
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/RM7ydgybZBFZiy3JFxEi
 **Map:** https://www.google.com/maps/search/?api=1&query=600%20Third%20Avenue%2C%20FL%2034%2C%20New%20York%2C%20NY%2010016
@@ -78,6 +79,7 @@ By registering for this event, you acknowledge that photography and videography 
 ​Austrade may include your personal information in a marketing list to contact you from time to time with information related to the topic of this event, that may be of interest to you. You may ask to be removed from Austrade marketing lists at any time by clicking the unsubscribe button or by contacting Austrade directly.
 
 ​If you have any questions about the way Austrade handles your personal information in relation to this event, please contact: Elise Webb, Trade Director, Elise.Webb@austrade.gov.au.
+
 
 
 

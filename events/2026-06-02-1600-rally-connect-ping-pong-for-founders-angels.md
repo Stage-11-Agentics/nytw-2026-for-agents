@@ -25,10 +25,11 @@ owner_count: 4
 owner_ids: ["w0uuG2f0EGfVvarKohW7", "7DFu4rITofNzKIjA7hCx", "y1mSDCFfcVZhVptqjBiwdj8DZau2", "QVkZLC5QhlPBhcgdhmacTnid3dG3"]
 is_capped: true
 max_capacity: 35
-remaining_capacity: 20
-total_guest_count: 26
-approved_guest_count: 15
+remaining_capacity: 18
+total_guest_count: 29
+approved_guest_count: 17
 local_image: "images/X7auQ9epT2J1JmoewLKi.png"
+canceled: false
 ---
 
 # Rally & Connect: Ping Pong for Founders & Angels
@@ -38,7 +39,7 @@ local_image: "images/X7auQ9epT2J1JmoewLKi.png"
 **Hosts:** The Council Capital  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:00pm–6:00pm ET
 **Where:** SPIN New York Flatiron · 48 E 23rd St, New York, NY 10010 · Central Park
-**Capacity:** capped at 35 · 15 taken, 20 remaining
+**Capacity:** capped at 35 · 17 taken, 18 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/X7auQ9epT2J1JmoewLKi
 **Map:** https://www.google.com/maps/search/?api=1&query=48%20E%2023rd%20St%2C%20New%20York%2C%20NY%2010010
@@ -63,6 +64,7 @@ Light snacks & beverages provided!
 
 ---
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

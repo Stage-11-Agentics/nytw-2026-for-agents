@@ -20,9 +20,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["9tExiAMygqd2pRR9V9PJHkXsDpk1", "7DFu4rITofNzKIjA7hCx", "CB4UMfAkaLdt8PyXjTSkjEIEkFo2"]
 is_capped: false
-total_guest_count: 183
+total_guest_count: 185
 approved_guest_count: 0
 local_image: "images/560FtF86aNtKTs67d4S3.png"
+canceled: false
 ---
 
 # Hot Girl Vibe Coding (feat. Baddie Li)
@@ -32,7 +33,7 @@ local_image: "images/560FtF86aNtKTs67d4S3.png"
 **Hosts:** Viralize Technology  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 7:00pm–9:00pm ET
 **Where:** Chelsea
-**Going:** 158 of 183
+**Going:** 158 of 185
 **RSVP:** https://partiful.com/e/560FtF86aNtKTs67d4S3
 
 ### Hosts on Partiful
@@ -66,6 +67,7 @@ Landing pages, AI-powered tools, content engines, micro-SaaS prototypes, persona
 Drinks and light bites included.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

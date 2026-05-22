@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 8
 owner_ids: ["AWwvoutHk1OjFIiagLtQzMDgDxW2", "HRzsLahIw1baysZFuCwWc3MxYwy2", "7DFu4rITofNzKIjA7hCx", "2zosxiEDxpVM7B4SIpzhYyXXv1A2", "azurLr0dJodo25Olf3x4SHm7Vha2", "hbmzkkSaeHOD9d2SH8ka4CUYDLX2", "0IysbYnMdBTrjAojlzGUE7nsIKW2", "sa6JbzJML0SUxRZqaRiyRR0lEd03"]
 is_capped: false
-total_guest_count: 36
+total_guest_count: 38
 approved_guest_count: 4
 local_image: "images/7YHD19kDNMhkBd3Az3wx.jpg"
+canceled: false
 ---
 
 # InsurTech Insights after-hours
@@ -34,7 +35,7 @@ local_image: "images/7YHD19kDNMhkBd3Az3wx.jpg"
 **Hosts:** VirtusLab  _(+7 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
 **Where:** New York, NY · New York, NY · Midtown
-**Going:** 36
+**Going:** 36 of 38
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/7YHD19kDNMhkBd3Az3wx
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -67,6 +68,7 @@ Sponsored by VirtusLab.
 VirtusLab is a technology partner for the insurance industry, bridging the gap that stands between ambition and execution for MGAs, Carriers, and Brokers.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

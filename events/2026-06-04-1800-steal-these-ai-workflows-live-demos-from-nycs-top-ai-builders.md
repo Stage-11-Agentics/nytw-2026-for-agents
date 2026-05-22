@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 136
 approved_guest_count: 129
 local_image: "images/sGvp4VIr3KrGqRoWCKhV.png"
+canceled: false
 ---
 
 # Steal These AI Workflows: Live Demos from NYC’s Top AI Builders
@@ -62,6 +63,7 @@ AGENDA
 7:30 PM - Meet the Presenters
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

@@ -25,6 +25,7 @@ is_capped: false
 total_guest_count: 45
 approved_guest_count: 3
 local_image: "images/wJ3YKRmuytbMEH7s1AP5.png"
+canceled: false
 ---
 
 # ANCHOR OUT
@@ -60,6 +61,7 @@ A deliberate mid-week reset away from the crowded streets and panel rooms. No sl
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

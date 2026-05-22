@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["5L52k2654xt6LVSXTU3v", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 89
-approved_guest_count: 83
+total_guest_count: 375
+approved_guest_count: 86
 local_image: "images/sp4Bjt8b6PEBpUg5pAtr.png"
+canceled: false
 ---
 
 # Voice AI After Hours: Cartesia x AWS Happy Hour
@@ -34,7 +35,7 @@ local_image: "images/sp4Bjt8b6PEBpUg5pAtr.png"
 **Hosts:** Cartesia AI, Amazon Web Services (AWS)
 **When:** Thursday, June 4, 2026 · 5:30pm ET
 **Where:** Gramercy · Gramercy, Manhattan, New York, NY · Greenwich Village
-**Going:** 89
+**Going:** 89 of 375
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/sp4Bjt8b6PEBpUg5pAtr
 **Map:** https://www.google.com/maps/search/?api=1&query=Gramercy%2C%20Gramercy%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -51,6 +52,7 @@ Cartesia and AWS are hosting NYC's voice AI community for a happy hour. Founders
 See you there!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

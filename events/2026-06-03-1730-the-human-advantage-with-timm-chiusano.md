@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["yTRApC9Ss9XR8cqqea2yBqWPnd23", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 47
+total_guest_count: 48
 approved_guest_count: 17
 local_image: "images/p2Pgb84MLMwnBqITLcU2.png"
+canceled: false
 ---
 
 # The Human Advantage with Timm Chiusano
@@ -35,7 +36,7 @@ local_image: "images/p2Pgb84MLMwnBqITLcU2.png"
 **Hosts:** The Shop Workspace, Chiusano & Daughter
 **When:** Wednesday, June 3, 2026 · 5:30pm–8:00pm ET
 **Where:** 420 Carroll St, Brooklyn, NY 11215 · Brooklyn
-**Going:** 47
+**Going:** 47 of 48
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/p2Pgb84MLMwnBqITLcU2
 **Map:** https://www.google.com/maps/search/?api=1&query=420%20Carroll%20St%2C%20Brooklyn%2C%20NY%2011215
@@ -55,6 +56,7 @@ AI is quickly reshaping how we work, but the people who will stand out won’t b
 Join us at The Shop Workspace in Gowanus, Brooklyn for a conversation with Timm Chiusano on why emotional intelligence is becoming the most valuable skill in the room.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

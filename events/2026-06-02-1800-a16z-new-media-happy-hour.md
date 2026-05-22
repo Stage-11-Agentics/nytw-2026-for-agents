@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 8
 owner_ids: ["yY2cXzpvX1fsFGjzq3NGcVZPrSv1", "V0nPmglucchGjypLnmSz257jRdY2", "t72VX3D1uMYVrgX2nSNdrQueRIc2", "S5eFNL3IExYKMM3m9bB5Ua8W9ar1", "7DFu4rITofNzKIjA7hCx", "q5iFjubHRCYfP3XcmzGzxqVp1Xh2", "xn2zbhFQ1nPXSvdLimby5rYT9uD2", "kn6KtHPzGMXGEWNqlmwGgiajK443"]
 is_capped: false
-total_guest_count: 356
-approved_guest_count: 87
+total_guest_count: 364
+approved_guest_count: 88
 local_image: "images/h0NJIDOs2n2VBcznvikl.jpg"
+canceled: false
 ---
 
 # a16z New Media Happy Hour
@@ -35,7 +36,7 @@ local_image: "images/h0NJIDOs2n2VBcznvikl.jpg"
 **Hosts:** Andreessen Horowitz  _(+7 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–8:00pm ET
 **Where:** 200 Lafayette St, New York, NY 10012 · Financial District
-**Going:** 354 of 356
+**Going:** 354 of 364
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/h0NJIDOs2n2VBcznvikl
 **Map:** https://www.google.com/maps/search/?api=1&query=200%20Lafayette%20St%2C%20New%20York%2C%20NY%2010012
@@ -59,6 +60,7 @@ We're bringing together the a16z New Media team, New Media Fellows, founders and
 Click "get on the list" and complete our questionnaire.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

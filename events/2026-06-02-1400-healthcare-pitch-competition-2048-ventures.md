@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["bxzJZAhIhzZ8fw2Y4hsZ47anfbh1", "t7ZGzYQH0cZsc7mEi027ZYLh4xB2", "7DFu4rITofNzKIjA7hCx", "KC3l5ve5DONTMbKPJem7ytPM0Jb2", "fZeKXmFwDbf21eUHdgnllz8CKwG2"]
 is_capped: false
-total_guest_count: 269
+total_guest_count: 274
 approved_guest_count: 152
 local_image: "images/KRkErDozQGPetxzhlohf.png"
+canceled: false
 ---
 
 # Healthcare Pitch Competition - 2048 Ventures
@@ -33,7 +34,7 @@ local_image: "images/KRkErDozQGPetxzhlohf.png"
 **Hosts:** 2048 Ventures  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 2:00pm–3:30pm ET
 **Where:** Midtown
-**Going:** 266 of 269
+**Going:** 266 of 274
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/KRkErDozQGPetxzhlohf
 
@@ -57,6 +58,7 @@ Expect a strong room of healthcare founders, investors, and experts working in t
 Hosted with the generous support of @Brown Rudnick.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

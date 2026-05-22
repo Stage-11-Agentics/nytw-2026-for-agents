@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["CQjrFOXGP9zTYYZKqKrk", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 435
+total_guest_count: 442
 approved_guest_count: 14
 local_image: "images/oAa83UPQN9OaHE8Pvaya.png"
+canceled: false
 ---
 
 # The Convergence: New York
@@ -33,7 +34,7 @@ local_image: "images/oAa83UPQN9OaHE8Pvaya.png"
 **Hosts:** 1985 Capital  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–8:00pm ET
 **Where:** Financial District
-**Going:** 434 of 435
+**Going:** 434 of 442
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/oAa83UPQN9OaHE8Pvaya
 
@@ -50,6 +51,7 @@ The Convergence: New York - the flagship gathering from 1985 Capital - brings to
 This invite-only, off-the-record evening will feature candid conversations around how world-shaping companies are built, positioned, and scaled by the leaders who've defined them.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

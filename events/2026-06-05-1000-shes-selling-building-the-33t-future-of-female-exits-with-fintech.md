@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["2guvWZ07SdR1kBH442f9FdQ3Hi02", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 46
-approved_guest_count: 33
+total_guest_count: 47
+approved_guest_count: 39
 local_image: "images/rlMYu1yn8OTgJ0Vbaopm.png"
+canceled: false
 ---
 
 # She's Selling: Building the $3.3T Future of Female Exits with Fintech
@@ -31,7 +32,7 @@ local_image: "images/rlMYu1yn8OTgJ0Vbaopm.png"
 **Hosts:** Exette  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 10:00am ET
 **Where:** Flatiron
-**Going:** 46
+**Going:** 46 of 47
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/rlMYu1yn8OTgJ0Vbaopm
 
@@ -58,6 +59,7 @@ https://www.instagram.com/itsalishamp
 https://www.linkedin.com/in/alisha-m-pennington
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

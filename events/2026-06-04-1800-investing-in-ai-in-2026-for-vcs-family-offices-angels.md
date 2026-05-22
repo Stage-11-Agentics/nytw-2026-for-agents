@@ -26,9 +26,10 @@ owner_ids: ["i7K7adQMHnboNAiPqPKWC8ItP7s1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
 remaining_capacity: 44
-total_guest_count: 19
+total_guest_count: 23
 approved_guest_count: 6
 local_image: "images/QV0Ih8gphWIUgE3CjvyH.png"
+canceled: false
 ---
 
 # Investing in AI in 2026: For VCs, family offices, angels
@@ -79,6 +80,7 @@ No sales pitches, no media.
 From the Good Investor Club.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

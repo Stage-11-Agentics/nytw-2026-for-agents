@@ -26,9 +26,10 @@ owner_ids: ["lBiESJTWnxfEecOBLVgzaS1XLD83", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 30
 remaining_capacity: 29
-total_guest_count: 25
+total_guest_count: 26
 approved_guest_count: 1
 local_image: "images/5QdmlHRBUnRuGuRMFNHl.png"
+canceled: false
 ---
 
 # SafeStops Global, Inc. Launch Party - #NYTechWeek #WestchesterCounty
@@ -60,6 +61,7 @@ Join us for a live demo, a candid conversation with law enforcement leadership a
 This launch marks more than a product reveal  it's proof that the most important technology being built right now isn't always coming from Silicon Valley. Sometimes it's coming from right here.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["WwPo1IF9JXPDA8cCyY7JoBQzA8M2", "7DFu4rITofNzKIjA7hCx", "swEfJ2jFMsQYhSyj47EKpMw6Gg03", "OSXT5FliwDUt8iw0yG7vHxtJJdx1"]
 is_capped: false
-total_guest_count: 120
+total_guest_count: 121
 approved_guest_count: 0
 local_image: "images/0Acg5QNuZq1LMb3lI20Q.png"
+canceled: false
 ---
 
 # ionava x SoulCycle: VIP Friday Night Ride
@@ -36,7 +37,7 @@ local_image: "images/0Acg5QNuZq1LMb3lI20Q.png"
 **Hosts:** ionava, SoulCycle  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 7:30pm–9:30pm ET
 **Where:** SoulCycle - NoHo · 384 Lafayette St, New York, NY 10003 · Greenwich Village
-**Going:** 119 of 120
+**Going:** 119 of 121
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/0Acg5QNuZq1LMb3lI20Q
 **Map:** https://www.google.com/maps/search/?api=1&query=384%20Lafayette%20St%2C%20New%20York%2C%20NY%2010003
@@ -64,6 +65,7 @@ By signing up for our event, you agree to join Club ionava and receive emails wi
 Please kindly note that photography and videography will take place throughout the event. By attending, you consent to the use of your likeness, voice, and appearance in event recap, promotional, and marketing materials by ionava, SoulCycle, and their partners.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

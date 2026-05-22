@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["MAnzHlx2B5WD9kKrHiZxipW5vm93", "7DFu4rITofNzKIjA7hCx", "s0j1OcsV4Ve6EqWiPSWZxHuET5n2"]
 is_capped: false
-total_guest_count: 191
+total_guest_count: 193
 approved_guest_count: 85
 local_image: "images/RJncgbukJw5Il9UPb378.png"
+canceled: false
 ---
 
 # Decoding Legal AI’s Talent Market
@@ -33,7 +34,7 @@ local_image: "images/RJncgbukJw5Il9UPb378.png"
 **Hosts:** Sandstone, Crux  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:00pm–9:00pm ET
 **Where:** Flatiron
-**Going:** 191
+**Going:** 191 of 193
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/RJncgbukJw5Il9UPb378
 
@@ -77,6 +78,7 @@ Join current and former attorneys navigating the intersection of law and technol
 🎤 HOSTED BY: Stephanie Nweke (Sandstone, ex-DraftWise, ex- WSGR) and Sally Wong (Crux, ex-Harvey, ex-Latham). 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

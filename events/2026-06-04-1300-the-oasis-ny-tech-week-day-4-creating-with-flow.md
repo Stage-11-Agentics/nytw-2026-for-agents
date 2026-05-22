@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["J3KBly0AcPMWy6v1d1sBrgGLrtF3", "9QYyEOt0M6P6C80l8zOYJ9n03Kn1", "7DFu4rITofNzKIjA7hCx", "lbXYGgqV6RPkTXqgo4lVcAK3z513"]
 is_capped: false
-total_guest_count: 58
+total_guest_count: 61
 approved_guest_count: 0
 local_image: "images/Gw543fouMG4silmVEQ9P.png"
+canceled: false
 ---
 
 # The Oasis @ NY Tech Week Day 4 - Creating with Flow
@@ -33,7 +34,7 @@ local_image: "images/Gw543fouMG4silmVEQ9P.png"
 **Hosts:** Vibe Space, Flowstate, Boardy, AI Collective
 **When:** Thursday, June 4, 2026 · 1:00pm–4:00pm ET
 **Where:** Flatiron
-**Going:** 58
+**Going:** 58 of 61
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Gw543fouMG4silmVEQ9P
 
@@ -56,6 +57,7 @@ The series blends daily ‘co-flow’ drop-in sessions with curated collaborativ
 This fourth day is focused on creating with Flow, with conversations guided towards the way that humans would make decisions when everyone would have access to the same tools.
 
 This event is a part of #NY TechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

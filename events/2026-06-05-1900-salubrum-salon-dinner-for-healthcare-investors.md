@@ -27,6 +27,7 @@ remaining_capacity: 20
 total_guest_count: 48
 approved_guest_count: 0
 local_image: "images/waaD8WHscyLjlQkL4Uoi.png"
+canceled: false
 ---
 
 # Salubrum Salon Dinner for Healthcare Investors
@@ -62,6 +63,7 @@ This a curated event, and thus you must have your RSVP request accepted to atten
 Disclaimer: By registering for this event, you agree to receive occasional emails from the organizers, including our newsletters and updates about future events. You can unsubscribe at any time.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,10 +24,11 @@ owner_count: 2
 owner_ids: ["NKYtbSa33TZe2wcUiM8kapRkXiq1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 41
-total_guest_count: 9
+remaining_capacity: 38
+total_guest_count: 12
 approved_guest_count: 0
 local_image: "images/yt2GcDfBv98EmNcUpITD.png"
+canceled: false
 ---
 
 # How To Raise VC Like A Pro: A Zero To One Hands-On Workshop
@@ -37,7 +38,7 @@ local_image: "images/yt2GcDfBv98EmNcUpITD.png"
 **Hosts:** No BS Startup Coach  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 1:30pm–3:30pm ET
 **Where:** Fabrik · 20 Jay St, Brooklyn, NY 11201 · Brooklyn
-**Capacity:** capped at 50 · 9 taken, 41 remaining
+**Capacity:** capped at 50 · 12 taken, 38 remaining
 **RSVP:** https://partiful.com/e/yt2GcDfBv98EmNcUpITD
 **Map:** https://www.google.com/maps/search/?api=1&query=20%20Jay%20St%2C%20Brooklyn%2C%20NY%2011201
 
@@ -74,6 +75,7 @@ After going through YC with Humoniq during the summer of 2025 and raising $8.5m,
 ​​​This gathering is hosted in Fabrik, my favorite community!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

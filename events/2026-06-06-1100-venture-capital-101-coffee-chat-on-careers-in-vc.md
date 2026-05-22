@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["JaEB7pXaWfMJ3mJQOQYJ5LlWwSG3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 33
-approved_guest_count: 20
+total_guest_count: 38
+approved_guest_count: 22
 local_image: "images/vil1h0maT1xq6sC6KFBC.png"
+canceled: false
 ---
 
 # Venture Capital 101: Coffee Chat on Careers in VC
@@ -34,7 +35,7 @@ local_image: "images/vil1h0maT1xq6sC6KFBC.png"
 **Hosts:** Venture Capital 101, City College of New / City University of New York
 **When:** Saturday, June 6, 2026 · 11:00am ET
 **Where:** 14 Street–Union Square Station · New York, NY · Union Square
-**Going:** 32 of 33
+**Going:** 32 of 38
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/vil1h0maT1xq6sC6KFBC
 **Map:** https://www.google.com/maps/search/?api=1&query=14%20Street%E2%80%93Union%20Square%20Station%2C%20New%20York%2C%20NY
@@ -50,6 +51,7 @@ local_image: "images/vil1h0maT1xq6sC6KFBC.png"
 Join us for the VC 101 Coffee Chat, a TechWeek gathering designed for ambitious students interested in venture capital, startups, and the future of innovation. Hosted by VC 101 as part of #TechWeek, this event brings together the next generation of founders, investors, operators, and LPs for candid conversations about career & capital. No prior experience is required. Students from all majors and backgrounds are encouraged to attend. Discussions may include your first VC internship, building your personal brand, creating a professional board of directors, startup fundraising, emerging technology trends, founder experiences, and pathways into investing and innovation careers.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

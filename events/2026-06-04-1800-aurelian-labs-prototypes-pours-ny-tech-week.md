@@ -21,6 +21,7 @@ is_capped: false
 total_guest_count: 32
 approved_guest_count: 0
 local_image: "images/7r9d5lFrwIbz2cQbhTl0.svg"
+canceled: false
 ---
 
 # Aurelian Labs: Prototypes & Pours @ NY Tech Week
@@ -57,6 +58,7 @@ Expect a more hands-on, conversational environment.
 Limited capacity.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

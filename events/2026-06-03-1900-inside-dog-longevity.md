@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 98
 approved_guest_count: 0
 local_image: "images/LLJDUnTekS0VeUEpH0pj.png"
+canceled: false
 ---
 
 # Inside Dog Longevity
@@ -57,6 +58,7 @@ Drinks and canapés will be served throughout the evening.
 Attendance is limited to 40 guests. Applications required.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

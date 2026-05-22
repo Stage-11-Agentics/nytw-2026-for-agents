@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["tjATnVosdVVsyxwuZ1t4jl6LhOR2", "7DFu4rITofNzKIjA7hCx", "C4Jh8ALDCnqFDh7tKhmY"]
 is_capped: false
-total_guest_count: 186
-approved_guest_count: 107
+total_guest_count: 206
+approved_guest_count: 109
 local_image: "images/suiUkzxWKTrNjbWRUoAe.png"
+canceled: false
 ---
 
 # Tech IPO Summit: The path from private to public
@@ -35,7 +36,7 @@ local_image: "images/suiUkzxWKTrNjbWRUoAe.png"
 **Hosts:** Goodfin  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 8:00am–12:00pm ET
 **Where:** 151 W 43rd St, New York, NY 10036 · Flatiron
-**Going:** 186
+**Going:** 186 of 206
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/suiUkzxWKTrNjbWRUoAe
 **Map:** https://www.google.com/maps/search/?api=1&query=151%20W%2043rd%20St%2C%20New%20York%2C%20NY%2010036
@@ -64,6 +65,7 @@ Agenda
 More details will be shared closer to the event date. Request to join to get updates!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

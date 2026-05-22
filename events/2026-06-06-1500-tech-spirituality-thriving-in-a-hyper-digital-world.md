@@ -23,11 +23,12 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["nfk5l76CMqQthj2HPELo7zx4Nus2", "7DFu4rITofNzKIjA7hCx", "VTDOZmuVwKWh9nxjcqXZwhNcm6O2"]
 is_capped: true
-max_capacity: 75
-remaining_capacity: 12
-total_guest_count: 104
+max_capacity: 85
+remaining_capacity: 21
+total_guest_count: 106
 approved_guest_count: 0
 local_image: "images/18ODB3943M8wJdiu2dS7.png"
+canceled: false
 ---
 
 # Tech & Spirituality: Thriving in a Hyper-Digital World
@@ -37,7 +38,7 @@ local_image: "images/18ODB3943M8wJdiu2dS7.png"
 **Hosts:** Practice with Paola, One Energetics, Bhakti Marga NYC
 **When:** Saturday, June 6, 2026 · 3:00pm–6:00pm ET
 **Where:** Motto by Hilton New York City Chelsea · 113 W 24th St, New York, NY 10011 · Upper East Side
-**Capacity:** capped at 75 · 63 taken, 12 remaining
+**Capacity:** capped at 85 · 64 taken, 21 remaining
 **RSVP:** https://partiful.com/e/18ODB3943M8wJdiu2dS7
 **Map:** https://www.google.com/maps/search/?api=1&query=113%20W%2024th%20St%2C%20New%20York%2C%20NY%2010011
 
@@ -87,6 +88,7 @@ We look forward to seeing you for NYTECHWEEK!
 --
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

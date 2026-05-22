@@ -26,9 +26,10 @@ owner_ids: ["9yb9hCLElcbDViid0mk9", "7DFu4rITofNzKIjA7hCx", "tXYPu3w5uwgIpMx1alp
 is_capped: true
 max_capacity: 20
 remaining_capacity: 4
-total_guest_count: 62
+total_guest_count: 63
 approved_guest_count: 16
 local_image: "images/iQA2Cr8FK3gaZTajVpiO.png"
+canceled: false
 ---
 
 # Founder Breakfast
@@ -85,6 +86,7 @@ MIA is a next-generation, AI-powered immigration App, designed to simplify the e
 ​Photography Notice: By attending, you consent to being photographed or recorded for promotional purposes.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

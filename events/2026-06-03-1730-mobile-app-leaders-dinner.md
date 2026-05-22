@@ -29,6 +29,7 @@ remaining_capacity: 28
 total_guest_count: 59
 approved_guest_count: 2
 local_image: "images/YlpHyl2B5kM2Dv5CYqvJ.png"
+canceled: false
 ---
 
 # Mobile App Leaders Dinner
@@ -61,6 +62,7 @@ During the evening, diners will also hear from a distinguished industry guest sp
 If you're interested in attending, request an invitation before the spots fill up!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

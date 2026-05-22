@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["k9o75egDXRZGkjxMT2fDaTGNjv52", "7DFu4rITofNzKIjA7hCx", "a6axi09nsjSN1L4M5jIgSWX4G5c2"]
 is_capped: false
-total_guest_count: 229
-approved_guest_count: 156
+total_guest_count: 232
+approved_guest_count: 155
 local_image: "images/u2yYQwgzUxlQSYJmbW6a.png"
+canceled: false
 ---
 
 # The Latina Power
@@ -33,7 +34,7 @@ local_image: "images/u2yYQwgzUxlQSYJmbW6a.png"
 **Hosts:** Colectivo  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 4:45pm ET
 **Where:** 11 W 19th St, New York, NY 10011 · Union Square
-**Going:** 229
+**Going:** 229 of 232
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/u2yYQwgzUxlQSYJmbW6a
 **Map:** https://www.google.com/maps/search/?api=1&query=11%20W%2019th%20St%2C%20New%20York%2C%20NY%2010011
@@ -58,6 +59,7 @@ We’ll close the evening with networking, food, and drinks— creating space to
 Same energy, sharper focus, bigger platform.
 
 Have a question for our women founders or investors? Please share it with us!
+
 
 
 

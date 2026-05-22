@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["lqywawEkxaB5PnP5oxZD", "7DFu4rITofNzKIjA7hCx", "6UL05Bbp9h2vcOU39WHq"]
 is_capped: false
-total_guest_count: 80
+total_guest_count: 81
 approved_guest_count: 72
 local_image: "images/TfUUsohe1JWQV2saAmWV.png"
+canceled: false
 ---
 
 # The Room Is the Algorithm
@@ -33,7 +34,7 @@ local_image: "images/TfUUsohe1JWQV2saAmWV.png"
 **Hosts:** Mega Exhibit, Inc, Mannarino Designs Inc
 **When:** Friday, June 5, 2026 · 5:00pm–6:30pm ET
 **Where:** Midtown
-**Going:** 80
+**Going:** 80 of 81
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/TfUUsohe1JWQV2saAmWV
 
@@ -70,6 +71,7 @@ Anna Maria Mannarino is an award-winning interior and event designer and founder
 Christina Kolokotroni is the Principal of Mega Exhibit, an experiential agency and production studio creating environments that shape attention, behavior, and emotion. She helps bring ideas into physical environments from concept to execution. Recent work includes activations for CES, NBA All-Star Weekend, and CJ Cup Byron Nelson, exploring how space can shape human response.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

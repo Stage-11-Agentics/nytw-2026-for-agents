@@ -25,10 +25,11 @@ owner_count: 8
 owner_ids: ["TqzTPDeZOlUm3CfekWbYB6PGuFi1", "y73jMVcWiahAWMVKD8xlUua1VcA2", "7DFu4rITofNzKIjA7hCx", "zqdAb65i6paxoQMdWrBtIYdxKY63", "XfyeRo5lSDQbcbSLmcTo4VLmKV42", "Lh7FwYmSXoOqHhd5GNHLbMnDTkG2", "iFIYn4OlQaeXgFFs49e0YUkMv8Y2", "00KOnQ6Oo4NeRxGNIygM58FNp0U2"]
 is_capped: true
 max_capacity: 200
-remaining_capacity: 69
-total_guest_count: 331
-approved_guest_count: 131
+remaining_capacity: 60
+total_guest_count: 337
+approved_guest_count: 140
 local_image: "images/Ho9Hvhtn5iU4ws7IWM8Z.png"
+canceled: false
 ---
 
 # Pulse Check: Healthcare x AI Happy Hour
@@ -38,7 +39,7 @@ local_image: "images/Ho9Hvhtn5iU4ws7IWM8Z.png"
 **Hosts:** Fusion Fund, Primary Venture Partners, Flare Capital Partners  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:30pm–8:30pm ET
 **Where:** New York, NY · New York, NY · Midtown
-**Capacity:** capped at 200 · 131 taken, 69 remaining
+**Capacity:** capped at 200 · 140 taken, 60 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Ho9Hvhtn5iU4ws7IWM8Z
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -70,6 +71,7 @@ Brown Rudnick is a leading international law firm that provides exceptional, cli
 
 --------
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

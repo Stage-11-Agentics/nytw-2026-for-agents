@@ -22,6 +22,7 @@ is_capped: false
 total_guest_count: 33
 approved_guest_count: 0
 local_image: "images/k3uSaDveta7Zhnrg3u18.jpg"
+canceled: false
 ---
 
 # AI dinner for Internal Audit Leaders
@@ -50,6 +51,7 @@ We'll open up with a few quick talks from the prominent CAE leaders, and spend t
 This event is hosted by Bead AI – we're automating SOX testing with AI.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

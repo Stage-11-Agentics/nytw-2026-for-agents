@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["gCmPTG2GgGNqIiKqonD7cAAlL4p1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 44
+total_guest_count: 45
 approved_guest_count: 0
 local_image: "images/zEn5TG5xFm8mDvyutyaZ.gif"
+canceled: false
 ---
 
 # What Founders Get Wrong About People, Scaling Teams, Co-Founder Dynamics & HR (1:1 Office Hours)
@@ -31,7 +32,7 @@ local_image: "images/zEn5TG5xFm8mDvyutyaZ.gif"
 **Hosts:** GroundedForward  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 5:00pm ET
 **Where:** Virtual (NYC)
-**Going:** 44
+**Going:** 44 of 45
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/zEn5TG5xFm8mDvyutyaZ
 
@@ -54,6 +55,7 @@ Book a time and apply here: https://calendly.com/jc-referred/connect-with-jc.
 ABOUT ME: People advisor to multiple startups and VCs, mentor at Techstars. Former HR Tech founder, Global People Partner at a Fortune 500 and Head of People at a biotech startup. I have managed HR initiatives in highly matrixed global organizations and built the entire people functions from 0 to 1 including hiring strong early talent, managing retention, payroll, performance, compliance, and cofounder dynamics. Certified executive coach helping founders elevate executive presence, leadership effectiveness, and stakeholder influence.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -23,10 +23,11 @@ owner_count: 2
 owner_ids: ["y4X939WoYtf388lS0C6x", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 40
-total_guest_count: 93
-approved_guest_count: 10
+remaining_capacity: 39
+total_guest_count: 94
+approved_guest_count: 11
 local_image: "images/vnXKL2lRlzHaRJQwv174.jpg"
+canceled: false
 ---
 
 # Off the Record: Founders & Funders
@@ -36,7 +37,7 @@ local_image: "images/vnXKL2lRlzHaRJQwv174.jpg"
 **Hosts:** Supper  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 8:30pm ET
 **Where:** People’s · 113 W 13th St, New York, NY 10011 · Greenwich Village
-**Capacity:** capped at 50 · 10 taken, 40 remaining
+**Capacity:** capped at 50 · 11 taken, 39 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/vnXKL2lRlzHaRJQwv174
 **Map:** https://www.google.com/maps/search/?api=1&query=113%20W%2013th%20St%2C%20New%20York%2C%20NY%2010011
@@ -56,6 +57,7 @@ We're hosting at one of the city’s most exclusive lounges, and the evening wil
 The guest list includes founders and operators building the next generation of AI infrastructure, fintech, cybersecurity, and GTM-tech companies.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

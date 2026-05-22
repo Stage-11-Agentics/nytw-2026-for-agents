@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 36
 approved_guest_count: 0
 local_image: "images/VHXdo63oVAkJ7tXkD0ie.svg"
+canceled: false
 ---
 
 # Contech Alliance Trivia Happy Hour
@@ -46,6 +47,7 @@ local_image: "images/VHXdo63oVAkJ7tXkD0ie.svg"
 ## Description
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

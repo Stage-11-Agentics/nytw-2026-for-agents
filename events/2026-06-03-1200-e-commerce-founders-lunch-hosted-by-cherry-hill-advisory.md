@@ -24,9 +24,10 @@ owner_ids: ["rGvKo0gGIfVRQG4iQaDDo0bsLAR2", "7DFu4rITofNzKIjA7hCx", "pwyXoPyOlaP
 is_capped: true
 max_capacity: 30
 remaining_capacity: 30
-total_guest_count: 48
+total_guest_count: 49
 approved_guest_count: 0
 local_image: "images/55VWMcOPDP2YUbOQyrSu.png"
+canceled: false
 ---
 
 # E-commerce  Founders' Lunch hosted by Cherry Hill Advisory
@@ -55,6 +56,7 @@ Join fellow E-commerce founders for an intimate meetup to discuss all things str
 This event is a part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 Event Hosted by Cherry Hill Advisory.
+
 
 
 

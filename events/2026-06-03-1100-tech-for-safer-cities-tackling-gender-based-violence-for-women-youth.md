@@ -29,6 +29,7 @@ remaining_capacity: 19
 total_guest_count: 15
 approved_guest_count: 6
 local_image: "images/nDbviUZWOe0l4xxDr82M.jpg"
+canceled: false
 ---
 
 # Tech for Safer Cities: Tackling Gender Based Violence for Women & Youth
@@ -65,6 +66,7 @@ To make the experience more participatory and hands-on, the session will be deli
 Participants will explore practical, community-driven technologies and creative approaches that address gender-based violence, strengthen civic participation, improve public decision-making, and support safer, more inclusive communities.
 
 This event is part of #NYTechWeek - a week of events hosted by VCs and startups bringing together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

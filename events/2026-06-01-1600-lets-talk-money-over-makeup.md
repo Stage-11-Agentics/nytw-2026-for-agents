@@ -26,9 +26,10 @@ owner_ids: ["FXlSa9Jw2xOxgLep95c9ZDOHOt52", "UTNvJ0T4EZNOseJCFIZEVs5y0bk2", "QUs
 is_capped: true
 max_capacity: 80
 remaining_capacity: -19
-total_guest_count: 197
+total_guest_count: 198
 approved_guest_count: 99
 local_image: "images/zZQ8JIguvn8j40Dc0S1C.png"
+canceled: false
 ---
 
 # Let’s talk money over makeup
@@ -70,6 +71,7 @@ In Between is a NYC-based private community and residency for those in transitio
 Special thanks to our partners at Cooley.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

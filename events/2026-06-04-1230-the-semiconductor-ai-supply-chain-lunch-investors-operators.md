@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["zHpwVsyZuiY64cEL5HRNAoY09JI3", "IrC0OxqWrNhXznvhP7BfdNAGS0u1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 1
+total_guest_count: 5
 approved_guest_count: 0
 local_image: "images/WJe6XcxPXwbpCiCVLCas.png"
+canceled: false
 ---
 
 # The Semiconductor & AI Supply Chain Lunch: Investors & Operators
@@ -36,7 +37,7 @@ local_image: "images/WJe6XcxPXwbpCiCVLCas.png"
 **Hosts:** Startup Baddie, Silicon Frontier  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 12:30pm–2:30pm ET
 **Where:** NoMad · NoMad, Manhattan, New York, NY · Nomad
-**Going:** 1
+**Going:** 1 of 5
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/WJe6XcxPXwbpCiCVLCas
 **Map:** https://www.google.com/maps/search/?api=1&query=NoMad%2C%20NoMad%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -62,6 +63,7 @@ Hosted by Kerman Kohli, Founder of Silicon Frontier, a hedge fund focused on AI 
 The room will bring together portfolio managers, allocators, venture investors, founders, operators, and technical builders across public markets, private markets, AI infrastructure, and semiconductors.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

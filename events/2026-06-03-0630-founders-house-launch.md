@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["ha2XczuDLzcgNygNq1IW2PitY463", "7DFu4rITofNzKIjA7hCx", "H4TQkvMub4P74iPqfuazIPgngUi2", "VoJkBixQZgSJodkEyMaHTQ1APc93"]
 is_capped: false
-total_guest_count: 40
+total_guest_count: 41
 approved_guest_count: 0
 local_image: "images/IJIotns2Lp1I4BmGGVJ9.png"
+canceled: false
 ---
 
 # Founders House Launch
@@ -35,7 +36,7 @@ local_image: "images/IJIotns2Lp1I4BmGGVJ9.png"
 **Hosts:** Founders House  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:30am–5:00pm ET
 **Where:** 22 Vanderbilt Ave, New York, NY 10017 · Midtown
-**Going:** 39 of 40
+**Going:** 39 of 41
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/IJIotns2Lp1I4BmGGVJ9
 **Map:** https://www.google.com/maps/search/?api=1&query=22%20Vanderbilt%20Ave%2C%20New%20York%2C%20NY%2010017
@@ -59,6 +60,7 @@ Founders House (www.foundershouse.nyc) is a members-only home base in Manahattan
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

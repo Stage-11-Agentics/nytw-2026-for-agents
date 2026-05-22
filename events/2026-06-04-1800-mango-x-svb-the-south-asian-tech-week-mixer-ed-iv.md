@@ -25,10 +25,11 @@ owner_count: 3
 owner_ids: ["wbXF42wyqchrAW6ckWa9hcjZqia2", "7DFu4rITofNzKIjA7hCx", "jbMiIETjTNgbkp250QLZLoHvIq13"]
 is_capped: true
 max_capacity: 300
-remaining_capacity: 180
-total_guest_count: 130
+remaining_capacity: 177
+total_guest_count: 133
 approved_guest_count: 0
 local_image: "images/0L84J8nQjMRq0eyBW4Do.png"
+canceled: false
 ---
 
 # Mango x SVB: The South Asian Tech Week Mixer Ed. IV
@@ -38,7 +39,7 @@ local_image: "images/0L84J8nQjMRq0eyBW4Do.png"
 **Hosts:** Mango NYC  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm–8:00pm ET
 **Where:** Sugar Mouse · 47 Third Ave, New York, NY 10003 · Lower East Side
-**Capacity:** capped at 300 · 120 taken, 180 remaining
+**Capacity:** capped at 300 · 123 taken, 177 remaining
 **RSVP:** https://partiful.com/e/0L84J8nQjMRq0eyBW4Do
 **Map:** https://www.google.com/maps/search/?api=1&query=47%20Third%20Ave%2C%20New%20York%2C%20NY%2010003
 
@@ -61,6 +62,7 @@ A Note from SVB: For more than four decades, Silicon Valley Bank has been at the
 
 
 This event is a part of #NYTechWeek - a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -29,6 +29,7 @@ remaining_capacity: 0
 total_guest_count: 38
 approved_guest_count: 0
 local_image: "images/8YWwIMt3ZZ9gdKN49osH.png"
+canceled: false
 ---
 
 # The AI x Sustainability Paradox: Using Climate AI Responsibly
@@ -51,6 +52,7 @@ local_image: "images/8YWwIMt3ZZ9gdKN49osH.png"
 ## Description
 
 Due to technical issues, we have moved this event to a new Partiful page. Please register here: https://partiful.com/e/oAkb6sUA678cbVtfJaKL
+
 
 
 

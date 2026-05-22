@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["cuguulahwwacMJ7faOFnWpxcXNx1", "YGCCfA9k6NceWyOnfLlgP3UrGhp1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 78
+total_guest_count: 91
 approved_guest_count: 57
 local_image: "images/IwQrRKHdA83SveHTnf1X.png"
+canceled: false
 ---
 
 # AI for Good Meetup
@@ -34,7 +35,7 @@ local_image: "images/IwQrRKHdA83SveHTnf1X.png"
 **Hosts:** AI for Social Good NYC  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 2:00pm ET
 **Where:** The Globe · 158 E 23rd St, New York, NY 10010 · Flatiron
-**Going:** 76 of 78
+**Going:** 76 of 91
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/IwQrRKHdA83SveHTnf1X
 **Map:** https://www.google.com/maps/search/?api=1&query=158%20E%2023rd%20St%2C%20New%20York%2C%20NY%2010010
@@ -67,6 +68,7 @@ Paulina Muñoz is the author of Do Good Capital, a newsletter at the intersectio
 Angela Ng is the Director of Business Innovation at Carnegie Mellon University, where she has spent nearly five years leading sustainability, AI, and innovation programs across CMU's global campuses. With a decade of international development experience, spanning water and sanitation in Bangladesh and the DRC, maternal and child health in India, and disaster resilience across Africa and the Middle East, she brings a grounded, field-tested lens to emerging technology. She is passionate about responsible AI adoption in the social sector and is actively exploring how AI can drive climate action, ocean conservation, and equitable access at scale. She believes the most important work happens at the edges of disciplines, not the center of any one field. She is a Globethics AI Governance Fellow for 2026, focusing on AI ethics standards in Global South contexts.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

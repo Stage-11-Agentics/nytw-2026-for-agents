@@ -28,6 +28,7 @@ remaining_capacity: 0
 total_guest_count: 369
 approved_guest_count: 0
 local_image: "images/iC3xjF6JPm0iKeTkvCCG.png"
+canceled: false
 ---
 
 # The Journey of an Acquired Founder
@@ -63,6 +64,7 @@ Beyond hearing about the M&A process, Hursh will also share insights about Arc a
 Learn more about how Atlassian is supporting startups by visiting atlassian.com/startups 🚀
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

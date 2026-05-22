@@ -22,10 +22,11 @@ owner_count: 2
 owner_ids: ["VmmtNUAAubaqXdp7WXsPbOf31L42", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 200
-remaining_capacity: 151
-total_guest_count: 54
-approved_guest_count: 49
+remaining_capacity: 147
+total_guest_count: 55
+approved_guest_count: 53
 image_download_error: "HTTP Error 403: Forbidden"
+canceled: false
 ---
 
 # The Rise Circle: After Hours
@@ -35,7 +36,7 @@ image_download_error: "HTTP Error 403: Forbidden"
 **Hosts:** African Women in STEM, Altruistic Scribe
 **When:** Thursday, June 4, 2026 · 6:00pm–10:00pm ET
 **Where:** Midtown
-**Capacity:** capped at 200 · 49 taken, 151 remaining
+**Capacity:** capped at 200 · 53 taken, 147 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/64Fzm7ItTZKGiWI419L2
 
@@ -62,6 +63,7 @@ ____________
 
 Interested in becoming a sponsor/ vendor for this event? Fill out the form below to apply. We are seeking partners who share our commitment to innovation, impact, and the people shaping what's next.
 http://bit.ly/4nk7c9E
+
 
 
 

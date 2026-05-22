@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["9Vya0HBtTDUXWvqcZSeK", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 60
+total_guest_count: 66
 approved_guest_count: 38
 local_image: "images/j2bZTtAyaOkOMidsx5YB.png"
+canceled: false
 ---
 
 # VC & Founder Cocktail Event
@@ -31,7 +32,7 @@ local_image: "images/j2bZTtAyaOkOMidsx5YB.png"
 **Hosts:** Blueberries.  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:00pm ET
 **Where:** Midtown
-**Going:** 60
+**Going:** 60 of 66
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/j2bZTtAyaOkOMidsx5YB
 
@@ -58,6 +59,7 @@ Applications will be reviewed individually. Make sure to tell us who you are and
 This event is part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. 
 
 Learn more at www.tech-week.com
+
 
 
 

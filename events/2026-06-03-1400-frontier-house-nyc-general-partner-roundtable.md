@@ -26,9 +26,10 @@ owner_ids: ["JXSseDHFp5dKWqKVi9Jdegdjhoj2", "7DFu4rITofNzKIjA7hCx", "bXAkNI0Vkad
 is_capped: true
 max_capacity: 50
 remaining_capacity: 50
-total_guest_count: 108
+total_guest_count: 109
 approved_guest_count: 0
 local_image: "images/IjcQJFIYc2PPkDOy0h3r.png"
+canceled: false
 ---
 
 # Frontier House NYC General Partner Roundtable
@@ -65,6 +66,7 @@ Join us for the Frontier House NYC - General Partner Roundtable on Wednesday, Ju
 ​A special thanks to our Hosts: Eleven Wall Ventures, Ohio Startup Network, OneSixOne Ventures and Tech Week.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

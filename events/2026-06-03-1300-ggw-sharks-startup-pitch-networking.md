@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["SaVJXQqCGmV5VcEpZEQQGT4pPrk2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 77
+total_guest_count: 79
 approved_guest_count: 0
 local_image: "images/THa8hGECiLhNpThA760i.png"
+canceled: false
 ---
 
 # GGW Sharks. Startup Pitch & Networking
@@ -33,7 +34,7 @@ local_image: "images/THa8hGECiLhNpThA760i.png"
 **Hosts:** Go Global World, Selective VC
 **When:** Wednesday, June 3, 2026 · 1:00pm–3:00pm ET
 **Where:** Virtual (NYC)
-**Going:** 72 of 77
+**Going:** 72 of 79
 **RSVP:** https://partiful.com/e/THa8hGECiLhNpThA760i
 
 ### Hosts on Partiful
@@ -76,6 +77,7 @@ https://goglobal.world
 
 ​​​​Selective VC - a community-driven fund & angel syndicate investing in startups across various industries and stages with allocations up to $1М.
 https://selectivevc.com
+
 
 
 

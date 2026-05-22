@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["7TCXhM9ALXUn0TWMJXppGMX3TA03", "7DFu4rITofNzKIjA7hCx", "a1GKjjab4cggFRHkKDBzItFFg2T2", "ma3QmNXUhAWcSVguecbki3BTj8j2"]
 is_capped: false
-total_guest_count: 124
+total_guest_count: 128
 approved_guest_count: 5
 local_image: "images/XFVFlVvd7oHLoxAu8IkK.png"
+canceled: false
 ---
 
 # AI & Robotics Capital Forum - Allocators, Founders & Frontier GPs
@@ -36,7 +37,7 @@ local_image: "images/XFVFlVvd7oHLoxAu8IkK.png"
 **Hosts:** Geek Ventures  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 123 of 124
+**Going:** 123 of 128
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/XFVFlVvd7oHLoxAu8IkK
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -68,6 +69,7 @@ Important:
 GPs are welcome with an allocator or LP guest. Priority access is given to family offices and institutional investors.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

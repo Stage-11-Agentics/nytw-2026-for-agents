@@ -22,9 +22,18 @@ is_capped: false
 total_guest_count: 40
 approved_guest_count: 27
 local_image: "images/StGbEbPNPYy51qRWwquT.png"
+canceled: true
+canceled_at: "2026-05-11T23:16:27.252Z"
+canceled_by: "Z5LN5EBbEmYTLI3zpBmHIM2slqt1"
+cancellation_message: "Hii! We’ll be postponing this event, will be curating another room later in the month and I’ll reach out with an invitation :) "
 ---
 
 # Screened Out: AI Broke Hiring, What Now ?
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-11T23:16:27.252Z_  
+>  
+> Hii! We’ll be postponing this event, will be curating another room later in the month and I’ll reach out with an invitation :) 
 
 ![Screened Out: AI Broke Hiring, What Now ?](images/StGbEbPNPYy51qRWwquT.png)
 
@@ -70,6 +79,7 @@ The format is designed for active engagement — the audience is encouraged to c
 Seats are limited. Light refreshments and open bar provided.
 
 This event is part of #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at tech-week.com.
+
 
 
 

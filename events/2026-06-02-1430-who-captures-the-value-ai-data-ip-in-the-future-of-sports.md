@@ -22,10 +22,11 @@ owner_count: 3
 owner_ids: ["FggbwyeVRoZpo9BltYe0kwbqGIC2", "UFLWR7fz5AmfgETqvyYh", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 40
-remaining_capacity: 29
-total_guest_count: 14
-approved_guest_count: 11
+remaining_capacity: 26
+total_guest_count: 26
+approved_guest_count: 14
 local_image: "images/9VmRVXtl6VajweNDiO8y.jpg"
+canceled: false
 ---
 
 # Who Captures the Value? AI, Data & IP in the Future of Sports
@@ -35,7 +36,7 @@ local_image: "images/9VmRVXtl6VajweNDiO8y.jpg"
 **Hosts:** Consulate General of Argentina in New York, FutbolTalent.pro  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 2:30pm–4:00pm ET
 **Where:** Midtown
-**Capacity:** capped at 40 · 11 taken, 29 remaining
+**Capacity:** capped at 40 · 14 taken, 26 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/9VmRVXtl6VajweNDiO8y
 
@@ -64,6 +65,7 @@ Limited capacity — curated conversation. Please arrive early to claim your sea
 Co-hosted by the Consulate General of Argentina in New York. 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. 
 Learn more at www.tech-week.com
+
 
 
 

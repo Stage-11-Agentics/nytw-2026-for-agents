@@ -28,9 +28,15 @@ remaining_capacity: 99
 total_guest_count: 52
 approved_guest_count: 0
 local_image: "images/IH22sDeYHvtbUndCPacu.png"
+canceled: true
+canceled_at: "2026-05-21T01:58:52.282Z"
+canceled_by: "mDHBXeJZmoz7bSQyxAd0"
 ---
 
 # Czech Startup Pitch Night
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-21T01:58:52.282Z_
 
 ![Czech Startup Pitch Night](images/IH22sDeYHvtbUndCPacu.png)
 
@@ -56,6 +62,7 @@ Meet founders building across AI, cybersecurity, fintech, and more, each present
 Whether you're an investor, operator, or ecosystem player, this is a chance to connect early with standout Central European startups making their move into New York.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

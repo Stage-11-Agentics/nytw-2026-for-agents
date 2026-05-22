@@ -23,8 +23,9 @@ owner_count: 3
 owner_ids: ["oi5XQve7tjSeBHV7rxskP2wsDeA2", "hDXM7s5uiEbFdfoyjuyQk6FV7AU2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
 total_guest_count: 752
-approved_guest_count: 38
+approved_guest_count: 43
 local_image: "images/u5rsjRGDWcnqyDzdkwYE.png"
+canceled: false
 ---
 
 # Roundtrip Capital
@@ -66,6 +67,7 @@ This is a call to action. The producers are already here. The capital is already
 We close with a networking reception. Salsa, plena, merengue; because we do business, and we dance.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

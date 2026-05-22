@@ -28,6 +28,7 @@ remaining_capacity: 10
 total_guest_count: 28
 approved_guest_count: 20
 local_image: "images/1tdv13r8Ven8DkmlqSvF.png"
+canceled: false
 ---
 
 # GenAi: Acquire Properties Swiftly
@@ -65,6 +66,7 @@ This workshop will allow the audience to gain hands-on experience on how to use 
 Learn more about us: https://www.projectreds.info/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

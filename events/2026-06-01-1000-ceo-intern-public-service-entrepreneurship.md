@@ -26,6 +26,7 @@ remaining_capacity: 7
 total_guest_count: 16
 approved_guest_count: 0
 local_image: "images/w5gAuNIs4Dq5I6cYkPia.png"
+canceled: false
 ---
 
 # CEO Intern Public Service Entrepreneurship
@@ -50,6 +51,7 @@ local_image: "images/w5gAuNIs4Dq5I6cYkPia.png"
 Join CEO Intern's seminar to discover how you can become CEO of a tax-exempt organization and qualify for student loan forgiveness. This session provides a comprehensive overview of eligibility requirements for a certain loan forgiveness program and informs you on all of the activities you can accomplish for your vision on social entrepreneurship. Explore how entrepreneurs can establish tax-exempt organizations to advance scientific, educational, and charitable initiatives for the public benefit.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem.  Learn more at www.tech-week.com.
+
 
 
 

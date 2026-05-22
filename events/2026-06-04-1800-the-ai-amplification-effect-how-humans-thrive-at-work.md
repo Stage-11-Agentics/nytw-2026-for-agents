@@ -28,6 +28,7 @@ remaining_capacity: 0
 total_guest_count: 41
 approved_guest_count: 0
 local_image: "images/frdQbiPhepooSB3FlBEF.png"
+canceled: false
 ---
 
 # The AI Amplification Effect: How Humans Thrive at Work
@@ -53,6 +54,7 @@ local_image: "images/frdQbiPhepooSB3FlBEF.png"
 A curated, intimate gathering exploring how individuals and teams can actually thrive—not just keep up—in an AI-driven workplace. Featuring a guided conversation and a thoughtful, hands-on floral experience.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["2eOHnBdsDRN17OGCM3uDGe4tVLX2", "7DFu4rITofNzKIjA7hCx", "mKZo3BUP5dh66Z2Z6LgSLFym1Wt1", "eJ5MhsiKieWm2pQdxnRPFpc9aPl2"]
 is_capped: false
-total_guest_count: 129
+total_guest_count: 130
 approved_guest_count: 67
 local_image: "images/8syezYCs3htEpxRB2f9Q.png"
+canceled: false
 ---
 
 # Building LLM-powered products in production
@@ -31,7 +32,7 @@ local_image: "images/8syezYCs3htEpxRB2f9Q.png"
 **Hosts:** Nanonit  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 9:00am ET
 **Where:** Midtown
-**Going:** 129
+**Going:** 129 of 130
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/8syezYCs3htEpxRB2f9Q
 
@@ -77,6 +78,7 @@ Speaker: Judge panel · 10 min
 Program ends 11:30. Room open for continued conversations.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

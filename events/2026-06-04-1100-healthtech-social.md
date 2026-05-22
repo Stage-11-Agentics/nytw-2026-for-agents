@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["9K2ip5KfG1VOTKg73Vjq", "7DFu4rITofNzKIjA7hCx", "HnJuDt2trUY6UejAHmeBUQaKIZn2"]
 is_capped: false
-total_guest_count: 118
+total_guest_count: 119
 approved_guest_count: 103
 local_image: "images/GWdf3iQxpAp9j1zEAOaI.png"
+canceled: false
 ---
 
 # Healthtech Social
@@ -36,7 +37,7 @@ local_image: "images/GWdf3iQxpAp9j1zEAOaI.png"
 **Hosts:** Scalpels & Spreadsheets, Alopex  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 11:00am–1:30pm ET
 **Where:** 307 West 38th Street · 307 W 38th St, New York, NY 10018 · Midtown
-**Going:** 117 of 118
+**Going:** 117 of 119
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/GWdf3iQxpAp9j1zEAOaI
 **Map:** https://www.google.com/maps/search/?api=1&query=307%20W%2038th%20St%2C%20New%20York%2C%20NY%2010018
@@ -69,6 +70,7 @@ Panels: 11.45PM - 1.00PM
 Networking: 1.00 - 1.30PM 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

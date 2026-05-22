@@ -26,6 +26,7 @@ is_capped: false
 total_guest_count: 62
 approved_guest_count: 8
 local_image: "images/QrbK69m7SVT7XN1xYmQG.png"
+canceled: false
 ---
 
 # Going Solo: GP Poker tournament
@@ -54,6 +55,7 @@ We're hosting a group of Solo GPs and Emerging managers for an evening of no-lim
 $100 buy-in.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

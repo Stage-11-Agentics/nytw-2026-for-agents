@@ -21,10 +21,11 @@ owner_count: 2
 owner_ids: ["dfyFB6cJj6fTe0JY2STfk8CJmUU2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 35
-total_guest_count: 15
+remaining_capacity: 33
+total_guest_count: 17
 approved_guest_count: 0
 local_image: "images/AMDCAbR2zrSQ3gTtQBgs.png"
+canceled: false
 ---
 
 # HigherPeople's NYTW Happy Hour
@@ -34,7 +35,7 @@ local_image: "images/AMDCAbR2zrSQ3gTtQBgs.png"
 **Hosts:** HigherPeople  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 4:30pm–6:30pm ET
 **Where:** SoHo
-**Capacity:** capped at 50 · 15 taken, 35 remaining
+**Capacity:** capped at 50 · 17 taken, 33 remaining
 **RSVP:** https://partiful.com/e/AMDCAbR2zrSQ3gTtQBgs
 
 ### Hosts on Partiful
@@ -48,6 +49,7 @@ local_image: "images/AMDCAbR2zrSQ3gTtQBgs.png"
 Join our Senior Recruiter, Nikki Adamson, during New York Tech Week in mixing and mingling with startup founders, senior leaders, and top tech talent over drinks!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

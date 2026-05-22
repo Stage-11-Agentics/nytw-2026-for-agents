@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 37
 approved_guest_count: 0
 local_image: "images/qZn5XHYuMR373Ah1MIen.png"
+canceled: false
 ---
 
 # BREWS, PITCH & CHILL - #NYTechWeek
@@ -50,6 +51,7 @@ local_image: "images/qZn5XHYuMR373Ah1MIen.png"
 Join us for an evening of fresh ideas and cold brews as we bring together the brightest minds in the local tech scene for Techweek. Our "Brews, Pitch and Chill" session offers a No Pressure opportunity for founders to pitch their concepts in a supportive, community focused setting before we dive into an open networking mixer. Whether you're looking to find your next collaborator, scout for investment opportunities, or simply want to hang out with the people building the future, this is the perfect place to kick back and talk and connect. Hey you might find your next CoFounder in Here. 😊
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

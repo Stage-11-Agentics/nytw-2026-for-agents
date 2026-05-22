@@ -181,6 +181,19 @@ def process_one(path: pathlib.Path, images_dir: pathlib.Path) -> dict:
         if ev.get("remainingCapacity") is not None:
             updates["remaining_capacity"] = int(ev["remainingCapacity"])
 
+    # Cancellation. Partiful uses single-L "canceled" / double-L "cancellation"; we mirror it.
+    is_canceled = ev.get("status") == "CANCELED"
+    updates["canceled"] = "true" if is_canceled else "false"
+    if is_canceled:
+        if ev.get("canceledAt"):
+            updates["canceled_at"] = yaml_val(ev["canceledAt"])
+        canceled_by = ev.get("canceledBy") or {}
+        if isinstance(canceled_by, dict) and canceled_by.get("id"):
+            updates["canceled_by"] = yaml_val(canceled_by["id"])
+        if ev.get("cancellationMessage"):
+            # YAML-escape the cancellation message; can be multi-line.
+            updates["cancellation_message"] = yaml_val(ev["cancellationMessage"])
+
     # Guest counts (richer fields)
     if ev.get("guestCount") is not None:
         updates["total_guest_count"] = int(ev["guestCount"])

@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["OGi9LjAvSLT1jvyIZ2Q22Qf7F8V2", "7DFu4rITofNzKIjA7hCx", "X1oyszOr0PbRdvaB8xOjUlMAxBj2", "Fn3x6INVS3ZFGF66imM8"]
 is_capped: false
-total_guest_count: 946
+total_guest_count: 965
 approved_guest_count: 112
 local_image: "images/aFINYfh4iM7cXXzNqLi0.png"
+canceled: false
 ---
 
 # a16z Speedrun: Startup Culture Brunch for  Angels+VCs
@@ -33,7 +34,7 @@ local_image: "images/aFINYfh4iM7cXXzNqLi0.png"
 **Hosts:** a16z speedrun  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 9:30am–11:30am ET
 **Where:** Midtown
-**Going:** 944 of 946
+**Going:** 944 of 965
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/aFINYfh4iM7cXXzNqLi0
 
@@ -59,6 +60,7 @@ facilitated by me, a16z Speedrun's Head of People :)
 Seats will be limited for active early stage VCs and angel investors.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com!
+
 
 
 

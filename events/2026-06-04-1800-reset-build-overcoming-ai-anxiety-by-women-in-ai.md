@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 102
 approved_guest_count: 0
 local_image: "images/Vg3uhwlG7t6HdALQeYTm.png"
+canceled: false
 ---
 
 # Reset + Build: Overcoming AI Anxiety by Women in AI
@@ -69,6 +70,7 @@ Format
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at 
 www.tech-week.com.
+
 
 
 

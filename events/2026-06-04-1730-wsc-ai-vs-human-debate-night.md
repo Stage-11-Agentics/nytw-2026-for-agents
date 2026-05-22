@@ -27,6 +27,7 @@ remaining_capacity: 89
 total_guest_count: 255
 approved_guest_count: 56
 local_image: "images/Cig2PY1aZru3nhBQhMfj.jpg"
+canceled: false
 ---
 
 # WSC- AI vs Human Debate Night
@@ -55,6 +56,7 @@ This event is open to students, cybersecurity professionals, tech founders, recr
 AI vs. Human Debate Night is an interactive experience that explores the evolving relationship between artificial intelligence and human expertise. Participants will engage in a live debate on timely topics such as the future of work, cybersecurity, and innovation. One side will rely on AI use in professional settings, while the other opposes its use in cybersecurity. The audience will play an active role by voting on which side presents the most compelling arguments.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

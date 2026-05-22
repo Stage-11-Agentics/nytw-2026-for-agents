@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["UFLWR7fz5AmfgETqvyYh", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 27
+total_guest_count: 29
 approved_guest_count: 8
 local_image: "images/qRPqQEngVH26DukCxojf.jpg"
+canceled: false
 ---
 
 # The New Money Builders: Fintech and Venture Capital in Latin America
@@ -36,7 +37,7 @@ local_image: "images/qRPqQEngVH26DukCxojf.jpg"
 **Hosts:** Consulate General of Argentina in New York  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 9:15am–10:45am ET
 **Where:** Consulate General Of Argentina · 12 W 56th St, New York, NY 10019 · Midtown
-**Going:** 27
+**Going:** 27 of 29
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/qRPqQEngVH26DukCxojf
 **Map:** https://www.google.com/maps/search/?api=1&query=12%20W%2056th%20St%2C%20New%20York%2C%20NY%2010019
@@ -56,6 +57,7 @@ What are investors looking for today? Where are the next opportunities? How do y
 LEMON - N5 - PERSEA Ventures. Hosted By Argentine Fintech Chamber & ARCAP (Argentine Association of Private Equity, Venture and Seed Capital)
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

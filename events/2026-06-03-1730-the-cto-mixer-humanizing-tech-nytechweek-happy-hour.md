@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["wzVBe6Zk3Ahoj2UoRsUM", "7DFu4rITofNzKIjA7hCx", "RTYGgFDLaWpWH1xnk5o2"]
 is_capped: false
-total_guest_count: 151
-approved_guest_count: 118
+total_guest_count: 154
+approved_guest_count: 121
 local_image: "images/h1hGv0PkskcagJOv5M9K.png"
+canceled: false
 ---
 
 # The CTO Mixer: Humanizing Tech | #NYTechWeek Happy Hour
@@ -35,7 +36,7 @@ local_image: "images/h1hGv0PkskcagJOv5M9K.png"
 **Hosts:** Devlane, Merge Conflict  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:30pm–7:30pm ET
 **Where:** 130 E 57th St, New York, NY 10022 · East Village
-**Going:** 151
+**Going:** 151 of 154
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/h1hGv0PkskcagJOv5M9K
 **Map:** https://www.google.com/maps/search/?api=1&query=130%20E%2057th%20St%2C%20New%20York%2C%20NY%2010022
@@ -64,6 +65,7 @@ If you're a CTO or engineering leader, whether you're deep in a scaling challeng
 📍 Midtown, NY - exact location shared closer to the date upon RSVP
 
 This event is part of #NYTechWeek, a week filled with events bringing together the best of NYC’s tech ecosystem.
+
 
 
 

@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["LnFZOkJoaKQWD9vSe7OH5mpbzKg2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 87
+total_guest_count: 89
 approved_guest_count: 0
 local_image: "images/6xAvUm0cvTe94ZWTuqGo.jpg"
+canceled: false
 ---
 
 # How do you have a conversation with a city?
@@ -36,7 +37,7 @@ local_image: "images/6xAvUm0cvTe94ZWTuqGo.jpg"
 **Hosts:** Data Vandals  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 3:00pm–6:00pm ET
 **Where:** Mta - 51st Street SUBWAY Station - 6 · 932 2nd Ave, New York, NY 10022 · Midtown
-**Going:** 45 of 87
+**Going:** 45 of 89
 **RSVP:** https://partiful.com/e/6xAvUm0cvTe94ZWTuqGo
 **Map:** https://www.google.com/maps/search/?api=1&query=932%202nd%20Ave%2C%20New%20York%2C%20NY%2010022
 
@@ -66,6 +67,7 @@ When closed, the outside mural details moments from New York’s history and sho
 In 2019, this station had 18.9 million passengers, making it the 10th-busiest station in the subway system. This translates to an average of 52,000 passengers per day.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

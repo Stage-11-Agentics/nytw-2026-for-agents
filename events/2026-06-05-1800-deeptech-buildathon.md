@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["MnrTVn6T1Yc80jibtVg1tau6sQI2", "7DFu4rITofNzKIjA7hCx", "frRaVseBfsfgMJ2stmzGbHxOago2", "oU58Nrs0njYGYjb2SHUElNR51iq1"]
 is_capped: false
-total_guest_count: 60
+total_guest_count: 62
 approved_guest_count: 0
 local_image: "images/8pmTKnFonLGM4FdI3MxF.png"
+canceled: false
 ---
 
 # Deeptech Buildathon
@@ -33,7 +34,7 @@ local_image: "images/8pmTKnFonLGM4FdI3MxF.png"
 **Hosts:** GenZtea, Soma Capital, Epiphany  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 6:00pm–9:00pm ET
 **Where:** SoHo
-**Going:** 60
+**Going:** 60 of 62
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/8pmTKnFonLGM4FdI3MxF
 
@@ -69,6 +70,7 @@ Epiphany — an applied neurotechnology startup pioneering non-invasive approach
 
 
 event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

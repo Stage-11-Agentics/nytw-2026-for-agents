@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["9rCHUxMsKphfnB9mLp9DpG0CEID3", "7DFu4rITofNzKIjA7hCx", "POXNFjn6laSajoSHdccfmM9mpjz2", "Cb6Qp1meBDBhfTOkVhNj", "AuVx9j8AkzTRFWlxEAzNyBdFmh82"]
 is_capped: false
-total_guest_count: 966
-approved_guest_count: 138
+total_guest_count: 969
+approved_guest_count: 146
 local_image: "images/gKj9MaPMRgLAfdoUrS8A.png"
+canceled: false
 ---
 
 # From Survive to Thrive
@@ -36,7 +37,7 @@ local_image: "images/gKj9MaPMRgLAfdoUrS8A.png"
 **Hosts:** Lowenstein Sandler, Astia, Osborne Clarke  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 4:00pm–6:00pm ET
 **Where:** Lowenstein Sandler · 1251 Avenue of the Americas, FL 17, New York, NY 10020 · Midtown
-**Going:** 966
+**Going:** 966 of 969
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/gKj9MaPMRgLAfdoUrS8A
 **Map:** https://www.google.com/maps/search/?api=1&query=1251%20Avenue%20of%20the%20Americas%2C%20FL%2017%2C%20New%20York%2C%20NY%2010020
@@ -69,6 +70,7 @@ Victoria Pettibone, CIO & Managing Partner Astia: Former operator turned VC leve
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["dlc1BcuGqheko69ueMKfgIWXTT82", "7XZNWxdaE4eaVNcKS5G9", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 24
+total_guest_count: 27
 approved_guest_count: 0
 local_image: "images/6P62aj9sdBO8Nk6BSYqJ.png"
+canceled: false
 ---
 
 # FEMALE FOUNDERS & FUNDERS RUN
@@ -33,7 +34,7 @@ local_image: "images/6P62aj9sdBO8Nk6BSYqJ.png"
 **Hosts:** Slow Girl Run Club  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 7:15am ET
 **Where:** Hungry Llama · 679 Washington St, New York, NY 10014 · West Village
-**Going:** 20 of 24
+**Going:** 20 of 27
 **RSVP:** https://partiful.com/e/6P62aj9sdBO8Nk6BSYqJ
 **Map:** https://www.google.com/maps/search/?api=1&query=679%20Washington%20St%2C%20New%20York%2C%20NY%2010014
 
@@ -61,6 +62,7 @@ not a runner? no worries ☆
 come solo or bring a friend ♡
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

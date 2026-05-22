@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["oaOUzpl7iLcO1IYhP8XINeiEnV93", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 103
+total_guest_count: 104
 approved_guest_count: 37
 local_image: "images/rMXDlcjS4U6NnDyGRgYD.png"
+canceled: false
 ---
 
 # Old World Roots, New World Growth: A Wine Tasting Hosted by Unique AI for
@@ -36,7 +37,7 @@ local_image: "images/rMXDlcjS4U6NnDyGRgYD.png"
 **Hosts:** Unique AI  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:00pm–7:00pm ET
 **Where:** NoMad · NoMad, Manhattan, New York, NY · Nomad
-**Going:** 103
+**Going:** 103 of 104
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/rMXDlcjS4U6NnDyGRgYD
 **Map:** https://www.google.com/maps/search/?api=1&query=NoMad%2C%20NoMad%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -58,6 +59,7 @@ Come ready to taste, compare, and debate, whether that's Burgundy versus Willame
 Learn more about our enterprise platform and orchestration layer powering end-to-end workflows at https://www.unique.ai/.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

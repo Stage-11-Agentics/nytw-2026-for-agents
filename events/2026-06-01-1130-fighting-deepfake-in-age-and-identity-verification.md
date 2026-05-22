@@ -23,9 +23,10 @@ owner_ids: ["JoWGwjDHsLUTdRQJqcUqNmXNHDs1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
 remaining_capacity: 0
-total_guest_count: 94
+total_guest_count: 96
 approved_guest_count: 0
 local_image: "images/z7K3rnyrNVrwKiHGPokb.png"
+canceled: false
 ---
 
 # Fighting deepfake in Age and Identity Verification
@@ -59,6 +60,7 @@ Come learn more, and discuss with others solving the same problem. Each particip
 Looking forward to seeing you!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

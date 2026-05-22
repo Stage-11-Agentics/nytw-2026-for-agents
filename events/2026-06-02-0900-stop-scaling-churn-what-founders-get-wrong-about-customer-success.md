@@ -29,6 +29,7 @@ remaining_capacity: 3
 total_guest_count: 56
 approved_guest_count: 32
 local_image: "images/gM5zKPJV8oJRiBVnmwEf.jpg"
+canceled: false
 ---
 
 # Stop Scaling Churn: What Founders Get Wrong About Customer Success
@@ -69,6 +70,7 @@ Capacity: 15 founders
 Intentionally small. Come ready to talk.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

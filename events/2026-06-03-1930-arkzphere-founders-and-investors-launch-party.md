@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["c35HGI5AinUhlaVviSiePIikaEw1", "7DFu4rITofNzKIjA7hCx", "3fHxJPBO0OPey5tADMkFnlp8O7H3", "EkUQiq03aHgiyCg8L5dVgjhBBGD3"]
 is_capped: false
-total_guest_count: 356
+total_guest_count: 358
 approved_guest_count: 0
 local_image: "images/g8VJ854DFglJ6GtYDoS4.jpg"
+canceled: false
 ---
 
 # Arkzphere: Founders and Investors Launch Party
@@ -34,7 +35,7 @@ local_image: "images/g8VJ854DFglJ6GtYDoS4.jpg"
 **Hosts:** Arkzphere, Propel Earth  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 7:30pm ET
 **Where:** Lower East Side · Lower East Side, Manhattan, New York, NY · Lower East Side
-**Going:** 62 of 356
+**Going:** 62 of 358
 **RSVP:** https://partiful.com/e/g8VJ854DFglJ6GtYDoS4
 **Map:** https://www.google.com/maps/search/?api=1&query=Lower%20East%20Side%2C%20Lower%20East%20Side%2C%20Manhattan%2C%20New%20York%2C%20NY
 
@@ -58,6 +59,7 @@ Expect a curated guest list of builders and backers across early-stage startups 
 Light refreshments and drinks will be served. Space is limited and entry is strictly curated.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

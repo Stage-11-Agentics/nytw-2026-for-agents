@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["KeUpmqYBC3NbH0RG7XkjN7dMi2z1", "7DFu4rITofNzKIjA7hCx", "4uDNOVsOdnUHde7uAC78BeVrhBz2", "X7AS2KjPt9f7z4yaLwbApSF6qFg1"]
 is_capped: false
-total_guest_count: 78
-approved_guest_count: 76
+total_guest_count: 80
+approved_guest_count: 77
 local_image: "images/qby7sUnWQut791gK5Y9Q.png"
+canceled: false
 ---
 
 # Digital Identity: Fighting Consumer Fraud in Financial Services
@@ -33,7 +34,7 @@ local_image: "images/qby7sUnWQut791gK5Y9Q.png"
 **Hosts:** Heka Global, Pearl Cohen  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 9:00am–10:30am ET
 **Where:** Midtown
-**Going:** 78
+**Going:** 78 of 80
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/qby7sUnWQut791gK5Y9Q
 
@@ -68,6 +69,7 @@ Dustin J. Eaton, Fraud Principal, Taktile
 Masan Stankovic, Director of Financial Technology, Royal Bank of Canada
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

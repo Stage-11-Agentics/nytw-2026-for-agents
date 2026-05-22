@@ -25,10 +25,11 @@ owner_count: 4
 owner_ids: ["qqGs3YLHiKVm7EBqBNBvSdk1XHq2", "7DFu4rITofNzKIjA7hCx", "yqDqz9djyEUUlAIgg6PZsgwNf342", "uCNmqSbALj3K8ZztqFtd"]
 is_capped: true
 max_capacity: 65
-remaining_capacity: 26
-total_guest_count: 222
-approved_guest_count: 39
+remaining_capacity: 15
+total_guest_count: 223
+approved_guest_count: 50
 local_image: "images/UC1NXYJ9EHyHyXonLjsP.avif"
+canceled: false
 ---
 
 # Female Founders Lunch
@@ -38,7 +39,7 @@ local_image: "images/UC1NXYJ9EHyHyXonLjsP.avif"
 **Hosts:** Everywhere Ventures, Perkins Coie  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 11:30am–2:00pm ET
 **Where:** New York, NY · New York, NY · Midtown
-**Capacity:** capped at 65 · 39 taken, 26 remaining
+**Capacity:** capped at 65 · 50 taken, 15 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/UC1NXYJ9EHyHyXonLjsP
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -66,6 +67,7 @@ TVC is a transformational, early-stage venture firm backed by world class entrep
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 ​The event hosts and sponsors may use the personal information we collect from and about you for business purposes such as sending newsletters, updates, and other communications we think will be of interest to you, including about our services, programming, and events unless you have opted out of such communications.
+
 
 
 

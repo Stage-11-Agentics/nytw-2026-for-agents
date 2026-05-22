@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["1DFNn8n9nzYGp7kLXIUFaZdMqFE3", "6ywaYZdWluVWgbQn0Wx7", "7DFu4rITofNzKIjA7hCx", "l2QY31WatkajnHqUNEE1", "NHkOgrAhsNgALT5mZKcP9sbmSR93"]
 is_capped: false
-total_guest_count: 98
+total_guest_count: 99
 approved_guest_count: 3
 local_image: "images/JYpVVnt8arHL8QFFVE4O.png"
+canceled: false
 ---
 
 # SheSuite: AI Operators + Vibe Coding
@@ -36,7 +37,7 @@ local_image: "images/JYpVVnt8arHL8QFFVE4O.png"
 **Hosts:** Sparx Labs, Tavia Health  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 10:00am–2:00pm ET
 **Where:** 14 Street–Union Square · New York, NY · Union Square
-**Going:** 98
+**Going:** 98 of 99
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/JYpVVnt8arHL8QFFVE4O
 **Map:** https://www.google.com/maps/search/?api=1&query=14%20Street%E2%80%93Union%20Square%2C%20New%20York%2C%20NY
@@ -71,6 +72,7 @@ Hosted by Sparx Labs × FemBuildCollective · Part of NY Tech Week 2026
 📅 June 4, 2026 · 10:00 AM – 2:00 PM EDT
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

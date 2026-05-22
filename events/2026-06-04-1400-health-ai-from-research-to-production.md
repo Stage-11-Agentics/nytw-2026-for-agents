@@ -26,9 +26,10 @@ owner_ids: ["9K2ip5KfG1VOTKg73Vjq", "7DFu4rITofNzKIjA7hCx", "UGVoirQYOuZcznIiuuU
 is_capped: true
 max_capacity: 140
 remaining_capacity: 27
-total_guest_count: 166
+total_guest_count: 171
 approved_guest_count: 113
 local_image: "images/BSTxVUJmobXv6Y1EYQDX.png"
+canceled: false
 ---
 
 # Health AI from Research to Production
@@ -82,6 +83,7 @@ Panel: 3.00PM - 3.50PM
 Networking: 3.50 - 5.00PM 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

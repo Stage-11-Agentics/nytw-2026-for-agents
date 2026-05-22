@@ -29,6 +29,7 @@ remaining_capacity: 54
 total_guest_count: 49
 approved_guest_count: 6
 image_download_error: "HTTP Error 403: Forbidden"
+canceled: false
 ---
 
 # AI in Heavily Regulated, High-Stakes Industries: HealthTech & FinTech
@@ -63,6 +64,7 @@ Come spend an evening with us on a Midtown Manhattan private rooftop. Honest con
 Founders, operators, and investors in AI, healthcare, and fintech welcome.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["NNlH6mRQJ8USLSjjv57y", "7DFu4rITofNzKIjA7hCx", "n4AhGqQ8UVEkNus1SnYF"]
 is_capped: false
-total_guest_count: 204
+total_guest_count: 208
 approved_guest_count: 154
 local_image: "images/ekOSu7Sy0DbFiW5Jpj9N.png"
+canceled: false
 ---
 
 # Rebuilding Health Benefits for a Modern Workforce
@@ -36,7 +37,7 @@ local_image: "images/ekOSu7Sy0DbFiW5Jpj9N.png"
 **Hosts:** Tusk Venture Partners, Smirk Health  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:00pm–5:30pm ET
 **Where:** P&T Knitwear · 180 Orchard St, New York, NY 10002 · Lower East Side
-**Going:** 202 of 204
+**Going:** 202 of 208
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ekOSu7Sy0DbFiW5Jpj9N
 **Map:** https://www.google.com/maps/search/?api=1&query=180%20Orchard%20St%2C%20New%20York%2C%20NY%2010002
@@ -65,6 +66,7 @@ Join us for a conversation with leaders Ellyn Shook, former CHRO of Accenture; S
 This panel brings together leaders across tech, healthcare, and the future of work to explore what happens when foundational systems fall out of sync—and what's being built to replace them.
 
 This event is a part of #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

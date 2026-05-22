@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["ZMojkLRfwXZzG3jsETTdILqCpEu2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 90
+total_guest_count: 91
 approved_guest_count: 0
 local_image: "images/Ytg3A4316XFdtelBcoZM.png"
+canceled: false
 ---
 
 # NYC’S FIRST EVER SKY-HIGH PITCH COMPETITION with up to $1M  in funding on the line
@@ -36,7 +37,7 @@ local_image: "images/Ytg3A4316XFdtelBcoZM.png"
 **Hosts:** Rocket Mixer, Apollo Society
 **When:** Thursday, June 4, 2026 · 7:00am–9:00am ET
 **Where:** Edge · 30 Hudson Yards, FL 4, New York, NY 10001 · Hudson Yards
-**Going:** 90
+**Going:** 90 of 91
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Ytg3A4316XFdtelBcoZM
 **Map:** https://www.google.com/maps/search/?api=1&query=30%20Hudson%20Yards%2C%20FL%204%2C%20New%20York%2C%20NY%2010001
@@ -94,6 +95,7 @@ Rocket Mixer® and Apollo Society
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

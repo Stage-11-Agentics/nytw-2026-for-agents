@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["KkLukq1ZXwOjorBsd4DTRiek7aI2", "lnC1pHUr0sZMUq45ji7t1ynDzAC2", "7DFu4rITofNzKIjA7hCx", "8pXp7JMLL6OVG408gJc5"]
 is_capped: false
-total_guest_count: 34
+total_guest_count: 35
 approved_guest_count: 32
 local_image: "images/sydC8oyWk7m8BNMV7A4r.png"
+canceled: false
 ---
 
 # Make Your MarTech Work Harder
@@ -33,7 +34,7 @@ local_image: "images/sydC8oyWk7m8BNMV7A4r.png"
 **Hosts:** Axioned, Escape Velocity Digital  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 12:00pm–12:45pm ET
 **Where:** Virtual (NYC)
-**Going:** 34
+**Going:** 34 of 35
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/sydC8oyWk7m8BNMV7A4r
 
@@ -52,6 +53,7 @@ Join us for a live Marketing Technology Help Desk session where we’ll troubles
 If you're investing time and money into your marketing technology (website, CRM, email marketing platform, media buys, campaigns, or SEO) but struggling to see ROI, this session is for you!
 
 From slow sites that don't convert to broken CRM syncs to missing analytics and lost leads, we’ll help you uncover what might be holding back your lead-gen engine.
+
 
 
 

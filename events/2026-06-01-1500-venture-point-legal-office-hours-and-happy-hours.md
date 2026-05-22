@@ -25,8 +25,9 @@ owner_count: 2
 owner_ids: ["Q38cR9y4QJP75MXJMVHcMlBZoq03", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
 total_guest_count: 51
-approved_guest_count: 43
+approved_guest_count: 44
 local_image: "images/MqjofFn5eLPZywUqKfdQ.png"
+canceled: false
 ---
 
 # Venture Point Legal Office Hours and Happy Hours
@@ -64,6 +65,7 @@ The vibe: Small group, big questions. Cocktails, coffee, and non-alcoholic optio
 Who should come: Founders, operators thinking about starting something, and investors who want to talk shop.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

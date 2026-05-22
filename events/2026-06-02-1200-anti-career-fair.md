@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["MnrTVn6T1Yc80jibtVg1tau6sQI2", "7DFu4rITofNzKIjA7hCx", "8GcPsA4Itfd6rPrU1K9pQIhArkG2"]
 is_capped: false
-total_guest_count: 350
+total_guest_count: 364
 approved_guest_count: 21
 local_image: "images/RBHVasd7M734yLwBejbr.jpg"
+canceled: false
 ---
 
 # Anti Career Fair
@@ -36,7 +37,7 @@ local_image: "images/RBHVasd7M734yLwBejbr.jpg"
 **Hosts:** Cooperman Business Center @ Hunter College, Velric  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 12:00pm–4:00pm ET
 **Where:** Hunter College · 695 Park Ave, New York, NY 10065 · Upper East Side
-**Going:** 350
+**Going:** 350 of 364
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/RBHVasd7M734yLwBejbr
 **Map:** https://www.google.com/maps/search/?api=1&query=695%20Park%20Ave%2C%20New%20York%2C%20NY%2010065
@@ -101,6 +102,7 @@ Interested in sponsoring, exhibiting, or partnering with us? We'd love to hear f
 📩 Email natalie.neptune@hunter.cuny.edu
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

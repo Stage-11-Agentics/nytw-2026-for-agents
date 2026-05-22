@@ -25,6 +25,7 @@ is_capped: false
 total_guest_count: 7
 approved_guest_count: 4
 local_image: "images/GA2rWFRC5nPohWnE3vJU.png"
+canceled: false
 ---
 
 # The (Ethical) Guide To (AI) Hacking
@@ -82,6 +83,7 @@ A safe space for your tech team.
 Seats are limited. We need volunteers willing to let us attempt to break into their product live. Sign up in the RSVP notes if you're brave enough to hear your weakness exposed, but courageous enough to take action on them.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

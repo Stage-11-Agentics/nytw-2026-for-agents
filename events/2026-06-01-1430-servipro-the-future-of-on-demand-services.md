@@ -24,8 +24,9 @@ owner_count: 3
 owner_ids: ["k1B3zjtnoMb6U2qE7XMBE0LP9uu1", "UFLWR7fz5AmfgETqvyYh", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
 total_guest_count: 8
-approved_guest_count: 4
+approved_guest_count: 5
 local_image: "images/LSj9Pfuz86SEiUvjvtNt.jpg"
+canceled: false
 ---
 
 # Servipro the future of On Demand Services
@@ -58,6 +59,7 @@ A deep dive into Servipro's dual -sided marketplace
 - Networking with the founding team, the consulate  General of Argentina, and industry peers.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

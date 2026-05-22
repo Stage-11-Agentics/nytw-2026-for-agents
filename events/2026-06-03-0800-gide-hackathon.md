@@ -24,10 +24,11 @@ owner_count: 2
 owner_ids: ["QLMs288XiZ1BOo6JjnNr", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 9
-total_guest_count: 99
-approved_guest_count: 91
+remaining_capacity: 2
+total_guest_count: 103
+approved_guest_count: 98
 local_image: "images/0zgEiZwPFM6JwBwJLTXc.png"
+canceled: false
 ---
 
 # GIDE Hackathon
@@ -37,7 +38,7 @@ local_image: "images/0zgEiZwPFM6JwBwJLTXc.png"
 **Hosts:** Generative IDE, Perkins Coie
 **When:** Wednesday, June 3, 2026 · 8:00am–5:30pm ET
 **Where:** 1155 6th Ave, New York, NY 10036 · Midtown
-**Capacity:** capped at 100 · 91 taken, 9 remaining
+**Capacity:** capped at 100 · 98 taken, 2 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/0zgEiZwPFM6JwBwJLTXc
 **Map:** https://www.google.com/maps/search/?api=1&query=1155%206th%20Ave%2C%20New%20York%2C%20NY%2010036
@@ -85,6 +86,7 @@ Prizes announced live at the event.
 Hosted in Perkins Coie LLP office
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

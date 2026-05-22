@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["m09P8fAm1xStBpeJa2Ua", "7DFu4rITofNzKIjA7hCx", "TT201iOG2FhEdSw0dhnBKd26kct2", "iWo82h1ANVTansHF9NVS"]
 is_capped: false
-total_guest_count: 217
-approved_guest_count: 189
+total_guest_count: 220
+approved_guest_count: 192
 local_image: "images/4XKbTFLap5PbNCSGsQMC.png"
+canceled: false
 ---
 
 # Primary x Supermomos x Gunderson: Founder and Investor Lounge
@@ -35,7 +36,7 @@ local_image: "images/4XKbTFLap5PbNCSGsQMC.png"
 **Hosts:** Supermomos, Gunderson Dettmer, Primary Venture Partners  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 11:00am–2:00pm ET
 **Where:** 1250 Broadway, New York, NY 10001 · Midtown
-**Going:** 217
+**Going:** 217 of 220
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/4XKbTFLap5PbNCSGsQMC
 **Map:** https://www.google.com/maps/search/?api=1&query=1250%20Broadway%2C%20New%20York%2C%20NY%2010001
@@ -71,6 +72,7 @@ Supermomos is NYC's premier platform for connecting with professional communitie
 Primary is the largest dedicated seed firm in the country, with $1.6B in AUM, a 60-person team, and sector-specialized partners across Compute, Healthcare, GTM, Enterprise AI, Fintech, Cybersecurity, Vertical AI, Industrials, and Consumer. The Impact team outnumbers investors 2:1 and runs at full operating intensity year-round: 2,500 hours of embedded fractional leadership, 3,000 candidate interviews, a live pool of 5,000+ job seekers, and 250 events for the NYC tech community.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

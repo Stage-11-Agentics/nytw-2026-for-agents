@@ -25,9 +25,10 @@ owner_ids: ["iEhdrWh5uSbbtFtbEE2z1uYNpw53", "fJ4QInh7F8iGDc1X8lVS", "7DFu4rITofN
 is_capped: true
 max_capacity: 150
 remaining_capacity: 150
-total_guest_count: 16
+total_guest_count: 20
 approved_guest_count: 0
 local_image: "images/veW9vq95oUaMplo0TG66.png"
+canceled: false
 ---
 
 # ElevenLabs NY Tech Week PopUp - Founder Edition
@@ -58,6 +59,7 @@ On June 3rd from 3-5pm ET, we're opening the space for founders exclusively.
 Browse and buy from our brand new merch collection - dropping for the first time, exclusively here - by talking to ElevenAgents . Your coffee order is also handled by an agent. On us.
 
 Beyond the shopping experience, the space is packed with hands-on demos: create an AI-generated song, hear your favorite book narrated in any language by an iconic voice, and more.
+
 
 
 

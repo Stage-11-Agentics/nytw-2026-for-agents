@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["nxsVd2wGBpV3FKP3SRhpBO045022", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 50
+total_guest_count: 51
 approved_guest_count: 0
 local_image: "images/3VrQkUHCqbrYTUVDjbx0.jpg"
+canceled: false
 ---
 
 # Using AI at the best restaurants in NYC
@@ -31,7 +32,7 @@ local_image: "images/3VrQkUHCqbrYTUVDjbx0.jpg"
 **Hosts:** Loyalist  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 7:00pm ET
 **Where:** SoHo
-**Going:** 50
+**Going:** 50 of 51
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/3VrQkUHCqbrYTUVDjbx0
 
@@ -46,6 +47,7 @@ local_image: "images/3VrQkUHCqbrYTUVDjbx0.jpg"
 Roundtable dinner discussing how the best restaurants in NYC use AI
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

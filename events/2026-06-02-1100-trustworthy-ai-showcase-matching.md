@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["6DwgtsM8cN9RzkMho2sP", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 2453
+total_guest_count: 2454
 approved_guest_count: 0
 local_image: "images/VnOuRBBJZWS1LZQMuUF1.jpg"
+canceled: false
 ---
 
 # Trustworthy AI Showcase & Matching
@@ -33,7 +34,7 @@ local_image: "images/VnOuRBBJZWS1LZQMuUF1.jpg"
 **Hosts:** Product Advisory Collective (PAC)  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 11:00am–12:30pm ET
 **Where:** Virtual (NYC)
-**Going:** 2453
+**Going:** 2453 of 2454
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/VnOuRBBJZWS1LZQMuUF1
 
@@ -89,6 +90,7 @@ Benefits for builders selected to ‘Show and Tell’ their AI solutions:
 ---
 
 This event is a part of #NYTechWeek — a week of events bringing the tech ecosystem together. Learn more at www.tech-week.com.
+
 
 
 

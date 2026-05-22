@@ -29,6 +29,7 @@ remaining_capacity: 60
 total_guest_count: 81
 approved_guest_count: 40
 local_image: "images/KOpqOgcYvaValKqg0547.png"
+canceled: false
 ---
 
 # Gender HealthTech: The Next Investment Frontier (Pre-Seed/Seed Founders & Active Angels/VCs)
@@ -63,6 +64,7 @@ Our afternoon together will look like this:
 RSVP now to redefine healthcare for all. Hosted by Trans Health HQ, Visible Hands, and La Familia. Space is intentionally limited.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

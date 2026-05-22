@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["9K2ip5KfG1VOTKg73Vjq", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 129
+total_guest_count: 130
 approved_guest_count: 0
 local_image: "images/jb36hgCBsjw6Ej7QA1vM.png"
+canceled: false
 ---
 
 # Healthtech Social by Scalpels & Spreadsheets
@@ -36,7 +37,7 @@ local_image: "images/jb36hgCBsjw6Ej7QA1vM.png"
 **Hosts:** Scalpels & Spreadsheets, KLI Capital
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
 **Where:** 307 West 38th Street · 307 W 38th St, New York, NY 10018 · Midtown
-**Going:** 129
+**Going:** 129 of 130
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/jb36hgCBsjw6Ej7QA1vM
 **Map:** https://www.google.com/maps/search/?api=1&query=307%20W%2038th%20St%2C%20New%20York%2C%20NY%2010018
@@ -65,6 +66,7 @@ Panel: 7.00PM - 7.45PM
 Networking: 7.45 - 9.00PM 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

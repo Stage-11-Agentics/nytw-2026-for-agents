@@ -21,6 +21,7 @@ is_capped: false
 total_guest_count: 31
 approved_guest_count: 0
 local_image: "images/rcs7MwVhZaSmpWJfQPkI.gif"
+canceled: false
 ---
 
 # Bounty Launch Event
@@ -45,6 +46,7 @@ local_image: "images/rcs7MwVhZaSmpWJfQPkI.gif"
 The hunt is on for the solutions to your biggest problems! Bring a bounty and find someone to complete it!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -22,10 +22,11 @@ owner_count: 4
 owner_ids: ["sRnTGTCq45bmlfFEmzWZ", "X9rLUbJGZiT9YYl3MFBe5SDZN7g1", "xfY41i4wTG3oTTgeHnDY", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 120
-remaining_capacity: 44
-total_guest_count: 91
-approved_guest_count: 76
+remaining_capacity: 42
+total_guest_count: 94
+approved_guest_count: 78
 local_image: "images/obCSrtSObg9mVne5kl4D.png"
+canceled: false
 ---
 
 # Swiss Innovation @ NY Tech Week 2026
@@ -35,7 +36,7 @@ local_image: "images/obCSrtSObg9mVne5kl4D.png"
 **Hosts:** Swissnex  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–9:00pm ET
 **Where:** East Village
-**Capacity:** capped at 120 · 76 taken, 44 remaining
+**Capacity:** capped at 120 · 78 taken, 42 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/obCSrtSObg9mVne5kl4D
 
@@ -62,6 +63,7 @@ The cohort includes ETH spin-offs UNOMR and TALPA-Inspection, alongside eFrontie
 9:00pm — End
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

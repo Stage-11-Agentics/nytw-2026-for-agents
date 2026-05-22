@@ -24,9 +24,10 @@ owner_ids: ["J1e3OvJPR1OuWOqXVX7CBF2TzDi2", "MqaNiixUMdYC6A6tnMvyESrXAP23", "7DF
 is_capped: true
 max_capacity: 200
 remaining_capacity: 42
-total_guest_count: 169
+total_guest_count: 171
 approved_guest_count: 158
 local_image: "images/CKm2RMoLRlu5EwbQTzLQ.png"
+canceled: false
 ---
 
 # The Age of Influence in B2B Marketing
@@ -70,6 +71,7 @@ This panel of enterprise B2B brand experts will explore how "Clarity through Inf
 With marketing budgets reaching five-year lows and "shrinkflation" putting pressure on decision-makers to deliver more for less, the ability to build trust and authority as a B2B tech brand is paramount. This discussion will provide actionable insights into how to bridge the gap between high-level awareness and product-driven conversion by utilizing a mix of digital marketing, communications, and web content expertise.
 
 This event is a part of #NYTechWeek - a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

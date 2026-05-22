@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["qYdDZWrASlZfTUwyM0iL4mEFvo92", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 1122
+total_guest_count: 1126
 approved_guest_count: 160
 local_image: "images/7DYGSiY1WUuRSvEnD5gp.png"
+canceled: false
 ---
 
 # Future of DevEx
@@ -34,7 +35,7 @@ local_image: "images/7DYGSiY1WUuRSvEnD5gp.png"
 **Hosts:** Deskree, tavily, PostHog, Convex
 **When:** Tuesday, June 2, 2026 · 6:00pm ET
 **Where:** SoHo · SoHo, Manhattan, New York, NY · SoHo
-**Going:** 1122
+**Going:** 1122 of 1126
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/7DYGSiY1WUuRSvEnD5gp
 **Map:** https://www.google.com/maps/search/?api=1&query=SoHo%2C%20SoHo%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -66,6 +67,7 @@ Who's this for?
 Engineers, technical leads, and technical founders who care about how software gets built and where it's headed.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

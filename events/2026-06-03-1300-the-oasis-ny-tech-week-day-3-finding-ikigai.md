@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 499
 approved_guest_count: 86
 local_image: "images/ucMfyy0lloL2hIWrteQ4.png"
+canceled: false
 ---
 
 # The Oasis @ NY Tech Week Day 3 - Finding Ikigai
@@ -61,6 +62,7 @@ The series blends daily ‘co-flow’ drop-in sessions with curated collaborativ
 This third day is focused on this journey of finding purpose and meaning using the concept of Ikigai.
 
 This event is a part of #NY TechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

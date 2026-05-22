@@ -24,9 +24,10 @@ owner_ids: ["LD0fYQTBqMaRostwKUX7AuOi3tN2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 10
 remaining_capacity: 0
-total_guest_count: 25
+total_guest_count: 27
 approved_guest_count: 0
 local_image: "images/znsAwRLUqbzimqhrQOlI.png"
+canceled: false
 ---
 
 # The Biotech & Deep Tech Pitch Clinic
@@ -70,6 +71,7 @@ This workshop is held on the first morning of Tech Week to give you a competitiv
 With only 10 spots available, this clinic is designed for deep-dive coaching and immediate results. Secure your seat via the RSVP button below.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

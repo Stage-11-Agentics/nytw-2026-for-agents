@@ -25,10 +25,11 @@ owner_count: 3
 owner_ids: ["1FZYldKjLENQfmBmNUK7WwFcUwr2", "7DFu4rITofNzKIjA7hCx", "i7RyQS1J2sSryXjlTr9YIgE6PbA3"]
 is_capped: true
 max_capacity: 300
-remaining_capacity: 172
-total_guest_count: 718
-approved_guest_count: 128
+remaining_capacity: 167
+total_guest_count: 753
+approved_guest_count: 133
 local_image: "images/xf4L0OHJO6UHVVu3GKNN.png"
+canceled: false
 ---
 
 # Ramp x 8VC — Founders & Builders Night
@@ -38,7 +39,7 @@ local_image: "images/xf4L0OHJO6UHVVu3GKNN.png"
 **Hosts:** Ramp, 8VC  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
 **Where:** Flatiron · Flatiron, Manhattan, New York, NY · Flatiron
-**Capacity:** capped at 300 · 128 taken, 172 remaining
+**Capacity:** capped at 300 · 133 taken, 167 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/xf4L0OHJO6UHVVu3GKNN
 **Map:** https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -70,6 +71,7 @@ Eugen Alpeza, Co-Founder & CEO at Edra — spent seven years at Palantir leading
 Akash Raju, Co-Founder & CEO at Glimpse — former software engineer at Tesla and Microsoft; co-founded Glimpse (YC, Forbes 30 Under 30) to build AI tools for CPG and retail.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

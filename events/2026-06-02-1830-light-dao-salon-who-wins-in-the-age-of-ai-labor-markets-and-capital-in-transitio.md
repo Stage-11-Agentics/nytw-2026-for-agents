@@ -26,9 +26,10 @@ owner_ids: ["PjSWnZNuyYZQQj17n3R5isbEq6Z2", "7DFu4rITofNzKIjA7hCx", "sbptVKzknqd
 is_capped: true
 max_capacity: 50
 remaining_capacity: 29
-total_guest_count: 45
+total_guest_count: 46
 approved_guest_count: 21
 local_image: "images/e2hNOd2jIzhnHQujwMqu.png"
+canceled: false
 ---
 
 # Light Dao Salon: Who Wins in the Age of AI? Labor Markets and Capital in Transition (NYC)
@@ -119,6 +120,7 @@ We’re especially excited to welcome founders, investors, technologists, and mi
 ​JOIN US: Light Dao is a fast-growing trusted global community of over 7000 conscious investors and entrepreneurs with curated in-person and online gatherings and experiences, having hosted in 16 cities across North and South America, Middle East, Europe, Asia, and Australia. Our heartfelt mission is to bring abundance for all by expanding the collective consciousness, enlightening society, and empowering values-aligned relationships. Together, we co-create a thriving regenerative future for humanity. We are excited to welcome you to our global community! http://wearelight.one/
 
 This event is a part of #NYTechWeek - a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

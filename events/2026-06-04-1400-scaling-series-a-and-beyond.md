@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["mNwbiS40q4H2zK05Ct4Z", "7DFu4rITofNzKIjA7hCx", "lkHXThR6tzTYq8BmJcxx", "jQgKQhsjUQubVUMopNZU"]
 is_capped: false
-total_guest_count: 117
-approved_guest_count: 99
+total_guest_count: 120
+approved_guest_count: 101
 local_image: "images/XkxlWL0tKACGxHUf194f.gif"
+canceled: false
 ---
 
 # Scaling Series A and Beyond
@@ -33,7 +34,7 @@ local_image: "images/XkxlWL0tKACGxHUf194f.gif"
 **Hosts:** Carta, Ellis, Ramp  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 2:00pm–4:00pm ET
 **Where:** Union Square
-**Going:** 116 of 117
+**Going:** 116 of 120
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/XkxlWL0tKACGxHUf194f
 
@@ -56,6 +57,7 @@ Candid stories, useful frameworks, and meaningful connections with peers buildin
 ---
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

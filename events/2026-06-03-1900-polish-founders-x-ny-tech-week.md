@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["faLrvxo5COfycpizEkJg86LdMD62", "7DFu4rITofNzKIjA7hCx", "enKgZ5WxzPMzFGKv8bUr7HW8xbv1", "RLgLIWenudVRvW3cxTP1llJ00Ga2", "5NAGlH065zMY7N7jKx67WKwomU53"]
 is_capped: false
-total_guest_count: 34
+total_guest_count: 35
 approved_guest_count: 0
 local_image: "images/QUelm7A3acGhKQ6AIdWm.jpg"
+canceled: false
 ---
 
 # Polish founders x NY tech week
@@ -31,7 +32,7 @@ local_image: "images/QUelm7A3acGhKQ6AIdWm.jpg"
 **Hosts:** PL Founders Club  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 7:00pm ET
 **Where:** SoHo
-**Going:** 34
+**Going:** 34 of 35
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/QUelm7A3acGhKQ6AIdWm
 
@@ -50,6 +51,7 @@ www.PoloniaCircle.com_
 PL founders is partnering with NY tech week to host an evening of networking with some of the top entrepreneurs, builders and operators from Poland or connected with Poland.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

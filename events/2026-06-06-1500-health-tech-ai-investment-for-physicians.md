@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["NZSZuSOeoOfaxEkygZ0A8jfCW8B3", "Eepe386pPWa3PkjCt603mOzXSxy2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 10
+total_guest_count: 11
 approved_guest_count: 10
 local_image: "images/3qoCh02LCVOwm3OQFVQy.jpg"
+canceled: false
 ---
 
 # Health Tech AI Investment for Physicians
@@ -31,7 +32,7 @@ local_image: "images/3qoCh02LCVOwm3OQFVQy.jpg"
 **Hosts:** investDoc  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 3:00pm ET
 **Where:** Chelsea
-**Going:** 10
+**Going:** 10 of 11
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/3qoCh02LCVOwm3OQFVQy
 
@@ -70,6 +71,7 @@ Discussion topics include:
 Curated audience of physicians, accredited investors, and healthcare leaders.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

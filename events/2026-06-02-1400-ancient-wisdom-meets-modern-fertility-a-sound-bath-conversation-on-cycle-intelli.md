@@ -25,10 +25,11 @@ owner_count: 4
 owner_ids: ["n5sRdVM8UlYBHh8uyR7bAdTMM163", "7DFu4rITofNzKIjA7hCx", "0thOexvF2aRDBnRROiSQRAohw8a2", "hFvqMHKOZLbucoaawqW37Wz4d7D2"]
 is_capped: true
 max_capacity: 15
-remaining_capacity: 6
-total_guest_count: 71
-approved_guest_count: 9
+remaining_capacity: 5
+total_guest_count: 74
+approved_guest_count: 10
 local_image: "images/JPEEcl2tkCTbrJdLhM0K.png"
+canceled: false
 ---
 
 # Ancient Wisdom Meets Modern Fertility: A Sound Bath + Conversation on Cycle Intelligence
@@ -38,7 +39,7 @@ local_image: "images/JPEEcl2tkCTbrJdLhM0K.png"
 **Hosts:** Lotus Fertility, The Rewilding Collective  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 2:00pm–3:30pm ET
 **Where:** NoMad · NoMad, Manhattan, New York, NY · Nomad
-**Capacity:** capped at 15 · 9 taken, 6 remaining
+**Capacity:** capped at 15 · 10 taken, 5 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/JPEEcl2tkCTbrJdLhM0K
 **Map:** https://www.google.com/maps/search/?api=1&query=NoMad%2C%20NoMad%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -92,6 +93,7 @@ The Rewilding Collective designs experiential gatherings that help people reconn
 \\\\\
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

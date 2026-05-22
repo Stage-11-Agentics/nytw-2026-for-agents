@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["agrSfTlpLpMihkyhbLSP", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 1298
+total_guest_count: 1319
 approved_guest_count: 159
 local_image: "images/eYDn9NAmOiORakqV58Yp.jpg"
+canceled: false
 ---
 
 # Building to Disrupt: AI in Enterprise and Fintech
@@ -36,7 +37,7 @@ local_image: "images/eYDn9NAmOiORakqV58Yp.jpg"
 **Hosts:** HSBC, a16z
 **When:** Tuesday, June 2, 2026 · 4:00pm–6:00pm ET
 **Where:** The Spiral · 66 Hudson Boulevard, New York, NY 10001 · Hudson Yards
-**Going:** 1292 of 1298
+**Going:** 1292 of 1319
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/eYDn9NAmOiORakqV58Yp
 **Map:** https://www.google.com/maps/search/?api=1&query=66%20Hudson%20Boulevard%2C%20New%20York%2C%20NY%2010001
@@ -60,6 +61,7 @@ Vladimir Keil, CEO, Lio
 Ari Malik, CEO, Salient
 Adam Millsom, Managing Director, HSBC
 Andrew Oddo, Managing Director, HSBC
+
 
 
 

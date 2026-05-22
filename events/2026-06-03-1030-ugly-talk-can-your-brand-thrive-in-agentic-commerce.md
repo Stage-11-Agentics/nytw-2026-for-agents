@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["ewVvfwCDEifyj4ykvdRVNB42zr42", "7DFu4rITofNzKIjA7hCx", "BkRb8WXVjRTB0FK8gItaihwSjFC3", "sdxB9R8ZrPo5hg4kYimK"]
 is_capped: false
-total_guest_count: 63
+total_guest_count: 67
 approved_guest_count: 61
 local_image: "images/G1Rqksr7pQb3T5sGRCPp.jpg"
+canceled: false
 ---
 
 # Ugly Talk: Can Your Brand Thrive in Agentic Commerce?
@@ -34,7 +35,7 @@ local_image: "images/G1Rqksr7pQb3T5sGRCPp.jpg"
 **Hosts:** Ugly Talk  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 10:30am ET
 **Where:** 529 Fifth Avenue · 529 5th Ave, New York, NY 10017 · Midtown
-**Going:** 63
+**Going:** 63 of 67
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/G1Rqksr7pQb3T5sGRCPp
 **Map:** https://www.google.com/maps/search/?api=1&query=529%205th%20Ave%2C%20New%20York%2C%20NY%2010017
@@ -107,6 +108,7 @@ UpScaleX - A Palo Alto–based seed fund and founders’ community investing in 
 Adelphi University - Your place. Your people. Your future. Accepted students, secure your spot today.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

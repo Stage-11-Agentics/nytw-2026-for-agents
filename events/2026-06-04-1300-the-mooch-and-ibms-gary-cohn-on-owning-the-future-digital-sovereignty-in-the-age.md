@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["ngH3uDjK0vMWaNZcIZo9", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 113
-approved_guest_count: 91
+total_guest_count: 118
+approved_guest_count: 96
 local_image: "images/tUV88fW7J763Q0ZLdTBI.png"
+canceled: false
 ---
 
 # The Mooch and IBM’s Gary Cohn on Owning the Future: Digital Sovereignty in the Age of AI
@@ -36,7 +37,7 @@ local_image: "images/tUV88fW7J763Q0ZLdTBI.png"
 **Hosts:** IBM  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 1:00pm–1:45pm ET
 **Where:** IBM One Madison Avenue · 1 Madison Ave, FL 2, New York, NY 10010 · Flatiron
-**Going:** 113
+**Going:** 113 of 118
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/tUV88fW7J763Q0ZLdTBI
 **Map:** https://www.google.com/maps/search/?api=1&query=1%20Madison%20Ave%2C%20FL%202%2C%20New%20York%2C%20NY%2010010
@@ -56,6 +57,7 @@ This event is on a first come, first served basis. Please arrive early to claim 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 IBM may take group photos or perform live streaming during the event for promotional purposes.
+
 
 
 

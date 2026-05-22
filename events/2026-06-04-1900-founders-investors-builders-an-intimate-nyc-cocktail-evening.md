@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["tDXZ4KlDGubYjfheukE20sw4oIm2", "BiHhzpfmFifFUDaQtPEJSiCJm8g1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 51
+total_guest_count: 56
 approved_guest_count: 27
 local_image: "images/PhqnW15PCQAdoENB6aNl.png"
+canceled: false
 ---
 
 # Founders, Investors & Builders — An Intimate NYC Cocktail Evening
@@ -35,7 +36,7 @@ local_image: "images/PhqnW15PCQAdoENB6aNl.png"
 **Hosts:** DDC Enterprise, Alphataraxia  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 7:00pm–9:30pm ET
 **Where:** 15 Union Square W, New York, NY 10003 · Union Square
-**Going:** 51
+**Going:** 51 of 56
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/PhqnW15PCQAdoENB6aNl
 **Map:** https://www.google.com/maps/search/?api=1&query=15%20Union%20Square%20W%2C%20New%20York%2C%20NY%2010003
@@ -65,6 +66,7 @@ Just exceptional people in a beautiful New York setting.
 This is a curated gathering with limited capacity, so attendance is subject to approval.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

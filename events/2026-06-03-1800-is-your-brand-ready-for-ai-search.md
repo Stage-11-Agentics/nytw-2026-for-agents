@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["a7Iw6iWy8MBP2SvmexlM", "HnsN2bduaIWpbjZ8q7lYc0Jn9dm2", "7DFu4rITofNzKIjA7hCx", "j9g6MCtEK7TBLthP3WqzDQL1W7w2", "3tAFLXo7YvMKv6JTaxs8Rs0Jj8k1"]
 is_capped: false
-total_guest_count: 385
+total_guest_count: 389
 approved_guest_count: 180
 local_image: "images/v9ySMNeHZ3lYMWjhvqCO.png"
+canceled: false
 ---
 
 # Is Your Brand Ready for AI Search?
@@ -33,7 +34,7 @@ local_image: "images/v9ySMNeHZ3lYMWjhvqCO.png"
 **Hosts:** Capgemini, Rediem, French American Chamber of Commerce - NYC, Iced Media  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–8:15pm ET
 **Where:** Union Square
-**Going:** 385
+**Going:** 385 of 389
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/v9ySMNeHZ3lYMWjhvqCO
 
@@ -75,6 +76,7 @@ FACC-NY
 The French-American Chamber of Commerce aims to be the premier resource for French-American business communities, driving growth, knowledge, and leadership through networking, education, mentorship, exchange programs, and philanthropic initiatives.
  
 We support the growth and success of French businesses in the United States by hosting exceptional events, fostering professional development, and promoting collaboration and understanding in French-American commercial relations.
+
 
 
 

@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 92
 approved_guest_count: 87
 local_image: "images/irecvleCIgFuqft0aeUn.png"
+canceled: false
 ---
 
 # UGLY TALK: What Healthtech Founders Break on the Way to Revenue
@@ -110,6 +111,7 @@ Panel: 1.00PM - 2.00PM
 Networking: 2.00 - 3.00PM 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

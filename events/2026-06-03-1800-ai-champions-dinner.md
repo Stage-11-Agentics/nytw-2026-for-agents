@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["Dpz7S6tTHV9IoXfMrW3U", "7DFu4rITofNzKIjA7hCx", "c2fbldtLmhxmmCgZvHIV"]
 is_capped: false
-total_guest_count: 125
+total_guest_count: 126
 approved_guest_count: 11
 local_image: "images/brAVEjl6bRCgfMNLQ7X4.png"
+canceled: false
 ---
 
 # AI Champions Dinner
@@ -36,7 +37,7 @@ local_image: "images/brAVEjl6bRCgfMNLQ7X4.png"
 **Hosts:** Unicorner, Bolt.new  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–8:00pm ET
 **Where:** Public Hotel · 215 Chrystie St, New York, NY 10002 · Chelsea
-**Going:** 125
+**Going:** 125 of 126
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/brAVEjl6bRCgfMNLQ7X4
 **Map:** https://www.google.com/maps/search/?api=1&query=215%20Chrystie%20St%2C%20New%20York%2C%20NY%2010002
@@ -83,6 +84,7 @@ The Afterparty (ft. Ian Asher): https://partiful.com/e/ScshPTV3NbGkHPRQ5Ith
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 By registering for this event, you consent to receive post-event communications from the hosts. You may unsubscribe at any time.
+
 
 
 

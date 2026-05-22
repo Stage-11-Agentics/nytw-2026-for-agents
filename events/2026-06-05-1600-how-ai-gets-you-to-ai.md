@@ -26,6 +26,7 @@ remaining_capacity: 20
 total_guest_count: 4
 approved_guest_count: 0
 local_image: "images/9YS9QE1XBY0mMpELVYSq.png"
+canceled: false
 ---
 
 # How AI Gets You to AI
@@ -55,6 +56,7 @@ This boardroom-style discussion explores how organizations are using AI to help 
 Designed as an interactive executive dialogue, the session emphasizes shared perspectives, real-world experiences, and the organizational shifts required to turn AI from a collection of tools into a continuously compounding enterprise cap
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

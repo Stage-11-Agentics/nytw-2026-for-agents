@@ -21,9 +21,10 @@ owner_ids: ["4op1levAmWhVxrKi8NU2Q424lQ12", "2bnRiN4CBFaGMIAvOMUlok1qVmw2", "7DF
 is_capped: true
 max_capacity: 150
 remaining_capacity: 149
-total_guest_count: 9
+total_guest_count: 12
 approved_guest_count: 1
 local_image: "images/MYjkIWX4pyKfwaKYp0PN.png"
+canceled: false
 ---
 
 # What’s Actually Working in EdTech Right Now
@@ -66,6 +67,7 @@ No fluff. No “future of education” talk.
 Just what’s actually working and what’s coming next.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

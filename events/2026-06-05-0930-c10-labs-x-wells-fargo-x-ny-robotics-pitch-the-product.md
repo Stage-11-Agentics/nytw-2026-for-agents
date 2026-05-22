@@ -24,9 +24,10 @@ owner_ids: ["kPwExLZNSY44rQaBl9tg", "crZhYuR1YuNGW91Hm9TpUyZyaAG2", "o2Nq2vsWEnV
 is_capped: true
 max_capacity: 100
 remaining_capacity: 0
-total_guest_count: 110
+total_guest_count: 112
 approved_guest_count: 0
 local_image: "images/EHqpUupSw2r4hWswjqZc.png"
+canceled: false
 ---
 
 # C10 Labs x Wells Fargo x NY Robotics — Pitch the Product –
@@ -77,6 +78,7 @@ Open application — submit your pitch to be considered. 3 slots reserved for C1
 Breakfast and coffee provided by Wells Fargo.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

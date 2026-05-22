@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["CIY44SZyFHTzaMPKg8MuPAuIeHU2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 196
+total_guest_count: 199
 approved_guest_count: 175
 local_image: "images/qmLdPVRWyMYt2UfIsKKD.png"
+canceled: false
 ---
 
 # Roast Nights by Genspark
@@ -31,7 +32,7 @@ local_image: "images/qmLdPVRWyMYt2UfIsKKD.png"
 **Hosts:** Genspark  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:00pm ET
 **Where:** SoHo
-**Going:** 195 of 196
+**Going:** 195 of 199
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/qmLdPVRWyMYt2UfIsKKD
 
@@ -48,6 +49,7 @@ Come watch four brave founders get roasted by AI, live on stage. Think you can h
 Genspark Claw's AI panel will roast ideas in real time while a host keeps the chaos moving. Every founder walks away with a shareable social card, Genspark credits, and one uncomfortable truth. Filmed for social. Dignity optional.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

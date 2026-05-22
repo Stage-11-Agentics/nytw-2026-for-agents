@@ -28,6 +28,7 @@ remaining_capacity: 13
 total_guest_count: 7
 approved_guest_count: 0
 local_image: "images/YtdgTRrlrEh5IlnIbIYz.png"
+canceled: false
 ---
 
 # Meet Me in the Middle #NYTECHWEEK
@@ -69,6 +70,7 @@ All skill levels welcome. Volley & Vibe has you covered on the court — just sh
 Hosted by Growing the Middle & Volley & Vibe
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["DwaExq3mkqUEyRJMZ9Nf2n63JWg1", "7DFu4rITofNzKIjA7hCx", "sAKXpZ5agkuam6sVL5xL", "vxuMDosg4QT5RFUhyggjrYi5mSF2", "ZCxMcQKTOzRqoOE5JTo5mlytIXO2"]
 is_capped: false
-total_guest_count: 270
+total_guest_count: 272
 approved_guest_count: 21
 local_image: "images/IUjmw9zV593m1Df36kKR.png"
+canceled: false
 ---
 
 # Ramp x Litquidity Padel Club
@@ -36,7 +37,7 @@ local_image: "images/IUjmw9zV593m1Df36kKR.png"
 **Hosts:** Ramp, Palm & Park, Litquidity  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
 **Where:** Padel Haus · 307 Kent Ave, Brooklyn, NY 11249 · Brooklyn
-**Going:** 270
+**Going:** 270 of 272
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/IUjmw9zV593m1Df36kKR
 **Map:** https://www.google.com/maps/search/?api=1&query=307%20Kent%20Ave%2C%20Brooklyn%2C%20NY%2011249
@@ -56,6 +57,7 @@ Founder @ Palm & Park_
 ​Litquidity and Ramp are joining forces to start an exclusive padel club - a series of Miami and New York based padel socials and tournaments for the industries best founders, operators, and investors.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -21,24 +21,25 @@ at_capacity: false
 going_guest_count: 109
 badges: []
 fetch_status: ok
-owner_count: 3
-owner_ids: ["b50V1RdDxGNpRGq0UzhjycGDBPL2", "7DFu4rITofNzKIjA7hCx", "5hnihCEZBXasDUptsjEj9MhRa023"]
+owner_count: 4
+owner_ids: ["b50V1RdDxGNpRGq0UzhjycGDBPL2", "7DFu4rITofNzKIjA7hCx", "5hnihCEZBXasDUptsjEj9MhRa023", "ZV9Scp3Nm7QTwgQ5fp9nSvPDlLO2"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 36
-total_guest_count: 110
-approved_guest_count: 64
+remaining_capacity: 37
+total_guest_count: 113
+approved_guest_count: 63
 local_image: "images/J5kt9cgXjjQeboadzazj.png"
+canceled: false
 ---
 
 # Robotics and LLM: LP–GP Roundtable (Amino Capital, Pillsbury)
 
 ![Robotics and LLM: LP–GP Roundtable (Amino Capital, Pillsbury)](images/J5kt9cgXjjQeboadzazj.png)
 
-**Hosts:** Amino Capital  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** Amino Capital  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:00pm–7:30pm ET
 **Where:** Pillsbury Winthrop Shaw Pittman · 31 W 52nd St, New York, NY 10019 · Midtown
-**Capacity:** capped at 100 · 64 taken, 36 remaining
+**Capacity:** capped at 100 · 63 taken, 37 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/J5kt9cgXjjQeboadzazj
 **Map:** https://www.google.com/maps/search/?api=1&query=31%20W%2052nd%20St%2C%20New%20York%2C%20NY%2010019
@@ -47,6 +48,7 @@ local_image: "images/J5kt9cgXjjQeboadzazj.png"
 
 - [Sue Xu](https://partiful.com/u/b50V1RdDxGNpRGq0UzhjycGDBPL2)
 - [Meredith Kintner](https://partiful.com/u/5hnihCEZBXasDUptsjEj9MhRa023)
+- [user `ZV9Scp3Nm7QTwgQ5fp9nSvPDlLO2`](https://partiful.com/u/ZV9Scp3Nm7QTwgQ5fp9nSvPDlLO2) _(name not resolved)_
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -118,6 +120,7 @@ Pillsbury is a leading international law firm advising innovative companies, inv
 
 
 ​This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

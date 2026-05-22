@@ -26,9 +26,10 @@ owner_ids: ["d8ACLTp1ENRxQVjKhvjKkmPfmMs1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 20
 remaining_capacity: 20
-total_guest_count: 85
+total_guest_count: 86
 approved_guest_count: 0
 local_image: "images/ZF6EDVaXkkhCIb0qwcSL.png"
+canceled: false
 ---
 
 # Female Founder and Funder Office Hours NY TechWeek Edition
@@ -58,6 +59,7 @@ This room has seen it all, and no question is too big or too small.
 Whether you’ve closed your round or kicked off your raise, this is a space to connect and support one another. We can't wait to meet you! Learn more about how to pitch to How Women Invest at howwomeninvest.com/pitch
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

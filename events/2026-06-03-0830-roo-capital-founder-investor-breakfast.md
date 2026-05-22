@@ -25,9 +25,10 @@ owner_ids: ["HuzX4DLidgeCu84jlFQEDjKYJYA3", "a3zyM3mgUCMirWL3kgaLzLczNWU2", "7DF
 is_capped: true
 max_capacity: 25
 remaining_capacity: -5
-total_guest_count: 248
+total_guest_count: 252
 approved_guest_count: 30
 local_image: "images/qnHFGeZHXU07GTrAf5ZO.png"
+canceled: false
 ---
 
 # Roo Capital: Founder + Investor Breakfast
@@ -56,6 +57,7 @@ local_image: "images/qnHFGeZHXU07GTrAf5ZO.png"
 Join Roo Capital on our rooftop in the Meatpacking District during NY Tech Week. We're bringing together founders and investors for great coffee and breakfast, thoughtful conversation, and new connections to kick off the day.                                                                                                                                                                                                                                                                                      Roo Capital is a venture capital firm based in NYC and Miami, providing Capital + Talent + Growth support to the early-stage tech founders we partner with.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

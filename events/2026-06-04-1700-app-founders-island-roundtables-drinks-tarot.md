@@ -22,10 +22,11 @@ owner_count: 4
 owner_ids: ["CL3PsxJeWBdYWCBwKZVz", "7DFu4rITofNzKIjA7hCx", "aid1NE7pw3WoDG21ly2uWB057A22", "PfLUS8hWh2gktglGT2v0KOpOXYA2"]
 is_capped: true
 max_capacity: 200
-remaining_capacity: 188
-total_guest_count: 82
-approved_guest_count: 12
+remaining_capacity: 184
+total_guest_count: 83
+approved_guest_count: 16
 local_image: "images/ZLbX6Dhvf2GxckCInpt1.png"
+canceled: false
 ---
 
 # 🏝App founders island: roundtables, drinks & tarot
@@ -35,7 +36,7 @@ local_image: "images/ZLbX6Dhvf2GxckCInpt1.png"
 **Hosts:** TRMNL4, Flyer One Ventures  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:00pm–7:30pm ET
 **Where:** SoHo
-**Capacity:** capped at 200 · 12 taken, 188 remaining
+**Capacity:** capped at 200 · 16 taken, 184 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ZLbX6Dhvf2GxckCInpt1
 
@@ -64,6 +65,7 @@ June 4 | 5:00–7:30 PM ET | NYC
 RSVP. See you on the island 🍹
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

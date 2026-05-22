@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 72
 approved_guest_count: 0
 local_image: "images/uikRyS2dekXcz1wNKKzy.png"
+canceled: false
 ---
 
 # Women VC Dinner
@@ -74,6 +75,7 @@ Founders get Raise Hub to manage their entire round in one place. Investors get 
 Plus a vetted member directory, warm intro system, and an investor match engine. Founding Member spots are capped. Once they're gone, they're gone.
 
 Apply at yorkseed.co
+
 
 
 

@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["HYtKPsUbTaR5pm6pediBfFQgDCj2", "7DFu4rITofNzKIjA7hCx", "spoH00tQRfhmhBmOJP05uFtemD92"]
 is_capped: false
-total_guest_count: 111
+total_guest_count: 115
 approved_guest_count: 0
 local_image: "images/w3EFGHHBj4EKAbmifC0I.png"
+canceled: false
 ---
 
 # Proof of Build -An agent building hackathon by Lyzr
@@ -34,7 +35,7 @@ local_image: "images/w3EFGHHBj4EKAbmifC0I.png"
 **Hosts:** Lyzr  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 2:00pm ET
 **Where:** New York, NY · New York, NY · SoHo
-**Going:** 111
+**Going:** 111 of 115
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/w3EFGHHBj4EKAbmifC0I
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -73,6 +74,7 @@ Format: Arrive 2 PM. Team up or fly solo. Build until 8 PM. Five-minute demos. Y
 Lyzr Events will confirm your spot within a few days of RSVP. Address shared with approved guests closer to the date.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

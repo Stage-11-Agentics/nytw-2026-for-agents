@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["N9QCOBHVFAalpmtpNWGWkKxI2cu1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 330
+total_guest_count: 337
 approved_guest_count: 0
 local_image: "images/DD5Ne8wjr1LBDSvYlQst.png"
+canceled: false
 ---
 
 # AI & HealthTech for Hospitals and Healthcare
@@ -34,7 +35,7 @@ local_image: "images/DD5Ne8wjr1LBDSvYlQst.png"
 **Hosts:** MedRock Ventures Inc., Orbiss Inc.
 **When:** Monday, June 1, 2026 · 4:30pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 328 of 330
+**Going:** 328 of 337
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/DD5Ne8wjr1LBDSvYlQst
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -66,6 +67,7 @@ Agenda
 [Invite only]
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -22,9 +22,15 @@ is_capped: false
 total_guest_count: 1
 approved_guest_count: 0
 local_image: "images/eBzPADEdUmk03eR8RNBu.jpg"
+canceled: true
+canceled_at: "2026-04-17T16:16:23.252Z"
+canceled_by: "gZvqazHSg3Oki5xUqgpDngrH1VD2"
 ---
 
 # Femhack NYTechweek 2026
+
+> ## ⚠ CANCELED  
+> _canceled 2026-04-17T16:16:23.252Z_
 
 ![Femhack NYTechweek 2026](images/eBzPADEdUmk03eR8RNBu.jpg)
 
@@ -46,6 +52,7 @@ local_image: "images/eBzPADEdUmk03eR8RNBu.jpg"
 Ready to team up, innovate, and create something incredible? FEMHACK [NYC] is an all-female hackathon where you can join women in tech to build prototypes, and compete for cash prizes.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

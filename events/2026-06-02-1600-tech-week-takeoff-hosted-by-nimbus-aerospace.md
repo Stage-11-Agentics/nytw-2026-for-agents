@@ -23,8 +23,9 @@ owner_count: 2
 owner_ids: ["dZcVXYW3lsPb4Kqi6BtAr2fKf7E2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
 total_guest_count: 246
-approved_guest_count: 96
+approved_guest_count: 98
 local_image: "images/MPI0obsZsnEvkyHZ81mm.png"
+canceled: false
 ---
 
 # Tech Week Takeoff: Hosted by Nimbus Aerospace
@@ -79,6 +80,7 @@ Follow us @NimbusAerospace
 Website: www.NimbusAerospace.com
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

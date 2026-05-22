@@ -22,6 +22,7 @@ is_capped: false
 total_guest_count: 18
 approved_guest_count: 0
 local_image: "images/tomdkKStTFKFSARo3Sin.svg"
+canceled: false
 ---
 
 # Navigating AI Adoption For Business Leaders
@@ -46,6 +47,7 @@ local_image: "images/tomdkKStTFKFSARo3Sin.svg"
 In this session, we’ll help business leaders understand the stages of AI adoption and recognize the pivotal moment for bringing in AI leadership. We’ll cover practical frameworks to assess when your organization is ready for an AI transformation leader and what strategic value that leadership brings—from crafting your AI Strategy to driving successful implementation.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs, startups and business leaders to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

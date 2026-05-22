@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["VQbjlJEwDHNUaRuM7RfijqMjt4p2", "uBdLczWSPEexRAga8wPrwJGmN1s2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 82
-approved_guest_count: 8
+total_guest_count: 83
+approved_guest_count: 5
 local_image: "images/T7fUPRr3KArqfToIuGRR.png"
+canceled: false
 ---
 
 # World Modeling Dinner: Strategy in the Age of AI
@@ -33,7 +34,7 @@ local_image: "images/T7fUPRr3KArqfToIuGRR.png"
 **Hosts:** Principle  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 6:30pm–9:30pm ET
 **Where:** SoHo
-**Going:** 82
+**Going:** 82 of 83
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/T7fUPRr3KArqfToIuGRR
 
@@ -59,6 +60,7 @@ Principle won the KPMG Enterprise Innovation Award at SXSW 2026.
 futureprinciple.com
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

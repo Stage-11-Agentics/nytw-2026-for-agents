@@ -16,22 +16,23 @@ at_capacity: false
 going_guest_count: 109
 badges: []
 fetch_status: ok
-owner_count: 5
-owner_ids: ["X8rvlqCuxvad6Xw1V4lG5WIjcf33", "A3V6VOhAVEWES5DBvwPtAx9tw7U2", "7DFu4rITofNzKIjA7hCx", "s1qMiMCyGjTaU8yseFSCtOKiB1c2", "3rF5VYTz6KYUjy1gPrLHySqCZvz1"]
+owner_count: 6
+owner_ids: ["X8rvlqCuxvad6Xw1V4lG5WIjcf33", "A3V6VOhAVEWES5DBvwPtAx9tw7U2", "7DFu4rITofNzKIjA7hCx", "s1qMiMCyGjTaU8yseFSCtOKiB1c2", "3rF5VYTz6KYUjy1gPrLHySqCZvz1", "4qdCNUOjOtZRAiA86GY1mQj0q372"]
 is_capped: false
-total_guest_count: 109
+total_guest_count: 111
 approved_guest_count: 82
 local_image: "images/6taIcgNN8nelcYyF4QXx.png"
+canceled: false
 ---
 
 # NY Tech Week Town Hall
 
 ![NY Tech Week Town Hall](images/6taIcgNN8nelcYyF4QXx.png)
 
-**Hosts:** BitBasel, Jelly Jelly  _(+3 more host(s) on Partiful — see description for full list)_
+**Hosts:** BitBasel, Jelly Jelly  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 4:00pm ET
 **Where:** SoHo
-**Going:** 109
+**Going:** 109 of 111
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/6taIcgNN8nelcYyF4QXx
 
@@ -41,6 +42,7 @@ local_image: "images/6taIcgNN8nelcYyF4QXx.png"
 - [iqram](https://partiful.com/u/A3V6VOhAVEWES5DBvwPtAx9tw7U2)
 - [Streamflow Finance](https://partiful.com/u/s1qMiMCyGjTaU8yseFSCtOKiB1c2)
 - [Malisha Stanojevic](https://partiful.com/u/3rF5VYTz6KYUjy1gPrLHySqCZvz1)
+- [user `4qdCNUOjOtZRAiA86GY1mQj0q372`](https://partiful.com/u/4qdCNUOjOtZRAiA86GY1mQj0q372) _(name not resolved)_
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -68,6 +70,7 @@ A week of independent events hosted by VCs and startups across New York City —
 
 Sponsorship opportunities
 https://preview--techweektownhall.lovable.app/
+
 
 
 

@@ -19,10 +19,11 @@ owner_count: 2
 owner_ids: ["sqJ6dzSysOfSa9OsGWf12iXfO8J3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 99
-remaining_capacity: 65
-total_guest_count: 45
+remaining_capacity: 62
+total_guest_count: 48
 approved_guest_count: 0
 local_image: "images/UFhy6AtOcwhsalPnpYsB.png"
+canceled: false
 ---
 
 # Personalized Career Journeys: Future of AI x Edu
@@ -32,7 +33,7 @@ local_image: "images/UFhy6AtOcwhsalPnpYsB.png"
 **Hosts:** Rita Group  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
 **Where:** SoHo
-**Capacity:** capped at 99 · 34 taken, 65 remaining
+**Capacity:** capped at 99 · 37 taken, 62 remaining
 **RSVP:** https://partiful.com/e/UFhy6AtOcwhsalPnpYsB
 
 ### Hosts on Partiful
@@ -70,6 +71,7 @@ Our goal is for this event to not be just another tech event panel and mixer. In
 Hosted by our team at Rita Co., a community-based ecosystem built for the next generation of hustlers redefining what’s possible in tech. Learn more and follow us at https://rita.company/
 
 This event is a part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at https://www.tech-week.com.
+
 
 
 

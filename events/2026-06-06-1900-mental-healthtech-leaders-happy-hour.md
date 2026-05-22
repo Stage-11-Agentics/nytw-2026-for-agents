@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["6yfIXiOCw8cwwV14fu2OBNSx6SC3", "7DFu4rITofNzKIjA7hCx", "9rJ8ONsdI6hq5x9twFv8P1bRLJV2"]
 is_capped: false
-total_guest_count: 137
-approved_guest_count: 97
+total_guest_count: 138
+approved_guest_count: 102
 local_image: "images/5k4J5XGe2u8UQWTO4duo.png"
+canceled: false
 ---
 
 # Mental HealthTech Leaders Happy Hour
@@ -34,7 +35,7 @@ local_image: "images/5k4J5XGe2u8UQWTO4duo.png"
 **Hosts:** Mental Health Tech AI  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 7:00pm ET
 **Where:** La Caverna · 122-124 Rivington St, Manhattan, NY 10002 · Lower East Side
-**Going:** 136 of 137
+**Going:** 136 of 138
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/5k4J5XGe2u8UQWTO4duo
 **Map:** https://www.google.com/maps/search/?api=1&query=122-124%20Rivington%20St%2C%20Manhattan%2C%20NY%2010002
@@ -76,6 +77,7 @@ Questions or More Information about the event?
 For any inquiries, please contact us at mike@yonkers-health.com
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

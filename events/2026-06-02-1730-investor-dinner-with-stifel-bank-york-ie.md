@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["pTROiXmMC9aQo7AHw5y1", "7DFu4rITofNzKIjA7hCx", "LN35SuQiUWO1xCGkTSZhWILuhnN2", "5sOaAC1wXqXYA9IEvBw2nSq9TIs1"]
 is_capped: false
-total_guest_count: 30
+total_guest_count: 36
 approved_guest_count: 6
 local_image: "images/tZhaSlXaHE3UvbpBvXAZ.png"
+canceled: false
 ---
 
 # Investor Dinner with Stifel Bank & York IE
@@ -34,7 +35,7 @@ local_image: "images/tZhaSlXaHE3UvbpBvXAZ.png"
 **Hosts:** York IE, Stifel Bank  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:30pm ET
 **Where:** Bill’s Supper Club · 57 E 54th St, New York, NY 10022 · Midtown
-**Going:** 30
+**Going:** 30 of 36
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/tZhaSlXaHE3UvbpBvXAZ
 **Map:** https://www.google.com/maps/search/?api=1&query=57%20E%2054th%20St%2C%20New%20York%2C%20NY%2010022
@@ -58,6 +59,7 @@ The evening will feature a private dinner and peer-level networking designed to 
 –
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

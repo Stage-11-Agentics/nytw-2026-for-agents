@@ -22,9 +22,10 @@ owner_ids: ["N8fXpTSQakSjSbmryWBqDES8V4z2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
 remaining_capacity: 0
-total_guest_count: 107
+total_guest_count: 111
 approved_guest_count: 0
 local_image: "images/z51AEVSzo2Ddp3np4WjW.png"
+canceled: false
 ---
 
 # In the Name of Taste
@@ -60,6 +61,7 @@ Hosted by Slingshot AI
 🥂 Drinks and bites provided
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

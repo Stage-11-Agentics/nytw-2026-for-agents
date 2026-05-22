@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["9K2ip5KfG1VOTKg73Vjq", "7DFu4rITofNzKIjA7hCx", "1DFNn8n9nzYGp7kLXIUFaZdMqFE3", "at4T7XifCOME3aPkNqRWB0zoT6u2"]
 is_capped: false
-total_guest_count: 116
-approved_guest_count: 104
+total_guest_count: 120
+approved_guest_count: 120
 local_image: "images/aFk8297jBypjQ3ycXiHB.png"
+canceled: false
 ---
 
 # She Speaks Health
@@ -36,7 +37,7 @@ local_image: "images/aFk8297jBypjQ3ycXiHB.png"
 **Hosts:** Scalpels & Spreadsheets, FemBuild  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 9:30am–12:00pm ET
 **Where:** 307 West 38th Street · 307 W 38th St, New York, NY 10018 · Midtown
-**Going:** 116
+**Going:** 116 of 120
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/aFk8297jBypjQ3ycXiHB
 **Map:** https://www.google.com/maps/search/?api=1&query=307%20W%2038th%20St%2C%20New%20York%2C%20NY%2010018
@@ -66,6 +67,7 @@ Networking:  9.30 - 10.30AM
 [Panel] Venture building as a technical and non-technical founder
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

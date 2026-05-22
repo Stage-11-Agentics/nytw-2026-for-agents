@@ -22,8 +22,9 @@ owner_count: 6
 owner_ids: ["pujFpqAjGdVYNtBAFJrYupkFuYg1", "gjlHyjRU3FtOIaxNsFvR", "7DFu4rITofNzKIjA7hCx", "PwZCJA2g6TaBgOZ8OanZhTt64VM2", "amBsNhwiA5bNv28lhjql6yM2CEh1", "oXvym8wmevfIxIkWDUYekXvjN5D2"]
 is_capped: false
 total_guest_count: 382
-approved_guest_count: 121
+approved_guest_count: 134
 local_image: "images/YVAZ3wboDXALfslGk3vV.png"
+canceled: false
 ---
 
 # #NYTechWeek Women-Led Startups Pitch & Network
@@ -85,6 +86,7 @@ EchoHer is a non-profit led by founders and startup experts, focused on increasi
 
 Lair East Labs: www.laireastlabs.com
 Lair East Labs is a New York-based startup accelerator that empowers founders to scale their companies globally. With strong roots in both the U.S. and Asia, Lair East Labs supports entrepreneurs building transformative solutions through capital, mentorship, and strategic cross-border networks.
+
 
 
 

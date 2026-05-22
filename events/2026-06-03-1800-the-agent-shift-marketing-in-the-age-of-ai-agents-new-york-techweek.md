@@ -22,6 +22,7 @@ is_capped: false
 total_guest_count: 34
 approved_guest_count: 0
 local_image: "images/h3P090OpWDSzMtTLzA1M.jpg"
+canceled: false
 ---
 
 # The Agent Shift: Marketing in the age of AI agents #New York TechWeek
@@ -46,6 +47,7 @@ local_image: "images/h3P090OpWDSzMtTLzA1M.jpg"
 For decades, marketing meant persuading humans. Today, AI agents discover, evaluate, and purchase on behalf of people — and most brands aren't built for that. The Agent Shift is a curated evening fireside asking: who do you market to when the audience can't be nudged?
 
 This event is a part of New York TechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

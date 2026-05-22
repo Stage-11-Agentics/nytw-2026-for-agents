@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 7
 owner_ids: ["nOM2FbGNkQXz5IXpwnhd", "7DFu4rITofNzKIjA7hCx", "O6ziamjrTva202Jm47MWJm3bzH72", "lU0vYWPBigPbA7UxPLp81lSyHrR2", "pq2PfHgUF5gm2SNWhxMOWd10vvD3", "gMMTOVcMcIRKAF5vpLt48L4pMJF3", "S2MyDXxa7KbEMIzwZFsdAlN6CYu2"]
 is_capped: false
-total_guest_count: 1004
+total_guest_count: 1010
 approved_guest_count: 23
 local_image: "images/MQvS9RrcXl6HcAEzfzhg.jpg"
+canceled: false
 ---
 
 # The builder’s table: AI finance leaders lunch with Vayu, Base44 & PwC
@@ -34,7 +35,7 @@ local_image: "images/MQvS9RrcXl6HcAEzfzhg.jpg"
 **Hosts:** PwC, Vayu, Base44  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 2:30pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 1003 of 1004
+**Going:** 1003 of 1010
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/MQvS9RrcXl6HcAEzfzhg
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -68,6 +69,7 @@ Base44
 Base44 enables teams to build production-ready applications and AI-powered workflows from natural-language prompts, helping operators turn ideas into working tools without waiting on engineering.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

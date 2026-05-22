@@ -24,6 +24,7 @@ remaining_capacity: 40
 total_guest_count: 9
 approved_guest_count: 0
 local_image: "images/7ILtx8BRwV10Vo6CtHGb.png"
+canceled: false
 ---
 
 # NY Tech Week: ML & Engineering Connect SoHo Happy Hour
@@ -58,6 +59,7 @@ Jon Katzur, board member, former founder, and ex-Amazon; SVP of Engineering for 
 -Location TBA, in SoHo-
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

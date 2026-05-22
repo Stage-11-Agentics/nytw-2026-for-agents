@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["VQbjlJEwDHNUaRuM7RfijqMjt4p2", "uBdLczWSPEexRAga8wPrwJGmN1s2", "7DFu4rITofNzKIjA7hCx", "5j69ciu7zqfkOzO3Krsc5g8oBLz2"]
 is_capped: false
-total_guest_count: 307
+total_guest_count: 309
 approved_guest_count: 38
 local_image: "images/MapuUg1D3MB9pAp550DP.png"
+canceled: false
 ---
 
 # AI Market Foresight: Live Simulation Vol. 2
@@ -36,7 +37,7 @@ local_image: "images/MapuUg1D3MB9pAp550DP.png"
 **Hosts:** Principle  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 12:00pm–3:30pm ET
 **Where:** SoHo · SoHo, Manhattan, New York, NY · SoHo
-**Going:** 307
+**Going:** 307 of 309
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/MapuUg1D3MB9pAp550DP
 **Map:** https://www.google.com/maps/search/?api=1&query=SoHo%2C%20SoHo%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -69,6 +70,7 @@ Brought to you by Principle.
 futureprinciple.com
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

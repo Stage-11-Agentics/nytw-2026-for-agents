@@ -24,6 +24,7 @@ remaining_capacity: 20
 total_guest_count: 49
 approved_guest_count: 0
 local_image: "images/ATAgKaVGiLrGqmDwKm91.png"
+canceled: false
 ---
 
 # Off the Record: Legal Pitfalls for Early-Stage Tech Companies
@@ -49,6 +50,7 @@ local_image: "images/ATAgKaVGiLrGqmDwKm91.png"
 An invite-only discussion on the legal risks shaping early-stage tech companies, with a focus on practical strategies founders and VCs can use to navigate them effectively.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

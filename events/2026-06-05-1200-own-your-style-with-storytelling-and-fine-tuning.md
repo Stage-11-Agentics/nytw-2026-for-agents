@@ -21,10 +21,11 @@ owner_count: 2
 owner_ids: ["yqI8QeYD4GhKk1GZSWvc6fXGwyp1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 30
-remaining_capacity: 4
-total_guest_count: 33
+remaining_capacity: 2
+total_guest_count: 35
 approved_guest_count: 0
 local_image: "images/eJCB3HaeeRyEkyuMJ9Vj.gif"
+canceled: false
 ---
 
 # Own Your Style with Storytelling and Fine-tuning
@@ -34,7 +35,7 @@ local_image: "images/eJCB3HaeeRyEkyuMJ9Vj.gif"
 **Hosts:** Underscore Animation, NA
 **When:** Friday, June 5, 2026 · 12:00pm–1:00pm ET
 **Where:** Midtown
-**Capacity:** capped at 30 · 26 taken, 4 remaining
+**Capacity:** capped at 30 · 28 taken, 2 remaining
 **RSVP:** https://partiful.com/e/eJCB3HaeeRyEkyuMJ9Vj
 
 ### Hosts on Partiful
@@ -54,6 +55,7 @@ Join us to explore how storytelling sharpens your creative direction and fine-tu
 For designers, artists, and builders who want their AI work to look like theirs.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

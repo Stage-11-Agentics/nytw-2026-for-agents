@@ -25,6 +25,7 @@ is_capped: false
 total_guest_count: 34
 approved_guest_count: 32
 local_image: "images/S0qnVAP4oH8tNJYQeU8J.jpg"
+canceled: false
 ---
 
 # Seedling Spark Fund - High School Students
@@ -50,6 +51,7 @@ local_image: "images/S0qnVAP4oH8tNJYQeU8J.jpg"
 A gathering of aspiring high school entrepreneurs that want to come together under innovation and bring their ideas to life using AI tools. Will also have Wharton MBA students and an advising entrepreneur to provide guidance.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

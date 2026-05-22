@@ -22,10 +22,11 @@ owner_count: 2
 owner_ids: ["9yAiW6JV2jS269cqPme7Xc6NSF43", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 60
-remaining_capacity: 41
-total_guest_count: 29
-approved_guest_count: 19
+remaining_capacity: 33
+total_guest_count: 35
+approved_guest_count: 27
 local_image: "images/7xZ5QvSj15tyv8hkEQgh.png"
+canceled: false
 ---
 
 # Female Founders Bagels + Debrief
@@ -35,7 +36,7 @@ local_image: "images/7xZ5QvSj15tyv8hkEQgh.png"
 **Hosts:** Narrativ by AK  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Sunday, June 7, 2026 · 12:00pm–2:00pm ET
 **Where:** Flatiron
-**Capacity:** capped at 60 · 19 taken, 41 remaining
+**Capacity:** capped at 60 · 27 taken, 33 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/7xZ5QvSj15tyv8hkEQgh
 
@@ -69,6 +70,7 @@ This event is a part of #NYTechWeek—a week of events hosted by VCs and startup
 ​📸 Photography Notice
 
 ​We may take photos and video at our events to share across social media and other marketing materials. By attending, you're giving us permission to use those photos and videos in anything related to Narrativ by AK, Anna Kaplan's, or Movement & Mindset's promotion and outreach.
+
 
 
 

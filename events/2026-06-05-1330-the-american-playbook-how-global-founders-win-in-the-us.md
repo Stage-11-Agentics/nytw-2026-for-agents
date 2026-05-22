@@ -23,9 +23,10 @@ owner_ids: ["5HV8c1GklJx1YlEeJ4wY", "7DFu4rITofNzKIjA7hCx", "ZsqpgXUWJ6eTkC54cZn
 is_capped: true
 max_capacity: 250
 remaining_capacity: 225
-total_guest_count: 114
+total_guest_count: 116
 approved_guest_count: 25
 local_image: "images/6TEpduZJ2faxAuFUv5QV.png"
+canceled: false
 ---
 
 # The American Playbook: How Global Founders Win in the US
@@ -71,6 +72,7 @@ Hosted by BDev Ventures, Arc Ventures and Wells Fargo
 Space is limited. Grab your spot.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["pz9Ouh6LjdWwFpstMYOHmvj82iB2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 75
-approved_guest_count: 14
+total_guest_count: 77
+approved_guest_count: 19
 local_image: "images/7QcGEL1PzCCWwCLoJLET.png"
+canceled: false
 ---
 
 # The New Beauty Counter: A Curated NYC Tech Week Experience - #NYCTechWeek
@@ -33,7 +34,7 @@ local_image: "images/7QcGEL1PzCCWwCLoJLET.png"
 **Hosts:** Triple Eight Creative  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:00pm–8:00pm ET
 **Where:** SoHo
-**Going:** 75
+**Going:** 75 of 77
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/7QcGEL1PzCCWwCLoJLET
 
@@ -58,6 +59,7 @@ The evening includes the soft launch of Char — T8C's AI beauty consultant — 
 Test at check-in and receive their personalized beauty identity. The room becomes a community of identities, not a group of random attendees.
 
 This event is a part of #NYCTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

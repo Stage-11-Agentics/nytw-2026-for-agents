@@ -24,9 +24,10 @@ owner_ids: ["XMi2u69KttO2PXbYrqw4uac3Y1p2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 100
 remaining_capacity: 30
-total_guest_count: 76
+total_guest_count: 78
 approved_guest_count: 70
 local_image: "images/t2IAjZOPxfRkn0b62Ypj.png"
+canceled: false
 ---
 
 # The Autonomous Enterprise: How AI Will Redefine Company Operations, Leadership, and Talent.
@@ -50,6 +51,7 @@ local_image: "images/t2IAjZOPxfRkn0b62Ypj.png"
 ## Description
 
 Come join us for a discussion on how companies are being rebuilt in the age of AI. We’re at a moment where it’s no longer just about automation — it’s about rethinking the entire operating model. As AI agents begin to take on more execution, the real question becomes how everything is orchestrated across the business. I’ll be joined by a set of panelists who bring hands-on experience from leading AI transformation, building the infrastructure behind it, and working through the realities inside a P&L. We’ll explore what the “autonomous enterprise” actually looks like in practice, where it breaks down, and what it takes to make it work. If you’re thinking about how to move beyond experimentation and into real transformation, this should be a great conversation.
+
 
 
 

@@ -20,9 +20,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["4r1CIfaQQQPa4kMHUpZpu2Kyl2k2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 167
+total_guest_count: 170
 approved_guest_count: 0
 local_image: "images/0drPw9UHAL5xfy3TvITt.png"
+canceled: false
 ---
 
 # Friday Night Disco
@@ -32,7 +33,7 @@ local_image: "images/0drPw9UHAL5xfy3TvITt.png"
 **Hosts:** XLAI  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 7:00pm–12:00am ET
 **Where:** Upper East Side
-**Going:** 153 of 167
+**Going:** 153 of 170
 **RSVP:** https://partiful.com/e/0drPw9UHAL5xfy3TvITt
 
 ### Hosts on Partiful
@@ -74,6 +75,7 @@ Come through early. Stay too late.
 
 —
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 48
 approved_guest_count: 45
 local_image: "images/QFvAM5R9QxCHey1Ysiak.png"
+canceled: false
 ---
 
 # Hard Truths: Building a Scalable Consumer Hardware Business
@@ -73,6 +74,7 @@ This event is a part of #NYTechWeek—a week of events hosted by VCs and startup
 
 Make sure to also check out our B2B business building event!
 https://partiful.com/e/CgRQLUOAuO9YCoGNtc4G
+
 
 
 

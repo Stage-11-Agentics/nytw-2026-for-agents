@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["TVOTE7YkFqe6bknbVQizQp6B0pk2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 429
+total_guest_count: 441
 approved_guest_count: 0
 local_image: "images/Farh8WvzHqQZzPCekOTD.png"
+canceled: false
 ---
 
 # Fashion Tech: Loyalty in the AI Age
@@ -35,7 +36,7 @@ local_image: "images/Farh8WvzHqQZzPCekOTD.png"
 **Hosts:** Tote, Beni, Arête Studios
 **When:** Tuesday, June 2, 2026 · 6:00pm–8:00pm ET
 **Where:** 116 Suffolk St, New York, NY 10002 · Lower East Side
-**Going:** 428 of 429
+**Going:** 428 of 441
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Farh8WvzHqQZzPCekOTD
 **Map:** https://www.google.com/maps/search/?api=1&query=116%20Suffolk%20St%2C%20New%20York%2C%20NY%2010002
@@ -53,6 +54,7 @@ Join us for a discussion about how shopping & brand loyalty has changed during t
 Co-hosted by Arete Studios, Beni & Tote
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

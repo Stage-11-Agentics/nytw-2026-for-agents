@@ -25,6 +25,7 @@ is_capped: false
 total_guest_count: 127
 approved_guest_count: 1
 local_image: "images/vTr6qDDFC1zHFdKZbtgk.png"
+canceled: false
 ---
 
 # NeuroNYC Central Park Walk and Talk
@@ -51,6 +52,7 @@ As an alternative to typical NY Tech Week events, we ​will host a walk as a ch
 We’ll begin with a short, guided walk through Central Park, creating space for informal connection among attendees across neuroscience and tech. The event will conclude at a nearby coffee shop with open seating, where participants can continue conversations and build meaningful connections in a casual setting.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -26,9 +26,10 @@ owner_ids: ["4JX3iTRUiobIXNorbGW7jqIHDAt1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 6
 remaining_capacity: -1
-total_guest_count: 34
+total_guest_count: 35
 approved_guest_count: 7
 local_image: "images/S5uBXhgNgEtPrRpy6Cx7.png"
+canceled: false
 ---
 
 # It’s Not Capital - It’s Execution: Leadership Operating System Office Hours
@@ -57,6 +58,7 @@ Product is often not the issue, how your team operates is.
 Bring one real challenge you’re working through, and we’ll talk it through together to uncover where execution may be breaking down across alignment, ownership, or follow-through. You’ll leave with a clearer view of what’s getting in the way and where to focus next.
 
 This event is a part of #NY TechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

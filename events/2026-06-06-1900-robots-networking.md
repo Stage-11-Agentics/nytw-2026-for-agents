@@ -23,9 +23,10 @@ owner_ids: ["dikU2nlq4CQoucZDembK6Iw5uw23", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 80
 remaining_capacity: 0
-total_guest_count: 155
+total_guest_count: 156
 approved_guest_count: 0
 local_image: "images/87Zdcwg3oOfpvZvXDwcd.png"
+canceled: false
 ---
 
 # Robots & Networking
@@ -55,6 +56,7 @@ There will be drinks. Must be 21+.
 Hang out in a giant room and connect with others.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

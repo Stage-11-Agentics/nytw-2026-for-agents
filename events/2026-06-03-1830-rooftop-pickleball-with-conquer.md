@@ -29,6 +29,7 @@ remaining_capacity: 0
 total_guest_count: 163
 approved_guest_count: 0
 image_download_error: "HTTP Error 403: Forbidden"
+canceled: false
 ---
 
 # Rooftop Pickleball with Conquer
@@ -59,6 +60,7 @@ Join us for a casual pickleball networking event during NY Tech Week. No paddle,
 Hosted by Conquer, the leading app for pickleball in NYC, this event brings the tech community together on the court. Come solo or with friends. Games are short, the vibe is social, and we’ll help pair you up. If you’re looking for something different this Tech Week, this is it.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -26,9 +26,10 @@ owner_ids: ["E3pfYlpti9UyLUezScON07VedGm1", "s47b3coMBoWOReOLtyJ7UnkCg5R2", "7DF
 is_capped: true
 max_capacity: 240
 remaining_capacity: 8
-total_guest_count: 851
+total_guest_count: 864
 approved_guest_count: 232
 local_image: "images/jYCTZCrfy1mYhHbJm771.png"
+canceled: false
 ---
 
 # The AI Founder Playbook: Breakfast & Panel @ Microsoft —
@@ -61,6 +62,7 @@ This event is for early-stage founders, engineers considering the leap, investor
 Doors open at 8:30 AM with bagels and coffee, the panel runs 9:30–10:50, and we'll close with rooftop networking until noon.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

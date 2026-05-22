@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["9K2ip5KfG1VOTKg73Vjq", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 123
+total_guest_count: 125
 approved_guest_count: 0
 local_image: "images/Waeh7VPePdoGvYfP7nSs.png"
+canceled: false
 ---
 
 # Healthtech Founders Networking
@@ -36,7 +37,7 @@ local_image: "images/Waeh7VPePdoGvYfP7nSs.png"
 **Hosts:** Scalpels & Spreadsheets, KLI Capital
 **When:** Friday, June 5, 2026 · 12:30pm–2:30pm ET
 **Where:** 307 West 38th Street · 307 W 38th St, New York, NY 10018 · Midtown
-**Going:** 123
+**Going:** 123 of 125
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Waeh7VPePdoGvYfP7nSs
 **Map:** https://www.google.com/maps/search/?api=1&query=307%20W%2038th%20St%2C%20New%20York%2C%20NY%2010018
@@ -56,6 +57,7 @@ Doors Open: 12.30PM
 Networking:  12.30 - 2.30PM
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

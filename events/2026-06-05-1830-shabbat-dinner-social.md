@@ -26,9 +26,10 @@ owner_ids: ["o9ASq15jeU54U3KbjfAN", "7DFu4rITofNzKIjA7hCx", "9QH3i4cxUZVOzVitMbx
 is_capped: true
 max_capacity: 50
 remaining_capacity: 50
-total_guest_count: 127
+total_guest_count: 131
 approved_guest_count: 0
 local_image: "images/H2wb6JSBw1jxZUgdB927.png"
+canceled: false
 ---
 
 # Shabbat Dinner Social
@@ -56,6 +57,7 @@ local_image: "images/H2wb6JSBw1jxZUgdB927.png"
 An intimate, curated Shabbat dinner bringing together NYC's tech community. Enjoy a kosher-friendly meal, meaningful conversations, and valuable connections in a private, welcoming environment.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 24
 approved_guest_count: 21
 local_image: "images/lcmXSFhnXlltkqQjyLuW.png"
+canceled: false
 ---
 
 # NYC Tech Week- The New Era of Business Productivity Tools
@@ -52,6 +53,7 @@ The way businesses operate is being rebuilt from the ground up. From company ope
 Join us during Tech Week for a panel bringing together investors, founders, and operators to discuss how capital is driving the next generation of business productivity tools. We'll explore where the money is going, what's actually getting built, and why the smartest investors are betting on the way businesses run, not just the products they ship.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -26,9 +26,10 @@ owner_ids: ["DdYnaDDSsARGNw7guzng3tUTBDr1"]
 is_capped: true
 max_capacity: 45
 remaining_capacity: 3
-total_guest_count: 90
+total_guest_count: 94
 approved_guest_count: 42
 local_image: "images/yfxaKR8dFsaY4HPQixoL.png"
+canceled: false
 ---
 
 # AI Agents for Allocators and Asset Managers
@@ -57,6 +58,7 @@ We'll go behind the scenes of a modern diligence AI agent - how it's designed, w
 Expect practical frameworks, real use cases, and a live demo you can take back to your team - ideal for teams looking for low-risk, high-impact ways to bring AI into due diligence.
 
 This event is a part of NYC TechWeek - a week of events hosted by innovators to bring together the tech ecosystem.
+
 
 
 

@@ -25,9 +25,10 @@ owner_ids: ["F9JITQbuvUdeo0VdN817RkoHIDv2", "CjJI2iY5yRPowOiQj6WrCBCtyqV2", "7DF
 is_capped: true
 max_capacity: 100
 remaining_capacity: 37
-total_guest_count: 136
+total_guest_count: 140
 approved_guest_count: 63
 local_image: "images/OfGCygDIYyGdcDxkFikr.png"
+canceled: false
 ---
 
 # NEXUS: A Night for Creatives in AI
@@ -83,6 +84,7 @@ Artist Lineup:
 · Audrey Chou presenting Laser Installation (instagram.com/_audreychou.studio_)
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

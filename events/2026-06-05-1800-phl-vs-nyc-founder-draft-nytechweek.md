@@ -27,6 +27,7 @@ remaining_capacity: 55
 total_guest_count: 108
 approved_guest_count: 95
 local_image: "images/vMnZZEd9ek0rQ09zFpeE.png"
+canceled: false
 ---
 
 # PHL vs NYC Founder Draft - #NYTECHWEEK
@@ -59,6 +60,7 @@ Event Description
 We’ll have three seed-stage B2B founders from each city pitching two VCs from Philly and two from NYC, in front of a room full of operators, investors, and startup talent, followed by time to meet the kind of people you’ll probably end up building with later. 
 
 Come watch Philly and NYC go head-to-head, back your city, and leave knowing exactly who showed up strong.
+
 
 
 

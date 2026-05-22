@@ -22,6 +22,7 @@ is_capped: false
 total_guest_count: 55
 approved_guest_count: 0
 image_download_error: "HTTP Error 403: Forbidden"
+canceled: false
 ---
 
 # Pitch and Run Tribeca
@@ -53,6 +54,7 @@ Route https://www.strava.com/routes/3213205617339336616
 Coffee after
 
 Pitch and Run was founded to make it easy for founders to connect with Angels and VCs without the pressure of a pitch meeting and to allow founders and startup employees to connect. Many companies have raised their round, found customers, and met their co-founders, and even found jobs from connections made at Pitch and Run
+
 
 
 

@@ -25,10 +25,11 @@ owner_count: 5
 owner_ids: ["imZR3YxtOSRQB2rkkZtGltdx3Cg1", "7DFu4rITofNzKIjA7hCx", "gSEnS5wDyWQum7E8CcrGexcOabp1", "29WJxrC1jmVu2nhciErU077I1hP2", "ucRg5vdY8EUu5SMYhwVN"]
 is_capped: true
 max_capacity: 150
-remaining_capacity: 128
+remaining_capacity: 126
 total_guest_count: 461
-approved_guest_count: 22
+approved_guest_count: 24
 local_image: "images/Dc2p7GbvzQiC32DBPCMJ.jpg"
+canceled: false
 ---
 
 # The Future of PropTech - #NYTechweek
@@ -38,7 +39,7 @@ local_image: "images/Dc2p7GbvzQiC32DBPCMJ.jpg"
 **Hosts:** Jetzy, Sklut  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
 **Where:** Nightingale · 37 Carmine St, New York, NY 10014 · West Village
-**Capacity:** capped at 150 · 22 taken, 128 remaining
+**Capacity:** capped at 150 · 24 taken, 126 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Dc2p7GbvzQiC32DBPCMJ
 **Map:** https://www.google.com/maps/search/?api=1&query=37%20Carmine%20St%2C%20New%20York%2C%20NY%2010014
@@ -105,6 +106,7 @@ Click here to sign up for contactless facial recognition entry for this event th
 https://demo-app.ientry.ca/event-details/ff311791-a14e-456b-abb1-a3a1b5415e5a
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

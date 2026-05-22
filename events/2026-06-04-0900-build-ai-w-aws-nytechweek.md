@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["YHbi2M1z6JbFaVDXIfw8bcg7YtC2", "ZK3OZIiZK7Z3hfAdP1eCcNDhsYy2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 256
+total_guest_count: 260
 approved_guest_count: 3
 local_image: "images/bKNSMIiBlDqn5RCekCyb.png"
+canceled: false
 ---
 
 # Build AI w/ AWS - #NYTECHWEEK
@@ -33,7 +34,7 @@ local_image: "images/bKNSMIiBlDqn5RCekCyb.png"
 **Hosts:** Amazon Web Services (AWS)  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 9:00am–5:00pm ET
 **Where:** Midtown
-**Going:** 256
+**Going:** 256 of 260
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/bKNSMIiBlDqn5RCekCyb
 
@@ -74,6 +75,7 @@ For this year's NYC Tech Week, AWS invites you to join us for an exclusive, hand
 Limited spots! Register today!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

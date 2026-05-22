@@ -28,6 +28,7 @@ remaining_capacity: 19
 total_guest_count: 53
 approved_guest_count: 21
 local_image: "images/rYca2LKVj8ucbtBacm8C.jpg"
+canceled: false
 ---
 
 # SE Improv Night + Happy Hour
@@ -64,6 +65,7 @@ Join fellow Sales Engineers for a night of laughs, camaraderie, and improv coach
 ​- 7:00 PM: Happy Hour + Light Bites
 
 Spots are limited, so be sure to register!
+
 
 
 

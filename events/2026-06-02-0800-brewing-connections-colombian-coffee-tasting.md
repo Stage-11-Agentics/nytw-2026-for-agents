@@ -25,9 +25,10 @@ owner_ids: ["7aa4U8SjslZXiWCpmYuScG4nFAq1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 200
 remaining_capacity: 0
-total_guest_count: 213
+total_guest_count: 214
 approved_guest_count: 0
 local_image: "images/EUVI0jAllN2saIRbyioQ.png"
+canceled: false
 ---
 
 # Brewing Connections: Colombian Coffee Tasting
@@ -60,6 +61,7 @@ Enjoy light snacks alongside your coffee and conversations. Whether you’re loo
 Join us for an energizing start to your day — where great coffee meets great minds.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -26,6 +26,7 @@ is_capped: false
 total_guest_count: 48
 approved_guest_count: 0
 local_image: "images/0UXV0ocPHY8mMNweUPgR.png"
+canceled: false
 ---
 
 # Measured HRIS X Tech Week
@@ -69,6 +70,7 @@ Come see how we are replacing manual workarounds with operational excellence.
 Space is limited. Join us to connect with the founders and executives shaping the future of how we build for the people who feed our cities.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

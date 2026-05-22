@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["r1HQcxBufIckLJmYm1RKRhLUKEo1", "miIhAjTZRJoFd1pKLShN", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 885
+total_guest_count: 884
 approved_guest_count: 0
 local_image: "images/qyk65dBFAtgDutz68VMK.png"
+canceled: false
 ---
 
 # 11-11 Venture Building Sprint: Tech Week Edition by Madeline & Co. + Excelsior Edge Ventures
@@ -35,7 +36,7 @@ local_image: "images/qyk65dBFAtgDutz68VMK.png"
 **Hosts:** Madeline & Co., Excelsior Edge Ventures  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 11:00am–10:00pm ET
 **Where:** 26 Broadway, Brooklyn, NY 11249 · Financial District
-**Going:** 885
+**Going:** 885 of 884
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/qyk65dBFAtgDutz68VMK
 **Map:** https://www.google.com/maps/search/?api=1&query=26%20Broadway%2C%20Brooklyn%2C%20NY%2011249
@@ -160,6 +161,7 @@ Excelsior Edge is the community behind 11-11 Sprints, a live venture-building ca
 Cohorts consist of 11 aspiring and early founders with real domain insight, strong instincts, and something worth building, whether that means a raw idea, a loose concept, or simply a problem they understand deeply enough to attack. Over 11 days, we’ll work with one founder per day to help shape the strategic backbone of their startup in public. https://11-11.madeline.one/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

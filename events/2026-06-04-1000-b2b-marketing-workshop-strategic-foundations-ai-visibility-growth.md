@@ -23,9 +23,10 @@ owner_ids: ["LcZD2hHcN8bugyJLSW7lnXD2N4k1", "7DFu4rITofNzKIjA7hCx", "UH7VYlZKNqM
 is_capped: true
 max_capacity: 220
 remaining_capacity: 106
-total_guest_count: 129
+total_guest_count: 132
 approved_guest_count: 114
 local_image: "images/Xtt8gsxnBqQfcFSqTLFJ.png"
+canceled: false
 ---
 
 # B2B Marketing Workshop: Strategic Foundations & AI Visibility Growth
@@ -66,6 +67,7 @@ https://chat.whatsapp.com/H7ojiWAjquw0zK3PL1yXvs
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
  This event is sponsored by The Front Yard at Pace University.  Learn more about their entrepreneur program at www.linkedin.com/company/the-front-yard-at-pace-university
+
 
 
 

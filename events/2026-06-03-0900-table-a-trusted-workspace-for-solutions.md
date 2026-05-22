@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 11
 approved_guest_count: 0
 image_download_error: "HTTP Error 403: Forbidden"
+canceled: false
 ---
 
 # Table: A Trusted Workspace for Solutions
@@ -57,6 +58,7 @@ image_download_error: "HTTP Error 403: Forbidden"
 ​Discover proven solutions, expand your perspective, and connect with top startup minds. ​A lightly facilitated discussion based on attendees' preferences will be followed by networking.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

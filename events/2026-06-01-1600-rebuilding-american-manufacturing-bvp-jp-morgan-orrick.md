@@ -26,9 +26,10 @@ owner_ids: ["YzGV0wF47xbDevhTPiQCOgDeAj53", "7ZTMjPyFwRZ5BGsgS1URn5j18zp2", "7DF
 is_capped: true
 max_capacity: 275
 remaining_capacity: 231
-total_guest_count: 677
+total_guest_count: 690
 approved_guest_count: 44
 local_image: "images/njEyaExp13kVvFeCxSQ0.png"
+canceled: false
 ---
 
 # Rebuilding American Manufacturing [BVP, J.P. Morgan, Orrick]  –
@@ -79,6 +80,7 @@ local_image: "images/njEyaExp13kVvFeCxSQ0.png"
 ---
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["nSZmKuFfi2c9yhXlwzfOwS493M93", "7DFu4rITofNzKIjA7hCx", "G32wyfPFxOYDCk8hQo4QifBQXf62"]
 is_capped: false
-total_guest_count: 138
+total_guest_count: 141
 approved_guest_count: 11
 local_image: "images/sBD7XOrpWuin4ANLc19O.png"
+canceled: false
 ---
 
 # Executive Builders Summit with Lovable
@@ -35,7 +36,7 @@ local_image: "images/sBD7XOrpWuin4ANLc19O.png"
 **Hosts:** Paradigm  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 9:00am–12:00pm ET
 **Where:** 57 W 57th St, New York, NY 10019 · Midtown
-**Going:** 138
+**Going:** 138 of 141
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/sBD7XOrpWuin4ANLc19O
 **Map:** https://www.google.com/maps/search/?api=1&query=57%20W%2057th%20St%2C%20New%20York%2C%20NY%2010019
@@ -60,6 +61,7 @@ Spots are limited. Must be approved to join.
 https://executive.builders/ 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

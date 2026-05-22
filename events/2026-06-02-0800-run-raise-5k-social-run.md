@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["BaCBVcO1aIjk4A3X4h8H", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 76
+total_guest_count: 77
 approved_guest_count: 72
 local_image: "images/98lfOziRko2ulu1smDbv.jpg"
+canceled: false
 ---
 
 # Run & Raise: 5K Social Run |
@@ -34,7 +35,7 @@ local_image: "images/98lfOziRko2ulu1smDbv.jpg"
 **Hosts:** DealMaker  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 8:00am ET
 **Where:** Hudson River Greenway · New York, NY 10004 · Chelsea
-**Going:** 76
+**Going:** 76 of 77
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/98lfOziRko2ulu1smDbv
 **Map:** https://www.google.com/maps/search/?api=1&query=Hudson%20River%20Greenway%2C%20New%20York%2C%20NY%2010004
@@ -50,6 +51,7 @@ local_image: "images/98lfOziRko2ulu1smDbv.jpg"
 The best deals start with a conversation. Some of the best conversations start on a run. Join DealMaker for a morning 5K through New York City before Tech Week gets into full swing. All paces are welcome. Snacks and coffee after.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

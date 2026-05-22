@@ -143,9 +143,22 @@ def render_header(fm: dict) -> str:
     at_capacity = fm.get("at_capacity")
     guest_action = fm.get("guest_action", "")
 
+    canceled = fm.get("canceled") is True or fm.get("canceled") == "true"
+    canceled_at = fm.get("canceled_at", "")
+    cancellation_message = fm.get("cancellation_message", "")
+
     lines = []
     lines.append(f"# {title}")
     lines.append("")
+    if canceled:
+        banner = "> ## ⚠ CANCELED"
+        if canceled_at:
+            banner += f"  \n> _canceled {canceled_at}_"
+        if cancellation_message:
+            msg = cancellation_message.replace("\n", "  \n> ")
+            banner += f"  \n>  \n> {msg}"
+        lines.append(banner)
+        lines.append("")
     # Image
     if local_image:
         lines.append(f"![{title}]({local_image})")

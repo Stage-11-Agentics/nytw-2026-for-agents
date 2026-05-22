@@ -20,9 +20,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["kucHRriubBlJkjMkEeqF", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 72
+total_guest_count: 75
 approved_guest_count: 0
 local_image: "images/KTWA41kbFNYFFtf6HcG7.png"
+canceled: false
 ---
 
 # AI x The Future of Work: Social & Human Capital
@@ -32,7 +33,7 @@ local_image: "images/KTWA41kbFNYFFtf6HcG7.png"
 **Hosts:** HuCapital  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–10:00pm ET
 **Where:** Upper Manhattan
-**Going:** 62 of 72
+**Going:** 62 of 75
 **RSVP:** https://partiful.com/e/KTWA41kbFNYFFtf6HcG7
 
 ### Hosts on Partiful
@@ -97,6 +98,7 @@ Boaz Descalo is an AI strategist, technologist, and Founder of Node8.ai, an AI a
 Interested in sponsoring? Are you a startup that wants your brand featured? Email events@hucapital.co.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

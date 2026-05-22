@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["aBLY2K4xKxfl3smTmzDtTdW8d1u2", "7DFu4rITofNzKIjA7hCx", "9lBtq8eVqDQ7ZFbgPjh9SXMl6gv2", "nADjcMP0B8M1LFGrvy2g1iuhqn52"]
 is_capped: false
-total_guest_count: 175
-approved_guest_count: 63
+total_guest_count: 178
+approved_guest_count: 86
 local_image: "images/iPG3ECBjiSVSQKLrDvJs.png"
+canceled: false
 ---
 
 # Physical AI, World Models & Spatial Intelligence
@@ -35,7 +36,7 @@ local_image: "images/iPG3ECBjiSVSQKLrDvJs.png"
 **Hosts:** Nucleus4D  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:00pm–8:00pm ET
 **Where:** 33 W 17th St, New York, NY 10011 · Flatiron
-**Going:** 174 of 175
+**Going:** 174 of 178
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/iPG3ECBjiSVSQKLrDvJs
 **Map:** https://www.google.com/maps/search/?api=1&query=33%20W%2017th%20St%2C%20New%20York%2C%20NY%2010011
@@ -58,6 +59,7 @@ Nucleus4D is building the 3D data layer and capture network for Physical AI — 
 This meetup is being hosted at Antler NYC. We are founder's first believer at their inception stage, investing $600K as their first check, we back the most obsessed builders, pitch for funding: www.antler.co/us  
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

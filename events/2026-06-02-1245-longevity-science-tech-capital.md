@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["mg0yAc3xG9c5kz0n5qXOkG6YlY03", "7DFu4rITofNzKIjA7hCx", "O3qccYKvJhZ5v0LQP0iMIYbN28L2", "wiU01J324uh6p0M6ULCC10DkM9O2"]
 is_capped: false
-total_guest_count: 1223
-approved_guest_count: 289
+total_guest_count: 1225
+approved_guest_count: 292
 local_image: "images/tWK9RNlH5bTADdjGdeeB.png"
+canceled: false
 ---
 
 # Longevity: Science, Tech, & Capital
@@ -34,7 +35,7 @@ local_image: "images/tWK9RNlH5bTADdjGdeeB.png"
 **Hosts:** The Different Health, The reason AI  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 12:45pm ET
 **Where:** Manhattan · Manhattan, New York, NY · Upper East Side
-**Going:** 1221 of 1223
+**Going:** 1221 of 1225
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/tWK9RNlH5bTADdjGdeeB
 **Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -63,6 +64,7 @@ Panel II: Health as a Performance Catalyst
 Today, organizations are playing a bigger role in supporting employees' overall health. Work is where individuals spend 50%+ of their day, and companies have incredible leverage to influence how society manages its preventive health. This panel brings together leaders who are using innovative tactics to improve employee health, productivity, and retention.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

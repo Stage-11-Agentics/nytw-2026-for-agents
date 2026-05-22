@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["f8NM1d9KMfdp9XWZsolGIlQHgBq2", "7DFu4rITofNzKIjA7hCx", "3s0uYdxiWwQPHaiA9cardg6O1bp2", "KY13S2rXSQwe9mxo5Vkq", "kkfxNDzwElM9940NDaPwzvSDYUi1"]
 is_capped: false
-total_guest_count: 114
-approved_guest_count: 2
+total_guest_count: 122
+approved_guest_count: 7
 local_image: "images/FBTY402HvwzsBljLJgWl.png"
+canceled: false
 ---
 
 # The Founding Table: Private Chef Dinner
@@ -33,7 +34,7 @@ local_image: "images/FBTY402HvwzsBljLJgWl.png"
 **Hosts:** Covent  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 7:00pm ET
 **Where:** 175 Canal St, New York, NY 10013 · East Village
-**Going:** 114
+**Going:** 114 of 122
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/FBTY402HvwzsBljLJgWl
 **Map:** https://www.google.com/maps/search/?api=1&query=175%20Canal%20St%2C%20New%20York%2C%20NY%2010013
@@ -64,6 +65,7 @@ Thank you to our amazing hosts: Cake Equity, Lightfield, and Chargebee.
 Chargebee helps AI-native, SaaS, and consumer subscription businesses scale with billing and monetization infrastructure built for speed, flexibility, and rapid iteration.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

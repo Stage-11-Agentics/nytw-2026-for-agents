@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["48S5TDPdNBTUt0kp4MJS", "7DFu4rITofNzKIjA7hCx", "wioUIqgKOrS4ij1BzoDdCFoQx553", "TZoQnTnUqBUvD8EODNoNTsMLWcS2", "JvLwuCk3FKfhglvw68Kd0YprzEY2"]
 is_capped: false
-total_guest_count: 392
-approved_guest_count: 56
+total_guest_count: 404
+approved_guest_count: 57
 local_image: "images/YMJqaazX8LrxwxExRStJ.png"
+canceled: false
 ---
 
 # J.P. Morgan Payments x Tech:NYC Media Breakfast
@@ -36,7 +37,7 @@ local_image: "images/YMJqaazX8LrxwxExRStJ.png"
 **Hosts:** Tech:NYC, J.P. Morgan Payments  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 9:00am–10:30am ET
 **Where:** NoMad · NoMad, Manhattan, New York, NY · Nomad
-**Going:** 388 of 392
+**Going:** 388 of 404
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/YMJqaazX8LrxwxExRStJ
 **Map:** https://www.google.com/maps/search/?api=1&query=NoMad%2C%20NoMad%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -57,6 +58,7 @@ Join J.P. Morgan Payments, Tech:NYC, and the top voices in New York’s tech sce
 We’ll explore the forces shaping fintech today, from emerging technologies like AI and its impact on both clients and employees to the biggest stories emerging across New York’s broader technology ecosystem, while bringing together the industry’s storytellers for a morning of conversation and connection.
 
 This event is part of #NYTechWeek — a week of events hosted by VCs and startups to bring together founders, builders, investors and the media across the tech landscape. Learn more at www.tech-week.com.
+
 
 
 

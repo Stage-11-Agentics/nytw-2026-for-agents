@@ -19,21 +19,22 @@ at_capacity: false
 going_guest_count: 38
 badges: []
 fetch_status: ok
-owner_count: 3
-owner_ids: ["NrM4KMj1RQhJqxECNTmlttIJ1ZH3", "7DFu4rITofNzKIjA7hCx", "yeTMP75c4uOxqwsemngoPB8bUBi2"]
+owner_count: 2
+owner_ids: ["NrM4KMj1RQhJqxECNTmlttIJ1ZH3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 30
 remaining_capacity: 8
-total_guest_count: 39
+total_guest_count: 41
 approved_guest_count: 22
 local_image: "images/Wq012xH2oUKVTG0dNneU.png"
+canceled: false
 ---
 
 # Capital, Wealth, and Wellbeing - building while staying sane
 
 ![Capital, Wealth, and Wellbeing - building while staying sane](images/Wq012xH2oUKVTG0dNneU.png)
 
-**Hosts:** The Capital Flex, UBS  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** The Capital Flex, UBS
 **When:** Wednesday, June 3, 2026 · 10:30am ET
 **Where:** Little Ruby's Cafe · 225 W Fourth St, New York, NY 10014 · Flatiron
 **Capacity:** capped at 30 · 22 taken, 8 remaining
@@ -44,7 +45,6 @@ local_image: "images/Wq012xH2oUKVTG0dNneU.png"
 ### Hosts on Partiful
 
 - [Naseem Sayani](https://partiful.com/u/NrM4KMj1RQhJqxECNTmlttIJ1ZH3)
-- [Lauren Humphreys](https://partiful.com/u/yeTMP75c4uOxqwsemngoPB8bUBi2)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -70,6 +70,7 @@ Naseem Sayani is the Director of The Innovator’s Circle at WHAM (Women’s Hea
 
 ----
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

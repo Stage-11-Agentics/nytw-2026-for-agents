@@ -21,24 +21,25 @@ at_capacity: false
 going_guest_count: 327
 badges: []
 fetch_status: ok
-owner_count: 3
-owner_ids: ["l65LOD9iy122RZ8mAOp1", "7DFu4rITofNzKIjA7hCx", "I3EiwmgmNjdNdNLTnwKvTlFP7df2"]
+owner_count: 4
+owner_ids: ["l65LOD9iy122RZ8mAOp1", "7DFu4rITofNzKIjA7hCx", "I3EiwmgmNjdNdNLTnwKvTlFP7df2", "lG32kPQu27VdLRlOhkn9E3oUD0w1"]
 is_capped: true
 max_capacity: 125
-remaining_capacity: 21
-total_guest_count: 327
-approved_guest_count: 104
+remaining_capacity: 20
+total_guest_count: 331
+approved_guest_count: 105
 local_image: "images/GkCn2pyh6wFe3oLi7a7D.png"
+canceled: false
 ---
 
 # Founder & Investor Breakfast @ The Ned
 
 ![Founder & Investor Breakfast @ The Ned](images/GkCn2pyh6wFe3oLi7a7D.png)
 
-**Hosts:** Ramp, The Well Network  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Ramp, The Well Network  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 9:00am–11:00am ET
 **Where:** The Ned NoMad · 1170 Broadway, New York, NY 10001 · Nomad
-**Capacity:** capped at 125 · 104 taken, 21 remaining
+**Capacity:** capped at 125 · 105 taken, 20 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/GkCn2pyh6wFe3oLi7a7D
 **Map:** https://www.google.com/maps/search/?api=1&query=1170%20Broadway%2C%20New%20York%2C%20NY%2010001
@@ -47,6 +48,7 @@ local_image: "images/GkCn2pyh6wFe3oLi7a7D.png"
 
 - [The Well Network](https://partiful.com/u/l65LOD9iy122RZ8mAOp1) — _CPG, consumer tech & wellness community of founders, investors & advisors. NYC_
 - [Abigail Ditosto](https://partiful.com/u/I3EiwmgmNjdNdNLTnwKvTlFP7df2) — _Ramp - Consumer and Private Equity Partnerships_
+- [user `lG32kPQu27VdLRlOhkn9E3oUD0w1`](https://partiful.com/u/lG32kPQu27VdLRlOhkn9E3oUD0w1) _(name not resolved)_
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -67,6 +69,7 @@ Ramp is a finance operations platform built to help emerging brands operate effi
 The Lew Firm represents an eclectic variety of top-tier clients ranging from entrepreneurs, boxers, musicians, actors, restaurateurs, medical professionals, fine liquor and spirits, and magazine publications. Our legal services included contract drafting/reviewing, corporate transactional law, athlete and artist representation, employment litigation, ABC permitting, and trademarks.  Learn more at:  https://www.thelewfirm.com/
 
 The Well Network is a membership-based organization established in NYC which is committed to empowering the Consumer Packaged Goods (CPG) in food, beverage, consumer tech and wellness communities. The Well Network’s mission is to build a dynamic, engaging, curated ecosystem where members prosper through intentional introductions and the ability to leverage the necessary resources for business advancement.  Learn more at:  https://thewellnetwork.com
+
 
 
 

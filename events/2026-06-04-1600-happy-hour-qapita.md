@@ -23,6 +23,7 @@ is_capped: false
 total_guest_count: 76
 approved_guest_count: 0
 local_image: "images/8UaZ7T4xlzKG1R2LeAvY.jpg"
+canceled: false
 ---
 
 # Happy Hour: Qapita
@@ -48,6 +49,7 @@ Join us for an evening of relaxed networking and good conversations during #NYTe
 Qapita (https://www.qapita.com/us) is building a better way to manage equity and ownership for startups and as we expand in the US, we’re excited to host conversations that matter with the people shaping this ecosystem.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["GYyWDhY5rwSidNAewWZs", "7DFu4rITofNzKIjA7hCx", "jKy8yqTLX3cFT0tAxRP1BVpF4Sy2", "D3zHuXuWarUFXKKyMuprJn6gmwl2"]
 is_capped: false
-total_guest_count: 393
+total_guest_count: 396
 approved_guest_count: 7
 local_image: "images/dNyJfF1YLi6KV6hSI5em.png"
+canceled: false
 ---
 
 # Founder Lunch Club w/ Fin, Stripe, London & Partners
@@ -36,7 +37,7 @@ local_image: "images/dNyJfF1YLi6KV6hSI5em.png"
 **Hosts:** Fin, Stripe  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 11:00am–2:00pm ET
 **Where:** Ladurée Soho · 398 W Broadway, New York, NY 10012 · SoHo
-**Going:** 392 of 393
+**Going:** 392 of 396
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/dNyJfF1YLi6KV6hSI5em
 **Map:** https://www.google.com/maps/search/?api=1&query=398%20W%20Broadway%2C%20New%20York%2C%20NY%2010012
@@ -60,6 +61,7 @@ local_image: "images/dNyJfF1YLi6KV6hSI5em.png"
 ​​We’re keeping it small by design.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

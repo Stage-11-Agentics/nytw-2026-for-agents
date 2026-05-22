@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 147
 approved_guest_count: 15
 local_image: "images/utGQhLBSFG3hyIlAFlEp.png"
+canceled: false
 ---
 
 # Consumer Founder Happy Hour
@@ -60,6 +61,7 @@ Drink, eat and mingle with consumer founders from seed to Series D working on ev
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,9 +24,10 @@ owner_ids: ["rGvKo0gGIfVRQG4iQaDDo0bsLAR2", "7DFu4rITofNzKIjA7hCx", "pwyXoPyOlaP
 is_capped: true
 max_capacity: 30
 remaining_capacity: 9
-total_guest_count: 171
+total_guest_count: 176
 approved_guest_count: 21
 local_image: "images/uLi3d5Eel4nuA9hv5YGD.png"
+canceled: false
 ---
 
 # AI Startup Founders' Lunch hosted by Cherry Hill Advisory
@@ -55,6 +56,7 @@ Join fellow AI founders for an intimate meetup to discuss all things strategy. W
 This event is a part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 Event Hosted by Cherry Hill Advisory.
+
 
 
 

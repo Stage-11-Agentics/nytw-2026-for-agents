@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["pukdMXO64MSN72u6mMaM6NFnxkA3", "5VUUR2G7kBevY86haB6gdYxIVgr1", "7DFu4rITofNzKIjA7hCx", "Cs0fCzWBD4f4PxK9XtbUJWbL7Hl2"]
 is_capped: false
-total_guest_count: 60
+total_guest_count: 61
 approved_guest_count: 23
 local_image: "images/jrazXyiGkUZ8d8FqotR2.jpg"
+canceled: false
 ---
 
 # Built Different _ Faith in Tech
@@ -33,7 +34,7 @@ local_image: "images/jrazXyiGkUZ8d8FqotR2.jpg"
 **Hosts:** a16z, The Line  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 7:00pm–10:00pm ET
 **Where:** Meatpacking District
-**Going:** 60
+**Going:** 60 of 61
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/jrazXyiGkUZ8d8FqotR2
 
@@ -64,6 +65,7 @@ This is not for everyone.
 Attendance is limited and approved to protect the depth and intention of the experience.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

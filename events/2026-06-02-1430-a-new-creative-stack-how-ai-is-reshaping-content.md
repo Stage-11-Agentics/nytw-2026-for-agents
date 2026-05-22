@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["RtPD5nvmXZPc9YKp112Fuy1tzqx2", "7DFu4rITofNzKIjA7hCx", "2wvL7lLTvkhsvM2GcdVWCSMxIsQ2"]
 is_capped: false
-total_guest_count: 192
-approved_guest_count: 185
+total_guest_count: 199
+approved_guest_count: 193
 local_image: "images/T2CsmryS2cJjERt9dZkY.png"
+canceled: false
 ---
 
 # A New Creative Stack: How AI Is Reshaping Content
@@ -36,7 +37,7 @@ local_image: "images/T2CsmryS2cJjERt9dZkY.png"
 **Hosts:** CreatorTech.ai  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 2:30pm–5:00pm ET
 **Where:** Pier 57 · 25 11th Ave, New York, NY 10011 · Meatpacking District
-**Going:** 192
+**Going:** 192 of 199
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/T2CsmryS2cJjERt9dZkY
 **Map:** https://www.google.com/maps/search/?api=1&query=25%2011th%20Ave%2C%20New%20York%2C%20NY%2010011
@@ -54,6 +55,7 @@ From AI-generated music to film, shorts, and digital storytelling, the creative 
  
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

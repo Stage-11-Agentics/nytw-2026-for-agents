@@ -25,10 +25,11 @@ owner_count: 6
 owner_ids: ["iF1kRN5ENZeSksHCYlPT3YJc6Wi2", "aJlFCZX5B7T3g6IsYKXsGe61HCG3", "Sv8dUoTOEXOFqCN0LQXWSt0fMHK2", "mUu1XWIVu9ZFt6rfuDNkbSw2SMy2", "KLyd8UxNRRaRqgrI2CPHlSMncs22", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 150
-remaining_capacity: 43
-total_guest_count: 117
-approved_guest_count: 107
+remaining_capacity: 35
+total_guest_count: 123
+approved_guest_count: 115
 local_image: "images/bzH8pCNS375AWo2jUqlD.jpg"
+canceled: false
 ---
 
 # AI Cruise Happy Hour with AGI House & Alpha Square Group & Backcountry.vc
@@ -38,7 +39,7 @@ local_image: "images/bzH8pCNS375AWo2jUqlD.jpg"
 **Hosts:** AGI House, Alpha Square Group, Fidelity, Backcountry VC  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 3:30pm–6:30pm ET
 **Where:** Skyport Marina · 2430 FDR Drive S, New York, NY 10010 · East Village
-**Capacity:** capped at 150 · 107 taken, 43 remaining
+**Capacity:** capped at 150 · 115 taken, 35 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/bzH8pCNS375AWo2jUqlD
 **Map:** https://www.google.com/maps/search/?api=1&query=2430%20FDR%20Drive%20S%2C%20New%20York%2C%20NY%2010010
@@ -86,6 +87,7 @@ You asked, so we're bringing it back. AI Cruise is making its comeback to NY Tec
 ​Backcountry Ventures is an early stage venture firm led by Caitlin Dullanty, Ben Daniels, and Thomas Whiteaker, investing in enterprise AI, cybersecurity and quantum computing. The team spun out of IBM Ventures, where they built and ran the investment program for seven years, including investments in Hidden Layer, Hugging Face, Gem Security, Quantinuum and several others. They invest at seed and Series A, primarily co-leading and participating alongside tier one funds.
 
 This event is a part of #NYTechWeek — a week of events bringing the tech ecosystem together. Learn more at www.tech-week.com.
+
 
 
 

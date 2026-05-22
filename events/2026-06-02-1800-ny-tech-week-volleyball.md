@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["nw8AUcgFrgVRXrRDrvGGcmykOrq1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 101
+total_guest_count: 104
 approved_guest_count: 0
 image_download_error: "HTTP Error 403: Forbidden"
+canceled: false
 ---
 
 # NY Tech Week Volleyball
@@ -36,7 +37,7 @@ image_download_error: "HTTP Error 403: Forbidden"
 **Hosts:** mobius  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–8:00pm ET
 **Where:** Prospect Park · Prospect Park, Brooklyn, New York, NY · Brooklyn
-**Going:** 41 of 101
+**Going:** 41 of 104
 **RSVP:** https://partiful.com/e/4rtcBM1p9koZrSoVzmUV
 **Map:** https://www.google.com/maps/search/?api=1&query=Prospect%20Park%2C%20Prospect%20Park%2C%20Brooklyn%2C%20New%20York%2C%20NY
 
@@ -57,6 +58,7 @@ We'll be providing some non-alcoholic beverages for the group. If you wish to co
 See you there!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

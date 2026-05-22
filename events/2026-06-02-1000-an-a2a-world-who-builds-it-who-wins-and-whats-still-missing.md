@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["X3WJoV6DIpK6BIj8SNPj", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 83
+total_guest_count: 85
 approved_guest_count: 63
 local_image: "images/G02MiaLzT1YRwCpzzFY0.png"
+canceled: false
 ---
 
 # An A2A World: Who Builds It, Who Wins, and What's Still Missing
@@ -33,7 +34,7 @@ local_image: "images/G02MiaLzT1YRwCpzzFY0.png"
 **Hosts:** Dedalus Labs  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 10:00am–12:00pm ET
 **Where:** Midtown
-**Going:** 83
+**Going:** 83 of 85
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/G02MiaLzT1YRwCpzzFY0
 
@@ -54,6 +55,7 @@ In this session, we examine the state of AI agents now, discuss the A2A future, 
 Light food, drinks, and intentional networking to follow.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

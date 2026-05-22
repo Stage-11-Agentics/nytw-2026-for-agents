@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 42
 approved_guest_count: 16
 local_image: "images/deV8bgmX3XvFWYOauz7B.png"
+canceled: false
 ---
 
 # Become a Superhuman:
@@ -87,6 +88,7 @@ Hosted by AxonJay.ai — a Brussels-based deep-tech company (with offices in Lon
 See you there 🚀
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

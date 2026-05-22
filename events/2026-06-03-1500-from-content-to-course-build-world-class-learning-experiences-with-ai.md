@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 42
 approved_guest_count: 39
 local_image: "images/1HMgJJdddcGD4CQChLYG.png"
+canceled: false
 ---
 
 # From Content to Course 
@@ -92,6 +93,7 @@ Come ready to turn knowledge into systems that drive revenue.
 Spots are limited. Save your spot.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

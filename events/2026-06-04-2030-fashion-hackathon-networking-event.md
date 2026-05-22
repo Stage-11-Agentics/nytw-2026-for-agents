@@ -21,10 +21,11 @@ owner_count: 2
 owner_ids: ["rHTQJ24PKrJ76MquL3yI", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 29
-total_guest_count: 84
+remaining_capacity: 25
+total_guest_count: 89
 approved_guest_count: 0
 local_image: "images/9Og1H8nulI9zPH9OxEco.png"
+canceled: false
 ---
 
 # Fashion Hackathon Networking  Event
@@ -34,7 +35,7 @@ local_image: "images/9Og1H8nulI9zPH9OxEco.png"
 **Hosts:** Fashion Forward  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 8:30pm–11:00pm ET
 **Where:** Flatiron
-**Capacity:** capped at 100 · 71 taken, 29 remaining
+**Capacity:** capped at 100 · 75 taken, 25 remaining
 **RSVP:** https://partiful.com/e/9Og1H8nulI9zPH9OxEco
 
 ### Hosts on Partiful
@@ -60,6 +61,7 @@ Fashion Forward is a NYC-based community connecting fashion founders, designers,
 ​​By RSVP’ing, you agree to receive occasional marketing communications and acknowledge that photography and video may be captured during the event for promotional purposes.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

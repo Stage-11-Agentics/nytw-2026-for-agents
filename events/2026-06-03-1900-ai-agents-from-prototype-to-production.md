@@ -20,9 +20,10 @@ fetch_status: ok
 owner_count: 6
 owner_ids: ["abET93wpY3QwFNI5Lr1nGyQhPGs1", "FvwHPtyvkybd3sHd5oYq", "8b7P5JO7GWRIlKIojHA72EJJQhT2", "vwFzRtvb7JNs5T41iUlCi2jcyo93", "8mprmqHh7gN1C30fRKeldZ8s1wG3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 973
+total_guest_count: 978
 approved_guest_count: 0
 local_image: "images/DItIrZ4soRc9FKWDzvoT.png"
+canceled: false
 ---
 
 # AI Agents: From Prototype to Production
@@ -32,7 +33,7 @@ local_image: "images/DItIrZ4soRc9FKWDzvoT.png"
 **Hosts:** Phinite AI, NVIDIA, GMI, OSS4AI  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 7:00pm–11:00pm ET
 **Where:** Flatiron
-**Going:** 24 of 973
+**Going:** 24 of 978
 **RSVP:** https://partiful.com/e/DItIrZ4soRc9FKWDzvoT
 
 ### Hosts on Partiful
@@ -73,6 +74,7 @@ What to Expect
 - Food & drinks provided
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

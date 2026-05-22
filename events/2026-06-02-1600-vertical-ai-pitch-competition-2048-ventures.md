@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 6
 owner_ids: ["bxzJZAhIhzZ8fw2Y4hsZ47anfbh1", "t7ZGzYQH0cZsc7mEi027ZYLh4xB2", "7DFu4rITofNzKIjA7hCx", "KC3l5ve5DONTMbKPJem7ytPM0Jb2", "fZeKXmFwDbf21eUHdgnllz8CKwG2", "IAgk29z9NWco5wSciqFIoSewYKE2"]
 is_capped: false
-total_guest_count: 220
+total_guest_count: 226
 approved_guest_count: 124
 local_image: "images/eBXma3cFQdE9zCMfCgR7.png"
+canceled: false
 ---
 
 # Vertical AI Pitch Competition - 2048 Ventures
@@ -33,7 +34,7 @@ local_image: "images/eBXma3cFQdE9zCMfCgR7.png"
 **Hosts:** 2048 Ventures  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:00pm–5:30pm ET
 **Where:** Midtown
-**Going:** 220
+**Going:** 220 of 226
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/eBXma3cFQdE9zCMfCgR7
 
@@ -59,6 +60,7 @@ Expect a room of founders and builders working with AI across industries - and a
 Hosted with the generous support of @Brown Rudnick.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

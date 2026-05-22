@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["2Fr61znbGWYxSyaD7vPj", "7DFu4rITofNzKIjA7hCx", "1uYTDPFfwUYSXrz0zPbqhfKT2TZ2", "xfjHZb1iJJPv1PN53YiX4xedCrc2"]
 is_capped: false
-total_guest_count: 297
-approved_guest_count: 197
+total_guest_count: 304
+approved_guest_count: 202
 local_image: "images/SzwFkltgl0ehKttHyzAN.png"
+canceled: false
 ---
 
 # Climate Scaling Summit: Financing the Full Capital Stack
@@ -34,7 +35,7 @@ local_image: "images/SzwFkltgl0ehKttHyzAN.png"
 **Hosts:** Los Angeles Cleantech Incubator (LACI), Urban Future Lab (UFL) at NYU Tandon  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:00pm ET
 **Where:** Brooklyn Army Terminal · 80 58th St, Brooklyn, NY 11220 · Brooklyn
-**Going:** 297
+**Going:** 297 of 304
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/SzwFkltgl0ehKttHyzAN
 **Map:** https://www.google.com/maps/search/?api=1&query=80%2058th%20St%2C%20Brooklyn%2C%20NY%2011220
@@ -64,6 +65,7 @@ This event will be followed by a happy hour.
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 This event is sponsored by NYSERDA and Wells Fargo.
+
 
 
 

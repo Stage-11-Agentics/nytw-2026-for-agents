@@ -22,6 +22,7 @@ is_capped: false
 total_guest_count: 46
 approved_guest_count: 0
 local_image: "images/4LCCR5kpekyh34XHD4Pu.png"
+canceled: false
 ---
 
 # The 10x Moat: Valuation, Competitors, and IP Rights
@@ -57,6 +58,7 @@ What to file now, before your next round prices
 An IP health check you can run against your own portfolio Wednesday morning
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

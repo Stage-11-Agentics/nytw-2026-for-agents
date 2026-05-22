@@ -26,9 +26,10 @@ owner_ids: ["2wZbZPlGMpbE9MNRiQAdSu3Y0QT2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 35
 remaining_capacity: -1
-total_guest_count: 54
+total_guest_count: 56
 approved_guest_count: 36
 local_image: "images/bhnr3EP9n2yG63jDrQa7.png"
+canceled: false
 ---
 
 # Golden Handcuffs are still Handcuffs: A Financial Strategy Session for Women in Tech
@@ -67,6 +68,7 @@ In this session, we’ll walk through a practical framework to:
 So when you think about your next chapter - whether that’s a break, a pivot, or something new - you’re actually in a position to choose it.
 
 Includes a 45-minute session followed by Q&A and networking over wine and light bites.
+
 
 
 

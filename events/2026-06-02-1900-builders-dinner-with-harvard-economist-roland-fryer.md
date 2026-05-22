@@ -25,6 +25,7 @@ is_capped: false
 total_guest_count: 135
 approved_guest_count: 0
 local_image: "images/Gh3JTOVzGCyjXsTh6WTe.png"
+canceled: false
 ---
 
 # Builders Dinner with Harvard Economist Roland Fryer
@@ -56,6 +57,7 @@ Salon-style conversation with Roland. Off-the-record, no pitches. Once you submi
 EO Ventures is an early-stage fund backing companies that increase economic mobility in America, founded by Roland Fryer and Bill Helman, former Managing Partner at Greylock.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

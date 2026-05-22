@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["k9o75egDXRZGkjxMT2fDaTGNjv52", "7DFu4rITofNzKIjA7hCx", "mTqlZwATkqb98qgwHw6eV4S62hZ2", "UT45etjIdIMKwMrjgDaDCHmOzoV2"]
 is_capped: false
-total_guest_count: 84
+total_guest_count: 86
 approved_guest_count: 35
 local_image: "images/GWxdINK4i24WU6zh9TCU.png"
+canceled: false
 ---
 
 # The Exit Breakfast
@@ -31,7 +32,7 @@ local_image: "images/GWxdINK4i24WU6zh9TCU.png"
 **Hosts:** Colectivo  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 8:00am ET
 **Where:** SoHo
-**Going:** 84
+**Going:** 84 of 86
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/GWxdINK4i24WU6zh9TCU
 
@@ -56,6 +57,7 @@ No keynotes, no pitches. Just honest conversation over breakfast about how to na
 Co-hosted with L40º. L40° is a cross-border M&A advisory firm for mid-market tech founders, specializing in sell-side advisory and strategic debt solutions. With offices in Miami, Madrid, and Lisbon, the firm has facilitated over 180 deals and raised more than $1B in capital for clients. L40° works alongside technology and software founders throughout the entire exit process: from preparing the company to sell, to running a competitive process, and ultimately maximizing value. More information at www.l40.com. 
 
 Supported by Manatt. Manatt is a multidisciplinary, integrated professional services firm known for quality and an extraordinary commitment to clients. Our legal, consulting and advocacy teams work closely with international founders—particularly those scaling into the U.S.—and the investors who back them. Our Venture Capital and Emerging Companies, Technology Transactions and M&A teams help structure a variety of complex cross‑border transactions, prepare companies for U.S. exits, and execute strategies aligned with founder and investor goals. To learn more, visit manatt.com.
+
 
 
 

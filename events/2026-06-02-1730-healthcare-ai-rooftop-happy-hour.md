@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["5pqkOYkXBAgU5VnC2DF9o705Fwp2", "LOcUtVnW8ucqsltGJE9yj92CXqb2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 55
+total_guest_count: 59
 approved_guest_count: 0
 local_image: "images/G2KyxGWf2wHA4lYjcd8F.png"
+canceled: false
 ---
 
 # Healthcare AI Rooftop Happy Hour
@@ -33,7 +34,7 @@ local_image: "images/G2KyxGWf2wHA4lYjcd8F.png"
 **Hosts:** Alaffia Health  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:30pm–7:30pm ET
 **Where:** SoHo
-**Going:** 54 of 55
+**Going:** 54 of 59
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/G2KyxGWf2wHA4lYjcd8F
 
@@ -49,6 +50,7 @@ local_image: "images/G2KyxGWf2wHA4lYjcd8F.png"
 We're bringing together people who are building (or looking to build) in the NYC healthcare AI space (Founders + Engineers + Operators). Come ready to share your most top-of-mind healthtech ideas for now and the future. We will have some icebreakers and prizes to give away, too!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

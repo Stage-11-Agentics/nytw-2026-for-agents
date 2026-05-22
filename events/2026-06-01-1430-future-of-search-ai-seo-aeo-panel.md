@@ -26,9 +26,10 @@ owner_ids: ["PM0t58OCz1kg5yBM3zLy", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 141
 remaining_capacity: -1
-total_guest_count: 454
+total_guest_count: 458
 approved_guest_count: 142
 local_image: "images/dbFdiExJUT9aHL4FekHK.png"
+canceled: false
 ---
 
 # Future of Search: AI SEO, AEO Panel
@@ -95,6 +96,7 @@ If you do not consent to being photographed or recorded, please withdraw your RS
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at
 
 www.tech-week.com
+
 
 
 

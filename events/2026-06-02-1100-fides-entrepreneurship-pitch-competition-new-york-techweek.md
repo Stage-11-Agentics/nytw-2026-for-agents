@@ -26,6 +26,7 @@ remaining_capacity: 80
 total_guest_count: 25
 approved_guest_count: 0
 local_image: "images/m4g7u5LC1jpbWNzOM60R.png"
+canceled: false
 ---
 
 # Fides Entrepreneurship Pitch Competition - # New York TechWeek
@@ -50,6 +51,7 @@ local_image: "images/m4g7u5LC1jpbWNzOM60R.png"
 On Tuesday, June 2nd, as part of NYC Tech Week, we are honored to host the inaugural Fides Startup Pitch Competition, bringing together Catholic founders, investors, and operators for an evening dedicated to discerning what it means to build great companies in alignment with the faith.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -22,8 +22,9 @@ owner_count: 5
 owner_ids: ["A9dy7amuljdJfHXmcyUWlRI9sb12", "7DFu4rITofNzKIjA7hCx", "uhcDzCJelzatiYnqz1UYjr9Py943", "RuLxdf6UnzQE3IHJrucYIdvDc6J3", "tDmIgO9sizQAYnvXOW8UP5Nd32t2"]
 is_capped: false
 total_guest_count: 627
-approved_guest_count: 95
+approved_guest_count: 101
 local_image: "images/QoKkKe7U2NhgDoV3hZEt.png"
+canceled: false
 ---
 
 # Marketplace and Community Led Growth
@@ -59,6 +60,7 @@ The conversation will be followed by a curated networking session with founders,
 If you are building or investing in a SaaS or AI company and looking to scale faster, access enterprise buyers, and build durable growth through ecosystems, this is where you start. Join us for dessert, drinks and revenue acceleration on June 5, 3-5pm and supercharge your partnerships journey.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

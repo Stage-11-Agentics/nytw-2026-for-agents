@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["9cmol21Cn5dLIQmHpfG89biRe7o2", "7DFu4rITofNzKIjA7hCx", "s6iNDklrsmXhM9KLVQK9p0M0mwB3"]
 is_capped: false
-total_guest_count: 180
-approved_guest_count: 83
+total_guest_count: 186
+approved_guest_count: 90
 local_image: "images/OaMuPHbkv4A3c4MJxwW5.png"
+canceled: false
 ---
 
 # Bring Your Own Data (BYOD): A Creative Tech Potluck
@@ -35,7 +36,7 @@ local_image: "images/OaMuPHbkv4A3c4MJxwW5.png"
 **Hosts:** Black Interactive  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 9:45am–5:30pm ET
 **Where:** 370 Jay St, Brooklyn, NY 11201 · Brooklyn
-**Going:** 180
+**Going:** 180 of 186
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/OaMuPHbkv4A3c4MJxwW5
 **Map:** https://www.google.com/maps/search/?api=1&query=370%20Jay%20St%2C%20Brooklyn%2C%20NY%2011201
@@ -59,6 +60,7 @@ Then, build real-time audiovisual systems in TouchDesigner with Woody Poulard, c
 NYU's Interactive Telecommunications Program (ITP) is a graduate program at the intersection of art, engineering, and design.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

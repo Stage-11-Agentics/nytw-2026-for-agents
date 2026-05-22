@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["xzim090RhZKUhvBKmbgO", "7DFu4rITofNzKIjA7hCx", "HEwQdOWT8kVeCn2JuoFl", "qHzWLX6VmJgztJIUnjfUtsdpNnt2"]
 is_capped: false
-total_guest_count: 119
+total_guest_count: 122
 approved_guest_count: 40
 local_image: "images/JOh4G5YjH6PW0756ISsd.png"
+canceled: false
 ---
 
 # Snowflake Cafe at Verci: Leverage AI and Snowflake to Outpace Your Competition
@@ -36,7 +37,7 @@ local_image: "images/JOh4G5YjH6PW0756ISsd.png"
 **Hosts:** Verci, Snowflake  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 9:00am–5:00pm ET
 **Where:** Verci · 45 E 20th St, New York, NY 10003 · Flatiron
-**Going:** 118 of 119
+**Going:** 118 of 122
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/JOh4G5YjH6PW0756ISsd
 **Map:** https://www.google.com/maps/search/?api=1&query=45%20E%2020th%20St%2C%20New%20York%2C%20NY%2010003
@@ -86,6 +87,7 @@ AGENDA:
 👾 Verci is a workspace and community in NYC (and soon LA/SF), meticulously curated for founders, artists, and creatives. Learn more at verci.com and read our manifesto at verci.com/manifesto.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -22,6 +22,7 @@ is_capped: false
 total_guest_count: 19
 approved_guest_count: 0
 local_image: "images/958YRufxIqlYXcPAaBpB.png"
+canceled: false
 ---
 
 # Flirt Tank Dating
@@ -47,6 +48,7 @@ Flirt Tank Dating!
 Email Elizabeth at eswaney@gmail.com to apply, or if you'd like to partner/sponsor. 
 
 This event is a part of #NewYorkTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

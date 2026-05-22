@@ -22,9 +22,10 @@ owner_ids: ["looLtqKx35NkNhNFW0xz", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 201
 remaining_capacity: 0
-total_guest_count: 228
+total_guest_count: 231
 approved_guest_count: 0
 local_image: "images/2NKa5VcOrPj4F2oHrsZ9.png"
+canceled: false
 ---
 
 # Knowledge Systems for Chiefs of Staff
@@ -75,6 +76,7 @@ Tim is Chief of Staff and Head of Commercial at Edge, where he's building the AI
 Come for the insights and connect with other Chiefs of Staff shaping how modern teams operate 🚀
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["ryufur61VaUCXkize5Fse4zXzAH2", "7DFu4rITofNzKIjA7hCx", "YQDaLIN0y5TPwGHpkKKGOTPDApn2"]
 is_capped: false
-total_guest_count: 357
+total_guest_count: 368
 approved_guest_count: 48
 local_image: "images/l5ZDdLiowT38u4m6924Q.png"
+canceled: false
 ---
 
 # Breakfast & Build: A Community Brunch for Diverse Founders & Execs
@@ -36,7 +37,7 @@ local_image: "images/l5ZDdLiowT38u4m6924Q.png"
 **Hosts:** Accessible AI for All, Angel Hive  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 10:00am–12:30pm ET
 **Where:** Flatiron District · Flatiron District, Manhattan, New York, NY · Midtown
-**Going:** 357
+**Going:** 357 of 368
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/l5ZDdLiowT38u4m6924Q
 **Map:** https://www.google.com/maps/search/?api=1&query=Flatiron%20District%2C%20Flatiron%20District%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -67,6 +68,7 @@ Space is limited, so RSVP early.
 Part of #NYTechWeek — a week of events hosted by VCs and startups across NYC.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

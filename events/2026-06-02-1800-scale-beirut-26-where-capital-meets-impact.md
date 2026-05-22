@@ -26,6 +26,7 @@ remaining_capacity: 26
 total_guest_count: 82
 approved_guest_count: 54
 local_image: "images/QFh0wlbI4noTRw7AsP5S.png"
+canceled: false
 ---
 
 # Scale Beirut ' 26: Where Capital meets Impact
@@ -93,6 +94,7 @@ Community Partners:
 - Endeavor Lebanon: https://lebanon.endeavor.org/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

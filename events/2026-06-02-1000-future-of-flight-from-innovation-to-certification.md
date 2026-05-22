@@ -24,10 +24,11 @@ owner_count: 3
 owner_ids: ["XEy57PL9p8NeH3SPP7Sm46n7G0b2", "7DFu4rITofNzKIjA7hCx", "77yAJZIh11TwlVAIkjuTb243Whb2"]
 is_capped: true
 max_capacity: 80
-remaining_capacity: 71
-total_guest_count: 45
-approved_guest_count: 9
+remaining_capacity: 69
+total_guest_count: 48
+approved_guest_count: 11
 local_image: "images/FmbvlZINAUmQsqMYdaNM.png"
+canceled: false
 ---
 
 # Future of Flight: From Innovation to Certification
@@ -37,7 +38,7 @@ local_image: "images/FmbvlZINAUmQsqMYdaNM.png"
 **Hosts:** Velocor & Maloy Aircraft, Velocor  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 10:00am–12:00pm ET
 **Where:** 600 Third Ave, New York, NY 10016 · Upper East Side
-**Capacity:** capped at 80 · 9 taken, 71 remaining
+**Capacity:** capped at 80 · 11 taken, 69 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/FmbvlZINAUmQsqMYdaNM
 **Map:** https://www.google.com/maps/search/?api=1&query=600%20Third%20Ave%2C%20New%20York%2C%20NY%2010016
@@ -62,6 +63,7 @@ With initiatives such as the eVTOL Integration Pilot Program, the industry is en
 Featured speakers will include Nikhil Goel, Chief Commercial Officer at Archer Aviation; Tom Huntley, General Manager at REGENT; and Nolan Giblin of Natilus, with additional aerospace leaders to be announced. The conversation will be moderated by Gerald Clerc and Donald Maloy.
 
 This event is part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

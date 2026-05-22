@@ -26,6 +26,7 @@ is_capped: false
 total_guest_count: 17
 approved_guest_count: 0
 local_image: "images/S2BRvVwmC7WiZs5HUtYE.jpg"
+canceled: false
 ---
 
 # The Gatsby Party
@@ -55,6 +56,7 @@ local_image: "images/S2BRvVwmC7WiZs5HUtYE.jpg"
 ​Propel Earth and partners are gathering in suits and dresses to socialize at the Gatsby mansion
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

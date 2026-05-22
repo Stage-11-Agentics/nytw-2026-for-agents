@@ -24,6 +24,7 @@ is_capped: false
 total_guest_count: 78
 approved_guest_count: 0
 local_image: "images/gb4EHH1wLy3dGjA7uBtu.png"
+canceled: false
 ---
 
 # Traders Happy Hour & Co-Founders Chat
@@ -51,6 +52,7 @@ True Markets is hosting a happy hour at our NoHo office on Bond Street, bringing
 Enjoy cocktails and hors d'oeuvres, then gather for a short fireside chat with co-founders Vishal Gupta (former Head of Markets at Coinbase) and Patrick McCreary (Goldman Sachs alum) on how we're building better market infrastructure for the next generation of traders and builders.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["Ej6OK6Td3bUBwyQgOLPp", "7DFu4rITofNzKIjA7hCx", "Ornmtj60oAhVJC0KtdKdWouifWD3"]
 is_capped: false
-total_guest_count: 421
+total_guest_count: 427
 approved_guest_count: 333
 local_image: "images/sNTzT8AWyMCE1MpKepZk.png"
+canceled: false
 ---
 
 # Camber x a16z: Healthcare Mixer
@@ -35,7 +36,7 @@ local_image: "images/sNTzT8AWyMCE1MpKepZk.png"
 **Hosts:** Camber  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm–8:00pm ET
 **Where:** 22 W 19th St, New York, NY 10011 · Flatiron
-**Going:** 420 of 421
+**Going:** 420 of 427
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/sNTzT8AWyMCE1MpKepZk
 **Map:** https://www.google.com/maps/search/?api=1&query=22%20W%2019th%20St%2C%20New%20York%2C%20NY%2010011
@@ -57,6 +58,7 @@ Drinks, light bites, and good company.
 Space is limited. RSVP required.
 Part of #NYTechWeek. 
 Learn more at tech-week.com | https://www.camber.health/
+
 
 
 

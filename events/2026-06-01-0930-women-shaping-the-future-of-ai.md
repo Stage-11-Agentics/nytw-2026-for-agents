@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["BEyCEP4Eh7hBy5ga4vUt", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 94
+total_guest_count: 103
 approved_guest_count: 33
 local_image: "images/6tB6kOTWvCsW0CDO5Cam.png"
+canceled: false
 ---
 
 # Women Shaping the Future of AI
@@ -33,7 +34,7 @@ local_image: "images/6tB6kOTWvCsW0CDO5Cam.png"
 **Hosts:** Fenwick  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 9:30am–11:30am ET
 **Where:** Flatiron
-**Going:** 93 of 94
+**Going:** 93 of 103
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/6tB6kOTWvCsW0CDO5Cam
 
@@ -57,6 +58,7 @@ This discussion will explore how today’s leaders are navigating the gap betwee
 By confirming your attendance you agree to receive communications and updates from Fenwick.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

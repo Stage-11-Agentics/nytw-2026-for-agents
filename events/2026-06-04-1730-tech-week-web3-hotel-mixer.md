@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["ifcfhex4pKg5EHKMf7hB1mnvqaD2", "7DFu4rITofNzKIjA7hCx", "io3hiRxUgyGU2x4Q95IV"]
 is_capped: false
-total_guest_count: 32
+total_guest_count: 34
 approved_guest_count: 0
 local_image: "images/lBLDmnEK3sHNl8q3phmR.gif"
+canceled: false
 ---
 
 # Tech Week Web3 Hotel Mixer
@@ -35,7 +36,7 @@ local_image: "images/lBLDmnEK3sHNl8q3phmR.gif"
 **Hosts:** Peiheng  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:30pm–7:30pm ET
 **Where:** W Hotels · 201 Park Ave S, New York, NY 10003 · Union Square
-**Going:** 30 of 32
+**Going:** 30 of 34
 **RSVP:** https://partiful.com/e/lBLDmnEK3sHNl8q3phmR
 **Map:** https://www.google.com/maps/search/?api=1&query=201%20Park%20Ave%20S%2C%20New%20York%2C%20NY%2010003
 
@@ -55,6 +56,7 @@ New York Tech Week is here!
 Join Peiheng for a casual meetup focused on the future of tech. We’re skipping the formal presentations to make room for real networking.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

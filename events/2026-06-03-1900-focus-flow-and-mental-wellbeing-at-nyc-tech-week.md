@@ -26,6 +26,7 @@ remaining_capacity: 0
 total_guest_count: 460
 approved_guest_count: 0
 local_image: "images/fbIBC3AcgcKGT3yqBsN9.jpg"
+canceled: false
 ---
 
 # Focus, Flow, and Mental Wellbeing at NYC Tech Week
@@ -58,6 +59,7 @@ Opening the night: Mariam Khayretdinova, CEO of Brainify.AI, on the neuroscience
 Part of NY Tech Week. More speakers and the venue revealed soon.
 
 Learn more at [www.tech-week.com](http://www.tech-week.com)
+
 
 
 

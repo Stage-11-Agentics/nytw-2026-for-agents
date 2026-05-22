@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["JrEDelOaGmgcuk5qwCQjXRaxuxo2", "7DFu4rITofNzKIjA7hCx", "eNKl6SbdlhVYrxUCzuJt2iLGHOc2", "ltsFXKxoutepvrloyWZFe8xaSGm1"]
 is_capped: false
-total_guest_count: 85
+total_guest_count: 90
 approved_guest_count: 77
 local_image: "images/HqDbwbDLWBvTjsl2YeR5.jpg"
+canceled: false
 ---
 
 # Haus of Creators AI LABS #NYTechWeek hosted by Venus Rose, ilias anwar, & Michael Carapellotti
@@ -36,7 +37,7 @@ local_image: "images/HqDbwbDLWBvTjsl2YeR5.jpg"
 **Hosts:** "Haus of Creators Foundation, Inc."  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm–9:00pm ET
 **Where:** Os Nyc · 50 Bowery, New York, NY 10013 · SoHo
-**Going:** 85
+**Going:** 85 of 90
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/HqDbwbDLWBvTjsl2YeR5
 **Map:** https://www.google.com/maps/search/?api=1&query=50%20Bowery%2C%20New%20York%2C%20NY%2010013
@@ -54,6 +55,7 @@ local_image: "images/HqDbwbDLWBvTjsl2YeR5.jpg"
 This event is a celebratory immersive experience for Haus of Creators AI Labs and Venture Studio during New York Tech Week. The event will spotlight the creators, technologists, partners, industry experts, investors, and ideas developed throughout the program, while showcasing Haus of Creators’ role in building future-facing infrastructure for the Creator Economy. Designed as a high-energy yet curated social experience. A bar and light refreshments will be offered to create a vibrant, polished atmosphere that encourages connection, celebration, and community momentum. The event will be captured by photography, video, and live streaming and covered by press and media. Learn more at www.hausofcreators.com/ailabs
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -20,10 +20,11 @@ owner_count: 4
 owner_ids: ["bHp4NvqR6waqSfY4D3wxtHKraW22", "7DFu4rITofNzKIjA7hCx", "UipjKouhqMWscmc8WJRj", "e3R7ASTofQ8SZaanbzCS"]
 is_capped: true
 max_capacity: 65
-remaining_capacity: 46
-total_guest_count: 44
-approved_guest_count: 19
+remaining_capacity: 43
+total_guest_count: 52
+approved_guest_count: 22
 local_image: "images/CBiN0GMrUu8OZJUDP3Xm.png"
+canceled: false
 ---
 
 # 3D GenAI, Physical Ai & World Models Powered By Solaya X Betaworks
@@ -33,7 +34,7 @@ local_image: "images/CBiN0GMrUu8OZJUDP3Xm.png"
 **Hosts:** SOLAYA, Betaworks  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 8:30am ET
 **Where:** Meatpacking District
-**Capacity:** capped at 65 · 19 taken, 46 remaining
+**Capacity:** capped at 65 · 22 taken, 43 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/CBiN0GMrUu8OZJUDP3Xm
 
@@ -52,6 +53,7 @@ Number 1 event for VC & players exploring 3D GenAI, Physical Ai and Spatial Comp
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. 
 
 An event Powered by Solaya & Betaworks
+
 
 
 

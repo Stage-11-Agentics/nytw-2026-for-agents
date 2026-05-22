@@ -25,6 +25,7 @@ is_capped: false
 total_guest_count: 34
 approved_guest_count: 2
 local_image: "images/B3x5fJOf5XlG3NECDbPg.png"
+canceled: false
 ---
 
 # travel intelligence club of new york: summer social
@@ -56,6 +57,7 @@ Past Topics: API gatekeeping in travel distribution, AI eroding brand loyalty, t
 travelers from India and West Africa, privacy as competitive advantage, and where human judgment still beats automation.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

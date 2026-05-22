@@ -26,6 +26,7 @@ is_capped: false
 total_guest_count: 20
 approved_guest_count: 1
 local_image: "images/snxRe8QOXHDYcWtGhZVn.png"
+canceled: false
 ---
 
 # AuthorHaus Panel: Who Owns Your Ideas in the AI Era?
@@ -68,6 +69,7 @@ https://www.instagram.com/alyciakelley314/
 https://www.linkedin.com/in/alycia-steelman-ab555210b
 
 This event is part of #NYTechWeek—a week of events hosted by VCs and startups to bring the tech ecosystem together. Learn more at www.tech-week.com.
+
 
 
 

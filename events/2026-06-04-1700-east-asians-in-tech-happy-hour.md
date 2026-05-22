@@ -26,9 +26,10 @@ owner_ids: ["xmxiW5iKqsTLr753zWLKlQn2yU22", "3vZGMcexJ6WQL8KA2wBs", "7DFu4rITofN
 is_capped: true
 max_capacity: 50
 remaining_capacity: 33
-total_guest_count: 29
+total_guest_count: 30
 approved_guest_count: 17
 local_image: "images/kZFSvvs0w2QtpLlK5fKp.png"
+canceled: false
 ---
 
 # East Asians in Tech Happy Hour
@@ -59,6 +60,7 @@ Perfect opportunity to meet like-minded individuals and build valuable connectio
 We also welcome anyone working outside of tech.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

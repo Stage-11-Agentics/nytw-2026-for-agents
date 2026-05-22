@@ -23,10 +23,11 @@ owner_count: 5
 owner_ids: ["k9o75egDXRZGkjxMT2fDaTGNjv52", "7DFu4rITofNzKIjA7hCx", "Ax633NYDw2ZhzDAqrm7K3ZHZYTd2", "BkXrXIP37EQwrXpC3calRbDZoMO2", "UT45etjIdIMKwMrjgDaDCHmOzoV2"]
 is_capped: true
 max_capacity: 150
-remaining_capacity: 84
-total_guest_count: 117
-approved_guest_count: 66
+remaining_capacity: 83
+total_guest_count: 122
+approved_guest_count: 67
 local_image: "images/H6ckvNb4WAjNTkDJTqsp.jpg"
+canceled: false
 ---
 
 # Latinos & Latam in AI
@@ -36,7 +37,7 @@ local_image: "images/H6ckvNb4WAjNTkDJTqsp.jpg"
 **Hosts:** Colectivo  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 12:00pm ET
 **Where:** Microsoft · 11 Times Square, Floor 7, New York, NY 10036 · SoHo
-**Capacity:** capped at 150 · 66 taken, 84 remaining
+**Capacity:** capped at 150 · 67 taken, 83 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/H6ckvNb4WAjNTkDJTqsp
 **Map:** https://www.google.com/maps/search/?api=1&query=11%20Times%20Square%2C%20Floor%207%2C%20New%20York%2C%20NY%2010036
@@ -62,6 +63,7 @@ Are you building an AI startup? Apply to the Best 100 Latino & LatAm
 
 Startups:
 https://tally.so/r/WOYjMN
+
 
 
 

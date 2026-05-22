@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["Wk0w9oMAaJXcVjGtz44Du90AqMU2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 21
+total_guest_count: 22
 approved_guest_count: 0
 local_image: "images/qHNiowdDBNRygRjZlYcp.png"
+canceled: false
 ---
 
 # Tech Week: Networking Event by Ascent Valley
@@ -36,7 +37,7 @@ local_image: "images/qHNiowdDBNRygRjZlYcp.png"
 **Hosts:** Ascent Valley  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
 **Where:** Geodesys Map · Strada Liviu Rebreanu, 55, Bistrita, 420008 · Financial District
-**Going:** 21
+**Going:** 21 of 22
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/qHNiowdDBNRygRjZlYcp
 **Map:** https://www.google.com/maps/search/?api=1&query=Strada%20Liviu%20Rebreanu%2C%2055%2C%20Bistrita%2C%20420008
@@ -74,6 +75,7 @@ Philosophy: IDEA → PROCESS → RESULT.
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

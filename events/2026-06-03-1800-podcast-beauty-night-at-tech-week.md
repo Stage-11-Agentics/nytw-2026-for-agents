@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["ju0pWmTxFlJDrqwCeQI0", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 65
+total_guest_count: 66
 approved_guest_count: 0
 local_image: "images/Zpug1scEnob8QlWGmoK9.png"
+canceled: false
 ---
 
 # Podcast & Beauty Night at Tech Week
@@ -33,7 +34,7 @@ local_image: "images/Zpug1scEnob8QlWGmoK9.png"
 **Hosts:** True Beauty Ventures, The Ok Sweetie Show
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
 **Where:** SoHo
-**Going:** 64 of 65
+**Going:** 64 of 66
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Zpug1scEnob8QlWGmoK9
 
@@ -48,6 +49,7 @@ local_image: "images/Zpug1scEnob8QlWGmoK9.png"
 Join The Ok Sweetie Show and True Beauty Ventures for an intimate evening at Tech Week. Founders, LP, and powerhouses coming together for cocktails, community, and conversation. Expect beauty tips, samples, and a live podcast taping in a room full of people who are building, backing, and boldly showing up.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

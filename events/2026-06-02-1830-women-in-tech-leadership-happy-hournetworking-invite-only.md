@@ -24,9 +24,10 @@ owner_ids: ["cbgrQlHqiqUs1Use3D0AUOvLPbr1", "7DFu4rITofNzKIjA7hCx", "ZWgKFrZH7Qc
 is_capped: true
 max_capacity: 50
 remaining_capacity: 0
-total_guest_count: 232
+total_guest_count: 236
 approved_guest_count: 50
 local_image: "images/Ku3dnK0jFElueDqn5oba.png"
+canceled: false
 ---
 
 # Women in Tech Leadership Happy Hour/Networking (Invite Only)
@@ -64,6 +65,7 @@ Expect founders, executives, operators, and creators from companies like Miro, C
 We're keeping this intentionally small with a capped guest list and a private room to ensure meaningful conversations, real connections, and the kind of energy you don't get at larger events.
 
 If you're a woman in leadership, an immigrant founder, or an underrepresented builder looking for your circle — this is your room.
+
 
 
 

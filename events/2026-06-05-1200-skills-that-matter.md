@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["Dr8yPWnwkEUYuxa845MJFNk7aBH3", "7DFu4rITofNzKIjA7hCx", "Rz1TUXe09Sqrb7cjtWg2"]
 is_capped: false
-total_guest_count: 66
-approved_guest_count: 57
+total_guest_count: 67
+approved_guest_count: 59
 local_image: "images/OTB0d4SND0ZJS5WYzdxc.png"
+canceled: false
 ---
 
 # Skills That Matter
@@ -34,7 +35,7 @@ local_image: "images/OTB0d4SND0ZJS5WYzdxc.png"
 **Hosts:** Savas Labs  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 12:00pm ET
 **Where:** Great Jones Distilling · 686 Broadway, New York, NY 10012 · SoHo
-**Going:** 65 of 66
+**Going:** 65 of 67
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/OTB0d4SND0ZJS5WYzdxc
 **Map:** https://www.google.com/maps/search/?api=1&query=686%20Broadway%2C%20New%20York%2C%20NY%2010012
@@ -51,6 +52,7 @@ local_image: "images/OTB0d4SND0ZJS5WYzdxc.png"
 AI dropped the cost of building things and raised the cost of misunderstanding what to build. Voices from engineering, product, design, and delivery on what actually changed — which skills got sharper, which new habits moved the needle, and where the disciplines disagree. Moderated by Chris Russo with Savas team and invited guests.
 
 This event is a part of #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

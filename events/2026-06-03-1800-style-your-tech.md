@@ -24,6 +24,7 @@ remaining_capacity: 0
 total_guest_count: 43
 approved_guest_count: 0
 local_image: "images/F9b11DvXSlOLRhvyp35Q.jpg"
+canceled: false
 ---
 
 # Style Your Tech
@@ -55,6 +56,7 @@ Free entry. Limited capacity.
 Hosted by Hybrid Rituals, an emerging technology and culture media platform covering the people, products, and ideas shaping how we live with tech. www.hybrid-rituals.com
 
 This event is a part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

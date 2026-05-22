@@ -27,6 +27,7 @@ remaining_capacity: 40
 total_guest_count: 10
 approved_guest_count: 0
 local_image: "images/X6NFw7EkD1FoWNswwoqQ.png"
+canceled: false
 ---
 
 # AIMLC Meetup: Understanding and Advancing General Intelligence Through Game
@@ -60,6 +61,7 @@ Agenda:
 This event is hosted at the Capital One Office! Enter through 11 W 19th Street main entrance. Show your photo ID at the front desk and proceed to the 3rd floor.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

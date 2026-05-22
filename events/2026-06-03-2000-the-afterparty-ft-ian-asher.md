@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["Dpz7S6tTHV9IoXfMrW3U", "c2fbldtLmhxmmCgZvHIV", "fYcdcP5eTshpdzXtyQj9", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 1203
+total_guest_count: 1206
 approved_guest_count: 97
 local_image: "images/ScshPTV3NbGkHPRQ5Ith.png"
+canceled: false
 ---
 
 # The Afterparty (ft. Ian Asher)
@@ -36,7 +37,7 @@ local_image: "images/ScshPTV3NbGkHPRQ5Ith.png"
 **Hosts:** Unicorner, Bolt.new, Flite  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 8:00pm–1:00am ET
 **Where:** Public Hotel · 215 Chrystie St, New York, NY 10002 · East Village
-**Going:** 1201 of 1203
+**Going:** 1201 of 1206
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ScshPTV3NbGkHPRQ5Ith
 **Map:** https://www.google.com/maps/search/?api=1&query=215%20Chrystie%20St%2C%20New%20York%2C%20NY%2010002
@@ -74,6 +75,7 @@ For table reservations, please reach out at team@flite.city
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 By registering for this event, you consent to receive post-event communications from the hosts. You may unsubscribe at any time.
+
 
 
 

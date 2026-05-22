@@ -26,9 +26,10 @@ owner_ids: ["G7xio58xumSZGA1aWdWDkx9zUs83", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 30
 remaining_capacity: 7
-total_guest_count: 25
+total_guest_count: 26
 approved_guest_count: 23
 local_image: "images/VqJRZaJnyH6fButRkTtV.jpg"
+canceled: false
 ---
 
 # The Innovator’s Spark: Art Meditation in AI Era
@@ -68,6 +69,7 @@ This session also offers a glimpse into Sunning Hill Retreat’s broader Art of 
 This experience is hosted by Sunning Hill Retreat and co-hosted by New York Youth Roundtable and Youth Civic Service, bringing together mindfulness, creativity, youth leadership, civic engagement, and meaningful community connection.
 
 This event is part of #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

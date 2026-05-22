@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["eNKl6SbdlhVYrxUCzuJt2iLGHOc2", "7DFu4rITofNzKIjA7hCx", "ltsFXKxoutepvrloyWZFe8xaSGm1"]
 is_capped: false
-total_guest_count: 195
-approved_guest_count: 136
+total_guest_count: 202
+approved_guest_count: 139
 local_image: "images/0CnNiFTmqb0m0QqQkoob.avif"
+canceled: false
 ---
 
 # Gather 01 by 165 Global: NYC Launch Party -  for Investors and founders
@@ -34,7 +35,7 @@ local_image: "images/0CnNiFTmqb0m0QqQkoob.avif"
 **Hosts:** 165 Global  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 8:00pm ET
 **Where:** Ploume · 38 W 26th St, New York, NY 10010 · Midtown
-**Going:** 194 of 195
+**Going:** 194 of 202
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/0CnNiFTmqb0m0QqQkoob
 **Map:** https://www.google.com/maps/search/?api=1&query=38%20W%2026th%20St%2C%20New%20York%2C%20NY%2010010
@@ -97,6 +98,7 @@ Alcohol Policy: This event may serve alcohol. You must be 21 years of age or old
 Changes and Cancellations: Event details including time, venue, and programming are subject to change. Organizers will make reasonable efforts to notify registered guests of any material changes.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

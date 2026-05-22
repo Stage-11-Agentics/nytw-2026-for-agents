@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["k9o75egDXRZGkjxMT2fDaTGNjv52", "7DFu4rITofNzKIjA7hCx", "UT45etjIdIMKwMrjgDaDCHmOzoV2"]
 is_capped: false
-total_guest_count: 144
-approved_guest_count: 33
+total_guest_count: 150
+approved_guest_count: 35
 local_image: "images/t4GyLlmpzMmIDjDhvSkW.png"
+canceled: false
 ---
 
 # Best 100 Latam / Latino Startups
@@ -34,7 +35,7 @@ local_image: "images/t4GyLlmpzMmIDjDhvSkW.png"
 **Hosts:** Colectivo  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 2:00pm ET
 **Where:** Soho House · 29-35 Ninth Ave, New York, NY 10014 · Chelsea
-**Going:** 144
+**Going:** 144 of 150
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/t4GyLlmpzMmIDjDhvSkW
 **Map:** https://www.google.com/maps/search/?api=1&query=29-35%20Ninth%20Ave%2C%20New%20York%2C%20NY%2010014
@@ -63,6 +64,7 @@ Join the Latino Tech Week WhatsApp community:
 https://chat.whatsapp.com/LmBobs1cLC0GmwBkHNyZS0
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -23,10 +23,11 @@ owner_count: 2
 owner_ids: ["0F4SVbquw7P4xawEa47foIuzeC42", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 40
-remaining_capacity: 27
-total_guest_count: 15
+remaining_capacity: 26
+total_guest_count: 17
 approved_guest_count: 0
 local_image: "images/hl2AIeWhZ1e2t6LveEGw.png"
+canceled: false
 ---
 
 # AI on Main Street: How Chinatown's Small Businesses Are Using AI
@@ -36,7 +37,7 @@ local_image: "images/hl2AIeWhZ1e2t6LveEGw.png"
 **Hosts:** Welcome to Chinatown  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:30pm–7:00pm ET
 **Where:** 115 Bowery, New York, NY 10002 · Chinatown
-**Capacity:** capped at 40 · 13 taken, 27 remaining
+**Capacity:** capped at 40 · 14 taken, 26 remaining
 **RSVP:** https://partiful.com/e/hl2AIeWhZ1e2t6LveEGw
 **Map:** https://www.google.com/maps/search/?api=1&query=115%20Bowery%2C%20New%20York%2C%20NY%2010002
 
@@ -51,6 +52,7 @@ local_image: "images/hl2AIeWhZ1e2t6LveEGw.png"
 Welcome to Chinatown was designated by Governor Hochul as New York State's AI training hub for small businesses. We've been putting that mandate to work in Chinatown, training local shop owners, many of them immigrants running legacy businesses for decades, to actually use AI in their work. Come hear from the owners about what they've been doing, talk with the technologists who worked with them, and grab some food and drinks with us.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["25X5Zdq88ON8Cyu1h53IH3tDL3v1", "7DFu4rITofNzKIjA7hCx", "Y8Rr6v9gK6TFF9WF7h15vKdXr8t1"]
 is_capped: false
-total_guest_count: 115
+total_guest_count: 118
 approved_guest_count: 0
 local_image: "images/b5KGzALeA3ztN4cWC76B.png"
+canceled: false
 ---
 
 # Off Duty with Mirror Mirror AI
@@ -34,7 +35,7 @@ local_image: "images/b5KGzALeA3ztN4cWC76B.png"
 **Hosts:** Mirror Mirror AI  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
 **Where:** New York, NY · New York, NY · Chelsea
-**Going:** 115
+**Going:** 115 of 118
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/b5KGzALeA3ztN4cWC76B
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -57,6 +58,7 @@ Wine, conversation, and a room that takes both fashion and tech seriously. With 
 By attending this event, you consent to being photographed and filmed. Images and footage may be used by Mirror Mirror AI for promotional purposes.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

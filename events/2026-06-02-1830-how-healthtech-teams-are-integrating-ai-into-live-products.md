@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["9K2ip5KfG1VOTKg73Vjq", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 176
+total_guest_count: 178
 approved_guest_count: 134
 local_image: "images/jq64SoV8gJEjCLMEPKrh.png"
+canceled: false
 ---
 
 # How Healthtech Teams are Integrating AI into Live Products
@@ -36,7 +37,7 @@ local_image: "images/jq64SoV8gJEjCLMEPKrh.png"
 **Hosts:** Scalpels & Spreadsheets  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:30pm–9:00pm ET
 **Where:** 307 West 38th Street · 307 W 38th St, New York, NY 10018 · Midtown
-**Going:** 176
+**Going:** 176 of 178
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/jq64SoV8gJEjCLMEPKrh
 **Map:** https://www.google.com/maps/search/?api=1&query=307%20W%2038th%20St%2C%20New%20York%2C%20NY%2010018
@@ -73,6 +74,7 @@ Panel: 7.15PM - 8.00PM
 Networking: 8.00 - 9.00PM 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

@@ -23,9 +23,10 @@ fetch_status: ok
 owner_count: 6
 owner_ids: ["prZJZUX5HIRK69EVQzVSao3TKeK2", "tfB65Nx0gPTi1PxTWeA8TIsxzhr2", "Z0fBpXkRFrUWM9rvdsEzjETY4Yi2", "Gu3nayPamAgeebTLrm8hgUUK1z73", "7DFu4rITofNzKIjA7hCx", "1fN3r87dfUdyvCipv2gfBjqSGeq1"]
 is_capped: false
-total_guest_count: 479
-approved_guest_count: 195
+total_guest_count: 494
+approved_guest_count: 206
 local_image: "images/eA5ORw6fKg24Xe61fIDn.png"
+canceled: false
 ---
 
 # Yahoo x beehiiv Comms & Media Mixer | #NewYorkTechWeek
@@ -35,7 +36,7 @@ local_image: "images/eA5ORw6fKg24Xe61fIDn.png"
 **Hosts:** Yahoo, https://www.beehiiv.com/  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:30pm–7:30pm ET
 **Where:** 770 Broadway, New York, NY 10003 · Greenwich Village
-**Going:** 478 of 479
+**Going:** 478 of 494
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/eA5ORw6fKg24Xe61fIDn
 **Map:** https://www.google.com/maps/search/?api=1&query=770%20Broadway%2C%20New%20York%2C%20NY%2010003
@@ -57,6 +58,7 @@ Creators, communicators, and media minds – join Yahoo and beehiiv for a NY Tec
 Content is evolving. Audiences are shifting. The smartest voices in tech, media, and the creator economy are building for the future in real time – and we're bringing them together for an evening of drinks, bites, and genuine conversation. No panels, no programming. Just fresh perspectives and real connections.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

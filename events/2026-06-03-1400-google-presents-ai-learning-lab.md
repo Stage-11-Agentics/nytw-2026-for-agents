@@ -25,9 +25,10 @@ owner_ids: ["Dnj9jflXSkS29Y1RkgCgvyD97QG3", "7DFu4rITofNzKIjA7hCx", "rHxCovxMAac
 is_capped: true
 max_capacity: 400
 remaining_capacity: 99
-total_guest_count: 444
+total_guest_count: 454
 approved_guest_count: 301
 local_image: "images/FJbZcfppRGdMVP1o534z.jpg"
+canceled: false
 ---
 
 # Google Presents AI Learning Lab
@@ -75,6 +76,7 @@ We expect these sessions to fill up quickly and be in high demand.  Space is lim
 Guests will be permitted in the Google for Startups Hub only during the time slot they are approved for.  
 
 We invite all guests to return for the Google For Developers Happy Hour at 4p.  Only those with valid badges will be permitted, space allowing.
+
 
 
 

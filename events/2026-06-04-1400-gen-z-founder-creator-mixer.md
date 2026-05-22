@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["MnrTVn6T1Yc80jibtVg1tau6sQI2", "7DFu4rITofNzKIjA7hCx", "A9dy7amuljdJfHXmcyUWlRI9sb12", "z4KHeW92DxNWblE7qr5PbiOLNf93"]
 is_capped: false
-total_guest_count: 193
+total_guest_count: 198
 approved_guest_count: 146
 local_image: "images/T7KQRZ1EBzOI0lhAdXwp.png"
+canceled: false
 ---
 
 # Gen Z Founder + Creator Mixer
@@ -33,7 +34,7 @@ local_image: "images/T7KQRZ1EBzOI0lhAdXwp.png"
 **Hosts:** GenZtea  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 2:00pm–4:30pm ET
 **Where:** East Village
-**Going:** 190 of 193
+**Going:** 190 of 198
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/T7KQRZ1EBzOI0lhAdXwp
 
@@ -95,6 +96,7 @@ email natalie@thegenztea.com
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

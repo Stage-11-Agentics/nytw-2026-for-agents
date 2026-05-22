@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["UNITvnclNeMr8X0tQpy4sS3MIAH3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 2082
-approved_guest_count: 116
+total_guest_count: 2085
+approved_guest_count: 120
 local_image: "images/fKbfXevmgFNV5GgHWYqx.png"
+canceled: false
 ---
 
 # Special NYTW AI/Tech Founders Rooftop Series
@@ -36,7 +37,7 @@ local_image: "images/fKbfXevmgFNV5GgHWYqx.png"
 **Hosts:** staaake  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Sunday, June 7, 2026 · 5:30pm–8:00pm ET
 **Where:** Chelsea · Chelsea, Manhattan, New York, NY · Chelsea
-**Going:** 2082
+**Going:** 2082 of 2085
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/fKbfXevmgFNV5GgHWYqx
 **Map:** https://www.google.com/maps/search/?api=1&query=Chelsea%2C%20Chelsea%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -63,6 +64,7 @@ Part of IRL events at reversenetworkmeets.com
 Reverse Networking events can happen anywhere, from parks and co-working spaces to bars, clubs, and more. Invite the people you've connected with online and meet them all in one place in real life. Skip endless coffee meetings and connect with multiple people at once.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

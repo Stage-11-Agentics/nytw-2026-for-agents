@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["PHAKReX15yX2pdLrOS0L4OePogt1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 62
+total_guest_count: 63
 approved_guest_count: 55
 local_image: "images/CFjTRkUlOshQzLTgXxxX.png"
+canceled: false
 ---
 
 # Founders & Executives: Move 5x Faster When Your Entire Team Vibe-Codes
@@ -36,7 +37,7 @@ local_image: "images/CFjTRkUlOshQzLTgXxxX.png"
 **Hosts:** Myop ltd  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 10:00am–12:30pm ET
 **Where:** Prometric 1250 Broadway · 1250 Broadway, New York, NY 10001 · Nomad
-**Going:** 61 of 62
+**Going:** 61 of 63
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/CFjTRkUlOshQzLTgXxxX
 **Map:** https://www.google.com/maps/search/?api=1&query=1250%20Broadway%2C%20New%20York%2C%20NY%2010001
@@ -75,6 +76,7 @@ Who is this for:
 Co-hosted with Radian Capital.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

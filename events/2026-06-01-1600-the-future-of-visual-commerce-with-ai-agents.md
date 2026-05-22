@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["52i1NWRf4dYhKhPNVJg6Oxfgnbz2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 190
+total_guest_count: 192
 approved_guest_count: 48
 local_image: "images/Sk4AHvwQJ1KaCN81CM0T.png"
+canceled: false
 ---
 
 # The Future of Visual Commerce with AI Agents
@@ -36,7 +37,7 @@ local_image: "images/Sk4AHvwQJ1KaCN81CM0T.png"
 **Hosts:** Savanah.ai  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 4:00pm–8:00pm ET
 **Where:** M.M.LaFleur · 130 W 42nd St, Floor 13, New York, NY 10036 · Chelsea
-**Going:** 189 of 190
+**Going:** 189 of 192
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Sk4AHvwQJ1KaCN81CM0T
 **Map:** https://www.google.com/maps/search/?api=1&query=130%20W%2042nd%20St%2C%20Floor%2013%2C%20New%20York%2C%20NY%2010036
@@ -68,6 +69,7 @@ The session will include a live demo showcasing how Savanah AI agents can genera
 Followed by curated networking with founders, operators, and brand leaders.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

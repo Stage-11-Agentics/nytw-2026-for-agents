@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["q8EuE2TMl8TknoRxihV6RGtH94k2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 62
+total_guest_count: 64
 approved_guest_count: 21
 local_image: "images/mS9ovrUMKl2c2XK2ZjPC.png"
+canceled: false
 ---
 
 # AI for HR: Confidence vs Fluency
@@ -31,7 +32,7 @@ local_image: "images/mS9ovrUMKl2c2XK2ZjPC.png"
 **Hosts:** peoplepower.ai  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 7:00pm ET
 **Where:** Midtown
-**Going:** 62
+**Going:** 62 of 64
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/mS9ovrUMKl2c2XK2ZjPC
 
@@ -46,6 +47,7 @@ local_image: "images/mS9ovrUMKl2c2XK2ZjPC.png"
 You're using AI. Your team is using AI. But do you actually understand what you're doing? We assessed 577 HR leaders and found something that should worry every CHRO: 45% think they're further along than they really are. They're confident. They're not fluent. There's a 43-point gap between how HR applies AI practically and how well they understand the people and culture implications. In this working session, we'll surface where that gap lives in your organization, why it matters, and what to do about it. This isn't a lecture. We'll dig into real scenarios, map your team's actual readiness, and walk out with a clear picture of what fluency actually looks like for your function. Bring your questions. Bring your friction points. Leave with a path forward.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

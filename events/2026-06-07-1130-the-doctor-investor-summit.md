@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["NZSZuSOeoOfaxEkygZ0A8jfCW8B3", "7DFu4rITofNzKIjA7hCx", "Eepe386pPWa3PkjCt603mOzXSxy2"]
 is_capped: false
-total_guest_count: 11
+total_guest_count: 14
 approved_guest_count: 9
 local_image: "images/L9pbPvwYLTbSngRjJIT4.png"
+canceled: false
 ---
 
 # The Doctor Investor Summit
@@ -31,7 +32,7 @@ local_image: "images/L9pbPvwYLTbSngRjJIT4.png"
 **Hosts:** investDoc  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Sunday, June 7, 2026 · 11:30am ET
 **Where:** Midtown
-**Going:** 11
+**Going:** 11 of 14
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/L9pbPvwYLTbSngRjJIT4
 
@@ -83,6 +84,7 @@ Topics
 * The future of physician-led venture ecosystems
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["ngH3uDjK0vMWaNZcIZo9", "7DFu4rITofNzKIjA7hCx", "Fqh8pYvgmabmQ5DYEyS8Q62Mm0R2"]
 is_capped: false
-total_guest_count: 498
-approved_guest_count: 227
+total_guest_count: 508
+approved_guest_count: 262
 local_image: "images/Xjjtc1Cr1VTMlBMCMvcY.png"
+canceled: false
 ---
 
 # IBM Sports Tech Startup Challenge Showcase co-hosted with Comcast Ventures
@@ -36,7 +37,7 @@ local_image: "images/Xjjtc1Cr1VTMlBMCMvcY.png"
 **Hosts:** IBM, Comcast Ventures  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 2:30pm–3:30pm ET
 **Where:** IBM One Madison Avenue · 1 Madison Ave, FL 2, New York, NY 10010 · Flatiron
-**Going:** 498
+**Going:** 498 of 508
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Xjjtc1Cr1VTMlBMCMvcY
 **Map:** https://www.google.com/maps/search/?api=1&query=1%20Madison%20Ave%2C%20FL%202%2C%20New%20York%2C%20NY%2010010
@@ -63,6 +64,7 @@ This event is on a first come, first served basis. Please arrive early to claim 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 IBM may take group photos or perform live streaming during the event for promotional purposes.
+
 
 
 

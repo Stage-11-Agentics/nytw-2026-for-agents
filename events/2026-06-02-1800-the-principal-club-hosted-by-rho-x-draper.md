@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 4
 owner_ids: ["fbGzDRIjrjMmgnG6GZZpaBu41Tb2", "FtzXc6MouWQNyZVS0SOcJ8VL7cN2", "pBNRc5XNDbPFiWl7I3Qq7M5sSfo2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 257
+total_guest_count: 260
 approved_guest_count: 122
 local_image: "images/rlRAQPlPid3iy9JOVTRs.png"
+canceled: false
 ---
 
 # The Principal Club [Hosted by Rho x Draper]
@@ -36,7 +37,7 @@ local_image: "images/rlRAQPlPid3iy9JOVTRs.png"
 **Hosts:** Rho, Draper  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–8:00pm ET
 **Where:** Grey Lady · 77 Delancey St, New York, NY 10002 · East Village
-**Going:** 257
+**Going:** 257 of 260
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/rlRAQPlPid3iy9JOVTRs
 **Map:** https://www.google.com/maps/search/?api=1&query=77%20Delancey%20St%2C%20New%20York%2C%20NY%2010002
@@ -67,6 +68,7 @@ This event is a part of #NYTechWeek—a week of events hosted by VCs and startup
 
 
 🌟 If you are a Principal / Senior Associate and have not yet been accepted into The Principal Club yet, please apply here: https://9m54pmmw1pd.typeform.com/principalclub
+
 
 
 

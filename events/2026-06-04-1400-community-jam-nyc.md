@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["h3ZOzhmJDVh0P1Ukc94y5hkKbIT2", "7DFu4rITofNzKIjA7hCx", "7XBP22S0QqZrxHmRc5SjxkKEcOq2", "0OHigCIukjROqq78y629OeqgBtB3", "bgys5wvYkrhjv4SE3eUUYjOXJJ13"]
 is_capped: false
-total_guest_count: 74
+total_guest_count: 79
 approved_guest_count: 19
 local_image: "images/VlgbZfX2aKmyl0kobR3q.png"
+canceled: false
 ---
 
 # Community Jam: NYC
@@ -36,7 +37,7 @@ local_image: "images/VlgbZfX2aKmyl0kobR3q.png"
 **Hosts:** Snyk  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 2:00pm–5:00pm ET
 **Where:** New York, NY · New York, NY · Midtown
-**Going:** 74
+**Going:** 74 of 79
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/VlgbZfX2aKmyl0kobR3q
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -70,6 +71,7 @@ AGENDA
 
 
 Don't stay on the sidelines. RSVP to huddle with the best in the industry and refine your AI security playbook for the wins ahead.
+
 
 
 

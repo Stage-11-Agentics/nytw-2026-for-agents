@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["diBWKUeogOQ7DF47t5PQ5OtXEPE3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 648
-approved_guest_count: 314
+total_guest_count: 656
+approved_guest_count: 318
 local_image: "images/TgONROpj21IPSTpuQ806.jpg"
+canceled: false
 ---
 
 # The European Innovation Summit - TechCrunch & 13 Countries
@@ -34,7 +35,7 @@ local_image: "images/TgONROpj21IPSTpuQ806.jpg"
 **Hosts:** How2Scale  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
 **Where:** Boffi Soho · 99 Madison Ave, New York, NY 10016 · Midtown
-**Going:** 647 of 648
+**Going:** 647 of 656
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/TgONROpj21IPSTpuQ806
 **Map:** https://www.google.com/maps/search/?api=1&query=99%20Madison%20Ave%2C%20New%20York%2C%20NY%2010016
@@ -98,6 +99,7 @@ JPMorgan Chase supports founders and scaling companies with the capital, infrast
 This event will be photographed and recorded. By registering and attending, you grant the organizers and their partners the right to use any photographs or video footage in which you may appear for marketing, communications, and promotional purposes, without compensation.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

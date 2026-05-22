@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["KtcYaWBqv7bhC07l353f", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 70
+total_guest_count: 71
 approved_guest_count: 37
 image_download_error: "HTTP Error 403: Forbidden"
+canceled: false
 ---
 
 # Giga Energy's Power Hour @ New York TechWeek
@@ -36,7 +37,7 @@ image_download_error: "HTTP Error 403: Forbidden"
 **Hosts:** Giga Energy  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 4:00pm–7:00pm ET
 **Where:** SPIN New York Flatiron · 48 E 23rd St, New York, NY 10010 · Flatiron
-**Going:** 70
+**Going:** 70 of 71
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/0vnZ8PxenDVeYECu3FXi
 **Map:** https://www.google.com/maps/search/?api=1&query=48%20E%2023rd%20St%2C%20New%20York%2C%20NY%2010010
@@ -56,6 +57,7 @@ Join us for an evening of cocktails, ping pong, and conversations at the interse
 We're bringing together the founders, investors, operators, and builders shaping the future of compute and power, from next-gen data centers to domestic energy manufacturing. Grab a drink, pick up a paddle, meet the Giga team, and trade ideas with the people building what's next.
 
 This event is part of #NYTechWeek, a week of events hosted by VCs and startups across the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

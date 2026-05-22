@@ -25,6 +25,7 @@ remaining_capacity: 42
 total_guest_count: 8
 approved_guest_count: 0
 local_image: "images/uoBdX5KHOTpzJGFIggSE.png"
+canceled: false
 ---
 
 # The Backstage Live — New York
@@ -50,6 +51,7 @@ Stories from the messy side of building, a sharp moderated conversation, Q&A, an
 RSVPs will be invited to get matched in advance with one other attendee through Bridgit (an activity-based connection app) - a small experiment in not arriving alone to events about not building alone.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

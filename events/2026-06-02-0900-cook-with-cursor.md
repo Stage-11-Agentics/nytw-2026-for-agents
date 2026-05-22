@@ -21,9 +21,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["ZGEN4g9qQ3f7QahUyklGXB8Rz472", "JJqGhKkArNVHFSVxIgj2aNlKfJ63", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 120
+total_guest_count: 254
 approved_guest_count: 24
 local_image: "images/Xv4PHzfI7e2cuFQzaf1D.png"
+canceled: false
 ---
 
 # Cook with Cursor
@@ -33,7 +34,7 @@ local_image: "images/Xv4PHzfI7e2cuFQzaf1D.png"
 **Hosts:** Cursor  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 9:00am–12:30pm ET
 **Where:** SoHo
-**Going:** 120
+**Going:** 120 of 254
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Xv4PHzfI7e2cuFQzaf1D
 
@@ -61,6 +62,7 @@ Light bites & refreshments will be served throughout.
 Please Note: This is a limited-availability event requiring approval to attend (as much as we'd love to have everyone join!)
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["20zKIyOo6DgJ1t5HtZ56ysuCuro2", "7DFu4rITofNzKIjA7hCx", "ZkhyOCThJexXg925Dncb"]
 is_capped: false
-total_guest_count: 177
-approved_guest_count: 119
+total_guest_count: 182
+approved_guest_count: 124
 local_image: "images/1sHHUqIMNMhDFDYNQclx.png"
+canceled: false
 ---
 
 # Build Your AI Operating System - Live Workshop for Leaders
@@ -36,7 +37,7 @@ local_image: "images/1sHHUqIMNMhDFDYNQclx.png"
 **Hosts:** MasteringAI  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 1:00pm–4:00pm ET
 **Where:** Chelsea · Chelsea, Manhattan, New York, NY · Tribeca
-**Going:** 175 of 177
+**Going:** 175 of 182
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/1sHHUqIMNMhDFDYNQclx
 **Map:** https://www.google.com/maps/search/?api=1&query=Chelsea%2C%20Chelsea%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -72,6 +73,7 @@ Apply by May 22. Accepted applicants get venue details 72 hours out.
 This is an official MasteringAI.io event. 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

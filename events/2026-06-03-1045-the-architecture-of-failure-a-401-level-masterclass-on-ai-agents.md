@@ -26,6 +26,7 @@ is_capped: false
 total_guest_count: 269
 approved_guest_count: 240
 local_image: "images/oZjPIrymA9JRf4x3t4GO.png"
+canceled: false
 ---
 
 # The Architecture of Failure: A 401-Level Masterclass on AI Agents
@@ -69,6 +70,7 @@ We expect these sessions to fill up quickly and be in high demand.  Space is lim
 Guests will be permitted in the Google for Startups Hub only during the time slot they are approved for.  
 
 We invite all guests to return for the Google For Developers Happy Hour at 4p.  Only those with valid badges will be permitted, space allowing.
+
 
 
 

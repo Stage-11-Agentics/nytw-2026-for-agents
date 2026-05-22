@@ -27,6 +27,7 @@ is_capped: false
 total_guest_count: 114
 approved_guest_count: 66
 local_image: "images/PgC9007xbQZuIyeFn7bv.png"
+canceled: false
 ---
 
 # Calm-pliance Cafe
@@ -62,6 +63,7 @@ Compliance Cafe — Hosted by Vanta & Agency
 ​Walk-ins welcome. Bring a friend.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

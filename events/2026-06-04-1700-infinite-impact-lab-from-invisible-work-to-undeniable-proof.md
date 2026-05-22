@@ -22,9 +22,10 @@ fetch_status: ok
 owner_count: 2
 owner_ids: ["TLeyyr0UUTOZ1RPCmHOtPptkfYz1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 235
+total_guest_count: 239
 approved_guest_count: 0
 local_image: "images/AgSHwfX52RKiTIHXYcLH.jpg"
+canceled: false
 ---
 
 # Infinite Impact Lab: From Invisible Work to Undeniable Proof
@@ -34,7 +35,7 @@ local_image: "images/AgSHwfX52RKiTIHXYcLH.jpg"
 **Hosts:** Growing the Middle  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:00pm–8:00pm ET
 **Where:** 200 Hudson St, New York, NY 10013 · Midtown
-**Going:** 59 of 235
+**Going:** 59 of 239
 **RSVP:** https://partiful.com/e/AgSHwfX52RKiTIHXYcLH
 **Map:** https://www.google.com/maps/search/?api=1&query=200%20Hudson%20St%2C%20New%20York%2C%20NY%2010013
 
@@ -85,6 +86,7 @@ It is a practical working session for people who need better language, stronger 
 Attendees leave with tangible outputs, stronger positioning, and a repeatable system for making their contribution undeniable in an economy where AI is changing how work is evaluated, communicated, and rewarded.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+
 
 
 

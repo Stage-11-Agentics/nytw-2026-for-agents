@@ -26,6 +26,7 @@ remaining_capacity: 21
 total_guest_count: 39
 approved_guest_count: 19
 local_image: "images/fKGWVWedefyfix8WYFOq.jpg"
+canceled: false
 ---
 
 # Switchcraft — Build Your Own Keyboard (Anterior)
@@ -59,6 +60,7 @@ We’ll have snacks, a fully stocked fridge with every drink you can dream of, a
 We’ll also be raffling off a high-value gift for one lucky attendee who applies for our Member of Technical Staff role at www.anterior.com/careers
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

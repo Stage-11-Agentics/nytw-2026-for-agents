@@ -19,9 +19,10 @@ fetch_status: ok
 owner_count: 3
 owner_ids: ["vMiCBGZtVlfj7J2Y9uU6rLTOWdJ3", "7DFu4rITofNzKIjA7hCx", "orlxVdlC5OXZfCtvQJ22ZOmwdj03"]
 is_capped: false
-total_guest_count: 113
+total_guest_count: 115
 approved_guest_count: 0
 local_image: "images/T6FjZ5aD6hprIfQyjaSz.png"
+canceled: false
 ---
 
 # AI Builders x Founders: Matchmaking
@@ -31,7 +32,7 @@ local_image: "images/T6FjZ5aD6hprIfQyjaSz.png"
 **Hosts:** Pioneer Minds AI  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm ET
 **Where:** Midtown
-**Going:** 113
+**Going:** 113 of 115
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/T6FjZ5aD6hprIfQyjaSz
 
@@ -93,6 +94,7 @@ Our mission is straightforward:
 ​​​Create Lasting Impact: Offer continued mentorship and post-event partnerships so promising concepts can scale.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

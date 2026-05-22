@@ -26,9 +26,10 @@ owner_ids: ["q4fEYeb9taNZrLrxibJd7zWiXDi1", "7DFu4rITofNzKIjA7hCx", "bNfbgEomzJb
 is_capped: true
 max_capacity: 120
 remaining_capacity: 35
-total_guest_count: 91
+total_guest_count: 92
 approved_guest_count: 85
 local_image: "images/deH1UugMJh8eLejlukJ5.png"
+canceled: false
 ---
 
 # AI Ops in Action: Live Demos + Founder Showcases
@@ -72,6 +73,7 @@ This event is co-hosted by AutoOpsStack (AI automation for real-world operations
 BrainStation is the global leader in digital skills learning and workforce transformation. They empower businesses and professionals to succeed in the digital age by equipping them with the necessary skills to create value in fields such as AI, data, design, marketing and product.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 

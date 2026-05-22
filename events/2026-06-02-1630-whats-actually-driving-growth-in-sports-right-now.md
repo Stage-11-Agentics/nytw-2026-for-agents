@@ -24,9 +24,10 @@ fetch_status: ok
 owner_count: 5
 owner_ids: ["Amv0aNM2pwTSGTyVdoLhoOpAvx02", "7DFu4rITofNzKIjA7hCx", "qqGs3YLHiKVm7EBqBNBvSdk1XHq2", "uCNmqSbALj3K8ZztqFtd", "TRkfWA2NtXTvf8ne9F2u"]
 is_capped: false
-total_guest_count: 161
+total_guest_count: 165
 approved_guest_count: 100
 local_image: "images/BJ7WmuRF2y5pVHqok6hQ.png"
+canceled: false
 ---
 
 # What’s Actually Driving Growth in Sports Right Now?
@@ -36,7 +37,7 @@ local_image: "images/BJ7WmuRF2y5pVHqok6hQ.png"
 **Hosts:** Laces Sports  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:30pm–7:30pm ET
 **Where:** Perkins Coie · 1155 Avenue of the Americas, FL 22, New York, NY 10036 · Flatiron
-**Going:** 161
+**Going:** 161 of 165
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/BJ7WmuRF2y5pVHqok6hQ
 **Map:** https://www.google.com/maps/search/?api=1&query=1155%20Avenue%20of%20the%20Americas%2C%20FL%2022%2C%20New%20York%2C%20NY%2010036
@@ -82,6 +83,7 @@ This event is a part of #NYTechWeek—a week of events hosted by VCs and startup
 
 About your host:
 Perkins Coie is a leading international law firm specializing in solving the legal and business challenges of tomorrow. For over a century, we have represented clients at the forefront of technological change, from AI and biometrics to robotics and telemedicine. Like you, we embrace new possibilities and frontiers with unwavering intellectual curiosity.
+
 
 
 
