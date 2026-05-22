@@ -1,6 +1,6 @@
 ---
 name: ny-tech-week-2026
-description: A flat-file, agent-friendly mirror of every NY Tech Week 2026 event (June 1–7, NYC). Use when planning a Tech Week schedule, filtering events for a specific person/company, or analyzing the event landscape (top hosts, neighborhoods, capacity). 1,381 events with full descriptions, RSVP links, hero images, and 2,047 resolved host profiles.
+description: A flat-file, agent-friendly mirror of every NY Tech Week 2026 event (June 1–7, NYC). Use when planning a Tech Week schedule, filtering events for a specific person/company, or analyzing the event landscape (top hosts, neighborhoods, capacity). 1,385 events with full descriptions, RSVP links, hero images, and 2,047 resolved host profiles.
 ---
 
 # NY Tech Week 2026 — Agent Skill
@@ -17,7 +17,7 @@ ny-tech-week-reference/
 ├── HOST-STATS.md         ← top 50 hosts + recurring co-host pairs
 ├── manifest.json         ← raw calendar extraction
 ├── users.json            ← 2,047 resolved Partiful profiles (id → name, bio, photo, socials, tags)
-├── events/               ← 1,381 markdown files, one per event
+├── events/               ← 1,385 markdown files, one per event
 └── images/               ← 1,344 hero images (PNG/JPG), keyed by event_id
 ```
 
