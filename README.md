@@ -62,7 +62,7 @@ each step is idempotent.
 
 ## license, ethics, takedown
 
-event metadata © respective hosts and tech-week.com / a16z. Partiful images © Partiful + respective uploaders. archived under fair use for community planning and agent tooling. if you're an event host and want your event removed or amended, open an issue — we'll handle it the same day.
+event metadata © respective hosts and tech-week.com / a16z. Partiful images © Partiful + respective uploaders. archived under fair use for community planning and agent tooling. if you're an event host and want your event removed or amended, open an issue.
 
 ## about
 
