@@ -12,22 +12,20 @@ neighborhood: "Union Square"
 rsvp_url: "https://partiful.com/e/Qtt9vmD7LTiKn6y1A9RL"
 public_short_url: "https://go.partiful.com/7WHAqL4P"
 google_maps: "https://www.google.com/maps/search/?api=1&query=61%20Guernsey%20St%2C%20Brooklyn%2C%20NY%2011222"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FFoBDsPf3ZdQhQobBFdoqpZsUAj73%2F5LPt8cnpNuDtH7xCLSZoN"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FFoBDsPf3ZdQhQobBFdoqpZsUAj73%2F5LPt8cnpNuDtH7xCLSZoN?alt=media&token=b167f77a-2440-40d0-9018-7958895c9e76"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 77
 badges: []
 fetch_status: ok
 owner_count: 5
 owner_ids: ["FoBDsPf3ZdQhQobBFdoqpZsUAj73", "7DFu4rITofNzKIjA7hCx", "UT3kdpmz4r7fIrtP9IWh", "KJc5pemSrbRLkyW5vAywAYDP5AO2", "rSRjVVRZ22NYASq6rvB5Lq9gziy2"]
 is_capped: true
 max_capacity: 60
-remaining_capacity: 18
-total_guest_count: 79
-approved_guest_count: 42
-local_image: "images/Qtt9vmD7LTiKn6y1A9RL.png"
+remaining_capacity: 4
 canceled: false
+approved_guest_count: 56
+local_image: "images/Qtt9vmD7LTiKn6y1A9RL.png"
 ---
 
 # GridMatch: A DER Mixer
@@ -37,7 +35,7 @@ canceled: false
 **Hosts:** Ecosuite  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:30pm ET
 **Where:** Brooklyn Winery · 61 Guernsey St, Brooklyn, NY 11222 · Union Square
-**Capacity:** capped at 60 · 42 taken, 18 remaining
+**Capacity:** capped at 60 · 56 taken, 4 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Qtt9vmD7LTiKn6y1A9RL
 **Map:** https://www.google.com/maps/search/?api=1&query=61%20Guernsey%20St%2C%20Brooklyn%2C%20NY%2011222
@@ -55,7 +53,7 @@ canceled: false
 
 NY Tech Week, but make it electric⚡️
 
-Anchors: Michael Lee, Peyton Boswell, Andrew Gordon, Emily Fisher 
+Anchors: Michael Lee, Peyton Boswell, Emily Fisher, Julia Magliozzo, David Schieren
 
 GridMatch is a fast-paced networking experience where the people building, financing, and operating the electric grid come together in a lightning-session style event to brainstorm with as many people as possible.
 
@@ -71,11 +69,7 @@ Format:
 
 This a rapid matchmaking system for the GRID. Open Bar and food provided. 
 
-This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
+This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
 
 
 

@@ -11,20 +11,18 @@ host: "Fenwick, Radical Ventures"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/KIimVVdYB8fjaiE1UdZz"
 public_short_url: "https://go.partiful.com/axhmh3pp"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FBEyCEP4Eh7hBy5ga4vUt%2FH1sZSL-hpQgYuPTI8q1jF"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FBEyCEP4Eh7hBy5ga4vUt%2FH1sZSL-hpQgYuPTI8q1jF?alt=media&token=5a9d5bc5-5241-4a75-b8a9-fbd6b8ea7e2e"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 199
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["BEyCEP4Eh7hBy5ga4vUt", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 215
-approved_guest_count: 95
-local_image: "images/KIimVVdYB8fjaiE1UdZz.png"
 canceled: false
+approved_guest_count: 356
+local_image: "images/KIimVVdYB8fjaiE1UdZz.png"
 ---
 
 # Built in NYC: AI Edition
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** Fenwick, Radical Ventures
 **When:** Thursday, June 4, 2026 · 4:00pm–6:00pm ET
 **Where:** Flatiron
-**Going:** 199 of 215
+**Going:** 356
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/KIimVVdYB8fjaiE1UdZz
 
@@ -59,10 +57,6 @@ Kristine Di Bacco, Partner at Fenwick, will moderate a panel including:
 Expect candid conversations, founder insights, and the opportunity to connect with fellow entrepreneurs, operators, investors, and members of the NYC tech community over networking and drinks following the panel.
 
 By confirming your attendance you agree to receive communications and updates from Fenwick.
-
-
-
-
 
 
 

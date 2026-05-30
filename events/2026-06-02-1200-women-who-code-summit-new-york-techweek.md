@@ -18,16 +18,14 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 41
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["UeslnxCHmaYmNSerxkYgkGjkmOT2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 42
-approved_guest_count: 27
-local_image: "images/MS799jnbmEb4W8981dii.png"
 canceled: false
+approved_guest_count: 52
+local_image: "images/MS799jnbmEb4W8981dii.png"
 ---
 
 # Women Who Code Summit - #New York TechWeek
@@ -37,7 +35,7 @@ canceled: false
 **Hosts:** Women Who Code  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 12:00pm–9:00pm ET
 **Where:** IPIC Theaters · 11 Fulton St, New York, NY 10038 · Financial District
-**Going:** 41 of 42
+**Going:** 52
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/MS799jnbmEb4W8981dii
 **Map:** https://www.google.com/maps/search/?api=1&query=11%20Fulton%20St%2C%20New%20York%2C%20NY%2010038
@@ -63,10 +61,6 @@ The Women Who Code Summit is coming to New York at the IPIC Theater in the Seapo
 This summit is built for mid-to-senior technical leaders shaping architecture, leading teams, and delivering measurable business outcomes. Expect executive-caliber sessions, leadership development, and a peer network of experienced technologists. If you’re ready to expand your impact and lead what’s next, this is your summit.
 
 This event is a part of #NewYorkTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -9,20 +9,17 @@ host: "Dubai Future Foundation"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/yVeiohVURo6J6QMPAjUv"
 public_short_url: "https://go.partiful.com/Xmkg8CwK"
-image: "https://assets.getpartiful.com/posters/tech_week_20250218"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fe4KpLrHFpv1tDbt5xlIj%2F7p7Fupm7jQyX98kix2RJL?alt=media&token=c21e53a7-d8b4-48b6-af97-418b4b6ee547"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 153
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["6iTmUploLMbS5u2KpbSBNMMM5zz1", "e4KpLrHFpv1tDbt5xlIj", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 158
-approved_guest_count: 0
-local_image: "images/yVeiohVURo6J6QMPAjUv.png"
 canceled: false
+local_image: "images/yVeiohVURo6J6QMPAjUv.png"
 ---
 
 # Dubai is Building the Future. Come Join Us.
@@ -32,7 +29,6 @@ canceled: false
 **Hosts:** Dubai Future Foundation  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 2:00pm ET
 **Where:** SoHo
-**Going:** 153 of 158
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/yVeiohVURo6J6QMPAjUv
 
@@ -60,10 +56,6 @@ Whether you're looking for a launchpad to scale globally or simply want to build
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

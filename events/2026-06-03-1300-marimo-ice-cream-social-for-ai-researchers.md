@@ -11,20 +11,18 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/XP4E96LBZVAKjv9grfcY"
 public_short_url: "https://go.partiful.com/yptB33ag"
 google_maps: "https://www.google.com/maps/search/?api=1&query=91%20E%203rd%20St%2C%20New%20York%2C%20NY%2010003"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FktUCJqzQsNNb7fBXDxxxx6hZ6ZZ2%2FIOCu8y1u_UO_2uz_xs_ds"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FktUCJqzQsNNb7fBXDxxxx6hZ6ZZ2%2FIOCu8y1u_UO_2uz_xs_ds?alt=media&token=d69299d6-f9af-4e62-9018-35f5871e9f95"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 202
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["ktUCJqzQsNNb7fBXDxxxx6hZ6ZZ2", "7DFu4rITofNzKIjA7hCx", "xSay3p7KgWUfttQzJC8k7ChedHC3", "dqg4k6vWAmOKfrLyvD1MrnwoJCh1"]
 is_capped: false
-total_guest_count: 209
-approved_guest_count: 147
-local_image: "images/XP4E96LBZVAKjv9grfcY.jpg"
 canceled: false
+approved_guest_count: 242
+local_image: "images/XP4E96LBZVAKjv9grfcY.jpg"
 ---
 
 # Marimo: Ice Cream Social for AI Researchers
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** CoreWeave  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 1:00pm ET
 **Where:** 91 E 3rd St, New York, NY 10003 · Midtown
-**Going:** 202 of 209
+**Going:** 242
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/XP4E96LBZVAKjv9grfcY
 **Map:** https://www.google.com/maps/search/?api=1&query=91%20E%203rd%20St%2C%20New%20York%2C%20NY%2010003
@@ -64,10 +62,6 @@ Unlike Jupyter, marimo notebooks are reactive, stored as pure .py (Git-friendly)
 marimo has been downloaded over 12 million times and is used for research and AI/ML development at companies like BlackRock, Shopify, OpenAI, Cloudflare and more.
 
 This event is a part of #NyTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

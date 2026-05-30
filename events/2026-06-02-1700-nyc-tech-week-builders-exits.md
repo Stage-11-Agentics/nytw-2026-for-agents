@@ -8,26 +8,21 @@ end_time: "7:30pm ET"
 start_iso: "2026-06-02T21:00:00.000Z"
 end_iso: "2026-06-02T23:30:00.000Z"
 host: "UBS, Capital Group"
-venue_name: "Paramount Club"
-venue_address: "1301 6th Ave, New York, NY 10019"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/tqFtk1LjwFwXxJJTLyaf"
 public_short_url: "https://go.partiful.com/izrNJxyQ"
-google_maps: "https://www.google.com/maps/search/?api=1&query=1301%206th%20Ave%2C%20New%20York%2C%20NY%2010019"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FthcZTemA8aVZtZsMcGJL24XIWn12%2Fqu2AfyaRV-SNyF3346UrV"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FthcZTemA8aVZtZsMcGJL24XIWn12%2FduFkgT_RjgWAVEUrpnu0m?alt=media&token=c001c217-2fdf-4d06-b582-9c14c43cf7be"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 96
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["thcZTemA8aVZtZsMcGJL24XIWn12", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 96
+canceled: false
 approved_guest_count: 0
 local_image: "images/tqFtk1LjwFwXxJJTLyaf.png"
-canceled: false
 ---
 
 # NYC Tech Week: Builders & Exits
@@ -36,11 +31,9 @@ canceled: false
 
 **Hosts:** UBS, Capital Group
 **When:** Tuesday, June 2, 2026 · 5:00pm–7:30pm ET
-**Where:** Paramount Club · 1301 6th Ave, New York, NY 10019 · Midtown
-**Going:** 96
+**Where:** Midtown
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/tqFtk1LjwFwXxJJTLyaf
-**Map:** https://www.google.com/maps/search/?api=1&query=1301%206th%20Ave%2C%20New%20York%2C%20NY%2010019
 
 ### Hosts on Partiful
 
@@ -73,10 +66,6 @@ Featuring:
 Expect a high-signal room, honest conversation, and real connections.
 
 Limited capacity. Approval required.
-
-
-
-
 
 
 

@@ -4,59 +4,62 @@ event_id: "4ZZwfYwsanqlxiKEHMY6"
 date: 2026-06-05
 day: "Friday"
 start_time: "7:00pm ET"
-end_time: "11:30pm ET"
+end_time: "10:30pm ET"
 start_iso: "2026-06-05T23:00:00.000Z"
-end_iso: "2026-06-06T03:30:00.000Z"
+end_iso: "2026-06-06T02:30:00.000Z"
 host: "Tech Tribe, Brex"
-venue_address: "116 W 23rd St, New York, NY 10011"
+venue_name: "Manhattan"
+venue_address: "Manhattan, New York, NY"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/4ZZwfYwsanqlxiKEHMY6"
 public_short_url: "https://go.partiful.com/uT5e0TdC"
-google_maps: "https://www.google.com/maps/search/?api=1&query=116%20W%2023rd%20St%2C%20New%20York%2C%20NY%2010011"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FWSe9RMDtTJPTVfjBpg2MGebC7qj2%2FiCpYXinAqiOqVWH44h1Lo"
+google_maps: "https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FWSe9RMDtTJPTVfjBpg2MGebC7qj2%2FVo3eJzhxo_X41andHybMf?alt=media&token=1cdf5b7d-e7cd-49aa-8cc1-3246ea3c8afc"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 200
 badges: []
 fetch_status: ok
-owner_count: 3
-owner_ids: ["WSe9RMDtTJPTVfjBpg2MGebC7qj2", "7DFu4rITofNzKIjA7hCx", "9QH3i4cxUZVOzVitMbxqCCGH4Ir1"]
+owner_count: 5
+owner_ids: ["WSe9RMDtTJPTVfjBpg2MGebC7qj2", "7DFu4rITofNzKIjA7hCx", "9QH3i4cxUZVOzVitMbxqCCGH4Ir1", "o9ASq15jeU54U3KbjfAN", "LA73olsyObbiooYPLVnWqSCrbKj2"]
 is_capped: true
-max_capacity: 92
-remaining_capacity: 63
-total_guest_count: 205
-approved_guest_count: 29
-local_image: "images/4ZZwfYwsanqlxiKEHMY6.png"
+max_capacity: 75
 canceled: false
+local_image: "images/4ZZwfYwsanqlxiKEHMY6.png"
 ---
 
 # Brex Shabbat Dinner
 
 ![Brex Shabbat Dinner](images/4ZZwfYwsanqlxiKEHMY6.png)
 
-**Hosts:** Tech Tribe, Brex  _(+1 more host(s) on Partiful — see description for full list)_
-**When:** Friday, June 5, 2026 · 7:00pm–11:30pm ET
-**Where:** 116 W 23rd St, New York, NY 10011 · SoHo
-**Capacity:** capped at 92 · 29 taken, 63 remaining
+**Hosts:** Tech Tribe, Brex  _(+3 more host(s) on Partiful — see description for full list)_
+**When:** Friday, June 5, 2026 · 7:00pm–10:30pm ET
+**Where:** Manhattan · Manhattan, New York, NY · SoHo
+**Capacity:** capped at 75
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/4ZZwfYwsanqlxiKEHMY6
-**Map:** https://www.google.com/maps/search/?api=1&query=116%20W%2023rd%20St%2C%20New%20York%2C%20NY%2010011
+**Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
 - [Tech Tribe](https://partiful.com/u/WSe9RMDtTJPTVfjBpg2MGebC7qj2) — _Jewish Events and experiences for NY's greatest collection of founders, VCs and Tech operators._
 - [Shai Goldman](https://partiful.com/u/9QH3i4cxUZVOzVitMbxqCCGH4Ir1)
+- [Leverage](https://partiful.com/u/o9ASq15jeU54U3KbjfAN)
+- [Brex Startups Events](https://partiful.com/u/LA73olsyObbiooYPLVnWqSCrbKj2) — _Brex.com is the modern spend platform, combining the world’s smartest corporate card with integrated expense management, banking, bill pay, and travel. Over 30,000 companies, including Anthropic, SeatGeek, and Atari, use Brex to make every dollar count._
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
 ## Description
 
-Join us for a Brex Shabbat Dinner co-hosted with TechTribe in NYC. Connect with startup founders, venture capital investors, private equity investors, and Brex employees, and be part of the thriving community in New York during #TechWeek.
+Join us for a Brex Shabbat Dinner co-hosted with TechTribe in NYC and Leverage. 
+
+Connect with startup founders, venture capital investors, private equity investors, and Brex employees, and be part of the thriving community in New York during #TechWeek.
 
 ​Enjoy a traditional Shabbat dinner, with prayers, gratitudes and new friends, bringing a meaningful and spiritual close to #TechWeek.
 
 Thank you, Shai Goldman & Rabbi Mordechai Lightstone
+
+Hosted in partnership with the US Alumni Association Reichman University.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
@@ -71,7 +74,7 @@ No +1s allowed as space is limited in size.
 
 ​​⏰ Time: 7:00 PM
 
-​​🔒 Venue: Revealed upon RSVP (Chelsea, New York)
+​​🔒 Venue: Revealed upon RSVP (Manhattan, New York)
 
 ​​Hope to see you there.
 
@@ -98,10 +101,6 @@ Admitted guests will be notified by way of event approval (with calendar invite)
 ​​​I understand that Brex Inc. (the "Company") may use, reproduce, distribute, perform and publicly display my name, photographic likeness and videography, including, but not limited to, my likeness, image, voice, and/or signature which may appear therein, alone and/or in combination with other works, in print, broadcast and/or all other media, whether known or hereafter devised, including, but not limited to, advertising, trade and any other lawful purposes.  I understand that the Company may edit and alter the photography and videography at the Company’s sole discretion. Any copyright or trademarks in the photography and videography (including extensions and renewals) shall be exclusively the Company’s property. I hereby release and hold harmless the Company and those acting pursuant to its authority from liability for any claims by me or or any third party in connection with my participation in any Company events in reliance of this consent and release.
 
 ​​By providing your information you agree to be added to our email distribution list. You can unsubscribe anytime here.
-
-
-
-
 
 
 

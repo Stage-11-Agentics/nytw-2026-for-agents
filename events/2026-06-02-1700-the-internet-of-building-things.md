@@ -12,22 +12,20 @@ neighborhood: "Brooklyn"
 rsvp_url: "https://partiful.com/e/NViHHNrgfBvxzJchdcqP"
 public_short_url: "https://go.partiful.com/NefI3eHa"
 google_maps: "https://www.google.com/maps/search/?api=1&query=38%20W%2039th%20St%2C%20New%20York%2C%20NY%2010018"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJjNoOvV21xW9TXkjbkaJjLOtCYp2%2FYuGnmZ-Zx9uRuOpUs4bu5"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJjNoOvV21xW9TXkjbkaJjLOtCYp2%2FYuGnmZ-Zx9uRuOpUs4bu5?alt=media&token=88ce5bf4-077f-4537-92ae-93c79df0ab43"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 101
 badges: []
 fetch_status: ok
 owner_count: 7
 owner_ids: ["JjNoOvV21xW9TXkjbkaJjLOtCYp2", "r4SOmLKipTWeT27r7vXBsVC8e9Z2", "7DFu4rITofNzKIjA7hCx", "7VpCeHzFXpTiLp9K0fmW5iWGkcu2", "xYec0zE0TtVP6G9V8VKF2Ed5rkl2", "kjzy6BA4JxXldo1VYImR6Kdx9zd2", "Pq1NIHd6LsR9UR0PfDLMG9ZwdtI2"]
 is_capped: true
-max_capacity: 150
-remaining_capacity: 109
-total_guest_count: 102
-approved_guest_count: 41
-local_image: "images/NViHHNrgfBvxzJchdcqP.png"
+max_capacity: 120
+remaining_capacity: 37
 canceled: false
+approved_guest_count: 83
+local_image: "images/NViHHNrgfBvxzJchdcqP.png"
 ---
 
 # The Internet of Building Things
@@ -37,7 +35,7 @@ canceled: false
 **Hosts:** MistyWest  _(+6 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:00pm ET
 **Where:** Loft39 · 38 W 39th St, New York, NY 10018 · Brooklyn
-**Capacity:** capped at 150 · 41 taken, 109 remaining
+**Capacity:** capped at 120 · 83 taken, 37 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/NViHHNrgfBvxzJchdcqP
 **Map:** https://www.google.com/maps/search/?api=1&query=38%20W%2039th%20St%2C%20New%20York%2C%20NY%2010018
@@ -74,9 +72,9 @@ Ben Williams - COO at Exyn Technologies (www.exyn.com/)
 
 Ben is the COO/CPO of Exyn Technologies, pioneering GPS-denied autonomy in multi-modal robots. Previously, he co-founded and led Reelio (acquired by Fullscreen Media/AT&T), helped commercialize deep tech at Lockheed Martin, and earned his MBA from Wharton — where he was later named to their 40 Under 40. A former US Naval Officer and recovering engineer, he also mentors early-stage startups and serves on various boards, all while keeping his two young sons out of the snack cabinet.
 
-Niran Shrestha - CEO at Kwant.ai
+Niran Shrestha - CEO at Kwant (https://www.kwant.ai/)
 
-Niran Shrestha is the CEO of Kwant.ai, an AI-powered industrial workforce management platform using wearable technology to improve safety, productivity, and compliance on job sites. Deployed by ENR 500 contractors like Kiewit, Turner, and Walbridge, and Fortune 200 companies including Ford, Microsoft, and General Motors, Kwant's flagship projects include Ford's Blue Oval City (24K workers), major Microsoft data centers, and Nucor's largest steel plant — with case studies showing a 50% reduction in safety incidents and an 11% productivity gain.
+Niran Shrestha is the CEO of Kwant, an AI-powered industrial workforce management platform using wearable technology to improve safety, productivity, and compliance on job sites. Deployed by ENR 500 contractors like Kiewit, Turner, and Walbridge, and Fortune 200 companies including Ford, Microsoft, and General Motors, Kwant's flagship projects include Ford's Blue Oval City (24K workers), major Microsoft data centers, and Nucor's largest steel plant — with case studies showing a 50% reduction in safety incidents and an 11% productivity gain.
 
 Conley Oster - COO & Co-Founder at Raise Robotics (www.raiserobotics.ai/)
 
@@ -90,10 +88,6 @@ Intent (https://withintent.com/) is a Polish software design and engineering fir
 Nordic (https://nordicsemi.com/) makes the wireless chips powering the world's most advanced connected devices.
 
 Boast (https://boast.ai/) is a Vancouver-based platform that automates SR&ED and R&D tax credit claims, helping North American hardware and deep tech companies recover up to 64% of eligible R&D expenses with less paperwork and audit risk.
-
-
-
-
 
 
 

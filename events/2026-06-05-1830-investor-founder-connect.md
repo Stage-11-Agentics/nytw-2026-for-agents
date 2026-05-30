@@ -14,20 +14,18 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/UlFftZW7i9XR5gzWbGMR"
 public_short_url: "https://go.partiful.com/OpdXwBKq"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FQjAQ7et3eKrudQ24m09Q%2FOGELagbD8KBYps-MEpFJq"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FQjAQ7et3eKrudQ24m09Q%2FOGELagbD8KBYps-MEpFJq?alt=media&token=3de0751d-e1ba-425e-85e2-f9ea45e3ae89"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 76
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["QjAQ7et3eKrudQ24m09Q", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 78
-approved_guest_count: 64
-local_image: "images/UlFftZW7i9XR5gzWbGMR.png"
 canceled: false
+approved_guest_count: 140
+local_image: "images/UlFftZW7i9XR5gzWbGMR.png"
 ---
 
 # Investor-Founder Connect
@@ -37,7 +35,7 @@ canceled: false
 **Hosts:** American South Asian Network  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 6:30pm–8:30pm ET
 **Where:** Manhattan · Manhattan, New York, NY · Midtown
-**Going:** 76 of 78
+**Going:** 140
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/UlFftZW7i9XR5gzWbGMR
 **Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -80,10 +78,6 @@ New York Tech Week attendees seeking thoughtful, cross-sector conversations
 https://www.instagram.com/asan.fyi https://www.linkedin.com/company/asanfyi
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

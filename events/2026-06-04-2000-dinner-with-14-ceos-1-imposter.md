@@ -14,20 +14,18 @@ neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/nDR5zz1fydJhFJcxu1Bj"
 public_short_url: "https://go.partiful.com/MQxXpxlH"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FU6K0em8zNLafQ6oMn3P2%2FQ_KrbsnCtRE82ZpYdu4m-"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FU6K0em8zNLafQ6oMn3P2%2FQ_KrbsnCtRE82ZpYdu4m-?alt=media&token=34809981-d23b-4bd6-9e5f-383dc2a95d6e"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 32
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["U6K0em8zNLafQ6oMn3P2", "7DFu4rITofNzKIjA7hCx", "4LvcJUsqgEblKh9u3tFlXCBWBTp1"]
 is_capped: false
-total_guest_count: 36
+canceled: false
 approved_guest_count: 0
 local_image: "images/nDR5zz1fydJhFJcxu1Bj.png"
-canceled: false
 ---
 
 # Dinner with 14 CEOs + 1 Imposter
@@ -37,7 +35,6 @@ canceled: false
 **Hosts:** Six  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 8:00pm–10:00pm ET
 **Where:** Flatiron · Flatiron, Manhattan, New York, NY · Flatiron
-**Going:** 32 of 36
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/nDR5zz1fydJhFJcxu1Bj
 **Map:** https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -68,10 +65,6 @@ good food. ambitious people. one excellent liar.
 think you can figure out who the imposter is? apply to attend.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

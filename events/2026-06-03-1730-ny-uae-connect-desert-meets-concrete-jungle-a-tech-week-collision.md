@@ -9,20 +9,18 @@ host: "Vencapital"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/HT0UUtpvWrsGGJyjGSdG"
 public_short_url: "https://go.partiful.com/TN1fMViU"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FQnBEMRqeGuM96jxuKVr2aS9l2FH3%2F0nzqZHoEekSv7zk8Z5_2Q"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FQnBEMRqeGuM96jxuKVr2aS9l2FH3%2F0fA_fpzFIpAgHxKHyq_OM?alt=media&token=c72a2559-b62f-45ff-b434-83b5851ecc56"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 145
 badges: []
 fetch_status: ok
 owner_count: 5
 owner_ids: ["QnBEMRqeGuM96jxuKVr2aS9l2FH3", "7DFu4rITofNzKIjA7hCx", "RWvaPuAxsvcg0ruhuw74JAxYuD92", "LPhtfcjuWReGyGdcZ9lke1EWJ2i1", "Q6hlxVbORtTj8psOWtJoYNsXffr1"]
 is_capped: false
-total_guest_count: 147
-approved_guest_count: 127
-local_image: "images/HT0UUtpvWrsGGJyjGSdG.png"
 canceled: false
+approved_guest_count: 163
+local_image: "images/HT0UUtpvWrsGGJyjGSdG.png"
 ---
 
 # NY-UAE Connect - Desert Meets Concrete Jungle: A Tech Week Collision
@@ -32,7 +30,7 @@ canceled: false
 **Hosts:** Vencapital  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:30pm ET
 **Where:** Midtown
-**Going:** 145 of 147
+**Going:** 163
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/HT0UUtpvWrsGGJyjGSdG
 
@@ -55,15 +53,15 @@ About Host - Alumni Ventures
 
 ​Alumni Ventures, is the #4 most active US VC firm, with 1,400+ portfolio companies, 11,000+ investors, 8,000+ experts and $1 billion+ deployed. Learn more AV at https://www.av.vc/ 
 
-​Co- Host - Vencapital ​
+​Co-Host - NYU Stern Abu Dhabi
+
+The Stern School of Business at NYU Abu Dhabi is the top US Business school in the region. Stern at NYUAD is an academic enterprise that is uniquely positioned to influence management and business in MENA. Learn more at https://stern.nyuad.nyu.edu/
+
+Co- Host - Vencapital ​
 
 ​Vencapital is a VC accelerator for emerging minority and female investors. We have supported 200+ alums through the program and have 100+ active VC fund managers and experienced investors in our community. Learn more about us at https://www.vencapital.org/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

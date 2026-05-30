@@ -14,20 +14,18 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/BZmYKmtn6mwaNQ9Yf24O"
 public_short_url: "https://go.partiful.com/ofx6d84Y"
 google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20New%20York"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FQjAQ7et3eKrudQ24m09Q%2FSGGyrSfoiaJ-vb3s4ItX7"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FQjAQ7et3eKrudQ24m09Q%2FSGGyrSfoiaJ-vb3s4ItX7?alt=media&token=9b50754a-610e-4266-83c4-29597c9c8199"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 45
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["QjAQ7et3eKrudQ24m09Q", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 46
-approved_guest_count: 40
-local_image: "images/BZmYKmtn6mwaNQ9Yf24O.png"
 canceled: false
+approved_guest_count: 120
+local_image: "images/BZmYKmtn6mwaNQ9Yf24O.png"
 ---
 
 # South Asians in Tech
@@ -37,7 +35,7 @@ canceled: false
 **Hosts:** American South Asian Network (ASAN)  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:30pm–8:30pm ET
 **Where:** New York · New York · Midtown
-**Going:** 45 of 46
+**Going:** 120
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/BZmYKmtn6mwaNQ9Yf24O
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20New%20York
@@ -68,10 +66,6 @@ This is a casual, community-first meetup focused on real conversations and meani
 https://www.instagram.com/asan.fyi https://www.linkedin.com/company/asanfyi
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -11,22 +11,20 @@ neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/8eZFNPbkIvMBjsJELaAE"
 public_short_url: "https://go.partiful.com/tHHxOMy7"
 google_maps: "https://www.google.com/maps/search/?api=1&query=1216%20Broadway%2C%20New%20York%2C%20NY%2010001"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FWpad1XHbsKS3LJFERVQsizZf6QH2%2Fe1NBctX00S1wimszKcz6c"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FWpad1XHbsKS3LJFERVQsizZf6QH2%2Fe1NBctX00S1wimszKcz6c?alt=media&token=aae0a16e-d22c-4e9e-8b05-192a32d5358a"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 190
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["Wpad1XHbsKS3LJFERVQsizZf6QH2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 180
-remaining_capacity: 4
-total_guest_count: 194
-approved_guest_count: 176
-local_image: "images/8eZFNPbkIvMBjsJELaAE.png"
+max_capacity: 285
+remaining_capacity: 12
 canceled: false
+approved_guest_count: 273
+local_image: "images/8eZFNPbkIvMBjsJELaAE.png"
 ---
 
 # Democratizing the Creative Economy - Powered with Seedance 2.0
@@ -36,7 +34,7 @@ canceled: false
 **Hosts:** SocialSight, ByteDance
 **When:** Thursday, June 4, 2026 · 5:00pm ET
 **Where:** 1216 Broadway, New York, NY 10001 · Flatiron
-**Capacity:** capped at 180 · 176 taken, 4 remaining
+**Capacity:** capped at 285 · 273 taken, 12 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/8eZFNPbkIvMBjsJELaAE
 **Map:** https://www.google.com/maps/search/?api=1&query=1216%20Broadway%2C%20New%20York%2C%20NY%2010001
@@ -62,10 +60,6 @@ What to expect:
 🍸 Rooftop Vibes: Open bar, sunset views, and the best crowd in NoMad.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

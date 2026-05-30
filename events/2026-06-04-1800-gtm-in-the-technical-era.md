@@ -5,40 +5,34 @@ date: 2026-06-04
 day: "Thursday"
 start_time: "6:00pm ET"
 start_iso: "2026-06-04T22:00:00.000Z"
-host: "Lightfield, Exa"
-venue_name: "New York, NY"
-venue_address: "New York, NY"
+host: "Exa, Lightfield"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/AkOmmpB7B1CwFVpu1Xrn"
 public_short_url: "https://go.partiful.com/L2VbOTEN"
-google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJs5Wf1YrEFvp2Qz6ShM3%2FSihjUR-bgr6KAp_UHsSQY"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJs5Wf1YrEFvp2Qz6ShM3%2FSihjUR-bgr6KAp_UHsSQY?alt=media&token=763b5670-c447-4bee-bd3a-ae1cacec0431"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 157
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["KY13S2rXSQwe9mxo5Vkq", "7DFu4rITofNzKIjA7hCx", "Js5Wf1YrEFvp2Qz6ShM3"]
 is_capped: false
-total_guest_count: 165
-approved_guest_count: 159
-local_image: "images/AkOmmpB7B1CwFVpu1Xrn.png"
 canceled: false
+approved_guest_count: 263
+local_image: "images/AkOmmpB7B1CwFVpu1Xrn.png"
 ---
 
 # GTM in the technical era
 
 ![GTM in the technical era](images/AkOmmpB7B1CwFVpu1Xrn.png)
 
-**Hosts:** Lightfield, Exa  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Exa, Lightfield  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
-**Where:** New York, NY · New York, NY · Flatiron
-**Going:** 157 of 165
+**Where:** Flatiron
+**Going:** 263
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/AkOmmpB7B1CwFVpu1Xrn
-**Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -68,10 +62,6 @@ This event is a part of #NYTechWeek—a week of events hosted by VCs and startup
 About Lightfield: ​​​​Lightfield is an AI-native CRM that remembers everything, then acts on it. It automatically captures and organizes every customer conversation across email, meetings, and notes, creating your team’s collective customer memory. Backed by Greylock, Lightspeed, and Coatue, Lightfield helps companies learn from every interaction and move faster toward repeatable growth.
 
 About Exa: Exa is the search engine for AI. It finds the most relevant content on the web using neural search, powering the retrieval layer behind AI agents, research tools, and intelligent applications. Companies use Exa to keep their AI products grounded in real-time information - from competitive intelligence and lead research to news monitoring and deep web retrieval. Backed by Benchmark, Lightspeed, YCombinator, and NVIDIA.
-
-
-
-
 
 
 

@@ -11,38 +11,36 @@ host: "AskPetal"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/n5x8mA6dCodI2A53nAtk"
 public_short_url: "https://go.partiful.com/7afCe4lY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FZKoPxqhAaKcBqjdjofiw1HME5To1%2FbpE9-lYYZd1e7YBynqT_I"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FZKoPxqhAaKcBqjdjofiw1HME5To1%2FbpE9-lYYZd1e7YBynqT_I?alt=media&token=09f62441-4562-48b2-a1b3-359c270af180"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 96
 badges: []
 fetch_status: ok
-owner_count: 2
-owner_ids: ["ZKoPxqhAaKcBqjdjofiw1HME5To1", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 1
+owner_ids: ["7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 102
-approved_guest_count: 14
+canceled: true
+canceled_at: "2026-05-27T02:20:55.897Z"
+canceled_by: "ZKoPxqhAaKcBqjdjofiw1HME5To1"
+cancellation_message: "Thank you so much for the interest and support. Unfortunately, this event is cancelled this year, but hope to see you at a future event this fall!"
 local_image: "images/n5x8mA6dCodI2A53nAtk.png"
-canceled: false
 ---
 
 # Women’s Physiology in AI, Performance & Longevity
 
+> ## ⚠ CANCELED  
+> _canceled 2026-05-27T02:20:55.897Z_  
+>  
+> Thank you so much for the interest and support. Unfortunately, this event is cancelled this year, but hope to see you at a future event this fall!
+
 ![Women’s Physiology in AI, Performance & Longevity](images/n5x8mA6dCodI2A53nAtk.png)
 
-**Hosts:** AskPetal  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** AskPetal
 **When:** Thursday, June 4, 2026 · 6:00pm–8:00pm ET
 **Where:** Chelsea
-**Going:** 96 of 102
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/n5x8mA6dCodI2A53nAtk
-
-### Hosts on Partiful
-
-- [Erica Lansman](https://partiful.com/u/ZKoPxqhAaKcBqjdjofiw1HME5To1)
-- _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
-
 
 ## Description
 
@@ -70,10 +68,6 @@ Open to founders, engineers, clinicians, investors, and operators interested in 
 Space is limited.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

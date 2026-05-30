@@ -14,21 +14,17 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/3Ulq45rDvuTDjRsrSIPg"
 public_short_url: "https://go.partiful.com/1EdRzO7z"
 google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FkcHFeuSPnXP96k3hgykkAKoSa293%2F55uJU6aSLYLmPUhbt2k1u"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FkcHFeuSPnXP96k3hgykkAKoSa293%2F55uJU6aSLYLmPUhbt2k1u?alt=media&token=a5e3f3d7-9f53-48b1-9998-63e17d1d9d15"
 visibility: "public"
 at_capacity: false
-going_guest_count: 131
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["kcHFeuSPnXP96k3hgykkAKoSa293", "7DFu4rITofNzKIjA7hCx", "GrsOe5lMGgRv3mcCCRCq77o9qBs2", "DZSlsEjLpxOq4GpfoFOiDNUEVyn1"]
 is_capped: true
-max_capacity: 200
-remaining_capacity: 69
-total_guest_count: 278
-approved_guest_count: 0
-local_image: "images/3Ulq45rDvuTDjRsrSIPg.svg"
+max_capacity: 225
 canceled: false
+local_image: "images/3Ulq45rDvuTDjRsrSIPg.svg"
 ---
 
 # Build, Buy or Borrow: Launching your product in the age of AI
@@ -38,7 +34,7 @@ canceled: false
 **Hosts:** Tavern Community NYC  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 9:00am–10:30am ET
 **Where:** New York, NY · New York, NY · Midtown
-**Capacity:** capped at 200 · 131 taken, 69 remaining
+**Capacity:** capped at 225
 **RSVP:** https://partiful.com/e/3Ulq45rDvuTDjRsrSIPg
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
 
@@ -79,10 +75,6 @@ Moderated by Benji Schwartz
 Founder, Tavern Communtity
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

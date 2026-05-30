@@ -11,20 +11,17 @@ host: "Ambrook, Casa de Tilda"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/1FFSWMPK1VyrAatMRp0s"
 public_short_url: "https://go.partiful.com/A9WldDfj"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F7cJz38YfvQf38RsWWMZoqV060W33%2FIUx858MDeuHDhq0TpScDG"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F7cJz38YfvQf38RsWWMZoqV060W33%2FIUx858MDeuHDhq0TpScDG?alt=media&token=0c19ded5-d07e-4502-bee6-f23c389d624d"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 751
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["7cJz38YfvQf38RsWWMZoqV060W33", "7DFu4rITofNzKIjA7hCx", "vdLPkYfVgAZzhc1y0Q57CSP9AUt1", "gsn2kdZbA3lWuNpi4zji"]
 is_capped: false
-total_guest_count: 750
-approved_guest_count: 39
-local_image: "images/1FFSWMPK1VyrAatMRp0s.png"
 canceled: false
+local_image: "images/1FFSWMPK1VyrAatMRp0s.png"
 ---
 
 # Billion Oyster Project Field Trip
@@ -34,7 +31,6 @@ canceled: false
 **Hosts:** Ambrook, Casa de Tilda  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 5:00pm–8:00pm ET
 **Where:** Financial District
-**Going:** 751 of 750
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/1FFSWMPK1VyrAatMRp0s
 
@@ -61,10 +57,6 @@ Tickets start at $85. All proceeds will be donated to the Billion Oyster Project
 There's a lot of tech in oysters. Read more about the intertwining roles of oysters, humans, and cities: https://ambrook.com/offrange/environment/the-new-shell-collectors
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

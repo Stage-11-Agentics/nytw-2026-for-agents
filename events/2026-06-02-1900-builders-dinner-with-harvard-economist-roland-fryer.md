@@ -16,16 +16,13 @@ image: "https://assets.getpartiful.com/posters/dinner-02.png"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 134
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["L8bDXUAz6aRFO3n845nudRzDMiT2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 135
-approved_guest_count: 0
-local_image: "images/Gh3JTOVzGCyjXsTh6WTe.png"
 canceled: false
+local_image: "images/Gh3JTOVzGCyjXsTh6WTe.png"
 ---
 
 # Builders Dinner with Harvard Economist Roland Fryer
@@ -35,7 +32,6 @@ canceled: false
 **Hosts:** EO Ventures  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 7:00pm ET
 **Where:** West Village · West Village, Manhattan, New York, NY · West Village
-**Going:** 134 of 135
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Gh3JTOVzGCyjXsTh6WTe
 **Map:** https://www.google.com/maps/search/?api=1&query=West%20Village%2C%20West%20Village%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -57,10 +53,6 @@ Salon-style conversation with Roland. Off-the-record, no pitches. Once you submi
 EO Ventures is an early-stage fund backing companies that increase economic mobility in America, founded by Roland Fryer and Bill Helman, former Managing Partner at Greylock.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

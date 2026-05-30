@@ -6,28 +6,23 @@ day: "Tuesday"
 start_time: "6:00pm ET"
 start_iso: "2026-06-02T22:00:00.000Z"
 host: "MaquillAR Studio"
-venue_name: "Flatiron"
-venue_address: "Flatiron, Manhattan, New York, NY"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/CQLd4GquFqdpcKGVCyUE"
 public_short_url: "https://go.partiful.com/Wa1bS7Z8"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F9s4P0Eu7wpawxRJdI4AOmmtiaZN2%2F1ZyG0SATiFqs1qOG6zSVw"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F9s4P0Eu7wpawxRJdI4AOmmtiaZN2%2F1ZyG0SATiFqs1qOG6zSVw?alt=media&token=11cdd4f1-7713-4d6f-9a62-fab29531fc14"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 31
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["9s4P0Eu7wpawxRJdI4AOmmtiaZN2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 6
-remaining_capacity: 6
-total_guest_count: 33
-approved_guest_count: 0
-local_image: "images/CQLd4GquFqdpcKGVCyUE.png"
+remaining_capacity: 5
 canceled: false
+approved_guest_count: 1
+local_image: "images/CQLd4GquFqdpcKGVCyUE.png"
 ---
 
 # Beauty E-commerce Leaders Dinner
@@ -36,11 +31,10 @@ canceled: false
 
 **Hosts:** MaquillAR Studio  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm ET
-**Where:** Flatiron · Flatiron, Manhattan, New York, NY · Flatiron
-**Capacity:** capped at 6 · 0 taken, 6 remaining
+**Where:** Flatiron
+**Capacity:** capped at 6 · 1 taken, 5 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/CQLd4GquFqdpcKGVCyUE
-**Map:** https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -63,10 +57,6 @@ This event is brought to you by MaquillAR Studio (https://www.maquillar.studio)
 -----
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -11,19 +11,18 @@ host: "Taco Tech Tuesday"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/epfr3IxCby4WezG4pIlW"
 public_short_url: "https://go.partiful.com/43ltszQN"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FV4CTziWow3bdFHvg439Fyo2h72i2%2Fx2W3EqHZklwzHEXX58ISc"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FV4CTziWow3bdFHvg439Fyo2h72i2%2Fx2W3EqHZklwzHEXX58ISc?alt=media&token=a5964ab7-ae3c-40e6-be2d-36ab8031ae88"
 visibility: "public"
 at_capacity: false
-going_guest_count: 262
+going_guest_count: 373
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["V4CTziWow3bdFHvg439Fyo2h72i2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 1171
+canceled: false
 approved_guest_count: 0
 local_image: "images/epfr3IxCby4WezG4pIlW.png"
-canceled: false
 ---
 
 # Taco Tech Tuesday -#NYTechWeek🗽🌮
@@ -33,7 +32,7 @@ canceled: false
 **Hosts:** Taco Tech Tuesday  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:30pm–9:30pm ET
 **Where:** Midtown
-**Going:** 262 of 1171
+**Going:** 373
 **RSVP:** https://partiful.com/e/epfr3IxCby4WezG4pIlW
 
 ### Hosts on Partiful
@@ -79,10 +78,6 @@ Schedule:
 Please bring a valid government-issued ID for building security check-in.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

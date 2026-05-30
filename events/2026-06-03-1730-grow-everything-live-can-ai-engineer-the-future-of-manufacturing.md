@@ -11,21 +11,20 @@ host: "Roebling, Messaginglab"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/CeXytpOv5qBtqRKKik9O"
 public_short_url: "https://go.partiful.com/1QtLMytW"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FqPh7QnWp3n9qKybF1DQh%2F2nuO2vn1nRkpqt0TlBKp4"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FqPh7QnWp3n9qKybF1DQh%2F2nuO2vn1nRkpqt0TlBKp4?alt=media&token=5d4d73e5-7c11-4f0d-9d80-c244543ece50"
 visibility: "public"
-at_capacity: false
-going_guest_count: 48
+at_capacity: true
+going_guest_count: 103
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["qPh7QnWp3n9qKybF1DQh", "7DFu4rITofNzKIjA7hCx", "hqVQN06S4PgSRPS6ifUBOeYX46u1"]
 is_capped: true
-max_capacity: 100
-remaining_capacity: 51
-total_guest_count: 55
+max_capacity: 103
+remaining_capacity: 0
+canceled: false
 approved_guest_count: 0
 local_image: "images/CeXytpOv5qBtqRKKik9O.png"
-canceled: false
 ---
 
 # Grow Everything LIVE: Can AI Engineer the Future of Manufacturing?
@@ -35,7 +34,8 @@ canceled: false
 **Hosts:** Roebling, Messaginglab  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:30pm–7:00pm ET
 **Where:** Flatiron
-**Capacity:** capped at 100 · 49 taken, 51 remaining
+**Capacity:** capped at 103 · 103 taken, 0 remaining · ⚠ **FULL**
+**Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/CeXytpOv5qBtqRKKik9O
 
 ### Hosts on Partiful
@@ -58,10 +58,6 @@ In this live recording of the Grow Everything podcast, hosts Erum Azeez Khan and
 Speakers: Brentan Alexander (CTO, Roebling), Erum Azeez Khan and Karl Schmieder (Grow Everything podcast)
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

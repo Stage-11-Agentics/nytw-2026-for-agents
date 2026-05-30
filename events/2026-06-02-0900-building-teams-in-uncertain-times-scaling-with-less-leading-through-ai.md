@@ -15,16 +15,14 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 132
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["Q8JOkW54ZgZ80ZDwPYhe7bZjcdj1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 133
-approved_guest_count: 87
-local_image: "images/Bcpy9EoBWF8FipvER3Bo.png"
 canceled: false
+approved_guest_count: 91
+local_image: "images/Bcpy9EoBWF8FipvER3Bo.png"
 ---
 
 # Building Teams in Uncertain Times: Scaling with Less, Leading Through AI
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** Lenhardt Partners  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 9:00am–11:00am ET
 **Where:** Tribeca
-**Going:** 132 of 133
+**Going:** 91
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Bcpy9EoBWF8FipvER3Bo
 
@@ -53,10 +51,6 @@ Featuring insights from Vanessa Liu, CEO, Sugarwork & Board Chair, Appen, the co
 Join moderator, Anna Lenhardt, Founder & CEO, Lenhardt Partners, for an intimate, high-level conversation on what it takes to scale organizations with intention - without losing the human element that drives performance, culture, and long-term success.
 
 This event is a part of #NYTechWeek - a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

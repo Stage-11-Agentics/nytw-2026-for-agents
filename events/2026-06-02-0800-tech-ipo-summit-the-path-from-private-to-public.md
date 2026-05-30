@@ -13,20 +13,17 @@ neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/suiUkzxWKTrNjbWRUoAe"
 public_short_url: "https://go.partiful.com/cbxsTkS1"
 google_maps: "https://www.google.com/maps/search/?api=1&query=151%20W%2043rd%20St%2C%20New%20York%2C%20NY%2010036"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FC4Jh8ALDCnqFDh7tKhmY%2Fw8OfWNjdJr8l3ykIv4h5C"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FC4Jh8ALDCnqFDh7tKhmY%2Fw8OfWNjdJr8l3ykIv4h5C?alt=media&token=33c848bf-cf89-4594-a674-41bb0b9fea82"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 186
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["tjATnVosdVVsyxwuZ1t4jl6LhOR2", "7DFu4rITofNzKIjA7hCx", "C4Jh8ALDCnqFDh7tKhmY"]
 is_capped: false
-total_guest_count: 206
-approved_guest_count: 109
-local_image: "images/suiUkzxWKTrNjbWRUoAe.png"
 canceled: false
+local_image: "images/suiUkzxWKTrNjbWRUoAe.png"
 ---
 
 # Tech IPO Summit: The path from private to public
@@ -36,7 +33,6 @@ canceled: false
 **Hosts:** Goodfin  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 8:00am–12:00pm ET
 **Where:** 151 W 43rd St, New York, NY 10036 · Flatiron
-**Going:** 186 of 206
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/suiUkzxWKTrNjbWRUoAe
 **Map:** https://www.google.com/maps/search/?api=1&query=151%20W%2043rd%20St%2C%20New%20York%2C%20NY%2010036
@@ -54,21 +50,17 @@ canceled: false
 
 Join us for an intimate morning summit at Nasdaq MarketSite, bringing together investors, advisors, and operators at the intersection of private and public markets to unpack what’s coming—and what it signals for the future of capital markets, investor access, and the next generation of private companies. 
 
-Hear from industry leaders across EquityZen, Morgan Stanley, NASDAQ, Bernstein Wealth, and more for an inside view into this unprecedented time in the industry. 
+Hear from industry leaders across Morgan Stanley, Nasdaq, EquityZen, Bernstein Wealth, and more for an inside view into this unprecedented time in the industry. 
 
 Agenda 
-8-8:50am: Check-In, Light Breakfast & Networking 
+8-8:50am: Check-In, Refreshments & Networking 
 8:50-9:00am: Opening Remarks 
 9:00-11:20am: Sessions across Private Markets, The IPO Threshold, and Liquidity
-11:30-12:30am: Networking 
+11:30-12:30am: Networking & Light Lunch
 
 More details will be shared closer to the event date. Request to join to get updates!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -11,19 +11,18 @@ host: "Raylu"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/rbrAD6bdIvtkmWCsBThO"
 public_short_url: "https://go.partiful.com/9aei7v10"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Ftdk0BW2cJ8V531ZqWsCjJjPwsIP2%2FGZwFJdzk0dk13-_s5U_F4"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Ftdk0BW2cJ8V531ZqWsCjJjPwsIP2%2FRoPDGwyqeMdjuDWPw-7Xu?alt=media&token=241b133c-22ce-4a49-81cf-48396a7d222a"
 visibility: "public"
 at_capacity: false
-going_guest_count: 8
+going_guest_count: 46
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["tdk0BW2cJ8V531ZqWsCjJjPwsIP2", "7DFu4rITofNzKIjA7hCx", "QmYdWAdzk6XWZpXoN1IiUixZtqS2"]
 is_capped: false
-total_guest_count: 10
+canceled: false
 approved_guest_count: 0
 local_image: "images/rbrAD6bdIvtkmWCsBThO.png"
-canceled: false
 ---
 
 # Build & Pitch w/ Raylu
@@ -33,7 +32,7 @@ canceled: false
 **Hosts:** Raylu  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:30pm–9:00pm ET
 **Where:** Midtown
-**Going:** 8 of 10
+**Going:** 46
 **RSVP:** https://partiful.com/e/rbrAD6bdIvtkmWCsBThO
 
 ### Hosts on Partiful
@@ -63,11 +62,11 @@ RSVP for demo day to watch top NYC builders ship their best work in front of rea
 
 ⚠️ TWO PARTS - APPLICATIONS OPEN MAY 13
 
-💻 Build Phase - May 13 through May 29
+💻 Build Phase - May 13 through May 31
 Build from anywhere. Bring an existing project or build something new. 2-week window.
 
 🏁 Demo Day - Wednesday, June 3 · 6:30–9:00 PM
-6 finalists take the stage. 5-minute demos. 3-minute judge Q&A. Winners announced live. Networking until 10 PM.
+6 finalists take the stage. 5-minute demos. 3-minute judge Q&A. Winners announced live. Networking until 9:30 PM.
 
 👉 Apply at [https://build-pitch-w-raylu.devpost.com]. Space is limited · apply early.
 
@@ -105,7 +104,7 @@ Meow
 Featherless.ai
 
 📋 To Apply
-Submit at [https://build-pitch-w-raylu.devpost.com/] by May 29 at 11:59 PM ET:
+Submit at [https://build-pitch-w-raylu.devpost.com/] by May 31 at 11:59 PM ET:
 2-3 minute demo video
 250-500 word project description
 Live link or runnable GitHub repo
@@ -116,10 +115,6 @@ Team info
 💬 Questions? Email dayo@raylu.ai
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

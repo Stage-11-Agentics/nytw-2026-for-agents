@@ -12,20 +12,19 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/9H9IsgkJAWIo4dUMlqmO"
 public_short_url: "https://go.partiful.com/swldTLqe"
 google_maps: "https://www.google.com/maps/search/?api=1&query=12%20W%2056th%20St%2C%20New%20York%2C%20NY%2010019"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FmtiguegCzdnwah1k3n0Z%2FrfTGCa_n0KyxV7bieiiSa"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FmtiguegCzdnwah1k3n0Z%2FrfTGCa_n0KyxV7bieiiSa?alt=media&token=f8ff3c2c-05fe-4742-9c2a-684178d53d29"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 15
+going_guest_count: 40
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["mtiguegCzdnwah1k3n0Z", "7DFu4rITofNzKIjA7hCx", "UFLWR7fz5AmfgETqvyYh"]
 is_capped: false
-total_guest_count: 17
+canceled: false
 approved_guest_count: 0
 local_image: "images/9H9IsgkJAWIo4dUMlqmO.jpg"
-canceled: false
 ---
 
 # Ekoparty: Argentina’s Cybersecurity Ecosystem, Talent, Startups, and Regional Expansion
@@ -35,7 +34,7 @@ canceled: false
 **Hosts:** Ekoparty Security Conference, Consulate General of Argentina in New York  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 11:00am ET
 **Where:** Consulate General of Argentina in New York · 12 W 56th St, New York, NY 10019 · Midtown
-**Going:** 15 of 17
+**Going:** 40
 **RSVP:** https://partiful.com/e/9H9IsgkJAWIo4dUMlqmO
 **Map:** https://www.google.com/maps/search/?api=1&query=12%20W%2056th%20St%2C%20New%20York%2C%20NY%2010019
 
@@ -55,10 +54,6 @@ Today, Argentina represents one of the most distinctive cybersecurity ecosystems
 This session will explore how Argentina built this ecosystem, the role community platforms like Ekoparty played in fostering collaboration and visibility, and why the country has become a strategic opportunity for U.S. companies, investors, and organizations looking to connect with Latin American cybersecurity talent and innovation. It will also cover how Ekoparty expanded beyond Argentina to strengthen regional and international connections, including its recent launch in the United States with Ekoparty Miami.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

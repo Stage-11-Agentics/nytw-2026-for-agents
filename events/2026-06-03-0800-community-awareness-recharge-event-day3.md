@@ -8,25 +8,21 @@ end_time: "8:00pm ET"
 start_iso: "2026-06-03T12:00:00.000Z"
 end_iso: "2026-06-04T00:00:00.000Z"
 host: "POLLEN8 Technology, Inc, Die-Hard, Inc., Edge Studio"
-venue_name: "Edge Studio Voice Over"
-venue_address: "115 W 45th St, FL 8, New York, NY 10036"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/tb4BqGF90d8iYR9YSwrA"
 public_short_url: "https://go.partiful.com/75qxc69y"
-google_maps: "https://www.google.com/maps/search/?api=1&query=115%20W%2045th%20St%2C%20FL%208%2C%20New%20York%2C%20NY%2010036"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FahVxpJsp11zKmHM2mZQq%2FDY7weGzzqmIuEqmHqIuT7"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FahVxpJsp11zKmHM2mZQq%2FDY7weGzzqmIuEqmHqIuT7?alt=media&token=f40e9d31-bc47-4ed0-999c-cb1a2973c463"
 visibility: "public"
 at_capacity: false
-going_guest_count: 35
+going_guest_count: 58
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["ahVxpJsp11zKmHM2mZQq", "7DFu4rITofNzKIjA7hCx", "cf9875PKIt383yHcSMOb"]
 is_capped: false
-total_guest_count: 37
+canceled: false
 approved_guest_count: 0
 local_image: "images/tb4BqGF90d8iYR9YSwrA.png"
-canceled: false
 ---
 
 # Community Awareness Recharge Event Day3
@@ -35,10 +31,9 @@ canceled: false
 
 **Hosts:** POLLEN8 Technology, Inc, Die-Hard, Inc., Edge Studio
 **When:** Wednesday, June 3, 2026 · 8:00am–8:00pm ET
-**Where:** Edge Studio Voice Over · 115 W 45th St, FL 8, New York, NY 10036 · Midtown
-**Going:** 35 of 37
+**Where:** Midtown
+**Going:** 58
 **RSVP:** https://partiful.com/e/tb4BqGF90d8iYR9YSwrA
-**Map:** https://www.google.com/maps/search/?api=1&query=115%20W%2045th%20St%2C%20FL%208%2C%20New%20York%2C%20NY%2010036
 
 ### Hosts on Partiful
 
@@ -56,10 +51,6 @@ During the chaos of Tech Week, you need a place to pause without missing the mom
 No panels. No pressure. Just a space that works for you.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

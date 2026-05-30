@@ -14,20 +14,18 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/mKW3TVj7dKZWNHi8X37B"
 public_short_url: "https://go.partiful.com/qyRCrjYc"
 google_maps: "https://www.google.com/maps/search/?api=1&query=33%20W%2060th%20St%2C%20New%20York%2C%20NY%2010023"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fv4X3U3T1MTTG6XY6QwHSZADQcvr2%2F_o0bJsSE57VRBjlpJ8gzm"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fv4X3U3T1MTTG6XY6QwHSZADQcvr2%2F_o0bJsSE57VRBjlpJ8gzm?alt=media&token=0017dc66-ada9-4f0e-a64b-de455da79d5d"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 78
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["CHqonHUaRXfVkCaZeyNFoqrQrF23", "7DFu4rITofNzKIjA7hCx", "v4X3U3T1MTTG6XY6QwHSZADQcvr2", "26NGNjCO01Z2th39MzVHZHIoApz2"]
 is_capped: false
-total_guest_count: 86
-approved_guest_count: 70
-local_image: "images/mKW3TVj7dKZWNHi8X37B.png"
 canceled: false
+approved_guest_count: 121
+local_image: "images/mKW3TVj7dKZWNHi8X37B.png"
 ---
 
 # [Immigrant Founders&Investors Mixer]
@@ -37,7 +35,7 @@ canceled: false
 **Hosts:** OneRise, The Yard  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 6:00pm–8:00pm ET
 **Where:** The Yard: Columbus Circle · 33 W 60th St, New York, NY 10023 · Midtown
-**Going:** 78 of 86
+**Going:** 121
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/mKW3TVj7dKZWNHi8X37B
 **Map:** https://www.google.com/maps/search/?api=1&query=33%20W%2060th%20St%2C%20New%20York%2C%20NY%2010023
@@ -73,10 +71,6 @@ This event is made possible by OneRise and The Yard
 The Yard is a coworking space at the intersection of creativity, design, & play with locations in Manhattan, Brooklyn, Philly, Washington DC, and Chicago, with a variety of shared and private workspace options to meet your team's needs. Built to inspire and cultivate success, The Yard is here to help you win. Learn more at theyard.com
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

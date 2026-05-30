@@ -11,21 +11,20 @@ neighborhood: "Union Square"
 rsvp_url: "https://partiful.com/e/zhxqPWOP82fFhLaHoMQT"
 public_short_url: "https://go.partiful.com/DpGmTNsP"
 google_maps: "https://www.google.com/maps/search/?api=1&query=124%20Rivington%20St%2C%20New%20York%2C%20NY%2010002"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJ4c9eMAUG6ZvdydyT8seODF47oQ2%2Fwy4H6fN7IEApfaxlg5KEv"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJ4c9eMAUG6ZvdydyT8seODF47oQ2%2Fwy4H6fN7IEApfaxlg5KEv?alt=media&token=f3542fdb-e0f3-4262-9c49-df224ae52315"
 visibility: "public"
 at_capacity: false
-going_guest_count: 114
+going_guest_count: 248
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["J4c9eMAUG6ZvdydyT8seODF47oQ2", "7DFu4rITofNzKIjA7hCx", "RiLyArcSeXSyeeigu9CWeYvNdkF3"]
 is_capped: true
-max_capacity: 150
-remaining_capacity: 28
-total_guest_count: 138
+max_capacity: 300
+remaining_capacity: 52
+canceled: false
 approved_guest_count: 0
 local_image: "images/zhxqPWOP82fFhLaHoMQT.png"
-canceled: false
 ---
 
 # The (T)echo Chamber Takeover |
@@ -35,7 +34,7 @@ canceled: false
 **Hosts:** CMU T&E, IK Agba Inc.  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 10:00pm ET
 **Where:** 124 Rivington St, New York, NY 10002 · Union Square
-**Capacity:** capped at 150 · 122 taken, 28 remaining
+**Capacity:** capped at 300 · 248 taken, 52 remaining
 **RSVP:** https://partiful.com/e/zhxqPWOP82fFhLaHoMQT
 **Map:** https://www.google.com/maps/search/?api=1&query=124%20Rivington%20St%2C%20New%20York%2C%20NY%2010002
 
@@ -55,10 +54,6 @@ CMU T&E
 - https://www.cmute.io/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

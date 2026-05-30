@@ -6,39 +6,36 @@ day: "Friday"
 start_time: "6:00pm ET"
 start_iso: "2026-06-05T22:00:00.000Z"
 host: "AAC, Starseed Studios"
-venue_name: "New York, NY"
-venue_address: "New York, NY"
+venue_address: "62 Orchard St, New York, NY 10002"
 neighborhood: "Lower East Side"
 rsvp_url: "https://partiful.com/e/IaHFZrZwfwKVMbQGFvAt"
 public_short_url: "https://go.partiful.com/kWUb10yR"
-google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FlHYcbjGJvkX6HEFXA3DxSJPXNo53%2F6admMCpLHGp-x3VphJt81"
+google_maps: "https://www.google.com/maps/search/?api=1&query=62%20Orchard%20St%2C%20New%20York%2C%20NY%2010002"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FlHYcbjGJvkX6HEFXA3DxSJPXNo53%2F6admMCpLHGp-x3VphJt81?alt=media&token=ff3d5255-f728-46d3-ab9e-c69e2d56e24e"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 26
 badges: []
 fetch_status: ok
-owner_count: 3
-owner_ids: ["qImzKUkXJQUvGW7mbYOJutmR3jU2", "lHYcbjGJvkX6HEFXA3DxSJPXNo53", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 4
+owner_ids: ["qImzKUkXJQUvGW7mbYOJutmR3jU2", "lHYcbjGJvkX6HEFXA3DxSJPXNo53", "7DFu4rITofNzKIjA7hCx", "70bTJYoJkgcMlFgwxvbmbjxa1dk2"]
 is_capped: false
-total_guest_count: 27
-approved_guest_count: 0
-local_image: "images/IaHFZrZwfwKVMbQGFvAt.png"
 canceled: false
+approved_guest_count: 42
+local_image: "images/IaHFZrZwfwKVMbQGFvAt.png"
 ---
 
 # Impact Room: Building The Future We Want
 
 ![Impact Room: Building The Future We Want](images/IaHFZrZwfwKVMbQGFvAt.png)
 
-**Hosts:** AAC, Starseed Studios  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** AAC, Starseed Studios  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 6:00pm ET
-**Where:** New York, NY · New York, NY · Lower East Side
-**Going:** 26 of 27
+**Where:** 62 Orchard St, New York, NY 10002 · Lower East Side
+**Going:** 42
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/IaHFZrZwfwKVMbQGFvAt
-**Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
+**Map:** https://www.google.com/maps/search/?api=1&query=62%20Orchard%20St%2C%20New%20York%2C%20NY%2010002
 
 ### Hosts on Partiful
 
@@ -48,6 +45,7 @@ Building tools that build community_
 - [Alex Stone](https://partiful.com/u/lHYcbjGJvkX6HEFXA3DxSJPXNo53) — _Creating human centered experiences with technology
 Co-Founder & CEO @ Starseed Studios
 Principal, Enterprise Transformation & AI Adoption @ Logicon_
+- [Patrick Neiler](https://partiful.com/u/70bTJYoJkgcMlFgwxvbmbjxa1dk2)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -70,10 +68,6 @@ After the discussion, join us for the Impact Room Mixer with great drinks, great
 Because the future is not inevitable. It is built by the people willing to shape it.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

@@ -11,11 +11,10 @@ host: "Capitalize VC, SickBird Production"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/TvlF0H0cSQa9lSMDxEqU"
 public_short_url: "https://go.partiful.com/IidEaDF6"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FLAAsxrRLvdMOMLy5MuFJ3MkCThj2%2Fhc7FEMoT-KP60OOnbti2R"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FLAAsxrRLvdMOMLy5MuFJ3MkCThj2%2Fhc7FEMoT-KP60OOnbti2R?alt=media&token=d9b157df-f493-4ce9-bac6-de1ef63f7968"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 61
 badges: []
 fetch_status: ok
 owner_count: 3
@@ -23,12 +22,11 @@ owner_ids: ["LAAsxrRLvdMOMLy5MuFJ3MkCThj2", "7DFu4rITofNzKIjA7hCx", "HwO83mW5s0U
 is_capped: true
 max_capacity: 100
 remaining_capacity: 100
-total_guest_count: 61
-approved_guest_count: 0
-local_image: "images/TvlF0H0cSQa9lSMDxEqU.png"
 canceled: true
 canceled_at: "2026-05-14T00:34:59.432Z"
 canceled_by: "LAAsxrRLvdMOMLy5MuFJ3MkCThj2"
+approved_guest_count: 0
+local_image: "images/TvlF0H0cSQa9lSMDxEqU.png"
 ---
 
 # The New Arena: How Sports Are Driving Culture, Commerce, and Connection
@@ -62,10 +60,6 @@ Expect a direct, unscripted conversation about how sports are shaping cultural m
 
 Panelists:
 - Brandice Daniel
-
-
-
-
 
 
 

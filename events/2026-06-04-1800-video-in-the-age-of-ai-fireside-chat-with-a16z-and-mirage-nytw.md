@@ -4,27 +4,27 @@ event_id: "dNI5cNYva0wRz2LinJRV"
 date: 2026-06-04
 day: "Thursday"
 start_time: "6:00pm ET"
+end_time: "8:00pm ET"
 start_iso: "2026-06-04T22:00:00.000Z"
+end_iso: "2026-06-05T00:00:00.000Z"
 host: "Mirage, a16z"
 neighborhood: "Union Square"
 rsvp_url: "https://partiful.com/e/dNI5cNYva0wRz2LinJRV"
 public_short_url: "https://go.partiful.com/uAq1b6OE"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F31GmWzCYwFbC9el252TybqcVvO42%2FfzS2PutYC3ZuLEVDP1VKc"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F31GmWzCYwFbC9el252TybqcVvO42%2FfzS2PutYC3ZuLEVDP1VKc?alt=media&token=35f72537-b624-4f4c-a036-156f3a228f04"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 253
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["31GmWzCYwFbC9el252TybqcVvO42", "7DFu4rITofNzKIjA7hCx", "ASav0BsHoBVbH3kRMW1nuIBqPqw2"]
 is_capped: true
 max_capacity: 120
-remaining_capacity: 11
-total_guest_count: 261
-approved_guest_count: 109
-local_image: "images/dNI5cNYva0wRz2LinJRV.jpg"
+remaining_capacity: -30
 canceled: false
+approved_guest_count: 150
+local_image: "images/dNI5cNYva0wRz2LinJRV.jpg"
 ---
 
 # Video in the Age of AI: Fireside Chat with a16z and Mirage - #NYTW
@@ -32,9 +32,10 @@ canceled: false
 ![Video in the Age of AI: Fireside Chat with a16z and Mirage - #NYTW](images/dNI5cNYva0wRz2LinJRV.jpg)
 
 **Hosts:** Mirage, a16z  _(+1 more host(s) on Partiful — see description for full list)_
-**When:** Thursday, June 4, 2026 · 6:00pm ET
+**When:** Thursday, June 4, 2026 · 6:00pm–8:00pm ET
 **Where:** Union Square
-**Capacity:** capped at 120 · 109 taken, 11 remaining
+**Capacity:** capped at 120 · 150 taken, -30 remaining
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/dNI5cNYva0wRz2LinJRV
 
@@ -67,10 +68,6 @@ Agenda:
 7:15 – 8:00pm  |  Reception and light bites 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

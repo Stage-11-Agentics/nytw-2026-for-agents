@@ -14,30 +14,27 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/SPI10F7yIULjx2hQ6EGB"
 public_short_url: "https://go.partiful.com/EOWdIOlc"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Funknown%2FJUW4RYBuvnn6XBmj_IbIT"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Funknown%2FJUW4RYBuvnn6XBmj_IbIT?alt=media&token=478802eb-5491-4b03-83ae-92447f31a05f"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 11
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["3etmaAC0h7XLr5Ant39hrUwDZou2", "2P46RGdkI6RBuqIi4HPDdQXwo6o2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 11
+canceled: false
 approved_guest_count: 0
 image_download_error: "HTTP Error 403: Forbidden"
-canceled: false
 ---
 
 # Table: A Trusted Workspace for Solutions
 
-![Table: A Trusted Workspace for Solutions](https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Funknown%2FJUW4RYBuvnn6XBmj_IbIT)
+![Table: A Trusted Workspace for Solutions](https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Funknown%2FJUW4RYBuvnn6XBmj_IbIT?alt=media&token=478802eb-5491-4b03-83ae-92447f31a05f)
 
 **Hosts:** Table, Maripossawellness.com, NA
 **When:** Wednesday, June 3, 2026 · 9:00am–11:00am ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 11
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/SPI10F7yIULjx2hQ6EGB
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -58,10 +55,6 @@ canceled: false
 ​Discover proven solutions, expand your perspective, and connect with top startup minds. ​A lightly facilitated discussion based on attendees' preferences will be followed by networking.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

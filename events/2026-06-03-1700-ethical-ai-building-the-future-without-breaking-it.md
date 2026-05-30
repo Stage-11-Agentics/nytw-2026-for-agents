@@ -10,23 +10,22 @@ end_iso: "2026-06-04T00:00:00.000Z"
 host: "Bronx Tech Hub, The Ethical Tech Project"
 venue_name: "Sankofa Haus"
 venue_address: "2422 3rd Ave, Bronx, NY 10454"
-neighborhood: "5:00pm·Bronx Tech Hub, The Ethical Tech ProjectBronx Tech Hub, The Ethical Tech ProjectETHICAL AI: BUILDING THE FUTURE WITHOUT BREAKING IT"
+neighborhood: ""
 rsvp_url: "https://partiful.com/e/kO9j2GtGQ90189dr79VA"
 public_short_url: "https://go.partiful.com/wTtqDFJk"
 google_maps: "https://www.google.com/maps/search/?api=1&query=2422%203rd%20Ave%2C%20Bronx%2C%20NY%2010454"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fzs0layVa3LRZRNSozZVHDISDlM53%2F1vax_q5RctMBddb6Sze6G"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fzs0layVa3LRZRNSozZVHDISDlM53%2F1vax_q5RctMBddb6Sze6G?alt=media&token=df20cad8-d6da-44ff-9b39-1bf92a150f18"
 visibility: "public"
 at_capacity: false
-going_guest_count: 61
+going_guest_count: 96
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["zs0layVa3LRZRNSozZVHDISDlM53", "7DFu4rITofNzKIjA7hCx", "Fbka6bNQsZgFTcnsK5EIRRUVfb72"]
 is_capped: false
-total_guest_count: 80
+canceled: false
 approved_guest_count: 0
 local_image: "images/kO9j2GtGQ90189dr79VA.png"
-canceled: false
 ---
 
 # ETHICAL AI: BUILDING THE FUTURE WITHOUT BREAKING IT
@@ -35,8 +34,8 @@ canceled: false
 
 **Hosts:** Bronx Tech Hub, The Ethical Tech Project  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:00pm–8:00pm ET
-**Where:** Sankofa Haus · 2422 3rd Ave, Bronx, NY 10454 · 5:00pm·Bronx Tech Hub, The Ethical Tech ProjectBronx Tech Hub, The Ethical Tech ProjectETHICAL AI: BUILDING THE FUTURE WITHOUT BREAKING IT
-**Going:** 61 of 80
+**Where:** Sankofa Haus · 2422 3rd Ave, Bronx, NY 10454
+**Going:** 96
 **RSVP:** https://partiful.com/e/kO9j2GtGQ90189dr79VA
 **Map:** https://www.google.com/maps/search/?api=1&query=2422%203rd%20Ave%2C%20Bronx%2C%20NY%2010454
 
@@ -60,10 +59,6 @@ Compete in teams to fix ethical failures in real-time
 Present solutions that could actually be deployed in NYC
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

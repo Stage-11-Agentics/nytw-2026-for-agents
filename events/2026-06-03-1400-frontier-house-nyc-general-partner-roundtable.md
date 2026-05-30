@@ -14,11 +14,10 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/IjcQJFIYc2PPkDOy0h3r"
 public_short_url: "https://go.partiful.com/Jb0fgJlk"
 google_maps: "https://www.google.com/maps/search/?api=1&query=126%20W%2042nd%20St%2C%20New%20York%2C%20NY%2010036"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJXSseDHFp5dKWqKVi9Jdegdjhoj2%2FHwQOjw_H-eV-qALgJ3Ixe"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJXSseDHFp5dKWqKVi9Jdegdjhoj2%2FHwQOjw_H-eV-qALgJ3Ixe?alt=media&token=9b59ce30-43a4-4a22-80e7-f46ddee1777a"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 108
 badges: []
 fetch_status: ok
 owner_count: 3
@@ -26,10 +25,9 @@ owner_ids: ["JXSseDHFp5dKWqKVi9Jdegdjhoj2", "7DFu4rITofNzKIjA7hCx", "bXAkNI0Vkad
 is_capped: true
 max_capacity: 50
 remaining_capacity: 50
-total_guest_count: 109
+canceled: false
 approved_guest_count: 0
 local_image: "images/IjcQJFIYc2PPkDOy0h3r.png"
-canceled: false
 ---
 
 # Frontier House NYC General Partner Roundtable
@@ -66,10 +64,6 @@ Join us for the Frontier House NYC - General Partner Roundtable on Wednesday, Ju
 ​A special thanks to our Hosts: Eleven Wall Ventures, Ohio Startup Network, OneSixOne Ventures and Tech Week.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

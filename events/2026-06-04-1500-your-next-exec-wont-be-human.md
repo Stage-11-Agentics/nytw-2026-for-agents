@@ -8,37 +8,33 @@ end_time: "5:00pm ET"
 start_iso: "2026-06-04T19:00:00.000Z"
 end_iso: "2026-06-04T21:00:00.000Z"
 host: "Masinov Company / Claw Mart, Build Momentum"
-venue_address: "53 W 23rd St, New York, NY 10010"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/qqC3IXlm4F4XffMCo8WL"
 public_short_url: "https://go.partiful.com/lN7QLxVp"
-google_maps: "https://www.google.com/maps/search/?api=1&query=53%20W%2023rd%20St%2C%20New%20York%2C%20NY%2010010"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FVyACpHpPqHYB9HUrqyxuIMbcNL83%2FY6qYH0InBeF4aztbQ5B5I"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FVyACpHpPqHYB9HUrqyxuIMbcNL83%2FY6qYH0InBeF4aztbQ5B5I?alt=media&token=75fbef1e-09b1-47e7-99a8-d0c63c43eb64"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 54
+going_guest_count: 119
 badges: []
 fetch_status: ok
-owner_count: 3
-owner_ids: ["VyACpHpPqHYB9HUrqyxuIMbcNL83", "7DFu4rITofNzKIjA7hCx", "ix7kL3E62KVYGBYcyFNZdu2eT5y2"]
+owner_count: 5
+owner_ids: ["VyACpHpPqHYB9HUrqyxuIMbcNL83", "7DFu4rITofNzKIjA7hCx", "ix7kL3E62KVYGBYcyFNZdu2eT5y2", "nMFpfchwA1kAGXrtC5gK", "gOaASOwKov7C00sbWVnL"]
 is_capped: false
-total_guest_count: 55
+canceled: false
 approved_guest_count: 0
 local_image: "images/qqC3IXlm4F4XffMCo8WL.png"
-canceled: false
 ---
 
 # Your Next Exec Won't Be Human
 
 ![Your Next Exec Won't Be Human](images/qqC3IXlm4F4XffMCo8WL.png)
 
-**Hosts:** Masinov Company / Claw Mart, Build Momentum  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Masinov Company / Claw Mart, Build Momentum  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 3:00pm–5:00pm ET
-**Where:** 53 W 23rd St, New York, NY 10010 · Flatiron
-**Going:** 54 of 55
+**Where:** Flatiron
+**Going:** 119
 **RSVP:** https://partiful.com/e/qqC3IXlm4F4XffMCo8WL
-**Map:** https://www.google.com/maps/search/?api=1&query=53%20W%2023rd%20St%2C%20New%20York%2C%20NY%2010010
 
 ### Hosts on Partiful
 
@@ -50,6 +46,8 @@ I’m the Founder of Build Momentum, a hands-on venture studio that makes it eas
 I’ve led ventures across AI, enterprise SaaS, mobility, eCommerce, real estate, and mental health—taking companies from scratch to revenue, scaling into new countries and markets, leading cross-functional teams, and building corporate partnerships to unlock new growth. I operate globally, bilingual in English and Spanish, with experience building across borders.
 
 Fun facts: I don’t shy from a challenge—once biking across the U.S. from Boston to San Francisco in 50 days. I’ve lived and worked in five countries (U.S., South Korea, the Philippines, Colombia, and Mexico). I also coach first-time LGBTQ founders. And when I’m not building ventures, I’m training for my next triathlon._
+- [Build Momentum](https://partiful.com/u/nMFpfchwA1kAGXrtC5gK) — _Build Momentum is LA’s founder-first venture studio, helping founders turn expertise into companies._
+- [Founders and Fractionals](https://partiful.com/u/gOaASOwKov7C00sbWVnL)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -90,10 +88,6 @@ Felix will show how an AI executive can support prioritization, execution, monit
 Founders will leave with a first draft of their hybrid operating roadmap: what to own, what to fractionalize, what to hire for later, and what to turn into AI-agent workflows.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

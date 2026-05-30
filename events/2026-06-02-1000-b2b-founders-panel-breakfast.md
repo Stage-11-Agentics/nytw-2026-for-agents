@@ -11,22 +11,20 @@ host: "BDev Ventures, Stuf Storage, Western Alliance Bank, Member FDIC"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/a4otiT5uQNHYsG066urY"
 public_short_url: "https://go.partiful.com/FbtYIlVK"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F5HV8c1GklJx1YlEeJ4wY%2FZ7RU8GPzdD1VLoRnkrt8p"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F5HV8c1GklJx1YlEeJ4wY%2FZ7RU8GPzdD1VLoRnkrt8p?alt=media&token=361e29b9-5a43-417f-b25a-e6dccae948f0"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 179
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["5HV8c1GklJx1YlEeJ4wY", "7DFu4rITofNzKIjA7hCx", "OoPpeyovZOY2y72SXVimTbOcmok1", "XVLh55F4cNN0rBs4InAIjsY9hK33"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 71
-total_guest_count: 182
-approved_guest_count: 29
-local_image: "images/a4otiT5uQNHYsG066urY.png"
+remaining_capacity: 0
 canceled: false
+approved_guest_count: 100
+local_image: "images/a4otiT5uQNHYsG066urY.png"
 ---
 
 # B2B Founders Panel & Breakfast
@@ -36,7 +34,8 @@ canceled: false
 **Hosts:** BDev Ventures, Stuf Storage, Western Alliance Bank, Member FDIC
 **When:** Tuesday, June 2, 2026 · 10:00am–12:00pm ET
 **Where:** Midtown
-**Capacity:** capped at 100 · 29 taken, 71 remaining
+**Capacity:** capped at 100 · 100 taken, 0 remaining · ⚠ **FULL**
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/a4otiT5uQNHYsG066urY
 
@@ -71,10 +70,6 @@ Presented by BDev Ventures, Stuf Storage and Western Alliance Bank, Member FDIC
 Space is limited. Grab your spot.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

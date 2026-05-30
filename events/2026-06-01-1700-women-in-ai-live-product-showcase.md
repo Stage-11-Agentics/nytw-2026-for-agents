@@ -14,22 +14,20 @@ neighborhood: "Upper Manhattan"
 rsvp_url: "https://partiful.com/e/lNPCWHf4JsZ27DguZ1uN"
 public_short_url: "https://go.partiful.com/FXOrUoz6"
 google_maps: "https://www.google.com/maps/search/?api=1&query=154%20W%2070th%20St%2C%20FL%202%2C%20New%20York%2C%20NY%2010023"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FGsZ1Jq4FkTCSIQPda4cv%2Fsu-P4lRGxBd8htXA84g5p"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FGsZ1Jq4FkTCSIQPda4cv%2Fsu-P4lRGxBd8htXA84g5p?alt=media&token=dfe50a6b-6ae6-49ff-9677-9dce1f95b595"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 230
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["GsZ1Jq4FkTCSIQPda4cv", "TPMCHQKr10oxSmhtZHPB", "7DFu4rITofNzKIjA7hCx", "tZsjZDDPklwYDG2ZHE7M"]
 is_capped: true
 max_capacity: 200
-remaining_capacity: 40
-total_guest_count: 235
-approved_guest_count: 160
-local_image: "images/lNPCWHf4JsZ27DguZ1uN.png"
+remaining_capacity: 3
 canceled: false
+approved_guest_count: 197
+local_image: "images/lNPCWHf4JsZ27DguZ1uN.png"
 ---
 
 # Women in AI: Live Product Showcase
@@ -39,7 +37,7 @@ canceled: false
 **Hosts:** Recess, Workplayce, Willa  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 5:00pm–7:00pm ET
 **Where:** Workplayce · 154 W 70th St, FL 2, New York, NY 10023 · Upper Manhattan
-**Capacity:** capped at 200 · 160 taken, 40 remaining
+**Capacity:** capped at 200 · 197 taken, 3 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/lNPCWHf4JsZ27DguZ1uN
 **Map:** https://www.google.com/maps/search/?api=1&query=154%20W%2070th%20St%2C%20FL%202%2C%20New%20York%2C%20NY%2010023
@@ -80,16 +78,22 @@ Whether you’re building, exploring, or just curious about how AI is shaping ev
 ✨ Want to showcase your product?
 
 We’re inviting a select group of companies and creators to host demo tables and connect directly with attendees.
-Apply here: https://forms.gle/WF7YubQGdCsEehif9
+
+Showcasing companies include: 
+
+•  Scout by Recess - shoponscout.com
+•  Wujj - wujjpleasure.com
+•  Find-a-Fit - find-a-fit.com
+•  Health Journey Labs - healthjourneylabs.com
+•  AVA - hiava.app
+•  HatDay - hatdayhub.com
+•  Lasa Health - lasahealth.com
+•  LashLOVR - lashlovr.com
 
 Come for the products, stay for the conversations—and leave with new ideas, connections, and inspiration.
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

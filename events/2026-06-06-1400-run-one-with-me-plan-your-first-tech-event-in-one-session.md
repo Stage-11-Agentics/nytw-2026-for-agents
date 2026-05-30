@@ -11,11 +11,10 @@ host: "Tech Wednesdays"
 neighborhood: "Virtual (NYC)"
 rsvp_url: "https://partiful.com/e/nHdWQ9BiS434yZS636i0"
 public_short_url: "https://go.partiful.com/ZpBPy05S"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F0ILI3Y74f0Q7d6IRUiJQ67vfLu82%2FMXMwjc-MzU9AQGo7ssc9X"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F0ILI3Y74f0Q7d6IRUiJQ67vfLu82%2FMXMwjc-MzU9AQGo7ssc9X?alt=media&token=e827d772-7ab9-4f28-a137-92363dca6d79"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 22
 badges: []
 fetch_status: ok
 owner_count: 2
@@ -23,13 +22,20 @@ owner_ids: ["0ILI3Y74f0Q7d6IRUiJQ67vfLu82", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 100
 remaining_capacity: 100
-total_guest_count: 22
+canceled: true
+canceled_at: "2026-05-29T19:07:45.045Z"
+canceled_by: "0ILI3Y74f0Q7d6IRUiJQ67vfLu82"
+cancellation_message: "Got sick, I deeply apologize for the late notice. It is cancelled for today."
 approved_guest_count: 0
 local_image: "images/nHdWQ9BiS434yZS636i0.png"
-canceled: false
 ---
 
 # Run One With Me: Plan Your First Tech Event in One Session
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-29T19:07:45.045Z_  
+>  
+> Got sick, I deeply apologize for the late notice. It is cancelled for today.
 
 ![Run One With Me: Plan Your First Tech Event in One Session](images/nHdWQ9BiS434yZS636i0.png)
 
@@ -84,10 +90,6 @@ Format:
 You don't leave with inspiration. You leave with an event that's half-built before you close the laptop.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

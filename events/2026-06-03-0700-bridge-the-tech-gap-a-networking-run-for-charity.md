@@ -12,21 +12,20 @@ neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/0qepwkdEYxO5OYEvQ52k"
 public_short_url: "https://go.partiful.com/EKHoCuXg"
 google_maps: "https://www.google.com/maps/search/?api=1&query=World%20Trade%20Center%20Subway%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fe9WzwCwLkFdpaTg5GY6Q%2FIh9_19k_7c_OvuVeEcVJt"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fe9WzwCwLkFdpaTg5GY6Q%2FIh9_19k_7c_OvuVeEcVJt?alt=media&token=d98d33d9-a7cf-40b3-8dd5-de8cce18b0da"
 visibility: "public"
 at_capacity: false
-going_guest_count: 28
+going_guest_count: 53
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["e9WzwCwLkFdpaTg5GY6Q", "f82B7brH2KQq9RPO19CviYfSsHH2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 80
-remaining_capacity: 52
-total_guest_count: 33
+max_capacity: 100
+remaining_capacity: 47
+canceled: false
 approved_guest_count: 0
 local_image: "images/0qepwkdEYxO5OYEvQ52k.png"
-canceled: false
 ---
 
 # Bridge the Tech Gap, a networking run for charity
@@ -36,7 +35,7 @@ canceled: false
 **Hosts:** Remofirst  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 7:00am ET
 **Where:** World Trade Center Subway · New York, NY · Financial District
-**Capacity:** capped at 80 · 28 taken, 52 remaining
+**Capacity:** capped at 100 · 53 taken, 47 remaining
 **RSVP:** https://partiful.com/e/0qepwkdEYxO5OYEvQ52k
 **Map:** https://www.google.com/maps/search/?api=1&query=World%20Trade%20Center%20Subway%2C%20New%20York%2C%20NY
 
@@ -60,10 +59,6 @@ The run will be approximately 3 miles with a shorter walk option.
 For every runner that joins us, we will be making a donation to Still I Run. Still I Run is a running-based mental health nonprofit focused on supporting, inspiring, and uniting people in their journey toward better mental health through running.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

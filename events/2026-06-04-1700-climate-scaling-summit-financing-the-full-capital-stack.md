@@ -12,20 +12,18 @@ neighborhood: "Brooklyn"
 rsvp_url: "https://partiful.com/e/SzwFkltgl0ehKttHyzAN"
 public_short_url: "https://go.partiful.com/x0ayNbyd"
 google_maps: "https://www.google.com/maps/search/?api=1&query=80%2058th%20St%2C%20Brooklyn%2C%20NY%2011220"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F2Fr61znbGWYxSyaD7vPj%2FZcjqhJKbinZjk7lLcXHBo"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F2Fr61znbGWYxSyaD7vPj%2FZcjqhJKbinZjk7lLcXHBo?alt=media&token=fa7ca1c1-79b0-4476-bf55-a741f217d545"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 297
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["2Fr61znbGWYxSyaD7vPj", "7DFu4rITofNzKIjA7hCx", "1uYTDPFfwUYSXrz0zPbqhfKT2TZ2", "xfjHZb1iJJPv1PN53YiX4xedCrc2"]
 is_capped: false
-total_guest_count: 304
-approved_guest_count: 202
-local_image: "images/SzwFkltgl0ehKttHyzAN.png"
 canceled: false
+approved_guest_count: 267
+local_image: "images/SzwFkltgl0ehKttHyzAN.png"
 ---
 
 # Climate Scaling Summit: Financing the Full Capital Stack
@@ -35,7 +33,7 @@ canceled: false
 **Hosts:** Los Angeles Cleantech Incubator (LACI), Urban Future Lab (UFL) at NYU Tandon  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:00pm ET
 **Where:** Brooklyn Army Terminal · 80 58th St, Brooklyn, NY 11220 · Brooklyn
-**Going:** 297 of 304
+**Going:** 267
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/SzwFkltgl0ehKttHyzAN
 **Map:** https://www.google.com/maps/search/?api=1&query=80%2058th%20St%2C%20Brooklyn%2C%20NY%2011220
@@ -56,7 +54,7 @@ Join LACI climate programs @ BATWorks, Urban Future Lab (UFL) at NYU Tandon, and
 
 Hear reverse pitches from investors, capital allocators, and lenders about the role their work plays in the overarching development and commercialization of climate technology, covering everything from working capital, equipment leasing, infrastructure financing, grants, venture capital and insurance. Then meet 1-1 with these organizations to learn how your startup can plug into the resources and opportunities these organizations provide. 
 
-Organizations include: LACI Cleantech Debt Fund, Brooklyn Alliance Capital, Closed Loop, Wells Fargo, NY Green Bank, Enduring Planet, National Grid Ventures, Am Fam Institute, GreenieRe, Prime Coalition/Trellis, Community Development Venture Capital, US Green Bank 50, NYSERDA, Montauk Capital, and more. 
+Organizations include: LACI Cleantech Debt Fund, Brooklyn Alliance Capital, Closed Loop, Wells Fargo, NY Green Bank, Enduring Planet, National Grid Ventures, Am Fam Institute, GreenieRe, Prime Coalition/Trellis, Community Development Venture Capital, US Green Bank 50, NYSERDA, Montauk Capital, The Clean Fight, and more. 
 
 This Climate Scaling Summit is one of 4 convenings LACI is hosting at BATWorks in 2026, all under the theme of accelerating commercialization of clean energy innovation in NY by focusing on common problems faced by startups after the pilot stage. LACI has deployed $25M in cleantech pilots over the past four years—from first commercial deployments to the nation's first zero-emissions delivery zone and is now supercharging the Pilots at BAT program (https://www.batworks.nyc/pilots-at-bat) and deeper deployment of the LACI Cleantech Debt Fund (https://laincubator.org/laci-debt-fund/). 
 
@@ -65,10 +63,6 @@ This event will be followed by a happy hour.
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 This event is sponsored by NYSERDA and Wells Fargo.
-
-
-
-
 
 
 

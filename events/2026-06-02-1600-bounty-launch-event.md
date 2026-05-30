@@ -12,16 +12,15 @@ public_short_url: "https://go.partiful.com/mIpx2Gjh"
 image: "https://media0.giphy.com/media/xGdvlOVSWaDvi/giphy.gif?cid=c00e53c6pfxp83ylk0x4t17me6pw9htu35vedgg19gsur3bq&ep=v1_gifs_search&rid=giphy.gif&ct=g"
 visibility: "public"
 at_capacity: false
-going_guest_count: 31
+going_guest_count: 51
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["TcqU5BM2tdcjY3xv7KoVEbzImxh2", "7DFu4rITofNzKIjA7hCx", "D4YtiHl4xrQqmXxFfhu2"]
 is_capped: false
-total_guest_count: 31
+canceled: false
 approved_guest_count: 0
 local_image: "images/rcs7MwVhZaSmpWJfQPkI.gif"
-canceled: false
 ---
 
 # Bounty Launch Event
@@ -31,7 +30,7 @@ canceled: false
 **Hosts:** Propel Earth  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:00pm ET
 **Where:** Midtown
-**Going:** 31
+**Going:** 51
 **RSVP:** https://partiful.com/e/rcs7MwVhZaSmpWJfQPkI
 
 ### Hosts on Partiful
@@ -46,10 +45,6 @@ canceled: false
 The hunt is on for the solutions to your biggest problems! Bring a bounty and find someone to complete it!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

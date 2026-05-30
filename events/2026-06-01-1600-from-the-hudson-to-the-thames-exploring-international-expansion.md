@@ -7,42 +7,37 @@ start_time: "4:00pm ET"
 end_time: "6:00pm ET"
 start_iso: "2026-06-01T20:00:00.000Z"
 end_iso: "2026-06-01T22:00:00.000Z"
-host: "Osborne Clarke, British Consulate, Blick Rothenberg, Eisner Advisory Group LLC"
-venue_name: "Midtown"
-venue_address: "Midtown, Manhattan, New York, NY"
+host: "British Consulate, Osborne Clarke, Blick Rothenberg, Eisner Advisory Group LLC"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/P90AiasegjS9oTsIyLvd"
 public_short_url: "https://go.partiful.com/LeWNp7XZ"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FLLaY7rkGS6ZC182BeZKQIQE4ecQ2%2F_5EqxRsDRWZiVHwtrxFUt"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FLLaY7rkGS6ZC182BeZKQIQE4ecQ2%2F_5EqxRsDRWZiVHwtrxFUt?alt=media&token=fb4ed9cd-3c17-4ce4-87c1-59895254eb74"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 114
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 6
 owner_ids: ["LLaY7rkGS6ZC182BeZKQIQE4ecQ2", "7DFu4rITofNzKIjA7hCx", "oSOPEwi3pLUSQAz9JyVpQAxT2Ru2", "aey03CZjbhfnkIzmoxanL7nTcxi2", "KnSKfSOSsJNATtc0QY0T8hq6arQ2", "3v0kXabZuYXcVHhn9VRNdbzgSa72"]
 is_capped: true
 max_capacity: 80
-remaining_capacity: 7
-total_guest_count: 115
-approved_guest_count: 73
-local_image: "images/P90AiasegjS9oTsIyLvd.jpg"
+remaining_capacity: -14
 canceled: false
+approved_guest_count: 94
+local_image: "images/P90AiasegjS9oTsIyLvd.jpg"
 ---
 
 # From the Hudson to the Thames: Exploring International Expansion
 
 ![From the Hudson to the Thames: Exploring International Expansion](images/P90AiasegjS9oTsIyLvd.jpg)
 
-**Hosts:** Osborne Clarke, British Consulate, Blick Rothenberg, Eisner Advisory Group LLC  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** British Consulate, Osborne Clarke, Blick Rothenberg, Eisner Advisory Group LLC  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 4:00pm–6:00pm ET
-**Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Capacity:** capped at 80 · 73 taken, 7 remaining
+**Where:** Midtown
+**Capacity:** capped at 80 · 94 taken, -14 remaining
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/P90AiasegjS9oTsIyLvd
-**Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -67,10 +62,6 @@ A networking reception will follow, connecting founders, investors, and advisors
 Location will be shared with approved attendees.  Please note - entry will not be permitted unless attendees have registered in advance.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

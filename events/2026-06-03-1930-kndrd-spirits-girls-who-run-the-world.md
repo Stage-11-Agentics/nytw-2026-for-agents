@@ -6,26 +6,23 @@ day: "Wednesday"
 start_time: "7:30pm ET"
 start_iso: "2026-06-03T23:30:00.000Z"
 host: "Kndrd"
-venue_name: "East Village"
-venue_address: "East Village, Manhattan, New York, NY"
+venue_name: "Mr. Purple"
+venue_address: "180 Orchard St, FL 15, New York, NY 10002"
 neighborhood: "East Village"
 rsvp_url: "https://partiful.com/e/wiWrtmZFVPCAgObP4954"
 public_short_url: "https://go.partiful.com/guqHAJfO"
-google_maps: "https://www.google.com/maps/search/?api=1&query=East%20Village%2C%20East%20Village%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F0C298ubxJhdsv4uOZO39ai2VCdf2%2FFyvKvmVUba3ISeDwGD0LB"
+google_maps: "https://www.google.com/maps/search/?api=1&query=180%20Orchard%20St%2C%20FL%2015%2C%20New%20York%2C%20NY%2010002"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F0C298ubxJhdsv4uOZO39ai2VCdf2%2FFyvKvmVUba3ISeDwGD0LB?alt=media&token=f0723dd9-38a8-4b54-bdfe-51e13f9b18ee"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 254
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["0C298ubxJhdsv4uOZO39ai2VCdf2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 258
-approved_guest_count: 185
-local_image: "images/wiWrtmZFVPCAgObP4954.png"
 canceled: false
+local_image: "images/wiWrtmZFVPCAgObP4954.png"
 ---
 
 # Kndrd Spirits: [Girls] Who Run The World
@@ -34,11 +31,10 @@ canceled: false
 
 **Hosts:** Kndrd  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 7:30pm ET
-**Where:** East Village · East Village, Manhattan, New York, NY · East Village
-**Going:** 254 of 258
+**Where:** Mr. Purple · 180 Orchard St, FL 15, New York, NY 10002 · East Village
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/wiWrtmZFVPCAgObP4954
-**Map:** https://www.google.com/maps/search/?api=1&query=East%20Village%2C%20East%20Village%2C%20Manhattan%2C%20New%20York%2C%20NY
+**Map:** https://www.google.com/maps/search/?api=1&query=180%20Orchard%20St%2C%20FL%2015%2C%20New%20York%2C%20NY%2010002
 
 ### Hosts on Partiful
 
@@ -62,10 +58,6 @@ Check us out here:
 → https://apps.apple.com/us/app/kndrd-make-friends-irl/id6498315234
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

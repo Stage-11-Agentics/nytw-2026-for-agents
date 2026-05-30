@@ -14,32 +14,28 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/njEyaExp13kVvFeCxSQ0"
 public_short_url: "https://go.partiful.com/uqsz8csy"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FYzGV0wF47xbDevhTPiQCOgDeAj53%2FBhcIukr4SEdIKZvIY29qK"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FYzGV0wF47xbDevhTPiQCOgDeAj53%2FBhcIukr4SEdIKZvIY29qK?alt=media&token=c11d2f50-db89-4cb8-aafd-70b281b5a1e2"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 675
 badges: []
 fetch_status: ok
-owner_count: 5
-owner_ids: ["YzGV0wF47xbDevhTPiQCOgDeAj53", "7ZTMjPyFwRZ5BGsgS1URn5j18zp2", "7DFu4rITofNzKIjA7hCx", "8MPIetK0mKRyMSdtEBrP4Izxbg13", "VE4gIx8MyPcuxYqRb8VgPihDfX33"]
+owner_count: 7
+owner_ids: ["YzGV0wF47xbDevhTPiQCOgDeAj53", "7ZTMjPyFwRZ5BGsgS1URn5j18zp2", "7DFu4rITofNzKIjA7hCx", "8MPIetK0mKRyMSdtEBrP4Izxbg13", "VE4gIx8MyPcuxYqRb8VgPihDfX33", "83tDJ7Gnx2cx2cuB7tbvjbX2n1l1", "fvIBVbGVopWQaK9evDmENK370fJ3"]
 is_capped: true
 max_capacity: 275
-remaining_capacity: 231
-total_guest_count: 690
-approved_guest_count: 44
-local_image: "images/njEyaExp13kVvFeCxSQ0.png"
 canceled: false
+local_image: "images/njEyaExp13kVvFeCxSQ0.png"
 ---
 
 # Rebuilding American Manufacturing [BVP, J.P. Morgan, Orrick]  –
 
 ![Rebuilding American Manufacturing [BVP, J.P. Morgan, Orrick]  –](images/njEyaExp13kVvFeCxSQ0.png)
 
-**Hosts:** Orrick, Bessemer Venture Partners, J.P. Morgan  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** Orrick, Bessemer Venture Partners, J.P. Morgan  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 4:00pm–7:00pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Capacity:** capped at 275 · 44 taken, 231 remaining
+**Capacity:** capped at 275
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/njEyaExp13kVvFeCxSQ0
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -50,6 +46,8 @@ canceled: false
 - [J.P. Morgan](https://partiful.com/u/7ZTMjPyFwRZ5BGsgS1URn5j18zp2)
 - [Christopher Wan](https://partiful.com/u/8MPIetK0mKRyMSdtEBrP4Izxbg13)
 - [As](https://partiful.com/u/VE4gIx8MyPcuxYqRb8VgPihDfX33)
+- [Mickala Wallingford](https://partiful.com/u/83tDJ7Gnx2cx2cuB7tbvjbX2n1l1)
+- [Michael Putz](https://partiful.com/u/fvIBVbGVopWQaK9evDmENK370fJ3)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -59,15 +57,27 @@ canceled: false
 
 ​Hosted by Bessemer Venture Partners, J.P. Morgan and Orrick, this session brings together leaders across aerospace, defense and advanced manufacturing to explore a central question: who controls the factory of the future, and what will it take to build a resilient, scalable American industrial base?
 
-​The program will open with remarks from sponsors with representation from JPMorgan’s $1.5 trillion Security & Resiliency Initiative (SRI), while the panel will feature founders, operators and investors actively building and financing the next generation of manufacturing systems. Speakers and panelists will be announced shortly.
+​The program will open with remarks from sponsors with representation from JPMorgan’s $1.5 trillion Security & Resiliency Initiative (SRI), while the panel will feature founders, operators and investors actively building and financing the next generation of manufacturing systems.
 
-​Program
-- ​Opening remarks
-- Panel discussion
-- Audience Q&A
-- Reception
+​Program Agenda:
 
-​Discussion Topics
+Opening remarks from:
+- Max Cantor, Partner, Technology Companies Group, Orrick 
+- Chris Wan, Vice President, Bessemer Venture Partners
+- Justin Krauss, Managing Director, Security & Resiliency Initiative, J.P. Morgan
+
+Panel discussion with:
+- Moderator: Kristina Nilsson, Global Co-Head of AI Investment Banking, J.P. Morgan
+- David Caputo, Co-Founder and CEO, Harmoni
+- Jason Ray, Co-Founder and CEO, Paperless Parts
+- Byron Boots, Co-Founder and CEO, Overland AI
+- Ed Mehr, Co-Founder and CEO, Machina Labs
+
+Audience Q&A
+
+Reception
+
+​Discussion Topics:
 - ​The gap between capital deployment and operational change
 - Vertical integration: where it works and where it breaks
 - The role of software and AI in coordinating the modern factory
@@ -80,10 +90,6 @@ canceled: false
 ---
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

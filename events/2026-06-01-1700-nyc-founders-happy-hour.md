@@ -11,22 +11,21 @@ host: "Founders & Builders Connect"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/hoaWZg8MiAJw5YsJWsoN"
 public_short_url: "https://go.partiful.com/mlK21MgC"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FdmLKlIBws2dRZhqQDOQ1U5uwdeZ2%2F3LRtpT2KpEwKLKMyrgR3U"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FdmLKlIBws2dRZhqQDOQ1U5uwdeZ2%2F3LRtpT2KpEwKLKMyrgR3U?alt=media&token=0da3926b-a9e6-4115-8671-ac6785a4fabb"
 visibility: "public"
 guest_action: "RSVP"
-at_capacity: false
-going_guest_count: 547
+at_capacity: true
+going_guest_count: 751
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["dmLKlIBws2dRZhqQDOQ1U5uwdeZ2", "7DFu4rITofNzKIjA7hCx", "tjQPyWK3nvefpe4ER9fcEISHHp53"]
 is_capped: true
-max_capacity: 600
-remaining_capacity: 48
-total_guest_count: 603
+max_capacity: 751
+remaining_capacity: 0
+canceled: false
 approved_guest_count: 0
 local_image: "images/hoaWZg8MiAJw5YsJWsoN.png"
-canceled: false
 ---
 
 # 🍹NYC Founders Happy Hour
@@ -36,7 +35,8 @@ canceled: false
 **Hosts:** Founders & Builders Connect  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 5:00pm–7:00pm ET
 **Where:** Chelsea
-**Capacity:** capped at 600 · 552 taken, 48 remaining
+**Capacity:** capped at 751 · 751 taken, 0 remaining · ⚠ **FULL**
+**Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/hoaWZg8MiAJw5YsJWsoN
 
 ### Hosts on Partiful
@@ -55,10 +55,6 @@ This event is a part of #NYTechWeek—a week of events hosted by VCs and startup
 ​Early-stage founders to growth-stage SaaS companies mix with active investors, VCs, and ecosystem partners in an environment built for collaboration 🤝, partnerships, and future deals. No pitching from a stage. Just real talk, good energy ⚡, and the right people in the room. 🙌
 
 Event is sponsored by iDelsoft.com — a global hiring platform helping startups and SMBs scale their engineering teams with on-demand tech talent. 50+ startups already using iDelsoft to hire top remote engineers from the U.S., Canada, Europe, and LatAm.
-
-
-
-
 
 
 

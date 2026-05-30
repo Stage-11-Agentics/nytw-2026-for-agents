@@ -14,11 +14,10 @@ neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/DIULMTXNf5mkt8da0Kbw"
 public_short_url: "https://go.partiful.com/X6cuH7ZK"
 google_maps: "https://www.google.com/maps/search/?api=1&query=SoHo%2C%20SoHo%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FL3vb95sYoDZ8bA8YemmgSGcvztC3%2FlBxeIYa4C_vqOl044eepn"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FL3vb95sYoDZ8bA8YemmgSGcvztC3%2FlBxeIYa4C_vqOl044eepn?alt=media&token=2a9ba480-a8b3-40f4-9e40-e8f2d346ed9f"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 111
 badges: []
 fetch_status: ok
 owner_count: 2
@@ -26,13 +25,26 @@ owner_ids: ["L3vb95sYoDZ8bA8YemmgSGcvztC3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 100
 remaining_capacity: 100
-total_guest_count: 113
+canceled: true
+canceled_at: "2026-05-29T22:17:46.890Z"
+canceled_by: "L3vb95sYoDZ8bA8YemmgSGcvztC3"
+cancellation_message: "Thank you for signing up for our Founder & Investor Gathering by Yellow during Tech Week.\n\nDue to unexpected circumstances and a shift in business priorities, we’ve decided to move our next community gathering to On Chain Lisbon Week.\n\nWe truly appreciate the interest and energy from everyone who planned to join us. It means a lot to see this room already coming together. We’ll share more details about Lisbon soon - and we’d be happy to welcome you there.\n\n"
 approved_guest_count: 0
 local_image: "images/DIULMTXNf5mkt8da0Kbw.png"
-canceled: false
 ---
 
 # Private Investor-Founder Brunch by Yellow | Tech Week 2026
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-29T22:17:46.890Z_  
+>  
+> Thank you for signing up for our Founder & Investor Gathering by Yellow during Tech Week.  
+>   
+> Due to unexpected circumstances and a shift in business priorities, we’ve decided to move our next community gathering to On Chain Lisbon Week.  
+>   
+> We truly appreciate the interest and energy from everyone who planned to join us. It means a lot to see this room already coming together. We’ll share more details about Lisbon soon - and we’d be happy to welcome you there.  
+>   
+> 
 
 ![Private Investor-Founder Brunch by Yellow | Tech Week 2026](images/DIULMTXNf5mkt8da0Kbw.png)
 
@@ -84,10 +96,6 @@ About Yellow:
 📍​Guest access is restricted. Each attendee must register individually via the official link and await approval. Unregistered +1s will not be admitted.
 
 📍​Check-in requires confirmation. Be ready to present your official confirmation email at entry for seamless access.
-
-
-
-
 
 
 

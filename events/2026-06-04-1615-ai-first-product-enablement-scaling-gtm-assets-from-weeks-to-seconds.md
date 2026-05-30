@@ -5,36 +5,37 @@ date: 2026-06-04
 day: "Thursday"
 start_time: "4:15pm ET"
 start_iso: "2026-06-04T20:15:00.000Z"
-host: "Consulate General of Argentina in New York, Nodus"
+host: "Nodus, Consulate General of Argentina in New York"
 venue_address: "12 W 56th St, New York, NY 10019"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/9EErpQOcDpw3irxtNFtK"
 public_short_url: "https://go.partiful.com/pYB1Xe4W"
 google_maps: "https://www.google.com/maps/search/?api=1&query=12%20W%2056th%20St%2C%20New%20York%2C%20NY%2010019"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FM4nkAman9sbQYSomRSU4juBpVWd2%2FERoR4SU_YedNFgP0WVRKA"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FM4nkAman9sbQYSomRSU4juBpVWd2%2FERoR4SU_YedNFgP0WVRKA?alt=media&token=9d3dbd32-bc1b-4b34-bda6-d9740a07008f"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 15
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["M4nkAman9sbQYSomRSU4juBpVWd2", "7DFu4rITofNzKIjA7hCx", "UFLWR7fz5AmfgETqvyYh"]
-is_capped: false
-total_guest_count: 18
-approved_guest_count: 5
-local_image: "images/9EErpQOcDpw3irxtNFtK.png"
+is_capped: true
+max_capacity: 20
+remaining_capacity: -7
 canceled: false
+approved_guest_count: 27
+local_image: "images/9EErpQOcDpw3irxtNFtK.png"
 ---
 
 # AI-First Product Enablement: Scaling GTM Assets from Weeks to Seconds
 
 ![AI-First Product Enablement: Scaling GTM Assets from Weeks to Seconds](images/9EErpQOcDpw3irxtNFtK.png)
 
-**Hosts:** Consulate General of Argentina in New York, Nodus  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Nodus, Consulate General of Argentina in New York  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 4:15pm ET
 **Where:** 12 W 56th St, New York, NY 10019 · Midtown
-**Going:** 15 of 18
+**Capacity:** capped at 20 · 27 taken, -7 remaining
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/9EErpQOcDpw3irxtNFtK
 **Map:** https://www.google.com/maps/search/?api=1&query=12%20W%2056th%20St%2C%20New%20York%2C%20NY%2010019
@@ -59,10 +60,6 @@ In this session:
 - The "Thinking & Doing" Framework: Scaling global GTM assets with high-quality, data-driven execution.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

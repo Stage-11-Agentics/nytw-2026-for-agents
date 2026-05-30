@@ -11,20 +11,19 @@ host: "Go Global World, Selective VC"
 neighborhood: "Virtual (NYC)"
 rsvp_url: "https://partiful.com/e/THa8hGECiLhNpThA760i"
 public_short_url: "https://go.partiful.com/xmyQ8ajm"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FSaVJXQqCGmV5VcEpZEQQGT4pPrk2%2F3ckuca_N07jaEVnWMwP4b"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FSaVJXQqCGmV5VcEpZEQQGT4pPrk2%2F82bHlaaW_Ml_dig9PKYu7?alt=media&token=e5501155-1d91-4f2d-b53a-057ec4a67136"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 72
+going_guest_count: 141
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["SaVJXQqCGmV5VcEpZEQQGT4pPrk2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 79
+canceled: false
 approved_guest_count: 0
 local_image: "images/THa8hGECiLhNpThA760i.png"
-canceled: false
 ---
 
 # GGW Sharks. Startup Pitch & Networking
@@ -34,7 +33,7 @@ canceled: false
 **Hosts:** Go Global World, Selective VC
 **When:** Wednesday, June 3, 2026 · 1:00pm–3:00pm ET
 **Where:** Virtual (NYC)
-**Going:** 72 of 79
+**Going:** 141
 **RSVP:** https://partiful.com/e/THa8hGECiLhNpThA760i
 
 ### Hosts on Partiful
@@ -77,10 +76,6 @@ https://goglobal.world
 
 ​​​​Selective VC - a community-driven fund & angel syndicate investing in startups across various industries and stages with allocations up to $1М.
 https://selectivevc.com
-
-
-
-
 
 
 

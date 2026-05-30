@@ -14,21 +14,20 @@ neighborhood: "East Village"
 rsvp_url: "https://partiful.com/e/rbyGArpMSo4phJfeVmrw"
 public_short_url: "https://go.partiful.com/fp5QbEKR"
 google_maps: "https://www.google.com/maps/search/?api=1&query=145%20Avenue%20C%2C%20New%20York%2C%20NY%2010009"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FLGJfg5rKGAQSamoe9brzdO9MqCq2%2FQxvoF18cwPwMkaFJDCvpF"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FLGJfg5rKGAQSamoe9brzdO9MqCq2%2FQxvoF18cwPwMkaFJDCvpF?alt=media&token=4260d507-8306-48fd-b758-f8a67f39a515"
 visibility: "public"
 at_capacity: true
-going_guest_count: 77
+going_guest_count: 200
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["LGJfg5rKGAQSamoe9brzdO9MqCq2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 77
+max_capacity: 200
 remaining_capacity: 0
-total_guest_count: 119
+canceled: false
 approved_guest_count: 0
 local_image: "images/rbyGArpMSo4phJfeVmrw.png"
-canceled: false
 ---
 
 # Built by Women, Backed by Community
@@ -38,7 +37,7 @@ canceled: false
 **Hosts:** Socializela.com  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 7:15pm–9:30pm ET
 **Where:** Bobby’s Night Out · 145 Avenue C, New York, NY 10009 · East Village
-**Capacity:** capped at 77 · 77 taken, 0 remaining · ⚠ **FULL**
+**Capacity:** capped at 200 · 200 taken, 0 remaining · ⚠ **FULL**
 **Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/rbyGArpMSo4phJfeVmrw
 **Map:** https://www.google.com/maps/search/?api=1&query=145%20Avenue%20C%2C%20New%20York%2C%20NY%2010009
@@ -74,10 +73,6 @@ Full bar available for purchase.
 Sponsored by Woman Owned NYC and SocializeLA.com.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -11,21 +11,20 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/TxqtiIE5vDlLmXeiRkDW"
 public_short_url: "https://go.partiful.com/4yObUkKE"
 google_maps: "https://www.google.com/maps/search/?api=1&query=300%20Madison%20Ave%2C%20New%20York%2C%20NY%2010017"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FnykOqiO2k8W8oE4ytyCS40kE3dZ2%2F0ThQYecQrFeUUO_2WJsSu"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FnykOqiO2k8W8oE4ytyCS40kE3dZ2%2F0ThQYecQrFeUUO_2WJsSu?alt=media&token=7b1ce065-6247-4042-90fd-d123a4915965"
 visibility: "public"
 at_capacity: false
-going_guest_count: 11
+going_guest_count: 38
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["nykOqiO2k8W8oE4ytyCS40kE3dZ2", "7DFu4rITofNzKIjA7hCx", "VAMsLGo5NkSalGRNZQoyeBwYEzF3"]
 is_capped: true
 max_capacity: 200
-remaining_capacity: 189
-total_guest_count: 12
+remaining_capacity: 162
+canceled: false
 approved_guest_count: 0
 local_image: "images/TxqtiIE5vDlLmXeiRkDW.png"
-canceled: false
 ---
 
 # The Agentic Company Playbook: Why Data Is Still the Moat
@@ -35,7 +34,7 @@ canceled: false
 **Hosts:** YG, Sandro  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm ET
 **Where:** 300 Madison Ave, New York, NY 10017 · Midtown
-**Capacity:** capped at 200 · 11 taken, 189 remaining
+**Capacity:** capped at 200 · 38 taken, 162 remaining
 **RSVP:** https://partiful.com/e/TxqtiIE5vDlLmXeiRkDW
 **Map:** https://www.google.com/maps/search/?api=1&query=300%20Madison%20Ave%2C%20New%20York%2C%20NY%2010017
 
@@ -53,10 +52,6 @@ Join us for a deep dive with Alessandro Pireno, a seasoned AI, data, and GTM lea
 The Agentic Company Playbook: Why Data Is Still the Moat explores how companies actually win in the AI era-beyond hype. We’ll break down how agentic systems change how businesses operate, and why proprietary, well-structured data remains the ultimate competitive advantage.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

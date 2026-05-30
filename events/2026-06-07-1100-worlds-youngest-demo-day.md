@@ -13,20 +13,17 @@ neighborhood: "Nomad"
 rsvp_url: "https://partiful.com/e/S1GWW9LgdfrsRourMeSH"
 public_short_url: "https://go.partiful.com/m4JhkJ6s"
 google_maps: "https://www.google.com/maps/search/?api=1&query=8%20W%2038th%20St%2C%20New%20York%2C%20NY%2010018"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FFq3iFrfMUonR6yWrXq7O%2FJBexwCs0D2RUq4wFfDwca"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FFq3iFrfMUonR6yWrXq7O%2FJBexwCs0D2RUq4wFfDwca?alt=media&token=87ff6f07-8dc0-47d7-8b7e-95385f77d2bd"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 20
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["Fq3iFrfMUonR6yWrXq7O", "7DFu4rITofNzKIjA7hCx", "FjMfXKQkrKcCso9X8y6fndSFgjH2"]
 is_capped: false
-total_guest_count: 100
-approved_guest_count: 26
-local_image: "images/S1GWW9LgdfrsRourMeSH.png"
 canceled: false
+local_image: "images/S1GWW9LgdfrsRourMeSH.png"
 ---
 
 # World's Youngest Demo Day
@@ -36,7 +33,6 @@ canceled: false
 **Hosts:** The Knowledge Society (TKS)  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Sunday, June 7, 2026 · 11:00am–2:00pm ET
 **Where:** 8 W 38th St, New York, NY 10018 · Nomad
-**Going:** 20 of 100
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/S1GWW9LgdfrsRourMeSH
 **Map:** https://www.google.com/maps/search/?api=1&query=8%20W%2038th%20St%2C%20New%20York%2C%20NY%2010018
@@ -59,10 +55,6 @@ The full run-of-show will be posted soon.
 Learn more about TKS, the accelerator program that empowers teenagers to make their ideas real, at www.tks.world.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -16,18 +16,14 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: true
-going_guest_count: 40
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["9zg7B5MwQ0PidLEGdTmYqo2qeKz2", "7DFu4rITofNzKIjA7hCx", "GObNOE4sJNcmMlI0E739RyXxS2A3"]
 is_capped: true
-max_capacity: 40
-remaining_capacity: 0
-total_guest_count: 61
-approved_guest_count: 0
-local_image: "images/DZxBZ2Nm6CjxkgEaBImd.png"
+max_capacity: 50
 canceled: false
+local_image: "images/DZxBZ2Nm6CjxkgEaBImd.png"
 ---
 
 # Innovate, protect, monetize: Navigating IP rights and infringement risks in the age of AI
@@ -37,7 +33,7 @@ canceled: false
 **Hosts:** Norton Rose Fulbright  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm ET
 **Where:** Cathédrale · 112 E 11th St, New York, NY 10003 · Union Square
-**Capacity:** capped at 40 · 40 taken, 0 remaining · ⚠ **FULL**
+**Capacity:** capped at 50
 **Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/DZxBZ2Nm6CjxkgEaBImd
 **Map:** https://www.google.com/maps/search/?api=1&query=112%20E%2011th%20St%2C%20New%20York%2C%20NY%2010003
@@ -75,10 +71,6 @@ Avoiding infringement: What tech businesses need to know
 Following the presentation, join us for drinks, conversation and networking.
  
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

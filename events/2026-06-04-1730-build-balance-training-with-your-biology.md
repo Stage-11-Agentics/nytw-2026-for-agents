@@ -16,18 +16,16 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 17
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["Quyy2nPi8mQiOXNmUfIpmKnAO4g1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 17
-approved_guest_count: 0
-local_image: "images/K1ivmFFt8ooSTv3l48vS.png"
 canceled: true
 canceled_at: "2026-05-14T20:39:37.667Z"
 canceled_by: "Quyy2nPi8mQiOXNmUfIpmKnAO4g1"
+approved_guest_count: 0
+local_image: "images/K1ivmFFt8ooSTv3l48vS.png"
 ---
 
 # Build & Balance: Training With Your Biology
@@ -40,7 +38,6 @@ canceled_by: "Quyy2nPi8mQiOXNmUfIpmKnAO4g1"
 **Hosts:** Pinkmatter, Sync N
 **When:** Thursday, June 4, 2026 · 5:30pm ET
 **Where:** Flatiron · Flatiron, Manhattan, New York, NY · Flatiron
-**Going:** 17
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/K1ivmFFt8ooSTv3l48vS
 **Map:** https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -60,10 +57,6 @@ This event combines a cycle-aware fitness session led by Sync with a science-for
 The goal is to shift the conversation from “pushing through” to training and performing in alignment with biological signals.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

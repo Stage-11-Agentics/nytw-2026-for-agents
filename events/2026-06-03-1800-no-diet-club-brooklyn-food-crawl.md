@@ -9,7 +9,7 @@ host: "Flybridge"
 neighborhood: "Brooklyn"
 rsvp_url: "https://partiful.com/e/ObEt3ZXuTwK5o4CltorM"
 public_short_url: "https://go.partiful.com/T32alAKi"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fevel6anepZH2W6Z8wVjw%2FA2tSGUPQWCuIpDUzqhguh"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fevel6anepZH2W6Z8wVjw%2FA2tSGUPQWCuIpDUzqhguh?alt=media&token=10d7a199-b23d-4174-9244-68ea5cf1f9fc"
 visibility: "public"
 at_capacity: true
 going_guest_count: 30
@@ -20,10 +20,9 @@ owner_ids: ["evel6anepZH2W6Z8wVjw", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 30
 remaining_capacity: 0
-total_guest_count: 55
+canceled: false
 approved_guest_count: 0
 local_image: "images/ObEt3ZXuTwK5o4CltorM.png"
-canceled: false
 ---
 
 # No Diet Club Brooklyn Food Crawl
@@ -48,10 +47,6 @@ canceled: false
 Join Flybridge and No Diet Club for a walking food tour in Downtown Brooklyn.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

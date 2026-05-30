@@ -12,30 +12,26 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/DD5Ne8wjr1LBDSvYlQst"
 public_short_url: "https://go.partiful.com/OqJHJfpV"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FN9QCOBHVFAalpmtpNWGWkKxI2cu1%2FaRzTQuiEuv8NMgmyl2Jir"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FN9QCOBHVFAalpmtpNWGWkKxI2cu1%2FaRzTQuiEuv8NMgmyl2Jir?alt=media&token=9591a45e-4b5e-4f57-8bd9-0f8f5a2b33e8"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 328
 badges: []
 fetch_status: ok
-owner_count: 2
-owner_ids: ["N9QCOBHVFAalpmtpNWGWkKxI2cu1", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 3
+owner_ids: ["N9QCOBHVFAalpmtpNWGWkKxI2cu1", "7DFu4rITofNzKIjA7hCx", "FWAsbhBRjVgRy4AKYB5NeE1JCD02"]
 is_capped: false
-total_guest_count: 337
-approved_guest_count: 0
-local_image: "images/DD5Ne8wjr1LBDSvYlQst.png"
 canceled: false
+local_image: "images/DD5Ne8wjr1LBDSvYlQst.png"
 ---
 
 # AI & HealthTech for Hospitals and Healthcare
 
 ![AI & HealthTech for Hospitals and Healthcare](images/DD5Ne8wjr1LBDSvYlQst.png)
 
-**Hosts:** MedRock Ventures Inc., Orbiss Inc.
+**Hosts:** MedRock Ventures Inc., Orbiss Inc.  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 4:30pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 328 of 337
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/DD5Ne8wjr1LBDSvYlQst
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -43,6 +39,7 @@ canceled: false
 ### Hosts on Partiful
 
 - [MedRock Ventures](https://partiful.com/u/N9QCOBHVFAalpmtpNWGWkKxI2cu1)
+- [Chardonnay](https://partiful.com/u/FWAsbhBRjVgRy4AKYB5NeE1JCD02)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -67,10 +64,6 @@ Agenda
 [Invite only]
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

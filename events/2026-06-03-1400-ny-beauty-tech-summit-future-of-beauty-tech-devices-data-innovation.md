@@ -5,7 +5,7 @@ date: 2026-06-03
 day: "Wednesday"
 start_time: "2:00pm ET"
 start_iso: "2026-06-03T18:00:00.000Z"
-host: "Wearable Tech Ventures, Richualist, Myavanna"
+host: "Richualist, Wearable Tech Ventures, Myavanna"
 venue_name: "Chelsea, nyc"
 venue_address: "415 W 20th St, New York, NY 10011"
 neighborhood: "Chelsea"
@@ -23,17 +23,16 @@ owner_ids: ["bBJamfyzGbVRELbIdAIu6E8CmHn2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 70
 remaining_capacity: 0
-total_guest_count: 151
+canceled: false
 approved_guest_count: 0
 local_image: "images/e32DJWAieEIPVwRTAxLU.jpg"
-canceled: false
 ---
 
 # NY Beauty Tech Summit: Future of Beauty Tech Devices, Data & Innovation
 
 ![NY Beauty Tech Summit: Future of Beauty Tech Devices, Data & Innovation](images/e32DJWAieEIPVwRTAxLU.jpg)
 
-**Hosts:** Wearable Tech Ventures, Richualist, Myavanna
+**Hosts:** Richualist, Wearable Tech Ventures, Myavanna
 **When:** Wednesday, June 3, 2026 · 2:00pm ET
 **Where:** Chelsea, nyc · 415 W 20th St, New York, NY 10011 · Chelsea
 **Capacity:** capped at 70 · 70 taken, 0 remaining · ⚠ **FULL**
@@ -52,10 +51,6 @@ canceled: false
 The Future of Beauty Tech: Devices, Data & Innovation
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

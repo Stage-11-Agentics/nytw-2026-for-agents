@@ -11,22 +11,20 @@ host: "Fora Travel"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/RrTyygZKuHP4KAmVi2QS"
 public_short_url: "https://go.partiful.com/uocPpYv6"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJJPjpYcD8JOrgSYLgwIN4vPpVgq2%2Fwt05WVNKpc1rIavsdkcWW"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJJPjpYcD8JOrgSYLgwIN4vPpVgq2%2Fwt05WVNKpc1rIavsdkcWW?alt=media&token=361373a9-3811-407f-89ed-8fb2ae91d6fd"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 223
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["JJPjpYcD8JOrgSYLgwIN4vPpVgq2", "7DFu4rITofNzKIjA7hCx", "zppHg36lXFhswPD71Ui1"]
 is_capped: true
-max_capacity: 50
-remaining_capacity: 7
-total_guest_count: 226
-approved_guest_count: 43
-local_image: "images/RrTyygZKuHP4KAmVi2QS.png"
+max_capacity: 150
+remaining_capacity: -17
 canceled: false
+approved_guest_count: 167
+local_image: "images/RrTyygZKuHP4KAmVi2QS.png"
 ---
 
 # Unlocking Entrepreneurship in Travel through Humans x Technology
@@ -36,7 +34,8 @@ canceled: false
 **Hosts:** Fora Travel  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 4:00pm–6:00pm ET
 **Where:** SoHo
-**Capacity:** capped at 50 · 43 taken, 7 remaining
+**Capacity:** capped at 150 · 167 taken, -17 remaining
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/RrTyygZKuHP4KAmVi2QS
 
@@ -56,10 +55,6 @@ In a panel with Jake Peters (Co-Founder & Chief Product/Technology Officer) and 
 Backed by leading VCs including Thrive, Insight, Forerunner, and Heartcore, Fora has earned recognition across both the tech and travel industries and was recently voted a top employer on Built In. We're growing fast, and we're investing in the people who will shape what comes next.
 
 This event is part of #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -6,26 +6,21 @@ day: "Monday"
 start_time: "10:00am ET"
 start_iso: "2026-06-01T14:00:00.000Z"
 host: "Travelbay"
-venue_name: "Manhattan"
-venue_address: "Manhattan, New York, NY"
 neighborhood: "Upper Manhattan"
 rsvp_url: "https://partiful.com/e/oCQeG6SZP23qz5nvcxBh"
 public_short_url: "https://go.partiful.com/GJEaRYcg"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F2fWTeB3MdsQsy5ttwHemdYxrCK22%2F6aeYNVk_xGwxk7FBy2WyD"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F2fWTeB3MdsQsy5ttwHemdYxrCK22%2F6aeYNVk_xGwxk7FBy2WyD?alt=media&token=0e6fd25a-0f12-4a5f-a9b4-8f51ee827bf8"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 1373
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["2fWTeB3MdsQsy5ttwHemdYxrCK22", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 1379
-approved_guest_count: 174
-local_image: "images/oCQeG6SZP23qz5nvcxBh.jpg"
 canceled: false
+approved_guest_count: 285
+local_image: "images/oCQeG6SZP23qz5nvcxBh.jpg"
 ---
 
 # Building Products That Scale Globally
@@ -34,11 +29,10 @@ canceled: false
 
 **Hosts:** Travelbay  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 10:00am ET
-**Where:** Manhattan · Manhattan, New York, NY · Upper Manhattan
-**Going:** 1373 of 1379
+**Where:** Upper Manhattan
+**Going:** 285
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/oCQeG6SZP23qz5nvcxBh
-**Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -87,10 +81,6 @@ Hosted by Travelbay: www.partners.travelbayonline.com
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

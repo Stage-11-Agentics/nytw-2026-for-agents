@@ -8,26 +8,21 @@ end_time: "1:30pm ET"
 start_iso: "2026-06-01T16:30:00.000Z"
 end_iso: "2026-06-01T17:30:00.000Z"
 host: "Acclime, Herrick"
-venue_name: "Herrick Feinstein"
-venue_address: "2 Park Ave, New York, NY 10016"
 neighborhood: "Murray Hill"
 rsvp_url: "https://partiful.com/e/yfYQYRx4HFxA113yoZi3"
 public_short_url: "https://go.partiful.com/tscFwGXS"
-google_maps: "https://www.google.com/maps/search/?api=1&query=2%20Park%20Ave%2C%20New%20York%2C%20NY%2010016"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FFd5U3rsSdTi8mGsFv2xU%2FOsYTlLBAKIgUXzHdC8d1h"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FFd5U3rsSdTi8mGsFv2xU%2FOsYTlLBAKIgUXzHdC8d1h?alt=media&token=07347406-c1ed-44ad-b9c1-7b0b8640661a"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 126
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["Fd5U3rsSdTi8mGsFv2xU", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 129
-approved_guest_count: 84
-local_image: "images/yfYQYRx4HFxA113yoZi3.jpg"
 canceled: false
+approved_guest_count: 143
+local_image: "images/yfYQYRx4HFxA113yoZi3.jpg"
 ---
 
 # The Six-Figure Mistakes International Founders Keep Making in the U.S.
@@ -36,11 +31,10 @@ canceled: false
 
 **Hosts:** Acclime, Herrick
 **When:** Monday, June 1, 2026 · 12:30pm–1:30pm ET
-**Where:** Herrick Feinstein · 2 Park Ave, New York, NY 10016 · Murray Hill
-**Going:** 126 of 129
+**Where:** Murray Hill
+**Going:** 143
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/yfYQYRx4HFxA113yoZi3
-**Map:** https://www.google.com/maps/search/?api=1&query=2%20Park%20Ave%2C%20New%20York%2C%20NY%2010016
 
 ### Hosts on Partiful
 
@@ -75,10 +69,6 @@ About SAX: SAX is a multi-disciplinary accounting, tax, technology and advisory 
 Herrick, Acclime and SAX are members of the TAG Alliances a leading global alliance of independent law firms, accounting firms, and strategic advisors, enabling seamless cross‑border legal, tax, and business support across 110+ countries for internationally scaling companies and investors.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

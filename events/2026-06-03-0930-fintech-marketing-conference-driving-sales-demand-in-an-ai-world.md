@@ -11,22 +11,20 @@ host: "FinTech Marketing Community"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/JZl9gHlfQ6edJxp2BoCy"
 public_short_url: "https://go.partiful.com/ZLkC9xLS"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FSqkhBlCUkpebymlgtYctwMSzCMo1%2FZnIx0bPX0BAM-RFNoDhPj"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FSqkhBlCUkpebymlgtYctwMSzCMo1%2FZnIx0bPX0BAM-RFNoDhPj?alt=media&token=ba529498-3826-46f9-bd92-95d1e720b7b4"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 76
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["SqkhBlCUkpebymlgtYctwMSzCMo1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 500
-remaining_capacity: 432
-total_guest_count: 76
-approved_guest_count: 68
-local_image: "images/JZl9gHlfQ6edJxp2BoCy.png"
+remaining_capacity: 371
 canceled: false
+approved_guest_count: 129
+local_image: "images/JZl9gHlfQ6edJxp2BoCy.png"
 ---
 
 # FIN.TECH MARKETING CONFERENCE: DRIVING SALES & DEMAND IN AN AI WORLD
@@ -36,7 +34,7 @@ canceled: false
 **Hosts:** FinTech Marketing Community  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 9:30am–8:00pm ET
 **Where:** Financial District
-**Capacity:** capped at 500 · 68 taken, 432 remaining
+**Capacity:** capped at 500 · 129 taken, 371 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/JZl9gHlfQ6edJxp2BoCy
 
@@ -55,10 +53,6 @@ From keynote discussions on economic shifts, AI-powered growth, and the future o
 Whether you’re leading brand transformation, accelerating pipeline growth, scaling customer acquisition, or navigating investment and expansion, this is a not-to-be-missed opportunity to connect with senior peers, investors, partners, and innovators across the global FinTech ecosystem. As part of NY Tech Week, this event places you at the center of one of the world’s most influential weeks for technology, venture, and startup leadership, offering unparalleled networking, actionable insights, and strategic opportunities to fuel your next stage of growth.
 
 This event is a part of #NYTechWeek a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

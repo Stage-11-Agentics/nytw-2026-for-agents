@@ -9,20 +9,18 @@ host: "Mucker Capital"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/WXKIsvQH11PGD8YwP1v9"
 public_short_url: "https://go.partiful.com/qLnp8AYL"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FPM0t58OCz1kg5yBM3zLy%2FsSEEzWKEITcBmmFAO9XgU"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FPM0t58OCz1kg5yBM3zLy%2FsSEEzWKEITcBmmFAO9XgU?alt=media&token=3bfb75f7-d46a-4816-ae15-5b5e337af74d"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 305
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["SQM4aA1EHyZRwozk3ljcK1AgE983", "PM0t58OCz1kg5yBM3zLy", "Rc3txsBZhqVmjdCnUf67Z4HBJVm1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 306
-approved_guest_count: 73
-local_image: "images/WXKIsvQH11PGD8YwP1v9.png"
 canceled: false
+approved_guest_count: 279
+local_image: "images/WXKIsvQH11PGD8YwP1v9.png"
 ---
 
 # GTM & AI: Gimmick or Gold?
@@ -32,7 +30,7 @@ canceled: false
 **Hosts:** Mucker Capital  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 2:00pm ET
 **Where:** Financial District
-**Going:** 305 of 306
+**Going:** 279
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/WXKIsvQH11PGD8YwP1v9
 
@@ -71,10 +69,6 @@ If you do not consent to being photographed or recorded, please withdraw your RS
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at
 
 www.tech-week.com
-
-
-
-
 
 
 

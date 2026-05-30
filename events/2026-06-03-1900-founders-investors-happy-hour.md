@@ -11,20 +11,17 @@ neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/k1T8QalDu09QHClA10Dr"
 public_short_url: "https://go.partiful.com/IQorpqkI"
 google_maps: "https://www.google.com/maps/search/?api=1&query=153%20W%2027th%20St%2C%20New%20York%2C%20NY%2010001"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FQnWG0MrBE9Y9VKKIbUmK%2F49_uM4rYT5WaqMbhYkRKl"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FQnWG0MrBE9Y9VKKIbUmK%2F49_uM4rYT5WaqMbhYkRKl?alt=media&token=ca360aa8-ed22-4f8b-b5e0-c948b0cdcd14"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 165
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["QnWG0MrBE9Y9VKKIbUmK", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 160
-approved_guest_count: 110
-local_image: "images/k1T8QalDu09QHClA10Dr.png"
 canceled: false
+local_image: "images/k1T8QalDu09QHClA10Dr.png"
 ---
 
 # Founders & Investors Happy Hour
@@ -34,7 +31,6 @@ canceled: false
 **Hosts:** Haven  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 7:00pm ET
 **Where:** 153 W 27th St, New York, NY 10001 · Chelsea
-**Going:** 165 of 160
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/k1T8QalDu09QHClA10Dr
 **Map:** https://www.google.com/maps/search/?api=1&query=153%20W%2027th%20St%2C%20New%20York%2C%20NY%2010001
@@ -49,13 +45,12 @@ canceled: false
 
 NY Tech Week Founders & Investors Happy Hour
 
-We've updated the format from a dinner to a happy hour – same curated room, more room to breathe
-
-We're keeping it simple — a curated evening at Haven HQ for early stage founders and active investors (GPs & LPs).  Expect drinks, good company, and real conversation. No decks, no pitching from a podium.
+We're keeping it simple — a curated evening at Haven HQ for early stage founders and active investors (GPs & LPs).  Expect food, drinks, good company, and real conversation. No decks, no pitching from a podium. 
 
 What to Expect
 - Welcome notes from the Haven team
 - Round of Investor intros: who they are, what they back, and what they're excited about right now
+(Yes we will have the Knicks Game playing -- Knicks in 6🏀)
 
 Why Join
 - Direct access to investors
@@ -64,7 +59,19 @@ Why Join
 
 Who's in the Room
 - A vetted group of early-stage founders 
-- GPs & LPs from active NYC funds (investors & firms will be announced closer to the event) 
+- GPs & LPs from active funds: 
+Llama Ventures
+NY Ventures
+Colopl Next
+Klaris Capital
+Stage 2
+LAN Accelerator
+SK Telecom Ventures
+Thomson Reuters Ventures
+Argonautic Ventures
+Sony Innovation Fund 
+Struck Capital
++ others !
 
 Every RSVP is reviewed individually.
 
@@ -74,10 +81,6 @@ Haven is a modern full-stack accounting platform for startups and SMBs — bookk
 Bonus: Guests get priority access to Haven Second Opinion (a free 1:1 review of your financial setup with one of our CPAs)
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

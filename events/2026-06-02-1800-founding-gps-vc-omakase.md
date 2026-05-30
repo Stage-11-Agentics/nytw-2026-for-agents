@@ -7,40 +7,32 @@ start_time: "6:00pm ET"
 end_time: "9:00pm ET"
 start_iso: "2026-06-02T22:00:00.000Z"
 end_iso: "2026-06-03T01:00:00.000Z"
-host: "Mercury, Unicorner, Sydecar"
-venue_name: "The Chemistry Room"
-venue_address: "130 W 47th St, New York, NY 10036"
+host: "Unicorner, Mercury, Sydecar"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/iYgTSYfpMkHDhXgcofCb"
 public_short_url: "https://go.partiful.com/lgHfctlB"
-google_maps: "https://www.google.com/maps/search/?api=1&query=130%20W%2047th%20St%2C%20New%20York%2C%20NY%2010036"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FDpz7S6tTHV9IoXfMrW3U%2FO67-XFcsZt7eedT2Ygl0Z"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FDpz7S6tTHV9IoXfMrW3U%2FO67-XFcsZt7eedT2Ygl0Z?alt=media&token=86a9fdbd-06af-4d11-ba88-5053d4b8924a"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 101
 badges: []
 fetch_status: ok
 owner_count: 5
 owner_ids: ["Dpz7S6tTHV9IoXfMrW3U", "7DFu4rITofNzKIjA7hCx", "aloZ9e6N5tfmqe2skhb8NYFqIA32", "iTaPjJXA65tDh3knUNB2", "ttf8NOUkoZVwNEPftRDluW3j1p42"]
 is_capped: false
-total_guest_count: 106
-approved_guest_count: 20
-local_image: "images/iYgTSYfpMkHDhXgcofCb.png"
 canceled: false
+local_image: "images/iYgTSYfpMkHDhXgcofCb.png"
 ---
 
 # Founding GPs VC Omakase
 
 ![Founding GPs VC Omakase](images/iYgTSYfpMkHDhXgcofCb.png)
 
-**Hosts:** Mercury, Unicorner, Sydecar  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** Unicorner, Mercury, Sydecar  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–9:00pm ET
-**Where:** The Chemistry Room · 130 W 47th St, New York, NY 10036 · Midtown
-**Going:** 101 of 106
+**Where:** Midtown
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/iYgTSYfpMkHDhXgcofCb
-**Map:** https://www.google.com/maps/search/?api=1&query=130%20W%2047th%20St%2C%20New%20York%2C%20NY%2010036
 
 ### Hosts on Partiful
 
@@ -72,10 +64,6 @@ Invites are extremely limited and guests must confirm attendance to participate.
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 By registering for this event, you consent to receive post-event communications from the hosts. You may unsubscribe at any time.
-
-
-
-
 
 
 

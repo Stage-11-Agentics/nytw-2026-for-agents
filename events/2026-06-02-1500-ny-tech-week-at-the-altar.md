@@ -9,7 +9,7 @@ host: "The Altar"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/KlS7UfwRDZbVeru6kvqq"
 public_short_url: "https://go.partiful.com/LL314bRs"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FqUwBOhIDmaYHaDjqby6yshr0Xyb2%2Fj2uu3X3qxFVOg3EjVUkeR"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FqUwBOhIDmaYHaDjqby6yshr0Xyb2%2Fj2uu3X3qxFVOg3EjVUkeR?alt=media&token=5c75be5c-9e0d-449e-b484-d3b88dda5a1f"
 visibility: "public"
 at_capacity: true
 going_guest_count: 40
@@ -20,10 +20,9 @@ owner_ids: ["qUwBOhIDmaYHaDjqby6yshr0Xyb2", "7DFu4rITofNzKIjA7hCx", "2lKgr4Ey6hX
 is_capped: true
 max_capacity: 40
 remaining_capacity: 0
-total_guest_count: 86
+canceled: false
 approved_guest_count: 0
 local_image: "images/KlS7UfwRDZbVeru6kvqq.png"
-canceled: false
 ---
 
 # NY TECH WEEK 
@@ -55,10 +54,6 @@ Communal guided sauna and cold plunge experience in The Altar's Atrium. Move thr
 Chat with one of our in-house nurses who will offer medically supervised peptide shots and NAD+ injections on-site, alongside compression boots, red light panels and muscle guns.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

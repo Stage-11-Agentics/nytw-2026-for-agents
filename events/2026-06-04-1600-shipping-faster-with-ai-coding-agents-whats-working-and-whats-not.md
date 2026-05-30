@@ -11,20 +11,18 @@ host: "Driver AI"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/5K5c4eODrGPKME7or20H"
 public_short_url: "https://go.partiful.com/9pvA7S4A"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FyVmK5ct5XpV3pslXHlQ9xxZAeXv2%2F2k5eGQ5F-gWqOhHm5RXCK"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FyVmK5ct5XpV3pslXHlQ9xxZAeXv2%2F2k5eGQ5F-gWqOhHm5RXCK?alt=media&token=96302966-ee4b-4a86-9288-d349667575a5"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 85
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["yVmK5ct5XpV3pslXHlQ9xxZAeXv2", "7DFu4rITofNzKIjA7hCx", "8I9AwFaLDiMzfAOTN1gQTIEBiJf1", "Pa9o0uOvaVinE7Er9PbX"]
 is_capped: false
-total_guest_count: 88
-approved_guest_count: 59
-local_image: "images/5K5c4eODrGPKME7or20H.png"
 canceled: false
+approved_guest_count: 89
+local_image: "images/5K5c4eODrGPKME7or20H.png"
 ---
 
 # Shipping Faster with AI Coding Agents: What's Working and What's Not
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** Driver AI  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 4:00pm–7:00pm ET
 **Where:** SoHo
-**Going:** 85 of 88
+**Going:** 89
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/5K5c4eODrGPKME7or20H
 
@@ -48,7 +46,7 @@ canceled: false
 
 ## Description
 
-Join Driver AI for an exclusive evening panel during NY Tech Week, bringing together engineering leaders, investors, and operators navigating the shift to agentic development — and the real decisions that come with it.
+Join Driver AI for an exclusive evening panel during NY Tech Week, co-hosted by Materialize and Liberty Ventures.  We're bringing together engineering leaders, investors, and operators navigating the shift to agentic development — and the real decisions that come with it.
 
 Panelists include:
 - Adam Tilton, CEO and Co-founder of Driver AI
@@ -58,16 +56,12 @@ Panelists include:
 
 The way software gets built is changing faster than most engineering organizations can keep up with.  There's no shortage of one-off opinions on the topic, but few honest conversations about the actual journey to make agentic coding work. 
 
-Adam and the panelists will share what it looks like to redesign your development process around agentic coding — the cultural shifts, workflow changes, common mistakes, the inevitable context chasm, and the productivity gains that ultimately make it worth it.
+Adam and the panelists will share what it looks like to redesign your development process around agentic coding — the workflow changes, inevitable context chasm, common mistakes and challenging cultural shifts. And lastly the productivity gains that ultimately make it worth it.
 
 About Your Host
 Backed by YC and Google Ventures, Driver AI is the rigorous, pre-compiled context layer that brings deterministic performance to agentic coding at scale. Learn more at driver.ai.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

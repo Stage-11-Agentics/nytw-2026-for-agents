@@ -11,20 +11,18 @@ host: "Streamlogic Ltd"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/xowd9F3kB7mPFN1luUwY"
 public_short_url: "https://go.partiful.com/3SLblKnb"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FOBywCaBZU3ZYgM7XjNNPsn0aMAy1%2F4DgI4bwJUsQQBzltG4NfF"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FOBywCaBZU3ZYgM7XjNNPsn0aMAy1%2F4DgI4bwJUsQQBzltG4NfF?alt=media&token=41b86cab-de70-4d66-9c2b-7b821ae05297"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 262
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["OBywCaBZU3ZYgM7XjNNPsn0aMAy1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 269
-approved_guest_count: 224
-local_image: "images/xowd9F3kB7mPFN1luUwY.png"
 canceled: false
+approved_guest_count: 342
+local_image: "images/xowd9F3kB7mPFN1luUwY.png"
 ---
 
 # From Vibe Coding to AI-Driven Development
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** Streamlogic Ltd  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 4:00pm–5:00pm ET
 **Where:** Midtown
-**Going:** 262 of 269
+**Going:** 342
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/xowd9F3kB7mPFN1luUwY
 
@@ -87,10 +85,6 @@ Understand how to integrate AI into your development process without losing cont
 ​​​This session is a practical, no-hype conversation about how modern teams build software responsibly in the age of AI — whether you’re launching your first startup or innovating inside a large organization.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -11,21 +11,20 @@ host: "Good Publishing"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/uoBdX5KHOTpzJGFIggSE"
 public_short_url: "https://go.partiful.com/G9WFZych"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F7k1h5Hgt1YgmAIe0UPhigIjzKpr1%2FqD9TO0L4dBdxNH6IZcTuu"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F7k1h5Hgt1YgmAIe0UPhigIjzKpr1%2FqD9TO0L4dBdxNH6IZcTuu?alt=media&token=f8799044-3012-4168-be22-5e40a321d215"
 visibility: "public"
 at_capacity: false
-going_guest_count: 8
+going_guest_count: 19
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["7k1h5Hgt1YgmAIe0UPhigIjzKpr1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 42
-total_guest_count: 8
+remaining_capacity: 31
+canceled: false
 approved_guest_count: 0
 local_image: "images/uoBdX5KHOTpzJGFIggSE.png"
-canceled: false
 ---
 
 # The Backstage Live — New York
@@ -35,7 +34,7 @@ canceled: false
 **Hosts:** Good Publishing  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:30pm–8:30pm ET
 **Where:** SoHo
-**Capacity:** capped at 50 · 8 taken, 42 remaining
+**Capacity:** capped at 50 · 19 taken, 31 remaining
 **RSVP:** https://partiful.com/e/uoBdX5KHOTpzJGFIggSE
 
 ### Hosts on Partiful
@@ -51,10 +50,6 @@ Stories from the messy side of building, a sharp moderated conversation, Q&A, an
 RSVPs will be invited to get matched in advance with one other attendee through Bridgit (an activity-based connection app) - a small experiment in not arriving alone to events about not building alone.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

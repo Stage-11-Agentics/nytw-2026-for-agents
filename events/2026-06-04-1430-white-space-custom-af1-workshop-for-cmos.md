@@ -11,22 +11,20 @@ host: "Meet The Edge, Partytrick, ViewEngine"
 neighborhood: "Union Square"
 rsvp_url: "https://partiful.com/e/qbDSnp1ZsPjrh0Z4SsCH"
 public_short_url: "https://go.partiful.com/pE9KcWaN"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FZuiKRbqro0SN1xVF7biyJLGIBVp2%2FbfXyUSGIm8AqRFdLtTbtI"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FZuiKRbqro0SN1xVF7biyJLGIBVp2%2FbfXyUSGIm8AqRFdLtTbtI?alt=media&token=2d9881f9-d6ff-4083-bc4a-7ac41fa2203b"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 62
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["VzMw6ac8PZfYgeEspBIwe8zr1jU2", "wY4MFxyWqNUY1vj6uajjnazrmem2", "7DFu4rITofNzKIjA7hCx", "ZuiKRbqro0SN1xVF7biyJLGIBVp2"]
 is_capped: true
 max_capacity: 20
-remaining_capacity: 16
-total_guest_count: 62
-approved_guest_count: 4
-local_image: "images/qbDSnp1ZsPjrh0Z4SsCH.png"
+remaining_capacity: 5
 canceled: false
+approved_guest_count: 15
+local_image: "images/qbDSnp1ZsPjrh0Z4SsCH.png"
 ---
 
 # White Space: Custom AF1 Workshop for CMOs
@@ -36,7 +34,7 @@ canceled: false
 **Hosts:** Meet The Edge, Partytrick, ViewEngine  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 2:30pm–5:00pm ET
 **Where:** Union Square
-**Capacity:** capped at 20 · 4 taken, 16 remaining
+**Capacity:** capped at 20 · 15 taken, 5 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/qbDSnp1ZsPjrh0Z4SsCH
 
@@ -69,10 +67,6 @@ Adam Gilbert — CEO, ViewEngine
 For any press, sponsorship, or invitation inquiries please email: yo@meettheedge.com
 
 This event is a part of #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

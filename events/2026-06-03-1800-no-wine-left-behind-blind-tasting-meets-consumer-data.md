@@ -8,26 +8,21 @@ end_time: "8:00pm ET"
 start_iso: "2026-06-03T22:00:00.000Z"
 end_iso: "2026-06-04T00:00:00.000Z"
 host: "No Wine Left Behind, Le Dû’s Wines"
-venue_name: "West Village"
-venue_address: "West Village, Manhattan, New York, NY"
 neighborhood: "West Village"
 rsvp_url: "https://partiful.com/e/1fVvsQZUFf7Dohot0Ed9"
 public_short_url: "https://go.partiful.com/17ydozD1"
-google_maps: "https://www.google.com/maps/search/?api=1&query=West%20Village%2C%20West%20Village%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FTEn1kn3m8HYJzMTRHdEkFUrK0Hl1%2FWv_BBFRixDPHLvEJ9V2fg"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FTEn1kn3m8HYJzMTRHdEkFUrK0Hl1%2FWv_BBFRixDPHLvEJ9V2fg?alt=media&token=ff16feb3-febd-4ef4-ba69-3f5d854b9941"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 245
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["TEn1kn3m8HYJzMTRHdEkFUrK0Hl1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 247
-approved_guest_count: 222
-local_image: "images/1fVvsQZUFf7Dohot0Ed9.jpg"
 canceled: false
+approved_guest_count: 283
+local_image: "images/1fVvsQZUFf7Dohot0Ed9.jpg"
 ---
 
 # No Wine Left Behind: Blind Tasting Meets Consumer Data
@@ -36,11 +31,10 @@ canceled: false
 
 **Hosts:** No Wine Left Behind, Le Dû’s Wines
 **When:** Wednesday, June 3, 2026 · 6:00pm–8:00pm ET
-**Where:** West Village · West Village, Manhattan, New York, NY · West Village
-**Going:** 245 of 247
+**Where:** West Village
+**Going:** 283
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/1fVvsQZUFf7Dohot0Ed9
-**Map:** https://www.google.com/maps/search/?api=1&query=West%20Village%2C%20West%20Village%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -66,10 +60,6 @@ Perks:
 – A chance to help decide what gets stocked at Le Dû’s
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

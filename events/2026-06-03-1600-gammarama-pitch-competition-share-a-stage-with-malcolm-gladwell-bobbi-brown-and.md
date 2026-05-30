@@ -8,26 +8,23 @@ end_time: "6:00pm ET"
 start_iso: "2026-06-03T20:00:00.000Z"
 end_iso: "2026-06-03T22:00:00.000Z"
 host: "Gamma"
-venue_name: "The Manhattan Center"
-venue_address: "311 W 34th St, New York, NY 10001"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/cDtdUampmcbyc1wqrRid"
 public_short_url: "https://go.partiful.com/qeNOoJTL"
-google_maps: "https://www.google.com/maps/search/?api=1&query=311%20W%2034th%20St%2C%20New%20York%2C%20NY%2010001"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F0wMLtF8eSPHMQQCEkIZn%2F491-RnVCZsA_ZYKLelrC0"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F0wMLtF8eSPHMQQCEkIZn%2F491-RnVCZsA_ZYKLelrC0?alt=media&token=9d887baa-0f7e-4781-8b19-8f5b2bc6e5ba"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 534
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["0wMLtF8eSPHMQQCEkIZn", "7DFu4rITofNzKIjA7hCx"]
-is_capped: false
-total_guest_count: 537
-approved_guest_count: 430
-local_image: "images/cDtdUampmcbyc1wqrRid.png"
+is_capped: true
+max_capacity: 560
+remaining_capacity: 40
 canceled: false
+approved_guest_count: 520
+local_image: "images/cDtdUampmcbyc1wqrRid.png"
 ---
 
 # Gammarama Pitch Competition: Share a Stage with Malcolm Gladwell, Bobbi Brown, and More
@@ -36,11 +33,10 @@ canceled: false
 
 **Hosts:** Gamma  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 4:00pm–6:00pm ET
-**Where:** The Manhattan Center · 311 W 34th St, New York, NY 10001 · Midtown
-**Going:** 534 of 537
+**Where:** Midtown
+**Capacity:** capped at 560 · 520 taken, 40 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/cDtdUampmcbyc1wqrRid
-**Map:** https://www.google.com/maps/search/?api=1&query=311%20W%2034th%20St%2C%20New%20York%2C%20NY%2010001
 
 ### Hosts on Partiful
 
@@ -56,7 +52,7 @@ Gammarama is our star-studded storytelling show. One wildcard slot is held for t
 
 Here's how it works: 
 
-- Interested in competing? Apply here: https://gamma.app/events/gammarama/pitch-competition
+- Interested in competing? DEADLINE EXTENDED TO MAY 29. Apply here: https://gamma.app/events/gammarama/pitch-competition
 - Our judges will choose 10 finalists to pitch live on June 3rd.
 - The winner will get to present alongside our star-studded lineup on the Gammarama main stage that evening (and receive a Gamma subscription for life) .
 
@@ -65,10 +61,6 @@ In your RSVP, indicate if you'd like to compete or are coming to watch the 10 fi
 ***This page is for the pitch finals. Register for the main-stage Gammarama show here: https://partiful.com/e/fCEfTvswCDe1lJYqLHQv ***
 
 This event is hosted by Gamma (gamma.app) and part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

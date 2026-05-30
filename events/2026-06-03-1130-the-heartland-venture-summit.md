@@ -12,20 +12,17 @@ neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/yZMbnwWAgGJwASwKArr3"
 public_short_url: "https://go.partiful.com/UUzS11At"
 google_maps: "https://www.google.com/maps/search/?api=1&query=62%20Chelsea%20Piers%2C%20Unit%20300%2C%20New%20York%2C%20NY%2010011"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F9tExiAMygqd2pRR9V9PJHkXsDpk1%2FhBtyBRqFUrjuBc21E7Dhf"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F9tExiAMygqd2pRR9V9PJHkXsDpk1%2FeXXY5gnRFkwFSwOHrR-fX?alt=media&token=dba86c1a-a95b-4469-a8b5-ea2837f5226d"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 183
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["9tExiAMygqd2pRR9V9PJHkXsDpk1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 188
-approved_guest_count: 35
-local_image: "images/yZMbnwWAgGJwASwKArr3.png"
 canceled: false
+local_image: "images/yZMbnwWAgGJwASwKArr3.png"
 ---
 
 # The Heartland Venture Summit
@@ -35,7 +32,6 @@ canceled: false
 **Hosts:** Ohio Startup Network  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 11:30am ET
 **Where:** Chelsea Piers · 62 Chelsea Piers, Unit 300, New York, NY 10011 · Chelsea
-**Going:** 183 of 188
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/yZMbnwWAgGJwASwKArr3
 **Map:** https://www.google.com/maps/search/?api=1&query=62%20Chelsea%20Piers%2C%20Unit%20300%2C%20New%20York%2C%20NY%2010011
@@ -72,10 +68,6 @@ Why the Next Great Venture Opportunity Is in the Midwest
 ​Come celebrate and explore the incredible venture opportunities coming to the heartland of the United States.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

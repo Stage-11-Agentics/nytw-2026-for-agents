@@ -6,28 +6,21 @@ day: "Wednesday"
 start_time: "12:00pm ET"
 start_iso: "2026-06-03T16:00:00.000Z"
 host: "Adobe"
-venue_name: "The Smith"
-venue_address: "956 2nd Ave, New York, NY 10022"
 neighborhood: "Union Square"
 rsvp_url: "https://partiful.com/e/JfnhQNRqGfA7BXSYtjll"
 public_short_url: "https://go.partiful.com/hODKbW1R"
-google_maps: "https://www.google.com/maps/search/?api=1&query=956%202nd%20Ave%2C%20New%20York%2C%20NY%2010022"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FF3XJcVrfd3YgM20T4v1w%2FHyzmEF6yITJgTIoTSa16V"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FF3XJcVrfd3YgM20T4v1w%2FHyzmEF6yITJgTIoTSa16V?alt=media&token=c2f8b06d-251e-4be2-9277-20078e913927"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: true
-going_guest_count: 102
+at_capacity: false
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["F3XJcVrfd3YgM20T4v1w", "7DFu4rITofNzKIjA7hCx"]
-is_capped: true
-max_capacity: 20
-remaining_capacity: -2
-total_guest_count: 106
-approved_guest_count: 22
-local_image: "images/JfnhQNRqGfA7BXSYtjll.png"
+is_capped: false
 canceled: false
+approved_guest_count: 28
+local_image: "images/JfnhQNRqGfA7BXSYtjll.png"
 ---
 
 # The Builder's Table with Adobe for Startups
@@ -36,12 +29,10 @@ canceled: false
 
 **Hosts:** Adobe  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 12:00pm ET
-**Where:** The Smith · 956 2nd Ave, New York, NY 10022 · Union Square
-**Capacity:** capped at 20 · 22 taken, -2 remaining
-**Status:** ⚠ at capacity
+**Where:** Union Square
+**Going:** 28
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/JfnhQNRqGfA7BXSYtjll
-**Map:** https://www.google.com/maps/search/?api=1&query=956%202nd%20Ave%2C%20New%20York%2C%20NY%2010022
 
 ### Hosts on Partiful
 
@@ -58,10 +49,6 @@ We'll look at some of what Adobe is building for teams like yours, get into the 
 This is also something of a first conversation. Adobe for Startups is early, and we want to build it with the people who'd actually use it. So if you have opinions about what tools are useful, what's overhyped, and what you actually need, we want to hear them. 
 
 This is part of #NYTechWeek — a week of events hosted by VCs and startups across New York's tech ecosystem. More at www.tech-week.com.
-
-
-
-
 
 
 

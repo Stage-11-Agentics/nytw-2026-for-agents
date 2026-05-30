@@ -6,26 +6,20 @@ day: "Monday"
 start_time: "7:00pm ET"
 start_iso: "2026-06-01T23:00:00.000Z"
 host: "RAUK AI"
-venue_name: "Chelsea"
-venue_address: "Chelsea, Manhattan, New York, NY"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/qktgybxOIXcZUdLRLw4T"
 public_short_url: "https://go.partiful.com/GwOxFWWm"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Chelsea%2C%20Chelsea%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FHP963xVDY4hEzpw40hsS3LC8Ciz1%2Fz0VrQNxBRGDyv5DSQFgxZ"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FHP963xVDY4hEzpw40hsS3LC8Ciz1%2Fz0VrQNxBRGDyv5DSQFgxZ?alt=media&token=21ee185b-a598-4842-8019-fd23261f97cc"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 15
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["HP963xVDY4hEzpw40hsS3LC8Ciz1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 27
-approved_guest_count: 0
-local_image: "images/qktgybxOIXcZUdLRLw4T.png"
 canceled: false
+local_image: "images/qktgybxOIXcZUdLRLw4T.png"
 ---
 
 # AI-matched dinners with Rauk AI [NEW YORK]
@@ -34,10 +28,8 @@ canceled: false
 
 **Hosts:** RAUK AI  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 7:00pm ET
-**Where:** Chelsea · Chelsea, Manhattan, New York, NY · Chelsea
-**Going:** 15 of 27
+**Where:** Chelsea
 **RSVP:** https://partiful.com/e/qktgybxOIXcZUdLRLw4T
-**Map:** https://www.google.com/maps/search/?api=1&query=Chelsea%2C%20Chelsea%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -56,10 +48,6 @@ We can’t wait to host you!
 Reserve your seat now and get ready for an evening of inspiration and connection!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

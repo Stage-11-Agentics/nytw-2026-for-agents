@@ -5,34 +5,32 @@ date: 2026-06-06
 day: "Saturday"
 start_time: "6:30pm ET"
 start_iso: "2026-06-06T22:30:00.000Z"
-host: "TechMatte Inc"
-neighborhood: "Chinatown"
+host: "TechMatte Inc, LinaX Tech"
+neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/T9QDurH6p4XVT71XQzye"
 public_short_url: "https://go.partiful.com/FHTd49cu"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F74jXHe5zY1VoQBwRBiFnkLAVTXK2%2FTU5-E4U37lcKp41TZiGX5"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F74jXHe5zY1VoQBwRBiFnkLAVTXK2%2FTU5-E4U37lcKp41TZiGX5?alt=media&token=381c1c7a-cc68-4715-bf03-03a163a2f8ab"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 32
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["74jXHe5zY1VoQBwRBiFnkLAVTXK2", "7DFu4rITofNzKIjA7hCx", "0e2STPY2E8YX2BXZShAXIhiDzG13", "4o4T9bg7xSbkl5h9admhyLrUMRB3"]
 is_capped: false
-total_guest_count: 34
-approved_guest_count: 24
-local_image: "images/T9QDurH6p4XVT71XQzye.jpg"
 canceled: false
+approved_guest_count: 33
+local_image: "images/T9QDurH6p4XVT71XQzye.jpg"
 ---
 
 # From Curb to Collar: AI Demos That Solve Real-World Problems
 
 ![From Curb to Collar: AI Demos That Solve Real-World Problems](images/T9QDurH6p4XVT71XQzye.jpg)
 
-**Hosts:** TechMatte Inc  _(+3 more host(s) on Partiful — see description for full list)_
+**Hosts:** TechMatte Inc, LinaX Tech  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 6:30pm ET
-**Where:** Chinatown
-**Going:** 32 of 34
+**Where:** Midtown
+**Going:** 33
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/T9QDurH6p4XVT71XQzye
 
@@ -69,10 +67,6 @@ About TechMatte Inc: a fast-growing and innovative technology company invested i
 About LinaX Tech: a start up builds intelligent AI-powered solutions that improve safety, efficiency, and operational flow for schools, parking systems, and smart infrastructure. We combine computer vision, automation, and real-time data to create practical technology with real-world impact.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

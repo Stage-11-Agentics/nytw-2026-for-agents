@@ -11,30 +11,40 @@ host: "GenZtea, The Business Lesson"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/EdiAncVfz5Pwyx8ljgDR"
 public_short_url: "https://go.partiful.com/cG1Q0MwS"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FMnrTVn6T1Yc80jibtVg1tau6sQI2%2FP2Hm_qK9cOBFM5yIbHntN"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FMnrTVn6T1Yc80jibtVg1tau6sQI2%2FP2Hm_qK9cOBFM5yIbHntN?alt=media&token=dd172ee4-2822-423e-ad37-d16fe9dcf6e1"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 75
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["MnrTVn6T1Yc80jibtVg1tau6sQI2", "7DFu4rITofNzKIjA7hCx", "acw1fFGaAmamAfMCGQMoGBP3ADQ2"]
 is_capped: false
-total_guest_count: 81
+canceled: true
+canceled_at: "2026-05-30T17:39:35.813Z"
+canceled_by: "MnrTVn6T1Yc80jibtVg1tau6sQI2"
+cancellation_message: "With NYC Tech Week right around the corner, I want to give you a heads up: the LinkedIn GTM Hackathon is being postponed to the fall. With so much happening this week, we simply don't have the bandwidth to give this event the energy it deserves and you deserve the full experience.\n\nThe good news? NYC Tech Week is still PACKED with amazing GenZtea events you can join:\n\nThe Reverse Career Fair at Hunter College\nGen Z Founder + Creator Mixer @ Microsoft"
 approved_guest_count: 0
 local_image: "images/EdiAncVfz5Pwyx8ljgDR.png"
-canceled: false
 ---
 
 # LinkedIn GTM Hackathon
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-30T17:39:35.813Z_  
+>  
+> With NYC Tech Week right around the corner, I want to give you a heads up: the LinkedIn GTM Hackathon is being postponed to the fall. With so much happening this week, we simply don't have the bandwidth to give this event the energy it deserves and you deserve the full experience.  
+>   
+> The good news? NYC Tech Week is still PACKED with amazing GenZtea events you can join:  
+>   
+> The Reverse Career Fair at Hunter College  
+> Gen Z Founder + Creator Mixer @ Microsoft
 
 ![LinkedIn GTM Hackathon](images/EdiAncVfz5Pwyx8ljgDR.png)
 
 **Hosts:** GenZtea, The Business Lesson  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
 **Where:** Flatiron
-**Going:** 75 of 81
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/EdiAncVfz5Pwyx8ljgDR
 
@@ -77,10 +87,6 @@ Laura Lee — Founder of BCBO: Big City Big Opp. Wharton | BCG | ex-Goldman. Bui
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

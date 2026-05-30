@@ -6,25 +6,25 @@ day: "Thursday"
 start_time: "3:00pm ET"
 start_iso: "2026-06-04T19:00:00.000Z"
 host: "Gathering of Minds"
+venue_address: "62 Chelsea Piers, New York, NY 10011"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/cbyBD4xAhpcd4mEeBJOG"
 public_short_url: "https://go.partiful.com/6QVTmk4O"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F3zDc7cEytrbFcMxr8hUxhVIBNcJ2%2FjDcm0o7NMt8pVZlGF_D0a"
+google_maps: "https://www.google.com/maps/search/?api=1&query=62%20Chelsea%20Piers%2C%20New%20York%2C%20NY%2010011"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F3zDc7cEytrbFcMxr8hUxhVIBNcJ2%2FjDcm0o7NMt8pVZlGF_D0a?alt=media&token=b4d0ac34-0ccf-4001-b7c1-3c03f9fcf2bd"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 9
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["3zDc7cEytrbFcMxr8hUxhVIBNcJ2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 50
-remaining_capacity: 50
-total_guest_count: 9
-approved_guest_count: 0
-local_image: "images/cbyBD4xAhpcd4mEeBJOG.png"
+max_capacity: 100
+remaining_capacity: 89
 canceled: false
+approved_guest_count: 11
+local_image: "images/cbyBD4xAhpcd4mEeBJOG.png"
 ---
 
 # An Executive Harbor Dinner Experience
@@ -33,10 +33,11 @@ canceled: false
 
 **Hosts:** Gathering of Minds  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 3:00pm ET
-**Where:** Chelsea
-**Capacity:** capped at 50 · 0 taken, 50 remaining
+**Where:** 62 Chelsea Piers, New York, NY 10011 · Chelsea
+**Capacity:** capped at 100 · 11 taken, 89 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/cbyBD4xAhpcd4mEeBJOG
+**Map:** https://www.google.com/maps/search/?api=1&query=62%20Chelsea%20Piers%2C%20New%20York%2C%20NY%2010011
 
 ### Hosts on Partiful
 
@@ -97,10 +98,6 @@ Executive networking, cocktails, and continued discussion above New York City
 Attendance is intentionally limited to preserve the quality of conversation and executive experience.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

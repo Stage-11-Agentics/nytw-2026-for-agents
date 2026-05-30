@@ -8,25 +8,19 @@ end_time: "12:00pm ET"
 start_iso: "2026-06-05T15:00:00.000Z"
 end_iso: "2026-06-05T16:00:00.000Z"
 host: "NewsGuard"
-venue_name: "The Paley Center for Media"
-venue_address: "25 W 52nd St, New York, NY 10019"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/4mvtLjRkoCUa7D1tfO3L"
 public_short_url: "https://go.partiful.com/pZtTwFeS"
-google_maps: "https://www.google.com/maps/search/?api=1&query=25%20W%2052nd%20St%2C%20New%20York%2C%20NY%2010019"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FQ8Dcqy8UQNU2wJXtHLkN%2FyS9hu6Fi2oWRMm2vJk_fP"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FQ8Dcqy8UQNU2wJXtHLkN%2FyS9hu6Fi2oWRMm2vJk_fP?alt=media&token=20198ccc-3963-4dd3-8412-80fe373797be"
 visibility: "public"
 at_capacity: false
-going_guest_count: 72
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["Q8Dcqy8UQNU2wJXtHLkN", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 80
-approved_guest_count: 0
-local_image: "images/4mvtLjRkoCUa7D1tfO3L.png"
 canceled: false
+local_image: "images/4mvtLjRkoCUa7D1tfO3L.png"
 ---
 
 # We Solved the Chatbot Misinfo Problem. Here's How.
@@ -35,10 +29,8 @@ canceled: false
 
 **Hosts:** NewsGuard  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 11:00am–12:00pm ET
-**Where:** The Paley Center for Media · 25 W 52nd St, New York, NY 10019 · Midtown
-**Going:** 72 of 80
+**Where:** Midtown
 **RSVP:** https://partiful.com/e/4mvtLjRkoCUa7D1tfO3L
-**Map:** https://www.google.com/maps/search/?api=1&query=25%20W%2052nd%20St%2C%20New%20York%2C%20NY%2010019
 
 ### Hosts on Partiful
 
@@ -59,10 +51,6 @@ This event will announce and demo the tool that can do it.
 If you care about where AI and news are headed, come on over — we'll have bagels and coffee.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

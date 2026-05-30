@@ -8,25 +8,21 @@ end_time: "2:00pm ET"
 start_iso: "2026-06-05T14:00:00.000Z"
 end_iso: "2026-06-05T18:00:00.000Z"
 host: "XLAI"
-venue_name: "New York"
-venue_address: "New York, NY"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/hy44NsXy8fICdvIMp2bI"
 public_short_url: "https://go.partiful.com/FU4D2eEJ"
-google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F4r1CIfaQQQPa4kMHUpZpu2Kyl2k2%2FTZjJ7qvbGP0nWrVQndMpK"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F4r1CIfaQQQPa4kMHUpZpu2Kyl2k2%2FTZjJ7qvbGP0nWrVQndMpK?alt=media&token=638aaaed-692e-4b67-962f-50c5bc82be65"
 visibility: "public"
 at_capacity: false
-going_guest_count: 20
+going_guest_count: 43
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["4r1CIfaQQQPa4kMHUpZpu2Kyl2k2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 23
+canceled: false
 approved_guest_count: 0
 local_image: "images/hy44NsXy8fICdvIMp2bI.jpg"
-canceled: false
 ---
 
 # Real-Time Sprint: Build It Live
@@ -35,10 +31,9 @@ canceled: false
 
 **Hosts:** XLAI  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 10:00am–2:00pm ET
-**Where:** New York · New York, NY · Midtown
-**Going:** 20 of 23
+**Where:** Midtown
+**Going:** 43
 **RSVP:** https://partiful.com/e/hy44NsXy8fICdvIMp2bI
-**Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -103,10 +98,6 @@ Core idea
 What if everything you built had to happen live?
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

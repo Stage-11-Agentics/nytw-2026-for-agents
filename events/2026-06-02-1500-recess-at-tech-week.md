@@ -14,22 +14,21 @@ neighborhood: "Union Square"
 rsvp_url: "https://partiful.com/e/TqQqF6AsVrPzJOiMvXkc"
 public_short_url: "https://go.partiful.com/GymttpzQ"
 google_maps: "https://www.google.com/maps/search/?api=1&query=201%20Park%20Ave%20S%2C%20New%20York%2C%20NY%2010003"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FlxLVpw15y0Y6pOW2hV40%2Ff2hXpkcZ2hRvWTewmdgb3"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FlxLVpw15y0Y6pOW2hV40%2Ff2hXpkcZ2hRvWTewmdgb3?alt=media&token=ac0547d3-c7e9-4296-a38f-4086047760d9"
 visibility: "public"
 guest_action: "RSVP"
-at_capacity: false
-going_guest_count: 73
+at_capacity: true
+going_guest_count: 105
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["lxLVpw15y0Y6pOW2hV40", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 100
-remaining_capacity: 26
-total_guest_count: 87
+max_capacity: 105
+remaining_capacity: 0
+canceled: false
 approved_guest_count: 0
 local_image: "images/TqQqF6AsVrPzJOiMvXkc.png"
-canceled: false
 ---
 
 # Recess at Tech Week
@@ -39,7 +38,8 @@ canceled: false
 **Hosts:** Recess  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 3:00pm–5:00pm ET
 **Where:** Union Square Park · 201 Park Ave S, New York, NY 10003 · Union Square
-**Capacity:** capped at 100 · 74 taken, 26 remaining
+**Capacity:** capped at 105 · 105 taken, 0 remaining · ⚠ **FULL**
+**Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/TqQqF6AsVrPzJOiMvXkc
 **Map:** https://www.google.com/maps/search/?api=1&query=201%20Park%20Ave%20S%2C%20New%20York%2C%20NY%2010003
 
@@ -70,10 +70,6 @@ THE RULES:
 RSVP here and we'll see you on the field 🏃‍♀️⚽🎨
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

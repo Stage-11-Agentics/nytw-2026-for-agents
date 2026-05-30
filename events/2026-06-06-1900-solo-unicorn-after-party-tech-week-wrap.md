@@ -8,26 +8,23 @@ end_time: "10:00pm ET"
 start_iso: "2026-06-06T23:00:00.000Z"
 end_iso: "2026-06-07T02:00:00.000Z"
 host: "Solo Unicorn Club, Manhattan Elite Club"
-venue_address: "225 W 34th St, New York, NY 10122"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/L07TEdnMvXFvon3yhy5f"
 public_short_url: "https://go.partiful.com/XmFO0UHS"
-google_maps: "https://www.google.com/maps/search/?api=1&query=225%20W%2034th%20St%2C%20New%20York%2C%20NY%2010122"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F5e3cCqntxWb5Uu3D8K1r%2FQcRIRRQs2FRGmzzqVWGe8"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F5e3cCqntxWb5Uu3D8K1r%2FQcRIRRQs2FRGmzzqVWGe8?alt=media&token=2983a7c2-327d-44c4-a1aa-639ec11cd9ef"
 visibility: "public"
 at_capacity: false
-going_guest_count: 26
+going_guest_count: 117
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["5e3cCqntxWb5Uu3D8K1r", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 100
-remaining_capacity: 70
-total_guest_count: 32
+max_capacity: 150
+remaining_capacity: 33
+canceled: false
 approved_guest_count: 0
 local_image: "images/L07TEdnMvXFvon3yhy5f.png"
-canceled: false
 ---
 
 # SOLO UNICORN AFTER-PARTY — Tech Week Wrap
@@ -36,10 +33,9 @@ canceled: false
 
 **Hosts:** Solo Unicorn Club, Manhattan Elite Club
 **When:** Saturday, June 6, 2026 · 7:00pm–10:00pm ET
-**Where:** 225 W 34th St, New York, NY 10122 · Midtown
-**Capacity:** capped at 100 · 30 taken, 70 remaining
+**Where:** Midtown
+**Capacity:** capped at 150 · 117 taken, 33 remaining
 **RSVP:** https://partiful.com/e/L07TEdnMvXFvon3yhy5f
-**Map:** https://www.google.com/maps/search/?api=1&query=225%20W%2034th%20St%2C%20New%20York%2C%20NY%2010122
 
 ### Hosts on Partiful
 
@@ -69,10 +65,6 @@ Featured on the official NYC Tech Week 2026 calendar.
 Dress code: come as you are after a week of pitch meetings.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

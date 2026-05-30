@@ -14,20 +14,18 @@ neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/fKbfXevmgFNV5GgHWYqx"
 public_short_url: "https://go.partiful.com/pHLXT5XT"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Chelsea%2C%20Chelsea%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FUNITvnclNeMr8X0tQpy4sS3MIAH3%2FsBH6uJEgiKX9BlhtT6FfJ"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FUNITvnclNeMr8X0tQpy4sS3MIAH3%2FsBH6uJEgiKX9BlhtT6FfJ?alt=media&token=0afbfe79-6503-4462-87d6-628ae1347d32"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 2082
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["UNITvnclNeMr8X0tQpy4sS3MIAH3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 2085
-approved_guest_count: 120
-local_image: "images/fKbfXevmgFNV5GgHWYqx.png"
 canceled: false
+approved_guest_count: 265
+local_image: "images/fKbfXevmgFNV5GgHWYqx.png"
 ---
 
 # Special NYTW AI/Tech Founders Rooftop Series
@@ -37,7 +35,7 @@ canceled: false
 **Hosts:** staaake  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Sunday, June 7, 2026 · 5:30pm–8:00pm ET
 **Where:** Chelsea · Chelsea, Manhattan, New York, NY · Chelsea
-**Going:** 2082 of 2085
+**Going:** 265
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/fKbfXevmgFNV5GgHWYqx
 **Map:** https://www.google.com/maps/search/?api=1&query=Chelsea%2C%20Chelsea%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -65,9 +63,15 @@ Reverse Networking events can happen anywhere, from parks and co-working spaces 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
+Sponsor
 
+SeedLegals
+https://seedlegals.com/us/
+SeedLegals is the platform and team to help you get investment ready and raise investment.
 
+staaake
 
+**www.staaake.com**
 
 
 

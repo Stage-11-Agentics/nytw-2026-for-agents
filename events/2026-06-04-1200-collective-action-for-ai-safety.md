@@ -6,38 +6,32 @@ day: "Thursday"
 start_time: "12:00pm ET"
 start_iso: "2026-06-04T16:00:00.000Z"
 host: "Spartacus.app"
-venue_address: "26 Broadway, New York, NY 10004"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/hNaQJhWwvkvbnYnzfmu5"
 public_short_url: "https://go.partiful.com/S4z2Qahp"
-google_maps: "https://www.google.com/maps/search/?api=1&query=26%20Broadway%2C%20New%20York%2C%20NY%2010004"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2F30vcwFDhrbf7w9UIZYlq1ZEWI7m1%2FGN-NYLT942cHjJ5rtlbOx"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2F30vcwFDhrbf7w9UIZYlq1ZEWI7m1%2FGN-NYLT942cHjJ5rtlbOx?alt=media&token=f1b58b0e-16db-40fe-8fb6-86145f5ae97b"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 37
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["30vcwFDhrbf7w9UIZYlq1ZEWI7m1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 37
+canceled: false
 approved_guest_count: 0
 image_download_error: "HTTP Error 403: Forbidden"
-canceled: false
 ---
 
 # Collective Action for AI Safety
 
-![Collective Action for AI Safety](https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2F30vcwFDhrbf7w9UIZYlq1ZEWI7m1%2FGN-NYLT942cHjJ5rtlbOx)
+![Collective Action for AI Safety](https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2F30vcwFDhrbf7w9UIZYlq1ZEWI7m1%2FGN-NYLT942cHjJ5rtlbOx?alt=media&token=f1b58b0e-16db-40fe-8fb6-86145f5ae97b)
 
 **Hosts:** Spartacus.app  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 12:00pm ET
-**Where:** 26 Broadway, New York, NY 10004 · Financial District
-**Going:** 37
+**Where:** Financial District
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/hNaQJhWwvkvbnYnzfmu5
-**Map:** https://www.google.com/maps/search/?api=1&query=26%20Broadway%2C%20New%20York%2C%20NY%2010004
 
 ### Hosts on Partiful
 
@@ -76,10 +70,6 @@ The powerful don't want you to have leverage. The status quo is betting you'll s
 We’re in, if you’re in.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

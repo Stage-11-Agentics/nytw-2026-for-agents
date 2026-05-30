@@ -12,20 +12,17 @@ neighborhood: "Lower East Side"
 rsvp_url: "https://partiful.com/e/D46hAuAjMEYlwq69AJ0c"
 public_short_url: "https://go.partiful.com/9CawyF2q"
 google_maps: "https://www.google.com/maps/search/?api=1&query=158%20Ludlow%20St%2C%20New%20York%2C%20NY%2010002"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FX4zClxB590hKufMYyCXb%2FN8yg9vstqFwUGepeUVxkq"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FX4zClxB590hKufMYyCXb%2FN8yg9vstqFwUGepeUVxkq?alt=media&token=6a9e1a47-9f79-41c6-9c47-6eca0efb73b2"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 53
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["X4zClxB590hKufMYyCXb", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 56
-approved_guest_count: 16
-local_image: "images/D46hAuAjMEYlwq69AJ0c.png"
 canceled: false
+local_image: "images/D46hAuAjMEYlwq69AJ0c.png"
 ---
 
 # Synthetic Audiences, Real Consequences
@@ -35,7 +32,6 @@ canceled: false
 **Hosts:** Panoplai  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:30pm ET
 **Where:** Pianos · 158 Ludlow St, New York, NY 10002 · Lower East Side
-**Going:** 53 of 56
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/D46hAuAjMEYlwq69AJ0c
 **Map:** https://www.google.com/maps/search/?api=1&query=158%20Ludlow%20St%2C%20New%20York%2C%20NY%2010002
@@ -64,7 +60,7 @@ Insight professionals, marketers, innovators and strategists who make decisions 
 
 The panel:
 Neil Dixit — CEO, Panoplai
-Andrea Harrison — Gallo. Brand-operator POV on making AI audience work usable inside a big consumer business.
+Josh Adams - Maple Leaf Foods. Brand-operator POV on making AI audience work usable inside a big consumer business.
 Phil Ahad — Managing Director of Data, Cint. The data-infrastructure POV on what synthetic audiences and digital twins need to actually hold up.
 
 Moderated by Josh Ingram, TheMostWanted.
@@ -72,10 +68,6 @@ Moderated by Josh Ingram, TheMostWanted.
 Panel discussion followed by happy hour at Pianos NYC.
 
 www.panoplai.com
-
-
-
-
 
 
 

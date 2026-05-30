@@ -6,26 +6,22 @@ day: "Wednesday"
 start_time: "6:00pm ET"
 start_iso: "2026-06-03T22:00:00.000Z"
 host: "Foundation for Agentic Networks"
-venue_name: "New York, NY"
-venue_address: "New York, NY"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/NLYATZ2b1ZaihIuIQGUF"
 public_short_url: "https://go.partiful.com/oiO5azoH"
-google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://assets.getpartiful.com/posters/Let's%20Party"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FN0PGJ56SDLTshkW4cWK5QtGiE6r2%2F6P7usjfFPADRbAdh3rzzS?alt=media&token=fbb8040e-7d89-4bff-a22b-0555fde6998a"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 63
+going_guest_count: 114
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["N0PGJ56SDLTshkW4cWK5QtGiE6r2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 66
+canceled: false
 approved_guest_count: 0
 local_image: "images/NLYATZ2b1ZaihIuIQGUF.jpg"
-canceled: false
 ---
 
 # How will consumers and brands meet in the  Agentic Era
@@ -34,10 +30,9 @@ canceled: false
 
 **Hosts:** Foundation for Agentic Networks  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm ET
-**Where:** New York, NY · New York, NY · Midtown
-**Going:** 63 of 66
+**Where:** Midtown
+**Going:** 114
 **RSVP:** https://partiful.com/e/NLYATZ2b1ZaihIuIQGUF
-**Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -47,13 +42,20 @@ canceled: false
 
 ## Description
 
-Panel and networking - the world has changed! How will consumers and brands meet in the Agentic Era? Fast-paced panel followed by currated networking
+How will Brands meet Consumers in the Agentic Era? 
 
-This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+Consumer, brand, or advertiser?...join us as we focus on the trillion dollar question! 
 
+Schedule
+1. Panel: how fast-paced tech is changing discovery & decisioning
+2. Lightening talks from cutting edge innovators
+3. Networking - meet your next collaborator/ founder?
 
+This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
 
-
+Thanks to our sponsors 
+BidVector.com: Agentic AdTech, and 
+Ramm.ai: DTC, Done For You
 
 
 

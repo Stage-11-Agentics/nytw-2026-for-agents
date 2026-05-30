@@ -8,26 +8,21 @@ end_time: "10:00am ET"
 start_iso: "2026-06-04T12:30:00.000Z"
 end_iso: "2026-06-04T14:00:00.000Z"
 host: "Connor Group, a16z"
-venue_name: "Bryant Park"
-venue_address: "40th and 42nd Streets & Fifth and Sixth Avenues, New York, NY 10018"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/llXiWmjG8QWnTZjhjpLc"
 public_short_url: "https://go.partiful.com/OKtptlbk"
-google_maps: "https://www.google.com/maps/search/?api=1&query=40th%20and%2042nd%20Streets%20%26%20Fifth%20and%20Sixth%20Avenues%2C%20New%20York%2C%20NY%2010018"
 image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 79
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["hjMaPvaumHUNxXnLTdanM6sYylT2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 80
-approved_guest_count: 46
-local_image: "images/llXiWmjG8QWnTZjhjpLc.png"
 canceled: false
+approved_guest_count: 85
+local_image: "images/llXiWmjG8QWnTZjhjpLc.png"
 ---
 
 # The Morning Bell
@@ -36,11 +31,10 @@ canceled: false
 
 **Hosts:** Connor Group, a16z
 **When:** Thursday, June 4, 2026 · 8:30am–10:00am ET
-**Where:** Bryant Park · 40th and 42nd Streets & Fifth and Sixth Avenues, New York, NY 10018 · Midtown
-**Going:** 79 of 80
+**Where:** Midtown
+**Going:** 85
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/llXiWmjG8QWnTZjhjpLc
-**Map:** https://www.google.com/maps/search/?api=1&query=40th%20and%2042nd%20Streets%20%26%20Fifth%20and%20Sixth%20Avenues%2C%20New%20York%2C%20NY%2010018
 
 ### Hosts on Partiful
 
@@ -64,10 +58,6 @@ Jonathan Kearl, Managing Partner - Connor Group
 Adrian Mitchell, Chief Financial Officer - Warby Parker
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -12,7 +12,7 @@ neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/vRLuXuKmW04TmEn0JgN0"
 public_short_url: "https://go.partiful.com/tdqv0tM9"
 google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FbOUbZkBHThWAApfdi6tcNkYksxn1%2FTESPqwXs2TnkjXhvwNTXf"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FbOUbZkBHThWAApfdi6tcNkYksxn1%2FTESPqwXs2TnkjXhvwNTXf?alt=media&token=69359463-0885-4be3-bb6b-fee8886aa7ef"
 visibility: "public"
 at_capacity: true
 going_guest_count: 25
@@ -23,10 +23,9 @@ owner_ids: ["bOUbZkBHThWAApfdi6tcNkYksxn1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 25
 remaining_capacity: 0
-total_guest_count: 76
+canceled: false
 approved_guest_count: 0
 local_image: "images/vRLuXuKmW04TmEn0JgN0.png"
-canceled: false
 ---
 
 # Startup to IPO Candidate in 3 Years: The Timeline Most Founders Don't know
@@ -64,9 +63,15 @@ And here’s the part most founders don’t realize: NASDAQ’s Capital Market E
 
 This Panel Connects the Full Capital Lifecycle. Bringing together perspectives across every stage:
 
-*A pre-IPO investor who writes the checks that signal IPO readiness
-*A public-market investor who decides whether to buy on opening day
-*A recently IPO’d operator who just navigated the transition
+Panelists include:
+Annabelle Zhang — Founder & CEO of Allin AI, the intelligence layer for capital formation, and founder of International Elite Capital, an IR advisory firm serving public companies and institutional investors. 12+ years in institutional capital markets, former NYSE-based financial reporter, ESG Investing CFA, and Nasdaq Milestone Circle member.
+Chris Van de Voorde — Founder & CIO, JUUNOO Scaled bematrix from $3M to $50M and built JUUNOO in Europe f, with Saint-Gobain as an investor. Holds 10 patents, two-time Red Dot Award recipient, two-time Deloitte Fast 50 honoree, founder of the Circular Value Institute.
+
+Iynna Halilou —a General Partner at the MBA Fund, an early-stage venture capital firm backing exceptional founders from the world's top innovation ecosystems: Harvard, Stanford, UPenn, and Berkeley. The fund has backed over 180 companies at the earliest stages of their journey, with multiple unicorn outcomes across fintech, AI, data, and space tech.
+
+Ron Gregory — Chief Revenue Officer, SiteIQ Technologies CRO at SiteIQ Technologies, a spatial intelligence and digital twin platform that unifies facility layouts, physical assets, and autonomous operations into a single coordinate system. 
+
+Ronald Glenn — Managing Director, Williamsburg Venture Holdings Managing Director at Williamsburg Venture Holdings, a family office deploying across PIPEs and equity lines into public companies.
 
 Together, they map the critical inflection points across the journey —
 what to build, what to prove, and what fundamentally changes when the company becomes investable to institutional capital.
@@ -85,10 +90,6 @@ From startup to public company, we help companies: be seen → be investible →
 Not a point solution — an operating system for capital formation across the entire lifecycle.
 
 More: theallin.ai
-
-
-
-
 
 
 

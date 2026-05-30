@@ -8,26 +8,21 @@ end_time: "8:00pm ET"
 start_iso: "2026-06-05T14:00:00.000Z"
 end_iso: "2026-06-06T00:00:00.000Z"
 host: "Agile Lens, DBOX, WanderLens Lab"
-venue_name: "Dbox"
-venue_address: "15 Park Row, FL 2, New York, NY 10038"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/dA79zHIgCReURfjwFEki"
 public_short_url: "https://go.partiful.com/g0bmoABo"
-google_maps: "https://www.google.com/maps/search/?api=1&query=15%20Park%20Row%2C%20FL%202%2C%20New%20York%2C%20NY%2010038"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FVYeEhYb7k46mGe6edBwh%2F3unF5n8DEpbQXi2I3N7wf"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FVYeEhYb7k46mGe6edBwh%2F3unF5n8DEpbQXi2I3N7wf?alt=media&token=4e59ea64-5865-4ef6-a0a1-7bba0bda6af3"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 50
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["VYeEhYb7k46mGe6edBwh", "7DFu4rITofNzKIjA7hCx", "UPoJMLzwoXhxyb6DSMxCgKg6IC02"]
 is_capped: false
-total_guest_count: 51
-approved_guest_count: 4
-local_image: "images/dA79zHIgCReURfjwFEki.jpg"
 canceled: false
+approved_guest_count: 5
+local_image: "images/dA79zHIgCReURfjwFEki.jpg"
 ---
 
 # Photoreal VR for Archvis, Real Estate and Location-Based Entertainment - Day 2
@@ -36,11 +31,10 @@ canceled: false
 
 **Hosts:** Agile Lens, DBOX, WanderLens Lab
 **When:** Friday, June 5, 2026 · 10:00am–8:00pm ET
-**Where:** Dbox · 15 Park Row, FL 2, New York, NY 10038 · Financial District
-**Going:** 50 of 51
+**Where:** Financial District
+**Going:** 5
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/dA79zHIgCReURfjwFEki
-**Map:** https://www.google.com/maps/search/?api=1&query=15%20Park%20Row%2C%20FL%202%2C%20New%20York%2C%20NY%2010038
 
 ### Hosts on Partiful
 
@@ -70,10 +64,6 @@ Walk through the gen 2 Four Seasons Holodeck (responsible for over $500M in pres
 This is a two day event - if this date doesn't work, sign up for Day 1 here (Mon June 1) : https://partiful.com/e/6bUok8RK79B927TfqX7F
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

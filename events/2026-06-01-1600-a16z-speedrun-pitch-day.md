@@ -8,25 +8,21 @@ end_time: "6:30pm ET"
 start_iso: "2026-06-01T20:00:00.000Z"
 end_iso: "2026-06-01T22:30:00.000Z"
 host: "a16z speedrun"
-venue_address: "200 Lafayette St, New York, NY 10012"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/SzG1Bnpw8tS1SZrdIPxJ"
 public_short_url: "https://go.partiful.com/PDiqi9Q2"
-google_maps: "https://www.google.com/maps/search/?api=1&query=200%20Lafayette%20St%2C%20New%20York%2C%20NY%2010012"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FFn3x6INVS3ZFGF66imM8%2Fu4enhhGu7-E5GvoEi_kQL"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FFn3x6INVS3ZFGF66imM8%2Fu4enhhGu7-E5GvoEi_kQL?alt=media&token=601ad4ed-5c33-4ffa-a5ff-854a442c918a"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 1336
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["qZ2OMmMiLVSy1WB2R19hIwNDMEm2", "7DFu4rITofNzKIjA7hCx", "Fn3x6INVS3ZFGF66imM8"]
 is_capped: false
-total_guest_count: 1357
-approved_guest_count: 1
-local_image: "images/SzG1Bnpw8tS1SZrdIPxJ.png"
 canceled: false
+approved_guest_count: 15
+local_image: "images/SzG1Bnpw8tS1SZrdIPxJ.png"
 ---
 
 # a16z speedrun Pitch Day
@@ -35,11 +31,10 @@ canceled: false
 
 **Hosts:** a16z speedrun  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 4:00pm–6:30pm ET
-**Where:** 200 Lafayette St, New York, NY 10012 · SoHo
-**Going:** 1336 of 1357
+**Where:** SoHo
+**Going:** 15
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/SzG1Bnpw8tS1SZrdIPxJ
-**Map:** https://www.google.com/maps/search/?api=1&query=200%20Lafayette%20St%2C%20New%20York%2C%20NY%2010012
 
 ### Hosts on Partiful
 
@@ -57,10 +52,6 @@ Pitch Day is designed for early-stage companies who are considering applying to 
 The top 15 applicants will be invited to attend. If you're selected to attend this event, the speedrun team will follow up with you personally with details. 
  
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

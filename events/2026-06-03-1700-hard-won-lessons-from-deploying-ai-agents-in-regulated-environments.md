@@ -13,16 +13,14 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 125
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["8oz7b1UgaScg1jzQsYgjQFtnHxY2", "MJkJ8CKVag6qszfChuXw", "7DFu4rITofNzKIjA7hCx", "Jsaosh42v4OXMKBeEPajR9qdsrh2"]
 is_capped: false
-total_guest_count: 128
+canceled: false
 approved_guest_count: 101
 local_image: "images/aIgKBhxEKiNxriSqxQhw.png"
-canceled: false
 ---
 
 # Hard-Won Lessons from Deploying AI Agents in Regulated Environments
@@ -32,7 +30,7 @@ canceled: false
 **Hosts:** Obin AI, Motive Partners  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:00pm ET
 **Where:** Financial District
-**Going:** 125 of 128
+**Going:** 101
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/aIgKBhxEKiNxriSqxQhw
 
@@ -67,10 +65,6 @@ Agenda:
 – 6:15pm – 7:30pm: Happy Hour 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

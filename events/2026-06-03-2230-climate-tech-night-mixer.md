@@ -11,21 +11,17 @@ host: "Optivide"
 neighborhood: "Virtual (NYC)"
 rsvp_url: "https://partiful.com/e/BuMquvpz1sSqXQmYHgeC"
 public_short_url: "https://go.partiful.com/hFsM8jmi"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FnS6usWdLKbcYjTGm7SotFn9pIh03%2F2HRudo2Pno39i_Az559ug"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FnS6usWdLKbcYjTGm7SotFn9pIh03%2F2HRudo2Pno39i_Az559ug?alt=media&token=abbc528a-6d50-4a06-8e46-d63cd8fa3d3c"
 visibility: "public"
-at_capacity: false
-going_guest_count: 67
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["nS6usWdLKbcYjTGm7SotFn9pIh03", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 100
-remaining_capacity: 29
-total_guest_count: 73
-approved_guest_count: 0
-local_image: "images/BuMquvpz1sSqXQmYHgeC.png"
+max_capacity: 115
 canceled: false
+local_image: "images/BuMquvpz1sSqXQmYHgeC.png"
 ---
 
 # Climate Tech Night Mixer
@@ -35,7 +31,8 @@ canceled: false
 **Hosts:** Optivide  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 10:30pm–12:00am ET
 **Where:** Virtual (NYC)
-**Capacity:** capped at 100 · 71 taken, 29 remaining
+**Capacity:** capped at 115
+**Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/BuMquvpz1sSqXQmYHgeC
 
 ### Hosts on Partiful
@@ -82,10 +79,6 @@ Explore potential decision blind spots with our paid climate workshop here: htt
 
 About Tech Week
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

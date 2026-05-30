@@ -15,16 +15,14 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 434
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["V5ZX1BNqhcy8y2SOUkFo", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 440
+canceled: false
 approved_guest_count: 0
 local_image: "images/DyvtadO1TN5SrRRt3Rf5.png"
-canceled: false
 ---
 
 # Intuit Fintech Panel & Networking Event
@@ -34,7 +32,6 @@ canceled: false
 **Hosts:** Intuit  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 4:00pm–6:30pm ET
 **Where:** East Village
-**Going:** 434 of 440
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/DyvtadO1TN5SrRRt3Rf5
 
@@ -53,10 +50,6 @@ With deep experience driving innovation at one of the world's most trusted finan
 Whether you're a founder building in the space, an investor tracking emerging trends, or a technologist passionate about the intersection of finance and innovation, this conversation will offer a candid look at where fintech is headed and what it takes to build products that serve millions.
 
 This event is a part of #NYCTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -6,39 +6,31 @@ day: "Monday"
 start_time: "8:00am ET"
 start_iso: "2026-06-01T12:00:00.000Z"
 host: "American Australian Association"
-venue_name: "Midtown"
-venue_address: "Midtown, Manhattan, New York, NY"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/ifuH1HpxZuX8IjSb3Khb"
 public_short_url: "https://go.partiful.com/amce0T2g"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FE2T6mEePmEXi4tO1qbX0WXoKOYI3%2F147qCnuM8bKxig4oZgjyH"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FfP4gvG4TPGNX3n80XNBnSjPsmkf1%2FOPR6CkRkoyWO3PR8gX2H6?alt=media&token=41c7671d-75e7-4f84-9441-5646c7c01de6"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 173
 badges: []
 fetch_status: ok
-owner_count: 5
-owner_ids: ["E2T6mEePmEXi4tO1qbX0WXoKOYI3", "7DFu4rITofNzKIjA7hCx", "cKssDvujGChMCvJZOMAZPT7ORs22", "fP4gvG4TPGNX3n80XNBnSjPsmkf1", "wWkhR3Dbtuedw3vOX56ABQ44YM52"]
+owner_count: 6
+owner_ids: ["E2T6mEePmEXi4tO1qbX0WXoKOYI3", "7DFu4rITofNzKIjA7hCx", "cKssDvujGChMCvJZOMAZPT7ORs22", "fP4gvG4TPGNX3n80XNBnSjPsmkf1", "wWkhR3Dbtuedw3vOX56ABQ44YM52", "gaONUIwlhJO1zqGVfc19PlGozNx1"]
 is_capped: false
-total_guest_count: 176
-approved_guest_count: 56
-local_image: "images/ifuH1HpxZuX8IjSb3Khb.jpg"
 canceled: false
+local_image: "images/ifuH1HpxZuX8IjSb3Khb.jpg"
 ---
 
 # Accelerate AI Summit: Australian x US AI
 
 ![Accelerate AI Summit: Australian x US AI](images/ifuH1HpxZuX8IjSb3Khb.jpg)
 
-**Hosts:** American Australian Association  _(+4 more host(s) on Partiful — see description for full list)_
+**Hosts:** American Australian Association  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 8:00am ET
-**Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 173 of 176
+**Where:** Midtown
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ifuH1HpxZuX8IjSb3Khb
-**Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -46,6 +38,7 @@ canceled: false
 - [Elise Webb](https://partiful.com/u/cKssDvujGChMCvJZOMAZPT7ORs22)
 - [Will Fairweather](https://partiful.com/u/fP4gvG4TPGNX3n80XNBnSjPsmkf1) — _American Australian Association_
 - [Maia Keerie](https://partiful.com/u/wWkhR3Dbtuedw3vOX56ABQ44YM52)
+- [Ben Bonnici](https://partiful.com/u/gaONUIwlhJO1zqGVfc19PlGozNx1)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -74,10 +67,6 @@ Join American Australian Association, Austrade and Tech Council of Australia for
 ​- An executive session with Goldman Sachs
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

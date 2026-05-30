@@ -12,22 +12,18 @@ neighborhood: "Tribeca"
 rsvp_url: "https://partiful.com/e/M7TEr1UmiL341A0iFk7Q"
 public_short_url: "https://go.partiful.com/kYLfhG0D"
 google_maps: "https://www.google.com/maps/search/?api=1&query=16%20Vestry%20St%2C%20New%20York%2C%20NY%2010013"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FOjPHDrXX0EQu9bfcYauZnKc3Qfp2%2F0EX-iIYRlF373XqUn2B6X"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FOjPHDrXX0EQu9bfcYauZnKc3Qfp2%2F0EX-iIYRlF373XqUn2B6X?alt=media&token=a443a92e-f421-4cf0-af18-28d267947af5"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 139
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["OjPHDrXX0EQu9bfcYauZnKc3Qfp2", "7DFu4rITofNzKIjA7hCx", "vvIbRppWMVZdqzsRIzLygsmseFH3"]
 is_capped: true
 max_capacity: 75
-remaining_capacity: 19
-total_guest_count: 139
-approved_guest_count: 56
-local_image: "images/M7TEr1UmiL341A0iFk7Q.png"
 canceled: false
+local_image: "images/M7TEr1UmiL341A0iFk7Q.png"
 ---
 
 # The Hidden Currency of Healthcare Leadership in the AI Era
@@ -37,7 +33,8 @@ canceled: false
 **Hosts:** Virre  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 2:00pm ET
 **Where:** Fabrik · 16 Vestry St, New York, NY 10013 · Tribeca
-**Capacity:** capped at 75 · 56 taken, 19 remaining
+**Capacity:** capped at 75
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/M7TEr1UmiL341A0iFk7Q
 **Map:** https://www.google.com/maps/search/?api=1&query=16%20Vestry%20St%2C%20New%20York%2C%20NY%2010013
@@ -58,10 +55,6 @@ The conversation will cover changing industry dynamics, the growing importance o
 Experts will share practical insights on where AI creates real business value and where human leadership remains irreplaceable.  
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

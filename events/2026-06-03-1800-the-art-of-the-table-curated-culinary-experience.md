@@ -8,26 +8,23 @@ end_time: "9:00pm ET"
 start_iso: "2026-06-03T22:00:00.000Z"
 end_iso: "2026-06-04T01:00:00.000Z"
 host: "Arnold & Porter, Aon"
-venue_name: "Brooklyn"
-venue_address: "Brooklyn, New York, NY"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/Ab5lLaSZSFIEBGGIt19K"
 public_short_url: "https://go.partiful.com/I2bpsA7R"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Brooklyn%2C%20Brooklyn%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FpjLC3TwIU2NR5dLG5VkC2Gz0OIV2%2FLk8WG9iknLdRcO7pBAOAR"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FpjLC3TwIU2NR5dLG5VkC2Gz0OIV2%2FLk8WG9iknLdRcO7pBAOAR?alt=media&token=777e72d5-9832-4b64-8474-a94beb47f9c3"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 50
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["pjLC3TwIU2NR5dLG5VkC2Gz0OIV2", "rqYuw5tU98Nc4gx8K0WuHmUiCOf2", "7DFu4rITofNzKIjA7hCx"]
-is_capped: false
-total_guest_count: 50
-approved_guest_count: 0
-local_image: "images/Ab5lLaSZSFIEBGGIt19K.jpg"
+is_capped: true
+max_capacity: 30
+remaining_capacity: 22
 canceled: false
+approved_guest_count: 8
+local_image: "images/Ab5lLaSZSFIEBGGIt19K.jpg"
 ---
 
 # The Art of the Table Curated Culinary Experience
@@ -36,11 +33,10 @@ canceled: false
 
 **Hosts:** Arnold & Porter, Aon  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
-**Where:** Brooklyn · Brooklyn, New York, NY · SoHo
-**Going:** 50
+**Where:** SoHo
+**Capacity:** capped at 30 · 8 taken, 22 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Ab5lLaSZSFIEBGGIt19K
-**Map:** https://www.google.com/maps/search/?api=1&query=Brooklyn%2C%20Brooklyn%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -60,10 +56,6 @@ The Art of the Table is designed to foster connection through a shared, elevated
 Space is limited, and the guest list is curated. RSVP to secure your spot!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

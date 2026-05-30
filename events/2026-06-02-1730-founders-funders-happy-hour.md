@@ -11,20 +11,17 @@ host: "Kleinberg, Kaplan, Wolff & Cohen, P.C."
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/TujqCXVq6gQ8gQvMpnAb"
 public_short_url: "https://go.partiful.com/dVu858WG"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Ft3sHh4l5vtfzxWDmxIy3oJ2regN2%2FII8KVgIodLbdaKOsV_IKO"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Ft3sHh4l5vtfzxWDmxIy3oJ2regN2%2FII8KVgIodLbdaKOsV_IKO?alt=media&token=93654a40-00cd-4101-8050-fd3da959f7f6"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 219
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["t3sHh4l5vtfzxWDmxIy3oJ2regN2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 226
-approved_guest_count: 17
-local_image: "images/TujqCXVq6gQ8gQvMpnAb.png"
 canceled: false
+local_image: "images/TujqCXVq6gQ8gQvMpnAb.png"
 ---
 
 # Founders + Funders Happy Hour
@@ -34,7 +31,6 @@ canceled: false
 **Hosts:** Kleinberg, Kaplan, Wolff & Cohen, P.C.
 **When:** Tuesday, June 2, 2026 · 5:30pm–8:30pm ET
 **Where:** Flatiron
-**Going:** 219 of 226
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/TujqCXVq6gQ8gQvMpnAb
 
@@ -49,10 +45,6 @@ canceled: false
 Join us for light bites and drinks while you connect with fellow founders, investors, and members of Kleinberg Kaplan's Corporate Transactional group. The Kleinberg Kaplan team brings deep experience supporting companies at every stage of their growth, as well as the investors who help fuel them. It’s a great opportunity to expand your network, exchange ideas, and meet others building in the tech and startup space. We hope to see you there—RSVP today.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

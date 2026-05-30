@@ -11,36 +11,35 @@ host: "The Fourth Effect"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/Y1qPOFKb9fL9VUf0dHMi"
 public_short_url: "https://go.partiful.com/Wjw8GguE"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fn4se7YjWL9fbhhRiysrM%2FKj9pM4t1FTVG97jY1kzw7"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fn4se7YjWL9fbhhRiysrM%2FKj9pM4t1FTVG97jY1kzw7?alt=media&token=edd9bf65-e164-40ff-87b8-e430538c6552"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 66
 badges: []
 fetch_status: ok
-owner_count: 2
-owner_ids: ["n4se7YjWL9fbhhRiysrM", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 3
+owner_ids: ["n4se7YjWL9fbhhRiysrM", "7DFu4rITofNzKIjA7hCx", "bTTj6n6BJPf00fRzSLMFCWmQaq12"]
 is_capped: false
-total_guest_count: 68
-approved_guest_count: 27
-local_image: "images/Y1qPOFKb9fL9VUf0dHMi.png"
 canceled: false
+approved_guest_count: 79
+local_image: "images/Y1qPOFKb9fL9VUf0dHMi.png"
 ---
 
 # 🚀 From First Check to Exit: The Board Strategy Most Founders Don't Know They're Missing
 
 ![🚀 From First Check to Exit: The Board Strategy Most Founders Don't Know They're Missing](images/Y1qPOFKb9fL9VUf0dHMi.png)
 
-**Hosts:** The Fourth Effect  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** The Fourth Effect  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 10:00am–12:00pm ET
 **Where:** Midtown
-**Going:** 66 of 68
+**Going:** 79
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Y1qPOFKb9fL9VUf0dHMi
 
 ### Hosts on Partiful
 
 - [The Fourth Effect](https://partiful.com/u/n4se7YjWL9fbhhRiysrM) — _Connecting startups with game-changing advisors and investors for board-driven growth._
+- [John Ingrassia](https://partiful.com/u/bTTj6n6BJPf00fRzSLMFCWmQaq12)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -90,10 +89,6 @@ Come ready to learn, ask questions, and connect with other founders and operator
 Anchin: a full-service and privately owned accounting, tax, and advisory firm specializing in the unique needs of entrepreneurial, venture capital, and private equity-backed businesses from start-ups to established companies.
 
 Reitler: a top-ranked venture capital law firm with offices in New York, Los Angeles, and Princeton. The firm represents emerging companies, venture investors and limited partners across all stages of investment, in seed financings, growth rounds, mergers and acquisitions and exit transactions. Reitler is consistently ranked as a Top 10 venture capital law firm by Pitchbook and has been recognized by Chambers as a global leader in its Startups & Emerging Companies category. With thousands of venture financings completed since our founding, we bring deep experience and practical insight to help our clients achieve their goals efficiently.
-
-
-
-
 
 
 

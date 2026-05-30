@@ -12,21 +12,20 @@ neighborhood: "Queens"
 rsvp_url: "https://partiful.com/e/cy4iiLTbdihqqMMs9WeM"
 public_short_url: "https://go.partiful.com/4XSSzcwA"
 google_maps: "https://www.google.com/maps/search/?api=1&query=7520%20Astoria%20Blvd%20N%2C%20Ste%2050%2C%20East%20Elmhurst%2C%20NY%2011370"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FTnnizHY6UMRaeeWMwVYzdR9MhYv1%2FR5hGHqJ37CX4ZnskAuP3G"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FTnnizHY6UMRaeeWMwVYzdR9MhYv1%2FR5hGHqJ37CX4ZnskAuP3G?alt=media&token=289288a5-aa5f-40e8-a299-a3c6ed202b5b"
 visibility: "public"
 at_capacity: false
-going_guest_count: 46
+going_guest_count: 67
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["TnnizHY6UMRaeeWMwVYzdR9MhYv1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 250
-remaining_capacity: 204
-total_guest_count: 50
+remaining_capacity: 183
+canceled: false
 approved_guest_count: 0
 local_image: "images/cy4iiLTbdihqqMMs9WeM.png"
-canceled: false
 ---
 
 # Innovators' Hub: Cutting-Edge Tech, SMB Ready
@@ -36,7 +35,7 @@ canceled: false
 **Hosts:** Queens Chamber of Commerce, Firstlight Cloud Xchange
 **When:** Friday, June 5, 2026 · 9:00am ET
 **Where:** Bulova Corporation Center Conference Facilities · 7520 Astoria Blvd N, Ste 50, East Elmhurst, NY 11370 · Queens
-**Capacity:** capped at 250 · 46 taken, 204 remaining
+**Capacity:** capped at 250 · 67 taken, 183 remaining
 **RSVP:** https://partiful.com/e/cy4iiLTbdihqqMMs9WeM
 **Map:** https://www.google.com/maps/search/?api=1&query=7520%20Astoria%20Blvd%20N%2C%20Ste%2050%2C%20East%20Elmhurst%2C%20NY%2011370
 
@@ -90,10 +89,6 @@ You might have ideas or have tried AI before. But if you want to go big—why no
 Experience innovation at its finest—right here in Queens.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

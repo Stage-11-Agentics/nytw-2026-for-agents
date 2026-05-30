@@ -7,34 +7,32 @@ start_time: "12:00pm ET"
 end_time: "12:45pm ET"
 start_iso: "2026-06-04T16:00:00.000Z"
 end_iso: "2026-06-04T16:45:00.000Z"
-host: "Axioned, Escape Velocity Digital"
+host: "Escape Velocity Digital, Axioned"
 neighborhood: "Virtual (NYC)"
 rsvp_url: "https://partiful.com/e/sydC8oyWk7m8BNMV7A4r"
 public_short_url: "https://go.partiful.com/L03LlIz2"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FKkLukq1ZXwOjorBsd4DTRiek7aI2%2Fs0_xmmcheAbnJMmc81yhv"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FKkLukq1ZXwOjorBsd4DTRiek7aI2%2Fs0_xmmcheAbnJMmc81yhv?alt=media&token=bd094d87-a92a-4212-b3a8-85593a735c97"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 34
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["KkLukq1ZXwOjorBsd4DTRiek7aI2", "lnC1pHUr0sZMUq45ji7t1ynDzAC2", "7DFu4rITofNzKIjA7hCx", "8pXp7JMLL6OVG408gJc5"]
 is_capped: false
-total_guest_count: 35
-approved_guest_count: 32
-local_image: "images/sydC8oyWk7m8BNMV7A4r.png"
 canceled: false
+approved_guest_count: 51
+local_image: "images/sydC8oyWk7m8BNMV7A4r.png"
 ---
 
 # Make Your MarTech Work Harder
 
 ![Make Your MarTech Work Harder](images/sydC8oyWk7m8BNMV7A4r.png)
 
-**Hosts:** Axioned, Escape Velocity Digital  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** Escape Velocity Digital, Axioned  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 12:00pm–12:45pm ET
 **Where:** Virtual (NYC)
-**Going:** 34 of 35
+**Going:** 51
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/sydC8oyWk7m8BNMV7A4r
 
@@ -53,10 +51,6 @@ Join us for a live Marketing Technology Help Desk session where we’ll troubles
 If you're investing time and money into your marketing technology (website, CRM, email marketing platform, media buys, campaigns, or SEO) but struggling to see ROI, this session is for you!
 
 From slow sites that don't convert to broken CRM syncs to missing analytics and lost leads, we’ll help you uncover what might be holding back your lead-gen engine.
-
-
-
-
 
 
 

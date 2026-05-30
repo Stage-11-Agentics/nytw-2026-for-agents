@@ -12,32 +12,36 @@ neighborhood: "Nomad"
 rsvp_url: "https://partiful.com/e/zqPj0FZ2l4DcxG8YS9lq"
 public_short_url: "https://go.partiful.com/pDQ8PZ0H"
 google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FMfHFh3JF2UMjuDT1np7b7SlBlds2%2Fsm0mLIbaLCdiH50wTRGt5"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FMfHFh3JF2UMjuDT1np7b7SlBlds2%2Fsm0mLIbaLCdiH50wTRGt5?alt=media&token=fee6712e-0107-4a3d-9e9f-aaeabc504f38"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 38
+going_guest_count: 48
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["MfHFh3JF2UMjuDT1np7b7SlBlds2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 60
-remaining_capacity: 22
-total_guest_count: 182
+remaining_capacity: 12
+canceled: true
+canceled_at: "2026-05-28T21:02:03.418Z"
+canceled_by: "MfHFh3JF2UMjuDT1np7b7SlBlds2"
 approved_guest_count: 0
 local_image: "images/zqPj0FZ2l4DcxG8YS9lq.png"
-canceled: false
 ---
 
 # InTheRoom: From Match to Meeting
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-28T21:02:03.418Z_
 
 ![InTheRoom: From Match to Meeting](images/zqPj0FZ2l4DcxG8YS9lq.png)
 
 **Hosts:** VeraYou Inc.  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 7:00pm ET
 **Where:** New York, NY · New York, NY · Nomad
-**Capacity:** capped at 60 · 38 taken, 22 remaining
+**Capacity:** capped at 60 · 48 taken, 12 remaining
 **RSVP:** https://partiful.com/e/zqPj0FZ2l4DcxG8YS9lq
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
 
@@ -65,10 +69,6 @@ With optional reset moments and curated connection suggestions in the InTheRoom 
 InTheRoom is a real-life social connection experience designed to help people arrive better, connect more meaningfully, and leave with more than chance alone would have produced.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

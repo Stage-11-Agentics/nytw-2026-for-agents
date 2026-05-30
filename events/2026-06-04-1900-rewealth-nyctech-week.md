@@ -11,11 +11,10 @@ host: "Sanctum Foundation"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/N0eqFpTuPdUZKPjJAhqj"
 public_short_url: "https://go.partiful.com/VkbhKhpg"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fxbhb0sQZEi2GkGtcKt7Q%2FIhHOatCWfMvnR76IBstR6"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fxbhb0sQZEi2GkGtcKt7Q%2FIhHOatCWfMvnR76IBstR6?alt=media&token=bcf80029-7cc5-4afb-b026-c835c16d596d"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 25
 badges: []
 fetch_status: ok
 owner_count: 2
@@ -23,10 +22,9 @@ owner_ids: ["xbhb0sQZEi2GkGtcKt7Q", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
 remaining_capacity: 50
-total_guest_count: 25
+canceled: false
 approved_guest_count: 0
 local_image: "images/N0eqFpTuPdUZKPjJAhqj.png"
-canceled: false
 ---
 
 # RE:WEALTH #NYCTECH WEEK
@@ -65,10 +63,6 @@ Check the RE:WEALTH event page for updates on the agenda and speakers.
 
 
 This event is a part of #NYCTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

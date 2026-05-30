@@ -13,20 +13,18 @@ neighborhood: "Queens"
 rsvp_url: "https://partiful.com/e/8bgCoU7MTA6AyqkNh6FZ"
 public_short_url: "https://go.partiful.com/9zWPPcl3"
 google_maps: "https://www.google.com/maps/search/?api=1&query=45-18%20Court%20Square%20W%2C%20Long%20Island%20City%2C%20NY%2011101"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FIpFJiA1iJ0Yt07HbVFaRHKICmna2%2F7-swTcaVAbcSgFaowBfDF"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FIpFJiA1iJ0Yt07HbVFaRHKICmna2%2F7-swTcaVAbcSgFaowBfDF?alt=media&token=4ebcb7f2-5b60-4763-80b8-edeaf1847d7a"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 144
 badges: []
 fetch_status: ok
 owner_count: 8
 owner_ids: ["LwJpThZ6KKcjlSDE8pPiaSF0HMi2", "IpFJiA1iJ0Yt07HbVFaRHKICmna2", "FOMX4DeYH2WI4KWiTOlFT5DEVaU2", "cq4SB4i0yuRFa645DXLOCFiU2Wb2", "7DFu4rITofNzKIjA7hCx", "0wNkn3yXNoZWcbvpbvXHgRCeK4r1", "zDdU1DuTlhX415fGpBSCBuHASqS2", "jTbPupYf63aGeCyR1qbUs3H1xUn2"]
 is_capped: false
-total_guest_count: 148
+canceled: false
 approved_guest_count: 6
 local_image: "images/8bgCoU7MTA6AyqkNh6FZ.png"
-canceled: false
 ---
 
 # AI x Longevity Summit
@@ -36,7 +34,7 @@ canceled: false
 **Hosts:** Longevity Global, Dovetail Biopartners, Yale University  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 9:00am–7:00pm ET
 **Where:** 45-18 Court Square W, Long Island City, NY 11101 · Queens
-**Going:** 144 of 148
+**Going:** 6
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/8bgCoU7MTA6AyqkNh6FZ
 **Map:** https://www.google.com/maps/search/?api=1&query=45-18%20Court%20Square%20W%2C%20Long%20Island%20City%2C%20NY%2011101
@@ -92,10 +90,6 @@ Yale University — Raghav Sehgal
 
 
 This event is part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

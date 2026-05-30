@@ -12,20 +12,18 @@ neighborhood: "Tribeca"
 rsvp_url: "https://partiful.com/e/aLDnFGn5Cxishs3VQzQs"
 public_short_url: "https://go.partiful.com/g52OSkeW"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Tribeca%2C%20Tribeca%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fcd1tbhu7wVQEmHeLNpShKGvVdl13%2FpZqcYneaf5NzFCIpMiilG"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fcd1tbhu7wVQEmHeLNpShKGvVdl13%2FpZqcYneaf5NzFCIpMiilG?alt=media&token=72caaabf-b017-4099-a989-99c9e8f0dc85"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 38
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["cd1tbhu7wVQEmHeLNpShKGvVdl13", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 39
-approved_guest_count: 37
-local_image: "images/aLDnFGn5Cxishs3VQzQs.png"
 canceled: false
+approved_guest_count: 64
+local_image: "images/aLDnFGn5Cxishs3VQzQs.png"
 ---
 
 # After AI: The New Hedge Fund Playbook —
@@ -35,7 +33,7 @@ canceled: false
 **Hosts:** Siegen  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
 **Where:** Tribeca · Tribeca, Manhattan, New York, NY · Tribeca
-**Going:** 38 of 39
+**Going:** 64
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/aLDnFGn5Cxishs3VQzQs
 **Map:** https://www.google.com/maps/search/?api=1&query=Tribeca%2C%20Tribeca%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -55,10 +53,6 @@ This is a 90-minute keynote and working session on what actually changed, what's
 Applications are screened manually to protect the quality of the room; service providers, recruiters, and vendors will not be approved.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

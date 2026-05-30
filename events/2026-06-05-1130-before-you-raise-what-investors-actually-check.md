@@ -11,20 +11,18 @@ host: "Ad Hoc Founders Counsel"
 neighborhood: "Virtual (NYC)"
 rsvp_url: "https://partiful.com/e/CNhLw58DXtAMPjBzhmSL"
 public_short_url: "https://go.partiful.com/rNj0YKaj"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FjYU64rUKsFXlfSlqZeMbO3sZHga2%2F-kXqvV1UYHal5qGEcEWz4"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FjYU64rUKsFXlfSlqZeMbO3sZHga2%2F-kXqvV1UYHal5qGEcEWz4?alt=media&token=daf4f11a-15c9-411f-b155-41eeeae30edf"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 76
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["jYU64rUKsFXlfSlqZeMbO3sZHga2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 78
-approved_guest_count: 71
-local_image: "images/CNhLw58DXtAMPjBzhmSL.png"
 canceled: false
+approved_guest_count: 151
+local_image: "images/CNhLw58DXtAMPjBzhmSL.png"
 ---
 
 # Before You Raise: What Investors Actually Check –
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** Ad Hoc Founders Counsel  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 11:30am–12:30pm ET
 **Where:** Virtual (NYC)
-**Going:** 76 of 78
+**Going:** 151
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/CNhLw58DXtAMPjBzhmSL
 
@@ -68,10 +66,6 @@ Learn more: www.founderscounsel.law
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 This session is for informational purposes only and does not constitute legal advice or create an attorney–client relationship.
-
-
-
-
 
 
 

@@ -6,26 +6,21 @@ day: "Saturday"
 start_time: "11:00am ET"
 start_iso: "2026-06-06T15:00:00.000Z"
 host: "Velle"
-venue_name: "New York, NY"
-venue_address: "New York, NY"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/HjFwJN8F4iK3LPhBy4D9"
 public_short_url: "https://go.partiful.com/LKB8q3Z2"
-google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FRPcEH5ZCP8Qf2FgANxOxpfMIkvK2%2FLmpj4i6sCyDEp37B6ifcV"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FRPcEH5ZCP8Qf2FgANxOxpfMIkvK2%2FLmpj4i6sCyDEp37B6ifcV?alt=media&token=9de92eab-632f-4b3a-afb8-cce6b8e17bf7"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 452
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["RPcEH5ZCP8Qf2FgANxOxpfMIkvK2", "7DFu4rITofNzKIjA7hCx", "eNKl6SbdlhVYrxUCzuJt2iLGHOc2"]
 is_capped: false
-total_guest_count: 455
-approved_guest_count: 41
-local_image: "images/HjFwJN8F4iK3LPhBy4D9.png"
 canceled: false
+approved_guest_count: 93
+local_image: "images/HjFwJN8F4iK3LPhBy4D9.png"
 ---
 
 # Above the Noise : Creators, Founders  & Investors Mixer - NY TechWeek
@@ -34,11 +29,10 @@ canceled: false
 
 **Hosts:** Velle  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 11:00am ET
-**Where:** New York, NY · New York, NY · Chelsea
-**Going:** 452 of 455
+**Where:** Chelsea
+**Going:** 93
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/HjFwJN8F4iK3LPhBy4D9
-**Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -51,7 +45,7 @@ canceled: false
 
 if you're building something — come through. 🎨
 
-The Creatives Mixer by Velle is back for NY Tech Week. A curated evening for founders, creators, and investors who are actually actively making things happen.
+The Creatives Mixer by Velle is back for NY Tech Week. A curated afternoon for founders, creators, and investors who are actually actively making things happen.
 
 no panels. no pitch decks. just real conversations in a room full of people who get it.
 
@@ -61,17 +55,13 @@ this is that room. 🖤
 
 fun drinks, light bites, and surprises through the event!
 
-$25 to attend — keeps the energy curated and the RSVPs real.
+$25 to attend — keeps the energy curated and the RSVPs real. Please Venmo $25 to https://venmo.com/u/Anika-Mehta-17 upon approval.
 
 spots are limited. grab yours.
 
 checkout our website: https://vellewebsite.vercel.app/ 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

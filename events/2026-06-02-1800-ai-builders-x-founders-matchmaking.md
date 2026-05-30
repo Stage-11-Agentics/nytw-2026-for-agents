@@ -9,30 +9,28 @@ host: "Pioneer Minds AI"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/T6FjZ5aD6hprIfQyjaSz"
 public_short_url: "https://go.partiful.com/2nyWVGoN"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FvMiCBGZtVlfj7J2Y9uU6rLTOWdJ3%2FwLzKNUB2bReGeTQBmDUHt"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FvMiCBGZtVlfj7J2Y9uU6rLTOWdJ3%2FwLzKNUB2bReGeTQBmDUHt?alt=media&token=8908a36a-91da-4546-9e58-0f77eb174e58"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 113
 badges: []
 fetch_status: ok
-owner_count: 3
-owner_ids: ["vMiCBGZtVlfj7J2Y9uU6rLTOWdJ3", "7DFu4rITofNzKIjA7hCx", "orlxVdlC5OXZfCtvQJ22ZOmwdj03"]
+owner_count: 4
+owner_ids: ["vMiCBGZtVlfj7J2Y9uU6rLTOWdJ3", "7DFu4rITofNzKIjA7hCx", "orlxVdlC5OXZfCtvQJ22ZOmwdj03", "x0VWZ5zj9ThatiwfXXFSV20cWPh2"]
 is_capped: false
-total_guest_count: 115
-approved_guest_count: 0
-local_image: "images/T6FjZ5aD6hprIfQyjaSz.png"
 canceled: false
+approved_guest_count: 152
+local_image: "images/T6FjZ5aD6hprIfQyjaSz.png"
 ---
 
 # AI Builders x Founders: Matchmaking
 
 ![AI Builders x Founders: Matchmaking](images/T6FjZ5aD6hprIfQyjaSz.png)
 
-**Hosts:** Pioneer Minds AI  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** Pioneer Minds AI  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm ET
 **Where:** Midtown
-**Going:** 113 of 115
+**Going:** 152
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/T6FjZ5aD6hprIfQyjaSz
 
@@ -40,6 +38,7 @@ canceled: false
 
 - [Nick G](https://partiful.com/u/vMiCBGZtVlfj7J2Y9uU6rLTOWdJ3)
 - [Aidan Kittredge](https://partiful.com/u/orlxVdlC5OXZfCtvQJ22ZOmwdj03)
+- [Jeffrey Hang](https://partiful.com/u/x0VWZ5zj9ThatiwfXXFSV20cWPh2)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -94,10 +93,6 @@ Our mission is straightforward:
 ​​​Create Lasting Impact: Offer continued mentorship and post-event partnerships so promising concepts can scale.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

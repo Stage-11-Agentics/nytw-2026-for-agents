@@ -8,28 +8,23 @@ end_time: "6:00pm ET"
 start_iso: "2026-06-06T19:00:00.000Z"
 end_iso: "2026-06-06T22:00:00.000Z"
 host: "OneDay MBA"
-venue_name: "SoHo"
-venue_address: "SoHo, Manhattan, New York, NY"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/N5XpjjaQK2GRCCNbEels"
 public_short_url: "https://go.partiful.com/jiiIYbdp"
-google_maps: "https://www.google.com/maps/search/?api=1&query=SoHo%2C%20SoHo%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FrZYXbnVcbEHvd8jZZm8L%2Fwb03ncgZxuZ3ALEllFM-P"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FrZYXbnVcbEHvd8jZZm8L%2Fwb03ncgZxuZ3ALEllFM-P?alt=media&token=3ec98231-0fca-421a-8ae3-7e4bf12082f3"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 103
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["rZYXbnVcbEHvd8jZZm8L", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 125
-remaining_capacity: 23
-total_guest_count: 103
-approved_guest_count: 102
-local_image: "images/N5XpjjaQK2GRCCNbEels.png"
+max_capacity: 200
+remaining_capacity: 33
 canceled: false
+approved_guest_count: 167
+local_image: "images/N5XpjjaQK2GRCCNbEels.png"
 ---
 
 # HUMANA FUTURA: Aligning Tech w/ Human Agency & Wellness
@@ -38,11 +33,10 @@ canceled: false
 
 **Hosts:** OneDay MBA  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 3:00pm–6:00pm ET
-**Where:** SoHo · SoHo, Manhattan, New York, NY · SoHo
-**Capacity:** capped at 125 · 102 taken, 23 remaining
+**Where:** SoHo
+**Capacity:** capped at 200 · 167 taken, 33 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/N5XpjjaQK2GRCCNbEels
-**Map:** https://www.google.com/maps/search/?api=1&query=SoHo%2C%20SoHo%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -70,26 +64,31 @@ We’re looking forward to seeing you there to decompress from Tech Week and clo
 ------------------------------------------
 🎙️The Speakers (More TBA)
 Lisa Smith (Host)
-https://www.metconnections.com/
-Naz Shuva
+https://www.linkedin.com/in/lisalynsmith/
+Founder at https://www.metconnections.com/
+
+Naz Shuva 
+International Artist & Wellness Founder
 https://www.shuva.co 
+
+Co-Produced By Brain Hosey
+
 ------------------------------------------
 📲 We’ll be using "Met" during the event, an introduction app designed to connect you with other attendees based on complementary interests. Please download the app & register before arriving.
 APP STORE: https://apps.apple.com/us/app/met-connections/id6741325807
 PLAY: https://play.google.com/store/apps/details?id=com.metconnections.met
 ------------------------------------------
 🪩 The Official Afterparty Experience
-Time to connect & celebrate our elevated intentions over a live DJ set, and meaningful conversation. You don’t want to miss this! Secret location to be announced only at the end of the Humana Futura event. 
+Time to connect & celebrate our elevated intentions over a live DJ set and meaningful conversation. You don’t want to miss this! Secret location to be announced only at the end of the Humana Futura event. 
+
+DJ Tala Sage
+https://www.instagram.com/tala_sage/ 
 ------------------------------------------
 Sponsored by OneDay MBA
 OneDay MBA is a one-of-kind MBA degree, Oneday is a tech enabled university meets incubator for entrepreneurs, where users earn their degrees from starting businesses. Instead of professors, we have entrepreneurs.
 https://www.oneday.org/us/mba
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

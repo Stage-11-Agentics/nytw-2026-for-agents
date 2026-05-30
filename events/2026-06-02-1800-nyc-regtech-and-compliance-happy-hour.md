@@ -8,42 +8,38 @@ end_time: "8:30pm ET"
 start_iso: "2026-06-02T22:00:00.000Z"
 end_iso: "2026-06-03T00:30:00.000Z"
 host: "Surveill"
-venue_name: "The Dawson NYC"
-venue_address: "23 W 45th St, New York, NY 10036"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/AKJAMb5YYWnLz8lFb5xl"
 public_short_url: "https://go.partiful.com/9gIwRJrP"
-google_maps: "https://www.google.com/maps/search/?api=1&query=23%20W%2045th%20St%2C%20New%20York%2C%20NY%2010036"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F2JouU922p9fo2rz1PkDsYYENHnj2%2FLSraY348XmkBnaZQARYQq"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F2JouU922p9fo2rz1PkDsYYENHnj2%2FLSraY348XmkBnaZQARYQq?alt=media&token=34412076-657d-4c07-926c-7da01b68f29d"
 visibility: "public"
-guest_action: "RSVP"
+guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 14
 badges: []
 fetch_status: ok
-owner_count: 2
-owner_ids: ["2JouU922p9fo2rz1PkDsYYENHnj2", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 3
+owner_ids: ["2JouU922p9fo2rz1PkDsYYENHnj2", "7DFu4rITofNzKIjA7hCx", "12mwaLnhmRPMudb0dQYe9hGMfpw1"]
 is_capped: false
-total_guest_count: 16
-approved_guest_count: 0
-local_image: "images/AKJAMb5YYWnLz8lFb5xl.png"
 canceled: false
+approved_guest_count: 29
+local_image: "images/AKJAMb5YYWnLz8lFb5xl.png"
 ---
 
 # NYC RegTech and Compliance Happy Hour
 
 ![NYC RegTech and Compliance Happy Hour](images/AKJAMb5YYWnLz8lFb5xl.png)
 
-**Hosts:** Surveill  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Surveill  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–8:30pm ET
-**Where:** The Dawson NYC · 23 W 45th St, New York, NY 10036 · Midtown
-**Going:** 14 of 16
+**Where:** Midtown
+**Going:** 29
+**Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/AKJAMb5YYWnLz8lFb5xl
-**Map:** https://www.google.com/maps/search/?api=1&query=23%20W%2045th%20St%2C%20New%20York%2C%20NY%2010036
 
 ### Hosts on Partiful
 
 - [Surveill](https://partiful.com/u/2JouU922p9fo2rz1PkDsYYENHnj2)
+- [David](https://partiful.com/u/12mwaLnhmRPMudb0dQYe9hGMfpw1)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -69,10 +65,6 @@ This event is part of #NYTechWeek—a week of events hosted by VCs and startups 
 
 
 
-
-
-
-
 ---
 
-[RSVP on Partiful →](https://partiful.com/e/AKJAMb5YYWnLz8lFb5xl)
+[Apply on Partiful →](https://partiful.com/e/AKJAMb5YYWnLz8lFb5xl)

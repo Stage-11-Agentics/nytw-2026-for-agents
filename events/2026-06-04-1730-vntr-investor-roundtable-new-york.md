@@ -11,20 +11,18 @@ host: "VNTR"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/K9Ysd4ENZ9lGTRHpR8v9"
 public_short_url: "https://go.partiful.com/6CNSqwqr"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fmag9dcqeQOekIW1HH3gkYzmYcG32%2FQHKG2dHRRFZ7jalYxwufK"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fmag9dcqeQOekIW1HH3gkYzmYcG32%2FQHKG2dHRRFZ7jalYxwufK?alt=media&token=a9384d9c-a55d-49ef-8ae1-5c75837e235a"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 7
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["mag9dcqeQOekIW1HH3gkYzmYcG32", "7DFu4rITofNzKIjA7hCx", "FuH3VEtpMIPodccs4Ke3iV7YWAI2"]
 is_capped: false
-total_guest_count: 7
+canceled: false
 approved_guest_count: 0
 local_image: "images/K9Ysd4ENZ9lGTRHpR8v9.jpg"
-canceled: false
 ---
 
 # VNTR Investor Roundtable  New York
@@ -34,7 +32,6 @@ canceled: false
 **Hosts:** VNTR  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:30pm–8:30pm ET
 **Where:** Midtown
-**Going:** 7
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/K9Ysd4ENZ9lGTRHpR8v9
 
@@ -82,10 +79,6 @@ REGISTER
 ​Companies that would like to connect with investors can Apply to Sponsor https://forms.gle/T4CUBbZe1B9kASnK8.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

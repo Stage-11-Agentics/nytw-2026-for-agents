@@ -14,22 +14,20 @@ neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/aT7YZV6DtRClIOEcIBSx"
 public_short_url: "https://go.partiful.com/ljPBifNo"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Financial%20District%2C%20Financial%20District%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FWM0miS1v6eJmE6NLT88o%2FvYaerPWEVnZEMSK4UWlBV"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FWM0miS1v6eJmE6NLT88o%2FvYaerPWEVnZEMSK4UWlBV?alt=media&token=c23644e1-ec1a-460a-a09f-ea54605de0d3"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 66
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["WM0miS1v6eJmE6NLT88o", "x2zTS1hoev583mbqTlQh", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 100
-remaining_capacity: 100
-total_guest_count: 69
-approved_guest_count: 0
-local_image: "images/aT7YZV6DtRClIOEcIBSx.png"
+max_capacity: 80
+remaining_capacity: 0
 canceled: false
+approved_guest_count: 80
+local_image: "images/aT7YZV6DtRClIOEcIBSx.png"
 ---
 
 # Prediction Markets Mixer
@@ -39,7 +37,8 @@ canceled: false
 **Hosts:** FiftyOneAlpha  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:00pm–7:00pm ET
 **Where:** Financial District · Financial District, Manhattan, New York, NY · Financial District
-**Capacity:** capped at 100 · 0 taken, 100 remaining
+**Capacity:** capped at 80 · 80 taken, 0 remaining · ⚠ **FULL**
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/aT7YZV6DtRClIOEcIBSx
 **Map:** https://www.google.com/maps/search/?api=1&query=Financial%20District%2C%20Financial%20District%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -60,10 +59,6 @@ From regulation to real-world use cases, we’ll get into where the space is act
 Drinks, sharp conversations, and a crowd that actually gets it.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

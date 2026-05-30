@@ -8,27 +8,23 @@ end_time: "6:30pm ET"
 start_iso: "2026-06-03T20:30:00.000Z"
 end_iso: "2026-06-03T22:30:00.000Z"
 host: "Sway"
-venue_name: "Tara Rose"
-venue_address: "384 Third Ave, New York, NY 10016"
 neighborhood: "Murray Hill"
 rsvp_url: "https://partiful.com/e/yDpsVvIoqgdkoJ93i1hX"
 public_short_url: "https://go.partiful.com/FNgVPVFM"
-google_maps: "https://www.google.com/maps/search/?api=1&query=384%20Third%20Ave%2C%20New%20York%2C%20NY%2010016"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F5ANd6czuaXZQhjh8esHwBwdfiZn1%2FLQyXJQHvXPuKWwEVrONtV"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F5ANd6czuaXZQhjh8esHwBwdfiZn1%2FLQyXJQHvXPuKWwEVrONtV?alt=media&token=cb5eeb69-2f0c-42e6-8951-50c89d6b2cd9"
 visibility: "public"
 at_capacity: false
-going_guest_count: 66
+going_guest_count: 89
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["5ANd6czuaXZQhjh8esHwBwdfiZn1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 75
-remaining_capacity: 9
-total_guest_count: 77
+max_capacity: 100
+remaining_capacity: 11
+canceled: false
 approved_guest_count: 0
 local_image: "images/yDpsVvIoqgdkoJ93i1hX.jpg"
-canceled: false
 ---
 
 # Before the Ballots Drop with Sway
@@ -37,10 +33,9 @@ canceled: false
 
 **Hosts:** Sway  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 4:30pm–6:30pm ET
-**Where:** Tara Rose · 384 Third Ave, New York, NY 10016 · Murray Hill
-**Capacity:** capped at 75 · 66 taken, 9 remaining
+**Where:** Murray Hill
+**Capacity:** capped at 100 · 89 taken, 11 remaining
 **RSVP:** https://partiful.com/e/yDpsVvIoqgdkoJ93i1hX
-**Map:** https://www.google.com/maps/search/?api=1&query=384%20Third%20Ave%2C%20New%20York%2C%20NY%2010016
 
 ### Hosts on Partiful
 
@@ -57,10 +52,6 @@ Sway (sway.co) is a voting group platform that shifts influence into actual vote
 Join us for drinks, bites, and spicy conversations about the digital organizing in the midterms and beyond.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

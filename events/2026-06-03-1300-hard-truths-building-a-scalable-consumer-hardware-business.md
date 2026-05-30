@@ -11,20 +11,17 @@ host: "Hardware Velocity"
 neighborhood: "Virtual (NYC)"
 rsvp_url: "https://partiful.com/e/QFvAM5R9QxCHey1Ysiak"
 public_short_url: "https://go.partiful.com/P3e2krMg"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FMFOWfMmvPEQbKLHwdwfrr5r8f5I3%2F7OxTiwRFuTVw79h4IqQIk"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FMFOWfMmvPEQbKLHwdwfrr5r8f5I3%2F7OxTiwRFuTVw79h4IqQIk?alt=media&token=4b03144d-43ed-4795-a6c5-2a852eb8a2cf"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 47
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["WAQJMvecO5EUETSphsrh", "MFOWfMmvPEQbKLHwdwfrr5r8f5I3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 48
-approved_guest_count: 45
-local_image: "images/QFvAM5R9QxCHey1Ysiak.png"
 canceled: false
+local_image: "images/QFvAM5R9QxCHey1Ysiak.png"
 ---
 
 # Hard Truths: Building a Scalable Consumer Hardware Business
@@ -34,7 +31,6 @@ canceled: false
 **Hosts:** Hardware Velocity  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 1:00pm–2:00pm ET
 **Where:** Virtual (NYC)
-**Going:** 47 of 48
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/QFvAM5R9QxCHey1Ysiak
 
@@ -74,10 +70,6 @@ This event is a part of #NYTechWeek—a week of events hosted by VCs and startup
 
 Make sure to also check out our B2B business building event!
 https://partiful.com/e/CgRQLUOAuO9YCoGNtc4G
-
-
-
-
 
 
 

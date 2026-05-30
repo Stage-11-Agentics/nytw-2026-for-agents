@@ -9,19 +9,18 @@ host: "Relevant Context, Inc."
 neighborhood: "Union Square"
 rsvp_url: "https://partiful.com/e/X0u5GrmzvIUTrjoAOgVm"
 public_short_url: "https://go.partiful.com/JSFi7Kky"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fg2iYiK4uJPd3yT24fVVRzSerOTm2%2F25UxeOWQhDJ2CZwJXaFWp"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fg2iYiK4uJPd3yT24fVVRzSerOTm2%2F25UxeOWQhDJ2CZwJXaFWp?alt=media&token=14f70df9-bbed-414d-9d49-7cc45a8e9338"
 visibility: "public"
 at_capacity: false
-going_guest_count: 21
+going_guest_count: 37
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["g2iYiK4uJPd3yT24fVVRzSerOTm2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 22
+canceled: false
 approved_guest_count: 0
 local_image: "images/X0u5GrmzvIUTrjoAOgVm.png"
-canceled: false
 ---
 
 # Stop Making AI Guess: When Your Codebase Becomes the Spec —
@@ -31,7 +30,7 @@ canceled: false
 **Hosts:** Relevant Context, Inc.
 **When:** Thursday, June 4, 2026 · 7:00pm ET
 **Where:** Union Square
-**Going:** 21 of 22
+**Going:** 37
 **RSVP:** https://partiful.com/e/X0u5GrmzvIUTrjoAOgVm
 
 ### Hosts on Partiful
@@ -59,10 +58,6 @@ For developers, founders, and anyone evaluating where serious frontend developme
 spynejs.com
 
 This event is part of #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at tech-week.com.
-
-
-
-
 
 
 

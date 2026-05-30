@@ -9,7 +9,7 @@ host: "Hybrid Rituals"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/F9b11DvXSlOLRhvyp35Q"
 public_short_url: "https://go.partiful.com/sHmnpski"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FZzsQmmFBzyV46fAEuyFMZcCZRH63%2FMBL9wIYtVJuC5itoAAykh"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FZzsQmmFBzyV46fAEuyFMZcCZRH63%2FMBL9wIYtVJuC5itoAAykh?alt=media&token=7fc5eb88-5256-4eb0-a31c-ff36145c6e92"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: true
@@ -21,10 +21,9 @@ owner_ids: ["ZzsQmmFBzyV46fAEuyFMZcCZRH63", "7DFu4rITofNzKIjA7hCx", "17hBzIa2I2Z
 is_capped: true
 max_capacity: 35
 remaining_capacity: 0
-total_guest_count: 43
+canceled: false
 approved_guest_count: 0
 local_image: "images/F9b11DvXSlOLRhvyp35Q.jpg"
-canceled: false
 ---
 
 # Style Your Tech
@@ -56,10 +55,6 @@ Free entry. Limited capacity.
 Hosted by Hybrid Rituals, an emerging technology and culture media platform covering the people, products, and ideas shaping how we live with tech. www.hybrid-rituals.com
 
 This event is a part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

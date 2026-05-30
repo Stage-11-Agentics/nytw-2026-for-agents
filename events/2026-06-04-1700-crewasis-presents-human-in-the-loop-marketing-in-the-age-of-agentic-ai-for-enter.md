@@ -14,22 +14,18 @@ neighborhood: "Lower East Side"
 rsvp_url: "https://partiful.com/e/0686jCvpOQUbYoBTLKXh"
 public_short_url: "https://go.partiful.com/n02hhUXe"
 google_maps: "https://www.google.com/maps/search/?api=1&query=252%20W%2037th%20St%2C%20New%20York%2C%20NY%2010018"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fjp4yGVKjMETfzrXbSGstgxKnLtu2%2FuROsHmxhzDXfe0YrrioAS"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fjp4yGVKjMETfzrXbSGstgxKnLtu2%2FuROsHmxhzDXfe0YrrioAS?alt=media&token=4685883e-5f10-4f52-a0ab-b8e6df2cf0ae"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 84
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["jp4yGVKjMETfzrXbSGstgxKnLtu2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 80
-remaining_capacity: 1
-total_guest_count: 85
-approved_guest_count: 79
-local_image: "images/0686jCvpOQUbYoBTLKXh.png"
 canceled: false
+local_image: "images/0686jCvpOQUbYoBTLKXh.png"
 ---
 
 # CREWASIS Presents: Human in the Loop: Marketing in the Age of Agentic AI for Enterprise
@@ -39,7 +35,8 @@ canceled: false
 **Hosts:** CREWASIS  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:00pm–7:00pm ET
 **Where:** Chatti by Regi Mathew · 252 W 37th St, New York, NY 10018 · Lower East Side
-**Capacity:** capped at 80 · 79 taken, 1 remaining
+**Capacity:** capped at 80
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/0686jCvpOQUbYoBTLKXh
 **Map:** https://www.google.com/maps/search/?api=1&query=252%20W%2037th%20St%2C%20New%20York%2C%20NY%2010018
@@ -56,8 +53,6 @@ CREWASIS presents: Human in the Loop in the age of Agentic AI
 https://crewasis.ai/
 
 Cindy Cook, Chair of the New York Angels will be providing an interesting perspective on how Agentic AI investments are being looked at from a preseed/seed standpoint.  
-
-Kelsey Deans will provide a perspective on implementing Agentic AI solutions in enterprise companies.
 
 Sharon Joseph, CEO of CREWASIS, will provide a perspective in building an AI native company and adding in agentic AI. CREWASIS is a Techstars company.
 
@@ -87,24 +82,33 @@ Our panel:
 Cindy Cook, Chair of NYC Angels, Agentic AI investor
 https://www.linkedin.com/in/cindy-cook
 
-Kesley Deans, Co-Founder, Moral Agency, Agentic AI implementer
-https://www.linkedin.com/in/kelseydeans
+Tova Feldheim, Co-Founder, York Effect, Techstars 2024
+https://www.linkedin.com/in/tovafeldheim/
 
-Moderator: Sharon Joseph, CEO & Founder, CREWASIS, Agentic AI Platform
+Moderator: Sharon Joseph, CEO & Founder, CREWASIS, Agentic AI Platform, Techstars 2024, HBS, m+a Accelerator 
 https://www.linkedin.com/in/sharonemilyjoseph/
 
 Follow us on instagram: @crewasis.ai
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
-Lite bites and refreshments will be served. 
+Lite bites and refreshments will be served.
 
-SPONSOR:
-Moral Agency  https://wearemoral.co/about/
+Royal Wine Corp. for partnering with us as our official Wine Sponsor for NYC Tech Week!
+
+@Beulin  Please give me a call to go over what we need to do for the Wine Sponsor per my below email to the.  Logo in a PDF attached.
 
 
+Dear
+Gabriel, Vickie, and Elinor.
 
+Featured Royal Wine Corp. Lineup
 
+Herzog Lineage Sauvignon Blanc 2024 (92 Points, Tasting Panel Magazine)
+Feldstein Gilgamesh 2020 (92 Points, Wine Enthusiast)
+Barkan W Chardonnay 2023 (92 Points, Tasting Panel)
+Lahat Syrah 2023 (Expert Rhône variety)
+Baron de Rothschild Rimapere Sauvignon Blanc 2025 (Marlborough, NZ)
 
 
 

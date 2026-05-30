@@ -7,39 +7,35 @@ start_time: "4:00pm ET"
 end_time: "6:00pm ET"
 start_iso: "2026-06-02T20:00:00.000Z"
 end_iso: "2026-06-02T22:00:00.000Z"
-host: "Visible Hands, Trans Health HQ, VCFamilia"
+host: "Trans Health HQ, Visible Hands, VCFamilia"
 venue_name: "Chelsea"
 venue_address: "Chelsea, Manhattan, New York, NY"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/KOpqOgcYvaValKqg0547"
 public_short_url: "https://go.partiful.com/2oHQ3bX6"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Chelsea%2C%20Chelsea%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FY2ET7pocFgJASSbJHY7P%2FhGdhwBphHflX_KYSFPA-d"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FY2ET7pocFgJASSbJHY7P%2FhGdhwBphHflX_KYSFPA-d?alt=media&token=8663dff6-bc84-4818-b303-027b0123e41d"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 80
 badges: []
 fetch_status: ok
-owner_count: 3
-owner_ids: ["Y2ET7pocFgJASSbJHY7P", "7DFu4rITofNzKIjA7hCx", "8RiH9uGvzhTlElAqIoE4"]
-is_capped: true
-max_capacity: 100
-remaining_capacity: 60
-total_guest_count: 81
-approved_guest_count: 40
-local_image: "images/KOpqOgcYvaValKqg0547.png"
+owner_count: 4
+owner_ids: ["Y2ET7pocFgJASSbJHY7P", "7DFu4rITofNzKIjA7hCx", "8RiH9uGvzhTlElAqIoE4", "ZLKkr1MamrOQyWlUkaxBPTHtb7H3"]
+is_capped: false
 canceled: false
+approved_guest_count: 60
+local_image: "images/KOpqOgcYvaValKqg0547.png"
 ---
 
 # Gender HealthTech: The Next Investment Frontier (Pre-Seed/Seed Founders & Active Angels/VCs)
 
 ![Gender HealthTech: The Next Investment Frontier (Pre-Seed/Seed Founders & Active Angels/VCs)](images/KOpqOgcYvaValKqg0547.png)
 
-**Hosts:** Visible Hands, Trans Health HQ, VCFamilia
+**Hosts:** Trans Health HQ, Visible Hands, VCFamilia  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:00pm–6:00pm ET
 **Where:** Chelsea · Chelsea, Manhattan, New York, NY · Chelsea
-**Capacity:** capped at 100 · 40 taken, 60 remaining
+**Going:** 60
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/KOpqOgcYvaValKqg0547
 **Map:** https://www.google.com/maps/search/?api=1&query=Chelsea%2C%20Chelsea%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -48,6 +44,7 @@ canceled: false
 
 - [Trans Health HQ](https://partiful.com/u/Y2ET7pocFgJASSbJHY7P) — _Accelerating the trans community's access to quality gender-affirming care_
 - [LaFamilia Foundation](https://partiful.com/u/8RiH9uGvzhTlElAqIoE4)
+- [Ivan Hsiao](https://partiful.com/u/ZLKkr1MamrOQyWlUkaxBPTHtb7H3) — _🪩🪐✨_
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -64,10 +61,6 @@ Our afternoon together will look like this:
 RSVP now to redefine healthcare for all. Hosted by Trans Health HQ, Visible Hands, and La Familia. Space is intentionally limited.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

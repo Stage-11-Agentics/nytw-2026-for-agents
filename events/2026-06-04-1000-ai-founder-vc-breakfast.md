@@ -11,30 +11,26 @@ host: "You.com"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/Cm9Vo7iQf7tMc60ZdAcN"
 public_short_url: "https://go.partiful.com/SsnKvVDb"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FlNqzgPOx21dRoqNZQPIV%2FmEWxl7SeYhXk_xncQbNsQ"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FlNqzgPOx21dRoqNZQPIV%2FBABOyAU7XgQylshZzQU-I?alt=media&token=6eaa47fd-1143-4ab7-ba95-5f57781e0703"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 35
 badges: []
 fetch_status: ok
-owner_count: 3
-owner_ids: ["lNqzgPOx21dRoqNZQPIV", "0UxZSxrIjQbXII1KFS5CldEqIHh1", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 5
+owner_ids: ["lNqzgPOx21dRoqNZQPIV", "0UxZSxrIjQbXII1KFS5CldEqIHh1", "7DFu4rITofNzKIjA7hCx", "dEbgLnVO6KfGW9WqTA04x36gDZ02", "KEmuqY9GARZqEHJzcFGlBtLlv6I2"]
 is_capped: false
-total_guest_count: 38
-approved_guest_count: 1
-local_image: "images/Cm9Vo7iQf7tMc60ZdAcN.jpg"
 canceled: false
+local_image: "images/Cm9Vo7iQf7tMc60ZdAcN.jpg"
 ---
 
 # AI Founder × VC Breakfast
 
 ![AI Founder × VC Breakfast](images/Cm9Vo7iQf7tMc60ZdAcN.jpg)
 
-**Hosts:** You.com  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** You.com  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 10:00am–12:00pm ET
 **Where:** SoHo
-**Going:** 35 of 38
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Cm9Vo7iQf7tMc60ZdAcN
 
@@ -43,6 +39,8 @@ canceled: false
 - [You.com](https://partiful.com/u/lNqzgPOx21dRoqNZQPIV) — _You.com is the AI Search Infrastructure company for enterprises. We build the intellectual backbone that enables organizations to reason like experts, decide with confidence, and act at scale through intelligent agents and workflows._
 - [Mariane Bekker](https://partiful.com/u/0UxZSxrIjQbXII1KFS5CldEqIHh1) — _Head of Dev Rel @ You.com | Founder  at Founders Bay - 200k+ AI Builders 
 www.foundersbay.com_
+- [Dylan Oriundo](https://partiful.com/u/dEbgLnVO6KfGW9WqTA04x36gDZ02) — _Director of Marketing & Operations @ Clockout, Strategic Advisor for Tavern & Founder of the Builder Series, a community for the ambitious in NYC_
+- [Chris DN](https://partiful.com/u/KEmuqY9GARZqEHJzcFGlBtLlv6I2) — _www.chrisdnd.com_
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -51,6 +49,12 @@ www.foundersbay.com_
 ​Join Mariane Bekker and a curated room of founders and venture investors for an intimate breakfast in SoHo, hosted at the Veris AI office on Broadway.
 
 ​Expect candid, off-the-record conversations on what's working in fundraising right now, what investors are paying attention to in 2026, and how operators are building durable companies in the current market.
+
+Speakers
+-Charlotte Jenkins, Principal at Alumni Ventures
+-Matt Hoffman, Partner & Head of Talent at M13
+-Chris DN, Startups Ambassador at Brex
+-Mo Alsamrai, Limited Partner at Founders Bay
 
 ​Seating is limited and curated to keep the room high-signal — founders building serious companies and active early-stage VCs writing checks today.
 
@@ -61,7 +65,13 @@ www.foundersbay.com_
 ​Our APIs let you build intelligent agents and applications that use live, factual data from the web, news, and research, in real time.
 ​With just a few lines of code, you can power your LLMs with up-to-date, citation-backed results instead of static training data.
 
+One gives AI agents a single CLI (or MCP) spanning 350+ integrations and 62,000+ verified agentic actions, with fully managed authentication and access control. Customers either use us to build internal or personal agentic workflows or embed us into their product to ship agentic solutions to their users.
+
+Want to see it live? Check it out at withone.ai or grab time here: https://calendly.com/jacob-withone/one-demo-1
+
 ​Veris AI accelerates agent development and deployment with a simulation sandbox platform that delivers robust, compliant AI systems at speed.
+
+Brex is the AI-powered spend platform that transforms finance teams from reactive to proactive. Built for modern companies, Brex combines corporate cards, banking, global payments, and expense management into one intuitive platform — giving employees the tools to make smarter financial decisions from anywhere, in real time. Trusted by OpenAI, DoorDash, ScaleAI, and tens of thousands of companies worldwide.
 
 ​Founders Bay is a membership community of 150,000+ founders, executives, investors and operators coming together to grow their market through curated weekly events, expert-led virtual workshops, mentorship programs and educational resources. Proudly woman-owned and operated by Mariane Bekker, we are dedicated to empowering a diverse and inclusive startup ecosystem. 
 
@@ -83,10 +93,6 @@ www.foundersbay.com_
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

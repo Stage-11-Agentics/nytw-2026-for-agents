@@ -8,23 +8,23 @@ end_time: "5:00pm ET"
 start_iso: "2026-06-01T19:00:00.000Z"
 end_iso: "2026-06-01T21:00:00.000Z"
 host: "Walker Media LLC"
+venue_address: "157 Bleecker St, New York, NY 10012"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/6XYVSFuCgrRMLcuGQQyV"
 public_short_url: "https://go.partiful.com/uKwRv9lF"
+google_maps: "https://www.google.com/maps/search/?api=1&query=157%20Bleecker%20St%2C%20New%20York%2C%20NY%2010012"
 image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 137
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["eM5VHjKwpEdE8SSiE6UNa0Mfw5I3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 137
-approved_guest_count: 0
-local_image: "images/6XYVSFuCgrRMLcuGQQyV.png"
 canceled: false
+approved_guest_count: 182
+local_image: "images/6XYVSFuCgrRMLcuGQQyV.png"
 ---
 
 # The Partnership Room: Brands, Meet Creators Building B2B Audiences in the Tech Industry
@@ -33,10 +33,11 @@ canceled: false
 
 **Hosts:** Walker Media LLC  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 3:00pm–5:00pm ET
-**Where:** SoHo
-**Going:** 137
+**Where:** 157 Bleecker St, New York, NY 10012 · SoHo
+**Going:** 182
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/6XYVSFuCgrRMLcuGQQyV
+**Map:** https://www.google.com/maps/search/?api=1&query=157%20Bleecker%20St%2C%20New%20York%2C%20NY%2010012
 
 ### Hosts on Partiful
 
@@ -59,10 +60,6 @@ https://www.instagram.com/artisha_walker/
 https://www.linkedin.com/in/artisha-walker/
 
 This event is part of #NYTechWeek—a week of events hosted by VCs and startups to bring the tech ecosystem together. Learn more at www.tech-week.com
-
-
-
-
 
 
 

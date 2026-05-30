@@ -7,42 +7,36 @@ start_time: "2:00pm ET"
 end_time: "5:00pm ET"
 start_iso: "2026-06-04T18:00:00.000Z"
 end_iso: "2026-06-04T21:00:00.000Z"
-host: "Scalpels & Spreadsheets, Bright Signal Consulting"
-venue_name: "307 West 38th Street"
-venue_address: "307 W 38th St, New York, NY 10018"
+host: "Bright Signal Consulting, Scalpels & Spreadsheets"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/BSTxVUJmobXv6Y1EYQDX"
 public_short_url: "https://go.partiful.com/ApA5ThBo"
-google_maps: "https://www.google.com/maps/search/?api=1&query=307%20W%2038th%20St%2C%20New%20York%2C%20NY%2010018"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FUGVoirQYOuZcznIiuuU3avFfcTK2%2FeegVmN2RS4st7LTjaFaTE"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FUGVoirQYOuZcznIiuuU3avFfcTK2%2FeegVmN2RS4st7LTjaFaTE?alt=media&token=2cd5f10c-dc70-47af-bf57-cb7b3cc896e6"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 166
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["9K2ip5KfG1VOTKg73Vjq", "7DFu4rITofNzKIjA7hCx", "UGVoirQYOuZcznIiuuU3avFfcTK2", "GNdSkZC3mzUVf88s2xjJuHqp98w1"]
 is_capped: true
-max_capacity: 140
-remaining_capacity: 27
-total_guest_count: 171
-approved_guest_count: 113
-local_image: "images/BSTxVUJmobXv6Y1EYQDX.png"
+max_capacity: 150
+remaining_capacity: 1
 canceled: false
+approved_guest_count: 149
+local_image: "images/BSTxVUJmobXv6Y1EYQDX.png"
 ---
 
 # Health AI from Research to Production
 
 ![Health AI from Research to Production](images/BSTxVUJmobXv6Y1EYQDX.png)
 
-**Hosts:** Scalpels & Spreadsheets, Bright Signal Consulting  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** Bright Signal Consulting, Scalpels & Spreadsheets  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 2:00pm–5:00pm ET
-**Where:** 307 West 38th Street · 307 W 38th St, New York, NY 10018 · Midtown
-**Capacity:** capped at 140 · 113 taken, 27 remaining
+**Where:** Midtown
+**Capacity:** capped at 150 · 149 taken, 1 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/BSTxVUJmobXv6Y1EYQDX
-**Map:** https://www.google.com/maps/search/?api=1&query=307%20W%2038th%20St%2C%20New%20York%2C%20NY%2010018
 
 ### Hosts on Partiful
 
@@ -70,23 +64,21 @@ Speakers:
 Fireside: Martin Seneviratne, Co-CEO of R37 @ R1
 
 Panel:
-Alexander Singh, Associate, Yosemite
 Vitalay Fomin, Co-Founder/CEO @ Numenos AI
 Nyamitse-Calvin Mahinda, Founder/CEO @ Vital Audio
+Kerry Weinberg, Co-Founder & CEO @ PhenoML
+Tim Martens, Co-Founder @ Vaark Ventures, CMO @ uCTRL, heart surgeon 
 
 Moderator: Brittany Sigler, Founder/Fractional Product Exec @ Bright Signal Consulting
 
 Agenda:
 Doors Open: 2.00PM
 Networking:  2.00 - 3.00PM
-Panel: 3.00PM - 3.50PM
+Fireside: 3.00-3.20 PM
+Panel: 3.20PM - 4.00PM
 Networking: 3.50 - 5.00PM 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

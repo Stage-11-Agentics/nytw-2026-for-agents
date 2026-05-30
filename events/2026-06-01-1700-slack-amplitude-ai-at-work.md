@@ -7,29 +7,22 @@ start_time: "5:00pm ET"
 end_time: "7:00pm ET"
 start_iso: "2026-06-01T21:00:00.000Z"
 end_iso: "2026-06-01T23:00:00.000Z"
-host: "Tightknit, Slack, Amplitude"
-venue_name: "Fabrik"
-venue_address: "16 Vestry St, New York, NY 10013"
+host: "Slack, Tightknit, Amplitude"
 neighborhood: "Tribeca"
 rsvp_url: "https://partiful.com/e/dmFBKIxzn2LdFmktqas8"
 public_short_url: "https://go.partiful.com/ItsJYytA"
-google_maps: "https://www.google.com/maps/search/?api=1&query=16%20Vestry%20St%2C%20New%20York%2C%20NY%2010013"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FZR3QwsUjE1wLr4WD9989%2FjOYi3PPeHsomN41mbCEG4"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FZR3QwsUjE1wLr4WD9989%2FjOYi3PPeHsomN41mbCEG4?alt=media&token=a48cb5d1-f9e8-42fd-9db4-dc92fe20ad2e"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 443
 badges: []
 fetch_status: ok
-owner_count: 4
-owner_ids: ["nKGqFAioS5P18UkBOfRPD6om7Id2", "ZR3QwsUjE1wLr4WD9989", "7DFu4rITofNzKIjA7hCx", "dLhfpWRY6rdWvJjTgcasqG88LSD3"]
+owner_count: 5
+owner_ids: ["nKGqFAioS5P18UkBOfRPD6om7Id2", "ZR3QwsUjE1wLr4WD9989", "7DFu4rITofNzKIjA7hCx", "dLhfpWRY6rdWvJjTgcasqG88LSD3", "KoRhqau5QvqfiQKXlY96"]
 is_capped: true
-max_capacity: 150
-remaining_capacity: 21
-total_guest_count: 448
-approved_guest_count: 129
-local_image: "images/dmFBKIxzn2LdFmktqas8.png"
+max_capacity: 200
 canceled: false
+local_image: "images/dmFBKIxzn2LdFmktqas8.png"
 ---
 
 # Slack ✖︎ Amplitude: 
@@ -38,19 +31,19 @@ AI at work
 ![Slack ✖︎ Amplitude: 
 AI at work](images/dmFBKIxzn2LdFmktqas8.png)
 
-**Hosts:** Tightknit, Slack, Amplitude  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Slack, Tightknit, Amplitude  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 5:00pm–7:00pm ET
-**Where:** Fabrik · 16 Vestry St, New York, NY 10013 · Tribeca
-**Capacity:** capped at 150 · 129 taken, 21 remaining
+**Where:** Tribeca
+**Capacity:** capped at 200
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/dmFBKIxzn2LdFmktqas8
-**Map:** https://www.google.com/maps/search/?api=1&query=16%20Vestry%20St%2C%20New%20York%2C%20NY%2010013
 
 ### Hosts on Partiful
 
 - [Zach Hawtof](https://partiful.com/u/nKGqFAioS5P18UkBOfRPD6om7Id2)
 - [Tightknit](https://partiful.com/u/ZR3QwsUjE1wLr4WD9989) — _The community platform built for business_
 - [Beth Saunders](https://partiful.com/u/dLhfpWRY6rdWvJjTgcasqG88LSD3) — _Senior Community Manager @ Amplitude_
+- [Fabrik](https://partiful.com/u/KoRhqau5QvqfiQKXlY96) — _Your Home For Community™_
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -67,15 +60,18 @@ Join us for an evening of light bites, drinks, and an intimate panel with leader
 * What does it look like when AI shows up where work already happens, instead of in yet another tab?
 * What's coming in the next 12 months?
 
+Panelists:
+- Brad Monroe, Director of Product Management, Slack
+- Jim Kultgen, Head of AI Strategy, Amplitude
+- Beth Saunders, Senior Community Manager, Amplitude
+
+Hosted by Zach Hawtof, CEO and Co-Founder of Tightknit and Slack NYC Chapter Lead.
+
 Hosted at Fabrik in NYC. Capped at 70 attendees.
 
 Brought to you by Slack Community NYC, Amplitude, and Tightknit.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

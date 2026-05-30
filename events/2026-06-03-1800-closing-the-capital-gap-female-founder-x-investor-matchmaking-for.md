@@ -11,20 +11,18 @@ host: "Fund Her Network"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/6iuVOkztFGRo2HPIPHZ3"
 public_short_url: "https://go.partiful.com/opS00dDp"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FulXxPl1SZtPbLyLI2PMzD7yP7c53%2FjWpkDG1-9vpqAFO6yvusU"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FulXxPl1SZtPbLyLI2PMzD7yP7c53%2FjWpkDG1-9vpqAFO6yvusU?alt=media&token=a7741c61-c2d4-4003-b02e-1b3bfe12e2ce"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 76
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["ulXxPl1SZtPbLyLI2PMzD7yP7c53", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 77
+canceled: false
 approved_guest_count: 1
 local_image: "images/6iuVOkztFGRo2HPIPHZ3.png"
-canceled: false
 ---
 
 # Closing the Capital Gap: Female Founder x Investor Matchmaking for
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** Fund Her Network  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–8:00pm ET
 **Where:** Midtown
-**Going:** 76 of 77
+**Going:** 1
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/6iuVOkztFGRo2HPIPHZ3
 
@@ -49,10 +47,6 @@ canceled: false
 Registration required via our event page—https://luma.com/bi8bdlti
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

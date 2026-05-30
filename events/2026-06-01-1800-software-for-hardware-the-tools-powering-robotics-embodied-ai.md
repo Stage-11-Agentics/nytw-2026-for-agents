@@ -12,20 +12,19 @@ neighborhood: "Union Square"
 rsvp_url: "https://partiful.com/e/09a0qPKv0cSOIOSGxjTQ"
 public_short_url: "https://go.partiful.com/jqAOvxT6"
 google_maps: "https://www.google.com/maps/search/?api=1&query=124%20E%2014th%20St%2C%20New%20York%2C%20NY%2010003"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fo2Nq2vsWEnVxnmrD2dPKDH0JGup2%2FaYR6-1Doak56FjGs1y7WM"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fo2Nq2vsWEnVxnmrD2dPKDH0JGup2%2FH8vDQF04pA4U4lPOq7ti7?alt=media&token=1fc84a89-841f-47c0-9aaa-c07631c62b87"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 216
+going_guest_count: 385
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["o2Nq2vsWEnVxnmrD2dPKDH0JGup2", "7DFu4rITofNzKIjA7hCx", "KV92i7QyrNRGqCcQVpKAE5Ki7cF3"]
 is_capped: false
-total_guest_count: 236
+canceled: false
 approved_guest_count: 0
 local_image: "images/09a0qPKv0cSOIOSGxjTQ.jpg"
-canceled: false
 ---
 
 # Software for Hardware: The Tools Powering Robotics & Embodied AI
@@ -35,7 +34,7 @@ canceled: false
 **Hosts:** New York Robotics, NY Tech Alliance  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:00pm ET
 **Where:** Civic Hall · 124 E 14th St, New York, NY 10003 · Union Square
-**Going:** 216 of 236
+**Going:** 385
 **RSVP:** https://partiful.com/e/09a0qPKv0cSOIOSGxjTQ
 **Map:** https://www.google.com/maps/search/?api=1&query=124%20E%2014th%20St%2C%20New%20York%2C%20NY%2010003
 
@@ -99,10 +98,6 @@ RSVP here, then complete registration + ticket purchase on Luma (required for en
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

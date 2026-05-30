@@ -13,16 +13,14 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 155
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["sHX177V8GGVYVLG0Qzvho2gtNpX2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 160
-approved_guest_count: 151
-local_image: "images/ac0iqK6LBUY1d4uFpXxp.png"
 canceled: false
+approved_guest_count: 187
+local_image: "images/ac0iqK6LBUY1d4uFpXxp.png"
 ---
 
 # The Future of AI Personalization
@@ -32,7 +30,7 @@ canceled: false
 **Hosts:** Zeta Global, Columbia University
 **When:** Thursday, June 4, 2026 · 4:00pm ET
 **Where:** Murray Hill
-**Going:** 155 of 160
+**Going:** 187
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ac0iqK6LBUY1d4uFpXxp
 
@@ -53,10 +51,6 @@ Join Zeta Global during NY Tech Week for a discussion featuring leaders from Zet
 Following the discussion, attendees will have the opportunity to network with AI visionaries, world-class investors, and other leading voices across the tech ecosystem.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

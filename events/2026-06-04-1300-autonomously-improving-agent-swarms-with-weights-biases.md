@@ -12,20 +12,17 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/O9JiMBw5xJlUGJtsYtrt"
 public_short_url: "https://go.partiful.com/CV6YGE0D"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FktUCJqzQsNNb7fBXDxxxx6hZ6ZZ2%2F4DZoU9f0Yma4Ip9MJp9_2"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FktUCJqzQsNNb7fBXDxxxx6hZ6ZZ2%2F4DZoU9f0Yma4Ip9MJp9_2?alt=media&token=bcdfb5fa-f835-43ff-b2f9-f35965055f7d"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 224
 badges: []
 fetch_status: ok
 owner_count: 5
 owner_ids: ["ktUCJqzQsNNb7fBXDxxxx6hZ6ZZ2", "7DFu4rITofNzKIjA7hCx", "rCbV97Og41d76cLDDozlxv3fHFy2", "Sy4stBIyhXgmuQJDWWSRxVJvox93", "hYxNJngPbHaZecIYjTrT5rpN68q1"]
 is_capped: false
-total_guest_count: 229
-approved_guest_count: 210
-local_image: "images/O9JiMBw5xJlUGJtsYtrt.png"
 canceled: false
+local_image: "images/O9JiMBw5xJlUGJtsYtrt.png"
 ---
 
 # Autonomously Improving Agent Swarms with Weights & Biases
@@ -35,7 +32,6 @@ canceled: false
 **Hosts:** CoreWeave  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 1:00pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 224 of 229
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/O9JiMBw5xJlUGJtsYtrt
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -65,10 +61,6 @@ The future belongs to companies building agents that collaborate and accomplish 
 
 We're bringing our AI experts to share their experiences building autonomously improving agent swarms. We’ll kick off with generous networking time before moving to a session with the W&B Weave team and customers taking the stage to share how they're building agentic systems. 
 This event is a part of #NyTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

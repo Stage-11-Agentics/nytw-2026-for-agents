@@ -11,20 +11,18 @@ host: "KRCG"
 neighborhood: "Virtual (NYC)"
 rsvp_url: "https://partiful.com/e/yR1Y0eCTykwsyhDIgUsA"
 public_short_url: "https://go.partiful.com/1C11tnem"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FX7qRCNwv9WOLzTGBgOJh5WuEYoo1%2FytFkUTGy_k1Aeuhy9Ap46"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FX7qRCNwv9WOLzTGBgOJh5WuEYoo1%2FytFkUTGy_k1Aeuhy9Ap46?alt=media&token=7c453246-a858-4f37-9e2e-fef865c601ac"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 9
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["X7qRCNwv9WOLzTGBgOJh5WuEYoo1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 14
-approved_guest_count: 9
-local_image: "images/yR1Y0eCTykwsyhDIgUsA.png"
 canceled: false
+approved_guest_count: 47
+local_image: "images/yR1Y0eCTykwsyhDIgUsA.png"
 ---
 
 # Scaling Founder-led Sales on LinkedIn
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** KRCG  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 12:00pm–1:00pm ET
 **Where:** Virtual (NYC)
-**Going:** 9 of 14
+**Going:** 47
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/yR1Y0eCTykwsyhDIgUsA
 
@@ -99,6 +97,9 @@ What we’ll cover
 -Common automation mistakes that quietly hurt results
 -Why bad messaging scaled is still bad outreach
 
+The tool mentioned in this workshop is called Dripify (but you can plug these tips into your own tech stack too). You can sign up with my affiliate link for a free account and 7-day trial here (no card needed):
+https://try.dripify.com/krcg
+
 6. Optimizing over time
 
 -Why outreach systems should evolve every few weeks
@@ -123,10 +124,6 @@ What you’ll walk away with:
 
 -Messaging principles that improve response quality
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

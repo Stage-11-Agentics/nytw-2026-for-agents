@@ -13,16 +13,14 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 84
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["6md5xSgNtXWMCetcrtAFkuBiEyA3", "7DFu4rITofNzKIjA7hCx", "zYUDblBgQ7Y3TIENbJEpYc4vTcC3"]
 is_capped: false
-total_guest_count: 86
-approved_guest_count: 1
-local_image: "images/H9OexzyrTsRRlTTyBmF9.png"
 canceled: false
+approved_guest_count: 16
+local_image: "images/H9OexzyrTsRRlTTyBmF9.png"
 ---
 
 # Karaoke Capital: Founders & investors
@@ -32,7 +30,7 @@ canceled: false
 **Hosts:** Odin, Green Room  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 9:00pm ET
 **Where:** Union Square
-**Going:** 84 of 86
+**Going:** 16
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/H9OexzyrTsRRlTTyBmF9
 
@@ -52,10 +50,6 @@ We may throw in some prizes 👀
 xoxo
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

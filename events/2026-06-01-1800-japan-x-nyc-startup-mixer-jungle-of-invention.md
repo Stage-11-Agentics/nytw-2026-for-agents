@@ -11,38 +11,38 @@ host: "FreakOut HD"
 neighborhood: "Brooklyn"
 rsvp_url: "https://partiful.com/e/k0Z3WGdanIGHlTsvsAqW"
 public_short_url: "https://go.partiful.com/bxG5PLSo"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FtkjEcq8YPiTM79dj8eGR7XrH1I13%2FuKtY4TktvVGb_OEG-bRVx"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FtkjEcq8YPiTM79dj8eGR7XrH1I13%2FuKtY4TktvVGb_OEG-bRVx?alt=media&token=feae1806-2884-43ac-bc8d-64dddd1a6508"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 1
 badges: []
 fetch_status: ok
-owner_count: 1
-owner_ids: ["tkjEcq8YPiTM79dj8eGR7XrH1I13"]
+owner_count: 3
+owner_ids: ["tkjEcq8YPiTM79dj8eGR7XrH1I13", "7DFu4rITofNzKIjA7hCx", "O7AopuDinNhUrPTRgGPaanYKIsu2"]
 is_capped: true
-max_capacity: 50
-remaining_capacity: 50
-total_guest_count: 3
-approved_guest_count: 0
-local_image: "images/k0Z3WGdanIGHlTsvsAqW.jpg"
+max_capacity: 75
+remaining_capacity: 12
 canceled: false
+approved_guest_count: 63
+local_image: "images/k0Z3WGdanIGHlTsvsAqW.jpg"
 ---
 
 # Japan x NYC Startup Mixer @ Jungle of Invention
 
 ![Japan x NYC Startup Mixer @ Jungle of Invention](images/k0Z3WGdanIGHlTsvsAqW.jpg)
 
-**Hosts:** FreakOut HD
+**Hosts:** FreakOut HD  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:00pm–9:00pm ET
 **Where:** Brooklyn
-**Capacity:** capped at 50 · 0 taken, 50 remaining
+**Capacity:** capped at 75 · 63 taken, 12 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/k0Z3WGdanIGHlTsvsAqW
 
 ### Hosts on Partiful
 
 - [Yuzuru Honda / FreakOut HD](https://partiful.com/u/tkjEcq8YPiTM79dj8eGR7XrH1I13)
+- [Riho Kawaguchi](https://partiful.com/u/O7AopuDinNhUrPTRgGPaanYKIsu2) — _PhD in Aeronautics and astronautics/Deeptech VC/NYU Stern MBA candidate_
+- _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
 ## Description
@@ -61,9 +61,7 @@ Capacity is intentionally limited to keep the room useful and conversational. RS
 
 Event page: https://jungle.ofinventi.one/japan-startup-mixer.html
 
-
-
-
+This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
 
 
 

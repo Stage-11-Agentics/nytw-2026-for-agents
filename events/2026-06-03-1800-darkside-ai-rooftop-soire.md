@@ -11,20 +11,18 @@ host: "Darkside AI, YellowRocks.vc"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/7JfEW6CdsbhpkYOQkKBP"
 public_short_url: "https://go.partiful.com/yozgLYiV"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FXgRWfj3YFqXEwW9IhkYqrH388Wq2%2FedIQwiBPzymKV2dKWqB0B"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FXgRWfj3YFqXEwW9IhkYqrH388Wq2%2FedIQwiBPzymKV2dKWqB0B?alt=media&token=33ecd793-c98b-44dc-8520-f1e7a2edc3b5"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 207
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["XgRWfj3YFqXEwW9IhkYqrH388Wq2", "7DFu4rITofNzKIjA7hCx", "GSJx9z6vqlYAeMoTy8G1Dh1bXAB2"]
 is_capped: false
-total_guest_count: 210
-approved_guest_count: 95
-local_image: "images/7JfEW6CdsbhpkYOQkKBP.jpg"
 canceled: false
+approved_guest_count: 158
+local_image: "images/7JfEW6CdsbhpkYOQkKBP.jpg"
 ---
 
 # Darkside AI Rooftop Soirée
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** Darkside AI, YellowRocks.vc  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–10:00pm ET
 **Where:** Financial District
-**Going:** 207 of 210
+**Going:** 158
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/7JfEW6CdsbhpkYOQkKBP
 
@@ -81,11 +79,10 @@ For those who understand that the most important conversations happen offstage.
 
 ♦️Hosted by Darkside AI (http://www.darksideai.io) - a global initiative helping leaders build resilience against next‑generation AI threats.
 
+♦️Partner:
+In Pulse (https://inpulse.events) is an AI Leaders Community bringing together founders, investors, and builders through curated events, real conversations, and meaningful connections that turn into opportunities.
+
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

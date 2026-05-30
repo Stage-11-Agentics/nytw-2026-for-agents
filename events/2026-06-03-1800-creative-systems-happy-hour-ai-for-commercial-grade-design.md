@@ -11,30 +11,26 @@ host: "Virse Labs"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/CVDYwREXwTGlAxsek3BM"
 public_short_url: "https://go.partiful.com/RSY3N0sn"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FY1yQu7afzjcbIt5L9RjlxtrxZ3I2%2FzMSYf6t92FUiiLQDzHnyW"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FY1yQu7afzjcbIt5L9RjlxtrxZ3I2%2FzMSYf6t92FUiiLQDzHnyW?alt=media&token=3a38b2a5-57e5-436a-a064-c87a50dd87b5"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 131
 badges: []
 fetch_status: ok
-owner_count: 3
-owner_ids: ["Y1yQu7afzjcbIt5L9RjlxtrxZ3I2", "7DFu4rITofNzKIjA7hCx", "llJDRN0fs1yQCpyDXbIQ"]
+owner_count: 5
+owner_ids: ["Y1yQu7afzjcbIt5L9RjlxtrxZ3I2", "7DFu4rITofNzKIjA7hCx", "llJDRN0fs1yQCpyDXbIQ", "VLlk7jco59h1iw49l2mXbDaZ5U92", "jBpnm4hPitQ7UTReMYLy4HfYLWy2"]
 is_capped: false
-total_guest_count: 132
-approved_guest_count: 40
-local_image: "images/CVDYwREXwTGlAxsek3BM.png"
 canceled: false
+local_image: "images/CVDYwREXwTGlAxsek3BM.png"
 ---
 
 # Creative Systems Happy Hour: AI for Commercial-Grade Design
 
 ![Creative Systems Happy Hour: AI for Commercial-Grade Design](images/CVDYwREXwTGlAxsek3BM.png)
 
-**Hosts:** Virse Labs  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** Virse Labs  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
 **Where:** Flatiron
-**Going:** 131 of 132
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/CVDYwREXwTGlAxsek3BM
 
@@ -42,6 +38,8 @@ canceled: false
 
 - [Angela Chen](https://partiful.com/u/Y1yQu7afzjcbIt5L9RjlxtrxZ3I2)
 - [Virse Labs](https://partiful.com/u/llJDRN0fs1yQCpyDXbIQ) — _make design great again🚀!_
+- [Cecilia](https://partiful.com/u/VLlk7jco59h1iw49l2mXbDaZ5U92)
+- [Jaclyn Pham](https://partiful.com/u/jBpnm4hPitQ7UTReMYLy4HfYLWy2) — _Design Engineer | Founder | Art & Tech, Experience Design_
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -66,10 +64,6 @@ Who this is for:
 - You are excited about creative AI!!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

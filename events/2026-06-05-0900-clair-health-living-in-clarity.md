@@ -11,22 +11,18 @@ host: "Clair Health"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/8j2aEOaE2GIi1b08Kw5m"
 public_short_url: "https://go.partiful.com/Jk8qVcyh"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fn7OnUZm5XlHfD78jX1mu%2FzLtF48Xy4ECgUa22-tTYh"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fn7OnUZm5XlHfD78jX1mu%2FzLtF48Xy4ECgUa22-tTYh?alt=media&token=a8a96e0d-6040-43ac-8163-e8bb5e367030"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 99
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["n7OnUZm5XlHfD78jX1mu", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 28
-total_guest_count: 101
-approved_guest_count: 22
-local_image: "images/8j2aEOaE2GIi1b08Kw5m.png"
 canceled: false
+local_image: "images/8j2aEOaE2GIi1b08Kw5m.png"
 ---
 
 # Clair Health: Living in Clarity
@@ -36,7 +32,7 @@ canceled: false
 **Hosts:** Clair Health  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 9:00am–11:00am ET
 **Where:** Flatiron
-**Capacity:** capped at 50 · 22 taken, 28 remaining
+**Capacity:** capped at 50
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/8j2aEOaE2GIi1b08Kw5m
 
@@ -56,10 +52,6 @@ Set inside The Altar, a health club, centered around a communal sauna and cold p
 
 This won’t be your typical Tech Week event! Come prepare to decompress, connect, and get an early glimpse at what’s next in femtech! - #NYTechWeek
 This event is a part of #New YorkTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com. Questions? Email: sarah@hannahcranstonmedia.com
-
-
-
-
 
 
 

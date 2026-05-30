@@ -1,5 +1,5 @@
 ---
-title: "[BIOADAPTING Happy Hour: AI, Holograms & the Future of Live Performance]"
+title: "BIOADAPTING Happy Hour: AI, Holograms & the Future of Live Performance"
 event_id: "0gu1lOnNUW1XdAVgqlKt"
 date: 2026-06-04
 day: "Thursday"
@@ -12,30 +12,28 @@ neighborhood: "Nomad"
 rsvp_url: "https://partiful.com/e/0gu1lOnNUW1XdAVgqlKt"
 public_short_url: "https://go.partiful.com/UOqziABA"
 google_maps: "https://www.google.com/maps/search/?api=1&query=1204%20Broadway%2C%20New%20York%2C%20NY%2010001"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F8knj5zLFCMUrN9TSRYxX7Nn1AnY2%2FRUlaOeK3QYKzNOqc81AiB"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F8knj5zLFCMUrN9TSRYxX7Nn1AnY2%2FRUlaOeK3QYKzNOqc81AiB?alt=media&token=cac34d9e-2b5c-4af4-99ba-3a0c7be323b0"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 19
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["8knj5zLFCMUrN9TSRYxX7Nn1AnY2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 19
-approved_guest_count: 7
-local_image: "images/0gu1lOnNUW1XdAVgqlKt.png"
 canceled: false
+approved_guest_count: 16
+local_image: "images/0gu1lOnNUW1XdAVgqlKt.png"
 ---
 
-# [BIOADAPTING Happy Hour: AI, Holograms & the Future of Live Performance]
+# BIOADAPTING Happy Hour: AI, Holograms & the Future of Live Performance
 
-![[BIOADAPTING Happy Hour: AI, Holograms & the Future of Live Performance]](images/0gu1lOnNUW1XdAVgqlKt.png)
+![BIOADAPTING Happy Hour: AI, Holograms & the Future of Live Performance](images/0gu1lOnNUW1XdAVgqlKt.png)
 
 **Hosts:** Bioadapting, Transforma Theatre
 **When:** Thursday, June 4, 2026 · 5:00pm ET
 **Where:** Luminary · 1204 Broadway, New York, NY 10001 · Nomad
-**Going:** 19
+**Going:** 16
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/0gu1lOnNUW1XdAVgqlKt
 **Map:** https://www.google.com/maps/search/?api=1&query=1204%20Broadway%2C%20New%20York%2C%20NY%2010001
@@ -56,10 +54,6 @@ When: Thursday, June 4th 5-7pm
 Where: Luminary, 1204 Broadway, 4th floor, New York, NY 10001
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

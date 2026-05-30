@@ -9,21 +9,17 @@ host: "WIZETRAK"
 neighborhood: "Virtual (NYC)"
 rsvp_url: "https://partiful.com/e/sDrNi3lXsHFWExiKn9Gf"
 public_short_url: "https://go.partiful.com/pweQlhSg"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FnBw4vsadSOe6fW9VXQR6IZQRF5o1%2FkGNq0JmkfrhI1Hc1n_uIl"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FnBw4vsadSOe6fW9VXQR6IZQRF5o1%2FkGNq0JmkfrhI1Hc1n_uIl?alt=media&token=8625663e-c21a-471f-8bf4-9f45aee3d73e"
 visibility: "public"
 at_capacity: false
-going_guest_count: 19
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["nBw4vsadSOe6fW9VXQR6IZQRF5o1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 30
-remaining_capacity: 11
-total_guest_count: 19
-approved_guest_count: 0
-local_image: "images/sDrNi3lXsHFWExiKn9Gf.png"
 canceled: false
+local_image: "images/sDrNi3lXsHFWExiKn9Gf.png"
 ---
 
 # Chi-Ching: Integrated Financial Operations
@@ -33,7 +29,7 @@ canceled: false
 **Hosts:** WIZETRAK  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 2:00pm ET
 **Where:** Virtual (NYC)
-**Capacity:** capped at 30 · 19 taken, 11 remaining
+**Capacity:** capped at 30
 **RSVP:** https://partiful.com/e/sDrNi3lXsHFWExiKn9Gf
 
 ### Hosts on Partiful
@@ -44,13 +40,9 @@ canceled: false
 
 ## Description
 
-To be paid or not to be paid, that is the question. Learn about and be the first to test new SAAS infrastructure applications  that will  change the way we work in media and entertainment, education, healthcare, and real estate.
+To be paid or not to be paid, that is the question. Learn about WIZETRAK, a SAAS infrastructure application that will change the way we work in entertainment, education, healthcare, and real estate.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

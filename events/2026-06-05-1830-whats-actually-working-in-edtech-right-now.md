@@ -9,22 +9,20 @@ host: "Eduwave AI, TransferX"
 neighborhood: "Upper Manhattan"
 rsvp_url: "https://partiful.com/e/MYjkIWX4pyKfwaKYp0PN"
 public_short_url: "https://go.partiful.com/ISerAMPT"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F2bnRiN4CBFaGMIAvOMUlok1qVmw2%2F_Qtx6sGWs5wrrQT-2SXoL"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F2bnRiN4CBFaGMIAvOMUlok1qVmw2%2F_Qtx6sGWs5wrrQT-2SXoL?alt=media&token=394eee98-5143-4268-be33-bbd8efd2cb70"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 9
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["4op1levAmWhVxrKi8NU2Q424lQ12", "2bnRiN4CBFaGMIAvOMUlok1qVmw2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 150
-remaining_capacity: 149
-total_guest_count: 12
-approved_guest_count: 1
-local_image: "images/MYjkIWX4pyKfwaKYp0PN.png"
+remaining_capacity: 103
 canceled: false
+approved_guest_count: 47
+local_image: "images/MYjkIWX4pyKfwaKYp0PN.png"
 ---
 
 # What’s Actually Working in EdTech Right Now
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** Eduwave AI, TransferX  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 6:30pm ET
 **Where:** Upper Manhattan
-**Capacity:** capped at 150 · 1 taken, 149 remaining
+**Capacity:** capped at 150 · 47 taken, 103 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/MYjkIWX4pyKfwaKYp0PN
 
@@ -67,10 +65,6 @@ No fluff. No “future of education” talk.
 Just what’s actually working and what’s coming next.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

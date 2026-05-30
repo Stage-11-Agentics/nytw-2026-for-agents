@@ -11,20 +11,18 @@ host: "Healthcare AI Guy, Cigna, Maverick"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/1ZvSFv5Mv6ocuCFgukwz"
 public_short_url: "https://go.partiful.com/MUAzlTuf"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJaV50zwSWhAz663l1LBs%2Fek-MwfLXZU-Y463SSKK51"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJaV50zwSWhAz663l1LBs%2Fz6ZEFbHq3TDB_aZdY8puT?alt=media&token=8478a3fd-ec94-4841-a3e9-5bc14b7dface"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 478
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["JaV50zwSWhAz663l1LBs", "7DFu4rITofNzKIjA7hCx", "SRdUqbEFQS8LjeRyI2II", "vrjaptdMT8WN3QeL3ftl"]
 is_capped: false
-total_guest_count: 490
-approved_guest_count: 239
-local_image: "images/1ZvSFv5Mv6ocuCFgukwz.jpg"
 canceled: false
+approved_guest_count: 337
+local_image: "images/1ZvSFv5Mv6ocuCFgukwz.jpg"
 ---
 
 # How AI founders are building the future of consumer health
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** Healthcare AI Guy, Cigna, Maverick  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:00pm–7:00pm ET
 **Where:** Flatiron
-**Going:** 478 of 490
+**Going:** 337
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/1ZvSFv5Mv6ocuCFgukwz
 
@@ -64,10 +62,6 @@ Hosted by:
  • Cigna Ventures
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

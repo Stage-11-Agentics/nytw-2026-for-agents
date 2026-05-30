@@ -7,39 +7,32 @@ start_time: "8:30am ET"
 end_time: "10:00am ET"
 start_iso: "2026-06-02T12:30:00.000Z"
 end_iso: "2026-06-02T14:00:00.000Z"
-host: "SVB, Ironspring Ventures, Eclipse"
-venue_address: "11 W 42nd St, New York, NY 10036"
+host: "Ironspring Ventures, SVB, Eclipse"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/ot8041Lhdg9cEm9rludb"
 public_short_url: "https://go.partiful.com/BVVoKkP9"
-google_maps: "https://www.google.com/maps/search/?api=1&query=11%20W%2042nd%20St%2C%20New%20York%2C%20NY%2010036"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FjBmtn5o6m0Z79oQLSMTS2X6WHUr2%2FhACHMq1VMZT1CZSXUcvTu"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FjBmtn5o6m0Z79oQLSMTS2X6WHUr2%2FhACHMq1VMZT1CZSXUcvTu?alt=media&token=7c26628f-5104-4ec0-8314-28b661053d26"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 368
 badges: []
 fetch_status: ok
-owner_count: 5
-owner_ids: ["jBmtn5o6m0Z79oQLSMTS2X6WHUr2", "nYJ4o3ffx1grwiWAz893sjU4rNf2", "ylqSqX2N7pbn8zWVDoBD8lUpnEB3", "LXf6Ii7TYMYMM0sCKXU5CoG0grB2", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 6
+owner_ids: ["jBmtn5o6m0Z79oQLSMTS2X6WHUr2", "nYJ4o3ffx1grwiWAz893sjU4rNf2", "ylqSqX2N7pbn8zWVDoBD8lUpnEB3", "LXf6Ii7TYMYMM0sCKXU5CoG0grB2", "7DFu4rITofNzKIjA7hCx", "fXaqkUKXEHhoRd1Ot8YCviZdTIn1"]
 is_capped: false
-total_guest_count: 372
-approved_guest_count: 240
-local_image: "images/ot8041Lhdg9cEm9rludb.png"
 canceled: false
+local_image: "images/ot8041Lhdg9cEm9rludb.png"
 ---
 
 # Ironspring Ventures/Eclipse/SVB Industrial Tech Breakfast
 
 ![Ironspring Ventures/Eclipse/SVB Industrial Tech Breakfast](images/ot8041Lhdg9cEm9rludb.png)
 
-**Hosts:** SVB, Ironspring Ventures, Eclipse  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** Ironspring Ventures, SVB, Eclipse  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 8:30am–10:00am ET
-**Where:** 11 W 42nd St, New York, NY 10036 · Midtown
-**Going:** 368 of 372
+**Where:** Midtown
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ot8041Lhdg9cEm9rludb
-**Map:** https://www.google.com/maps/search/?api=1&query=11%20W%2042nd%20St%2C%20New%20York%2C%20NY%2010036
 
 ### Hosts on Partiful
 
@@ -47,6 +40,7 @@ canceled: false
 - [Kaitlyn G;ancy](https://partiful.com/u/nYJ4o3ffx1grwiWAz893sjU4rNf2)
 - [Natan Reddy](https://partiful.com/u/ylqSqX2N7pbn8zWVDoBD8lUpnEB3)
 - [`LXf6Ii7TYMYMM0sCKXU5CoG0grB2`](https://partiful.com/u/LXf6Ii7TYMYMM0sCKXU5CoG0grB2)
+- [Ash Bhatia](https://partiful.com/u/fXaqkUKXEHhoRd1Ot8YCviZdTIn1)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -60,10 +54,6 @@ Featured Speakers:
 -Saleh ElHattab, Founder & CEO, Gravity
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

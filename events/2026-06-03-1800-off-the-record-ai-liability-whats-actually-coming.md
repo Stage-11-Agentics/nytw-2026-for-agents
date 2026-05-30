@@ -11,19 +11,18 @@ host: "XL AI"
 neighborhood: "East Village"
 rsvp_url: "https://partiful.com/e/S6Qa7oltBDN0RiFeWCP6"
 public_short_url: "https://go.partiful.com/YUHuVxEr"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F4r1CIfaQQQPa4kMHUpZpu2Kyl2k2%2F9LSwsTVGIyYJK0FhP4rUF"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F4r1CIfaQQQPa4kMHUpZpu2Kyl2k2%2F9LSwsTVGIyYJK0FhP4rUF?alt=media&token=a4134044-e993-405d-aea4-4c88b19ce42f"
 visibility: "public"
 at_capacity: false
-going_guest_count: 64
+going_guest_count: 92
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["4r1CIfaQQQPa4kMHUpZpu2Kyl2k2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 70
+canceled: false
 approved_guest_count: 0
 local_image: "images/S6Qa7oltBDN0RiFeWCP6.png"
-canceled: false
 ---
 
 # Off the Record: AI, Liability & What’s Actually Coming ⚖️
@@ -33,7 +32,7 @@ canceled: false
 **Hosts:** XL AI  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
 **Where:** East Village
-**Going:** 64 of 70
+**Going:** 92
 **RSVP:** https://partiful.com/e/S6Qa7oltBDN0RiFeWCP6
 
 ### Hosts on Partiful
@@ -78,10 +77,6 @@ If you should be in this room—you already know.
 —
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

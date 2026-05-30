@@ -11,30 +11,28 @@ neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/rHJGm9ykUTSOWQawYe68"
 public_short_url: "https://go.partiful.com/V06Q8bUz"
 google_maps: "https://www.google.com/maps/search/?api=1&query=134%20W%2029th%20St%2C%20New%20York%2C%20NY%2010001"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FQuyy2nPi8mQiOXNmUfIpmKnAO4g1%2FiSxACEuVmmvyWEHkRkdoO"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FQuyy2nPi8mQiOXNmUfIpmKnAO4g1%2FiSxACEuVmmvyWEHkRkdoO?alt=media&token=376cd2ed-f100-4f34-be34-4c263ddc2ab6"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 76
 badges: []
 fetch_status: ok
-owner_count: 2
-owner_ids: ["Quyy2nPi8mQiOXNmUfIpmKnAO4g1", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 1
+owner_ids: ["Quyy2nPi8mQiOXNmUfIpmKnAO4g1"]
 is_capped: false
-total_guest_count: 76
-approved_guest_count: 62
-local_image: "images/rHJGm9ykUTSOWQawYe68.png"
 canceled: false
+approved_guest_count: 84
+local_image: "images/rHJGm9ykUTSOWQawYe68.png"
 ---
 
 # The convo the workplace is too polite to have
 
 ![The convo the workplace is too polite to have](images/rHJGm9ykUTSOWQawYe68.png)
 
-**Hosts:** Pinkmatter  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Pinkmatter
 **When:** Wednesday, June 3, 2026 · 6:00pm ET
 **Where:** 134 W 29th St, New York, NY 10001 · Flatiron
-**Going:** 76
+**Going:** 84
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/rHJGm9ykUTSOWQawYe68
 **Map:** https://www.google.com/maps/search/?api=1&query=134%20W%2029th%20St%2C%20New%20York%2C%20NY%2010001
@@ -42,7 +40,6 @@ canceled: false
 ### Hosts on Partiful
 
 - [Roma Vishwanath-Deutsch](https://partiful.com/u/Quyy2nPi8mQiOXNmUfIpmKnAO4g1)
-- _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
 ## Description
@@ -60,7 +57,7 @@ This is not a wellness panel. It is a business, science, and human conversation 
 PANELISTS:
 — Roma, Founder & CEO, Pinkmatter — biotech scientist, PMDD advocate, and builder of the first gut microbiome based platform for PMS and PMDD
 — Kyrie Roger’s, AI Tech Founder — bringing the lived experience and consumer perspective in a fast-paced work envonment
-— OBGYN (TBD) — practising physician and Pinkmatter practitioner partner, bringing the clinical lens on how PMS and PMDD are (and aren't) being addressed in practice
+— Dr. Sanya Anand — practising physician and Pinkmatter practitioner partner, bringing the clinical lens on how PMS and PMDD are (and aren't) being addressed in practice
 
 FORMAT: Panel discussion followed by Q&A and networking reception
 DURATION: 90 minutes
@@ -73,10 +70,6 @@ WHY THIS EVENT FOR TECH WEEK:
 The economic cost of untreated PMS and PMDD is measurable, significant, and almost entirely absent from the workplace conversation. As women's health becomes one of the fastest-growing investment categories in tech, this panel puts the science, the founder building solutions, and the clinical expertise in the same room as the investors and operators who can accelerate change. The performance tax framing makes this a business conversation as much as a health one, and that's exactly what Tech Week audiences are here for.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

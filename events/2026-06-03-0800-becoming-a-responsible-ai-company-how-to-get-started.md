@@ -15,16 +15,15 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 36
+going_guest_count: 104
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["Fbka6bNQsZgFTcnsK5EIRRUVfb72", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 38
+canceled: false
 approved_guest_count: 0
 local_image: "images/pR2diUa7uD7hgdkPhiij.png"
-canceled: false
 ---
 
 # Becoming a Responsible AI Company: How to get started
@@ -34,7 +33,7 @@ canceled: false
 **Hosts:** The Ethical Tech Project  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 8:00am ET
 **Where:** 166 Mercer St, New York, NY 10012 · Flatiron
-**Going:** 36 of 38
+**Going:** 104
 **RSVP:** https://partiful.com/e/pR2diUa7uD7hgdkPhiij
 **Map:** https://www.google.com/maps/search/?api=1&query=166%20Mercer%20St%2C%20New%20York%2C%20NY%2010012
 
@@ -51,10 +50,6 @@ Join the Ethical Tech Project for an interactive workshop that will help you get
 Doors open at 8am for coffee, with our program starting at 8:15am.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

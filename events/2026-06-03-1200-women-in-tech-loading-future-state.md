@@ -13,32 +13,28 @@ neighborhood: "Meatpacking District"
 rsvp_url: "https://partiful.com/e/xVRyFu1BuIaK3LIz6eyb"
 public_short_url: "https://go.partiful.com/a663ea4c"
 google_maps: "https://www.google.com/maps/search/?api=1&query=622%20Third%20Ave%2C%20New%20York%2C%20NY%2010016"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FSrnXjlGRiFZsoOh4FiiNw8nbqKS2%2FxoO1e3eXvge2Zhf8GCev_"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FSrnXjlGRiFZsoOh4FiiNw8nbqKS2%2FxoO1e3eXvge2Zhf8GCev_?alt=media&token=4f637ee2-7e54-4874-9250-6471f257921c"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 114
 badges: []
 fetch_status: ok
-owner_count: 5
-owner_ids: ["SrnXjlGRiFZsoOh4FiiNw8nbqKS2", "7DFu4rITofNzKIjA7hCx", "nx4NHlAkTMeyShRsrJZ0xlxrrZv1", "1NtctVktfINAcunTRNGM5MULRGc2", "n4se7YjWL9fbhhRiysrM"]
+owner_count: 7
+owner_ids: ["SrnXjlGRiFZsoOh4FiiNw8nbqKS2", "7DFu4rITofNzKIjA7hCx", "nx4NHlAkTMeyShRsrJZ0xlxrrZv1", "1NtctVktfINAcunTRNGM5MULRGc2", "n4se7YjWL9fbhhRiysrM", "8isqVHHnEYTw9MfHf9bqxbckjwT2", "uNtEd06VF0Mld2qLlu4VHGm00oo1"]
 is_capped: true
 max_capacity: 600
-remaining_capacity: 503
-total_guest_count: 120
-approved_guest_count: 97
-local_image: "images/xVRyFu1BuIaK3LIz6eyb.png"
 canceled: false
+local_image: "images/xVRyFu1BuIaK3LIz6eyb.png"
 ---
 
 # Women In Tech-Loading Future State
 
 ![Women In Tech-Loading Future State](images/xVRyFu1BuIaK3LIz6eyb.png)
 
-**Hosts:** zant app, Space of Mind  _(+3 more host(s) on Partiful — see description for full list)_
+**Hosts:** zant app, Space of Mind  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 12:00pm–5:00pm ET
 **Where:** 622 Third Ave, New York, NY 10016 · Meatpacking District
-**Capacity:** capped at 600 · 97 taken, 503 remaining
+**Capacity:** capped at 600
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/xVRyFu1BuIaK3LIz6eyb
 **Map:** https://www.google.com/maps/search/?api=1&query=622%20Third%20Ave%2C%20New%20York%2C%20NY%2010016
@@ -49,6 +45,8 @@ canceled: false
 - [Karolina Komarnicka](https://partiful.com/u/nx4NHlAkTMeyShRsrJZ0xlxrrZv1) — _CEO @ Space of mind_
 - [Jay Desai](https://partiful.com/u/1NtctVktfINAcunTRNGM5MULRGc2)
 - [The Fourth Effect](https://partiful.com/u/n4se7YjWL9fbhhRiysrM) — _Connecting startups with game-changing advisors and investors for board-driven growth._
+- [Caroline Dell](https://partiful.com/u/8isqVHHnEYTw9MfHf9bqxbckjwT2) — _Co-Founder & CEO, Goodword (goodword.com)_
+- [Jennifer Abele](https://partiful.com/u/uNtEd06VF0Mld2qLlu4VHGm00oo1)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -68,14 +66,32 @@ Experience on-stage conversations and interviews with the women who already clos
 
 You've been preparing, planning, almost ready.
 
-Let's unlock her together.
+Let's unlock her together. 
+
+We are SO excited for our incredible speakers:
+
+Suneera Madhani https://www.linkedin.com/in/suneeramadhani/ 
+Alisha Pennington https://www.linkedin.com/in/alisha-m-pennington/ 
+Courtney Spritzer https://www.linkedin.com/in/courtneyspritzer/
+Kaila Lim https://www.linkedin.com/in/kailalim/
+Cris Gordon https://www.linkedin.com/in/cris-gordon-31303140/
+Ariana J. Tadler https://www.linkedin.com/in/arianatadler/ 
+Jennifer Abele https://www.linkedin.com/in/jennifer-abele-vc414/
+Vera Anderson https://www.linkedin.com/in/veraanderson-legacy/
+Raquel Filmanowicz https://www.linkedin.com/in/raquel-filmanowicz-b252085/
+Caroline Dell https://www.linkedin.com/in/caroline-dell/
+Erika Aquino https://www.linkedin.com/in/erika-aquino/ 
+Breen Sullivan https://www.linkedin.com/in/breensullivan/ 
+Meghan Houle https://www.linkedin.com/in/meghanhoule/ 
+Allie Friesen https://www.linkedin.com/in/allie-friesen/ 
+Mariam Khayretdinova https://www.linkedin.com/in/mkhayretdinova/ 
+Ruchi Pinniger https://www.linkedin.com/in/ruchipinniger/ 
+Samantha Maestro https://www.linkedin.com/in/samantha-maestro-1a0465263/
+Ella Moloney Cook https://www.linkedin.com/in/ellamolonycook/
+
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

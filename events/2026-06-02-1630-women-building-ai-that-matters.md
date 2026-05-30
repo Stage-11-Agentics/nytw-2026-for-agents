@@ -14,20 +14,19 @@ neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/D07x2JMguAYHV1tdU6Jm"
 public_short_url: "https://go.partiful.com/1p8vwY1d"
 google_maps: "https://www.google.com/maps/search/?api=1&query=30%20W%2018th%20St%2C%20New%20York%2C%20NY%2010011"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FLbNEPKqWoJMKXakRvTnIUDKnvFl1%2FT1WYtTd9F5BV7YY4KGKQ_"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FLbNEPKqWoJMKXakRvTnIUDKnvFl1%2FT1WYtTd9F5BV7YY4KGKQ_?alt=media&token=ee60df07-28dd-4be2-a34b-052ff1ce2a81"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 12
+going_guest_count: 78
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["LbNEPKqWoJMKXakRvTnIUDKnvFl1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 16
+canceled: false
 approved_guest_count: 0
 local_image: "images/D07x2JMguAYHV1tdU6Jm.png"
-canceled: false
 ---
 
 # Women Building AI That Matters
@@ -37,7 +36,7 @@ canceled: false
 **Hosts:** Opsera, ProgramEarth, AWS
 **When:** Tuesday, June 2, 2026 · 4:30pm–7:30pm ET
 **Where:** Little Maven · 30 W 18th St, New York, NY 10011 · Flatiron
-**Going:** 12 of 16
+**Going:** 78
 **RSVP:** https://partiful.com/e/D07x2JMguAYHV1tdU6Jm
 **Map:** https://www.google.com/maps/search/?api=1&query=30%20W%2018th%20St%2C%20New%20York%2C%20NY%2010011
 
@@ -58,10 +57,6 @@ Co-hosted by Opsera (the enterprise agentic DevOps platform), ProgramEarth (the 
 Come to connect. Stay for the conversation.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

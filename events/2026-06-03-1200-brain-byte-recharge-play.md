@@ -9,20 +9,19 @@ host: "Soma Precision Health"
 neighborhood: "Union Square"
 rsvp_url: "https://partiful.com/e/TgZIFYugqAIWQXnBovpk"
 public_short_url: "https://go.partiful.com/ZZ4MGKsX"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FHAez9C0PJ6SYn09M7op2%2FTDqjyvoNvUQ9erJsZ2nSE"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FHAez9C0PJ6SYn09M7op2%2FTDqjyvoNvUQ9erJsZ2nSE?alt=media&token=7ec395f9-a597-498c-afe4-dc16935e7e16"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 30
+going_guest_count: 67
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["HAez9C0PJ6SYn09M7op2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 39
+canceled: false
 approved_guest_count: 0
 local_image: "images/TgZIFYugqAIWQXnBovpk.png"
-canceled: false
 ---
 
 # Brain Byte: Recharge & Play
@@ -32,7 +31,7 @@ canceled: false
 **Hosts:** Soma Precision Health  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 12:00pm ET
 **Where:** Union Square
-**Going:** 30 of 39
+**Going:** 67
 **RSVP:** https://partiful.com/e/TgZIFYugqAIWQXnBovpk
 
 ### Hosts on Partiful
@@ -50,10 +49,6 @@ The Soma team is popping up in the middle of Tech Week with brain food, quick br
 No agenda. Just a moment to breathe, play, and connect before the next thing.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

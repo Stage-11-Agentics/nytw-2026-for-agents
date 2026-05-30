@@ -12,20 +12,18 @@ neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/8r8Hg42X0rnZ9g0GAyTB"
 public_short_url: "https://go.partiful.com/Tn3RB75d"
 google_maps: "https://www.google.com/maps/search/?api=1&query=225%20West%20St%2C%20New%20York%2C%20NY%2010013"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FFuidhGfmb7aBegxIPOqqBQxSCHm2%2FSIpGUjEs4NjrHDMdZ2y68"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FFuidhGfmb7aBegxIPOqqBQxSCHm2%2FSIpGUjEs4NjrHDMdZ2y68?alt=media&token=3c063741-3d46-499b-b544-5a0353ea85c5"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 109
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["mvyYu31KfGg1XBftIfuMRP31Gko2", "FuidhGfmb7aBegxIPOqqBQxSCHm2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 112
-approved_guest_count: 65
-local_image: "images/8r8Hg42X0rnZ9g0GAyTB.png"
 canceled: false
+approved_guest_count: 106
+local_image: "images/8r8Hg42X0rnZ9g0GAyTB.png"
 ---
 
 # The Fittest People in Tech.
@@ -35,7 +33,7 @@ canceled: false
 **Hosts:** Thatch, WHOOP  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 10:00am ET
 **Where:** Pier 25 · 225 West St, New York, NY 10013 · Chelsea
-**Going:** 109 of 112
+**Going:** 106
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/8r8Hg42X0rnZ9g0GAyTB
 **Map:** https://www.google.com/maps/search/?api=1&query=225%20West%20St%2C%20New%20York%2C%20NY%2010013
@@ -72,10 +70,6 @@ C YA ON WSH!
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 WHOOP is involved in this event through the Massachusetts AI Coalition.
-
-
-
-
 
 
 

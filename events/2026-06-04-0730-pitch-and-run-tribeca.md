@@ -9,30 +9,29 @@ host: "Pitch and Run"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/OhM7wZlivF4xJHlW5LRs"
 public_short_url: "https://go.partiful.com/Qe62CYx6"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2Fxzvn0sbT5jTcOgtlWgfIPpkeCQA3%2FZeOZggL0CTXc_cK6VovCa"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2Fxzvn0sbT5jTcOgtlWgfIPpkeCQA3%2FZeOZggL0CTXc_cK6VovCa?alt=media&token=cf46bc37-0fbe-46ae-859a-cb902e4d36ef"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 53
+going_guest_count: 81
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["xzvn0sbT5jTcOgtlWgfIPpkeCQA3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 55
+canceled: false
 approved_guest_count: 0
 image_download_error: "HTTP Error 403: Forbidden"
-canceled: false
 ---
 
 # Pitch and Run Tribeca
 
-![Pitch and Run Tribeca](https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2Fxzvn0sbT5jTcOgtlWgfIPpkeCQA3%2FZeOZggL0CTXc_cK6VovCa)
+![Pitch and Run Tribeca](https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2Fxzvn0sbT5jTcOgtlWgfIPpkeCQA3%2FZeOZggL0CTXc_cK6VovCa?alt=media&token=cf46bc37-0fbe-46ae-859a-cb902e4d36ef)
 
 **Hosts:** Pitch and Run  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 7:30am ET
 **Where:** Financial District
-**Going:** 53 of 55
+**Going:** 81
 **RSVP:** https://partiful.com/e/OhM7wZlivF4xJHlW5LRs
 
 ### Hosts on Partiful
@@ -54,10 +53,6 @@ Route https://www.strava.com/routes/3213205617339336616
 Coffee after
 
 Pitch and Run was founded to make it easy for founders to connect with Angels and VCs without the pressure of a pitch meeting and to allow founders and startup employees to connect. Many companies have raised their round, found customers, and met their co-founders, and even found jobs from connections made at Pitch and Run
-
-
-
-
 
 
 

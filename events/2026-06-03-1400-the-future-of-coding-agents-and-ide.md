@@ -17,26 +17,24 @@ image: "https://assets.getpartiful.com/posters/networking_hands"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 42
 badges: []
 fetch_status: ok
-owner_count: 2
-owner_ids: ["QLMs288XiZ1BOo6JjnNr", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 3
+owner_ids: ["QLMs288XiZ1BOo6JjnNr", "7DFu4rITofNzKIjA7hCx", "uCNmqSbALj3K8ZztqFtd"]
 is_capped: false
-total_guest_count: 42
-approved_guest_count: 41
-local_image: "images/1N6CtiCpYquktoTh5NUm.png"
 canceled: false
+approved_guest_count: 66
+local_image: "images/1N6CtiCpYquktoTh5NUm.png"
 ---
 
 # The Future of Coding Agents and IDE
 
 ![The Future of Coding Agents and IDE](images/1N6CtiCpYquktoTh5NUm.png)
 
-**Hosts:** Generative IDE, Perkins Coie
+**Hosts:** Generative IDE, Perkins Coie  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 2:00pm–3:00pm ET
 **Where:** 1155 6th Ave, New York, NY 10036 · Midtown
-**Going:** 42
+**Going:** 66
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/1N6CtiCpYquktoTh5NUm
 **Map:** https://www.google.com/maps/search/?api=1&query=1155%206th%20Ave%2C%20New%20York%2C%20NY%2010036
@@ -44,6 +42,7 @@ canceled: false
 ### Hosts on Partiful
 
 - [GenerativeIDE](https://partiful.com/u/QLMs288XiZ1BOo6JjnNr) — _An Offline Ai Code Editor_
+- [Perkins Coie](https://partiful.com/u/uCNmqSbALj3K8ZztqFtd)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -60,10 +59,6 @@ Whether you’re building, investing, or exploring new technical platforms, this
 Space is limited, and advance registration is required.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

@@ -11,20 +11,19 @@ host: "Cloudonix, Inc"
 neighborhood: "Virtual (NYC)"
 rsvp_url: "https://partiful.com/e/EujnL6UKFFK3xvPiVUyp"
 public_short_url: "https://go.partiful.com/gzhZ2l4Y"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FLcZD2hHcN8bugyJLSW7lnXD2N4k1%2FnrrHSWeKchgjzHehncfVW"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FLcZD2hHcN8bugyJLSW7lnXD2N4k1%2FnrrHSWeKchgjzHehncfVW?alt=media&token=d0d1db5c-6342-462f-ab7c-3202bcfa96d4"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 52
+going_guest_count: 96
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["LcZD2hHcN8bugyJLSW7lnXD2N4k1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 55
+canceled: false
 approved_guest_count: 0
 local_image: "images/EujnL6UKFFK3xvPiVUyp.png"
-canceled: false
 ---
 
 # Agentic Voice AMA
@@ -34,7 +33,7 @@ canceled: false
 **Hosts:** Cloudonix, Inc
 **When:** Tuesday, June 2, 2026 · 3:30pm–5:30pm ET
 **Where:** Virtual (NYC)
-**Going:** 52 of 55
+**Going:** 96
 **RSVP:** https://partiful.com/e/EujnL6UKFFK3xvPiVUyp
 
 ### Hosts on Partiful
@@ -53,10 +52,6 @@ Each session will be made of two 60 minutes parts:
 - Part II: This is when the gloves come down and participants are welcome to chime in on anything related to AI Voice. Issues, challenges, use-cases, war stories, anything is acceptable here. This is an "open-mic" session, where everybody is welcome. (This part will be recorded, but not published in-full)
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

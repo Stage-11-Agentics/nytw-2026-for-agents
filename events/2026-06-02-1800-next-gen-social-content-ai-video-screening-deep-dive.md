@@ -16,16 +16,14 @@ image: "https://assets.getpartiful.com/posters/Let's%20Party"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 16
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["oQNQGOhwfqh5rjyTzjIu3mOhTUH2", "7DFu4rITofNzKIjA7hCx", "25NP48nC2odwDFGkK4EITbqfLCu2"]
 is_capped: false
-total_guest_count: 21
+canceled: false
 approved_guest_count: 0
 local_image: "images/lEuafK4T1kCkkgdRotjO.jpg"
-canceled: false
 ---
 
 # Next-Gen Social Content: AI Video Screening & Deep Dive
@@ -35,7 +33,6 @@ canceled: false
 **Hosts:** MartiniArt  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm ET
 **Where:** New York, NY · New York, NY · Midtown
-**Going:** 16 of 21
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/lEuafK4T1kCkkgdRotjO
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -82,10 +79,6 @@ A deep dive into social media content creation, featuring insights from creative
 Connect with the StoryFlow AI team, discuss the screening, and brainstorm your next project over drinks.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

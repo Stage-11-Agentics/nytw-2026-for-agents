@@ -12,19 +12,16 @@ neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/s4Oj5daPuG8kw5MqKOQV"
 public_short_url: "https://go.partiful.com/Basl013v"
 google_maps: "https://www.google.com/maps/search/?api=1&query=West%20Side%20between%2066th%20and%2069th%2C%20New%20York%2C%20NY%2010028"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FwB0oJArafVWdqdNFXKzPjK66UoU2%2FiZHo_MF72oXWZg16Y6koP"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FwB0oJArafVWdqdNFXKzPjK66UoU2%2FiZHo_MF72oXWZg16Y6koP?alt=media&token=c18ac436-dc8a-4bcd-bf46-a84bd26db9fe"
 visibility: "public"
 at_capacity: false
-going_guest_count: 54
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["wB0oJArafVWdqdNFXKzPjK66UoU2", "7DFu4rITofNzKIjA7hCx", "JXX1r5fduWMZgNOAGyFFoqF1CY42"]
 is_capped: false
-total_guest_count: 631
-approved_guest_count: 0
-local_image: "images/s4Oj5daPuG8kw5MqKOQV.png"
 canceled: false
+local_image: "images/s4Oj5daPuG8kw5MqKOQV.png"
 ---
 
 # Build Anywhere, Scale Everywhere: Global Founders Walk
@@ -34,7 +31,6 @@ canceled: false
 **Hosts:** Afro Adventurer, christineolukere@gmail.com  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:30pm ET
 **Where:** Sheep Meadow · West Side between 66th and 69th, New York, NY 10028 · SoHo
-**Going:** 54 of 631
 **RSVP:** https://partiful.com/e/s4Oj5daPuG8kw5MqKOQV
 **Map:** https://www.google.com/maps/search/?api=1&query=West%20Side%20between%2066th%20and%2069th%2C%20New%20York%2C%20NY%2010028
 
@@ -85,10 +81,6 @@ Come as you are. Scale from anywhere. Belong everywhere.
  Join more global builders like you at : https://forms.gle/vfi7poynFQjLWWgHA and follow our adventurers with 1300+ Career Adventurers on LinkedIn: https://www.linkedin.com/company/afroadventurer
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

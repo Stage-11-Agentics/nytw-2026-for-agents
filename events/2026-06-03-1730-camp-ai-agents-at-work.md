@@ -7,37 +7,33 @@ start_time: "5:30pm ET"
 end_time: "8:30pm ET"
 start_iso: "2026-06-03T21:30:00.000Z"
 end_iso: "2026-06-04T00:30:00.000Z"
-host: "Intercom / Fin, Auth0, Datadog"
+host: "Auth0, Intercom / Fin, Datadog"
 venue_name: "Datadog - Headquarters"
 venue_address: "620 Eighth Ave, FL 45, New York, NY 10018"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/Fp5STyPH0McEt0awlWFD"
 public_short_url: "https://go.partiful.com/AiWHn4GG"
 google_maps: "https://www.google.com/maps/search/?api=1&query=620%20Eighth%20Ave%2C%20FL%2045%2C%20New%20York%2C%20NY%2010018"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FTqvUtaFCqrSA0ISZJyDJLlHF8mp2%2FPcRfWq4iAAUpnQW_iu6KS"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FTqvUtaFCqrSA0ISZJyDJLlHF8mp2%2FRZZaAO1z5TKVZxsXkGuD2?alt=media&token=18aac1f7-7321-428d-8583-6f6eef4053c4"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 395
-badges: ["Sponsored", "Evening"]
+badges: []
 fetch_status: ok
-owner_count: 7
-owner_ids: ["TqvUtaFCqrSA0ISZJyDJLlHF8mp2", "U6t6HwkiQAfeLxu40xK0x7tvpm13", "6Eb42vlLtGTZxY99I64thaNqYU82", "Q4qtVofiEsNcr17eZSm75GPMObB3", "Qh6aQBcEyegnGFVaOfNi", "lh1FHwj2D2NuLQYo3gfSqL7hrwz1", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 8
+owner_ids: ["TqvUtaFCqrSA0ISZJyDJLlHF8mp2", "U6t6HwkiQAfeLxu40xK0x7tvpm13", "6Eb42vlLtGTZxY99I64thaNqYU82", "Q4qtVofiEsNcr17eZSm75GPMObB3", "Qh6aQBcEyegnGFVaOfNi", "lh1FHwj2D2NuLQYo3gfSqL7hrwz1", "7DFu4rITofNzKIjA7hCx", "jL0tDNTxYAg3Jg1rXJa8aljpYzy2"]
 is_capped: false
-total_guest_count: 399
-approved_guest_count: 298
-local_image: "images/Fp5STyPH0McEt0awlWFD.png"
 canceled: false
+local_image: "images/Fp5STyPH0McEt0awlWFD.png"
 ---
 
 # Camp AI: Agents at Work
 
 ![Camp AI: Agents at Work](images/Fp5STyPH0McEt0awlWFD.png)
 
-**Hosts:** Intercom / Fin, Auth0, Datadog  _(+4 more host(s) on Partiful — see description for full list)_
+**Hosts:** Auth0, Intercom / Fin, Datadog  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:30pm–8:30pm ET
 **Where:** Datadog - Headquarters · 620 Eighth Ave, FL 45, New York, NY 10018 · Midtown
-**Going:** 395 of 399
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Fp5STyPH0McEt0awlWFD
 **Map:** https://www.google.com/maps/search/?api=1&query=620%20Eighth%20Ave%2C%20FL%2045%2C%20New%20York%2C%20NY%2010018
@@ -50,6 +46,7 @@ canceled: false
 - [Yashih Wu](https://partiful.com/u/Q4qtVofiEsNcr17eZSm75GPMObB3)
 - [Datadog](https://partiful.com/u/Qh6aQBcEyegnGFVaOfNi)
 - [Terri Kim](https://partiful.com/u/lh1FHwj2D2NuLQYo3gfSqL7hrwz1)
+- [Jessica Quick](https://partiful.com/u/jL0tDNTxYAg3Jg1rXJa8aljpYzy2)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -63,32 +60,25 @@ canceled: false
 
 ​​What to expect:
 > 5:30 pm - 6:00 pm Dinner & Networking
+
 > 6:00 pm - 6:40 pm Welcome & Demos
 --> Sang Lee: Founder and CEO @ Vibranium
+--> Tanmay Singh: Software Engineer @ Fern
+--> Joey Pinhas: Sr. Software Engineer @ Datadog
+--> George Lawrence: Co-Founder & CEO @ Channel3
+
 > 6:40 pm - 7:20 pm Agents at Work Panel
 --> Shreya Gupta: Sr. Developer Advocate @ Auth0
 --> Sesh Nalla: VP of Engineering @ Datadog
+--> Austin Nick Piel: Engineering @ Cursor
 --> Mark Benussi: Director, Solutions Architecture @ Fin
---> James Quick: Developer Educator @ Cloudflare
+--> James Q. Quick: Developer Educator @ Cloudflare
+
 > 7:20 pm - 8:30 pm Closing & Networking
 
-​​Save your spot; space is limited. Here's what you missed last time.
+​​Save your spot; space is limited. 
 
 ​​See you on the road - stay tuned for where we're headed next 👀
-
-***
-
-​​​Photography Disclaimer: Please note that filming/photography is taking place at the event for promotional and archival purposes. These images will be used by Auth0 to share news about the event and may appear on the hosts website or social media. If you have any questions please contact us at any time.
-
-Your personal information is collected by Auth0 (Okta, Inc.) for event administration. For details on how we handle your data, see the Okta Privacy Policy. For questions, contact privacy@okta.com.​
-
-​Guests must be 21+ to attend.
-
-This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

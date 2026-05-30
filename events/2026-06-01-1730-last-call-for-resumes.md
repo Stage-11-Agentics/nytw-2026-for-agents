@@ -13,18 +13,16 @@ image: "https://media1.giphy.com/media/lSVL6vdhdZVPW/giphy.gif?cid=c00e53c6jr90m
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: true
-going_guest_count: 179
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["6ZIOv6O9VVcdXWOxoS0N0qGs86m2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 60
-remaining_capacity: -56
-total_guest_count: 184
-approved_guest_count: 116
-local_image: "images/t0O0kfWCNoBezm5F5x75.gif"
+remaining_capacity: -125
 canceled: false
+approved_guest_count: 185
+local_image: "images/t0O0kfWCNoBezm5F5x75.gif"
 ---
 
 # Last Call for Resumes
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** VCAR  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 5:30pm ET
 **Where:** Brooklyn
-**Capacity:** capped at 60 · 116 taken, -56 remaining
+**Capacity:** capped at 60 · 185 taken, -125 remaining
 **Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/t0O0kfWCNoBezm5F5x75
@@ -48,6 +46,14 @@ canceled: false
 ## Description
 
 The resume revolution will not be televised but it will have Pizza. 
+
+*** Important Update ****
+
+Update - this session will be held twice.  One June 1st and the other on June 8th.  Note the 6/1 session has a waitlist but the 6/8 session does not.  So If you can attend the session at 8:00pm, on 6/8, please register for that one.  Here is the link. 
+
+Thank You!
+
+Link to Register for June 8th Session at 8:00PM https://partiful.com/e/h1QGqhnVV9cYJomJ2AHB
 
 Resumes are so 1900s!  So join us for a pizza launch party where we kickoff what we believe will be the future method of hiring. 
 
@@ -75,10 +81,6 @@ To get the most out of this event (the Networking part) if you are a hiring mana
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 *Please allow 12-72 hours for approval.
-
-
-
-
 
 
 

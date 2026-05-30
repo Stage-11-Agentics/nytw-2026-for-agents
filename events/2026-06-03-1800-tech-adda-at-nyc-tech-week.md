@@ -13,21 +13,20 @@ neighborhood: "Queens"
 rsvp_url: "https://partiful.com/e/OhUsbOxXZolx8sPIhXZy"
 public_short_url: "https://go.partiful.com/oRj1I2A3"
 google_maps: "https://www.google.com/maps/search/?api=1&query=74-09%2037th%20Ave%2C%20Jackson%20Heights%2C%20NY%2011372"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FAqdI0BESIwa13BUzF6kAmyQJ1bW2%2FwYZPVWTibEVQ66Wynzo60"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FAqdI0BESIwa13BUzF6kAmyQJ1bW2%2FwYZPVWTibEVQ66Wynzo60?alt=media&token=a421aabc-d230-4e2d-a271-e639387baddd"
 visibility: "public"
 at_capacity: false
-going_guest_count: 38
+going_guest_count: 57
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["AqdI0BESIwa13BUzF6kAmyQJ1bW2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 50
-remaining_capacity: 11
-total_guest_count: 45
+max_capacity: 70
+remaining_capacity: 13
+canceled: false
 approved_guest_count: 0
 local_image: "images/OhUsbOxXZolx8sPIhXZy.png"
-canceled: false
 ---
 
 # Tech Adda at NYC Tech Week
@@ -37,7 +36,7 @@ canceled: false
 **Hosts:** SJ Innovation  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–7:30pm ET
 **Where:** 74-09 37th Ave, Jackson Heights, NY 11372 · Queens
-**Capacity:** capped at 50 · 39 taken, 11 remaining
+**Capacity:** capped at 70 · 57 taken, 13 remaining
 **RSVP:** https://partiful.com/e/OhUsbOxXZolx8sPIhXZy
 **Map:** https://www.google.com/maps/search/?api=1&query=74-09%2037th%20Ave%2C%20Jackson%20Heights%2C%20NY%2011372
 
@@ -58,10 +57,6 @@ Whether you’re a founder, operator, creative, or just curious about building, 
 Expect live guidance, practical examples, and a clear look at how to go from concept to working product faster than ever. Come meet other builders, learn something useful, and see what is actually possible with modern AI tools.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

@@ -8,25 +8,21 @@ end_time: "10:00pm ET"
 start_iso: "2026-06-05T23:00:00.000Z"
 end_iso: "2026-06-06T02:00:00.000Z"
 host: "Measured HRIS , Inc"
-venue_name: "The Ragtrader"
-venue_address: "70 W 36th St, New York, NY 10018"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/0UXV0ocPHY8mMNweUPgR"
 public_short_url: "https://go.partiful.com/0fJVyz6q"
-google_maps: "https://www.google.com/maps/search/?api=1&query=70%20W%2036th%20St%2C%20New%20York%2C%20NY%2010018"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FS0wihPEUJHUlypiiFC6DlVeUxDg1%2FDE8TODTqLDyz3juLUsgRE"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FS0wihPEUJHUlypiiFC6DlVeUxDg1%2FDE8TODTqLDyz3juLUsgRE?alt=media&token=493b29fd-388e-4f98-ab9c-4fafd13b9746"
 visibility: "public"
 at_capacity: false
-going_guest_count: 27
+going_guest_count: 40
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["S0wihPEUJHUlypiiFC6DlVeUxDg1", "VhzYMNJ0mJS6TBtwKWkBi5gY9kh1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 48
+canceled: false
 approved_guest_count: 0
 local_image: "images/0UXV0ocPHY8mMNweUPgR.png"
-canceled: false
 ---
 
 # Measured HRIS X Tech Week
@@ -35,10 +31,9 @@ canceled: false
 
 **Hosts:** Measured HRIS , Inc  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 7:00pm–10:00pm ET
-**Where:** The Ragtrader · 70 W 36th St, New York, NY 10018 · Midtown
-**Going:** 27 of 48
+**Where:** Midtown
+**Going:** 40
 **RSVP:** https://partiful.com/e/0UXV0ocPHY8mMNweUPgR
-**Map:** https://www.google.com/maps/search/?api=1&query=70%20W%2036th%20St%2C%20New%20York%2C%20NY%2010018
 
 ### Hosts on Partiful
 
@@ -70,10 +65,6 @@ Come see how we are replacing manual workarounds with operational excellence.
 Space is limited. Join us to connect with the founders and executives shaping the future of how we build for the people who feed our cities.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

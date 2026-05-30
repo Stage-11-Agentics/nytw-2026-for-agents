@@ -11,21 +11,20 @@ host: "darshana.ai, Get on Board"
 neighborhood: "Virtual (NYC)"
 rsvp_url: "https://partiful.com/e/t00vYqgLgEg6ACA3C4R1"
 public_short_url: "https://go.partiful.com/qfglw7AG"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FxGMefUY3kTYerZENMpn2VCwaJpW2%2F0YkrmeNcGqAFezVOKqBJa"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FxGMefUY3kTYerZENMpn2VCwaJpW2%2F0YkrmeNcGqAFezVOKqBJa?alt=media&token=ae3e5af8-4302-4351-a484-335726e22368"
 visibility: "public"
 at_capacity: false
-going_guest_count: 121
+going_guest_count: 292
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["xGMefUY3kTYerZENMpn2VCwaJpW2", "7DFu4rITofNzKIjA7hCx", "wyZCICQpWYe3nXaf0SNSyHBqUut1", "j1svywHqqaZlROVL2fE5"]
 is_capped: true
-max_capacity: 200
-remaining_capacity: 75
-total_guest_count: 142
+max_capacity: 350
+remaining_capacity: 58
+canceled: false
 approved_guest_count: 0
 local_image: "images/t00vYqgLgEg6ACA3C4R1.jpg"
-canceled: false
 ---
 
 # How Do You Build a Borderless Tech Career in the AI Era?
@@ -37,7 +36,7 @@ Hosted by Darshana and Get on Board](images/t00vYqgLgEg6ACA3C4R1.jpg)
 **Hosts:** darshana.ai, Get on Board  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 8:00am–9:00am ET
 **Where:** Virtual (NYC)
-**Capacity:** capped at 200 · 125 taken, 75 remaining
+**Capacity:** capped at 350 · 292 taken, 58 remaining
 **RSVP:** https://partiful.com/e/t00vYqgLgEg6ACA3C4R1
 
 ### Hosts on Partiful
@@ -69,10 +68,6 @@ Topics include:
 Open discussion + live Q&A for students, professionals, founders, and anyone thinking beyond local career paths.
 
 This event is part of #NYTechWeek — a week of events hosted by VCs and startups bringing together the global tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

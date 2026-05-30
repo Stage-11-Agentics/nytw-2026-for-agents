@@ -11,22 +11,20 @@ host: "Wells Fargo, Onsen Global"
 neighborhood: "Hudson Yards"
 rsvp_url: "https://partiful.com/e/mlcBwsk8Wv96X3mzEOiM"
 public_short_url: "https://go.partiful.com/HTEeuaLv"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FMYrgiIPrxuOpv94qWHYTHFs76ZM2%2FkP6YRQrJHwkj-oHmWmDza"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FMYrgiIPrxuOpv94qWHYTHFs76ZM2%2FkP6YRQrJHwkj-oHmWmDza?alt=media&token=ffc64428-7c53-43c5-93f8-f0c48d1175b1"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 176
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["qQvcmvOr9ETL73i3a5qyFnOh5tr1", "vc4AAMwWCSb1JNqvxdDthbwBlCH2", "MYrgiIPrxuOpv94qWHYTHFs76ZM2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 90
-remaining_capacity: 29
-total_guest_count: 189
-approved_guest_count: 61
-local_image: "images/mlcBwsk8Wv96X3mzEOiM.png"
+max_capacity: 120
+remaining_capacity: -53
 canceled: false
+approved_guest_count: 173
+local_image: "images/mlcBwsk8Wv96X3mzEOiM.png"
 ---
 
 # AI VIPs:  Enterprise Edition
@@ -36,7 +34,8 @@ canceled: false
 **Hosts:** Wells Fargo, Onsen Global  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:30pm–7:30pm ET
 **Where:** Hudson Yards
-**Capacity:** capped at 90 · 61 taken, 29 remaining
+**Capacity:** capped at 120 · 173 taken, -53 remaining
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/mlcBwsk8Wv96X3mzEOiM
 
@@ -67,10 +66,6 @@ This event is designed for founders, operators, and investors interested in buil
 Apply to hold your spot and receive live updates.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -14,20 +14,18 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/zePyRMOZRTaWdpEgb28i"
 public_short_url: "https://go.partiful.com/1aLd6MUq"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F3htS4WjPQch4Qq6WMnH7ZiGJMr33%2Fr5BcvDjjuBvphdyHH8-d3"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F3htS4WjPQch4Qq6WMnH7ZiGJMr33%2Fr5BcvDjjuBvphdyHH8-d3?alt=media&token=c4281370-47bc-47f1-8e38-6f5bf34f7a29"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 163
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["3htS4WjPQch4Qq6WMnH7ZiGJMr33", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 168
-approved_guest_count: 130
-local_image: "images/zePyRMOZRTaWdpEgb28i.png"
 canceled: false
+approved_guest_count: 198
+local_image: "images/zePyRMOZRTaWdpEgb28i.png"
 ---
 
 # Lightning Talks from Women and Folks in Tech
@@ -37,7 +35,7 @@ canceled: false
 **Hosts:** Gusto  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–8:00pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 163 of 168
+**Going:** 198
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/zePyRMOZRTaWdpEgb28i
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -78,10 +76,6 @@ Gusto is excited to host community events at our SF and NYC offices, showcasing 
 ​​​Link will be sent out via email before the event
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

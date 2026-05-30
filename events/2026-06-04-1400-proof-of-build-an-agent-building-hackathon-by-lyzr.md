@@ -6,26 +6,21 @@ day: "Thursday"
 start_time: "2:00pm ET"
 start_iso: "2026-06-04T18:00:00.000Z"
 host: "Lyzr"
-venue_name: "New York, NY"
-venue_address: "New York, NY"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/w3EFGHHBj4EKAbmifC0I"
 public_short_url: "https://go.partiful.com/AV1wNYiK"
-google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FHYtKPsUbTaR5pm6pediBfFQgDCj2%2Fr0dlagUirfZF15xJ0Tbwb"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FHYtKPsUbTaR5pm6pediBfFQgDCj2%2Fr0dlagUirfZF15xJ0Tbwb?alt=media&token=3581a5c2-6302-4aff-83ae-dd2d45a133a1"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 111
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["HYtKPsUbTaR5pm6pediBfFQgDCj2", "7DFu4rITofNzKIjA7hCx", "spoH00tQRfhmhBmOJP05uFtemD92"]
 is_capped: false
-total_guest_count: 115
+canceled: false
 approved_guest_count: 0
 local_image: "images/w3EFGHHBj4EKAbmifC0I.png"
-canceled: false
 ---
 
 # Proof of Build -An agent building hackathon by Lyzr
@@ -34,11 +29,9 @@ canceled: false
 
 **Hosts:** Lyzr  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 2:00pm ET
-**Where:** New York, NY · New York, NY · SoHo
-**Going:** 111 of 115
+**Where:** SoHo
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/w3EFGHHBj4EKAbmifC0I
-**Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -74,10 +67,6 @@ Format: Arrive 2 PM. Team up or fly solo. Build until 8 PM. Five-minute demos. Y
 Lyzr Events will confirm your spot within a few days of RSVP. Address shared with approved guests closer to the date.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

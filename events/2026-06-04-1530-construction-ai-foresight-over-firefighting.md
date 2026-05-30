@@ -9,20 +9,18 @@ host: "Jobotics, Bowser AI"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/Zvvlqyq8a1QOStZXGQry"
 public_short_url: "https://go.partiful.com/J3ATdaLc"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FGwilUNBDT6drpmMmxmr5wB8KvGK2%2FbfxExgbGN74AlHzxzaKqI"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FGwilUNBDT6drpmMmxmr5wB8KvGK2%2FbfxExgbGN74AlHzxzaKqI?alt=media&token=710011f4-7095-4c35-b6e4-c1d28e79e383"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 45
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["GwilUNBDT6drpmMmxmr5wB8KvGK2", "7DFu4rITofNzKIjA7hCx", "AlJJHUdjL0cPQQKWBpRcPceFPtS2"]
 is_capped: false
-total_guest_count: 46
-approved_guest_count: 37
-local_image: "images/Zvvlqyq8a1QOStZXGQry.jpg"
 canceled: false
+approved_guest_count: 87
+local_image: "images/Zvvlqyq8a1QOStZXGQry.jpg"
 ---
 
 # Construction: AI Foresight Over Firefighting
@@ -32,7 +30,7 @@ canceled: false
 **Hosts:** Jobotics, Bowser AI  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 3:30pm ET
 **Where:** Financial District
-**Going:** 45 of 46
+**Going:** 87
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Zvvlqyq8a1QOStZXGQry
 
@@ -71,10 +69,6 @@ If you care about applying AI beyond the screen - into the physical world - this
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com. 
 
 Know someone else who might be interested in attending? Forward this to them.
-
-
-
-
 
 
 

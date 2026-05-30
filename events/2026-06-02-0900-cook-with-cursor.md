@@ -11,20 +11,17 @@ host: "Cursor"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/Xv4PHzfI7e2cuFQzaf1D"
 public_short_url: "https://go.partiful.com/rueZhKev"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FZGEN4g9qQ3f7QahUyklGXB8Rz472%2FOtaKzZme8m_T-lmo25A-W"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FZGEN4g9qQ3f7QahUyklGXB8Rz472%2FOtaKzZme8m_T-lmo25A-W?alt=media&token=382c2458-0a5a-4102-a988-fb0602857e54"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 120
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["ZGEN4g9qQ3f7QahUyklGXB8Rz472", "JJqGhKkArNVHFSVxIgj2aNlKfJ63", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 254
-approved_guest_count: 24
-local_image: "images/Xv4PHzfI7e2cuFQzaf1D.png"
 canceled: false
+local_image: "images/Xv4PHzfI7e2cuFQzaf1D.png"
 ---
 
 # Cook with Cursor
@@ -34,7 +31,6 @@ canceled: false
 **Hosts:** Cursor  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 9:00am–12:30pm ET
 **Where:** SoHo
-**Going:** 120 of 254
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Xv4PHzfI7e2cuFQzaf1D
 
@@ -62,10 +58,6 @@ Light bites & refreshments will be served throughout.
 Please Note: This is a limited-availability event requiring approval to attend (as much as we'd love to have everyone join!)
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

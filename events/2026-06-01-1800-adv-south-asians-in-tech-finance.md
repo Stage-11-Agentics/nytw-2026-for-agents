@@ -11,20 +11,17 @@ host: "ABCD Connections"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/qbTTgye3Wwh478cYoHs4"
 public_short_url: "https://go.partiful.com/w1ggm8uv"
-image: "https://res.cloudinary.com/partiful/image/upload/posters/tech_week_20250218.png"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FiXetCaYIoBcLbA9WKSwhRNlhAoe2%2Frm78Kveov5lB5QquwvtoX?alt=media&token=4bd4345c-c464-4ad4-ac95-a4113be3e6dd"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 128
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["iXetCaYIoBcLbA9WKSwhRNlhAoe2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 134
-approved_guest_count: 0
-local_image: "images/qbTTgye3Wwh478cYoHs4.png"
 canceled: false
+local_image: "images/qbTTgye3Wwh478cYoHs4.png"
 ---
 
 # Adv. South Asians in Tech & Finance
@@ -34,7 +31,6 @@ canceled: false
 **Hosts:** ABCD Connections  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:00pm–8:30pm ET
 **Where:** Chelsea
-**Going:** 128 of 134
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/qbTTgye3Wwh478cYoHs4
 
@@ -61,10 +57,6 @@ This is more than just an event—it’s a community of accomplished South Asian
 Spots are limited. Apply to attend today!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

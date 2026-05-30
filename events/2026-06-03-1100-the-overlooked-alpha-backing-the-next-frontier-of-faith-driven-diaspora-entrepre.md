@@ -13,16 +13,14 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 29
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["MY1SG6KbTYTZjh2kEF6vCCT58sd2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 29
-approved_guest_count: 0
-local_image: "images/ZKhEYadbnGCC8wVlGiET.png"
 canceled: false
+approved_guest_count: 47
+local_image: "images/ZKhEYadbnGCC8wVlGiET.png"
 ---
 
 # The Overlooked Alpha: Backing the Next Frontier of Faith-Driven Diaspora Entrepreneurs
@@ -32,7 +30,7 @@ canceled: false
 **Hosts:** Emtic Basileia  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 11:00am ET
 **Where:** Brooklyn
-**Going:** 29
+**Going:** 47
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ZKhEYadbnGCC8wVlGiET
 
@@ -62,10 +60,6 @@ This event will explore:
 This is not an impact story—it is an access story. One where cultural insight, conviction, and community-driven distribution create the conditions for both outsized returns and durable global impact.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

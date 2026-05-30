@@ -14,20 +14,17 @@ neighborhood: "Greenwich Village"
 rsvp_url: "https://partiful.com/e/UcvDCeDT5tKas1H5sWSs"
 public_short_url: "https://go.partiful.com/B7QA9nbn"
 google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FikIF6kqsEwQ264DhWDd7YBjl1ig1%2F__SfE5N436d31tPfj3Ny8"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FikIF6kqsEwQ264DhWDd7YBjl1ig1%2F__SfE5N436d31tPfj3Ny8?alt=media&token=25c37844-9376-4208-90cf-b593a03822c5"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 131
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["ikIF6kqsEwQ264DhWDd7YBjl1ig1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 133
-approved_guest_count: 93
-local_image: "images/UcvDCeDT5tKas1H5sWSs.jpg"
 canceled: false
+local_image: "images/UcvDCeDT5tKas1H5sWSs.jpg"
 ---
 
 # New York City Pizza Crawl #15- #NYTechWeek West Village Crawl
@@ -37,7 +34,6 @@ canceled: false
 **Hosts:** New York City Pizza Crawl  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 12:00pm–4:00pm ET
 **Where:** New York, NY · New York, NY · Greenwich Village
-**Going:** 131 of 133
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/UcvDCeDT5tKas1H5sWSs
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -70,7 +66,7 @@ This is a highly social event—expect a lively, high-energy atmosphere with ple
 Date: Saturday, June 6th. (In the event of bad weather, this event will be cancelled)
 Meeting Location: Somewhere in the West Village.  
 Meeting Time: 12:00PM (BAR). Then 2PM for pizza.
-Length of crawl: About 3 hours. 
+Length of crawl: About 4 hours. 
 II will announce the two pizza shops closer to the event date. 
 
 Cost: Pay as you go. You are paying for your own pizza so you can eat as much as your heart desires!
@@ -80,10 +76,6 @@ Subscribe to our event calendar for 2026 events: https://luma.com/newyorkcitypiz
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

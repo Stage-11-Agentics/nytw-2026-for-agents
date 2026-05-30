@@ -13,16 +13,14 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 115
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["x2Te7Euf1KhzijMDAaJcPA120pw1", "IpYdQEZsdpNNistkTELBuHK2LMf2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 119
-approved_guest_count: 19
-local_image: "images/Q3VLiAG6mCn8DExuxzNF.png"
 canceled: false
+approved_guest_count: 141
+local_image: "images/Q3VLiAG6mCn8DExuxzNF.png"
 ---
 
 # BIPOC Founders & Funders - hosted by Black Tech Meetup
@@ -32,7 +30,7 @@ canceled: false
 **Hosts:** BlackTech Meetup  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm ET
 **Where:** Flatiron
-**Going:** 115 of 119
+**Going:** 141
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Q3VLiAG6mCn8DExuxzNF
 
@@ -50,10 +48,6 @@ canceled: false
 Don't miss out on this opportunity to connect with some of the brightest minds in the NY tech community. We can't wait to see you there!
 
 ​This event is a part of #NYTechWeek - a week of events hosted by VCs and startups to bring together the tech ecosystem.
-
-
-
-
 
 
 

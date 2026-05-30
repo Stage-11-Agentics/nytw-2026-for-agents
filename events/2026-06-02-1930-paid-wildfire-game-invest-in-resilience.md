@@ -11,21 +11,17 @@ host: "Optivide"
 neighborhood: "Virtual (NYC)"
 rsvp_url: "https://partiful.com/e/0Jl8b2j56m7sV5blh9YH"
 public_short_url: "https://go.partiful.com/lmOAjPWI"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FnS6usWdLKbcYjTGm7SotFn9pIh03%2FA_gCDgZHCWN7nuySfANzV"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FnS6usWdLKbcYjTGm7SotFn9pIh03%2FA_gCDgZHCWN7nuySfANzV?alt=media&token=5a9fbfce-b297-46fc-ab7d-57e91ac34b40"
 visibility: "public"
 at_capacity: false
-going_guest_count: 20
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["nS6usWdLKbcYjTGm7SotFn9pIh03", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 79
-total_guest_count: 21
-approved_guest_count: 0
-local_image: "images/0Jl8b2j56m7sV5blh9YH.png"
 canceled: false
+local_image: "images/0Jl8b2j56m7sV5blh9YH.png"
 ---
 
 # Paid Wildfire Game: Invest in Resilience
@@ -35,7 +31,7 @@ canceled: false
 **Hosts:** Optivide  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 7:30pm–10:00pm ET
 **Where:** Virtual (NYC)
-**Capacity:** capped at 100 · 21 taken, 79 remaining
+**Capacity:** capped at 100
 **RSVP:** https://partiful.com/e/0Jl8b2j56m7sV5blh9YH
 
 ### Hosts on Partiful
@@ -94,10 +90,6 @@ canceled: false
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -14,30 +14,28 @@ neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/CU8HGeTEOW6mmQouXu4R"
 public_short_url: "https://go.partiful.com/HvdPxJ90"
 google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FcztrXmOLaGfZZgQTUM6jHT0FmUt2%2F4bYmX77TWmB2RWR0_Rkz4"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FcztrXmOLaGfZZgQTUM6jHT0FmUt2%2F4bYmX77TWmB2RWR0_Rkz4?alt=media&token=4974162b-6512-49bf-b1ae-e379b2445e64"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 26
 badges: []
 fetch_status: ok
-owner_count: 2
-owner_ids: ["cztrXmOLaGfZZgQTUM6jHT0FmUt2", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 3
+owner_ids: ["cztrXmOLaGfZZgQTUM6jHT0FmUt2", "7DFu4rITofNzKIjA7hCx", "ppyqAA1HC69w53xY7TiY"]
 is_capped: false
-total_guest_count: 28
-approved_guest_count: 0
-local_image: "images/CU8HGeTEOW6mmQouXu4R.png"
 canceled: false
+approved_guest_count: 49
+local_image: "images/CU8HGeTEOW6mmQouXu4R.png"
 ---
 
 # ​SMB Healthcare Benefits Breakfast
 
 ![​SMB Healthcare Benefits Breakfast](images/CU8HGeTEOW6mmQouXu4R.png)
 
-**Hosts:** CEO, DentalFynd
+**Hosts:** CEO, DentalFynd  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 9:00am–10:30am ET
 **Where:** New York, NY · New York, NY · Flatiron
-**Going:** 26 of 28
+**Going:** 49
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/CU8HGeTEOW6mmQouXu4R
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -45,6 +43,7 @@ canceled: false
 ### Hosts on Partiful
 
 - [Tobi Bosede](https://partiful.com/u/cztrXmOLaGfZZgQTUM6jHT0FmUt2)
+- [DentalFynd](https://partiful.com/u/ppyqAA1HC69w53xY7TiY) — _DentalFynd is democratizing dentistry. We use AI to help practices grow at and want to make great accessible to everyone. http://DentalFynd.com_
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -62,10 +61,6 @@ Learn more about our tech-enabled dental plans here. https://dentalfynd.us/patie
 Questions? Reach us at hello@dentalfynd.com.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

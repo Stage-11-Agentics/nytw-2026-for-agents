@@ -9,20 +9,21 @@ host: "Houstory, LLC"
 neighborhood: "Virtual (NYC)"
 rsvp_url: "https://partiful.com/e/67csjJfCRZMu8aQL8xes"
 public_short_url: "https://go.partiful.com/TGF4gTZ5"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F5xOqVEqh60oEBZf5mATF%2FX-UcwG0vNRUuZO5M0jg5Y"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F5xOqVEqh60oEBZf5mATF%2FX-UcwG0vNRUuZO5M0jg5Y?alt=media&token=ae882490-03b8-438d-9415-50f19d1494fc"
 visibility: "public"
-guest_action: "APPLY"
+guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 7
+going_guest_count: 24
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["5xOqVEqh60oEBZf5mATF", "7DFu4rITofNzKIjA7hCx"]
-is_capped: false
-total_guest_count: 7
-approved_guest_count: 6
-local_image: "images/67csjJfCRZMu8aQL8xes.jpg"
+is_capped: true
+max_capacity: 60
+remaining_capacity: 36
 canceled: false
+approved_guest_count: 0
+local_image: "images/67csjJfCRZMu8aQL8xes.jpg"
 ---
 
 # Debugging the NYC Rental: Using Data to Escape "The Zero Data Decision"
@@ -32,8 +33,7 @@ canceled: false
 **Hosts:** Houstory, LLC
 **When:** Wednesday, June 3, 2026 · 7:00pm ET
 **Where:** Virtual (NYC)
-**Going:** 7
-**Access:** apply / hosts approve
+**Capacity:** capped at 60 · 24 taken, 36 remaining
 **RSVP:** https://partiful.com/e/67csjJfCRZMu8aQL8xes
 
 ### Hosts on Partiful
@@ -62,10 +62,6 @@ This event is a part of #NYTechWeek—a week of events hosted by VCs and startup
 
 
 
-
-
-
-
 ---
 
-[Apply on Partiful →](https://partiful.com/e/67csjJfCRZMu8aQL8xes)
+[RSVP on Partiful →](https://partiful.com/e/67csjJfCRZMu8aQL8xes)

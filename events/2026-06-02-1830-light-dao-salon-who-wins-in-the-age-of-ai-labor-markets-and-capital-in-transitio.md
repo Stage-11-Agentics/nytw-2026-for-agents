@@ -7,42 +7,39 @@ start_time: "6:30pm ET"
 end_time: "9:30pm ET"
 start_iso: "2026-06-02T22:30:00.000Z"
 end_iso: "2026-06-03T01:30:00.000Z"
-host: "Light Dao, Sharely, Haystack Hub"
-venue_name: "Chelsea"
-venue_address: "Chelsea, Manhattan, New York, NY"
+host: "Haystack Hub, Light Dao, Sharely"
+venue_address: "529 W 20th St, New York, NY 10011"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/e2hNOd2jIzhnHQujwMqu"
 public_short_url: "https://go.partiful.com/5w4gP9xX"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Chelsea%2C%20Chelsea%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FPjSWnZNuyYZQQj17n3R5isbEq6Z2%2FOxT-nzDSJYufDzACGhMQh"
+google_maps: "https://www.google.com/maps/search/?api=1&query=529%20W%2020th%20St%2C%20New%20York%2C%20NY%2010011"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FPjSWnZNuyYZQQj17n3R5isbEq6Z2%2FOxT-nzDSJYufDzACGhMQh?alt=media&token=be4d8c12-8a5c-4f75-b13a-2553c3fe9927"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 45
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["PjSWnZNuyYZQQj17n3R5isbEq6Z2", "7DFu4rITofNzKIjA7hCx", "sbptVKzknqdXk07nZVEOkN4erTJ2", "UrMorJpgOcPAjAMBYyGnbSiVwG72"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 29
-total_guest_count: 46
-approved_guest_count: 21
-local_image: "images/e2hNOd2jIzhnHQujwMqu.png"
+remaining_capacity: 14
 canceled: false
+approved_guest_count: 36
+local_image: "images/e2hNOd2jIzhnHQujwMqu.png"
 ---
 
 # Light Dao Salon: Who Wins in the Age of AI? Labor Markets and Capital in Transition (NYC)
 
 ![Light Dao Salon: Who Wins in the Age of AI? Labor Markets and Capital in Transition (NYC)](images/e2hNOd2jIzhnHQujwMqu.png)
 
-**Hosts:** Light Dao, Sharely, Haystack Hub  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Haystack Hub, Light Dao, Sharely  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:30pm–9:30pm ET
-**Where:** Chelsea · Chelsea, Manhattan, New York, NY · Chelsea
-**Capacity:** capped at 50 · 21 taken, 29 remaining
+**Where:** 529 W 20th St, New York, NY 10011 · Chelsea
+**Capacity:** capped at 50 · 36 taken, 14 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/e2hNOd2jIzhnHQujwMqu
-**Map:** https://www.google.com/maps/search/?api=1&query=Chelsea%2C%20Chelsea%2C%20Manhattan%2C%20New%20York%2C%20NY
+**Map:** https://www.google.com/maps/search/?api=1&query=529%20W%2020th%20St%2C%20New%20York%2C%20NY%2010011
 
 ### Hosts on Partiful
 
@@ -59,12 +56,10 @@ AI is not just a technological shift - it’s a restructuring of the labor marke
 White-collar roles are compressing. Entry-level pathways are breaking. Entire categories of work are being reorganized faster than new ones are being created.
 
 At the same time, demand is rising for real, task-based capability - often in areas the market has historically overlooked or misunderstood.
+
 We’re entering a moment where:
 > Output is becoming abundant
 > But signal on human capability is increasingly scarce
-
-The structure of work is changing.
-Capital hasn’t fully caught up.
 
 This salon brings together a curated group of founders, investors, and operators to explore how labor markets are evolving - and where capital is likely to flow next.
 
@@ -74,9 +69,6 @@ We’ll discuss:
 > Which sectors expand vs. contract - and why the market may be mispricing both
 > Where talent is being undervalued - and how that creates asymmetric opportunity
 > What new infrastructure is needed - and which companies could define it
-
-This is not a surface-level “future of work” panel.
-It’s a focused, high-signal conversation on labor, capital, and emerging opportunity - designed for those building and investing in what comes next.
 
 Join Light Dao, and conscious investors and entrepreneurs for an evening filled with connection and deep conversations with Jenny Fielding, Co-Founder & Managing Partner of Everywhere Ventures, and Shrinidhi Rao, Director of Workforce Innovation at The Burning Glass Institute.
 
@@ -98,7 +90,7 @@ Shrinidhi Rao is Director of Workforce Innovation at The Burning Glass Institute
 ​​​​7:45-8:30pm - Fireside chat
 ​​​​8:30-8:45pm - Q&A
 ​8:45-9:00pm - Business connect
-​​9:00-9:30pm - Deepen Connections
+​​9:00-9:30pm - Deepen connections
 
 ​VENUE DETAILS: The gathering is inside a Gallery in Chelsea, Manhattan. The exact address will be sent to confirmed guests.
 
@@ -106,9 +98,7 @@ Shrinidhi Rao is Director of Workforce Innovation at The Burning Glass Institute
 
 GUEST POLICY: For NYC Tech Week, we’re opening our doors to a broader community of founders, investors, operators, and builders who are curious about Light Dao and aligned with our values around meaningful connection, conscious leadership, and innovation.
 
-This gathering is designed as an opportunity to experience the community, meet incredible people, and explore what being part of Light Dao could feel like.
-
-While many of our gatherings are private member experiences, this Tech Week event is open to approved guests. We encourage thoughtful applications so we can curate a high-quality room and meaningful conversations for everyone attending.
+This gathering is designed as an opportunity to experience the community, meet incredible people, and explore what being part of Light Dao could feel like. We encourage thoughtful applications so we can curate a high-quality room and meaningful conversations for everyone attending.
 
 Please note:
 • All guests must RSVP individually (no +1s without registration)
@@ -120,10 +110,6 @@ We’re especially excited to welcome founders, investors, technologists, and mi
 ​JOIN US: Light Dao is a fast-growing trusted global community of over 7000 conscious investors and entrepreneurs with curated in-person and online gatherings and experiences, having hosted in 16 cities across North and South America, Middle East, Europe, Asia, and Australia. Our heartfelt mission is to bring abundance for all by expanding the collective consciousness, enlightening society, and empowering values-aligned relationships. Together, we co-create a thriving regenerative future for humanity. We are excited to welcome you to our global community! http://wearelight.one/
 
 This event is a part of #NYTechWeek - a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

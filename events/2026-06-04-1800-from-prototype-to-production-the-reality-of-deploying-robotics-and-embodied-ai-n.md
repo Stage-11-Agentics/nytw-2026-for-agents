@@ -6,71 +6,68 @@ day: "Thursday"
 start_time: "6:00pm ET"
 start_iso: "2026-06-04T22:00:00.000Z"
 host: "New York Robotics, 22 Astronauts"
-venue_name: "Midtown"
-venue_address: "Midtown, Manhattan, New York, NY"
+venue_name: "South Park Commons"
+venue_address: "36 Cooper Square, FL 6, New York, NY 10003"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/LjcDUfXhSF8zoLtGn03K"
 public_short_url: "https://go.partiful.com/eaSYfUUG"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fo2Nq2vsWEnVxnmrD2dPKDH0JGup2%2FPg90Fa8EyQTcPmSTf6kdV"
+google_maps: "https://www.google.com/maps/search/?api=1&query=36%20Cooper%20Square%2C%20FL%206%2C%20New%20York%2C%20NY%2010003"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FCJywqjf5QwT4lYLHeDWKffZStJ42%2F7iWIMjSTYhtHlyhgvHM0c?alt=media&token=89949509-bcd3-441b-a67f-672a67624610"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 191
 badges: []
 fetch_status: ok
-owner_count: 3
-owner_ids: ["o2Nq2vsWEnVxnmrD2dPKDH0JGup2", "7DFu4rITofNzKIjA7hCx", "CJywqjf5QwT4lYLHeDWKffZStJ42"]
+owner_count: 5
+owner_ids: ["o2Nq2vsWEnVxnmrD2dPKDH0JGup2", "7DFu4rITofNzKIjA7hCx", "CJywqjf5QwT4lYLHeDWKffZStJ42", "YnAdVdu8eyfQn6xUFSl3eNlHl6I2", "dx6XPFTpjK8DDEvhXfC3"]
 is_capped: false
-total_guest_count: 193
-approved_guest_count: 140
-local_image: "images/LjcDUfXhSF8zoLtGn03K.jpg"
 canceled: false
+approved_guest_count: 244
+local_image: "images/LjcDUfXhSF8zoLtGn03K.jpg"
 ---
 
 # From Prototype to Production: The Reality of Deploying Robotics and Embodied AI - #NYCTechWeek
 
 ![From Prototype to Production: The Reality of Deploying Robotics and Embodied AI - #NYCTechWeek](images/LjcDUfXhSF8zoLtGn03K.jpg)
 
-**Hosts:** New York Robotics, 22 Astronauts  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** New York Robotics, 22 Astronauts  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
-**Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 191 of 193
+**Where:** South Park Commons · 36 Cooper Square, FL 6, New York, NY 10003 · Midtown
+**Going:** 244
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/LjcDUfXhSF8zoLtGn03K
-**Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
+**Map:** https://www.google.com/maps/search/?api=1&query=36%20Cooper%20Square%2C%20FL%206%2C%20New%20York%2C%20NY%2010003
 
 ### Hosts on Partiful
 
 - [New York Robotics](https://partiful.com/u/o2Nq2vsWEnVxnmrD2dPKDH0JGup2)
 - [22Astronauts](https://partiful.com/u/CJywqjf5QwT4lYLHeDWKffZStJ42)
+- [Dylan Itzikowitz](https://partiful.com/u/YnAdVdu8eyfQn6xUFSl3eNlHl6I2)
+- [South Park Commons](https://partiful.com/u/dx6XPFTpjK8DDEvhXfC3)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
 ## Description
 
-From Prototype to Production: The Reality of Deploying Robotics
-As robotics and embodied AI move from research into real-world environments, the challenge is no longer building demos, but deploying systems that work reliably in production.
+Join founders, engineers, and operators for an evening focused on what it actually takes to move robotic systems from prototype to deployment.
 
+Gain insights from a panel featuring Evan Beard (CEO, Standard Bots), Pim de Witte (CEO, General Intuition), Oliver Ortlieb (CTO, Ultra), and Josh Merel (CTO, Fauna Robotics) discussing the realities of deploying robotics systems beyond controlled demos and into real production environments.
 
-Join founders, engineers, and operators working at the intersection of robotics, AI, and real-world deployment, for an evening focused on what it actually takes to move from prototype to production. 
+Curated and led by Ilir Aliu, founder of 22Astronauts.
 
-Expect:
-- Talks from founders and technical leaders working on real-world robotic deployments
-- Live demos that reflect production constraints, not just lab conditions
-- Conversations with teams building and scaling embodied AI systems
-- Networking with the startups, researchers and thought leaders in robotics, AI, and broader tech ecosystem
-- Whether you’re building robotic systems, deploying them, or exploring the space, this is a chance to understand what it takes to move beyond the demo stage and into production.
+What to expect:
 
-📍 Midtown
+> Talks from founders and technical leaders working on real-world robotic deployments
+> Insights from teams building and scaling embodied AI systems
+> Networking with startups, researchers, and thought leaders across robotics, AI, and the broader tech ecosystem
+
+Whether you’re building, deploying, or investing in robotics, this is an opportunity to better understand what it takes to move beyond demos and into production.
+
+📍 South Partk Commons, 36 Cooper Square, FL 6, NYC
 🗓️ Thursday, June 4
 
 This event is part of #NYTech Week—a week of events hosted by VCs and startups bringing together the tech ecosystem.
  Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -13,21 +13,20 @@ neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/X6NFw7EkD1FoWNswwoqQ"
 public_short_url: "https://go.partiful.com/BKt9y5U8"
 google_maps: "https://www.google.com/maps/search/?api=1&query=11%20W%2019th%20St%2C%20New%20York%2C%20NY%2010011"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fk6h2tT4X3bTt7urBfPAs576lP8v1%2FFPuUhdebUKt3fQ91ZOB-K"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fk6h2tT4X3bTt7urBfPAs576lP8v1%2FFPuUhdebUKt3fQ91ZOB-K?alt=media&token=e1031972-7074-429c-b84e-5315152f2393"
 visibility: "public"
 at_capacity: false
-going_guest_count: 10
+going_guest_count: 47
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["k6h2tT4X3bTt7urBfPAs576lP8v1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 40
-total_guest_count: 10
+remaining_capacity: 3
+canceled: false
 approved_guest_count: 0
 local_image: "images/X6NFw7EkD1FoWNswwoqQ.png"
-canceled: false
 ---
 
 # AIMLC Meetup: Understanding and Advancing General Intelligence Through Game
@@ -37,7 +36,7 @@ canceled: false
 **Hosts:** Capital One  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:30pm–8:30pm ET
 **Where:** 11 W 19th St, New York, NY 10011 · Flatiron
-**Capacity:** capped at 50 · 10 taken, 40 remaining
+**Capacity:** capped at 50 · 47 taken, 3 remaining
 **RSVP:** https://partiful.com/e/X6NFw7EkD1FoWNswwoqQ
 **Map:** https://www.google.com/maps/search/?api=1&query=11%20W%2019th%20St%2C%20New%20York%2C%20NY%2010011
 
@@ -61,10 +60,6 @@ Agenda:
 This event is hosted at the Capital One Office! Enter through 11 W 19th Street main entrance. Show your photo ID at the front desk and proceed to the 3rd floor.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

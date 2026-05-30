@@ -10,34 +10,30 @@ end_iso: "2026-06-04T23:00:00.000Z"
 host: "MachineTrader.io Inc., Alpaca Securities LLC"
 venue_name: "Union Square Loft"
 venue_address: "873 Broadway, Ste 408, New York, NY 10003"
-neighborhood: "SoHo"
+neighborhood: "Union Square"
 rsvp_url: "https://partiful.com/e/zR6LO2nZY9AJ78Ya5um9"
 public_short_url: "https://go.partiful.com/SuuQEN7j"
 google_maps: "https://www.google.com/maps/search/?api=1&query=873%20Broadway%2C%20Ste%20408%2C%20New%20York%2C%20NY%2010003"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FjWuVdUWqMLS07oqSkgLbkXMWbZl1%2FsahDEagS68jbOxajaC1Lf"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FjWuVdUWqMLS07oqSkgLbkXMWbZl1%2FsahDEagS68jbOxajaC1Lf?alt=media&token=bc1ea0e5-9f2f-45b6-836d-99cb9914f170"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 62
 badges: []
 fetch_status: ok
-owner_count: 3
-owner_ids: ["jWuVdUWqMLS07oqSkgLbkXMWbZl1", "7DFu4rITofNzKIjA7hCx", "4PdNKcNVXqfUHvJ6F2RbQdNHFpB2"]
+owner_count: 5
+owner_ids: ["jWuVdUWqMLS07oqSkgLbkXMWbZl1", "7DFu4rITofNzKIjA7hCx", "4PdNKcNVXqfUHvJ6F2RbQdNHFpB2", "7yI96CYF9Me78nbRG6OAM7ikTKH3", "rhmL96bj5EN0TMUo12PiBDQXDBZ2"]
 is_capped: false
-total_guest_count: 62
-approved_guest_count: 61
-local_image: "images/zR6LO2nZY9AJ78Ya5um9.png"
 canceled: false
+local_image: "images/zR6LO2nZY9AJ78Ya5um9.png"
 ---
 
 # Two Live Builds: AI Trading Agents with Alpaca + Live Trading Systems with MachineTrader
 
 ![Two Live Builds: AI Trading Agents with Alpaca + Live Trading Systems with MachineTrader](images/zR6LO2nZY9AJ78Ya5um9.png)
 
-**Hosts:** MachineTrader.io Inc., Alpaca Securities LLC  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** MachineTrader.io Inc., Alpaca Securities LLC  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 12:00pm–7:00pm ET
-**Where:** Union Square Loft · 873 Broadway, Ste 408, New York, NY 10003 · SoHo
-**Going:** 62
+**Where:** Union Square Loft · 873 Broadway, Ste 408, New York, NY 10003 · Union Square
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/zR6LO2nZY9AJ78Ya5um9
 **Map:** https://www.google.com/maps/search/?api=1&query=873%20Broadway%2C%20Ste%20408%2C%20New%20York%2C%20NY%2010003
@@ -46,6 +42,8 @@ canceled: false
 
 - [MachineTrader.io Inc.](https://partiful.com/u/jWuVdUWqMLS07oqSkgLbkXMWbZl1) — _https://www.machinetrader.io_
 - [Alpaca](https://partiful.com/u/4PdNKcNVXqfUHvJ6F2RbQdNHFpB2)
+- [Melek Kartal](https://partiful.com/u/7yI96CYF9Me78nbRG6OAM7ikTKH3)
+- [Brandon Meyerowitz](https://partiful.com/u/rhmL96bj5EN0TMUo12PiBDQXDBZ2)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -73,10 +71,6 @@ You’ll leave with working systems you built yourself.
 Perfect for developers, traders, and builders exploring AI, automation, and real-world trading infrastructure.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

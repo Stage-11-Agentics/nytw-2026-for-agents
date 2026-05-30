@@ -14,21 +14,19 @@ neighborhood: "Brooklyn"
 rsvp_url: "https://partiful.com/e/YtdgTRrlrEh5IlnIbIYz"
 public_short_url: "https://go.partiful.com/9Geh4sLU"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Brooklyn%2C%20Brooklyn%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FTLeyyr0UUTOZ1RPCmHOtPptkfYz1%2FnpMP927NIAx4gXkycnnUY"
 visibility: "public"
-at_capacity: false
-going_guest_count: 7
+at_capacity: true
+going_guest_count: 10
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["TLeyyr0UUTOZ1RPCmHOtPptkfYz1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 20
-remaining_capacity: 13
-total_guest_count: 7
+max_capacity: 10
+remaining_capacity: 0
+canceled: false
 approved_guest_count: 0
 local_image: "images/YtdgTRrlrEh5IlnIbIYz.png"
-canceled: false
 ---
 
 # Meet Me in the Middle #NYTECHWEEK
@@ -38,7 +36,8 @@ canceled: false
 **Hosts:** Growing the Middle, Volley & Vibe
 **When:** Saturday, June 6, 2026 · 1:15pm–3:30pm ET
 **Where:** Brooklyn · Brooklyn, New York, NY · Brooklyn
-**Capacity:** capped at 20 · 7 taken, 13 remaining
+**Capacity:** capped at 10 · 10 taken, 0 remaining · ⚠ **FULL**
+**Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/YtdgTRrlrEh5IlnIbIYz
 **Map:** https://www.google.com/maps/search/?api=1&query=Brooklyn%2C%20Brooklyn%2C%20New%20York%2C%20NY
 
@@ -70,10 +69,6 @@ All skill levels welcome. Volley & Vibe has you covered on the court — just sh
 Hosted by Growing the Middle & Volley & Vibe
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

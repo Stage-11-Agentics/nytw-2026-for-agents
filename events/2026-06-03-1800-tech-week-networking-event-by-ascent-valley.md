@@ -14,20 +14,19 @@ neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/qHNiowdDBNRygRjZlYcp"
 public_short_url: "https://go.partiful.com/WjGTpCv6"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Strada%20Liviu%20Rebreanu%2C%2055%2C%20Bistrita%2C%20420008"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FWk0w9oMAaJXcVjGtz44Du90AqMU2%2FZHIoXqYQOMigam6QHpDe7"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FWk0w9oMAaJXcVjGtz44Du90AqMU2%2FZHIoXqYQOMigam6QHpDe7?alt=media&token=8475e1b7-6bd2-457e-8ce1-eb6513e5b355"
 visibility: "public"
-guest_action: "APPLY"
+guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 21
+going_guest_count: 52
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["Wk0w9oMAaJXcVjGtz44Du90AqMU2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 22
+canceled: false
 approved_guest_count: 0
 local_image: "images/qHNiowdDBNRygRjZlYcp.png"
-canceled: false
 ---
 
 # Tech Week: Networking Event by Ascent Valley
@@ -37,8 +36,7 @@ canceled: false
 **Hosts:** Ascent Valley  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
 **Where:** Geodesys Map · Strada Liviu Rebreanu, 55, Bistrita, 420008 · Financial District
-**Going:** 21 of 22
-**Access:** apply / hosts approve
+**Going:** 52
 **RSVP:** https://partiful.com/e/qHNiowdDBNRygRjZlYcp
 **Map:** https://www.google.com/maps/search/?api=1&query=Strada%20Liviu%20Rebreanu%2C%2055%2C%20Bistrita%2C%20420008
 
@@ -78,10 +76,6 @@ This event is a part of #NYTechWeek—a week of events hosted by VCs and startup
 
 
 
-
-
-
-
 ---
 
-[Apply on Partiful →](https://partiful.com/e/qHNiowdDBNRygRjZlYcp)
+[RSVP on Partiful →](https://partiful.com/e/qHNiowdDBNRygRjZlYcp)

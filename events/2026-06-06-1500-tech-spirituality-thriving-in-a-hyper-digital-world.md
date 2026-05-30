@@ -7,40 +7,35 @@ start_time: "3:00pm ET"
 end_time: "6:00pm ET"
 start_iso: "2026-06-06T19:00:00.000Z"
 end_iso: "2026-06-06T22:00:00.000Z"
-host: "Practice with Paola, One Energetics, Bhakti Marga NYC"
-venue_name: "Motto by Hilton New York City Chelsea"
-venue_address: "113 W 24th St, New York, NY 10011"
+host: "One Energetics, Practice with Paola, Bhakti Marga NYC"
 neighborhood: "Upper East Side"
 rsvp_url: "https://partiful.com/e/18ODB3943M8wJdiu2dS7"
 public_short_url: "https://go.partiful.com/xbP7kSVP"
-google_maps: "https://www.google.com/maps/search/?api=1&query=113%20W%2024th%20St%2C%20New%20York%2C%20NY%2010011"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fnfk5l76CMqQthj2HPELo7zx4Nus2%2FbsW7R9X47jHeDHhw9nGMB"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fnfk5l76CMqQthj2HPELo7zx4Nus2%2FbsW7R9X47jHeDHhw9nGMB?alt=media&token=1a92356b-c477-4b6f-b0d5-23f80bb702ca"
 visibility: "public"
 at_capacity: false
-going_guest_count: 63
+going_guest_count: 101
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["nfk5l76CMqQthj2HPELo7zx4Nus2", "7DFu4rITofNzKIjA7hCx", "VTDOZmuVwKWh9nxjcqXZwhNcm6O2"]
 is_capped: true
-max_capacity: 85
-remaining_capacity: 21
-total_guest_count: 106
+max_capacity: 150
+remaining_capacity: 49
+canceled: false
 approved_guest_count: 0
 local_image: "images/18ODB3943M8wJdiu2dS7.png"
-canceled: false
 ---
 
 # Tech & Spirituality: Thriving in a Hyper-Digital World
 
 ![Tech & Spirituality: Thriving in a Hyper-Digital World](images/18ODB3943M8wJdiu2dS7.png)
 
-**Hosts:** Practice with Paola, One Energetics, Bhakti Marga NYC
+**Hosts:** One Energetics, Practice with Paola, Bhakti Marga NYC
 **When:** Saturday, June 6, 2026 · 3:00pm–6:00pm ET
-**Where:** Motto by Hilton New York City Chelsea · 113 W 24th St, New York, NY 10011 · Upper East Side
-**Capacity:** capped at 85 · 64 taken, 21 remaining
+**Where:** Upper East Side
+**Capacity:** capped at 150 · 101 taken, 49 remaining
 **RSVP:** https://partiful.com/e/18ODB3943M8wJdiu2dS7
-**Map:** https://www.google.com/maps/search/?api=1&query=113%20W%2024th%20St%2C%20New%20York%2C%20NY%2010011
 
 ### Hosts on Partiful
 
@@ -88,10 +83,6 @@ We look forward to seeing you for NYTECHWEEK!
 --
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

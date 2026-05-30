@@ -14,20 +14,17 @@ neighborhood: "West Village"
 rsvp_url: "https://partiful.com/e/gqcsznzpItihFOcdHIBH"
 public_short_url: "https://go.partiful.com/9oWfRjDA"
 google_maps: "https://www.google.com/maps/search/?api=1&query=406%20Broome%20St%2C%20New%20York%2C%20NY%2010013"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FmiIhAjTZRJoFd1pKLShN%2FdO1Wu-4jZhoBJ6sMU2dQK"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FmiIhAjTZRJoFd1pKLShN%2FdO1Wu-4jZhoBJ6sMU2dQK?alt=media&token=f2a7adcc-322d-4288-9b2f-7577cc35c219"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 549
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["miIhAjTZRJoFd1pKLShN", "7DFu4rITofNzKIjA7hCx", "r1HQcxBufIckLJmYm1RKRhLUKEo1", "PjSWnZNuyYZQQj17n3R5isbEq6Z2"]
 is_capped: false
-total_guest_count: 551
-approved_guest_count: 75
-local_image: "images/gqcsznzpItihFOcdHIBH.png"
 canceled: false
+local_image: "images/gqcsznzpItihFOcdHIBH.png"
 ---
 
 # Female Founders & Investors Speakeasy
@@ -37,7 +34,6 @@ canceled: false
 **Hosts:** Madeline & Co., Excelsior Edge Ventures  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:00pm–7:00pm ET
 **Where:** Ketchy Shuby · 406 Broome St, New York, NY 10013 · West Village
-**Going:** 549 of 551
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/gqcsznzpItihFOcdHIBH
 **Map:** https://www.google.com/maps/search/?api=1&query=406%20Broome%20St%2C%20New%20York%2C%20NY%2010013
@@ -59,6 +55,11 @@ https://www.linkedin.com/in/princerumi/_
 
 Note:  This event is for female founders & investors only. 
 
+Stop browsing 1,400 events. Madweek curates your perfect TechWeek in 30 seconds — free. → https://madweek.madeline.one
+
+We built Madweek for TechWeek, one of our fav weeks of the year - and one of the most exhausting. You show up with a list and leave with a blur. Met someone important Tuesday, can't remember their name Friday. $80 Ubers to the wrong venue. A brilliant panel and nothing published. So we built Madweek. Tell Madeline who you are. She builds your schedule, navigates you between events, captures panels, and remembers everyone you meet. Free  —>  https://madweek.madeline.one
+Madweek by Madeline & Co. 
+
 Our TechWeek Line up:
 
 NY TechWeek Opening After Party
@@ -78,13 +79,6 @@ A final celebration to close the week with the broader founder and investor comm
 https://partiful.com/e/LCvyYaFwldgIhU0yb8cW
 
 For sponsorships, partnerships, or media inquiries, contact: events@madeline.one
-
---
-
-Our friends at Concentrate AI are giving our community $100 in free AI credits (Claude, OpenAI, Gemini + more). One API, all the major models, instant savings.
-
-Sign up at concentrate.ai, list Madeline as your source, and ping their Help Chat if you need anything: tinyurl.com/yc68has4
-
 
 -------
 
@@ -118,10 +112,6 @@ https://www.linkedin.com/in/victorballadares
 https://www.thelewfirm.com/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

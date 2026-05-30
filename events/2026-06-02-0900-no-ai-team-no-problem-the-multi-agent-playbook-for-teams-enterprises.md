@@ -14,20 +14,18 @@ neighborhood: "Hudson Yards"
 rsvp_url: "https://partiful.com/e/CpZhOzE6JH2RuPZfKDgK"
 public_short_url: "https://go.partiful.com/kIl0LVhz"
 google_maps: "https://www.google.com/maps/search/?api=1&query=66%20Hudson%20Blvd%20E%2C%20Ste%202200%2C%20New%20York%2C%20NY%2010001"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FFvwHPtyvkybd3sHd5oYq%2F6MHDLhU0myMOHl2ijXpz5"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FFvwHPtyvkybd3sHd5oYq%2F6MHDLhU0myMOHl2ijXpz5?alt=media&token=5c895d5a-b90c-4bec-9ca3-5fa6171b1fa1"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 103
 badges: []
 fetch_status: ok
 owner_count: 6
 owner_ids: ["FvwHPtyvkybd3sHd5oYq", "U5nqvZyUf9hojrnqMnzgRiK0diR2", "17Wj7Oa0GXQAp9RmP4bbjY4vvY62", "cIrnqThnibSB9fF8vlRp", "7DFu4rITofNzKIjA7hCx", "vwFzRtvb7JNs5T41iUlCi2jcyo93"]
-is_capped: false
-total_guest_count: 106
-approved_guest_count: 79
-local_image: "images/CpZhOzE6JH2RuPZfKDgK.png"
+is_capped: true
+max_capacity: 150
 canceled: false
+local_image: "images/CpZhOzE6JH2RuPZfKDgK.png"
 ---
 
 # No AI Team, No Problem :
@@ -39,7 +37,7 @@ The Multi-Agent Playbook For Teams & Enterprises.](images/CpZhOzE6JH2RuPZfKDgK.p
 **Hosts:** Phinite AI, Baker Tilly  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 9:00am–11:00am ET
 **Where:** BakerTilly US LLP · 66 Hudson Blvd E, Ste 2200, New York, NY 10001 · Hudson Yards
-**Going:** 103 of 106
+**Capacity:** capped at 150
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/CpZhOzE6JH2RuPZfKDgK
 **Map:** https://www.google.com/maps/search/?api=1&query=66%20Hudson%20Blvd%20E%2C%20Ste%202200%2C%20New%20York%2C%20NY%2010001
@@ -65,10 +63,6 @@ Join us for an intimate morning of coffee, conversation, and concrete AI use cas
 Space is limited. RSVP to secure your spot.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

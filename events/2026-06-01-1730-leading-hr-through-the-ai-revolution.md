@@ -14,32 +14,30 @@ neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/BFLcrBj99wiF87EefZM3"
 public_short_url: "https://go.partiful.com/s3MZ3NdO"
 google_maps: "https://www.google.com/maps/search/?api=1&query=601%20W%2026th%20St%2C%20New%20York%2C%20NY%2010001"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FtdO4EceLNgXwVnt29jM5kVEnG5u2%2F5MCfryXNeeb3Ig9LxS8VL"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FtdO4EceLNgXwVnt29jM5kVEnG5u2%2F5MCfryXNeeb3Ig9LxS8VL?alt=media&token=9b8d7281-7c65-4f32-b1ae-ad7af3dbcbc2"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 7
 badges: []
 fetch_status: ok
-owner_count: 2
-owner_ids: ["tdO4EceLNgXwVnt29jM5kVEnG5u2", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 3
+owner_ids: ["tdO4EceLNgXwVnt29jM5kVEnG5u2", "7DFu4rITofNzKIjA7hCx", "JmxRWddVgUWonA6sbUysvq7sy2r1"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 50
-total_guest_count: 8
-approved_guest_count: 0
-local_image: "images/BFLcrBj99wiF87EefZM3.png"
+remaining_capacity: 46
 canceled: false
+approved_guest_count: 4
+local_image: "images/BFLcrBj99wiF87EefZM3.png"
 ---
 
 # Leading HR Through the AI Revolution
 
 ![Leading HR Through the AI Revolution](images/BFLcrBj99wiF87EefZM3.png)
 
-**Hosts:** Bereisheet Tech  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Bereisheet Tech  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 5:30pm–8:00pm ET
 **Where:** Justworks - Headquarters · 601 W 26th St, New York, NY 10001 · Financial District
-**Capacity:** capped at 50 · 0 taken, 50 remaining
+**Capacity:** capped at 50 · 4 taken, 46 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/BFLcrBj99wiF87EefZM3
 **Map:** https://www.google.com/maps/search/?api=1&query=601%20W%2026th%20St%2C%20New%20York%2C%20NY%2010001
@@ -47,6 +45,7 @@ canceled: false
 ### Hosts on Partiful
 
 - [Asaf Wolff](https://partiful.com/u/tdO4EceLNgXwVnt29jM5kVEnG5u2)
+- [Carly](https://partiful.com/u/JmxRWddVgUWonA6sbUysvq7sy2r1)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -141,7 +140,9 @@ Idit Duvdevany Aronsohn, Amdocs
 
 Idit Duvdevany-Aronsohn heads ESG and People Relations at Amdocs – a global telecommunications software & services company [NASDAQ:DOX] with over 26,000 employees worldwide. In this role, Idit focuses on improving the lives of people in our communities, fostering diversity & inclusion, promoting sustainability with technologies, prioritizing workplace practices & employee wellbeing. Her responsibilities include ensuring that Amdocs’ global ESG, employment strategies, and global people relations create lasting value.
 
+Eran Friendinger Co-founder & Chief Product Officer, Voyantis
 
+Eran is the Co-founder and Chief Product Officer of Voyantis, the AI decisioning platform that helps the world's most ambitious brands not only acquire their highest-value customers, but grow them across every channel, touchpoint, and stage of the customer journey. The platform is trusted by growth and marketing teams at ZipRecruiter, Miro, Opendoor, SonderMind, MoneyLion, Upside, and more. A seasoned entrepreneur with over two decades in the tech space, Eran brings deep technical expertise to his role leading product at Voyantis, where agentic AI turns first-party data into predictive intelligence that trains ad platforms, optimizes lifecycle spend, and routes every offer and action toward real, incremental revenue. Prior to Voyantis, he co-founded Adience — later acquired by MarketTech — a groundbreaking AI platform that pioneered audience profiling on web and mobile using advanced Machine Learning and Deep Learning algorithms.
 
 7:30 PM — Networking
 
@@ -166,10 +167,6 @@ Important Notes
 • Exact location details will be shared with approved guests closer to the event.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

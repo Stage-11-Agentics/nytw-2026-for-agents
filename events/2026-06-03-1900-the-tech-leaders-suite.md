@@ -6,26 +6,20 @@ day: "Wednesday"
 start_time: "7:00pm ET"
 start_iso: "2026-06-03T23:00:00.000Z"
 host: "Insurgi Urban Concepts, Optical Diversity Telecom"
-venue_name: "Brooklyn"
-venue_address: "Brooklyn, New York, NY"
 neighborhood: "Brooklyn"
 rsvp_url: "https://partiful.com/e/UhyErPPxuo2vELIutdGj"
 public_short_url: "https://go.partiful.com/KLoLGC8W"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Brooklyn%2C%20Brooklyn%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FP33eXsSz2VCkZYCi2Vtz%2Ff7ARG5YOEStIE8uJvT6Sh"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FP33eXsSz2VCkZYCi2Vtz%2Ff7ARG5YOEStIE8uJvT6Sh?alt=media&token=fe2cb50a-2eaa-46f0-b381-562878040be0"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 58
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["P33eXsSz2VCkZYCi2Vtz", "X3CyfMdON8wWcwtL6QoH", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 59
-approved_guest_count: 0
-local_image: "images/UhyErPPxuo2vELIutdGj.png"
 canceled: false
+local_image: "images/UhyErPPxuo2vELIutdGj.png"
 ---
 
 # The Tech Leaders Suite
@@ -34,11 +28,9 @@ canceled: false
 
 **Hosts:** Insurgi Urban Concepts, Optical Diversity Telecom  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 7:00pm ET
-**Where:** Brooklyn · Brooklyn, New York, NY · Brooklyn
-**Going:** 58 of 59
+**Where:** Brooklyn
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/UhyErPPxuo2vELIutdGj
-**Map:** https://www.google.com/maps/search/?api=1&query=Brooklyn%2C%20Brooklyn%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -59,10 +51,6 @@ This event is curated by Optical Diversity Telecom, Insurgi Urban Concepts, and 
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com. By registering for this event you agree to receive information from our partners.
-
-
-
-
 
 
 

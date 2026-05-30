@@ -11,31 +11,30 @@ neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/z51AEVSzo2Ddp3np4WjW"
 public_short_url: "https://go.partiful.com/8wd7WqPg"
 google_maps: "https://www.google.com/maps/search/?api=1&query=359%20Broadway%2C%20Brooklyn%2C%20NY%2011211"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FN8fXpTSQakSjSbmryWBqDES8V4z2%2FF6sSKtD5dDbKSe7d1vjpV"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FN8fXpTSQakSjSbmryWBqDES8V4z2%2FF6sSKtD5dDbKSe7d1vjpV?alt=media&token=db9efb96-b850-474f-a037-255ad092820c"
 visibility: "public"
 at_capacity: true
-going_guest_count: 50
+going_guest_count: 75
 badges: []
 fetch_status: ok
-owner_count: 2
-owner_ids: ["N8fXpTSQakSjSbmryWBqDES8V4z2", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 3
+owner_ids: ["N8fXpTSQakSjSbmryWBqDES8V4z2", "7DFu4rITofNzKIjA7hCx", "yo7ZKntz4MOMRejgd4VImW8tZby2"]
 is_capped: true
-max_capacity: 50
+max_capacity: 75
 remaining_capacity: 0
-total_guest_count: 111
+canceled: false
 approved_guest_count: 0
 local_image: "images/z51AEVSzo2Ddp3np4WjW.png"
-canceled: false
 ---
 
 # In the Name of Taste
 
 ![In the Name of Taste](images/z51AEVSzo2Ddp3np4WjW.png)
 
-**Hosts:** Slingshot AI  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Slingshot AI  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:30pm ET
 **Where:** 359 Broadway, Brooklyn, NY 11211 · SoHo
-**Capacity:** capped at 50 · 50 taken, 0 remaining · ⚠ **FULL**
+**Capacity:** capped at 75 · 75 taken, 0 remaining · ⚠ **FULL**
 **Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/z51AEVSzo2Ddp3np4WjW
 **Map:** https://www.google.com/maps/search/?api=1&query=359%20Broadway%2C%20Brooklyn%2C%20NY%2011211
@@ -43,6 +42,7 @@ canceled: false
 ### Hosts on Partiful
 
 - [Andrew Frawley](https://partiful.com/u/N8fXpTSQakSjSbmryWBqDES8V4z2) — _Andres the methodical_
+- [Aparna](https://partiful.com/u/yo7ZKntz4MOMRejgd4VImW8tZby2)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -61,10 +61,6 @@ Hosted by Slingshot AI
 🥂 Drinks and bites provided
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

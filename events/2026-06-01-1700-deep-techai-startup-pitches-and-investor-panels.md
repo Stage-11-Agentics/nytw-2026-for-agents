@@ -11,20 +11,18 @@ host: "Wallet Max"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/rQWNiqBcukfTYjBvwnji"
 public_short_url: "https://go.partiful.com/WFoRb2MI"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FbaNbbaBclBQ956PM4ygkkeHIl1y2%2Fvrl6wTACxVe9a9anTzd0S"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FbaNbbaBclBQ956PM4ygkkeHIl1y2%2Fvrl6wTACxVe9a9anTzd0S?alt=media&token=00076e78-255c-43fb-9f6b-848c2fcd2f53"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 119
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["baNbbaBclBQ956PM4ygkkeHIl1y2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 122
-approved_guest_count: 10
-local_image: "images/rQWNiqBcukfTYjBvwnji.png"
 canceled: false
+approved_guest_count: 19
+local_image: "images/rQWNiqBcukfTYjBvwnji.png"
 ---
 
 # Deep Tech/AI Startup Pitches and Investor Panels
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** Wallet Max  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 5:00pm–9:00pm ET
 **Where:** Midtown
-**Going:** 119 of 122
+**Going:** 19
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/rQWNiqBcukfTYjBvwnji
 
@@ -79,10 +77,6 @@ Eventbrite.com/e/deep-techai-startup-pitches-and-investor-panels-nytechweek-even
 ______________________________
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

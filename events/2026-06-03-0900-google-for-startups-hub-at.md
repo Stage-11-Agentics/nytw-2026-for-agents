@@ -8,26 +8,20 @@ end_time: "6:00pm ET"
 start_iso: "2026-06-03T13:00:00.000Z"
 end_iso: "2026-06-03T22:00:00.000Z"
 host: "Google for Startups"
-venue_name: "Metropolitan Arts & Antiques Pavilion"
-venue_address: "110 W 19th St, New York, NY 10011"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/ZzxFq9vcfoDUqBBRQTzv"
 public_short_url: "https://go.partiful.com/C0o1KOcD"
-google_maps: "https://www.google.com/maps/search/?api=1&query=110%20W%2019th%20St%2C%20New%20York%2C%20NY%2010011"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FrHxCovxMAacoEZ9KuJHPjAYLTDu2%2FJlG0ontkbcLgkr0ExscDP"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FrHxCovxMAacoEZ9KuJHPjAYLTDu2%2FJlG0ontkbcLgkr0ExscDP?alt=media&token=9836f30d-f88c-42cb-a657-5711a96084fb"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 727
 badges: []
 fetch_status: ok
 owner_count: 6
 owner_ids: ["rHxCovxMAacoEZ9KuJHPjAYLTDu2", "A6QMGq8qSxO0ms2FI62s8LGwumO2", "7DFu4rITofNzKIjA7hCx", "xpvIxjA7eha2VjlBr6k33rdhaaa2", "jYY4FSHvOINOTESXcxi37xmIqKg2", "UYuAoIBauwYSbU0yAop5YziWdL83"]
 is_capped: false
-total_guest_count: 726
-approved_guest_count: 136
-local_image: "images/ZzxFq9vcfoDUqBBRQTzv.png"
 canceled: false
+local_image: "images/ZzxFq9vcfoDUqBBRQTzv.png"
 ---
 
 # Google for Startups Hub at
@@ -36,11 +30,9 @@ canceled: false
 
 **Hosts:** Google for Startups  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 9:00am–6:00pm ET
-**Where:** Metropolitan Arts & Antiques Pavilion · 110 W 19th St, New York, NY 10011 · Chelsea
-**Going:** 727 of 726
+**Where:** Chelsea
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ZzxFq9vcfoDUqBBRQTzv
-**Map:** https://www.google.com/maps/search/?api=1&query=110%20W%2019th%20St%2C%20New%20York%2C%20NY%2010011
 
 ### Hosts on Partiful
 
@@ -69,10 +61,6 @@ Secure your VIP pass here for all-day access, or browse our schedule below, to R
 Please note: This Hub and its programming are strictly reserved for the startup community. Our sessions are unapologetically technical and built exclusively for early-stage founders, CTOs, and startup builders. If you are building the next generation of tech, this is your home base for state-of-the-art AI insights, hands-on workshops, and high-value networking.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

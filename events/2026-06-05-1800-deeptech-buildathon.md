@@ -11,30 +11,43 @@ host: "GenZtea, Soma Capital, Epiphany"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/8pmTKnFonLGM4FdI3MxF"
 public_short_url: "https://go.partiful.com/c49p9xaF"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FMnrTVn6T1Yc80jibtVg1tau6sQI2%2FvY4-4XWy0-lPL4wtZ3jTG"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FMnrTVn6T1Yc80jibtVg1tau6sQI2%2FvY4-4XWy0-lPL4wtZ3jTG?alt=media&token=b3a13701-2774-4c2d-82ce-34ca836e221e"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 60
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["MnrTVn6T1Yc80jibtVg1tau6sQI2", "7DFu4rITofNzKIjA7hCx", "frRaVseBfsfgMJ2stmzGbHxOago2", "oU58Nrs0njYGYjb2SHUElNR51iq1"]
 is_capped: false
-total_guest_count: 62
+canceled: true
+canceled_at: "2026-05-27T14:59:47.328Z"
+canceled_by: "MnrTVn6T1Yc80jibtVg1tau6sQI2"
+cancellation_message: "Due to changes within Soma Capital, the Deep Tech Buildathon is cancelled.\n\nBut GenZtea's NYC Tech Week lineup is still 🔥- join us:\n\nReverse Career Fair | June 2 | Hunter College\nGen Z Founder + Creator Mixer | June 4 | Microsoft Times Square\n🏆 Young Innovators Showcase | RSVP: partiful.com/e/T7KQRZ1EBzOI0lhAdXwp\n\nHope to see you there! 🫶"
 approved_guest_count: 0
 local_image: "images/8pmTKnFonLGM4FdI3MxF.png"
-canceled: false
 ---
 
 # Deeptech Buildathon
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-27T14:59:47.328Z_  
+>  
+> Due to changes within Soma Capital, the Deep Tech Buildathon is cancelled.  
+>   
+> But GenZtea's NYC Tech Week lineup is still 🔥- join us:  
+>   
+> Reverse Career Fair | June 2 | Hunter College  
+> Gen Z Founder + Creator Mixer | June 4 | Microsoft Times Square  
+> 🏆 Young Innovators Showcase | RSVP: partiful.com/e/T7KQRZ1EBzOI0lhAdXwp  
+>   
+> Hope to see you there! 🫶
 
 ![Deeptech Buildathon](images/8pmTKnFonLGM4FdI3MxF.png)
 
 **Hosts:** GenZtea, Soma Capital, Epiphany  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 6:00pm–9:00pm ET
 **Where:** SoHo
-**Going:** 60 of 62
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/8pmTKnFonLGM4FdI3MxF
 
@@ -70,10 +83,6 @@ Epiphany — an applied neurotechnology startup pioneering non-invasive approach
 
 
 event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

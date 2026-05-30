@@ -14,32 +14,39 @@ neighborhood: "Central Park"
 rsvp_url: "https://partiful.com/e/Wgd27MHUJPFotcMBodca"
 public_short_url: "https://go.partiful.com/I96Phcxk"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Upper%20West%20Side%2C%20Upper%20West%20Side%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FlC00MxA7jjctVfftB3q1zVFq9112%2FoF-9PWuEV7hUuoYoH8JFf"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FlC00MxA7jjctVfftB3q1zVFq9112%2FoF-9PWuEV7hUuoYoH8JFf?alt=media&token=105f2920-c5b6-4913-93d3-44dcea0b7d50"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 162
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["lC00MxA7jjctVfftB3q1zVFq9112", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 147
-remaining_capacity: 4
-total_guest_count: 165
-approved_guest_count: 143
+remaining_capacity: -49
+canceled: true
+canceled_at: "2026-05-30T15:23:16.115Z"
+canceled_by: "lC00MxA7jjctVfftB3q1zVFq9112"
+cancellation_message: "Heartbroken to have to cancel, I can't make it to NYC in time. Apologies; wishing you a great NY Tech Week nonetheless 🫶❤️👏🚀"
+approved_guest_count: 196
 local_image: "images/Wgd27MHUJPFotcMBodca.jpg"
-canceled: false
 ---
 
 # #NYTechWeek  Central Park Run 1
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-30T15:23:16.115Z_  
+>  
+> Heartbroken to have to cancel, I can't make it to NYC in time. Apologies; wishing you a great NY Tech Week nonetheless 🫶❤️👏🚀
 
 ![#NYTechWeek  Central Park Run 1](images/Wgd27MHUJPFotcMBodca.jpg)
 
 **Hosts:** off labs  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 7:00am–7:45am ET
 **Where:** Upper West Side · Upper West Side, Manhattan, New York, NY · Central Park
-**Capacity:** capped at 147 · 143 taken, 4 remaining
+**Capacity:** capped at 147 · 196 taken, -49 remaining
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Wgd27MHUJPFotcMBodca
 **Map:** https://www.google.com/maps/search/?api=1&query=Upper%20West%20Side%2C%20Upper%20West%20Side%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -58,10 +65,6 @@ Let's get Tech Week started early and with ENERGY! We'll do a 5km loop, at 6:00/
 Slight preference for active AI native builders (no matter how big or small your project), or those interested, and all are welcome. We will finish the run no later than 7:45 (assuming 6:00/km pace), with the run starting at exactly 7:07am sharp.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

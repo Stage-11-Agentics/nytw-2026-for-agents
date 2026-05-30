@@ -14,20 +14,18 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/Vs2eC7nERtgF0PgNWfUo"
 public_short_url: "https://go.partiful.com/84DqAseV"
 google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FYFnPMvlFrcfWjtE6PBVqVX8udC73%2F32SRwImXG_fO_OXToOz5k"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FYFnPMvlFrcfWjtE6PBVqVX8udC73%2F32SRwImXG_fO_OXToOz5k?alt=media&token=45e2bd34-b3fc-4e20-a2b8-007dafd71514"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 37
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["YFnPMvlFrcfWjtE6PBVqVX8udC73", "7DFu4rITofNzKIjA7hCx", "7zRUtTpKxyIDK9UN0Sim"]
 is_capped: false
-total_guest_count: 37
-approved_guest_count: 32
-local_image: "images/Vs2eC7nERtgF0PgNWfUo.png"
 canceled: false
+approved_guest_count: 54
+local_image: "images/Vs2eC7nERtgF0PgNWfUo.png"
 ---
 
 # Founders x Investors AI Toolkit & Happy Hour
@@ -37,7 +35,7 @@ canceled: false
 **Hosts:** Hatsu  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–9:00pm ET
 **Where:** New York, NY · New York, NY · Midtown
-**Going:** 37
+**Going:** 54
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Vs2eC7nERtgF0PgNWfUo
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -66,10 +64,6 @@ Expect panel discussions, networking, happy hour with AI robots bartenders, and 
 Learn more about Hatsu: https://hatsu.life
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

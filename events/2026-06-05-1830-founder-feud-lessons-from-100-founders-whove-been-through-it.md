@@ -11,20 +11,18 @@ host: "Forecastr"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/g2e6kS6GPDm0icQCC14A"
 public_short_url: "https://go.partiful.com/2q2gpp9f"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FkZOu4HYexyxsfVkNjTsB%2FY57YDFP6ZilXhbKS9Gcxv"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FkZOu4HYexyxsfVkNjTsB%2FY57YDFP6ZilXhbKS9Gcxv?alt=media&token=f910b82d-cfe0-45cb-b19d-2cd24e651534"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 42
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["kZOu4HYexyxsfVkNjTsB", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 43
-approved_guest_count: 38
-local_image: "images/g2e6kS6GPDm0icQCC14A.png"
 canceled: false
+approved_guest_count: 83
+local_image: "images/g2e6kS6GPDm0icQCC14A.png"
 ---
 
 # Founder Feud: Lessons from 100+ Founders Who've Been Through It
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** Forecastr  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 6:30pm–8:30pm ET
 **Where:** Flatiron
-**Going:** 42 of 43
+**Going:** 83
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/g2e6kS6GPDm0icQCC14A
 
@@ -65,10 +63,6 @@ Agenda:
 8:30pm — Event ends
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

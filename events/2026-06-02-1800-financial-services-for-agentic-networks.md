@@ -6,26 +6,21 @@ day: "Tuesday"
 start_time: "6:00pm ET"
 start_iso: "2026-06-02T22:00:00.000Z"
 host: "Foundation for Agentic Networks"
-venue_name: "New York, NY"
-venue_address: "New York, NY"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/qnkligFsuaxam07X1BEC"
 public_short_url: "https://go.partiful.com/cjAhlzsS"
-google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://assets.getpartiful.com/posters/Let's%20Party"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FN0PGJ56SDLTshkW4cWK5QtGiE6r2%2F_ovu3Dg4YoRJdaMP6qOX4?alt=media&token=ff5ad86b-784a-41f5-a762-4a86b02af818"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 98
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["N0PGJ56SDLTshkW4cWK5QtGiE6r2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 99
-approved_guest_count: 96
-local_image: "images/qnkligFsuaxam07X1BEC.jpg"
 canceled: false
+approved_guest_count: 190
+local_image: "images/qnkligFsuaxam07X1BEC.jpg"
 ---
 
 # Financial Services for Agentic Networks
@@ -34,11 +29,10 @@ canceled: false
 
 **Hosts:** Foundation for Agentic Networks  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm ET
-**Where:** New York, NY · New York, NY · Financial District
-**Going:** 98 of 99
+**Where:** Financial District
+**Going:** 190
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/qnkligFsuaxam07X1BEC
-**Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -48,13 +42,21 @@ canceled: false
 
 ## Description
 
-Panel and networking - what will financial services look like in the Agentic Era? For business? For consumer?
+Financial Services in the Age of Agentic Networks
+
+Agentic AI is rewriting financial services, and the Foundation for Agentic Networks is hosting this event with ONE goal: build connections between founders, enterprise, and the investment community.
+
+Agenda
+6:00pm:  Welcome drinks + appetizers
+6:30pm    "The Agentic Moment in Finance", Chris Pease, CEO (Foundation for Agentic Networks)
+6:45pm   Panel: Financial Services in an Agentic World
+                  Sandeep Mehandru, Senior Capital Markets (Google)
+                  Pratheep Ramanujam, VP (Goldman Sachs)
+7:15 - 8:00pm Networking
+
+Perfect for founders, operators, executives and investors navigating the near-future of finance and Agentic AI.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

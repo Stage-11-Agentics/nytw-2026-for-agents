@@ -9,20 +9,18 @@ host: "ZeroToIP"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/4LCCR5kpekyh34XHD4Pu"
 public_short_url: "https://go.partiful.com/Ku9mfsFR"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FPht3cCdTltVV5DfPfTrEcTn3nwO2%2F7ofmyP7Yj5dFZDExaSc8c"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FPht3cCdTltVV5DfPfTrEcTn3nwO2%2F7ofmyP7Yj5dFZDExaSc8c?alt=media&token=bd0da43b-a94d-4822-bf44-726b549b426d"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 46
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["Pht3cCdTltVV5DfPfTrEcTn3nwO2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 46
+canceled: false
 approved_guest_count: 0
 local_image: "images/4LCCR5kpekyh34XHD4Pu.png"
-canceled: false
 ---
 
 # The 10x Moat: Valuation, Competitors, and IP Rights
@@ -32,7 +30,6 @@ canceled: false
 **Hosts:** ZeroToIP  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 4:00pm ET
 **Where:** Midtown
-**Going:** 46
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/4LCCR5kpekyh34XHD4Pu
 
@@ -58,10 +55,6 @@ What to file now, before your next round prices
 An IP health check you can run against your own portfolio Wednesday morning
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

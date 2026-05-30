@@ -14,22 +14,20 @@ neighborhood: "Brooklyn"
 rsvp_url: "https://partiful.com/e/QhKMD8jxyBTLBPL2WlQJ"
 public_short_url: "https://go.partiful.com/V2gPjGHH"
 google_maps: "https://www.google.com/maps/search/?api=1&query=25%20Kent%20Ave%2C%20Brooklyn%2C%20NY%2011249"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FOSXT5FliwDUt8iw0yG7vHxtJJdx1%2FLjpkYKc2ffLRPNOgQ9QRu"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FOSXT5FliwDUt8iw0yG7vHxtJJdx1%2FLjpkYKc2ffLRPNOgQ9QRu?alt=media&token=b00ccb6a-5754-42bc-b2fb-de8bf81fa2dc"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 898
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["OSXT5FliwDUt8iw0yG7vHxtJJdx1", "7DFu4rITofNzKIjA7hCx", "WwPo1IF9JXPDA8cCyY7JoBQzA8M2", "swEfJ2jFMsQYhSyj47EKpMw6Gg03"]
 is_capped: true
 max_capacity: 180
-remaining_capacity: 120
-total_guest_count: 900
-approved_guest_count: 60
-local_image: "images/QhKMD8jxyBTLBPL2WlQJ.png"
+remaining_capacity: 38
 canceled: false
+approved_guest_count: 142
+local_image: "images/QhKMD8jxyBTLBPL2WlQJ.png"
 ---
 
 # Self-Custody Starts with Health by ionava @ Othership
@@ -39,7 +37,7 @@ canceled: false
 **Hosts:** Coeus Collective Ventures, ionava  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 1:30pm–3:30pm ET
 **Where:** Othership Williamsburg · 25 Kent Ave, Brooklyn, NY 11249 · Brooklyn
-**Capacity:** capped at 180 · 60 taken, 120 remaining
+**Capacity:** capped at 180 · 142 taken, 38 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/QhKMD8jxyBTLBPL2WlQJ
 **Map:** https://www.google.com/maps/search/?api=1&query=25%20Kent%20Ave%2C%20Brooklyn%2C%20NY%2011249
@@ -67,10 +65,6 @@ Please kindly note that photography and videography will take place throughout t
 By attending, you consent to the use of your likeness, voice, and appearance in event recap, promotional, and marketing materials by ionava, Othership, and their partners.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

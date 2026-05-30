@@ -9,20 +9,19 @@ host: "GLOBAL PORTAL INSTITUTE, THE PORT GLOBAL"
 neighborhood: "Virtual (NYC)"
 rsvp_url: "https://partiful.com/e/Nz0QBVpUivKQKpzIs7Xl"
 public_short_url: "https://go.partiful.com/s3zjFVjI"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fvqk0tlNZ48ZPLBB8fyNG0tw6xYe2%2FcYLo_je4sAZH7TkpRGmq2"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fvqk0tlNZ48ZPLBB8fyNG0tw6xYe2%2FcYLo_je4sAZH7TkpRGmq2?alt=media&token=c46bedf9-69b3-416d-ad1a-16e34d3c751b"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 24
+going_guest_count: 29
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["vqk0tlNZ48ZPLBB8fyNG0tw6xYe2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 26
+canceled: false
 approved_guest_count: 0
 local_image: "images/Nz0QBVpUivKQKpzIs7Xl.png"
-canceled: false
 ---
 
 # Diasporic Impact Tech: Revitalizing Millenary Solutions to Redefine How We Live and Interact
@@ -32,7 +31,7 @@ canceled: false
 **Hosts:** GLOBAL PORTAL INSTITUTE, THE PORT GLOBAL
 **When:** Friday, June 5, 2026 · 12:00pm ET
 **Where:** Virtual (NYC)
-**Going:** 24 of 26
+**Going:** 29
 **RSVP:** https://partiful.com/e/Nz0QBVpUivKQKpzIs7Xl
 
 ### Hosts on Partiful
@@ -50,10 +49,6 @@ Following Tech Week NY 2025 (https://www.globalportal.in/nytechweek2025), this f
 ---
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

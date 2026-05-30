@@ -8,39 +8,31 @@ end_time: "7:00pm ET"
 start_iso: "2026-06-03T21:00:00.000Z"
 end_iso: "2026-06-03T23:00:00.000Z"
 host: "Deel, Escalon, Withum"
-venue_name: "Greenwich Village"
-venue_address: "Greenwich Village, Manhattan, New York, NY"
 neighborhood: "Greenwich Village"
 rsvp_url: "https://partiful.com/e/j0xoBU60bTkvoB7XSbld"
 public_short_url: "https://go.partiful.com/mGV17BD0"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Greenwich%20Village%2C%20Greenwich%20Village%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F4HTFLapxufSa49SBiTYubyTEhNr2%2FLQILnZj-0ictBTWZ6pPHQ"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F4HTFLapxufSa49SBiTYubyTEhNr2%2FUZRuTDiGWCeURkwlfVH7V?alt=media&token=e8f80397-8008-4dbb-ab11-167caa9e047c"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 208
 badges: []
 fetch_status: ok
-owner_count: 5
-owner_ids: ["4HTFLapxufSa49SBiTYubyTEhNr2", "y02ADABgWcbL8ENKlNHlvXDWJTh1", "nwB7r0Ss2seRaHdQeKFGzg2SgJc2", "3EeCD011elVljhzpMFi87xx6q7t2", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 8
+owner_ids: ["4HTFLapxufSa49SBiTYubyTEhNr2", "y02ADABgWcbL8ENKlNHlvXDWJTh1", "nwB7r0Ss2seRaHdQeKFGzg2SgJc2", "3EeCD011elVljhzpMFi87xx6q7t2", "7DFu4rITofNzKIjA7hCx", "j4Xh3MpFywUbSHVbdFoVtz92F332", "nOXHnTpfe6hvzTOe3uwhpsB89hk1", "mH6BudUtjuPodMmC0BNIujr2uWr2"]
 is_capped: false
-total_guest_count: 210
-approved_guest_count: 1
-local_image: "images/j0xoBU60bTkvoB7XSbld.png"
 canceled: false
+local_image: "images/j0xoBU60bTkvoB7XSbld.png"
 ---
 
 # 🍻Write It Off - Happy Hour w/ Escalon x Withum x Deel
 
 ![🍻Write It Off - Happy Hour w/ Escalon x Withum x Deel](images/j0xoBU60bTkvoB7XSbld.png)
 
-**Hosts:** Deel, Escalon, Withum  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** Deel, Escalon, Withum  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:00pm–7:00pm ET
-**Where:** Greenwich Village · Greenwich Village, Manhattan, New York, NY · Greenwich Village
-**Going:** 208 of 210
+**Where:** Greenwich Village
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/j0xoBU60bTkvoB7XSbld
-**Map:** https://www.google.com/maps/search/?api=1&query=Greenwich%20Village%2C%20Greenwich%20Village%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -48,6 +40,9 @@ canceled: false
 - [Jessica Offer](https://partiful.com/u/y02ADABgWcbL8ENKlNHlvXDWJTh1)
 - [Julianna Nicholson](https://partiful.com/u/nwB7r0Ss2seRaHdQeKFGzg2SgJc2)
 - [Nicole Haverick](https://partiful.com/u/3EeCD011elVljhzpMFi87xx6q7t2)
+- [Sydney](https://partiful.com/u/j4Xh3MpFywUbSHVbdFoVtz92F332)
+- [Don Floss](https://partiful.com/u/nOXHnTpfe6hvzTOe3uwhpsB89hk1)
+- [Maddi Woronoff](https://partiful.com/u/mH6BudUtjuPodMmC0BNIujr2uWr2)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -59,8 +54,8 @@ New York Tech Week is here, and we’re kicking things off the right way. Join u
 
 📆 Wednesday, June 3, 2026
 🕰 5:00 - 7:00pm ET
-📍COMING SOON
-🗺 COMING SOON
+📍DETAILS AVAILABLE for individuals approved 
+🗺 DETAILS AVAILABLE for individuals approved 
 
 _________
 
@@ -79,10 +74,6 @@ Deel
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

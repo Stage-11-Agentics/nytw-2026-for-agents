@@ -14,30 +14,29 @@ neighborhood: "Brooklyn"
 rsvp_url: "https://partiful.com/e/4rtcBM1p9koZrSoVzmUV"
 public_short_url: "https://go.partiful.com/lAhVRb0D"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Prospect%20Park%2C%20Prospect%20Park%2C%20Brooklyn%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2Fnw8AUcgFrgVRXrRDrvGGcmykOrq1%2FJoKRQwPOwgn8D9_wsSX5h"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2Fnw8AUcgFrgVRXrRDrvGGcmykOrq1%2FJoKRQwPOwgn8D9_wsSX5h?alt=media&token=58076df6-5a75-4b35-aa44-24300828d782"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 41
+going_guest_count: 79
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["nw8AUcgFrgVRXrRDrvGGcmykOrq1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 104
+canceled: false
 approved_guest_count: 0
 image_download_error: "HTTP Error 403: Forbidden"
-canceled: false
 ---
 
 # NY Tech Week Volleyball
 
-![NY Tech Week Volleyball](https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2Fnw8AUcgFrgVRXrRDrvGGcmykOrq1%2FJoKRQwPOwgn8D9_wsSX5h)
+![NY Tech Week Volleyball](https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2Fnw8AUcgFrgVRXrRDrvGGcmykOrq1%2FJoKRQwPOwgn8D9_wsSX5h?alt=media&token=58076df6-5a75-4b35-aa44-24300828d782)
 
 **Hosts:** mobius  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–8:00pm ET
 **Where:** Prospect Park · Prospect Park, Brooklyn, New York, NY · Brooklyn
-**Going:** 41 of 104
+**Going:** 79
 **RSVP:** https://partiful.com/e/4rtcBM1p9koZrSoVzmUV
 **Map:** https://www.google.com/maps/search/?api=1&query=Prospect%20Park%2C%20Prospect%20Park%2C%20Brooklyn%2C%20New%20York%2C%20NY
 
@@ -58,10 +57,6 @@ We'll be providing some non-alcoholic beverages for the group. If you wish to co
 See you there!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

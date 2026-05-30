@@ -11,20 +11,18 @@ host: "Supermomos"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/HQPPxEZjvR5AnmRkv8Pp"
 public_short_url: "https://go.partiful.com/b3az8lEJ"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FiWo82h1ANVTansHF9NVS%2FBruRhN7pfoR2U2lSaIj7t"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FiWo82h1ANVTansHF9NVS%2FBruRhN7pfoR2U2lSaIj7t?alt=media&token=05fe1755-9dc1-4d74-a3f6-f10398f7437c"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 38
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["iWo82h1ANVTansHF9NVS", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 38
+canceled: false
 approved_guest_count: 0
 local_image: "images/HQPPxEZjvR5AnmRkv8Pp.png"
-canceled: false
 ---
 
 # Private CISO Dinner
@@ -34,7 +32,6 @@ canceled: false
 **Hosts:** Supermomos  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:30pm–8:30pm ET
 **Where:** Midtown
-**Going:** 38
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/HQPPxEZjvR5AnmRkv8Pp
 
@@ -55,10 +52,6 @@ Together, we’ll discuss emerging risks, strategic priorities, and action plans
 This private, invite-only dinner is designed to foster candid discussion and peer learning among senior security executives navigating the ever-changing threat and compliance landscape.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

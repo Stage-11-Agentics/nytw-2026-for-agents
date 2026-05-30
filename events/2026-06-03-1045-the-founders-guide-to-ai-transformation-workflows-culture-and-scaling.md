@@ -8,25 +8,20 @@ end_time: "12:15pm ET"
 start_iso: "2026-06-03T14:45:00.000Z"
 end_iso: "2026-06-03T16:15:00.000Z"
 host: "Google for Startups"
-venue_address: "110 W 19th St, New York, NY 10011"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/A1b26sUya85y2x7bGw2z"
 public_short_url: "https://go.partiful.com/2mpdF7Ey"
-google_maps: "https://www.google.com/maps/search/?api=1&query=110%20W%2019th%20St%2C%20New%20York%2C%20NY%2010011"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FrHxCovxMAacoEZ9KuJHPjAYLTDu2%2F_5B-5EE5Kqv4BlYDzuVG3"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FrHxCovxMAacoEZ9KuJHPjAYLTDu2%2F_5B-5EE5Kqv4BlYDzuVG3?alt=media&token=e5cd100e-7cc8-48d7-a354-b48219f7dd6a"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 437
 badges: []
 fetch_status: ok
 owner_count: 6
 owner_ids: ["rHxCovxMAacoEZ9KuJHPjAYLTDu2", "7DFu4rITofNzKIjA7hCx", "xpvIxjA7eha2VjlBr6k33rdhaaa2", "jYY4FSHvOINOTESXcxi37xmIqKg2", "UYuAoIBauwYSbU0yAop5YziWdL83", "A6QMGq8qSxO0ms2FI62s8LGwumO2"]
 is_capped: false
-total_guest_count: 437
-approved_guest_count: 132
-local_image: "images/A1b26sUya85y2x7bGw2z.png"
 canceled: false
+local_image: "images/A1b26sUya85y2x7bGw2z.png"
 ---
 
 # The Founder's Guide to AI Transformation: Workflows, Culture, and Scaling
@@ -35,11 +30,9 @@ canceled: false
 
 **Hosts:** Google for Startups  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 10:45am–12:15pm ET
-**Where:** 110 W 19th St, New York, NY 10011 · Chelsea
-**Going:** 437
+**Where:** Chelsea
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/A1b26sUya85y2x7bGw2z
-**Map:** https://www.google.com/maps/search/?api=1&query=110%20W%2019th%20St%2C%20New%20York%2C%20NY%2010011
 
 ### Hosts on Partiful
 
@@ -66,10 +59,6 @@ We expect these sessions to fill up quickly and be in high demand.  Space is lim
 Guests will be permitted in the Google for Startups Hub only during the time slot they are approved for.  
 
 We invite all guests to return for the Google For Developers Happy Hour at 4p.  Only those with valid badges will be permitted, space allowing.
-
-
-
-
 
 
 

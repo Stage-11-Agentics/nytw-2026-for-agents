@@ -11,22 +11,20 @@ host: "The Vertical, HumanFactor™ Enterprises"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/rHqfTd6Pxla6Sy7xkpkp"
 public_short_url: "https://go.partiful.com/JZkit88I"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJWhsHkifBWPIyhMiY58OqCjOwxo1%2Fzh5cvoX4YvkXtmbPdvBy1"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJWhsHkifBWPIyhMiY58OqCjOwxo1%2Fzh5cvoX4YvkXtmbPdvBy1?alt=media&token=65dd6e47-35a7-4687-b9f3-c89ccb78c690"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 17
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["JWhsHkifBWPIyhMiY58OqCjOwxo1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 17
-approved_guest_count: 0
-local_image: "images/rHqfTd6Pxla6Sy7xkpkp.png"
 canceled: true
 canceled_at: "2026-05-12T16:50:57.825Z"
 canceled_by: "JWhsHkifBWPIyhMiY58OqCjOwxo1"
+approved_guest_count: 0
+local_image: "images/rHqfTd6Pxla6Sy7xkpkp.png"
 ---
 
 # Stakeholder Risk: The Hidden Driver of Value Creation & Loss
@@ -39,7 +37,6 @@ canceled_by: "JWhsHkifBWPIyhMiY58OqCjOwxo1"
 **Hosts:** The Vertical, HumanFactor™ Enterprises
 **When:** Thursday, June 4, 2026 · 5:00pm–8:30pm ET
 **Where:** Midtown
-**Going:** 17
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/rHqfTd6Pxla6Sy7xkpkp
 
@@ -90,10 +87,6 @@ HumanFactor Enterprises, the world leader in stakeholder risk intelligentce.
 The Vertical, an online publication covering the international venture ecosystem.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

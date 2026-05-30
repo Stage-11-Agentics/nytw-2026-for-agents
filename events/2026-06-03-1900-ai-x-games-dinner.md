@@ -9,22 +9,20 @@ host: "nunu.ai, Greater Zurich Area"
 neighborhood: "Lower East Side"
 rsvp_url: "https://partiful.com/e/sKDElAcr0GLf9YUmGq3t"
 public_short_url: "https://go.partiful.com/uCQBN0WS"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F5dyGU7suUARe6DZWMqdZyFzkam83%2FRNwbXq_OAfdDhdPGTzR2M"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F5dyGU7suUARe6DZWMqdZyFzkam83%2FRNwbXq_OAfdDhdPGTzR2M?alt=media&token=ed0259a4-fce8-4b25-9e6b-40b625278a57"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 72
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["5dyGU7suUARe6DZWMqdZyFzkam83", "7DFu4rITofNzKIjA7hCx", "5l1CINAFueTWciRRRBqQQRhOHWz1"]
 is_capped: true
 max_capacity: 25
-remaining_capacity: 25
-total_guest_count: 74
-approved_guest_count: 0
-local_image: "images/sKDElAcr0GLf9YUmGq3t.png"
+remaining_capacity: 7
 canceled: false
+approved_guest_count: 18
+local_image: "images/sKDElAcr0GLf9YUmGq3t.png"
 ---
 
 # AI x Games Dinner
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** nunu.ai, Greater Zurich Area  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 7:00pm ET
 **Where:** Lower East Side
-**Capacity:** capped at 25 · 0 taken, 25 remaining
+**Capacity:** capped at 25 · 18 taken, 7 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/sKDElAcr0GLf9YUmGq3t
 
@@ -56,10 +54,6 @@ Expect thoughtful conversations, live perspectives from operators in the field, 
 Seats are limited.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

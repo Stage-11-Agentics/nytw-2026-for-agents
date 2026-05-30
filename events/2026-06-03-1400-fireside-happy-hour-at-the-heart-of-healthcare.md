@@ -7,40 +7,34 @@ start_time: "2:00pm ET"
 end_time: "5:00pm ET"
 start_iso: "2026-06-03T18:00:00.000Z"
 end_iso: "2026-06-03T21:00:00.000Z"
-host: "Scalpels & Spreadsheets, Accurkardia"
-venue_name: "307 West 38th Street"
-venue_address: "307 W 38th St, New York, NY 10018"
+host: "Accurkardia, Scalpels & Spreadsheets"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/IuM6WxNvQPgCdA5IKtW3"
 public_short_url: "https://go.partiful.com/T0oUTGSt"
-google_maps: "https://www.google.com/maps/search/?api=1&query=307%20W%2038th%20St%2C%20New%20York%2C%20NY%2010018"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F9K2ip5KfG1VOTKg73Vjq%2Fnt9o1GYSlJuFUsI0ljP0L"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F9K2ip5KfG1VOTKg73Vjq%2FNnypiCvnNXj3mv-kcyox3?alt=media&token=db5c1593-6d45-4c63-afbc-5ef3d7f46858"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 95
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["9K2ip5KfG1VOTKg73Vjq", "7DFu4rITofNzKIjA7hCx", "VAQ5yC2pmlhgZNKWqkR2UBtvx003"]
 is_capped: false
-total_guest_count: 97
-approved_guest_count: 80
-local_image: "images/IuM6WxNvQPgCdA5IKtW3.png"
 canceled: false
+approved_guest_count: 148
+local_image: "images/IuM6WxNvQPgCdA5IKtW3.png"
 ---
 
 # Fireside + Happy Hour: At the Heart of Healthcare
 
 ![Fireside + Happy Hour: At the Heart of Healthcare](images/IuM6WxNvQPgCdA5IKtW3.png)
 
-**Hosts:** Scalpels & Spreadsheets, Accurkardia  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Accurkardia, Scalpels & Spreadsheets  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 2:00pm–5:00pm ET
-**Where:** 307 West 38th Street · 307 W 38th St, New York, NY 10018 · Midtown
-**Going:** 95 of 97
+**Where:** Midtown
+**Going:** 148
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/IuM6WxNvQPgCdA5IKtW3
-**Map:** https://www.google.com/maps/search/?api=1&query=307%20W%2038th%20St%2C%20New%20York%2C%20NY%2010018
 
 ### Hosts on Partiful
 
@@ -71,10 +65,6 @@ Panel: 3.00PM - 3.45PM
 Networking and Happy Hour: 3.45 - 5.00PM
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

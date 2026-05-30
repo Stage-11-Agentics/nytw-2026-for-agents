@@ -7,7 +7,7 @@ start_time: "6:00pm ET"
 end_time: "8:00pm ET"
 start_iso: "2026-06-03T22:00:00.000Z"
 end_iso: "2026-06-04T00:00:00.000Z"
-host: "Unlocked Consultancy"
+host: "Unlocked Consultancy, Gartner"
 venue_name: "The Yard: Columbus Circle"
 venue_address: "33 W 60th St, New York, NY 10023"
 neighborhood: "Midtown"
@@ -18,15 +18,13 @@ image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/ex
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 60
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["21pbqC443tbCuR6gckjmTMxhENF3", "YEooLYZxPtR4aNQ86I1kX6JDzIq1", "7DFu4rITofNzKIjA7hCx", "0cC8swJamuXEhefDbbn7RnOAd0C3"]
 is_capped: false
 canceled: false
-total_guest_count: 60
-approved_guest_count: 0
+approved_guest_count: 78
 local_image: "images/r9eck0K6ZWexRHMzjGNV.png"
 ---
 
@@ -34,10 +32,10 @@ local_image: "images/r9eck0K6ZWexRHMzjGNV.png"
 
 ![Trust, Talent & AI in the Enterprise](images/r9eck0K6ZWexRHMzjGNV.png)
 
-**Hosts:** Unlocked Consultancy  _(+3 more host(s) on Partiful — see description for full list)_
+**Hosts:** Unlocked Consultancy, Gartner  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–8:00pm ET
 **Where:** The Yard: Columbus Circle · 33 W 60th St, New York, NY 10023 · Midtown
-**Going:** 60
+**Going:** 78
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/r9eck0K6ZWexRHMzjGNV
 **Map:** https://www.google.com/maps/search/?api=1&query=33%20W%2060th%20St%2C%20New%20York%2C%20NY%2010023
@@ -46,7 +44,7 @@ local_image: "images/r9eck0K6ZWexRHMzjGNV.png"
 
 - [Lucy](https://partiful.com/u/21pbqC443tbCuR6gckjmTMxhENF3)
 - [Andrea Henderson](https://partiful.com/u/YEooLYZxPtR4aNQ86I1kX6JDzIq1)
-- [user `0cC8swJamuXEhefDbbn7RnOAd0C3`](https://partiful.com/u/0cC8swJamuXEhefDbbn7RnOAd0C3) _(name not resolved)_
+- [Adrian Simpson](https://partiful.com/u/0cC8swJamuXEhefDbbn7RnOAd0C3)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -67,6 +65,7 @@ Real talk on what's shifting, what's hype, the big buzz word of trust and what l
 Drinks + networking to follow.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 ---

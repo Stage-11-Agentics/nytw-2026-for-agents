@@ -14,21 +14,20 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/kWJ6biyd9u1mGrlP3NU4"
 public_short_url: "https://go.partiful.com/VxK5hxS2"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FaYEX81qeRhMFLs41itS2z0IdW573%2FMg392Ho3INMuc2be-C0hq"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FaYEX81qeRhMFLs41itS2z0IdW573%2FMg392Ho3INMuc2be-C0hq?alt=media&token=f6da7344-bcf8-4b6d-a1b3-7d5070986295"
 visibility: "public"
-at_capacity: false
-going_guest_count: 75
+at_capacity: true
+going_guest_count: 141
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["7L2isZRy2mgPHEocJVgGMpcqSJ22", "aYEX81qeRhMFLs41itS2z0IdW573", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 140
-remaining_capacity: 62
-total_guest_count: 83
+max_capacity: 141
+remaining_capacity: 0
+canceled: false
 approved_guest_count: 0
 local_image: "images/kWJ6biyd9u1mGrlP3NU4.png"
-canceled: false
 ---
 
 # AI at Scale: From Deployment to Business Impact
@@ -38,7 +37,8 @@ canceled: false
 **Hosts:** Jobbrex, SocialEDG  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 2:00pm–3:30pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Capacity:** capped at 140 · 78 taken, 62 remaining
+**Capacity:** capped at 141 · 141 taken, 0 remaining · ⚠ **FULL**
+**Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/kWJ6biyd9u1mGrlP3NU4
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
 
@@ -77,13 +77,11 @@ MODERATOR:
 
 VENUE LOCATION:
 Thomson Reuters | Times Square, Midtown
-3 Times Sq, New York, NY
+
+
+Seating is limited and available on a first-come, first-served basis.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

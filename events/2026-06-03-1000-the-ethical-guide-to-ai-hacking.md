@@ -12,20 +12,18 @@ neighborhood: "Union Square"
 rsvp_url: "https://partiful.com/e/GA2rWFRC5nPohWnE3vJU"
 public_short_url: "https://go.partiful.com/Sf7YlEe0"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FTzICBgxWkVcDP7u6bWrv7pErgQo1%2FlOXQ_Iys_PPJ7M1DF5E7B"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FTzICBgxWkVcDP7u6bWrv7pErgQo1%2FlOXQ_Iys_PPJ7M1DF5E7B?alt=media&token=bbcb52ce-94cc-4c76-9eab-01fe85983247"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 7
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["TzICBgxWkVcDP7u6bWrv7pErgQo1", "7DFu4rITofNzKIjA7hCx", "K5BvXyKdG9ajSoXIYLo9FucCyHy2"]
 is_capped: false
-total_guest_count: 7
-approved_guest_count: 4
-local_image: "images/GA2rWFRC5nPohWnE3vJU.png"
 canceled: false
+approved_guest_count: 7
+local_image: "images/GA2rWFRC5nPohWnE3vJU.png"
 ---
 
 # The (Ethical) Guide To (AI) Hacking
@@ -83,10 +81,6 @@ A safe space for your tech team.
 Seats are limited. We need volunteers willing to let us attempt to break into their product live. Sign up in the RSVP notes if you're brave enough to hear your weakness exposed, but courageous enough to take action on them.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

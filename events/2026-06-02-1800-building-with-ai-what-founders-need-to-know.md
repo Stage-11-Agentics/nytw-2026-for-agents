@@ -8,28 +8,26 @@ end_time: "8:00pm ET"
 start_iso: "2026-06-02T22:00:00.000Z"
 end_iso: "2026-06-03T00:00:00.000Z"
 host: "CS in Focus, StartStak.Ai"
-venue_name: "World Trade Center"
-venue_address: "World Trade Center, Manhattan, New York, NY"
+venue_name: "One World Trade Center"
+venue_address: "285 Fulton St, New York, NY 10007"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/OABGjYptXq9pQerSnaAq"
 public_short_url: "https://go.partiful.com/LrJC8N73"
-google_maps: "https://www.google.com/maps/search/?api=1&query=World%20Trade%20Center%2C%20World%20Trade%20Center%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FvIr90wjfnQfMmzXbLgmDFC2aB2j2%2F27VCLEpZT-ubdymYDkcM3"
+google_maps: "https://www.google.com/maps/search/?api=1&query=285%20Fulton%20St%2C%20New%20York%2C%20NY%2010007"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FvIr90wjfnQfMmzXbLgmDFC2aB2j2%2F27VCLEpZT-ubdymYDkcM3?alt=media&token=bada6613-1d7b-4f04-ada8-44247b464d23"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 91
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["vIr90wjfnQfMmzXbLgmDFC2aB2j2", "7DFu4rITofNzKIjA7hCx", "cDTBUosGpmY9VJTHocSNwxv95bq1"]
 is_capped: true
-max_capacity: 80
-remaining_capacity: 11
-total_guest_count: 94
-approved_guest_count: 69
-local_image: "images/OABGjYptXq9pQerSnaAq.png"
+max_capacity: 60
+remaining_capacity: 4
 canceled: false
+approved_guest_count: 56
+local_image: "images/OABGjYptXq9pQerSnaAq.png"
 ---
 
 # Building with AI: What Founders Need to Know
@@ -38,11 +36,11 @@ canceled: false
 
 **Hosts:** CS in Focus, StartStak.Ai  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–8:00pm ET
-**Where:** World Trade Center · World Trade Center, Manhattan, New York, NY · Midtown
-**Capacity:** capped at 80 · 69 taken, 11 remaining
+**Where:** One World Trade Center · 285 Fulton St, New York, NY 10007 · Midtown
+**Capacity:** capped at 60 · 56 taken, 4 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/OABGjYptXq9pQerSnaAq
-**Map:** https://www.google.com/maps/search/?api=1&query=World%20Trade%20Center%2C%20World%20Trade%20Center%2C%20Manhattan%2C%20New%20York%2C%20NY
+**Map:** https://www.google.com/maps/search/?api=1&query=285%20Fulton%20St%2C%20New%20York%2C%20NY%2010007
 
 ### Hosts on Partiful
 
@@ -63,10 +61,6 @@ If you are an early-stage founder or GTM operator working on an AI product right
 One question on every RSVP: "What are you building with AI right now?" That is how we keep it worth your time.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

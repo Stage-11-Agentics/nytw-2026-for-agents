@@ -8,28 +8,21 @@ end_time: "9:00am ET"
 start_iso: "2026-06-05T11:30:00.000Z"
 end_iso: "2026-06-05T13:00:00.000Z"
 host: "Run Tech Club, Wildwood Ventures"
-venue_name: "Fabrik"
-venue_address: "16 Vestry St, New York, NY 10013"
 neighborhood: "Tribeca"
 rsvp_url: "https://partiful.com/e/OiFkcaWT26YBs7Hr5dtL"
 public_short_url: "https://go.partiful.com/Nk3Xk2hg"
-google_maps: "https://www.google.com/maps/search/?api=1&query=16%20Vestry%20St%2C%20New%20York%2C%20NY%2010013"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F1GsUsNRS6RVYqYoiM5Mys3l8fRl2%2FY0YX3IfSGyYpEvFhxKo0z"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F1GsUsNRS6RVYqYoiM5Mys3l8fRl2%2FY0YX3IfSGyYpEvFhxKo0z?alt=media&token=3791badd-0570-4840-9977-ba50fc26d4ae"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 78
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["1GsUsNRS6RVYqYoiM5Mys3l8fRl2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 22
-total_guest_count: 81
-approved_guest_count: 78
-local_image: "images/OiFkcaWT26YBs7Hr5dtL.png"
 canceled: false
+local_image: "images/OiFkcaWT26YBs7Hr5dtL.png"
 ---
 
 # Run Tech Club #NYTechWeek | Signal Run x Wildwood Ventures
@@ -38,11 +31,11 @@ canceled: false
 
 **Hosts:** Run Tech Club, Wildwood Ventures
 **When:** Friday, June 5, 2026 · 7:30am–9:00am ET
-**Where:** Fabrik · 16 Vestry St, New York, NY 10013 · Tribeca
-**Capacity:** capped at 100 · 78 taken, 22 remaining
+**Where:** Tribeca
+**Capacity:** capped at 100
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/OiFkcaWT26YBs7Hr5dtL
-**Map:** https://www.google.com/maps/search/?api=1&query=16%20Vestry%20St%2C%20New%20York%2C%20NY%2010013
 
 ### Hosts on Partiful
 
@@ -80,10 +73,6 @@ Wildwood Ventures (Backed by VF Corp. Fortune 500 owner of iconic brands like Th
 
 ———
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

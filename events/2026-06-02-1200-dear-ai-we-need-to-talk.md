@@ -11,20 +11,18 @@ host: "Axioned"
 neighborhood: "Gramercy Park"
 rsvp_url: "https://partiful.com/e/ilARL2exT4so55TVKWEW"
 public_short_url: "https://go.partiful.com/AH5Ekxi6"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FlnC1pHUr0sZMUq45ji7t1ynDzAC2%2FloH882G3ttq6v9cDtzc4d"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FlnC1pHUr0sZMUq45ji7t1ynDzAC2%2FloH882G3ttq6v9cDtzc4d?alt=media&token=5299274c-a456-436c-87e4-b3b68937037f"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 532
 badges: []
 fetch_status: ok
 owner_count: 5
 owner_ids: ["lnC1pHUr0sZMUq45ji7t1ynDzAC2", "7DFu4rITofNzKIjA7hCx", "KkLukq1ZXwOjorBsd4DTRiek7aI2", "Es23ddwRfiW8PmoTtkTJpVVTNBq2", "8pXp7JMLL6OVG408gJc5"]
 is_capped: false
-total_guest_count: 531
-approved_guest_count: 68
-local_image: "images/ilARL2exT4so55TVKWEW.png"
 canceled: false
+approved_guest_count: 117
+local_image: "images/ilARL2exT4so55TVKWEW.png"
 ---
 
 # Dear AI, We Need To Talk.
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** Axioned  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 12:00pm–12:45pm ET
 **Where:** Gramercy Park
-**Going:** 532 of 531
+**Going:** 117
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ilARL2exT4so55TVKWEW
 
@@ -65,8 +63,8 @@ This session is for people whose AI projects are flailing in some form or fashio
 
 Your panel slash "Agony Aunts/Uncles" include:
 1/ Darlene Newman (Ivy Cap Tech)
-2/ Anurag Banerjee (Axioned)
-3/ Confirming soon!
+2/ Anurag Banerjee (Axioned - COO & Head of AI Adoption)
+3/ Drew Burchfield (VP Product/AI Delivery)
 
 Three people who have been hands-on working with:
 * AI implementation inside real businesses
@@ -75,10 +73,6 @@ Three people who have been hands-on working with:
 * data, accuracy, and reliability challenges
 * scaling AI projects beyond the prototype stage
 * rescuing projects that stalled after leadership bought into the hype
-
-
-
-
 
 
 

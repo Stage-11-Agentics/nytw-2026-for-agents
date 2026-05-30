@@ -8,27 +8,23 @@ end_time: "10:30am ET"
 start_iso: "2026-06-04T12:30:00.000Z"
 end_iso: "2026-06-04T14:30:00.000Z"
 host: "Somarae, Stripe, Task Force VA"
-venue_address: "860 Broadway, New York, NY 10003"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/wNHWcOC7EzCdpr3pWeoK"
 public_short_url: "https://go.partiful.com/GsDggMJj"
-google_maps: "https://www.google.com/maps/search/?api=1&query=860%20Broadway%2C%20New%20York%2C%20NY%2010003"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fah4ZlSmU6LRwxxjfaDzaPJcqv5n1%2FJ43QNNS76kCWRr3eE_GSO"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fah4ZlSmU6LRwxxjfaDzaPJcqv5n1%2FJ43QNNS76kCWRr3eE_GSO?alt=media&token=c77ec0eb-5c8c-4204-8df8-83fca9e5d0a8"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 215
 badges: []
 fetch_status: ok
 owner_count: 6
 owner_ids: ["ah4ZlSmU6LRwxxjfaDzaPJcqv5n1", "7DFu4rITofNzKIjA7hCx", "d9dtjikzCAWFzx2WaYQAEfJpEdI3", "jnCFU92hInOp7vaCytlFfnqW4Cv2", "jKy8yqTLX3cFT0tAxRP1BVpF4Sy2", "UjR2DgOKS4P4nk1hY2eXV8Cens72"]
 is_capped: true
-max_capacity: 250
-remaining_capacity: 32
-total_guest_count: 223
-approved_guest_count: 218
-local_image: "images/wNHWcOC7EzCdpr3pWeoK.png"
+max_capacity: 400
+remaining_capacity: 2
 canceled: false
+approved_guest_count: 398
+local_image: "images/wNHWcOC7EzCdpr3pWeoK.png"
 ---
 
 # COFFEE + CONNECT Networking Mixer for Underrepresented Founders
@@ -37,11 +33,10 @@ canceled: false
 
 **Hosts:** Somarae, Stripe, Task Force VA  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 8:30am–10:30am ET
-**Where:** 860 Broadway, New York, NY 10003 · Midtown
-**Capacity:** capped at 250 · 218 taken, 32 remaining
+**Where:** Midtown
+**Capacity:** capped at 400 · 398 taken, 2 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/wNHWcOC7EzCdpr3pWeoK
-**Map:** https://www.google.com/maps/search/?api=1&query=860%20Broadway%2C%20New%20York%2C%20NY%2010003
 
 ### Hosts on Partiful
 
@@ -57,7 +52,7 @@ Lovable & Connectd Global Ambassador
 
 ## Description
 
-COFFEE + CONNECT is an intentional networking event for founders and investors who want real conversations + connections. We are looking to especially invite underrepresented founders such as veterans, immigrants, Ukrainians, women, LGBTQ+, Black founders and any builder overlooked by traditional capital.
+COFFEE + CONNECT is an intentional networking event for founders and investors who want real conversations + connections. We are looking to especially invite underrepresented founders and any builder overlooked by traditional capital.
 
 ​This is a human-centered space designed for authentic connection, meaningful dialogue, and relationship-building that happens naturally.
 
@@ -69,16 +64,23 @@ COFFEE + CONNECT is an intentional networking event for founders and investors w
 
 ​Co-hosts & Speakers:
 ​Marian Bacol | Founder, Somarae
+https://www.linkedin.com/in/marianbacol
+
 ​Gavin Rowe | Founder, Task Force VA
+https://www.linkedin.com/in/gavin-rowe-deepsea
+
 ​Asya Bradley | Startups & Venture Capital Lead, Stripe
 Richard Ogilchyn | Founder, Grand Founders
 Katya Fuentes | Head of Growth, Comp AI
 
 ​ABOUT SOMARAE:
-Somarae is an AI-powered somatic wellness platform and community for personalized, on-demand stress relief and nervous system regulation. We help people reconnect with their bodies through science-backed tools, integrating women's health cycles and community co-regulation with online and in-person somatic wellness events.
+​Somarae is a B2B2C somatic wellness platform helping individuals regulate stress and organizations reduce burnout, retain top talent, and increase leadership + team effectiveness. We help people reconnect with their bodies through science-backed tools, integrate with women's health cycles and foster community-centered support. Visit "somarae.co" for more info
 
 ​ABOUT TASK FORCE VA:
-​Task Force VA is a veteran-led B2C and B2B tech platform transforming how veterans navigate the VA claims process. Task Force VA provides veterans with clarity, competence, and confidence through expert, on-demand support and a Trusted Partner Network of vetted medical providers and VA-accredited attorneys—all pre-screened and rated by veterans to remove guesswork and restore trust.
+Task Force VA is a veteran-built B2C and B2B SaaS platform that simplifies the VA disability claims journey through secure, Al-driven guidance. It brings together key regulations, manuals, and required forms into one intelligent workflow, giving Veterans and Active-Duty personnel instant access to clear rating criteria, structured claim preparation, and trusted support by a vetted ecosystem of VA-accredited advocates, medical providers, and Veteran Service Organizations. https://taskforceva.ai/
+https://taskforceva.app
+https://reconforce.org
+
 
 ​ABOUT STRIPE:
 ​Stripe is a global financial infrastructure platform that helps businesses accept payments, manage revenue, and scale worldwide. Stripe’s software and APIs power payments, subscriptions, billing, fraud prevention, and global commerce, helping businesses grow faster and operate more efficiently around the world.
@@ -93,10 +95,6 @@ ABOUT COMP AI:
 Comp AI gets you SOC 2 or ISO 27001 audit-ready in just a few days, so your team can get back to shipping. Evidence, controls, vendor management, and audit prep run on autopilot, so you stay audit-ready 24/7. Trusted by fast-growing teams like Dub, Better Auth, and Ramp.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

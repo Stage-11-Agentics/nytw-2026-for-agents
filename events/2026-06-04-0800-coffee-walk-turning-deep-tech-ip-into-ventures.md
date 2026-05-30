@@ -11,22 +11,21 @@ host: "Koc University"
 neighborhood: "Central Park"
 rsvp_url: "https://partiful.com/e/LfcdIfXJm6zJ4eEI2RaJ"
 public_short_url: "https://go.partiful.com/NJt97W07"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F7u9n3UU3F1U2ODgOC2QcMULYiau2%2FW40GoRFrArFMLw8tmJ_87"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F7u9n3UU3F1U2ODgOC2QcMULYiau2%2FW40GoRFrArFMLw8tmJ_87?alt=media&token=6c9b87df-8716-4afa-9b66-d7d44f2f1a0e"
 visibility: "public"
 guest_action: "RSVP"
-at_capacity: false
-going_guest_count: 16
+at_capacity: true
+going_guest_count: 43
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["7u9n3UU3F1U2ODgOC2QcMULYiau2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 20
-remaining_capacity: 2
-total_guest_count: 21
+max_capacity: 43
+remaining_capacity: 0
+canceled: false
 approved_guest_count: 0
 local_image: "images/LfcdIfXJm6zJ4eEI2RaJ.jpg"
-canceled: false
 ---
 
 # Coffee & Walk: Turning Deep Tech IP into Ventures
@@ -36,7 +35,8 @@ canceled: false
 **Hosts:** Koc University  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 8:00am–9:30am ET
 **Where:** Central Park
-**Capacity:** capped at 20 · 18 taken, 2 remaining
+**Capacity:** capped at 43 · 43 taken, 0 remaining · ⚠ **FULL**
+**Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/LfcdIfXJm6zJ4eEI2RaJ
 
 ### Hosts on Partiful
@@ -58,10 +58,6 @@ Expect practical discussions on accessing lab infrastructure, structuring ventur
 Meeting point: Sip and Co, 41 W 58th St, followed by a walk north into the park.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -6,26 +6,21 @@ day: "Thursday"
 start_time: "6:00pm ET"
 start_iso: "2026-06-04T22:00:00.000Z"
 host: "Deskree, tavily, Braintrust, Modal"
-venue_name: "SoHo"
-venue_address: "SoHo, Manhattan, New York, NY"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/6BlGFmwIdpyndqyLYS2v"
 public_short_url: "https://go.partiful.com/lYZj511N"
-google_maps: "https://www.google.com/maps/search/?api=1&query=SoHo%2C%20SoHo%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FqYdDZWrASlZfTUwyM0iL4mEFvo92%2FqO-xvArS8NLgrOfxrslV5"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FqYdDZWrASlZfTUwyM0iL4mEFvo92%2FXHI6LTmbSbjqwEkAfcew5?alt=media&token=9640ef31-61ef-4da7-b7e4-18f39eb2d860"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 1095
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["qYdDZWrASlZfTUwyM0iL4mEFvo92", "7DFu4rITofNzKIjA7hCx", "UxkW5gQgOD9G09vo5Hco", "SC27BKmdo0L25wluvKZ2"]
 is_capped: false
-total_guest_count: 1100
-approved_guest_count: 140
-local_image: "images/6BlGFmwIdpyndqyLYS2v.png"
 canceled: false
+approved_guest_count: 284
+local_image: "images/6BlGFmwIdpyndqyLYS2v.png"
 ---
 
 # Agents at Scale
@@ -34,11 +29,10 @@ canceled: false
 
 **Hosts:** Deskree, tavily, Braintrust, Modal
 **When:** Thursday, June 4, 2026 · 6:00pm ET
-**Where:** SoHo · SoHo, Manhattan, New York, NY · SoHo
-**Going:** 1095 of 1100
+**Where:** SoHo
+**Going:** 284
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/6BlGFmwIdpyndqyLYS2v
-**Map:** https://www.google.com/maps/search/?api=1&query=SoHo%2C%20SoHo%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -63,10 +57,6 @@ Technical leads evaluating agent infrastructure
 Technical founders navigating the same production challenges
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

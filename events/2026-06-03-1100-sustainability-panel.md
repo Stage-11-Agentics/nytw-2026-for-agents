@@ -14,16 +14,15 @@ public_short_url: "https://go.partiful.com/pIA3vsYZ"
 image: "https://media0.giphy.com/media/dsngJ31iGCnatIHe4w/giphy.gif?cid=c00e53c6mvfv5rpoupdt5ivzn7m0i7qacij0xgkutd5h5yq4&ep=v1_gifs_search&rid=giphy.gif&ct=g"
 visibility: "public"
 at_capacity: false
-going_guest_count: 117
+going_guest_count: 199
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["TcqU5BM2tdcjY3xv7KoVEbzImxh2", "7DFu4rITofNzKIjA7hCx", "D4YtiHl4xrQqmXxFfhu2", "HWKWBnsoITSBn6rPhJ6Rgll5qSu1"]
 is_capped: false
-total_guest_count: 124
+canceled: false
 approved_guest_count: 0
 local_image: "images/GxS3hkbPToEMmgTEeEsm.gif"
-canceled: false
 ---
 
 # Sustainability Panel
@@ -33,7 +32,7 @@ canceled: false
 **Hosts:** Propel Earth  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 11:00am–12:30pm ET
 **Where:** Midtown
-**Going:** 117 of 124
+**Going:** 199
 **RSVP:** https://partiful.com/e/GxS3hkbPToEMmgTEeEsm
 
 ### Hosts on Partiful
@@ -49,10 +48,6 @@ canceled: false
 Panel of founders, investors, and innovators in sustainability. We are focused on emerging and established technologies that are aiming to change the world for the better!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

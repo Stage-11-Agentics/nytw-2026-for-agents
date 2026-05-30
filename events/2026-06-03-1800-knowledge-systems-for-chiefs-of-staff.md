@@ -11,7 +11,7 @@ host: "Ask a Chief of Staff, Notion"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/2NKa5VcOrPj4F2oHrsZ9"
 public_short_url: "https://go.partiful.com/3gVszs0A"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FlooLtqKx35NkNhNFW0xz%2FlRsljXuqTqXgUDW8_Bb9O"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FlooLtqKx35NkNhNFW0xz%2FlRsljXuqTqXgUDW8_Bb9O?alt=media&token=19d7cb81-28bf-4288-ae5c-09a169ba180b"
 visibility: "public"
 at_capacity: true
 going_guest_count: 201
@@ -22,10 +22,9 @@ owner_ids: ["looLtqKx35NkNhNFW0xz", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 201
 remaining_capacity: 0
-total_guest_count: 231
+canceled: false
 approved_guest_count: 0
 local_image: "images/2NKa5VcOrPj4F2oHrsZ9.png"
-canceled: false
 ---
 
 # Knowledge Systems for Chiefs of Staff
@@ -76,10 +75,6 @@ Tim is Chief of Staff and Head of Commercial at Edge, where he's building the AI
 Come for the insights and connect with other Chiefs of Staff shaping how modern teams operate 🚀
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

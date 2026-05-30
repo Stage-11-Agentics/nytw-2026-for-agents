@@ -14,21 +14,20 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/ggPJQCZE8juYEAjIfDgi"
 public_short_url: "https://go.partiful.com/SEVzaoru"
 google_maps: "https://www.google.com/maps/search/?api=1&query=216%20E%2045th%20St%2C%20New%20York%2C%20NY%2010017"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FKYoqXbgbArcgdr1xdMOoQVaVG2j2%2F08-RX8CrcoIZalOctNZ6O"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FKYoqXbgbArcgdr1xdMOoQVaVG2j2%2F08-RX8CrcoIZalOctNZ6O?alt=media&token=3c25c1f0-34c0-4518-92f4-329c3b33e5d9"
 visibility: "public"
 at_capacity: false
-going_guest_count: 32
+going_guest_count: 74
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["KYoqXbgbArcgdr1xdMOoQVaVG2j2", "FYdDcFKjOlVQdnLlobAm0nuJnxe2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 65
-remaining_capacity: 32
-total_guest_count: 40
+max_capacity: 80
+remaining_capacity: 6
+canceled: false
 approved_guest_count: 0
 local_image: "images/ggPJQCZE8juYEAjIfDgi.png"
-canceled: false
 ---
 
 # Fashion x Tech
@@ -40,7 +39,7 @@ LIM College THREADx TECH WEEK](images/ggPJQCZE8juYEAjIfDgi.png)
 **Hosts:** Marcuse School of Graduate Studies, LIM College  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:30pm–8:30pm ET
 **Where:** LIM College - Maxwell Hall · 216 E 45th St, New York, NY 10017 · Midtown
-**Capacity:** capped at 65 · 33 taken, 32 remaining
+**Capacity:** capped at 80 · 74 taken, 6 remaining
 **RSVP:** https://partiful.com/e/ggPJQCZE8juYEAjIfDgi
 **Map:** https://www.google.com/maps/search/?api=1&query=216%20E%2045th%20St%2C%20New%20York%2C%20NY%2010017
 
@@ -57,10 +56,6 @@ Marcuse School of Graduate Studies, LIM College
 Invites you to explore the intersection of fashion and technology during Tech Week. This event brings together industry leaders, creatives, and innovators to examine how emerging technologies are transforming the fashion landscape from design and production to marketing and consumer experience. Join us for an engaging conversation on innovation, creativity, and the future of fashion in a digitally driven world.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

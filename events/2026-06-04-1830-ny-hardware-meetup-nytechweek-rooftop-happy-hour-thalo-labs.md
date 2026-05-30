@@ -11,11 +11,10 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/yJeAGfIAYFfgZIdyjB2u"
 public_short_url: "https://go.partiful.com/tDabg5ZE"
 google_maps: "https://www.google.com/maps/search/?api=1&query=55%205th%20Ave%2C%20New%20York%2C%20NY%2010003"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F963muC9hvXT5pMSylN4h6IlJBVE2%2FrkuR2s3DyKGOjBKPvj-Im"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FvfykmNMP34X4nJLQjvpFMKPiMHe2%2F3IwF8K1AJbJEmZThEQcjH?alt=media&token=28c82874-b356-451e-a713-cf64a7e2c807"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 277
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 5
@@ -23,20 +22,20 @@ owner_ids: ["963muC9hvXT5pMSylN4h6IlJBVE2", "7DFu4rITofNzKIjA7hCx", "tDT6OSRIZWQ
 is_capped: true
 max_capacity: 200
 remaining_capacity: 0
-total_guest_count: 280
-approved_guest_count: 200
-image_download_error: "HTTP Error 403: Forbidden"
 canceled: false
+approved_guest_count: 200
+local_image: "images/yJeAGfIAYFfgZIdyjB2u.jpg"
 ---
 
 # NY Hardware Meetup – #NYTechWeek Rooftop Happy Hour @ Thalo Labs
 
-![NY Hardware Meetup – #NYTechWeek Rooftop Happy Hour @ Thalo Labs](https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F963muC9hvXT5pMSylN4h6IlJBVE2%2FrkuR2s3DyKGOjBKPvj-Im)
+![NY Hardware Meetup – #NYTechWeek Rooftop Happy Hour @ Thalo Labs](images/yJeAGfIAYFfgZIdyjB2u.jpg)
 
 **Hosts:** NY Hardware Meetup, SRVO, Helogen, Informal  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:30pm ET
 **Where:** 55 5th Ave, New York, NY 10003 · Midtown
 **Capacity:** capped at 200 · 200 taken, 0 remaining · ⚠ **FULL**
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/yJeAGfIAYFfgZIdyjB2u
 **Map:** https://www.google.com/maps/search/?api=1&query=55%205th%20Ave%2C%20New%20York%2C%20NY%2010003
@@ -59,8 +58,12 @@ This event is a part of #NYTechWeek—a week of events hosted by VCs and startup
 HOST
 Thalo Labs (https://www.ThaloLabs.com/). Thalo is building the technology platform designed to help HVAC companies run better. Our connected hardware + software stack gives contractors real-time visibility into equipment health, so they can install correctly from the start, fix it right the first time, and move from reactive service to data-driven maintenance programs.  We like to think of it as adding a little robot HVAC technician to every piece of equipment.  Based on technologies originally developed by NASA and autonomous vehicle groups, our platform brings HVAC into the future.
 
-THANK YOU TO OUR SPONSOR
-​​This event is graciously sponsored by UFACTORY (www.ufactory.us)! UFactory designs and manufactures accessible, professional-grade harmonic driven collaborative robotic arms — from the lightweight Lite 6 to the powerful xArm 5, 6, and 7. Built on open-source software, our platforms give developers the freedom to customize, extend, and innovate across labs, classrooms, and production lines worldwide.
+THANK YOU TO OUR SPONSORS
+​​This event is graciously sponsored by SEACOMP (www.seacomp.com) and UFACTORY (www.ufactory.us). 
+
+SEACOMP is a US-based electronics manufacturing partner for hardware companies ready to scale. We know building hardware is hard and that the right partner changes everything. With manufacturing in China and a new 60,000 sq. ft. facility in Mexico, we help you grow your business. 
+
+UFactory designs and manufactures accessible, professional-grade harmonic driven collaborative robotic arms — from the lightweight Lite 6 to the powerful xArm 5, 6, and 7. Built on open-source software, our platforms give developers the freedom to customize, extend, and innovate across labs, classrooms, and production lines worldwide.
 
 
 AGENDA
@@ -89,10 +92,6 @@ WANT TO GET INVOLVED?
 ​​Speaker: Do you have something interesting to share with our community? We're on the lookout for fresh faces to talk about their journey and experiences.
 
 ​​If you want to get involved, head here: https://linktr.ee/nyhardware
-
-
-
-
 
 
 

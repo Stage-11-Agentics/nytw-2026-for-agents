@@ -9,24 +9,22 @@ start_iso: "2026-06-04T20:00:00.000Z"
 end_iso: "2026-06-04T23:00:00.000Z"
 host: "Bodega and Small Business Group, Venture Outfitters, Inc. DBA Tech Ranch"
 venue_address: "10 Centre St, Bronx, NY 10464"
-neighborhood: "4:00pm·Bodega and Small Business Group, Venture Outfitters, Inc. DBA Tech RanchBodega and Small Business Group, Venture Outfitters, Inc. DBA Tech RanchBodega and Small Business Innovation Summit - Digitizing the Corner Store"
+neighborhood: ""
 rsvp_url: "https://partiful.com/e/K5lGeT64lmY0bPqejje4"
 public_short_url: "https://go.partiful.com/jUHq8n2e"
 google_maps: "https://www.google.com/maps/search/?api=1&query=10%20Centre%20St%2C%20Bronx%2C%20NY%2010464"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FXqmN0o2q45RdMXSlZBKIsXSNdoi2%2FGSUqTGo7Hiy0x5HQrem1t"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FXqmN0o2q45RdMXSlZBKIsXSNdoi2%2FnswZX_IGc2gXOHJgSIx1P?alt=media&token=a626072c-240e-4623-8c21-9d39a6e9cb21"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 86
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["XqmN0o2q45RdMXSlZBKIsXSNdoi2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 86
-approved_guest_count: 78
-local_image: "images/K5lGeT64lmY0bPqejje4.png"
 canceled: false
+approved_guest_count: 108
+local_image: "images/K5lGeT64lmY0bPqejje4.png"
 ---
 
 # Bodega and Small Business Innovation Summit - Digitizing the Corner Store
@@ -35,8 +33,8 @@ canceled: false
 
 **Hosts:** Bodega and Small Business Group, Venture Outfitters, Inc. DBA Tech Ranch
 **When:** Thursday, June 4, 2026 · 4:00pm–7:00pm ET
-**Where:** 10 Centre St, Bronx, NY 10464 · 4:00pm·Bodega and Small Business Group, Venture Outfitters, Inc. DBA Tech RanchBodega and Small Business Group, Venture Outfitters, Inc. DBA Tech RanchBodega and Small Business Innovation Summit - Digitizing the Corner Store
-**Going:** 86
+**Where:** 10 Centre St, Bronx, NY 10464
+**Going:** 108
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/K5lGeT64lmY0bPqejje4
 **Map:** https://www.google.com/maps/search/?api=1&query=10%20Centre%20St%2C%20Bronx%2C%20NY%2010464
@@ -57,7 +55,7 @@ That’s not a problem. It’s a massive opportunity.
 
 The Bodega and Small Business Innovation Summit brings together founders, operators, investors, and technologists to explore how media tech, AI, fintech, and security can transform the future of small business in urban communities.
 
-Now featuring partners including Negozee and Fiado, expanding the conversation around financial tools and infrastructure for independent operators.
+Now featuring partners including Fiado, Ensamble Etereo, and World Mobile, expanding the conversation around technology, financial tools, creative infrastructure, and connectivity for independent operators.
 
 This isn’t about adding gadgets—it’s about building integrated systems that allow small businesses to unlock new revenue streams, compete with larger players, and scale on their own terms. Modernization without displacement. Tech without erasure.
 
@@ -80,15 +78,11 @@ Más de 15,000 bodegas en la Ciudad de Nueva York mueven miles de millones en co
 
 El Bodega and Small Business Innovation Summit reúne a líderes en tecnología, inversión y comunidad para explorar cómo apoyar mejor a los pequeños negocios y ayudarles a crecer sin perder su esencia.
 
-Este será un evento gratuito, con refrigerios y oportunidades para hacer networking y conectar con otros emprendedores, operadores y líderes de la comunidad.
-
-📍 10 Centre St, Bronx, NYC
+Este será un evento gratuito, con refrigerios y oportunidades para hacer networking y conectar con otros emprendedores, operadores y líderes de la comunidad.                                                                       
+                                                                                                        Ahora contamos con socios como Fiado, Ensamble Etereo y World Mobile, ampliando la conversación sobre tecnología, herramientas financieras, infraestructura creativa y conectividad para operadores independientes.                                          
+                                                                                                📍 10 Centre St, Bronx, NYC
 Stuyvesant Yacht Club
 🗓 4 de junio | 4:00 PM
-
-
-
-
 
 
 

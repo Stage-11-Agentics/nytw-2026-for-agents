@@ -11,22 +11,20 @@ neighborhood: "Upper Manhattan"
 rsvp_url: "https://partiful.com/e/JAFfRfnsp4ARFRlY4JnR"
 public_short_url: "https://go.partiful.com/n7KLt9wu"
 google_maps: "https://www.google.com/maps/search/?api=1&query=55%20W%20125th%20St%2C%20New%20York%2C%20NY%2010027"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Funknown%2F0j7l86M_nab9BTzPSRlSJ"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Funknown%2F0j7l86M_nab9BTzPSRlSJ?alt=media&token=bb0500c9-af92-4428-afc8-560543a2b9df"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 143
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 6
 owner_ids: ["lvwOE4UmYFMcxmUf1eLDKGxyYx83", "7DFu4rITofNzKIjA7hCx", "Gs1jdM84JYOUyRdJSe4ODSPXhM53", "aYNn6dzN27bM8EFFQoEUfM0j4Hk2", "KDlHgvTwtJRgqs3lVK77QuxCxsw1", "mBAsRfbrGxMEHcrxskRdSwhXhW13"]
 is_capped: true
-max_capacity: 150
-remaining_capacity: 54
-total_guest_count: 143
-approved_guest_count: 96
-local_image: "images/JAFfRfnsp4ARFRlY4JnR.svg"
+max_capacity: 160
+remaining_capacity: 0
 canceled: false
+approved_guest_count: 160
+local_image: "images/JAFfRfnsp4ARFRlY4JnR.svg"
 ---
 
 # Mind the Gap: Intelligence in Transition
@@ -36,7 +34,8 @@ canceled: false
 **Hosts:** STEM Educational Institute, Inc.  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 9:30am ET
 **Where:** 55 W 125th St, New York, NY 10027 · Upper Manhattan
-**Capacity:** capped at 150 · 96 taken, 54 remaining
+**Capacity:** capped at 160 · 160 taken, 0 remaining · ⚠ **FULL**
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/JAFfRfnsp4ARFRlY4JnR
 **Map:** https://www.google.com/maps/search/?api=1&query=55%20W%20125th%20St%2C%20New%20York%2C%20NY%2010027
@@ -78,10 +77,6 @@ Announced Speakers:
 - Rob Sloan - Zscalar
 - Judene Small - Partner, a16z
 - Fatima Tambajang - NVIDIA
-
-
-
-
 
 
 

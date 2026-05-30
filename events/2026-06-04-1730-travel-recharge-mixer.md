@@ -9,44 +9,43 @@ host: "Nappr, Flex N' Fly"
 neighborhood: "Union Square"
 rsvp_url: "https://partiful.com/e/Jl1DEHZSKYd66t6P0OHA"
 public_short_url: "https://go.partiful.com/tKZoYw03"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FrnGOGo2sGCbbYsZnMPqA3Ci1Qhp2%2F846Sp2H5b_lFXvqLT72S8"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FrnGOGo2sGCbbYsZnMPqA3Ci1Qhp2%2FpinM7ReuFrFVTDR0Zimbg?alt=media&token=aaa0e698-4e14-4a76-928e-be48fb061c10"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 70
 badges: []
 fetch_status: ok
-owner_count: 2
-owner_ids: ["rnGOGo2sGCbbYsZnMPqA3Ci1Qhp2", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 3
+owner_ids: ["rnGOGo2sGCbbYsZnMPqA3Ci1Qhp2", "7DFu4rITofNzKIjA7hCx", "Og9juJssjcf0GAfZbAHo9dXeoBC2"]
 is_capped: false
-total_guest_count: 70
-approved_guest_count: 64
-local_image: "images/Jl1DEHZSKYd66t6P0OHA.png"
 canceled: false
+approved_guest_count: 103
+local_image: "images/Jl1DEHZSKYd66t6P0OHA.png"
 ---
 
 # Travel Recharge Mixer!
 
 ![Travel Recharge Mixer!](images/Jl1DEHZSKYd66t6P0OHA.png)
 
-**Hosts:** Nappr, Flex N' Fly
+**Hosts:** Nappr, Flex N' Fly  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:30pm ET
 **Where:** Union Square
-**Going:** 70
+**Going:** 103
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Jl1DEHZSKYd66t6P0OHA
 
 ### Hosts on Partiful
 
 - [Jared Lerner](https://partiful.com/u/rnGOGo2sGCbbYsZnMPqA3Ci1Qhp2) — _Nappr Founder and ZzZEO_
+- [Hayley Melidonis](https://partiful.com/u/Og9juJssjcf0GAfZbAHo9dXeoBC2)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
 ## Description
 
-We're BACK baby! Calling all travel techies, remote workers and anyone who's ever jet-setted just for the heck of it. Nappr and Flex N' Fly are rolling into NYC Tech Week on Thursday, June 4th with another round of travel-themed hullabaloo - and yes, it's gonna be smoother than a redeye nap in Emirates First Class. 😴🛫
+We're BACK baby! Calling all travel techies, remote workers and anyone who's ever jet-setted just for the heck of it. Nappr, Flex N' Fly and Bubbl are rolling into NYC Tech Week on Thursday, June 4th with another round of travel-themed hullabaloo - and yes, it's gonna be smoother than a redeye nap in Emirates First Class. 😴🛫
 
-We'll be taking over a chic spot in a cool part of town (details coming soon 👀) for a high-energy night with builders, operators and people who definitely have too many tabs open right now.
+We'll be taking over a super cool spot for a high-energy night with builders, operators and people who definitely have too many tabs open right now.
 
 Expect:
 
@@ -85,10 +84,6 @@ Flex-N-Fly is a travel wellness company dedicated to supporting the mental and p
 ____________________________________
 
 This event is a part of #NYTechWeek - a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

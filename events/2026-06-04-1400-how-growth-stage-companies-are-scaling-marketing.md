@@ -9,20 +9,18 @@ host: "Azarian Growth Agency"
 neighborhood: "Brooklyn"
 rsvp_url: "https://partiful.com/e/wMkipiKi9qhEhJC9uZSN"
 public_short_url: "https://go.partiful.com/2RLEHL5v"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fnu1faCARZVhoXRL85XZcnrpA7ST2%2FLc-hxdhzMMlvtvP2z7JuC"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fnu1faCARZVhoXRL85XZcnrpA7ST2%2FLc-hxdhzMMlvtvP2z7JuC?alt=media&token=d9fb9252-8d97-4669-8f43-6ad0dd509322"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 591
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["nu1faCARZVhoXRL85XZcnrpA7ST2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 594
-approved_guest_count: 64
-local_image: "images/wMkipiKi9qhEhJC9uZSN.jpg"
 canceled: false
+approved_guest_count: 123
+local_image: "images/wMkipiKi9qhEhJC9uZSN.jpg"
 ---
 
 # How Growth-Stage Companies Are Scaling Marketing
@@ -32,7 +30,7 @@ canceled: false
 **Hosts:** Azarian Growth Agency  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 2:00pm ET
 **Where:** Brooklyn
-**Going:** 591 of 594
+**Going:** 123
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/wMkipiKi9qhEhJC9uZSN
 
@@ -112,10 +110,6 @@ Hamlet also works directly with portfolio company marketing and leadership teams
 He has led 17 previous sessions in [A] Growth Lab webinar series, covering advanced Google Ads, Meta strategy, email infrastructure, server-side tracking, GEO, vibe marketing, and generative AI, consistently drawing senior marketing leaders who want operational depth, not surface-level overviews.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

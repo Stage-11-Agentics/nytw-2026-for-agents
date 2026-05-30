@@ -9,30 +9,31 @@ host: "Cuculi"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/sCLj6JNfrcfMGlFQ7cZQ"
 public_short_url: "https://go.partiful.com/xxSAxgRR"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2FlzTScIK0U4LyT9cgCzDm%2F9eUWWqkoRCUEQgzRQUZAp"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2FlzTScIK0U4LyT9cgCzDm%2F9eUWWqkoRCUEQgzRQUZAp?alt=media&token=372abb04-fb89-4048-bcdd-7e8b872c40f0"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 352
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["lzTScIK0U4LyT9cgCzDm", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 356
-approved_guest_count: 0
+canceled: true
+canceled_at: "2026-05-26T15:48:12.912Z"
+canceled_by: "lzTScIK0U4LyT9cgCzDm"
 image_download_error: "HTTP Error 403: Forbidden"
-canceled: false
 ---
 
 # TECH NETWORKING MIXER
 
-![TECH NETWORKING MIXER](https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2FlzTScIK0U4LyT9cgCzDm%2F9eUWWqkoRCUEQgzRQUZAp)
+> ## ⚠ CANCELED  
+> _canceled 2026-05-26T15:48:12.912Z_
+
+![TECH NETWORKING MIXER](https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2FlzTScIK0U4LyT9cgCzDm%2F9eUWWqkoRCUEQgzRQUZAp?alt=media&token=372abb04-fb89-4048-bcdd-7e8b872c40f0)
 
 **Hosts:** Cuculi  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 5:30pm ET
 **Where:** Midtown
-**Going:** 352 of 356
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/sCLj6JNfrcfMGlFQ7cZQ
 
@@ -76,10 +77,6 @@ Please note: To support the local restaurants hosting us, there is a minimum one
 ​Spaces are limited. RSVP today to guarantee your participation.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -11,20 +11,18 @@ host: "Heka Global, Pearl Cohen"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/qby7sUnWQut791gK5Y9Q"
 public_short_url: "https://go.partiful.com/9Xh7r0i1"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FKeUpmqYBC3NbH0RG7XkjN7dMi2z1%2FdfqkHP5SAS1sI_8X_flRw"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FKeUpmqYBC3NbH0RG7XkjN7dMi2z1%2FdfqkHP5SAS1sI_8X_flRw?alt=media&token=3ab60e25-ca17-4e3d-98d6-961b53447efb"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 78
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["KeUpmqYBC3NbH0RG7XkjN7dMi2z1", "7DFu4rITofNzKIjA7hCx", "4uDNOVsOdnUHde7uAC78BeVrhBz2", "X7AS2KjPt9f7z4yaLwbApSF6qFg1"]
 is_capped: false
-total_guest_count: 80
-approved_guest_count: 77
-local_image: "images/qby7sUnWQut791gK5Y9Q.png"
 canceled: false
+approved_guest_count: 139
+local_image: "images/qby7sUnWQut791gK5Y9Q.png"
 ---
 
 # Digital Identity: Fighting Consumer Fraud in Financial Services
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** Heka Global, Pearl Cohen  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 9:00am–10:30am ET
 **Where:** Midtown
-**Going:** 78 of 80
+**Going:** 139
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/qby7sUnWQut791gK5Y9Q
 
@@ -69,10 +67,6 @@ Dustin J. Eaton, Fraud Principal, Taktile
 Masan Stankovic, Director of Financial Technology, Royal Bank of Canada
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

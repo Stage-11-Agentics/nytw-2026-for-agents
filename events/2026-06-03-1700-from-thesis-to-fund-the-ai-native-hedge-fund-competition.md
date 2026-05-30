@@ -13,32 +13,30 @@ neighborhood: "Union Square"
 rsvp_url: "https://partiful.com/e/1lFPBFTViilfxtfefSd9"
 public_short_url: "https://go.partiful.com/u8tqtBzg"
 google_maps: "https://www.google.com/maps/search/?api=1&query=260%20W%2036th%20St%2C%20New%20York%2C%20NY%2010018"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F9EGQjqGV3hP1Xl40c28Z4BZVEMp2%2FnQL_9_-SQFLKLuuXkS7v4"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F9EGQjqGV3hP1Xl40c28Z4BZVEMp2%2FnQL_9_-SQFLKLuuXkS7v4?alt=media&token=630528b5-43c2-49ce-8c79-950a6b0add93"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 80
 badges: []
 fetch_status: ok
-owner_count: 2
-owner_ids: ["9EGQjqGV3hP1Xl40c28Z4BZVEMp2", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 3
+owner_ids: ["9EGQjqGV3hP1Xl40c28Z4BZVEMp2", "7DFu4rITofNzKIjA7hCx", "4nFuGaCSnDO88alFNay618zNHN02"]
 is_capped: true
-max_capacity: 100
-remaining_capacity: 42
-total_guest_count: 85
-approved_guest_count: 58
-local_image: "images/1lFPBFTViilfxtfefSd9.png"
+max_capacity: 120
+remaining_capacity: 5
 canceled: false
+approved_guest_count: 115
+local_image: "images/1lFPBFTViilfxtfefSd9.png"
 ---
 
 # From Thesis to Fund: The AI-Native Hedge Fund Competition
 
 ![From Thesis to Fund: The AI-Native Hedge Fund Competition](images/1lFPBFTViilfxtfefSd9.png)
 
-**Hosts:** Deep Insight Labs  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Deep Insight Labs  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:00pm–9:30pm ET
 **Where:** 260 W 36th St, New York, NY 10018 · Union Square
-**Capacity:** capped at 100 · 58 taken, 42 remaining
+**Capacity:** capped at 120 · 115 taken, 5 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/1lFPBFTViilfxtfefSd9
 **Map:** https://www.google.com/maps/search/?api=1&query=260%20W%2036th%20St%2C%20New%20York%2C%20NY%2010018
@@ -46,6 +44,7 @@ canceled: false
 ### Hosts on Partiful
 
 - [Bok Zhuang Qiang (Ryan)](https://partiful.com/u/9EGQjqGV3hP1Xl40c28Z4BZVEMp2) — _Founder, Quant Researcher, NLP/ML Engineer_
+- [Yakoob Hanif](https://partiful.com/u/4nFuGaCSnDO88alFNay618zNHN02)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -67,10 +66,6 @@ Podium exists to make that operating layer accessible to a new generation.
 We believe AI, software, and modern infrastructure are fundamentally reshaping who can build, validate, and scale investment strategies. The next wave of exceptional portfolio managers may emerge not only from traditional hedge funds or investment banks, but from high-agency founders, systematic thinkers, domain experts, and technical builders who possess real edge — but have historically lacked the institutional environment to prove it.
 
 This program is designed to identify and cultivate those individuals.
-
-
-
-
 
 
 

@@ -14,7 +14,7 @@ neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/ajldiNGGvQpVzTpnzqqg"
 public_short_url: "https://go.partiful.com/2EH14zTl"
 google_maps: "https://www.google.com/maps/search/?api=1&query=285%20Fulton%20St%2C%20New%20York%2C%20NY%2010007"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fns2bYgfP2nfQ4kB18F5ghTAx9Zj1%2FIjV6rBveDyBmWZBhehUVn"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fns2bYgfP2nfQ4kB18F5ghTAx9Zj1%2FIjV6rBveDyBmWZBhehUVn?alt=media&token=06a7e381-3c76-48d7-ae52-6da288694726"
 visibility: "public"
 at_capacity: true
 going_guest_count: 50
@@ -25,10 +25,9 @@ owner_ids: ["ns2bYgfP2nfQ4kB18F5ghTAx9Zj1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
 remaining_capacity: 0
-total_guest_count: 68
+canceled: false
 approved_guest_count: 0
 local_image: "images/ajldiNGGvQpVzTpnzqqg.png"
-canceled: false
 ---
 
 # The Future of Wealth: AI Insight and People
@@ -60,6 +59,8 @@ In a landscape shaped by both human expertise and intelligent systems, this sess
 Hosted by Mothers to Daughters (M2D), a global platform advancing intergenerational mentorship and economic empowerment, this conversation reflects a broader mission:
 to support the launch and growth of 100,000 women entrepreneurs by 2035.
 
+In collaboration with New York Life, a trusted financial educational and community empowerment partner. 
+
 At M2D, we view generational intelligence as a strategic advantage, where access to relationships, lived experience, and decision-making frameworks is intentionally transferred across generations to accelerate outcomes.
 
 This session brings that philosophy into practice, offering a space where capital, technology, and human judgment converge, and where proximity leads to possibility.
@@ -73,10 +74,6 @@ What to Expect:
 - A thoughtfully curated room of founders, operators, and investors across capital, culture, and technology
 - Light bites and drinks in an intimate, connection-driven setting
 - Meaningful introductions and organic networking designed to spark long-term opportunities
-
-
-
-
 
 
 

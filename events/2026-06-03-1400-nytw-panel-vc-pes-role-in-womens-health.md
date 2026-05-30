@@ -11,20 +11,17 @@ host: "Uplyft Collective"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/l38ujelxqVhmfB60e3kA"
 public_short_url: "https://go.partiful.com/zQwYYWnc"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FRuLxdf6UnzQE3IHJrucYIdvDc6J3%2F_emxfexP4nMZqezcQVPji"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FRuLxdf6UnzQE3IHJrucYIdvDc6J3%2F_emxfexP4nMZqezcQVPji?alt=media&token=ab47b450-51ab-466e-9554-efaad98e1e6c"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 175
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["U75prYDlvfdRNKoWrgGG6MB4fX82", "7DFu4rITofNzKIjA7hCx", "RuLxdf6UnzQE3IHJrucYIdvDc6J3", "PSf7o3XNaqasVz0NpoijLjUtDNh2"]
 is_capped: false
-total_guest_count: 176
-approved_guest_count: 61
-local_image: "images/l38ujelxqVhmfB60e3kA.png"
 canceled: false
+local_image: "images/l38ujelxqVhmfB60e3kA.png"
 ---
 
 # NYTW Panel: VC + PE's Role in Women's Health
@@ -34,7 +31,6 @@ canceled: false
 **Hosts:** Uplyft Collective  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 2:00pm–4:30pm ET
 **Where:** Midtown
-**Going:** 175 of 176
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/l38ujelxqVhmfB60e3kA
 
@@ -71,10 +67,6 @@ This panel brings together venture and private equity investors active in or adj
 This is a candid, strategic conversation for investors, founders, and ecosystem builders who want a clear-eyed view of where women's health investing stands today—and where it's headed next.
 
 🔅 Who Should Attend: Investors across venture, growth equity, and private equity; founders and operators in women's health and healthcare services; limited partners with healthcare mandates; and ecosystem builders interested in the intersection of capital strategy and care delivery.
-
-
-
-
 
 
 

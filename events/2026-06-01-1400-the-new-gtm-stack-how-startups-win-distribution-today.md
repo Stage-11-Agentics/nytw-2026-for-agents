@@ -8,25 +8,21 @@ end_time: "4:00pm ET"
 start_iso: "2026-06-01T18:00:00.000Z"
 end_iso: "2026-06-01T20:00:00.000Z"
 host: "EchoHer, Witti Marketing"
-venue_address: "29 Little W 12th St, New York, NY 10014"
 neighborhood: "West Village"
 rsvp_url: "https://partiful.com/e/gm6d8Dmrh9UeDnDUlKrW"
 public_short_url: "https://go.partiful.com/iuGW42kZ"
-google_maps: "https://www.google.com/maps/search/?api=1&query=29%20Little%20W%2012th%20St%2C%20New%20York%2C%20NY%2010014"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FpujFpqAjGdVYNtBAFJrYupkFuYg1%2Fi-awOazsttwIQjmZqXwuB"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FpujFpqAjGdVYNtBAFJrYupkFuYg1%2FQQ6P870J8Su3Y1tzz4ctI?alt=media&token=4790a80e-46f4-42ee-963e-74f6aefbaef3"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 271
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["pujFpqAjGdVYNtBAFJrYupkFuYg1", "gjlHyjRU3FtOIaxNsFvR", "7DFu4rITofNzKIjA7hCx", "oXvym8wmevfIxIkWDUYekXvjN5D2"]
 is_capped: false
-total_guest_count: 279
-approved_guest_count: 148
-local_image: "images/gm6d8Dmrh9UeDnDUlKrW.png"
 canceled: false
+approved_guest_count: 158
+local_image: "images/gm6d8Dmrh9UeDnDUlKrW.png"
 ---
 
 # The New GTM Stack: How Startups Win Distribution Today
@@ -35,11 +31,10 @@ canceled: false
 
 **Hosts:** EchoHer, Witti Marketing  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 2:00pm–4:00pm ET
-**Where:** 29 Little W 12th St, New York, NY 10014 · West Village
-**Going:** 271 of 279
+**Where:** West Village
+**Going:** 158
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/gm6d8Dmrh9UeDnDUlKrW
-**Map:** https://www.google.com/maps/search/?api=1&query=29%20Little%20W%2012th%20St%2C%20New%20York%2C%20NY%2010014
 
 ### Hosts on Partiful
 
@@ -73,10 +68,6 @@ Multi-channel growth strategy
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

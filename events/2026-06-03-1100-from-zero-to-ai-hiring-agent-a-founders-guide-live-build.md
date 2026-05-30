@@ -11,20 +11,17 @@ host: "Elly"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/fj1W7fo3lhElo552s2jD"
 public_short_url: "https://go.partiful.com/1OEOpSKu"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FPDkOwrjNd4Vggv0tvkWwoBXAXWE2%2FxXENcDaumynpzyYPU0laR"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FPDkOwrjNd4Vggv0tvkWwoBXAXWE2%2FxXENcDaumynpzyYPU0laR?alt=media&token=2e944eac-c113-4cd2-ab32-2a2c2fd8b334"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 75
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["PDkOwrjNd4Vggv0tvkWwoBXAXWE2", "2ZakV5G2apVlPgu4UYrjVzLZLBh1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 75
-approved_guest_count: 58
-local_image: "images/fj1W7fo3lhElo552s2jD.png"
 canceled: false
+local_image: "images/fj1W7fo3lhElo552s2jD.png"
 ---
 
 # From zero to AI hiring agent: a founder’s guide (live build)
@@ -34,7 +31,6 @@ canceled: false
 **Hosts:** Elly  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 11:00am–1:00pm ET
 **Where:** Chelsea
-**Going:** 75
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/fj1W7fo3lhElo552s2jD
 
@@ -60,10 +56,6 @@ Lunch included.
 Location: Flatiron / Chelsea, Manhattan. Exact address will be shared with confirmed attendees closer to the event.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

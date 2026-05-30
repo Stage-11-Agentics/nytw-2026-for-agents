@@ -11,21 +11,20 @@ host: "Altruistic Scribe Company, African Women in STEM"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/wgdV8OJvF9oyEsgJbfR7"
 public_short_url: "https://go.partiful.com/lABouZDM"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FZWBFFDohjDfdLOjHb5G6zumKNZP2%2FOlVVgVc290HxeGMZ_K3rd"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FVmmtNUAAubaqXdp7WXsPbOf31L42%2FPyAaf2DQ-I0m-t05tKT4o?alt=media&token=f4753ac3-778f-48cf-bb1a-bdf33c5173dd"
 visibility: "public"
 at_capacity: false
-going_guest_count: 49
+going_guest_count: 86
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["ZWBFFDohjDfdLOjHb5G6zumKNZP2", "7DFu4rITofNzKIjA7hCx", "VmmtNUAAubaqXdp7WXsPbOf31L42"]
 is_capped: true
 max_capacity: 200
-remaining_capacity: 151
-total_guest_count: 57
+remaining_capacity: 114
+canceled: false
 approved_guest_count: 0
 local_image: "images/wgdV8OJvF9oyEsgJbfR7.jpg"
-canceled: false
 ---
 
 # The Rise Circle - The Reset Room Sound Bath
@@ -35,7 +34,7 @@ canceled: false
 **Hosts:** Altruistic Scribe Company, African Women in STEM  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 3:00pm–6:00pm ET
 **Where:** Midtown
-**Capacity:** capped at 200 · 49 taken, 151 remaining
+**Capacity:** capped at 200 · 86 taken, 114 remaining
 **RSVP:** https://partiful.com/e/wgdV8OJvF9oyEsgJbfR7
 
 ### Hosts on Partiful
@@ -56,10 +55,6 @@ _______________
 
 Interested in becoming a sponsor/ vendor for this event? Fill out the form below to apply. We are seeking partners who share our commitment to innovation, impact, and the people shaping what's next.
 http://bit.ly/4nk7c9E
-
-
-
-
 
 
 

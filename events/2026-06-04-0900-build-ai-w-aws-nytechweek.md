@@ -11,20 +11,18 @@ host: "Amazon Web Services (AWS)"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/bKNSMIiBlDqn5RCekCyb"
 public_short_url: "https://go.partiful.com/1CAsW7R1"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FYHbi2M1z6JbFaVDXIfw8bcg7YtC2%2FBOQOYluwlkznmUmvDSx9x"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FYHbi2M1z6JbFaVDXIfw8bcg7YtC2%2FBOQOYluwlkznmUmvDSx9x?alt=media&token=2e551945-9588-4377-aa2a-2674da16b94f"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 256
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["YHbi2M1z6JbFaVDXIfw8bcg7YtC2", "ZK3OZIiZK7Z3hfAdP1eCcNDhsYy2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 260
-approved_guest_count: 3
-local_image: "images/bKNSMIiBlDqn5RCekCyb.png"
 canceled: false
+approved_guest_count: 23
+local_image: "images/bKNSMIiBlDqn5RCekCyb.png"
 ---
 
 # Build AI w/ AWS - #NYTECHWEEK
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** Amazon Web Services (AWS)  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 9:00am–5:00pm ET
 **Where:** Midtown
-**Going:** 256 of 260
+**Going:** 23
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/bKNSMIiBlDqn5RCekCyb
 
@@ -75,10 +73,6 @@ For this year's NYC Tech Week, AWS invites you to join us for an exclusive, hand
 Limited spots! Register today!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

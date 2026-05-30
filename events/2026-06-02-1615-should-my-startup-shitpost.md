@@ -9,21 +9,18 @@ host: "Memelord.com"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/xC1k2IB7TiquN4mMKhmA"
 public_short_url: "https://go.partiful.com/dQeG7afw"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FNQZsKMZM9TN13tCBqGFka68eKp93%2FWzPlh8rZpxDDe0k6h8K7u"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FNQZsKMZM9TN13tCBqGFka68eKp93%2F2qS6SdROex6Nq5nzTxgUZ?alt=media&token=baf48ba5-f1c0-4158-bc2d-0c5a3b88df85"
 visibility: "public"
+guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 60
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["NQZsKMZM9TN13tCBqGFka68eKp93", "7DFu4rITofNzKIjA7hCx"]
-is_capped: true
-max_capacity: 100
-remaining_capacity: 38
-total_guest_count: 66
-approved_guest_count: 0
-local_image: "images/xC1k2IB7TiquN4mMKhmA.png"
+is_capped: false
 canceled: false
+approved_guest_count: 106
+local_image: "images/xC1k2IB7TiquN4mMKhmA.png"
 ---
 
 # Should my startup shitpost?
@@ -33,7 +30,8 @@ canceled: false
 **Hosts:** Memelord.com  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:15pm ET
 **Where:** Flatiron
-**Capacity:** capped at 100 · 62 taken, 38 remaining
+**Going:** 106
+**Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/xC1k2IB7TiquN4mMKhmA
 
 ### Hosts on Partiful
@@ -60,10 +58,6 @@ This event is a part of #NYTechWeek—a week of events hosted by VCs and startup
 
 
 
-
-
-
-
 ---
 
-[RSVP on Partiful →](https://partiful.com/e/xC1k2IB7TiquN4mMKhmA)
+[Apply on Partiful →](https://partiful.com/e/xC1k2IB7TiquN4mMKhmA)

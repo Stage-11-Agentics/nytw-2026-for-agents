@@ -6,26 +6,21 @@ day: "Wednesday"
 start_time: "5:00pm ET"
 start_iso: "2026-06-03T21:00:00.000Z"
 host: "a16z, Partiful"
-venue_name: "SoHo"
-venue_address: "SoHo, Manhattan, New York, NY"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/AQPQKes1HVxpemJcyrR8"
 public_short_url: "https://go.partiful.com/fnoo7WyJ"
-google_maps: "https://www.google.com/maps/search/?api=1&query=SoHo%2C%20SoHo%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F7DFu4rITofNzKIjA7hCx%2FxZRD9HBV8W8wegO21wqA6"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F7DFu4rITofNzKIjA7hCx%2FxZRD9HBV8W8wegO21wqA6?alt=media&token=89da1a5c-43ae-4354-a25b-9bd5a0b4e6da"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 1248
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["7DFu4rITofNzKIjA7hCx", "YbRqtYMY7k4j8M540Otu", "gbjILrDct8coLMJYvIZ5XSHwyZk2"]
 is_capped: false
-total_guest_count: 1239
-approved_guest_count: 199
-local_image: "images/AQPQKes1HVxpemJcyrR8.png"
 canceled: false
+approved_guest_count: 196
+local_image: "images/AQPQKes1HVxpemJcyrR8.png"
 ---
 
 # Founder Fireside w/ Partiful x a16z
@@ -34,11 +29,10 @@ canceled: false
 
 **Hosts:** a16z, Partiful  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:00pm ET
-**Where:** SoHo · SoHo, Manhattan, New York, NY · SoHo
-**Going:** 1248 of 1239
+**Where:** SoHo
+**Going:** 196
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/AQPQKes1HVxpemJcyrR8
-**Map:** https://www.google.com/maps/search/?api=1&query=SoHo%2C%20SoHo%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -53,10 +47,6 @@ Join Shreya Murthy (cofounder, Partiful) & Olivia Moore (partner at a16z) for a 
 _______________
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

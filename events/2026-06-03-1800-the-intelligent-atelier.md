@@ -14,19 +14,18 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/PkSJvLVvmR0oviZ0C0IT"
 public_short_url: "https://go.partiful.com/CCrypqeh"
 google_maps: "https://www.google.com/maps/search/?api=1&query=518%20W%2027th%20St%2C%20New%20York%2C%20NY%2010001"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FAeUMp80YRweunL3V78kELhU3bU03%2F8F-t-zG5ksxd8n6-biAfE"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FAeUMp80YRweunL3V78kELhU3bU03%2F8F-t-zG5ksxd8n6-biAfE?alt=media&token=83577a56-bb06-4e71-a097-a80d820e19bd"
 visibility: "public"
 at_capacity: false
-going_guest_count: 59
+going_guest_count: 119
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["AeUMp80YRweunL3V78kELhU3bU03", "7DFu4rITofNzKIjA7hCx", "e1eyddU68V0xZ7cgm86V"]
 is_capped: false
-total_guest_count: 1010
+canceled: false
 approved_guest_count: 0
 local_image: "images/PkSJvLVvmR0oviZ0C0IT.gif"
-canceled: false
 ---
 
 # THE INTELLIGENT ATELIER
@@ -36,7 +35,7 @@ canceled: false
 **Hosts:** 99 yards, Digital Fashion week  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
 **Where:** Hotel Alameda · 518 W 27th St, New York, NY 10001 · Midtown
-**Going:** 59 of 1010
+**Going:** 119
 **RSVP:** https://partiful.com/e/PkSJvLVvmR0oviZ0C0IT
 **Map:** https://www.google.com/maps/search/?api=1&query=518%20W%2027th%20St%2C%20New%20York%2C%20NY%2010001
 
@@ -79,10 +78,6 @@ we open with a conversation that sets the stage for a hands-on learning series d
 Whether you are an independent designer or part of an established brand, this session will help you cut through the noise and identify practical ways to integrate AI into your creative and business processes—without losing what makes your work distinctive
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

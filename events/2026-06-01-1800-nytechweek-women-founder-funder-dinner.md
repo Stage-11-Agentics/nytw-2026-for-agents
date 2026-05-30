@@ -11,20 +11,18 @@ host: "EchoHer, One Wall Street"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/TDVls3ivYND4qPkb5ltW"
 public_short_url: "https://go.partiful.com/8Na060aC"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FpujFpqAjGdVYNtBAFJrYupkFuYg1%2FkxoUwbgzjZBJcmGNcxftR"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FpujFpqAjGdVYNtBAFJrYupkFuYg1%2FkxoUwbgzjZBJcmGNcxftR?alt=media&token=2df84f81-17b0-4774-9052-adce3c2a3f31"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 243
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["pujFpqAjGdVYNtBAFJrYupkFuYg1", "7DFu4rITofNzKIjA7hCx", "gjlHyjRU3FtOIaxNsFvR", "oXvym8wmevfIxIkWDUYekXvjN5D2"]
 is_capped: false
-total_guest_count: 242
-approved_guest_count: 22
-local_image: "images/TDVls3ivYND4qPkb5ltW.png"
 canceled: false
+approved_guest_count: 28
+local_image: "images/TDVls3ivYND4qPkb5ltW.png"
 ---
 
 # #NYTechWeek Women Founder & Funder Dinner
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** EchoHer, One Wall Street  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:00pm–9:00pm ET
 **Where:** Financial District
-**Going:** 243 of 242
+**Going:** 28
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/TDVls3ivYND4qPkb5ltW
 
@@ -53,10 +51,6 @@ EchoHer is hosting an invite-only dinner during NY Tech Week, bringing together 
 Generously sponsored by One Wall Street, the evening will feature a seated dinner in an elegant setting, followed by a private tour of the space—adding a memorable and immersive touch.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

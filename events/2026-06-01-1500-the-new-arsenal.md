@@ -13,20 +13,18 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/n5uCUeAb1zW9pXNEqsg3"
 public_short_url: "https://go.partiful.com/mmgfOYXC"
 google_maps: "https://www.google.com/maps/search/?api=1&query=31%20W%2052nd%20St%2C%20New%20York%2C%20NY%2010019"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FEUU9VRN0Cqf29nep0bmTPXDnKyg1%2FN-X6xiDcFJcYVK4WGMl-k"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FEUU9VRN0Cqf29nep0bmTPXDnKyg1%2FN-X6xiDcFJcYVK4WGMl-k?alt=media&token=7bcd8265-5a58-4d01-bc75-a22c7178194d"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 1055
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["EUU9VRN0Cqf29nep0bmTPXDnKyg1", "GhHObmgwKHRnioiRYXbjQXV4Iez2", "JXMR1BdEwvdGyEQTFNVN", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 1056
-approved_guest_count: 118
-local_image: "images/n5uCUeAb1zW9pXNEqsg3.png"
 canceled: false
+approved_guest_count: 157
+local_image: "images/n5uCUeAb1zW9pXNEqsg3.png"
 ---
 
 # The New Arsenal
@@ -36,7 +34,7 @@ canceled: false
 **Hosts:** VC in DC  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 3:00pm–6:00pm ET
 **Where:** 31 W 52nd St, New York, NY 10019 · Midtown
-**Going:** 1055 of 1056
+**Going:** 157
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/n5uCUeAb1zW9pXNEqsg3
 **Map:** https://www.google.com/maps/search/?api=1&query=31%20W%2052nd%20St%2C%20New%20York%2C%20NY%2010019
@@ -72,10 +70,6 @@ Thank you to our partners: Pillsbury, Betts Recruiting, Sift Search, Finstrat Ma
 Stifel Financial (NYSE: SF) is a global investment bank, wealth management, and commercial banking institution with $400B+ in AUM. Stifel Bank offers tailored venture and fund banking solutions, including no-fee accounts for fund clients, ICS accounts with up to $250MM in FDIC insurance, capital call and management company credit lines, and venture lending.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

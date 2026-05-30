@@ -5,36 +5,34 @@ date: 2026-06-02
 day: "Tuesday"
 start_time: "8:00am ET"
 start_iso: "2026-06-02T12:00:00.000Z"
-host: "Alumni Ventures, StartupExperts"
+host: "StartupExperts, Alumni Ventures"
 venue_address: "450 W 27th St, New York, NY 10001"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/ea6MPpQj3n4C3BqH4qLl"
 public_short_url: "https://go.partiful.com/IYPPY1Wh"
 google_maps: "https://www.google.com/maps/search/?api=1&query=450%20W%2027th%20St%2C%20New%20York%2C%20NY%2010001"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FHaz1gkimAER3yHDgjkiDT29ugGp2%2Fa-Scyu35Fg87fVQVepiVR"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FHaz1gkimAER3yHDgjkiDT29ugGp2%2Fa-Scyu35Fg87fVQVepiVR?alt=media&token=b26f9aaa-3aa9-4fc8-9ffa-0458764bb33d"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 190
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["Haz1gkimAER3yHDgjkiDT29ugGp2", "BhonLo79fubkXaW26rkz", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 193
-approved_guest_count: 106
-local_image: "images/ea6MPpQj3n4C3BqH4qLl.png"
 canceled: false
+approved_guest_count: 132
+local_image: "images/ea6MPpQj3n4C3BqH4qLl.png"
 ---
 
 # 4th Annual NY Tech Week Soccer Championship
 
 ![4th Annual NY Tech Week Soccer Championship](images/ea6MPpQj3n4C3BqH4qLl.png)
 
-**Hosts:** Alumni Ventures, StartupExperts  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** StartupExperts, Alumni Ventures  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 8:00am ET
 **Where:** 450 W 27th St, New York, NY 10001 · Chelsea
-**Going:** 190 of 193
+**Going:** 132
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ea6MPpQj3n4C3BqH4qLl
 **Map:** https://www.google.com/maps/search/?api=1&query=450%20W%2027th%20St%2C%20New%20York%2C%20NY%2010001
@@ -107,10 +105,6 @@ Spots are limited to keep teams tight, RSVP early to secure your place on the pi
 See you out there. ⚽
 
 This event is a part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

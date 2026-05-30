@@ -14,22 +14,20 @@ neighborhood: "Tribeca"
 rsvp_url: "https://partiful.com/e/YzPaCE875DoVvWVPo4Rh"
 public_short_url: "https://go.partiful.com/aqhStghH"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Tribeca%2C%20Tribeca%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F90YLKB3THDU1E4N9ZAqthQowxc83%2F6cYKF8kZ0rL-GpB2JhWFT"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F90YLKB3THDU1E4N9ZAqthQowxc83%2F6cYKF8kZ0rL-GpB2JhWFT?alt=media&token=60b0d83f-fb01-41b5-87b8-f5f9912fb70f"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 117
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["90YLKB3THDU1E4N9ZAqthQowxc83", "7DFu4rITofNzKIjA7hCx", "IVz0V88QcbQcX4DQdSOm", "ZvTGLdTjExY1rASrsHc68lWTivB2"]
 is_capped: true
-max_capacity: 150
-remaining_capacity: 43
-total_guest_count: 123
-approved_guest_count: 107
-local_image: "images/YzPaCE875DoVvWVPo4Rh.png"
+max_capacity: 250
+remaining_capacity: 74
 canceled: false
+approved_guest_count: 176
+local_image: "images/YzPaCE875DoVvWVPo4Rh.png"
 ---
 
 # BOXCLUB - Founders & Investors Social Boxing Class
@@ -39,7 +37,7 @@ canceled: false
 **Hosts:** BOXCLUB  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 7:00am–8:00am ET
 **Where:** Tribeca · Tribeca, Manhattan, New York, NY · Tribeca
-**Capacity:** capped at 150 · 107 taken, 43 remaining
+**Capacity:** capped at 250 · 176 taken, 74 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/YzPaCE875DoVvWVPo4Rh
 **Map:** https://www.google.com/maps/search/?api=1&query=Tribeca%2C%20Tribeca%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -59,10 +57,6 @@ Break a sweat and learn a new skill with other founders and investors in a priva
 Please secure your spot here: https://events.sweatpals.com/1537e495. RSVP approval after payment.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -7,40 +7,34 @@ start_time: "12:00pm ET"
 end_time: "3:00pm ET"
 start_iso: "2026-06-06T16:00:00.000Z"
 end_iso: "2026-06-06T19:00:00.000Z"
-host: "Scalpels & Spreadsheets, Ugly Talk"
-venue_name: "307 West 38th Street"
-venue_address: "307 W 38th St, New York, NY 10018"
+host: "Ugly Talk, Scalpels & Spreadsheets"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/irecvleCIgFuqft0aeUn"
 public_short_url: "https://go.partiful.com/rTyAFVMc"
-google_maps: "https://www.google.com/maps/search/?api=1&query=307%20W%2038th%20St%2C%20New%20York%2C%20NY%2010018"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F9K2ip5KfG1VOTKg73Vjq%2FLOrVvj0pkhjGE06tznT2r"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FBkRb8WXVjRTB0FK8gItaihwSjFC3%2FtdCO4Yx_p87-kFtIM2hJS?alt=media&token=d70b4d1f-9ed6-4ed0-95d0-d0aeeceeea3c"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 92
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["9K2ip5KfG1VOTKg73Vjq", "7DFu4rITofNzKIjA7hCx", "ewVvfwCDEifyj4ykvdRVNB42zr42", "BkRb8WXVjRTB0FK8gItaihwSjFC3"]
 is_capped: false
-total_guest_count: 92
-approved_guest_count: 87
-local_image: "images/irecvleCIgFuqft0aeUn.png"
 canceled: false
+approved_guest_count: 135
+local_image: "images/irecvleCIgFuqft0aeUn.png"
 ---
 
 # UGLY TALK: What Healthtech Founders Break on the Way to Revenue
 
 ![UGLY TALK: What Healthtech Founders Break on the Way to Revenue](images/irecvleCIgFuqft0aeUn.png)
 
-**Hosts:** Scalpels & Spreadsheets, Ugly Talk  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** Ugly Talk, Scalpels & Spreadsheets  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 12:00pm–3:00pm ET
-**Where:** 307 West 38th Street · 307 W 38th St, New York, NY 10018 · Midtown
-**Going:** 92
+**Where:** Midtown
+**Going:** 135
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/irecvleCIgFuqft0aeUn
-**Map:** https://www.google.com/maps/search/?api=1&query=307%20W%2038th%20St%2C%20New%20York%2C%20NY%2010018
 
 ### Hosts on Partiful
 
@@ -78,12 +72,24 @@ The honest version of healthtech GTM does not look like a SaaS playbook. It look
 - Builders deciding between provider, payer, and employer as their first buyer
 
 🎤  Who’s Taking the Stage
+Kanika Agarwal - Founder of MindPeers
 
-3 healthtech founders who have taken a product to market.
+Kanika is the Founder of MindPeers ( Series A backed, global company with four offices) and a leading voice at the intersection of mental health and AI. She has built a predictive intelligence system used by 600,000+ individuals and brings both lived experience and data-backed insight into how people perform under pressure. A serial entrepreneur, she scaled her first business to a multimillion in Singapore by age of 26 and sold to America’s biggest advertising firm. She has been recently recognized for getting on LinkedIn’s Top 20 Companies, winning a four-shark deal with double investment in Shark Tank and a Forbes Impact Leader.
 
-How do healthtech founders identify sales channels and how do they position themselves for success.
+Her special note on – Leading While Breaking, challenges the myth of resilience—showing how today’s leaders can grow even while navigating internal chaos. Known for her grounded yet powerful storytelling, she equips organisations to build leaders who don’t just cope—but compound strength.
 
-Mix of traction levels on purpose. The room hears what is working at one stage and what broke at another.
+Thivaher (Thiv) Paramsothy - Co-Founder & CEO of Hera Fertility
+
+
+Moderator:
+Aman Desai - Founder of Scalpels & Spreadsheets
+
+Aman Desai is the founder of Scalpels & Spreadsheets, a global healthtech community that brings together founders, investors, and operators through curated events and content. His work focuses on building high-impact ecosystems that accelerate innovation across healthcare and technology.
+
+Aman began his career as a physician, later advising private equity firms and large pharmaceutical companies on M&A in North America, Europe and Asia.
+
+He is currently also the founder and CEO of Dossier Health, and an active angel investor in emerging healthtech and biotech companies.
+
 
 💬 What’s On the Table
 
@@ -111,10 +117,6 @@ Panel: 1.00PM - 2.00PM
 Networking: 2.00 - 3.00PM 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -6,39 +6,37 @@ day: "Monday"
 start_time: "2:30pm ET"
 start_iso: "2026-06-01T18:30:00.000Z"
 host: "PwC, Vayu, Base44"
-venue_name: "Midtown"
-venue_address: "Midtown, Manhattan, New York, NY"
+venue_name: "La Grande Boucherie"
+venue_address: "145 W 53rd St, New York, NY 10019"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/MQvS9RrcXl6HcAEzfzhg"
 public_short_url: "https://go.partiful.com/QRz2NBLN"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FnOM2FbGNkQXz5IXpwnhd%2FPzBalh8nJJfMqwRoBL-4T"
+google_maps: "https://www.google.com/maps/search/?api=1&query=145%20W%2053rd%20St%2C%20New%20York%2C%20NY%2010019"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FnOM2FbGNkQXz5IXpwnhd%2FPzBalh8nJJfMqwRoBL-4T?alt=media&token=c0b45fce-ea2e-4115-8861-99d0d57108ce"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 1003
 badges: []
 fetch_status: ok
-owner_count: 7
-owner_ids: ["nOM2FbGNkQXz5IXpwnhd", "7DFu4rITofNzKIjA7hCx", "O6ziamjrTva202Jm47MWJm3bzH72", "lU0vYWPBigPbA7UxPLp81lSyHrR2", "pq2PfHgUF5gm2SNWhxMOWd10vvD3", "gMMTOVcMcIRKAF5vpLt48L4pMJF3", "S2MyDXxa7KbEMIzwZFsdAlN6CYu2"]
-is_capped: false
-total_guest_count: 1010
-approved_guest_count: 23
-local_image: "images/MQvS9RrcXl6HcAEzfzhg.jpg"
+owner_count: 8
+owner_ids: ["nOM2FbGNkQXz5IXpwnhd", "7DFu4rITofNzKIjA7hCx", "O6ziamjrTva202Jm47MWJm3bzH72", "lU0vYWPBigPbA7UxPLp81lSyHrR2", "pq2PfHgUF5gm2SNWhxMOWd10vvD3", "gMMTOVcMcIRKAF5vpLt48L4pMJF3", "S2MyDXxa7KbEMIzwZFsdAlN6CYu2", "mJTRVHb6DKUscjfCOXAM5RsL5CD2"]
+is_capped: true
+max_capacity: 32
 canceled: false
+local_image: "images/MQvS9RrcXl6HcAEzfzhg.jpg"
 ---
 
 # The builder’s table: AI finance leaders lunch with Vayu, Base44 & PwC
 
 ![The builder’s table: AI finance leaders lunch with Vayu, Base44 & PwC](images/MQvS9RrcXl6HcAEzfzhg.jpg)
 
-**Hosts:** PwC, Vayu, Base44  _(+4 more host(s) on Partiful — see description for full list)_
+**Hosts:** PwC, Vayu, Base44  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 2:30pm ET
-**Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 1003 of 1010
+**Where:** La Grande Boucherie · 145 W 53rd St, New York, NY 10019 · Midtown
+**Capacity:** capped at 32
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/MQvS9RrcXl6HcAEzfzhg
-**Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
+**Map:** https://www.google.com/maps/search/?api=1&query=145%20W%2053rd%20St%2C%20New%20York%2C%20NY%2010019
 
 ### Hosts on Partiful
 
@@ -48,6 +46,7 @@ canceled: false
 - [`pq2PfHgUF5gm2SNWhxMOWd10vvD3`](https://partiful.com/u/pq2PfHgUF5gm2SNWhxMOWd10vvD3)
 - [Nicholas Dulepski](https://partiful.com/u/gMMTOVcMcIRKAF5vpLt48L4pMJF3)
 - [Jennifer Barajas](https://partiful.com/u/S2MyDXxa7KbEMIzwZFsdAlN6CYu2)
+- [Christopher A Butler](https://partiful.com/u/mJTRVHb6DKUscjfCOXAM5RsL5CD2) — _Director within PwC’s Emerging Company Solutions (ECS) practice, leveraging the firm’s deep audit, tax, M&A, and IPO readiness capabilities to equip fast-growing TMT (technology, media, and telecommunications) companies with the means to realize their full growth potential._
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -69,10 +68,6 @@ Base44
 Base44 enables teams to build production-ready applications and AI-powered workflows from natural-language prompts, helping operators turn ideas into working tools without waiting on engineering.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

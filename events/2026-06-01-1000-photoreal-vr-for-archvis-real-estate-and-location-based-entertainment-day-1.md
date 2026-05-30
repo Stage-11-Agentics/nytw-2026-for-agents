@@ -8,26 +8,21 @@ end_time: "6:00pm ET"
 start_iso: "2026-06-01T14:00:00.000Z"
 end_iso: "2026-06-01T22:00:00.000Z"
 host: "Agile Lens, DBOX, WanderLens Lab"
-venue_name: "Dbox"
-venue_address: "15 Park Row, FL 2, New York, NY 10038"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/6bUok8RK79B927TfqX7F"
 public_short_url: "https://go.partiful.com/lJzOwMt7"
-google_maps: "https://www.google.com/maps/search/?api=1&query=15%20Park%20Row%2C%20FL%202%2C%20New%20York%2C%20NY%2010038"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FVYeEhYb7k46mGe6edBwh%2FeRzL_AWKpbCS3VbG7kavo"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FVYeEhYb7k46mGe6edBwh%2FeRzL_AWKpbCS3VbG7kavo?alt=media&token=6895fed4-7054-4a43-b363-9c960c407b01"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 86
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["VYeEhYb7k46mGe6edBwh", "7DFu4rITofNzKIjA7hCx", "UPoJMLzwoXhxyb6DSMxCgKg6IC02"]
 is_capped: false
-total_guest_count: 88
-approved_guest_count: 6
-local_image: "images/6bUok8RK79B927TfqX7F.jpg"
 canceled: false
+approved_guest_count: 16
+local_image: "images/6bUok8RK79B927TfqX7F.jpg"
 ---
 
 # Photoreal VR for Archvis, Real Estate and Location-Based Entertainment - Day 1
@@ -36,11 +31,10 @@ canceled: false
 
 **Hosts:** Agile Lens, DBOX, WanderLens Lab
 **When:** Monday, June 1, 2026 · 10:00am–6:00pm ET
-**Where:** Dbox · 15 Park Row, FL 2, New York, NY 10038 · Financial District
-**Going:** 86 of 88
+**Where:** Financial District
+**Going:** 16
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/6bUok8RK79B927TfqX7F
-**Map:** https://www.google.com/maps/search/?api=1&query=15%20Park%20Row%2C%20FL%202%2C%20New%20York%2C%20NY%2010038
 
 ### Hosts on Partiful
 
@@ -63,15 +57,11 @@ Walk through the gen 2 Four Seasons Holodeck (responsible for over $500M in pres
 
 • DBOX is an international creative communications agency that develops strategic campaigns for luxury real estate and hospitality, combining global expertise and local insight to build brands, visualize unbuilt projects, and drive sales across the full project lifecycle. https://dbox.com/
 
-• WanderLens Lab is a NYC/LA-based creative tech startup focusing on the application of Gaussian splatting and physical AI in real estate, and how Snap Spectacles are shaping the next generation of location-based entertainment. https://www.wanderlenslab.com/
+• WanderLens Lab is a NYC/LA-based creative tech startup focusing on the application of Gaussian splatting and physical AI in real estate, and how Snap Spectacles are shaping the next generation of location-based entertainment. https://orbitour.ai/
 
 This is a two day event - if this date doesn't work, sign up for Day 2 here(Fri June 5): https://partiful.com/e/dA79zHIgCReURfjwFEki
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

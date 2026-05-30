@@ -14,21 +14,20 @@ neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/W1wgKUzLIYEUHksaomkD"
 public_short_url: "https://go.partiful.com/SGb9yKIe"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Chelsea%2C%20Chelsea%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F1gQb2SlySlfPe9JPxrpvgLQtBfq1%2F_rM1gi1iR86uBVSrDneLk"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F1gQb2SlySlfPe9JPxrpvgLQtBfq1%2F_rM1gi1iR86uBVSrDneLk?alt=media&token=206ea45d-48e6-43ce-8a11-d4bf90467932"
 visibility: "public"
 at_capacity: true
-going_guest_count: 60
+going_guest_count: 90
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["GOEt0wOn4HTWo7XSiycS1zvZReq2", "7DFu4rITofNzKIjA7hCx", "1gQb2SlySlfPe9JPxrpvgLQtBfq1"]
 is_capped: true
-max_capacity: 60
+max_capacity: 90
 remaining_capacity: 0
-total_guest_count: 306
+canceled: false
 approved_guest_count: 0
 local_image: "images/W1wgKUzLIYEUHksaomkD.png"
-canceled: false
 ---
 
 # Claude Code Hackathon - Build an Agentic Team #nytechweek
@@ -38,7 +37,7 @@ canceled: false
 **Hosts:** Elevate Online, Imaginary Space  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 4:30pm–7:30pm ET
 **Where:** Chelsea · Chelsea, Manhattan, New York, NY · Chelsea
-**Capacity:** capped at 60 · 60 taken, 0 remaining · ⚠ **FULL**
+**Capacity:** capped at 90 · 90 taken, 0 remaining · ⚠ **FULL**
 **Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/W1wgKUzLIYEUHksaomkD
 **Map:** https://www.google.com/maps/search/?api=1&query=Chelsea%2C%20Chelsea%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -62,13 +61,9 @@ This is for Founders, Engineers, and anyone who wants to learn to build useful, 
 
 Part of #NYTechWeek
 
-Facilitator include Nicole Patten (Ex-Google Engineer of 7 Years, Founder of ClaudeTraining.com) and Harry Roper (Founder of imaginaryspace.ai, Lovable Partner) and Ford Prior (Gieco, Flying Pig Labs).
+Facilitator include Nicole Patten (Ex-Google Engineer of 7 Years, Founder of ClaudeTraining.com) and Harry Roper (Founder of imaginaryspace.ai, Lovable Partner).
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

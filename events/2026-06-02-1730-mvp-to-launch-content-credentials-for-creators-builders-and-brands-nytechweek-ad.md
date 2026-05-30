@@ -8,28 +8,21 @@ end_time: "8:30pm ET"
 start_iso: "2026-06-02T21:30:00.000Z"
 end_iso: "2026-06-03T00:30:00.000Z"
 host: "Adobe"
-venue_name: "Georgia Room"
-venue_address: "23 Lexington Ave, FL 2, New York, NY 10010"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/s9ffBVagaNmFQpfNVYmA"
 public_short_url: "https://go.partiful.com/vbVvv0GW"
-google_maps: "https://www.google.com/maps/search/?api=1&query=23%20Lexington%20Ave%2C%20FL%202%2C%20New%20York%2C%20NY%2010010"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fd3G7O8jbaDcdcW0j9nynpmMD8Ki2%2FYBY-aE4N01W3QV_wm3f1F"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fd3G7O8jbaDcdcW0j9nynpmMD8Ki2%2FYBY-aE4N01W3QV_wm3f1F?alt=media&token=226004c0-4a38-4a1b-9603-45650828226e"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 329
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["d3G7O8jbaDcdcW0j9nynpmMD8Ki2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 250
-remaining_capacity: 98
-total_guest_count: 331
-approved_guest_count: 152
-local_image: "images/s9ffBVagaNmFQpfNVYmA.png"
 canceled: false
+local_image: "images/s9ffBVagaNmFQpfNVYmA.png"
 ---
 
 # MVP to Launch: Content Credentials for Creators, Builders, and Brands #NYTechWeek #Adobe
@@ -38,11 +31,10 @@ canceled: false
 
 **Hosts:** Adobe  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:30pm–8:30pm ET
-**Where:** Georgia Room · 23 Lexington Ave, FL 2, New York, NY 10010 · Flatiron
-**Capacity:** capped at 250 · 152 taken, 98 remaining
+**Where:** Flatiron
+**Capacity:** capped at 250
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/s9ffBVagaNmFQpfNVYmA
-**Map:** https://www.google.com/maps/search/?api=1&query=23%20Lexington%20Ave%2C%20FL%202%2C%20New%20York%2C%20NY%2010010
 
 ### Hosts on Partiful
 
@@ -63,10 +55,6 @@ Drinks and heavy appetizers are on us! Given limited capacity, we'll follow up t
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 What You'll Experience
-
-
-
-
 
 
 

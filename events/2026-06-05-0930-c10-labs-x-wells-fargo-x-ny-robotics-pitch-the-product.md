@@ -13,21 +13,20 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/EHqpUupSw2r4hWswjqZc"
 public_short_url: "https://go.partiful.com/a55Y2ZA6"
 google_maps: "https://www.google.com/maps/search/?api=1&query=30%20Hudson%20Yards%2C%20New%20York%2C%20NY%2010001"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fo2Nq2vsWEnVxnmrD2dPKDH0JGup2%2FH9hP8ObwY8Izc8W83OcYy"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fo2Nq2vsWEnVxnmrD2dPKDH0JGup2%2FH9hP8ObwY8Izc8W83OcYy?alt=media&token=338e6976-fb56-43d6-8f97-0aa2969d59cd"
 visibility: "public"
-at_capacity: true
-going_guest_count: 100
+at_capacity: false
+going_guest_count: 198
 badges: []
 fetch_status: ok
 owner_count: 5
 owner_ids: ["kPwExLZNSY44rQaBl9tg", "crZhYuR1YuNGW91Hm9TpUyZyaAG2", "o2Nq2vsWEnVxnmrD2dPKDH0JGup2", "vc4AAMwWCSb1JNqvxdDthbwBlCH2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 100
-remaining_capacity: 0
-total_guest_count: 112
+max_capacity: 200
+remaining_capacity: 2
+canceled: false
 approved_guest_count: 0
 local_image: "images/EHqpUupSw2r4hWswjqZc.png"
-canceled: false
 ---
 
 # C10 Labs x Wells Fargo x NY Robotics — Pitch the Product –
@@ -37,8 +36,7 @@ canceled: false
 **Hosts:** C10 Labs, Wells Fargo, New York Robotics  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 9:30am–12:00pm ET
 **Where:** 30 Hudson Yards, New York, NY 10001 · Midtown
-**Capacity:** capped at 100 · 100 taken, 0 remaining · ⚠ **FULL**
-**Status:** ⚠ at capacity
+**Capacity:** capped at 200 · 198 taken, 2 remaining
 **RSVP:** https://partiful.com/e/EHqpUupSw2r4hWswjqZc
 **Map:** https://www.google.com/maps/search/?api=1&query=30%20Hudson%20Yards%2C%20New%20York%2C%20NY%2010001
 
@@ -78,10 +76,6 @@ Open application — submit your pitch to be considered. 3 slots reserved for C1
 Breakfast and coffee provided by Wells Fargo.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

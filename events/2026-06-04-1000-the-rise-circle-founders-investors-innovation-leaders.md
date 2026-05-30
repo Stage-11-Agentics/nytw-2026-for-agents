@@ -11,38 +11,37 @@ host: "African Women in STEM, Altruistic Scribe"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/nuG19qqVmzUPc7lcUsHr"
 public_short_url: "https://go.partiful.com/EAGjM4pC"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FVmmtNUAAubaqXdp7WXsPbOf31L42%2Fci_OS5YMQVKCYL6ttghUo"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FVmmtNUAAubaqXdp7WXsPbOf31L42%2F0VM-B3po7Vm63Zid7GDXc?alt=media&token=c3b076fc-5ea7-44af-b4ee-e91852dd9337"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 78
 badges: []
 fetch_status: ok
-owner_count: 2
-owner_ids: ["VmmtNUAAubaqXdp7WXsPbOf31L42", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 3
+owner_ids: ["VmmtNUAAubaqXdp7WXsPbOf31L42", "7DFu4rITofNzKIjA7hCx", "ZWBFFDohjDfdLOjHb5G6zumKNZP2"]
 is_capped: true
 max_capacity: 200
-remaining_capacity: 121
-total_guest_count: 83
-approved_guest_count: 79
-local_image: "images/nuG19qqVmzUPc7lcUsHr.png"
+remaining_capacity: 85
 canceled: false
+approved_guest_count: 115
+local_image: "images/nuG19qqVmzUPc7lcUsHr.png"
 ---
 
 # The Rise Circle: Founders, Investors & Innovation Leaders
 
 ![The Rise Circle: Founders, Investors & Innovation Leaders](images/nuG19qqVmzUPc7lcUsHr.png)
 
-**Hosts:** African Women in STEM, Altruistic Scribe
+**Hosts:** African Women in STEM, Altruistic Scribe  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 10:00am–12:00pm ET
 **Where:** Midtown
-**Capacity:** capped at 200 · 79 taken, 121 remaining
+**Capacity:** capped at 200 · 115 taken, 85 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/nuG19qqVmzUPc7lcUsHr
 
 ### Hosts on Partiful
 
 - [Adaeze Iloeje-Udeogalanya](https://partiful.com/u/VmmtNUAAubaqXdp7WXsPbOf31L42)
+- [Idongesit Obeya](https://partiful.com/u/ZWBFFDohjDfdLOjHb5G6zumKNZP2)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -71,10 +70,6 @@ ____________
 
 Interested in becoming a sponsor/ vendor for this event? Fill out the form below to apply. We are seeking partners who share our commitment to innovation, impact, and the people shaping what's next.
 http://bit.ly/4nk7c9E
-
-
-
-
 
 
 

@@ -11,20 +11,18 @@ host: "The Pattern Maker"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/27uya3lZ0qDGkfCiXGP5"
 public_short_url: "https://go.partiful.com/qnx8lTkH"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fpwz2MotQoHZmHL6w0Pvjmd11ZJo2%2FVVQT5-GPPa5Nm78w1_RD4"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fpwz2MotQoHZmHL6w0Pvjmd11ZJo2%2FVVQT5-GPPa5Nm78w1_RD4?alt=media&token=4003efa7-bd82-4f68-9b9b-cd5d87a36b38"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 165
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["lWFu5TNr5Qbh2fkKZzmDqNTwDfG2", "7DFu4rITofNzKIjA7hCx", "pwz2MotQoHZmHL6w0Pvjmd11ZJo2"]
 is_capped: false
-total_guest_count: 167
-approved_guest_count: 36
-local_image: "images/27uya3lZ0qDGkfCiXGP5.png"
 canceled: false
+approved_guest_count: 107
+local_image: "images/27uya3lZ0qDGkfCiXGP5.png"
 ---
 
 # Fashion Tech Mixer
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** The Pattern Maker  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–8:00pm ET
 **Where:** Chelsea
-**Going:** 165 of 167
+**Going:** 107
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/27uya3lZ0qDGkfCiXGP5
 
@@ -68,10 +66,6 @@ The Pattern Maker is a fashion tech publication and community run by former fash
 ---
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

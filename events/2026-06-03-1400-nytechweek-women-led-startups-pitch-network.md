@@ -11,20 +11,18 @@ host: "EchoHer, Witti Marketing, Lair East Labs"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/YVAZ3wboDXALfslGk3vV"
 public_short_url: "https://go.partiful.com/2CsvK8rf"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FpujFpqAjGdVYNtBAFJrYupkFuYg1%2FEHNBOgDCG5x6hFdZwYJso"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FpujFpqAjGdVYNtBAFJrYupkFuYg1%2FRQ54VFp9PGBfG_gmhTE1J?alt=media&token=053f1da5-65e0-4058-8958-f35467950cd6"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 381
 badges: []
 fetch_status: ok
 owner_count: 6
 owner_ids: ["pujFpqAjGdVYNtBAFJrYupkFuYg1", "gjlHyjRU3FtOIaxNsFvR", "7DFu4rITofNzKIjA7hCx", "PwZCJA2g6TaBgOZ8OanZhTt64VM2", "amBsNhwiA5bNv28lhjql6yM2CEh1", "oXvym8wmevfIxIkWDUYekXvjN5D2"]
 is_capped: false
-total_guest_count: 382
-approved_guest_count: 134
-local_image: "images/YVAZ3wboDXALfslGk3vV.png"
 canceled: false
+approved_guest_count: 227
+local_image: "images/YVAZ3wboDXALfslGk3vV.png"
 ---
 
 # #NYTechWeek Women-Led Startups Pitch & Network
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** EchoHer, Witti Marketing, Lair East Labs  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 2:00pm–5:00pm ET
 **Where:** Financial District
-**Going:** 381 of 382
+**Going:** 227
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/YVAZ3wboDXALfslGk3vV
 
@@ -52,44 +50,24 @@ canceled: false
 
 Bridging the West Coast and East Coast startup ecosystems, EchoHer, Witti Marketing and Lair East Labs are co-hosting the Women-Led Startups Pitch & Network event during NY Tech Week at the iconic Woolworth Building — one of New York City’s most historic skyscrapers and a longtime symbol of ambition, innovation, and entrepreneurship.
 
-
 The event will feature 10 women founders showcasing their startups during the happy hour with demo tables, followed by 90-second lightning pitches and live investor feedback. 
 
 While the spotlight is on women-led startups, the event is open to everyone who wants to support and engage with the next generation of builders.
 
-Who Should Attend
-• Startup founders
-• Angel investors & VCs
-• Operators and builders
-• Anyone interested in supporting women founders
-
 Interested founders can apply through the application form to pitch and demo their startup.
 
-Investors:
-Michelle Wang is an early-stage investor, connector, and builder with nearly a decade of venture experience. At Lair East Labs, she has led cross-border expansion and supported founders building globally minded companies. Prior to venture, she spent over nine years at KPMG, PwC, and EY across China and the U.S., with expertise in strategy, operations, and corporate finance across multiple industries.
 
-Rachel Zhao is an investor focused on early-stage startups across enterprise software, fintech, AI infrastructure, cybersecurity, and commerce enablement. Before joining PayPal Ventures, she worked closely with high-growth technology companies and founders across the enterprise and fintech ecosystem.
+Sponsors:
 
-Helena is an experienced entrepreneur and operator with a strong background in strategy, leadership, and scaling ventures. As Co-Founder of Backable, she works at the intersection of growth and long-term impact, bringing insights on what it takes to build resilient companies.
+Witti Marketing is a NYC-based growth marketing agency helping startups and high-growth brands build stronger go-to-market strategies, improve positioning, and scale acquisition, conversion, and retention. Witti works as a strategic growth partner across areas like performance marketing, content systems, creative testing, GEO/AI-native search visibility, conversion optimization, and multi-channel growth. The team has supported companies across AI, robotics, consumer tech, ecommerce, and lifestyle, bringing cross-industry pattern recognition to help founders move faster and avoid common scaling mistakes.
 
-Fireside Chat:
-Miao Kang is a New York–based founder and growth operator, and a graduate of Carnegie Mellon University. She is the founder of Witti Marketing, a growth firm that works closely with founders and leadership teams at critical stages of growth for e-commerce and technology companies, helping drive up to 10× revenue growth across 100+ client engagements through scalable, data-driven growth systems. She was recognized by Forbes China 2024 as a Top 100 Elite for her contributions to helping companies navigate complex growth and market expansion decisions.
-
-​Qianwen (Q) Chen is the Founder & CEO of EchoHer, a global community empowering women and non-binary founders through events and curated networking. She is also Lead Developer at Owls Head, driving AI and digital transformation on Salesforce platforms. Previously, she was a founding engineer at Vlocity (acquired by Salesforce), building enterprise no-code/low-code solutions used by clients like Verizon and New York Life. A Carnegie Mellon M.S. graduate, she has launched startups including ZyperShop and Cims.ai, advises in the women-in-tech community, and is also a global fashion and lifestyle influencer.
-
-This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
+Wolf Greenfield is one of the largest intellectual property law firms in the country, with nearly 100 years of experience helping innovators protect what they've built. Headquartered in Boston, with offices in New York and Washington, DC, our team of 150+ attorneys and technology specialists deliver full-service IP counsel across litigation, prosecution, trademarks, copyrights, licensing, freedom to operate, diligence, and everything in between. We represent a diverse range of clients — from multinational corporations to world-renowned research institutions, to the most promising venture-backed startups.
 
 Co-hosted by:
-
-EchoHer: www.echoher.org
 EchoHer is a non-profit led by founders and startup experts, focused on increasing the representation of women and non-binary leaders in entrepreneurship. We foster a supportive, high-impact ecosystem through warm introductions, investor-ready pitch events, curated networking, and practical conversations that help founders grow and thrive.
 
 Lair East Labs: www.laireastlabs.com
 Lair East Labs is a New York-based startup accelerator that empowers founders to scale their companies globally. With strong roots in both the U.S. and Asia, Lair East Labs supports entrepreneurs building transformative solutions through capital, mentorship, and strategic cross-border networks.
-
-
-
-
 
 
 

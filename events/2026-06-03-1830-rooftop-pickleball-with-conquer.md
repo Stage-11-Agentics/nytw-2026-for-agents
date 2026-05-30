@@ -14,32 +14,31 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/fOtMgCgM7Ihp9IIYOVgN"
 public_short_url: "https://go.partiful.com/5S2kld7R"
 google_maps: "https://www.google.com/maps/search/?api=1&query=300%20W%2061st%20St%2C%20New%20York%2C%20NY%2010023"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2Funknown%2F7OhdVjlLcuV8GyZ_3rikx"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2Funknown%2F7OhdVjlLcuV8GyZ_3rikx?alt=media&token=5deab783-f937-43d9-8e0c-c09d7272f5af"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: true
-going_guest_count: 150
+going_guest_count: 250
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["vxLxFsQyCacuaa8rmnFoLWsJb5r1", "7DFu4rITofNzKIjA7hCx", "RKcxW3qbBbeX8cxm8kP3uFeeb8W2"]
 is_capped: true
-max_capacity: 150
+max_capacity: 250
 remaining_capacity: 0
-total_guest_count: 163
+canceled: false
 approved_guest_count: 0
 image_download_error: "HTTP Error 403: Forbidden"
-canceled: false
 ---
 
 # Rooftop Pickleball with Conquer
 
-![Rooftop Pickleball with Conquer](https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2Funknown%2F7OhdVjlLcuV8GyZ_3rikx)
+![Rooftop Pickleball with Conquer](https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2Funknown%2F7OhdVjlLcuV8GyZ_3rikx?alt=media&token=5deab783-f937-43d9-8e0c-c09d7272f5af)
 
 **Hosts:** Conquer Pickleball  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:30pm–8:30pm ET
 **Where:** Riverside School for Makers & Artists · 300 W 61st St, New York, NY 10023 · Midtown
-**Capacity:** capped at 150 · 150 taken, 0 remaining · ⚠ **FULL**
+**Capacity:** capped at 250 · 250 taken, 0 remaining · ⚠ **FULL**
 **Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/fOtMgCgM7Ihp9IIYOVgN
 **Map:** https://www.google.com/maps/search/?api=1&query=300%20W%2061st%20St%2C%20New%20York%2C%20NY%2010023
@@ -60,10 +59,6 @@ Join us for a casual pickleball networking event during NY Tech Week. No paddle,
 Hosted by Conquer, the leading app for pickleball in NYC, this event brings the tech community together on the court. Come solo or with friends. Games are short, the vibe is social, and we’ll help pair you up. If you’re looking for something different this Tech Week, this is it.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

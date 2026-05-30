@@ -13,19 +13,18 @@ rsvp_url: "https://partiful.com/e/NIRmE2CXx6LigqpHaRzA"
 public_short_url: "https://go.partiful.com/Z5jrXe1v"
 image: "https://assets.getpartiful.com/posters/Let's%20Party"
 visibility: "public"
-at_capacity: false
-going_guest_count: 42
+at_capacity: true
+going_guest_count: 50
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["9LqnjQJpkqbv9GD1KirIelVJOkG2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 7
-total_guest_count: 43
+remaining_capacity: 0
+canceled: false
 approved_guest_count: 0
 local_image: "images/NIRmE2CXx6LigqpHaRzA.jpg"
-canceled: false
 ---
 
 # The US Expansion blueprint
@@ -35,7 +34,8 @@ canceled: false
 **Hosts:** Razorpay  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 3:00pm–5:00pm ET
 **Where:** Midtown
-**Capacity:** capped at 50 · 43 taken, 7 remaining
+**Capacity:** capped at 50 · 50 taken, 0 remaining · ⚠ **FULL**
+**Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/NIRmE2CXx6LigqpHaRzA
 
 ### Hosts on Partiful
@@ -47,10 +47,6 @@ canceled: false
 ## Description
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

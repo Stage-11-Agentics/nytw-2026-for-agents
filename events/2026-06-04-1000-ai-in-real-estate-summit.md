@@ -18,18 +18,16 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 146
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["mjKBgriHpSMhQ6kGn7pSLrPgtT53", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 300
-remaining_capacity: 299
-total_guest_count: 149
-approved_guest_count: 1
-local_image: "images/4o8WaAmgjpoMjk7qRwuI.png"
+remaining_capacity: 298
 canceled: false
+approved_guest_count: 2
+local_image: "images/4o8WaAmgjpoMjk7qRwuI.png"
 ---
 
 # AI in Real Estate Summit
@@ -39,7 +37,7 @@ canceled: false
 **Hosts:** Proptech Council  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 10:00am–7:00pm ET
 **Where:** Metropolitan Pavilion · 125 W 18th St, New York, NY 10011 · Nomad
-**Capacity:** capped at 300 · 1 taken, 299 remaining
+**Capacity:** capped at 300 · 2 taken, 298 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/4o8WaAmgjpoMjk7qRwuI
 **Map:** https://www.google.com/maps/search/?api=1&query=125%20W%2018th%20St%2C%20New%20York%2C%20NY%2010011
@@ -135,10 +133,6 @@ Drinks and appetizers
 8:00 PM — Event Closes
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

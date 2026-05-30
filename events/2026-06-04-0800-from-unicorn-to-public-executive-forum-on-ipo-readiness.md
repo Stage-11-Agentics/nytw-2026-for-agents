@@ -8,26 +8,20 @@ end_time: "10:30am ET"
 start_iso: "2026-06-04T12:00:00.000Z"
 end_iso: "2026-06-04T14:30:00.000Z"
 host: "PwC, NYSE"
-venue_name: "Financial District"
-venue_address: "Financial District, Manhattan, New York, NY"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/R9L7G8gn58zhSRtBncv7"
 public_short_url: "https://go.partiful.com/g3Kabnv7"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Financial%20District%2C%20Financial%20District%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FnOM2FbGNkQXz5IXpwnhd%2Fl6s9DX6SDa7HYG20ye_j0"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FnOM2FbGNkQXz5IXpwnhd%2Fl6s9DX6SDa7HYG20ye_j0?alt=media&token=7521f3fe-a98c-414e-afff-5093f6392ceb"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 267
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["nOM2FbGNkQXz5IXpwnhd", "mJTRVHb6DKUscjfCOXAM5RsL5CD2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 269
-approved_guest_count: 0
-local_image: "images/R9L7G8gn58zhSRtBncv7.jpg"
 canceled: false
+local_image: "images/R9L7G8gn58zhSRtBncv7.jpg"
 ---
 
 # From unicorn to public: Executive forum on IPO readiness
@@ -36,11 +30,9 @@ canceled: false
 
 **Hosts:** PwC, NYSE  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 8:00am–10:30am ET
-**Where:** Financial District · Financial District, Manhattan, New York, NY · Financial District
-**Going:** 267 of 269
+**Where:** Financial District
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/R9L7G8gn58zhSRtBncv7
-**Map:** https://www.google.com/maps/search/?api=1&query=Financial%20District%2C%20Financial%20District%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -62,10 +54,6 @@ Through candid discussion and practical perspectives, attendees will gain insigh
 Location: New York Stock Exchange, 11 Wall Street, New York, NY
 
 This event is part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

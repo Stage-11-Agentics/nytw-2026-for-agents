@@ -11,32 +11,30 @@ host: "Creative Bits AI"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/9YS9QE1XBY0mMpELVYSq"
 public_short_url: "https://go.partiful.com/OyWytkwH"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FqehArlwFxcOAob0vyR6JzavrTsx1%2F6H_mcrkJ2aIYIyXHif4q4"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FqehArlwFxcOAob0vyR6JzavrTsx1%2F6H_mcrkJ2aIYIyXHif4q4?alt=media&token=a192d186-2ffe-4ce4-bb4d-48419ba945f8"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 4
 badges: []
 fetch_status: ok
-owner_count: 3
-owner_ids: ["qehArlwFxcOAob0vyR6JzavrTsx1", "wXtswuOfTYcmoeAZw0wxK3aD0qm1", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 4
+owner_ids: ["qehArlwFxcOAob0vyR6JzavrTsx1", "wXtswuOfTYcmoeAZw0wxK3aD0qm1", "7DFu4rITofNzKIjA7hCx", "EW3GUohCWgM5PNzkLhHE4qyb09n1"]
 is_capped: true
 max_capacity: 20
-remaining_capacity: 20
-total_guest_count: 4
-approved_guest_count: 0
-local_image: "images/9YS9QE1XBY0mMpELVYSq.png"
+remaining_capacity: 8
 canceled: false
+approved_guest_count: 12
+local_image: "images/9YS9QE1XBY0mMpELVYSq.png"
 ---
 
 # How AI Gets You to AI
 
 ![How AI Gets You to AI](images/9YS9QE1XBY0mMpELVYSq.png)
 
-**Hosts:** Creative Bits AI  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** Creative Bits AI  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 4:00pm–5:00pm ET
 **Where:** Midtown
-**Capacity:** capped at 20 · 0 taken, 20 remaining
+**Capacity:** capped at 20 · 12 taken, 8 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/9YS9QE1XBY0mMpELVYSq
 
@@ -44,6 +42,7 @@ canceled: false
 
 - [Harjot Bambra](https://partiful.com/u/qehArlwFxcOAob0vyR6JzavrTsx1)
 - [Louie Celiberti](https://partiful.com/u/wXtswuOfTYcmoeAZw0wxK3aD0qm1)
+- [Vesper Grace](https://partiful.com/u/EW3GUohCWgM5PNzkLhHE4qyb09n1)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -56,10 +55,6 @@ This boardroom-style discussion explores how organizations are using AI to help 
 Designed as an interactive executive dialogue, the session emphasizes shared perspectives, real-world experiences, and the organizational shifts required to turn AI from a collection of tools into a continuously compounding enterprise cap
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

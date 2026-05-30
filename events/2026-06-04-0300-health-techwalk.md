@@ -9,20 +9,19 @@ host: "TechWalk"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/ZHsSj1cL8U5WhQgohQrV"
 public_short_url: "https://go.partiful.com/KxPxHv0B"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FPnTOtNabP8aTcDV46mz8g59Ex5x1%2FVPQCcH6U0Cc_BPen8HzYC"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FPnTOtNabP8aTcDV46mz8g59Ex5x1%2FSxz498w7cX41kufXg2sxH?alt=media&token=ea2ec1d2-fbab-468e-af16-329a52ac245c"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 32
+going_guest_count: 75
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["PnTOtNabP8aTcDV46mz8g59Ex5x1", "7DFu4rITofNzKIjA7hCx", "FW2RRyOsLVVGskWiFlC7qTFVgsv2", "4diINKpudaNPYfl3PX7FitKk2xv2"]
 is_capped: false
-total_guest_count: 39
+canceled: false
 approved_guest_count: 0
 local_image: "images/ZHsSj1cL8U5WhQgohQrV.png"
-canceled: false
 ---
 
 # Health TechWalk
@@ -32,7 +31,7 @@ canceled: false
 **Hosts:** TechWalk  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 3:00am ET
 **Where:** Financial District
-**Going:** 32 of 39
+**Going:** 75
 **RSVP:** https://partiful.com/e/ZHsSj1cL8U5WhQgohQrV
 
 ### Hosts on Partiful
@@ -62,10 +61,6 @@ F﻿or real-time updates on special events and new Co-Hosts follow us sign up fo
 ​Check our Code of Conduct, Community Guidelines, and Privacy Policy.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -11,20 +11,18 @@ host: "Wistia"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/0vbjAvadzQtRjreGKQ0G"
 public_short_url: "https://go.partiful.com/FQEZmtIk"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FW81CTIAFhAM5keKncYLdGNruPfz1%2FNFjeWnitZgq11YfguWWNH"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FW81CTIAFhAM5keKncYLdGNruPfz1%2FNFjeWnitZgq11YfguWWNH?alt=media&token=4793dc16-b8af-49b3-b973-30dd37f38f0d"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 91
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["W81CTIAFhAM5keKncYLdGNruPfz1", "rLUlXPZOW9QcXY4vtCGsouuq3Ho2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 93
-approved_guest_count: 86
-local_image: "images/0vbjAvadzQtRjreGKQ0G.png"
 canceled: false
+approved_guest_count: 151
+local_image: "images/0vbjAvadzQtRjreGKQ0G.png"
 ---
 
 # The Business of Video: What’s Working Now (and What’s Next)
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** Wistia  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 9:00am–2:00pm ET
 **Where:** Midtown
-**Going:** 91 of 93
+**Going:** 151
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/0vbjAvadzQtRjreGKQ0G
 
@@ -60,10 +58,6 @@ Who’s this event for: Marketing leaders (VPs, CMOs, Directors) and the markete
 Space is limited. Save your seat today! 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -9,30 +9,26 @@ host: "The Kairos Circle"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/li3OTq6DQintDXxppVK8"
 public_short_url: "https://go.partiful.com/uPn8nJ11"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FC53DywTmjFenhiNucknKWJnXFId2%2FzsmNy4Kgzy-0i1bQX9K69"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FC53DywTmjFenhiNucknKWJnXFId2%2F8ighQYq2YViJkqpFcPwG4?alt=media&token=2628ba49-5799-439a-a9d3-8b28ed776a88"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 71
 badges: []
 fetch_status: ok
-owner_count: 3
-owner_ids: ["C53DywTmjFenhiNucknKWJnXFId2", "7DFu4rITofNzKIjA7hCx", "0tzhPVqMtmkGyjz81L78"]
+owner_count: 4
+owner_ids: ["C53DywTmjFenhiNucknKWJnXFId2", "7DFu4rITofNzKIjA7hCx", "0tzhPVqMtmkGyjz81L78", "uxg1U5bW6dVAeTKNOiKd3UHdc2J3"]
 is_capped: false
-total_guest_count: 78
-approved_guest_count: 25
-local_image: "images/li3OTq6DQintDXxppVK8.jpg"
 canceled: false
+local_image: "images/li3OTq6DQintDXxppVK8.jpg"
 ---
 
 # GP–LP Tech Week Mixer —
 
 ![GP–LP Tech Week Mixer —](images/li3OTq6DQintDXxppVK8.jpg)
 
-**Hosts:** The Kairos Circle  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** The Kairos Circle  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:30pm ET
 **Where:** Midtown
-**Going:** 71 of 78
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/li3OTq6DQintDXxppVK8
 
@@ -40,6 +36,7 @@ canceled: false
 
 - [sherly](https://partiful.com/u/C53DywTmjFenhiNucknKWJnXFId2)
 - [The Kairos Circle](https://partiful.com/u/0tzhPVqMtmkGyjz81L78)
+- [Steven Zhang](https://partiful.com/u/uxg1U5bW6dVAeTKNOiKd3UHdc2J3)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -55,11 +52,18 @@ Open to public registration. Space is limited.
 
 We look forward to an evening of global dialogue and lasting connections.
 
+
+
+In Partnership With
+
+Silver Leaf Partners Sustainable Finance Practice 
+— Connecting institutional capital with funds, companies, and projects that seek alpha by scaling sustainability solutions.
+
+Turbine Finance
+— In response to the evolving venture liquidity landscape, Turbine offers LP, GP, and NAV loans so investors can recycle capital for future commitments, manage over-allocation, avoid discounted secondaries, and address personal liquidity needs without sacrificing their upside.
+
+
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -8,26 +8,21 @@ end_time: "11:30am ET"
 start_iso: "2026-06-04T12:30:00.000Z"
 end_iso: "2026-06-04T15:30:00.000Z"
 host: "Rho, Outlander VC, Draper, BOXCLUB"
-venue_name: "Trinity Boxing Club"
-venue_address: "116 Duane St, New York, NY 10007"
 neighborhood: "Tribeca"
 rsvp_url: "https://partiful.com/e/nBbdixx4Uo0wcuWHxpgo"
 public_short_url: "https://go.partiful.com/AgaznHKf"
-google_maps: "https://www.google.com/maps/search/?api=1&query=116%20Duane%20St%2C%20New%20York%2C%20NY%2010007"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FfbGzDRIjrjMmgnG6GZZpaBu41Tb2%2FOBs1Nb5nkyGoq8F3jWQJy"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FfbGzDRIjrjMmgnG6GZZpaBu41Tb2%2FOBs1Nb5nkyGoq8F3jWQJy?alt=media&token=67a71f79-56d5-4459-90af-d027fb33c302"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 187
 badges: []
 fetch_status: ok
 owner_count: 5
 owner_ids: ["fbGzDRIjrjMmgnG6GZZpaBu41Tb2", "FtzXc6MouWQNyZVS0SOcJ8VL7cN2", "7DFu4rITofNzKIjA7hCx", "pBNRc5XNDbPFiWl7I3Qq7M5sSfo2", "UtSHeRxRmxPnv2eJIXw7TMfBtvP2"]
 is_capped: false
-total_guest_count: 189
-approved_guest_count: 25
-local_image: "images/nBbdixx4Uo0wcuWHxpgo.png"
 canceled: false
+approved_guest_count: 47
+local_image: "images/nBbdixx4Uo0wcuWHxpgo.png"
 ---
 
 # Founder Boxing & Breakfast
@@ -36,11 +31,10 @@ canceled: false
 
 **Hosts:** Rho, Outlander VC, Draper, BOXCLUB  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 8:30am–11:30am ET
-**Where:** Trinity Boxing Club · 116 Duane St, New York, NY 10007 · Tribeca
-**Going:** 187 of 189
+**Where:** Tribeca
+**Going:** 47
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/nBbdixx4Uo0wcuWHxpgo
-**Map:** https://www.google.com/maps/search/?api=1&query=116%20Duane%20St%2C%20New%20York%2C%20NY%2010007
 
 ### Hosts on Partiful
 
@@ -77,10 +71,6 @@ NEXT powered by Shulman Rogers, voted the #1 Law Firm in the US for Enabling Sta
 ​​​​Rho is a fintech company, not a bank. Checking and card services are provided by Webster Bank, N.A., member FDIC; savings account services are provided by American Deposit Management Co. and its partner banks.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

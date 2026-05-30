@@ -15,13 +15,13 @@ google_maps: "https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flat
 image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FK5BvXyKdG9ajSoXIYLo9FucCyHy2%2FZC8C3cuynZher5vcaBQ1H?alt=media&token=c242f4db-c76f-4128-8d90-9a73db54a51c"
 visibility: "public"
 at_capacity: false
+going_guest_count: 46
 badges: []
 fetch_status: ok
-owner_count: 2
-owner_ids: ["K5BvXyKdG9ajSoXIYLo9FucCyHy2", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 3
+owner_ids: ["K5BvXyKdG9ajSoXIYLo9FucCyHy2", "7DFu4rITofNzKIjA7hCx", "TzICBgxWkVcDP7u6bWrv7pErgQo1"]
 is_capped: false
 canceled: false
-total_guest_count: 0
 approved_guest_count: 0
 local_image: "images/AbbL1aqeScPPUW22Ijrf.png"
 ---
@@ -30,15 +30,18 @@ local_image: "images/AbbL1aqeScPPUW22Ijrf.png"
 
 ![From Prototype to Production for Non-Technical Founders](images/AbbL1aqeScPPUW22Ijrf.png)
 
-**Hosts:** Tequity  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Tequity  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 8:00am ET
 **Where:** Flatiron · Flatiron, Manhattan, New York, NY · Flatiron
+**Going:** 46
 **RSVP:** https://partiful.com/e/AbbL1aqeScPPUW22Ijrf
 **Map:** https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
 - [Rahul Nair](https://partiful.com/u/K5BvXyKdG9ajSoXIYLo9FucCyHy2)
+- [Ajay Kumar](https://partiful.com/u/TzICBgxWkVcDP7u6bWrv7pErgQo1) — _AI for Real Estate via MonkSpaces.Ai, 
+AI for every other domain via Tequity.Tech_
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -69,6 +72,7 @@ Hosted by Applied AI at Tequity, the engineering team that ships AI products for
 Coffee provided.
 
 This event is a part of NYC Tech Week, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
 
 
 ---

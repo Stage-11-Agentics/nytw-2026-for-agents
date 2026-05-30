@@ -11,22 +11,20 @@ host: "Vanderbilt Center for Entrepreneurship"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/56JZd57ccfmBIPipRzxG"
 public_short_url: "https://go.partiful.com/YLecmsah"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F4gZAqIEmAfdmJWw5yRU2J1xkR5w2%2FP9vYVMhscs1cXgk729lrk"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F4gZAqIEmAfdmJWw5yRU2J1xkR5w2%2FP9vYVMhscs1cXgk729lrk?alt=media&token=30116b58-b817-4138-ad4e-b1486887bc61"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 24
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["4gZAqIEmAfdmJWw5yRU2J1xkR5w2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 350
-remaining_capacity: 330
-total_guest_count: 25
-approved_guest_count: 20
-local_image: "images/56JZd57ccfmBIPipRzxG.png"
+remaining_capacity: 292
 canceled: false
+approved_guest_count: 58
+local_image: "images/56JZd57ccfmBIPipRzxG.png"
 ---
 
 # Vanderbilt Founders x Investors Breakfast
@@ -36,7 +34,7 @@ canceled: false
 **Hosts:** Vanderbilt Center for Entrepreneurship  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 8:00am–10:30am ET
 **Where:** Chelsea
-**Capacity:** capped at 350 · 20 taken, 330 remaining
+**Capacity:** capped at 350 · 58 taken, 292 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/56JZd57ccfmBIPipRzxG
 
@@ -58,10 +56,6 @@ Join us for a 2.5 hour breakfast roundtable + anti-conference format.  We look f
 - What Vanderbilt can provide you / role of the NYC campus in promoting the alumni startup ecosystem
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

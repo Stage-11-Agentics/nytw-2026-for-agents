@@ -11,30 +11,26 @@ host: "Women of Customer Success"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/GEDtdJiI0ZyMgIDvwZRh"
 public_short_url: "https://go.partiful.com/mVA1QjrE"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FaCkYpJKRZXgU3jHg8KKMDCw8gNA3%2FcPv8CQ1MHg3TPEb-3MH3D"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FaCkYpJKRZXgU3jHg8KKMDCw8gNA3%2FcPv8CQ1MHg3TPEb-3MH3D?alt=media&token=a24598ef-5446-44af-a8b8-29273b989130"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 151
 badges: []
 fetch_status: ok
-owner_count: 2
-owner_ids: ["aCkYpJKRZXgU3jHg8KKMDCw8gNA3", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 3
+owner_ids: ["aCkYpJKRZXgU3jHg8KKMDCw8gNA3", "7DFu4rITofNzKIjA7hCx", "0Q5jceoTC3gfBH12dkDLLgCWHO02"]
 is_capped: false
-total_guest_count: 163
-approved_guest_count: 91
-local_image: "images/GEDtdJiI0ZyMgIDvwZRh.png"
 canceled: false
+local_image: "images/GEDtdJiI0ZyMgIDvwZRh.png"
 ---
 
 # The New CS Skill Set: Build the System, Become the Strategist
 
 ![The New CS Skill Set: Build the System, Become the Strategist](images/GEDtdJiI0ZyMgIDvwZRh.png)
 
-**Hosts:** Women of Customer Success  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Women of Customer Success  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:30pm–8:30pm ET
 **Where:** SoHo
-**Going:** 151 of 163
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/GEDtdJiI0ZyMgIDvwZRh
 
@@ -43,6 +39,7 @@ canceled: false
 - [Women of Customer Success](https://partiful.com/u/aCkYpJKRZXgU3jHg8KKMDCw8gNA3) — _Women of Customer Success is the leading global network for the best and brightest women in Customer Success/post-sales roles and leadership.  
 
 We are the cultivating the next generation of women leaders in post-sales. Through a supportive network, curated global events, and focused leadership development, we are increasing the number of women shaping the future of all industries._
+- [Lauren Salanitro](https://partiful.com/u/0Q5jceoTC3gfBH12dkDLLgCWHO02)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -76,10 +73,6 @@ Meet your panel:
 Please note this event is for women only.
 
 This event is a part of #NYTechWeek - a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -17,16 +17,15 @@ google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY
 image: "https://assets.getpartiful.com/posters/retirement-computer"
 visibility: "public"
 at_capacity: false
-going_guest_count: 79
+going_guest_count: 136
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["7OrlCbV79fUQ1uhCieKNPP74jd13", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 87
+canceled: false
 approved_guest_count: 0
 local_image: "images/9G0ro5zcuJ1DQ2ajc9aI.png"
-canceled: false
 ---
 
 # New Friendship Tech Week
@@ -36,7 +35,7 @@ canceled: false
 **Hosts:** New Friendship Tech  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 7:00pm–11:30pm ET
 **Where:** New York, NY · New York, NY · Lower East Side
-**Going:** 79 of 87
+**Going:** 136
 **RSVP:** https://partiful.com/e/9G0ro5zcuJ1DQ2ajc9aI
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
 
@@ -72,10 +71,6 @@ NEW FRIENDSHIP TECH cordially invites you to this special gathering. Looking for
 -Eric
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

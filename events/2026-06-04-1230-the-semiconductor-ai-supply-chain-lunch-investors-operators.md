@@ -7,40 +7,34 @@ start_time: "12:30pm ET"
 end_time: "2:30pm ET"
 start_iso: "2026-06-04T16:30:00.000Z"
 end_iso: "2026-06-04T18:30:00.000Z"
-host: "Startup Baddie, Silicon Frontier"
-venue_name: "NoMad"
-venue_address: "NoMad, Manhattan, New York, NY"
+host: "Silicon Frontier, Startup Baddie"
 neighborhood: "Nomad"
 rsvp_url: "https://partiful.com/e/WJe6XcxPXwbpCiCVLCas"
 public_short_url: "https://go.partiful.com/8tn7Yiaf"
-google_maps: "https://www.google.com/maps/search/?api=1&query=NoMad%2C%20NoMad%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FzHpwVsyZuiY64cEL5HRNAoY09JI3%2F-Y-PPRKSs0rnmiNJsbkGH"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FzHpwVsyZuiY64cEL5HRNAoY09JI3%2FKBlQMIux6xVSo55AzYbDn?alt=media&token=fa22efc8-6915-41a3-a982-543f3c6e5df5"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 1
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["zHpwVsyZuiY64cEL5HRNAoY09JI3", "IrC0OxqWrNhXznvhP7BfdNAGS0u1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 5
-approved_guest_count: 0
-local_image: "images/WJe6XcxPXwbpCiCVLCas.png"
 canceled: false
+approved_guest_count: 55
+local_image: "images/WJe6XcxPXwbpCiCVLCas.png"
 ---
 
 # The Semiconductor & AI Supply Chain Lunch: Investors & Operators
 
 ![The Semiconductor & AI Supply Chain Lunch: Investors & Operators](images/WJe6XcxPXwbpCiCVLCas.png)
 
-**Hosts:** Startup Baddie, Silicon Frontier  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Silicon Frontier, Startup Baddie  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 12:30pm–2:30pm ET
-**Where:** NoMad · NoMad, Manhattan, New York, NY · Nomad
-**Going:** 1 of 5
+**Where:** Nomad
+**Going:** 55
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/WJe6XcxPXwbpCiCVLCas
-**Map:** https://www.google.com/maps/search/?api=1&query=NoMad%2C%20NoMad%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -63,10 +57,6 @@ Hosted by Kerman Kohli, Founder of Silicon Frontier, a hedge fund focused on AI 
 The room will bring together portfolio managers, allocators, venture investors, founders, operators, and technical builders across public markets, private markets, AI infrastructure, and semiconductors.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -11,22 +11,20 @@ host: "Rest of World, Access Now, AI Now Institute"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/2UzoY58jttvpNlysyUbc"
 public_short_url: "https://go.partiful.com/qUgI5s3x"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F3FSslPIpkTW6Qt2ZisobHyZdgxz2%2FoSHK6-BqQ2STKVy99c6_a"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F3FSslPIpkTW6Qt2ZisobHyZdgxz2%2FoSHK6-BqQ2STKVy99c6_a?alt=media&token=82f84929-de4d-4a2a-89e9-434bca7f88dd"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: true
-going_guest_count: 149
+at_capacity: false
 badges: []
 fetch_status: ok
 owner_count: 5
 owner_ids: ["3FSslPIpkTW6Qt2ZisobHyZdgxz2", "K5wB9PDzHEaxLf8PrkKGoZgC8di2", "eGf1Z2z1FZJJWN3ry66s", "Ut55Hix6lohFyDBMfhSywPlTwvt2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 115
-remaining_capacity: -3
-total_guest_count: 152
+max_capacity: 120
+remaining_capacity: 2
+canceled: false
 approved_guest_count: 118
 local_image: "images/2UzoY58jttvpNlysyUbc.png"
-canceled: false
 ---
 
 # The Great AI Divide: U.S., China vs the rest
@@ -36,8 +34,7 @@ canceled: false
 **Hosts:** Rest of World, Access Now, AI Now Institute  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 3:00pm–3:45pm ET
 **Where:** Chelsea
-**Capacity:** capped at 115 · 118 taken, -3 remaining
-**Status:** ⚠ at capacity
+**Capacity:** capped at 120 · 118 taken, 2 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/2UzoY58jttvpNlysyUbc
 
@@ -62,10 +59,6 @@ Aditya Vashistha, Assistant Professor, Cornell University
 Sam Winter-Levy, Fellow, Carnegie Endowment
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

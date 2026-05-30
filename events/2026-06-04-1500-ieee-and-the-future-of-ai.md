@@ -13,22 +13,20 @@ neighborhood: "Murray Hill"
 rsvp_url: "https://partiful.com/e/N2keUjttusXkEOfbu9Cv"
 public_short_url: "https://go.partiful.com/Eoq4QjfB"
 google_maps: "https://www.google.com/maps/search/?api=1&query=3%20Park%20Ave%2C%20New%20York%2C%20NY%2010016"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FWU1188DqEfMSXwiCVSYGGtLYRmE3%2FkoAdR86voYhUu7Ol9Rxu9"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FWU1188DqEfMSXwiCVSYGGtLYRmE3%2FkoAdR86voYhUu7Ol9Rxu9?alt=media&token=e3b010e2-9d8b-4960-9bfe-0593daf1bb4c"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 69
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["lIwoviIbOSZcFwztlPELaK0tGMh1", "WU1188DqEfMSXwiCVSYGGtLYRmE3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 2
-total_guest_count: 70
-approved_guest_count: 48
-local_image: "images/N2keUjttusXkEOfbu9Cv.svg"
+remaining_capacity: -1
 canceled: false
+approved_guest_count: 51
+local_image: "images/N2keUjttusXkEOfbu9Cv.svg"
 ---
 
 # IEEE and the future of AI
@@ -38,7 +36,8 @@ canceled: false
 **Hosts:** IEEE  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 3:00pm–5:00pm ET
 **Where:** 3 Park Ave, New York, NY 10016 · Murray Hill
-**Capacity:** capped at 50 · 48 taken, 2 remaining
+**Capacity:** capped at 50 · 51 taken, -1 remaining
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/N2keUjttusXkEOfbu9Cv
 **Map:** https://www.google.com/maps/search/?api=1&query=3%20Park%20Ave%2C%20New%20York%2C%20NY%2010016
@@ -84,10 +83,6 @@ Mariela Machado: Humanitarian Impact & Social Responsibility perspective (IEEE H
 Jeff Lontoc: Implementation & Entrepreneurship perspective (Guidehouse)
 
 Gautami Nadkarni: Cloud & Industry Trends perspective (Google)
-
-
-
-
 
 
 

@@ -7,39 +7,37 @@ start_time: "5:00pm ET"
 end_time: "8:00pm ET"
 start_iso: "2026-06-02T21:00:00.000Z"
 end_iso: "2026-06-03T00:00:00.000Z"
-host: "Deel, NachoNacho"
+host: "NachoNacho, Deel"
 venue_name: "Mr. Purple"
 venue_address: "180 Orchard St, FL 15, New York, NY 10002"
 neighborhood: "East Village"
 rsvp_url: "https://partiful.com/e/cYc14RoM81gqU39dQmur"
 public_short_url: "https://go.partiful.com/tKd7AylD"
 google_maps: "https://www.google.com/maps/search/?api=1&query=180%20Orchard%20St%2C%20FL%2015%2C%20New%20York%2C%20NY%2010002"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FuhcDzCJelzatiYnqz1UYjr9Py943%2F0WhBx2G5gWUzfAeF8Cujx"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FuhcDzCJelzatiYnqz1UYjr9Py943%2FT-ViQtYw8qDXufVybf7vl?alt=media&token=023d20a1-6cee-43f4-9c8f-490db0d3740f"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 3494
 badges: []
 fetch_status: ok
-owner_count: 3
-owner_ids: ["uhcDzCJelzatiYnqz1UYjr9Py943", "7DFu4rITofNzKIjA7hCx", "v0GzlvhA7dNcwFcnloDE3jEQX623"]
+owner_count: 4
+owner_ids: ["uhcDzCJelzatiYnqz1UYjr9Py943", "7DFu4rITofNzKIjA7hCx", "v0GzlvhA7dNcwFcnloDE3jEQX623", "Olkyl7Eb4CmTKlrOdI4C"]
 is_capped: true
 max_capacity: 800
-remaining_capacity: 365
-total_guest_count: 3502
-approved_guest_count: 435
-local_image: "images/cYc14RoM81gqU39dQmur.png"
+remaining_capacity: 208
 canceled: false
+approved_guest_count: 592
+local_image: "images/cYc14RoM81gqU39dQmur.png"
 ---
 
 # NachoTuesday SaaS & AI Founder + Investor Rooftop Happy Hour
 
 ![NachoTuesday SaaS & AI Founder + Investor Rooftop Happy Hour](images/cYc14RoM81gqU39dQmur.png)
 
-**Hosts:** Deel, NachoNacho  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** NachoNacho, Deel  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:00pm–8:00pm ET
 **Where:** Mr. Purple · 180 Orchard St, FL 15, New York, NY 10002 · East Village
-**Capacity:** capped at 800 · 435 taken, 365 remaining
+**Capacity:** capped at 800 · 592 taken, 208 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/cYc14RoM81gqU39dQmur
 **Map:** https://www.google.com/maps/search/?api=1&query=180%20Orchard%20St%2C%20FL%2015%2C%20New%20York%2C%20NY%2010002
@@ -48,12 +46,13 @@ canceled: false
 
 - [Andy Karuza](https://partiful.com/u/uhcDzCJelzatiYnqz1UYjr9Py943) — _Marketing Lead at NachoNacho (http://NachoNacho.com). Entrepreneur. Friend. Adventurer. #Austin #SF #SEA Current = Manhattan, #NYC_
 - [Ben Yurcisin](https://partiful.com/u/v0GzlvhA7dNcwFcnloDE3jEQX623) — _Startup Swiss Army Knife 🛠️ Fractional Sales & Marketing | Go-to-Market & Growth | Community Builder | Global Network 150K+ | Generative AI Network | Veteran Mental Health Support | AI Consulting & Executive Briefings_
+- [Angel Launch](https://partiful.com/u/Olkyl7Eb4CmTKlrOdI4C) — _Angel Launch, based in Silicon Valley, is a leading producer of venture forums, dinners and summits for   early and advanced startups to meet global accredited investors and tech professionals. Our markets include AI, general tech and health tech and life sciences. For info about our events, call 310 6216850._
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
 ## Description
 
-NachoNacho - The B2B SaaS & AI + Services Marketplace, Astra, Shopline, Deel, ZeroClick, Revolut Business, Archera, VeUp, Pierson Ferdinand, Efficient Capital Labs, Forecastr, Anchin, Truelogic, and Amikoo (by MuukLabs) are hosting this exclusive Founder + Investor happy hour event alongside key high-profile brands and VC firms.  This is part of our NachoTuesday series, which includes in-person events as well as online thought leadership C-Suite interviews (https://nachonacho.com/nachotuesday).  
+NachoNacho - The B2B SaaS & AI + Services Marketplace, Astra, Shopline, Deel, Zero, Revolut Business, Archera, VeUp, Pierson Ferdinand, Efficient Capital Labs, Forecastr, Anchin, Truelogic, Angel Launch, and Amikoo (by MuukLabs) are hosting this exclusive Founder + Investor happy hour event alongside key high-profile brands and VC firms.  This is part of our NachoTuesday series, which includes in-person events as well as online thought leadership C-Suite interviews (https://nachonacho.com/nachotuesday).  
 
 This networking event will be exclusively for SaaS/AI:  
 
@@ -64,11 +63,7 @@ This networking event will be exclusively for SaaS/AI:
 
 Your application will be carefully screened. No +1s allowed. Only approved guests will be allowed onto the premises.  This event will include sponsored drinks and a rooftop deck component.
 
-This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
+This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
 
 
 

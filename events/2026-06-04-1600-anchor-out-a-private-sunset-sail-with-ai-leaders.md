@@ -12,20 +12,17 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/wJ3YKRmuytbMEH7s1AP5"
 public_short_url: "https://go.partiful.com/1WJ5Pmfp"
 google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FHYtKPsUbTaR5pm6pediBfFQgDCj2%2F49FcJbtzx0OrSzWhqXk7p"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FHYtKPsUbTaR5pm6pediBfFQgDCj2%2F49FcJbtzx0OrSzWhqXk7p?alt=media&token=febfb6a9-bc3e-4326-9b9a-63b967038595"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 45
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["HYtKPsUbTaR5pm6pediBfFQgDCj2", "7DFu4rITofNzKIjA7hCx", "aePIFrBPOihpPW7wAGdrriodJKx1"]
 is_capped: false
-total_guest_count: 45
-approved_guest_count: 3
-local_image: "images/wJ3YKRmuytbMEH7s1AP5.png"
 canceled: false
+local_image: "images/wJ3YKRmuytbMEH7s1AP5.png"
 ---
 
 # ANCHOR OUT
@@ -37,7 +34,6 @@ A private sunset sail with AI leaders](images/wJ3YKRmuytbMEH7s1AP5.png)
 **Hosts:** Lyzr  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 4:00pm ET
 **Where:** New York, NY · New York, NY · Midtown
-**Going:** 45
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/wJ3YKRmuytbMEH7s1AP5
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -61,10 +57,6 @@ A deliberate mid-week reset away from the crowded streets and panel rooms. No sl
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

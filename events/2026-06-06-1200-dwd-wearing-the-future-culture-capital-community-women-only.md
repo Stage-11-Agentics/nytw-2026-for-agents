@@ -8,25 +8,21 @@ end_time: "3:00pm ET"
 start_iso: "2026-06-06T16:00:00.000Z"
 end_iso: "2026-06-06T19:00:00.000Z"
 host: "Mothers to Daughters"
-venue_name: "New York"
-venue_address: "New York, NY"
 neighborhood: "Union Square"
 rsvp_url: "https://partiful.com/e/7UpZe9eo90pwQSpSutZ0"
 public_short_url: "https://go.partiful.com/dRYEPkUZ"
-google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fns2bYgfP2nfQ4kB18F5ghTAx9Zj1%2FRYwrxHquFstyl1JMX5VOt"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fns2bYgfP2nfQ4kB18F5ghTAx9Zj1%2FRYwrxHquFstyl1JMX5VOt?alt=media&token=a2657134-0d03-4cde-9ba7-79f1ddbc8833"
 visibility: "public"
 at_capacity: false
-going_guest_count: 35
+going_guest_count: 59
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["ns2bYgfP2nfQ4kB18F5ghTAx9Zj1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 38
+canceled: false
 approved_guest_count: 0
 local_image: "images/7UpZe9eo90pwQSpSutZ0.png"
-canceled: false
 ---
 
 # DWD - Wearing the Future: Culture, Capital & Community - (Women Only)
@@ -35,10 +31,9 @@ canceled: false
 
 **Hosts:** Mothers to Daughters  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 12:00pm–3:00pm ET
-**Where:** New York · New York, NY · Union Square
-**Going:** 35 of 38
+**Where:** Union Square
+**Going:** 59
 **RSVP:** https://partiful.com/e/7UpZe9eo90pwQSpSutZ0
-**Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -74,10 +69,6 @@ Mothers to Daughters’ vision is to help launch 100,000 women entrepreneurs by 
 For inquiries, please contact: francine@motherstodaughters.org
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

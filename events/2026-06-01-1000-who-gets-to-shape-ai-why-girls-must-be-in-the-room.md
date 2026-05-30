@@ -11,22 +11,21 @@ host: "Girls Who Code"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/9JBYSWrl1xooe9Oee17J"
 public_short_url: "https://go.partiful.com/lLnPYOX8"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fq7QrARjFTyIhSuNllV9W%2F5aintRSaZNqH8l-48U701"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fq7QrARjFTyIhSuNllV9W%2F5aintRSaZNqH8l-48U701?alt=media&token=e6186c1f-7a8b-4f6a-b590-762fc1720d62"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: true
-going_guest_count: 300
+going_guest_count: 301
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["q7QrARjFTyIhSuNllV9W", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 300
+max_capacity: 301
 remaining_capacity: 0
-total_guest_count: 363
+canceled: false
 approved_guest_count: 0
 local_image: "images/9JBYSWrl1xooe9Oee17J.png"
-canceled: false
 ---
 
 # Who Gets to Shape AI? Why Girls Must Be in the Room
@@ -36,7 +35,7 @@ canceled: false
 **Hosts:** Girls Who Code  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 10:00am–11:00am ET
 **Where:** Flatiron
-**Capacity:** capped at 300 · 300 taken, 0 remaining · ⚠ **FULL**
+**Capacity:** capped at 301 · 301 taken, 0 remaining · ⚠ **FULL**
 **Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/9JBYSWrl1xooe9Oee17J
 
@@ -69,10 +68,6 @@ Dr. Jean Ryoo, Director of Research of the Computer Science Equity Project, UCLA
 Opening Remarks - Pamela Jacob, Corporate Social Responsibility Leader, North America, IBM
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

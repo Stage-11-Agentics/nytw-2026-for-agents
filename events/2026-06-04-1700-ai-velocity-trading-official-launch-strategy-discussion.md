@@ -9,20 +9,17 @@ host: "AI Velocity Fund, LLC"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/vfUtZSxua5sANHaUJPdb"
 public_short_url: "https://go.partiful.com/oWIjIQ2h"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FjWuVdUWqMLS07oqSkgLbkXMWbZl1%2FlF5xqYIr9QyORBqS3Knsy"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FjWuVdUWqMLS07oqSkgLbkXMWbZl1%2FlF5xqYIr9QyORBqS3Knsy?alt=media&token=b43ce2cc-6885-43ae-82a4-a2d320afc612"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 36
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["jWuVdUWqMLS07oqSkgLbkXMWbZl1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 36
-approved_guest_count: 34
-local_image: "images/vfUtZSxua5sANHaUJPdb.png"
 canceled: false
+local_image: "images/vfUtZSxua5sANHaUJPdb.png"
 ---
 
 # AI Velocity Trading: Official Launch & Strategy Discussion
@@ -32,7 +29,6 @@ canceled: false
 **Hosts:** AI Velocity Fund, LLC
 **When:** Thursday, June 4, 2026 · 5:00pm ET
 **Where:** Financial District
-**Going:** 36
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/vfUtZSxua5sANHaUJPdb
 
@@ -70,10 +66,6 @@ Anyone exploring AI workflows for real-world use cases.
 https://www.aivelocitytrading.com
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at https://www.tech-week.com
-
-
-
-
 
 
 

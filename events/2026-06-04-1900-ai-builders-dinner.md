@@ -14,32 +14,30 @@ neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/idltitmjA4ZzL9IuK0Y6"
 public_short_url: "https://go.partiful.com/udjXmTxg"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fv5dUeZiFOthTTZMy8I4YFO68r3Q2%2FHoR35AoefnDpiHTfA9J0C"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fv5dUeZiFOthTTZMy8I4YFO68r3Q2%2FfT7vllS-prw8raC-FKn7h?alt=media&token=b55e8586-82aa-4571-9585-2b54ed3e210a"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: true
-going_guest_count: 72
 badges: []
 fetch_status: ok
-owner_count: 2
-owner_ids: ["v5dUeZiFOthTTZMy8I4YFO68r3Q2", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 3
+owner_ids: ["v5dUeZiFOthTTZMy8I4YFO68r3Q2", "7DFu4rITofNzKIjA7hCx", "3aiOUALDyqSmR2xOEAYLdehje3o2"]
 is_capped: true
 max_capacity: 40
-remaining_capacity: -7
-total_guest_count: 73
-approved_guest_count: 47
-local_image: "images/idltitmjA4ZzL9IuK0Y6.png"
+remaining_capacity: -50
 canceled: false
+approved_guest_count: 90
+local_image: "images/idltitmjA4ZzL9IuK0Y6.png"
 ---
 
 # AI BUILDERS DINNER
 
 ![AI BUILDERS DINNER](images/idltitmjA4ZzL9IuK0Y6.png)
 
-**Hosts:** Vibe Forward  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Vibe Forward  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 7:00pm–9:00pm ET
 **Where:** Flatiron · Flatiron, Manhattan, New York, NY · Flatiron
-**Capacity:** capped at 40 · 47 taken, -7 remaining
+**Capacity:** capped at 40 · 90 taken, -50 remaining
 **Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/idltitmjA4ZzL9IuK0Y6
@@ -49,6 +47,7 @@ canceled: false
 
 - [M A](https://partiful.com/u/v5dUeZiFOthTTZMy8I4YFO68r3Q2) — _Tech by day, decks by night.
 Hosting the parties you wish you didn’t miss._
+- [Prachi Batreja](https://partiful.com/u/3aiOUALDyqSmR2xOEAYLdehje3o2)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -71,10 +70,6 @@ Dinner location shared with confirmed guests only. Seated. 30 people. The conver
 Attendance is confirmed by the host. If you're reading this, someone thought you belonged in the room.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

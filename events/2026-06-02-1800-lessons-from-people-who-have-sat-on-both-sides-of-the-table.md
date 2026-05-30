@@ -14,30 +14,26 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/eZyYOASnhlTpvJNfDXKu"
 public_short_url: "https://go.partiful.com/FG91P6XA"
 google_maps: "https://www.google.com/maps/search/?api=1&query=521%20W%2021st%20St%2C%20New%20York%2C%20NY%2010011"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fx3raqAytyDXNV8IS3Uz4U7T8nK52%2FojWxDG72p1r7HEOHXWPnx"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fx3raqAytyDXNV8IS3Uz4U7T8nK52%2FojWxDG72p1r7HEOHXWPnx?alt=media&token=58a2efee-b77d-499f-98ea-08f6ace73e4a"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 853
 badges: []
 fetch_status: ok
-owner_count: 2
-owner_ids: ["x3raqAytyDXNV8IS3Uz4U7T8nK52", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 3
+owner_ids: ["x3raqAytyDXNV8IS3Uz4U7T8nK52", "7DFu4rITofNzKIjA7hCx", "uLRoYrXgPOQZ5FQHYzfRR4wsiNT2"]
 is_capped: false
-total_guest_count: 853
-approved_guest_count: 0
-local_image: "images/eZyYOASnhlTpvJNfDXKu.png"
 canceled: false
+local_image: "images/eZyYOASnhlTpvJNfDXKu.png"
 ---
 
 # Lessons from People Who Have Sat on Both Sides of the Table.
 
 ![Lessons from People Who Have Sat on Both Sides of the Table.](images/eZyYOASnhlTpvJNfDXKu.png)
 
-**Hosts:** Boxsy Inc., Baylane Capital
+**Hosts:** Boxsy Inc., Baylane Capital  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–8:00pm ET
 **Where:** Kravets Wehby Gallery · 521 W 21st St, New York, NY 10011 · Midtown
-**Going:** 853
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/eZyYOASnhlTpvJNfDXKu
 **Map:** https://www.google.com/maps/search/?api=1&query=521%20W%2021st%20St%2C%20New%20York%2C%20NY%2010011
@@ -45,6 +41,7 @@ canceled: false
 ### Hosts on Partiful
 
 - [Elisabeth Bykoff](https://partiful.com/u/x3raqAytyDXNV8IS3Uz4U7T8nK52) — _Founder & CEO, Boxsy Inc._
+- [Rachel  Kelly-Walsh](https://partiful.com/u/uLRoYrXgPOQZ5FQHYzfRR4wsiNT2)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -65,10 +62,6 @@ Oni Kabir brings 30+ years of experience across enterprise architecture, cyberse
 Stefan Lehmann-Karp is an Executive Director with Morgan Stanley Inclusive & Sustainable Ventures. Stefan brings over 20 years across venture capital, investment banking, and startup operations to supports early-stage founders through fundraising, growth, governance, and strategic scaling. Previously, he held leadership roles at Bridgewater Associates, Morgan Stanley, and Lehman Brothers, as well as CFO and COO positions at venture-backed startups. Stefan holds an MBA from Columbia Business School and a BA from Cornell University.
 
 This event is a part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

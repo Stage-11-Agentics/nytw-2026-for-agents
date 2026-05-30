@@ -14,20 +14,18 @@ neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/jk9RAhLXAwGUteraldWT"
 public_short_url: "https://go.partiful.com/Z2NsAXaR"
 google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F3heFZy22CnXtrHDLO9vJ%2Fm-qXJaK1UHIZKn1I8R1tG"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F3heFZy22CnXtrHDLO9vJ%2Fm-qXJaK1UHIZKn1I8R1tG?alt=media&token=08b7b4f0-0141-4223-b05c-e7d0db3ac320"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 245
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["3heFZy22CnXtrHDLO9vJ", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 248
-approved_guest_count: 7
-local_image: "images/jk9RAhLXAwGUteraldWT.png"
 canceled: false
+approved_guest_count: 10
+local_image: "images/jk9RAhLXAwGUteraldWT.png"
 ---
 
 # The AI GTM Book Club
@@ -37,7 +35,7 @@ canceled: false
 **Hosts:** Warrant  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 8:30am–10:00am ET
 **Where:** New York, NY · New York, NY · Chelsea
-**Going:** 245 of 248
+**Going:** 10
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/jk9RAhLXAwGUteraldWT
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -81,10 +79,6 @@ Together, they give marketing, legal, and compliance teams the structure to move
 Learn more at http://hellowarrant.com/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

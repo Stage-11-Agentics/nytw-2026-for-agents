@@ -11,20 +11,18 @@ host: "Pygma"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/MI78ceqUW5P10OgKERSv"
 public_short_url: "https://go.partiful.com/cMr042C5"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fk9o75egDXRZGkjxMT2fDaTGNjv52%2FUiPowg5VOuIGI3OCuzaw8"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fk9o75egDXRZGkjxMT2fDaTGNjv52%2FUiPowg5VOuIGI3OCuzaw8?alt=media&token=af401c1d-6968-4c04-bc6c-eb6b7a48dcc7"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 332
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["k9o75egDXRZGkjxMT2fDaTGNjv52", "7DFu4rITofNzKIjA7hCx", "UT45etjIdIMKwMrjgDaDCHmOzoV2"]
 is_capped: false
-total_guest_count: 332
-approved_guest_count: 35
-local_image: "images/MI78ceqUW5P10OgKERSv.jpg"
 canceled: false
+approved_guest_count: 64
+local_image: "images/MI78ceqUW5P10OgKERSv.jpg"
 ---
 
 # Latino & LatAm Founders & Investors 
@@ -36,7 +34,7 @@ Speed Dating](images/MI78ceqUW5P10OgKERSv.jpg)
 **Hosts:** Pygma  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 11:00am–1:00pm ET
 **Where:** Midtown
-**Going:** 332
+**Going:** 64
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/MI78ceqUW5P10OgKERSv
 
@@ -65,10 +63,6 @@ https://tally.so/r/WOYjMN
 
 Hosted at CLA (CliftonLarsonAllen)
 CLA exists to create opportunities for our clients, our people, and our communities through our industry-focused advisory, digital, audit, tax, and outsourcing services. CLAconnect.com
-
-
-
-
 
 
 

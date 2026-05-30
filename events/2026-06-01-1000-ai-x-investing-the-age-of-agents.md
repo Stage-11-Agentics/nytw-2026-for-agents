@@ -13,20 +13,17 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/g2m3ExEh1j9ZSo7eNpCD"
 public_short_url: "https://go.partiful.com/f7sqFv3b"
 google_maps: "https://www.google.com/maps/search/?api=1&query=881%207th%20Ave%2C%20New%20York%2C%20NY%2010019"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FnMsDXAHLS4OKRj0HYMPgnRBXNO82%2F9VfWP9wKydfM6KYCXXBej"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FnMsDXAHLS4OKRj0HYMPgnRBXNO82%2F9VfWP9wKydfM6KYCXXBej?alt=media&token=ff05006e-aebe-4e73-bd76-6ddbb77a91eb"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 417
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["nMsDXAHLS4OKRj0HYMPgnRBXNO82", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 432
-approved_guest_count: 98
-local_image: "images/g2m3ExEh1j9ZSo7eNpCD.png"
 canceled: false
+local_image: "images/g2m3ExEh1j9ZSo7eNpCD.png"
 ---
 
 # AI x Investing : The Age of Agents
@@ -36,7 +33,6 @@ canceled: false
 **Hosts:** Trade It, Public, OptionUp, Unusual Whales
 **When:** Monday, June 1, 2026 · 10:00am–12:00pm ET
 **Where:** 881 7th Ave, New York, NY 10019 · Midtown
-**Going:** 417 of 432
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/g2m3ExEh1j9ZSo7eNpCD
 **Map:** https://www.google.com/maps/search/?api=1&query=881%207th%20Ave%2C%20New%20York%2C%20NY%2010019
@@ -60,10 +56,6 @@ Panel:
 - Ankit Agarwal, CEO of OptionUp
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

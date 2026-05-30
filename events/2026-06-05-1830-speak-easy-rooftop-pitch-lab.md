@@ -14,20 +14,18 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/Sq84DVyhqLuB0Qj6vFhh"
 public_short_url: "https://go.partiful.com/db010kDV"
 google_maps: "https://www.google.com/maps/search/?api=1&query=218%20W%2035th%20St%2C%20New%20York%2C%20NY%2010001"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F34Odr6VMoHh8mKNky38xJ1ZofX13%2F10WHPfH4KMVrNnWNXXz1J"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F34Odr6VMoHh8mKNky38xJ1ZofX13%2F10WHPfH4KMVrNnWNXXz1J?alt=media&token=4ae2ad95-9482-429a-aee5-bb9d1a91017b"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 197
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["34Odr6VMoHh8mKNky38xJ1ZofX13", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 197
-approved_guest_count: 47
-local_image: "images/Sq84DVyhqLuB0Qj6vFhh.png"
 canceled: false
+approved_guest_count: 56
+local_image: "images/Sq84DVyhqLuB0Qj6vFhh.png"
 ---
 
 # Speak Easy: Rooftop Pitch Lab
@@ -37,7 +35,7 @@ canceled: false
 **Hosts:** Speech & Mind  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 6:30pm–8:30pm ET
 **Where:** Versa · 218 W 35th St, New York, NY 10001 · Midtown
-**Going:** 197
+**Going:** 56
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Sq84DVyhqLuB0Qj6vFhh
 **Map:** https://www.google.com/maps/search/?api=1&query=218%20W%2035th%20St%2C%20New%20York%2C%20NY%2010001
@@ -50,9 +48,6 @@ canceled: false
 
 
 ## Description
-
-Limited spots remaining → Secure your spot:
-https://buy.stripe.com/7sY3cudnpaU59iIgEQ9fW01
 
 Your ideas are good. The question is: do they land?
 
@@ -86,10 +81,6 @@ Thank you to our venue sponsor:
 VERSA Rooftop is NYC’s ultimate elevated sports bar, perfectly located steps from Madison Square Garden and Penn Station. Spanning nearly 9,000 square feet, VERSA features expansive open-air space and the City’s largest retractable Canopy, making it a year-round destination for upwards of 850 of your closest friends and colleagues. Whether you're catching the game, enjoying outdoor dining and drinks, or hosting a private event, VERSA delivers an energetic, elevated experience right in the middle of the action.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

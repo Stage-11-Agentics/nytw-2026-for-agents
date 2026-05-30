@@ -8,26 +8,21 @@ end_time: "2:00pm ET"
 start_iso: "2026-06-05T16:00:00.000Z"
 end_iso: "2026-06-05T18:00:00.000Z"
 host: "Startup Grind"
-venue_name: "Gramercy Park"
-venue_address: "50–88 E 21st St, New York, NY 10010"
 neighborhood: "Gramercy Park"
 rsvp_url: "https://partiful.com/e/mG8lr0MOZDcE9Aid3QXR"
 public_short_url: "https://go.partiful.com/eKrAoTgv"
-google_maps: "https://www.google.com/maps/search/?api=1&query=50%E2%80%9388%20E%2021st%20St%2C%20New%20York%2C%20NY%2010010"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FzEG6fYpKocBg6rTqxCy7%2FuhSi-Tcqr6A8LdLvlAmFa"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FzEG6fYpKocBg6rTqxCy7%2FuhSi-Tcqr6A8LdLvlAmFa?alt=media&token=15e8b7fa-c9ae-420b-ad94-da4c6d232eb0"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 6
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["zEG6fYpKocBg6rTqxCy7", "7DFu4rITofNzKIjA7hCx", "undNituOo6T0hNT8eXT7yElQm4x2"]
 is_capped: false
-total_guest_count: 6
-approved_guest_count: 1
-local_image: "images/mG8lr0MOZDcE9Aid3QXR.png"
 canceled: false
+approved_guest_count: 5
+local_image: "images/mG8lr0MOZDcE9Aid3QXR.png"
 ---
 
 # The $15M Founder Forum: Private Lunch at
@@ -36,11 +31,10 @@ canceled: false
 
 **Hosts:** Startup Grind  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 12:00pm–2:00pm ET
-**Where:** Gramercy Park · 50–88 E 21st St, New York, NY 10010 · Gramercy Park
-**Going:** 6
+**Where:** Gramercy Park
+**Going:** 5
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/mG8lr0MOZDcE9Aid3QXR
-**Map:** https://www.google.com/maps/search/?api=1&query=50%E2%80%9388%20E%2021st%20St%2C%20New%20York%2C%20NY%2010010
 
 ### Hosts on Partiful
 
@@ -77,10 +71,6 @@ What You Walk Away With:
 Space is strictly limited to 24 seats to ensure high-quality interaction.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

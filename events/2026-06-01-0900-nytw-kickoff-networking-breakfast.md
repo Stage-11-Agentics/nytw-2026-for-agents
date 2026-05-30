@@ -11,35 +11,33 @@ host: "XL AI"
 neighborhood: "Hudson Yards"
 rsvp_url: "https://partiful.com/e/EbLHvoBrSl7ZV6xScsgz"
 public_short_url: "https://go.partiful.com/gh8mtW16"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F4r1CIfaQQQPa4kMHUpZpu2Kyl2k2%2FREeIx52bbvucP8PqRuL1J"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F4r1CIfaQQQPa4kMHUpZpu2Kyl2k2%2FREeIx52bbvucP8PqRuL1J?alt=media&token=ec21fae7-ca5e-4534-af75-41effb0f3594"
 visibility: "public"
 at_capacity: false
-going_guest_count: 420
+going_guest_count: 666
 badges: []
 fetch_status: ok
-owner_count: 3
-owner_ids: ["4r1CIfaQQQPa4kMHUpZpu2Kyl2k2", "7DFu4rITofNzKIjA7hCx", "clTOzCedptO0ZDEIzycc"]
+owner_count: 2
+owner_ids: ["4r1CIfaQQQPa4kMHUpZpu2Kyl2k2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 446
+canceled: false
 approved_guest_count: 0
 local_image: "images/EbLHvoBrSl7ZV6xScsgz.png"
-canceled: false
 ---
 
 # NYTW Kickoff Networking Breakfast
 
 ![NYTW Kickoff Networking Breakfast](images/EbLHvoBrSl7ZV6xScsgz.png)
 
-**Hosts:** XL AI  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** XL AI  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 9:00am–12:00pm ET
 **Where:** Hudson Yards
-**Going:** 420 of 446
+**Going:** 666
 **RSVP:** https://partiful.com/e/EbLHvoBrSl7ZV6xScsgz
 
 ### Hosts on Partiful
 
 - [Lyndsay Goldfarb](https://partiful.com/u/4r1CIfaQQQPa4kMHUpZpu2Kyl2k2)
-- [PlayMind Labs](https://partiful.com/u/clTOzCedptO0ZDEIzycc) — _PlayMind Labs — behavioral state infrastructure for the regulated internet. Detecting emotional decision-making in real time._
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -53,7 +51,7 @@ A curated morning gathering for founders, operators, engineers, and investors �
 
 DETAILS
 📍 Manhattan (shared upon RSVP approval)
-🗓️ Tuesday, June 2 · 9:00 AM – 12:00 PM
+🗓️ Monday, June 1 · 9:00 AM – 12:00 PM
 🎟️ Limited capacity — curated approval only
 
 WHO IT’S FOR
@@ -63,17 +61,11 @@ WHO IT’S FOR
 — Investors focused on workforce and future-of-work trends
 
 —
-Co-hosted by XLAI and PlayMind Labs.
+Hosted by XLAI.
 
 XLAI is a founder-focused community running tech and founder events across NYC. We connect people, build community, and help founders get what they need to move — from software and marketing to HR, legal, and everything in between.
 
-PlayMind Labs is a NYC behavioral analytics infrastructure company building real-time scoring APIs that help digital platforms understand user behavior as it happens. Find CEO Shay Bouchles with any questions. Learn more at www.playmindlabs.com or reach us at info@playmindlabs.com.
-
 Part of #NYTechWeek — learn more at www.tech-week.com.
-
-
-
-
 
 
 

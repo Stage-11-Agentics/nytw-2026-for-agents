@@ -13,20 +13,18 @@ neighborhood: "Brooklyn"
 rsvp_url: "https://partiful.com/e/dr4panHTBefqyiB4ggk4"
 public_short_url: "https://go.partiful.com/ih6sC1IW"
 google_maps: "https://www.google.com/maps/search/?api=1&query=300%20Kent%20Ave%2C%20Brooklyn%2C%20NY%2011249"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FbCQsevEGoTdhjbdYK77fQZ5jPsI3%2FoP4d5H2Tc9xnUAsHivLYE"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FbCQsevEGoTdhjbdYK77fQZ5jPsI3%2FoP4d5H2Tc9xnUAsHivLYE?alt=media&token=ecac3a13-e86b-4503-985f-c200920854c7"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 94
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["bCQsevEGoTdhjbdYK77fQZ5jPsI3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 94
-approved_guest_count: 33
-local_image: "images/dr4panHTBefqyiB4ggk4.jpg"
 canceled: false
+approved_guest_count: 32
+local_image: "images/dr4panHTBefqyiB4ggk4.jpg"
 ---
 
 # Tea: Founder/CEO Self-Mastery - a Dialogue
@@ -36,7 +34,7 @@ canceled: false
 **Hosts:** Corbett Ventures  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 9:00am–11:00am ET
 **Where:** 300 Kent Ave, Brooklyn, NY 11249 · Brooklyn
-**Going:** 94
+**Going:** 32
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/dr4panHTBefqyiB4ggk4
 **Map:** https://www.google.com/maps/search/?api=1&query=300%20Kent%20Ave%2C%20Brooklyn%2C%20NY%2011249
@@ -64,10 +62,6 @@ The session will be facilitated by post exit founder, Peter Corbett who is widel
 The experience will take place in the format of a Tea Ceremony inside a 15’ Lotus Belle tent! 🎪 inside the Domino Sugar Factory.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

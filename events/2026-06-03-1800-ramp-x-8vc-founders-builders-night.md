@@ -8,28 +8,25 @@ end_time: "9:00pm ET"
 start_iso: "2026-06-03T22:00:00.000Z"
 end_iso: "2026-06-04T01:00:00.000Z"
 host: "Ramp, 8VC"
-venue_name: "Flatiron"
-venue_address: "Flatiron, Manhattan, New York, NY"
+venue_address: "19 W 22nd St, New York, NY 10010"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/xf4L0OHJO6UHVVu3GKNN"
 public_short_url: "https://go.partiful.com/t8WNuMDF"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F1FZYldKjLENQfmBmNUK7WwFcUwr2%2FnZ9v55s84SU17oh054k8M"
+google_maps: "https://www.google.com/maps/search/?api=1&query=19%20W%2022nd%20St%2C%20New%20York%2C%20NY%2010010"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F1FZYldKjLENQfmBmNUK7WwFcUwr2%2FnZ9v55s84SU17oh054k8M?alt=media&token=d756f293-6440-4c1d-bff5-8f4c08cd68ba"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 715
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["1FZYldKjLENQfmBmNUK7WwFcUwr2", "7DFu4rITofNzKIjA7hCx", "i7RyQS1J2sSryXjlTr9YIgE6PbA3"]
 is_capped: true
 max_capacity: 300
-remaining_capacity: 167
-total_guest_count: 753
-approved_guest_count: 133
-local_image: "images/xf4L0OHJO6UHVVu3GKNN.png"
+remaining_capacity: 6
 canceled: false
+approved_guest_count: 294
+local_image: "images/xf4L0OHJO6UHVVu3GKNN.png"
 ---
 
 # Ramp x 8VC — Founders & Builders Night
@@ -38,11 +35,11 @@ canceled: false
 
 **Hosts:** Ramp, 8VC  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
-**Where:** Flatiron · Flatiron, Manhattan, New York, NY · Flatiron
-**Capacity:** capped at 300 · 133 taken, 167 remaining
+**Where:** 19 W 22nd St, New York, NY 10010 · Flatiron
+**Capacity:** capped at 300 · 294 taken, 6 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/xf4L0OHJO6UHVVu3GKNN
-**Map:** https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY
+**Map:** https://www.google.com/maps/search/?api=1&query=19%20W%2022nd%20St%2C%20New%20York%2C%20NY%2010010
 
 ### Hosts on Partiful
 
@@ -71,10 +68,6 @@ Eugen Alpeza, Co-Founder & CEO at Edra — spent seven years at Palantir leading
 Akash Raju, Co-Founder & CEO at Glimpse — former software engineer at Tesla and Microsoft; co-founded Glimpse (YC, Forbes 30 Under 30) to build AI tools for CPG and retail.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

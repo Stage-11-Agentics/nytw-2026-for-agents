@@ -11,22 +11,20 @@ host: "Swissnex"
 neighborhood: "East Village"
 rsvp_url: "https://partiful.com/e/obCSrtSObg9mVne5kl4D"
 public_short_url: "https://go.partiful.com/2Kxpfutz"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FsRnTGTCq45bmlfFEmzWZ%2FVCSJ0k6YWz7D34yuQ2yFe"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FsRnTGTCq45bmlfFEmzWZ%2FVCSJ0k6YWz7D34yuQ2yFe?alt=media&token=c57c9fab-3c0d-4d1c-b617-e9871c646fe4"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 91
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["sRnTGTCq45bmlfFEmzWZ", "X9rLUbJGZiT9YYl3MFBe5SDZN7g1", "xfY41i4wTG3oTTgeHnDY", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 120
-remaining_capacity: 42
-total_guest_count: 94
-approved_guest_count: 78
-local_image: "images/obCSrtSObg9mVne5kl4D.png"
+max_capacity: 100
+remaining_capacity: 1
 canceled: false
+approved_guest_count: 99
+local_image: "images/obCSrtSObg9mVne5kl4D.png"
 ---
 
 # Swiss Innovation @ NY Tech Week 2026
@@ -36,7 +34,7 @@ canceled: false
 **Hosts:** Swissnex  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–9:00pm ET
 **Where:** East Village
-**Capacity:** capped at 120 · 78 taken, 42 remaining
+**Capacity:** capped at 100 · 99 taken, 1 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/obCSrtSObg9mVne5kl4D
 
@@ -54,7 +52,7 @@ Join Swissnex, the ETH Alumni Chapter NYC, and the EPFL Alumni Chapter NYC for a
 
 As part of the Startup Camps powered by Innosuisse, seven Swiss founders are in town for the week, spanning deep tech, fintech, wealthtech, life sciences AI, and techbio, and they're taking the stage to share what they're building.
 
-The cohort includes ETH spin-offs UNOMR and TALPA-Inspection, alongside eFrontiers, Happy Pot, APXORA, Automadic, and Yainvest.
+The cohort includes ETH spin-offs UNOMR and TALPA-Inspection, alongside eFrontiers, Happy Pot, APXORA, Automadic, and Yainvest. The evening event will also feature Lemon Health AI, an EPFL-affiliated startup.
 
 6:00pm  — Doors open + open bar 
 6:30pm — Welcome remarks
@@ -63,10 +61,6 @@ The cohort includes ETH spin-offs UNOMR and TALPA-Inspection, alongside eFrontie
 9:00pm — End
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

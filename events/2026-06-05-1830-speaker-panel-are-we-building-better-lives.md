@@ -9,22 +9,20 @@ host: "Thinking Through, Human Machines"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/lSZgmttSVy4Eg93Di0Gr"
 public_short_url: "https://go.partiful.com/7V5RjWqe"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FHm43nKp8tcZ9p8ociRv5%2FpVZtUSNPhI9SQdNzC6FN0"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FHm43nKp8tcZ9p8ociRv5%2FpVZtUSNPhI9SQdNzC6FN0?alt=media&token=27aa5adb-cee8-4d02-b78e-5a5612527871"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 44
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["Hm43nKp8tcZ9p8ociRv5", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 60
-remaining_capacity: 22
-total_guest_count: 46
-approved_guest_count: 38
-local_image: "images/lSZgmttSVy4Eg93Di0Gr.png"
+remaining_capacity: 5
 canceled: false
+approved_guest_count: 55
+local_image: "images/lSZgmttSVy4Eg93Di0Gr.png"
 ---
 
 # Speaker Panel: Are We Building Better Lives?
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** Thinking Through, Human Machines
 **When:** Friday, June 5, 2026 · 6:30pm ET
 **Where:** Midtown
-**Capacity:** capped at 60 · 38 taken, 22 remaining
+**Capacity:** capped at 60 · 55 taken, 5 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/lSZgmttSVy4Eg93Di0Gr
 
@@ -64,10 +62,6 @@ Dr. Ece Tekbulut is a political philosopher and the founder of Thinking Through.
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

@@ -8,16 +8,13 @@ end_time: "6:00pm ET"
 start_iso: "2026-06-05T20:00:00.000Z"
 end_iso: "2026-06-05T22:00:00.000Z"
 host: "Corbett Ventures"
-venue_address: "300 Kent Ave, Brooklyn, NY 11249"
 neighborhood: "Brooklyn"
 rsvp_url: "https://partiful.com/e/d9mOqctHrPQiu4oeaF6t"
 public_short_url: "https://go.partiful.com/MDC8iSr7"
-google_maps: "https://www.google.com/maps/search/?api=1&query=300%20Kent%20Ave%2C%20Brooklyn%2C%20NY%2011249"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FbCQsevEGoTdhjbdYK77fQZ5jPsI3%2FUu9t_-zr1eDFYOKxKsegN"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FbCQsevEGoTdhjbdYK77fQZ5jPsI3%2FUu9t_-zr1eDFYOKxKsegN?alt=media&token=ed408820-df9c-44a7-9308-edde5617c8bf"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 86
 badges: []
 fetch_status: ok
 owner_count: 4
@@ -25,10 +22,9 @@ owner_ids: ["bCQsevEGoTdhjbdYK77fQZ5jPsI3", "7DFu4rITofNzKIjA7hCx", "X7Ru007LGqZ
 is_capped: true
 max_capacity: 50
 remaining_capacity: 17
-total_guest_count: 88
+canceled: false
 approved_guest_count: 33
 local_image: "images/d9mOqctHrPQiu4oeaF6t.jpg"
-canceled: false
 ---
 
 # Female Founder/CEO Self-Mastery - a Dialogue
@@ -37,11 +33,10 @@ canceled: false
 
 **Hosts:** Corbett Ventures  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 4:00pm–6:00pm ET
-**Where:** 300 Kent Ave, Brooklyn, NY 11249 · Brooklyn
+**Where:** Brooklyn
 **Capacity:** capped at 50 · 33 taken, 17 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/d9mOqctHrPQiu4oeaF6t
-**Map:** https://www.google.com/maps/search/?api=1&query=300%20Kent%20Ave%2C%20Brooklyn%2C%20NY%2011249
 
 ### Hosts on Partiful
 
@@ -68,10 +63,6 @@ The session will be facilitated by post exit founder, Peter Corbett who is widel
 The experience will take place in the format of a Tea Ceremony inside a 15’ Lotus Belle tent! 🎪 inside the Domino Sugar Factory.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

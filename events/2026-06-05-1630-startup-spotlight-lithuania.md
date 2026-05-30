@@ -11,20 +11,17 @@ host: "Consulate General of the Republic of Lithuania in New York, Innovation Ag
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/ByVS3R0LSmqvOoywWhDe"
 public_short_url: "https://go.partiful.com/Uestp2zg"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJulomszOkROrTpcTz6ObJGiw4SR2%2FyPXfmZgAMzsRDfTGoutSp"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJulomszOkROrTpcTz6ObJGiw4SR2%2FyPXfmZgAMzsRDfTGoutSp?alt=media&token=1fd1e405-417e-4fcd-b3c5-1b74e81cc120"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 104
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["JulomszOkROrTpcTz6ObJGiw4SR2", "7DFu4rITofNzKIjA7hCx", "zg3v9nQHJcVRxO9UWfhoSriyK6z1"]
 is_capped: false
-total_guest_count: 105
-approved_guest_count: 83
-local_image: "images/ByVS3R0LSmqvOoywWhDe.png"
 canceled: false
+local_image: "images/ByVS3R0LSmqvOoywWhDe.png"
 ---
 
 # Startup Spotlight: Lithuania
@@ -34,7 +31,6 @@ canceled: false
 **Hosts:** Consulate General of the Republic of Lithuania in New York, Innovation Agency Lithuania  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 4:30pm–6:30pm ET
 **Where:** Midtown
-**Going:** 104 of 105
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ByVS3R0LSmqvOoywWhDe
 
@@ -61,10 +57,6 @@ Expect startups that show a broader picture of the Lithuanian ecosystem: cyberse
 The goal is to help the right people meet Lithuanian founders with concrete US market-entry asks around capital, customers, partnerships, distribution, and strategic introductions💡
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

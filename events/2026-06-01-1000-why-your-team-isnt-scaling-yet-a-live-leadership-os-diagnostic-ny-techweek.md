@@ -8,28 +8,23 @@ end_time: "11:00am ET"
 start_iso: "2026-06-01T14:00:00.000Z"
 end_iso: "2026-06-01T15:00:00.000Z"
 host: "Leap Leadership Solutions, LLC"
-venue_name: "Bryant Park"
-venue_address: "40th and 42nd Streets & Fifth and Sixth Avenues, New York, NY 10018"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/DWeEKEPfH5j5K8rt6Q6W"
 public_short_url: "https://go.partiful.com/YXIcVyEy"
-google_maps: "https://www.google.com/maps/search/?api=1&query=40th%20and%2042nd%20Streets%20%26%20Fifth%20and%20Sixth%20Avenues%2C%20New%20York%2C%20NY%2010018"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F4JX3iTRUiobIXNorbGW7jqIHDAt1%2FE1O4n4Zduu6J5vbimoTDl"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F4JX3iTRUiobIXNorbGW7jqIHDAt1%2FE1O4n4Zduu6J5vbimoTDl?alt=media&token=a95b6311-7ffa-4ac3-9e0b-c66456c9a4f3"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: true
-going_guest_count: 56
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["4JX3iTRUiobIXNorbGW7jqIHDAt1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 20
-remaining_capacity: -13
-total_guest_count: 56
-approved_guest_count: 33
-local_image: "images/DWeEKEPfH5j5K8rt6Q6W.png"
+remaining_capacity: -21
 canceled: false
+approved_guest_count: 41
+local_image: "images/DWeEKEPfH5j5K8rt6Q6W.png"
 ---
 
 # Why Your Team Isn’t Scaling (Yet): A Live Leadership OS Diagnostic  - #NY TechWeek
@@ -38,12 +33,11 @@ canceled: false
 
 **Hosts:** Leap Leadership Solutions, LLC
 **When:** Monday, June 1, 2026 · 10:00am–11:00am ET
-**Where:** Bryant Park · 40th and 42nd Streets & Fifth and Sixth Avenues, New York, NY 10018 · Flatiron
-**Capacity:** capped at 20 · 33 taken, -13 remaining
+**Where:** Flatiron
+**Capacity:** capped at 20 · 41 taken, -21 remaining
 **Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/DWeEKEPfH5j5K8rt6Q6W
-**Map:** https://www.google.com/maps/search/?api=1&query=40th%20and%2042nd%20Streets%20%26%20Fifth%20and%20Sixth%20Avenues%2C%20New%20York%2C%20NY%2010018
 
 ### Hosts on Partiful
 
@@ -58,10 +52,6 @@ As companies scale, the constraint isn’t product or funding - it’s how teams
 Where is execution breaking down most on your team right now? Alignment, ownership, follow-through, decision-making?
 
 This event is a part of #NY TechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

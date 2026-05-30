@@ -14,22 +14,20 @@ neighborhood: "Upper East Side"
 rsvp_url: "https://partiful.com/e/6HaKD546tO44phJnQHVx"
 public_short_url: "https://go.partiful.com/jRZa9LGP"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Upper%20East%20Side%2C%20Upper%20East%20Side%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FjZw6KKlLrZYRDkY4Ec63ODL4aiu1%2Fi7VJP_dpRm4vgzIAlSaOb"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FjZw6KKlLrZYRDkY4Ec63ODL4aiu1%2Fi7VJP_dpRm4vgzIAlSaOb?alt=media&token=02e7df82-9118-4c0a-ab6a-35815fee531a"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 24
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["jZw6KKlLrZYRDkY4Ec63ODL4aiu1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 20
-remaining_capacity: 20
-total_guest_count: 25
-approved_guest_count: 0
-local_image: "images/6HaKD546tO44phJnQHVx.png"
+max_capacity: 35
+remaining_capacity: 2
 canceled: false
+approved_guest_count: 33
+local_image: "images/6HaKD546tO44phJnQHVx.png"
 ---
 
 # Consumer Founders & Investors Breakfast
@@ -39,7 +37,7 @@ canceled: false
 **Hosts:** Tiny Dinner  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 9:00am–11:00am ET
 **Where:** Upper East Side · Upper East Side, Manhattan, New York, NY · Upper East Side
-**Capacity:** capped at 20 · 0 taken, 20 remaining
+**Capacity:** capped at 35 · 33 taken, 2 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/6HaKD546tO44phJnQHVx
 **Map:** https://www.google.com/maps/search/?api=1&query=Upper%20East%20Side%2C%20Upper%20East%20Side%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -54,17 +52,11 @@ canceled: false
 
 Start your day with bagels and coffee alongside other founders building in consumer. Expect to talk more about humans than about AI. 💡
 
-Will be hosted in a private home in the East 60s.
+Will be hosted in a private home in the East 60s. Address to be shared with confirmed guests the day before the event.
 
-Hosted by Tiny Dinner, a platform for dinner parties with friends of friends. 
-
-Request an invite: tiny-dinner.com
+Hosted by Tiny Dinner, a platform for dinner parties with friends of friends. Request an invite: tiny-dinner.com
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

@@ -8,26 +8,20 @@ end_time: "8:30pm ET"
 start_iso: "2026-06-02T22:30:00.000Z"
 end_iso: "2026-06-03T00:30:00.000Z"
 host: "Fonzi AI"
-venue_name: "VITAL Climbing Gym - Brooklyn"
-venue_address: "221 N 14th St, Brooklyn, NY 11249"
 neighborhood: "Brooklyn"
 rsvp_url: "https://partiful.com/e/HztTBkljuVuYhH6Bm3P8"
 public_short_url: "https://go.partiful.com/SwpyhRe0"
-google_maps: "https://www.google.com/maps/search/?api=1&query=221%20N%2014th%20St%2C%20Brooklyn%2C%20NY%2011249"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fve5mdx9JIcTY4QwLoDZ0OaQMJI62%2FRYkC3prv-JgWdQDfp8VUJ"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fve5mdx9JIcTY4QwLoDZ0OaQMJI62%2FRYkC3prv-JgWdQDfp8VUJ?alt=media&token=3d360f8a-e157-45f5-bbff-10487511e1ec"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 339
 badges: []
 fetch_status: ok
 owner_count: 7
 owner_ids: ["ve5mdx9JIcTY4QwLoDZ0OaQMJI62", "7DFu4rITofNzKIjA7hCx", "lSJ6LIJElBVKPQ3p4KtEUzKR6F63", "jiQoeycjyObCpTWAIUk5GUQ9P4o2", "gS37vKRke4gnm93wN6geqhBrywP2", "D8I3yHsxRWdJBwLtbJnQn5A8FVE3", "ZvIr5Go3rua0eDnl90IXyeV3tJ33"]
 is_capped: false
-total_guest_count: 339
-approved_guest_count: 31
-local_image: "images/HztTBkljuVuYhH6Bm3P8.png"
 canceled: false
+local_image: "images/HztTBkljuVuYhH6Bm3P8.png"
 ---
 
 # Beta Testers: Climb Night
@@ -36,11 +30,9 @@ canceled: false
 
 **Hosts:** Fonzi AI  _(+6 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:30pm–8:30pm ET
-**Where:** VITAL Climbing Gym - Brooklyn · 221 N 14th St, Brooklyn, NY 11249 · Brooklyn
-**Going:** 339
+**Where:** Brooklyn
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/HztTBkljuVuYhH6Bm3P8
-**Map:** https://www.google.com/maps/search/?api=1&query=221%20N%2014th%20St%2C%20Brooklyn%2C%20NY%2011249
 
 ### Hosts on Partiful
 
@@ -72,10 +64,6 @@ Spots are limited
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

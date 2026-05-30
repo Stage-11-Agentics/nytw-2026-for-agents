@@ -11,22 +11,21 @@ host: "WHO MENTORS YOU INC."
 neighborhood: "Virtual (NYC)"
 rsvp_url: "https://partiful.com/e/LnN7pfnjNMZ2RcNIK6T6"
 public_short_url: "https://go.partiful.com/WWz6g2bl"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F3b1iXUNUOvZM6AyBuenuwSzEDxh1%2FQ-mAl3lhYHnpz71Awp0m4"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F3b1iXUNUOvZM6AyBuenuwSzEDxh1%2FQ-mAl3lhYHnpz71Awp0m4?alt=media&token=df364704-733b-488d-aaf3-61cccc5d5bca"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 13
+going_guest_count: 22
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["3b1iXUNUOvZM6AyBuenuwSzEDxh1", "7DFu4rITofNzKIjA7hCx", "dHzKsTuUhZ0QwuDL718i"]
 is_capped: true
 max_capacity: 99
-remaining_capacity: 86
-total_guest_count: 14
+remaining_capacity: 77
+canceled: false
 approved_guest_count: 0
 local_image: "images/LnN7pfnjNMZ2RcNIK6T6.jpg"
-canceled: false
 ---
 
 # From Your Own H-1B Cap Exempt Employer #NYtechweek
@@ -36,7 +35,7 @@ canceled: false
 **Hosts:** WHO MENTORS YOU INC.  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 2:00pm–3:30pm ET
 **Where:** Virtual (NYC)
-**Capacity:** capped at 99 · 13 taken, 86 remaining
+**Capacity:** capped at 99 · 22 taken, 77 remaining
 **RSVP:** https://partiful.com/e/LnN7pfnjNMZ2RcNIK6T6
 
 ### Hosts on Partiful
@@ -53,10 +52,6 @@ DHS seeks to encourage more nonimmigrant entrepreneurs possessing highly special
 Participants will review the documentation for OPENAI FOUNDATION, INC. (formerly OPENAI, INC.) or OPEN RESEARCH, INC. (formerly Y COMBINATOR RESEARCH INC.) to learn how to incorporate their own Delaware Charitable Nonstock Corporation in one business day, how to qualify for, and request, the Apple Developer Membership Fee Waiver for nonprofit organizations, and how to publish their first iOS mobile application to the Apple App Store that solves a community need or addresses a community problem.
 
 This event is a part of #BosTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at https://https://www.tech-week.com/boston
-
-
-
-
 
 
 

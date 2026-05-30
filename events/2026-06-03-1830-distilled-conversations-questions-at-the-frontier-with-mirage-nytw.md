@@ -7,39 +7,34 @@ start_time: "6:30pm ET"
 end_time: "8:30pm ET"
 start_iso: "2026-06-03T22:30:00.000Z"
 end_iso: "2026-06-04T00:30:00.000Z"
-host: "Distilled, '-', NA"
-venue_address: "71 5th Ave, New York, NY 10003"
-neighborhood: "SoHo"
+host: "Distilled, Mirage"
+neighborhood: "Union Square"
 rsvp_url: "https://partiful.com/e/JKLycObL4isIKtz0HqjO"
 public_short_url: "https://go.partiful.com/JAYwpMyH"
-google_maps: "https://www.google.com/maps/search/?api=1&query=71%205th%20Ave%2C%20New%20York%2C%20NY%2010003"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F31GmWzCYwFbC9el252TybqcVvO42%2Fs01snZHTU4EkOXGBvf3n8"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F31GmWzCYwFbC9el252TybqcVvO42%2Fs01snZHTU4EkOXGBvf3n8?alt=media&token=05a8fbbe-e582-4500-9801-42acbaed01d0"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 41
 badges: []
 fetch_status: ok
 owner_count: 5
 owner_ids: ["GsCswQIgw4bHKOlKfz8SgzsblAf2", "7DFu4rITofNzKIjA7hCx", "WordDLRwd2MkP68P4SzB2PeX6ph2", "31GmWzCYwFbC9el252TybqcVvO42", "JzyYpc1JosUdY7hJiMH2FoNnFFh1"]
 is_capped: false
-total_guest_count: 46
-approved_guest_count: 34
-local_image: "images/JKLycObL4isIKtz0HqjO.jpg"
 canceled: false
+approved_guest_count: 93
+local_image: "images/JKLycObL4isIKtz0HqjO.jpg"
 ---
 
 # Distilled Conversations: Questions at the Frontier with Mirage - #NYTW
 
 ![Distilled Conversations: Questions at the Frontier with Mirage - #NYTW](images/JKLycObL4isIKtz0HqjO.jpg)
 
-**Hosts:** Distilled, '-', NA  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** Distilled, Mirage  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:30pm–8:30pm ET
-**Where:** 71 5th Ave, New York, NY 10003 · SoHo
-**Going:** 41 of 46
+**Where:** Union Square
+**Going:** 93
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/JKLycObL4isIKtz0HqjO
-**Map:** https://www.google.com/maps/search/?api=1&query=71%205th%20Ave%2C%20New%20York%2C%20NY%2010003
 
 ### Hosts on Partiful
 
@@ -59,10 +54,6 @@ We'll be discussing AI's role in work and life, what it means for how we create,
 Drinks, happy hour, and small bites, at Mirage HQ (https://mirage.app/).
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

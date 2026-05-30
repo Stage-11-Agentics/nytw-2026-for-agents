@@ -14,20 +14,17 @@ neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/EkVKsItVP7ZxENEfmZSV"
 public_short_url: "https://go.partiful.com/37LeZBD7"
 google_maps: "https://www.google.com/maps/search/?api=1&query=45%20Mercer%20St%2C%20New%20York%2C%20NY%2010013"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FpJdqNM8uwJQ9LpposqfOq3ZHN6d2%2FbnK7ltms34QR6KdKZnsWL"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FpJdqNM8uwJQ9LpposqfOq3ZHN6d2%2FbnK7ltms34QR6KdKZnsWL?alt=media&token=392bb030-ac14-4593-a4cd-24a7849c7674"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 666
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["pJdqNM8uwJQ9LpposqfOq3ZHN6d2", "7DFu4rITofNzKIjA7hCx", "7p9C02LuIEY6GpVJ6nlimbhGKR43"]
 is_capped: false
-total_guest_count: 677
-approved_guest_count: 4
-local_image: "images/EkVKsItVP7ZxENEfmZSV.png"
 canceled: false
+local_image: "images/EkVKsItVP7ZxENEfmZSV.png"
 ---
 
 # Inner Circle: Founder & VC Lunch
@@ -37,7 +34,6 @@ canceled: false
 **Hosts:** Menlo Ventures, AmEx Ventures, Confidante: Cofounder Dynamics, BambooX
 **When:** Wednesday, June 3, 2026 · 12:00pm–1:30pm ET
 **Where:** Odd Sister · 45 Mercer St, New York, NY 10013 · SoHo
-**Going:** 666 of 677
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/EkVKsItVP7ZxENEfmZSV
 **Map:** https://www.google.com/maps/search/?api=1&query=45%20Mercer%20St%2C%20New%20York%2C%20NY%2010013
@@ -51,7 +47,7 @@ canceled: false
 
 ## Description
 
-We’re bringing together the brightest minds in the startup scene for an intimate lunch in the heart of SoHo, New York. Your hosts, C.C. Gong (Menlo Ventures), Maddy Gaiman (Amex Ventures), Alex Pavlou (Bamboo X), and Annie Garofalo (Confidante), will curate an environment where you can dive deep, enjoy great food, and forge meaningful connections.
+We’re bringing together the brightest minds in the startup scene for an intimate lunch in the heart of SoHo, New York. Your hosts, C.C. Gong (Menlo Ventures), Cris Wurzer (Amex Ventures), Alex Pavlou (Bamboo X), and Annie Garofalo (Confidante), will curate an environment where you can dive deep, enjoy great food, and forge meaningful connections.
 
 This isn’t your typical networking event. Expect candid conversations, valuable insights, and the opportunity to learn directly from fellow founders and investors. Whether you’re seeking advice, potential partners, or just a fresh perspective, this lunch is designed to inspire and connect.
 
@@ -68,10 +64,6 @@ If you have any questions, please email annie@confidante.info.
 We can’t wait to see you there!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -11,19 +11,18 @@ host: "Phinite AI, NVIDIA, GMI, OSS4AI"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/DItIrZ4soRc9FKWDzvoT"
 public_short_url: "https://go.partiful.com/QIssUkvx"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FFvwHPtyvkybd3sHd5oYq%2FUPmfhx_V8xkjtklBHDALK"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FFvwHPtyvkybd3sHd5oYq%2FUPmfhx_V8xkjtklBHDALK?alt=media&token=6db85397-f560-4911-ab40-062ba3d0d920"
 visibility: "public"
 at_capacity: false
-going_guest_count: 24
+going_guest_count: 317
 badges: []
 fetch_status: ok
 owner_count: 6
 owner_ids: ["abET93wpY3QwFNI5Lr1nGyQhPGs1", "FvwHPtyvkybd3sHd5oYq", "8b7P5JO7GWRIlKIojHA72EJJQhT2", "vwFzRtvb7JNs5T41iUlCi2jcyo93", "8mprmqHh7gN1C30fRKeldZ8s1wG3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 978
+canceled: false
 approved_guest_count: 0
 local_image: "images/DItIrZ4soRc9FKWDzvoT.png"
-canceled: false
 ---
 
 # AI Agents: From Prototype to Production
@@ -33,7 +32,7 @@ canceled: false
 **Hosts:** Phinite AI, NVIDIA, GMI, OSS4AI  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 7:00pm–11:00pm ET
 **Where:** Flatiron
-**Going:** 24 of 978
+**Going:** 317
 **RSVP:** https://partiful.com/e/DItIrZ4soRc9FKWDzvoT
 
 ### Hosts on Partiful
@@ -74,10 +73,6 @@ What to Expect
 - Food & drinks provided
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

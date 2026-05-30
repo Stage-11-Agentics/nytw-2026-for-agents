@@ -11,20 +11,18 @@ host: "Fenwick"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/UOnETVUQrpuNwEKePLYn"
 public_short_url: "https://go.partiful.com/KpopyZ2z"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FBEyCEP4Eh7hBy5ga4vUt%2Fa9NvioqO5DwaYmvvjNYT3"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FBEyCEP4Eh7hBy5ga4vUt%2Fa9NvioqO5DwaYmvvjNYT3?alt=media&token=3ab4aea3-0c83-4908-9906-5d288374b013"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 1116
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["BEyCEP4Eh7hBy5ga4vUt", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 1131
-approved_guest_count: 345
-local_image: "images/UOnETVUQrpuNwEKePLYn.png"
 canceled: false
+approved_guest_count: 479
+local_image: "images/UOnETVUQrpuNwEKePLYn.png"
 ---
 
 # Founder Story: A Fireside Chat with a16z & the CEO of Moment
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** Fenwick  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 2:00pm–4:00pm ET
 **Where:** Flatiron
-**Going:** 1116 of 1131
+**Going:** 479
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/UOnETVUQrpuNwEKePLYn
 
@@ -53,10 +51,6 @@ They will discuss what it takes to build from idea to execution. From early insi
 By confirming your attendance you agree to receive communications and updates from Fenwick.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

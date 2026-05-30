@@ -12,21 +12,20 @@ neighborhood: "Tribeca"
 rsvp_url: "https://partiful.com/e/Jax5q2nEKzeH7VhmDvS3"
 public_short_url: "https://go.partiful.com/3VeSF8TS"
 google_maps: "https://www.google.com/maps/search/?api=1&query=16%20Vestry%20St%2C%20New%20York%2C%20NY%2010013"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Flwf0AUOsEqeWgDrG0zIs%2Fl9fTvWN70zVk-nHZKrUJE"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Flwf0AUOsEqeWgDrG0zIs%2Fl9fTvWN70zVk-nHZKrUJE?alt=media&token=47aa3933-7b48-4744-aca6-b42a1538f3d4"
 visibility: "public"
 at_capacity: false
-going_guest_count: 104
+going_guest_count: 148
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["lwf0AUOsEqeWgDrG0zIs", "hCz16xSwoAg4mVin1Q4Blb0L7ao1", "eYY9S9MppoQjzAnN2lQbjITxpqG3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 200
-remaining_capacity: 96
-total_guest_count: 205
+remaining_capacity: 52
+canceled: false
 approved_guest_count: 0
 local_image: "images/Jax5q2nEKzeH7VhmDvS3.png"
-canceled: false
 ---
 
 # NY Tech Week: First (Reality) Check
@@ -36,7 +35,7 @@ canceled: false
 **Hosts:** For The Firsts  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 7:00pm ET
 **Where:** Fabrik · 16 Vestry St, New York, NY 10013 · Tribeca
-**Capacity:** capped at 200 · 104 taken, 96 remaining
+**Capacity:** capped at 200 · 148 taken, 52 remaining
 **RSVP:** https://partiful.com/e/Jax5q2nEKzeH7VhmDvS3
 **Map:** https://www.google.com/maps/search/?api=1&query=16%20Vestry%20St%2C%20New%20York%2C%20NY%2010013
 
@@ -74,10 +73,6 @@ For The Firsts presents: First (Reality) Check
 ​​​​​​*This event will be photographed, and For the Firsts reserves the right to use photos and video from the event for marketing and communications purposes. By attending the event, you consent to the use of your image for these purposes.​
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

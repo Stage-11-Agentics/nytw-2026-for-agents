@@ -11,22 +11,20 @@ neighborhood: "Union Square"
 rsvp_url: "https://partiful.com/e/BHebxeHV8NH7GxZdypXE"
 public_short_url: "https://go.partiful.com/qxB12m08"
 google_maps: "https://www.google.com/maps/search/?api=1&query=115%20E%2023rd%20St%2C%20New%20York%2C%20NY%2010010"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FNZm73Y1kwQeMN6Rv5ork1rWiJwH3%2F8-6BFFaijjO0e58BmYjzE"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FNZm73Y1kwQeMN6Rv5ork1rWiJwH3%2F8-6BFFaijjO0e58BmYjzE?alt=media&token=84a2db27-0988-4247-9489-e60b71774ea7"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: true
-going_guest_count: 164
+at_capacity: false
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["NZm73Y1kwQeMN6Rv5ork1rWiJwH3", "7DFu4rITofNzKIjA7hCx", "MqPTDIS2SyWHd9j59ruqlfi9Sdy1"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 4
-total_guest_count: 169
-approved_guest_count: 46
-local_image: "images/BHebxeHV8NH7GxZdypXE.png"
+remaining_capacity: 8
 canceled: false
+approved_guest_count: 42
+local_image: "images/BHebxeHV8NH7GxZdypXE.png"
 ---
 
 # Baddies In Tech
@@ -36,8 +34,7 @@ canceled: false
 **Hosts:** Karamacare, Resident  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
 **Where:** 115 E 23rd St, New York, NY 10010 · Union Square
-**Capacity:** capped at 50 · 46 taken, 4 remaining
-**Status:** ⚠ at capacity
+**Capacity:** capped at 50 · 42 taken, 8 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/BHebxeHV8NH7GxZdypXE
 **Map:** https://www.google.com/maps/search/?api=1&query=115%20E%2023rd%20St%2C%20New%20York%2C%20NY%2010010
@@ -64,10 +61,6 @@ Come as you are. Leave with your people. 🤍
 Good energy only.✨
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

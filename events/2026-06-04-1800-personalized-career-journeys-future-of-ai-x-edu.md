@@ -9,21 +9,20 @@ host: "Rita Group"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/UFhy6AtOcwhsalPnpYsB"
 public_short_url: "https://go.partiful.com/2uSOe9MT"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FsqJ6dzSysOfSa9OsGWf12iXfO8J3%2FIWlafK1_27NnYi9wyFggi"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FsqJ6dzSysOfSa9OsGWf12iXfO8J3%2FtNUC53cmdJaApmRWZ1U1h?alt=media&token=5446f2a5-6f3a-4356-9ff6-1d7a4df1404c"
 visibility: "public"
 at_capacity: false
-going_guest_count: 33
+going_guest_count: 85
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["sqJ6dzSysOfSa9OsGWf12iXfO8J3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 99
-remaining_capacity: 62
-total_guest_count: 48
+max_capacity: 90
+remaining_capacity: 5
+canceled: false
 approved_guest_count: 0
 local_image: "images/UFhy6AtOcwhsalPnpYsB.png"
-canceled: false
 ---
 
 # Personalized Career Journeys: Future of AI x Edu
@@ -33,7 +32,7 @@ canceled: false
 **Hosts:** Rita Group  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
 **Where:** SoHo
-**Capacity:** capped at 99 · 37 taken, 62 remaining
+**Capacity:** capped at 90 · 85 taken, 5 remaining
 **RSVP:** https://partiful.com/e/UFhy6AtOcwhsalPnpYsB
 
 ### Hosts on Partiful
@@ -61,20 +60,16 @@ Full Schedule:
 ⚪ 615-730 PM - Personalized Career Journeys Workshop
 ⚪ 730-9 PM - Networking Mixer (w/ DJs, drinks, and dancing!)
 
-Early Bird Pricing 1 ($10) - April 27-May 24
-Early Bird Pricing 2 ($15) - May 25-May 31
-Regular Pricing ($20) - June 1-June 3
-Last Minute Pricing ($25) - June 4
+Early Bird Pricing 1 ($10) - April 27-May 25
+Early Bird Pricing 2 ($12) - May 26-May 31
+Regular Pricing ($15) - June 1-June 3
+Last Minute Pricing ($20) - June 4
 
 Our goal is for this event to not be just another tech event panel and mixer. Instead, our goal is to cultivate an inclusive and safe community-centered environment enabling discussions around building tech careers that work for you in an industry that’s constantly evolving. Whether you're just starting out, switching careers, or looking to stay ahead of the curve, consider this event your official roadmap (or the start of it!).
 
 Hosted by our team at Rita Co., a community-based ecosystem built for the next generation of hustlers redefining what’s possible in tech. Learn more and follow us at https://rita.company/
 
 This event is a part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at https://www.tech-week.com.
-
-
-
-
 
 
 

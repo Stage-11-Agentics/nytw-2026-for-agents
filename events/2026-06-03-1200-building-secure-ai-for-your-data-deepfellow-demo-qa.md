@@ -9,20 +9,18 @@ host: "SIMPLITO, Polish Investment and Trade Agency - New York Office"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/4HvzWY1VZlHgK21fMBUz"
 public_short_url: "https://go.partiful.com/AWpnz57i"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fr7VOzhs7j58OX6EdBgdu%2FlvLURuXQm9wN8z8i4oBkO"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fr7VOzhs7j58OX6EdBgdu%2FlvLURuXQm9wN8z8i4oBkO?alt=media&token=1b12e3a8-a2f4-4b51-ac68-fa13b6968473"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 304
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["r7VOzhs7j58OX6EdBgdu", "7DFu4rITofNzKIjA7hCx", "oBvwDSghGtS3qkvMOq1YGLKQ6jr2"]
 is_capped: false
-total_guest_count: 305
-approved_guest_count: 38
-local_image: "images/4HvzWY1VZlHgK21fMBUz.png"
 canceled: false
+approved_guest_count: 50
+local_image: "images/4HvzWY1VZlHgK21fMBUz.png"
 ---
 
 # Building secure AI  for your data: DeepFellow Demo + Q&A
@@ -32,7 +30,7 @@ canceled: false
 **Hosts:** SIMPLITO, Polish Investment and Trade Agency - New York Office  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 12:00pm ET
 **Where:** Chelsea
-**Going:** 304 of 305
+**Going:** 50
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/4HvzWY1VZlHgK21fMBUz
 
@@ -64,10 +62,6 @@ AGENDA:
 ---
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

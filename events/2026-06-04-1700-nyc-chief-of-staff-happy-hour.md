@@ -11,22 +11,21 @@ host: "Ask a Chief of Staff, The Malin"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/3C8IkdVR36fsPzTyJMGR"
 public_short_url: "https://go.partiful.com/lCdgqffD"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FlooLtqKx35NkNhNFW0xz%2FGwtAY1w6l9w-9QVlUhECk"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FlooLtqKx35NkNhNFW0xz%2FGwtAY1w6l9w-9QVlUhECk?alt=media&token=68b34b30-eef6-4482-90ea-5923a60377d9"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 179
+going_guest_count: 245
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["looLtqKx35NkNhNFW0xz", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 200
-remaining_capacity: 20
-total_guest_count: 192
+max_capacity: 250
+remaining_capacity: 5
+canceled: false
 approved_guest_count: 0
 local_image: "images/3C8IkdVR36fsPzTyJMGR.png"
-canceled: false
 ---
 
 # NYC Chief of Staff Happy Hour
@@ -36,7 +35,7 @@ canceled: false
 **Hosts:** Ask a Chief of Staff, The Malin
 **When:** Thursday, June 4, 2026 · 5:00pm–7:00pm ET
 **Where:** Flatiron
-**Capacity:** capped at 200 · 180 taken, 20 remaining
+**Capacity:** capped at 250 · 245 taken, 5 remaining
 **RSVP:** https://partiful.com/e/3C8IkdVR36fsPzTyJMGR
 
 ### Hosts on Partiful
@@ -56,10 +55,6 @@ Join us from 5 PM to 7 PM for an evening of connection, conversation, and celebr
 Come and meet some incredible peers, and be part of the growing Chief of Staff community in NYC 💜
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

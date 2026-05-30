@@ -8,27 +8,23 @@ end_time: "10:00am ET"
 start_iso: "2026-06-02T12:00:00.000Z"
 end_iso: "2026-06-02T14:00:00.000Z"
 host: "Alt-Black, TriNet"
-venue_name: "Local 92"
-venue_address: "244 Mulberry St, New York, NY 10012"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/EUVI0jAllN2saIRbyioQ"
 public_short_url: "https://go.partiful.com/ny4CwHz0"
-google_maps: "https://www.google.com/maps/search/?api=1&query=244%20Mulberry%20St%2C%20New%20York%2C%20NY%2010012"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F7aa4U8SjslZXiWCpmYuScG4nFAq1%2FmKg0V3lgFTY2-zaIw_xlW"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F7aa4U8SjslZXiWCpmYuScG4nFAq1%2FmKg0V3lgFTY2-zaIw_xlW?alt=media&token=b2fe1a7d-0f9c-4c71-a052-be311336e5d9"
 visibility: "public"
-at_capacity: true
-going_guest_count: 200
+at_capacity: false
+going_guest_count: 199
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["7aa4U8SjslZXiWCpmYuScG4nFAq1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 200
-remaining_capacity: 0
-total_guest_count: 214
+remaining_capacity: 1
+canceled: false
 approved_guest_count: 0
 local_image: "images/EUVI0jAllN2saIRbyioQ.png"
-canceled: false
 ---
 
 # Brewing Connections: Colombian Coffee Tasting
@@ -37,11 +33,9 @@ canceled: false
 
 **Hosts:** Alt-Black, TriNet
 **When:** Tuesday, June 2, 2026 · 8:00am–10:00am ET
-**Where:** Local 92 · 244 Mulberry St, New York, NY 10012 · SoHo
-**Capacity:** capped at 200 · 200 taken, 0 remaining · ⚠ **FULL**
-**Status:** ⚠ at capacity
+**Where:** SoHo
+**Capacity:** capped at 200 · 199 taken, 1 remaining
 **RSVP:** https://partiful.com/e/EUVI0jAllN2saIRbyioQ
-**Map:** https://www.google.com/maps/search/?api=1&query=244%20Mulberry%20St%2C%20New%20York%2C%20NY%2010012
 
 ### Hosts on Partiful
 
@@ -61,10 +55,6 @@ Enjoy light snacks alongside your coffee and conversations. Whether you’re loo
 Join us for an energizing start to your day — where great coffee meets great minds.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

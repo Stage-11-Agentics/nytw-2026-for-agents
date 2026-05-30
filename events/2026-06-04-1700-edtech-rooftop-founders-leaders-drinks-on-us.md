@@ -14,22 +14,18 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/v5HOrZHjo2oq7YvxwxYx"
 public_short_url: "https://go.partiful.com/zxDniMGy"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Midtown%20East%2C%20Midtown%20East%2C%20Manhattan%2C%20Nueva%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FrWyzTMuijcPngCfPEbCyqymCLYp1%2FStnna1Wd5nGwhsmlG8wNR"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FrWyzTMuijcPngCfPEbCyqymCLYp1%2FStnna1Wd5nGwhsmlG8wNR?alt=media&token=b478fe68-82f6-4c24-a9ab-eef11fe6305d"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: true
-going_guest_count: 136
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["rWyzTMuijcPngCfPEbCyqymCLYp1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 40
-remaining_capacity: -4
-total_guest_count: 141
-approved_guest_count: 44
-local_image: "images/v5HOrZHjo2oq7YvxwxYx.png"
 canceled: false
+local_image: "images/v5HOrZHjo2oq7YvxwxYx.png"
 ---
 
 # EdTech Rooftop: Founders & Leaders (Drinks on us)
@@ -39,7 +35,7 @@ canceled: false
 **Hosts:** Neocoast  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:00pm–7:00pm ET
 **Where:** Midtown East · Midtown East, Manhattan, Nueva York, NY · Midtown
-**Capacity:** capped at 40 · 44 taken, -4 remaining
+**Capacity:** capped at 40
 **Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/v5HOrZHjo2oq7YvxwxYx
@@ -72,10 +68,6 @@ Exact address will be shared upon approval.
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

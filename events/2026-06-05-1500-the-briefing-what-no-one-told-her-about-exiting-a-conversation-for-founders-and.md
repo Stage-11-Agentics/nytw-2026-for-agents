@@ -13,16 +13,14 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 22
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["2guvWZ07SdR1kBH442f9FdQ3Hi02", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 22
-approved_guest_count: 21
-local_image: "images/W1Y2Nl4n23PBrt3KWj3Z.png"
 canceled: false
+approved_guest_count: 31
+local_image: "images/W1Y2Nl4n23PBrt3KWj3Z.png"
 ---
 
 # The Briefing: What No One Told Her About Exiting — A Conversation for Founders and Their Advisors
@@ -32,7 +30,7 @@ canceled: false
 **Hosts:** Exette  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 3:00pm ET
 **Where:** Financial District
-**Going:** 22
+**Going:** 31
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/W1Y2Nl4n23PBrt3KWj3Z
 
@@ -55,10 +53,6 @@ https://www.instagram.com/itsalishamp
 https://www.linkedin.com/in/alisha-m-pennington
 
 This event is a part of #NYCTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

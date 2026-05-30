@@ -8,28 +8,23 @@ end_time: "7:00pm ET"
 start_iso: "2026-06-04T21:00:00.000Z"
 end_iso: "2026-06-04T23:00:00.000Z"
 host: "Alison Go, Narwhalim, First Citizens"
-venue_name: "East Meadow"
-venue_address: "97th St Transverse, New York, NY 10028"
 neighborhood: "Upper East Side"
 rsvp_url: "https://partiful.com/e/6dWzjKVsM4dwYn1nHfYv"
 public_short_url: "https://go.partiful.com/2xTKFPeO"
-google_maps: "https://www.google.com/maps/search/?api=1&query=97th%20St%20Transverse%2C%20New%20York%2C%20NY%2010028"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FZeHayHY6dJfIE9eDas3FNyPV4ZJ2%2FI9AMgzE8zt8VwO0yk0liA"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FZeHayHY6dJfIE9eDas3FNyPV4ZJ2%2FI9AMgzE8zt8VwO0yk0liA?alt=media&token=4e3ed81c-36f1-4d93-93da-a1880c4b7088"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: true
-going_guest_count: 50
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["ZeHayHY6dJfIE9eDas3FNyPV4ZJ2", "UX3QGs434BZzW0sOTNSNNqcyrXk2", "iu2yy0SyHKRzmMUaxMDxSNPX9Bl2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 40
-remaining_capacity: -6
-total_guest_count: 51
-approved_guest_count: 46
-local_image: "images/6dWzjKVsM4dwYn1nHfYv.png"
+remaining_capacity: -10
 canceled: false
+approved_guest_count: 50
+local_image: "images/6dWzjKVsM4dwYn1nHfYv.png"
 ---
 
 # UES Parents in Tech - Central Park Meetup w/ Your Kids
@@ -38,12 +33,11 @@ canceled: false
 
 **Hosts:** Alison Go, Narwhalim, First Citizens  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:00pm–7:00pm ET
-**Where:** East Meadow · 97th St Transverse, New York, NY 10028 · Upper East Side
-**Capacity:** capped at 40 · 46 taken, -6 remaining
+**Where:** Upper East Side
+**Capacity:** capped at 40 · 50 taken, -10 remaining
 **Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/6dWzjKVsM4dwYn1nHfYv
-**Map:** https://www.google.com/maps/search/?api=1&query=97th%20St%20Transverse%2C%20New%20York%2C%20NY%2010028
 
 ### Hosts on Partiful
 
@@ -68,10 +62,6 @@ Sapna Chudgar advises founders, executives, and entrepreneurial families as grow
 
 *~*~*~*~*
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

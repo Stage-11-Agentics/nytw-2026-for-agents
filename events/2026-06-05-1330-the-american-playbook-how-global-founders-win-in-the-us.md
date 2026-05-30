@@ -7,36 +7,34 @@ start_time: "1:30pm ET"
 end_time: "3:30pm ET"
 start_iso: "2026-06-05T17:30:00.000Z"
 end_iso: "2026-06-05T19:30:00.000Z"
-host: "Arc Ventures, BDev Ventures, Wells Fargo"
+host: "BDev Ventures, Arc Ventures, Wells Fargo"
 neighborhood: "Hudson Yards"
 rsvp_url: "https://partiful.com/e/6TEpduZJ2faxAuFUv5QV"
 public_short_url: "https://go.partiful.com/DbO2HsmD"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F5HV8c1GklJx1YlEeJ4wY%2FSTPL20dsPfvLHq21SWer7"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fvc4AAMwWCSb1JNqvxdDthbwBlCH2%2FBfRR5Z8Z-aWJWq-09cpdG?alt=media&token=2480850e-2657-4cf9-af03-16ba64e5a82c"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 113
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["5HV8c1GklJx1YlEeJ4wY", "7DFu4rITofNzKIjA7hCx", "ZsqpgXUWJ6eTkC54cZnnii8SMI82", "vc4AAMwWCSb1JNqvxdDthbwBlCH2"]
 is_capped: true
 max_capacity: 250
-remaining_capacity: 225
-total_guest_count: 116
-approved_guest_count: 25
-local_image: "images/6TEpduZJ2faxAuFUv5QV.png"
+remaining_capacity: 34
 canceled: false
+approved_guest_count: 216
+local_image: "images/6TEpduZJ2faxAuFUv5QV.png"
 ---
 
 # The American Playbook: How Global Founders Win in the US
 
 ![The American Playbook: How Global Founders Win in the US](images/6TEpduZJ2faxAuFUv5QV.png)
 
-**Hosts:** Arc Ventures, BDev Ventures, Wells Fargo  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** BDev Ventures, Arc Ventures, Wells Fargo  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 1:30pm–3:30pm ET
 **Where:** Hudson Yards
-**Capacity:** capped at 250 · 25 taken, 225 remaining
+**Capacity:** capped at 250 · 216 taken, 34 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/6TEpduZJ2faxAuFUv5QV
 
@@ -72,10 +70,6 @@ Hosted by BDev Ventures, Arc Ventures and Wells Fargo
 Space is limited. Grab your spot.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

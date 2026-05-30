@@ -7,37 +7,33 @@ start_time: "4:00pm ET"
 end_time: "6:00pm ET"
 start_iso: "2026-06-01T20:00:00.000Z"
 end_iso: "2026-06-01T22:00:00.000Z"
-host: "Naija Comm, The Kitchen"
+host: "The Kitchen, Naija Comm"
 venue_name: "Time Out Market Union Square"
 venue_address: "124 E 14th St, New York, NY 10003"
 neighborhood: "Upper Manhattan"
 rsvp_url: "https://partiful.com/e/L6i8pMeTV9f1aCCxcANK"
 public_short_url: "https://go.partiful.com/0K5m5x5d"
 google_maps: "https://www.google.com/maps/search/?api=1&query=124%20E%2014th%20St%2C%20New%20York%2C%20NY%2010003"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FVn212txJLxYP4DJUTKqXMnsXKOJ2%2FGLLdOQ4ZC9LQZLX2XeID-"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FVn212txJLxYP4DJUTKqXMnsXKOJ2%2FGLLdOQ4ZC9LQZLX2XeID-?alt=media&token=db255e3e-1cdd-4df4-8659-d93054abad9c"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 915
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["Vn212txJLxYP4DJUTKqXMnsXKOJ2", "7DFu4rITofNzKIjA7hCx", "hd6zXAv2BGSbKDxq1Id41Tm5m083"]
 is_capped: false
-total_guest_count: 916
-approved_guest_count: 110
-local_image: "images/L6i8pMeTV9f1aCCxcANK.jpg"
 canceled: false
+local_image: "images/L6i8pMeTV9f1aCCxcANK.jpg"
 ---
 
 # She's Claiming Space
 
 ![She's Claiming Space](images/L6i8pMeTV9f1aCCxcANK.jpg)
 
-**Hosts:** Naija Comm, The Kitchen  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** The Kitchen, Naija Comm  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 4:00pm–6:00pm ET
 **Where:** Time Out Market Union Square · 124 E 14th St, New York, NY 10003 · Upper Manhattan
-**Going:** 915 of 916
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/L6i8pMeTV9f1aCCxcANK
 **Map:** https://www.google.com/maps/search/?api=1&query=124%20E%2014th%20St%2C%20New%20York%2C%20NY%2010003
@@ -74,10 +70,6 @@ Monday, June 1
 Come ready to connect, be inspired, and take up space!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

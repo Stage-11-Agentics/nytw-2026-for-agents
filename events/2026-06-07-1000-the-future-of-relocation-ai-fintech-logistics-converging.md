@@ -6,26 +6,23 @@ day: "Sunday"
 start_time: "10:00am ET"
 start_iso: "2026-06-07T14:00:00.000Z"
 host: "MoveSwitcher Inc"
-venue_address: "193 6th St, Brooklyn, NY 11215"
 neighborhood: "Brooklyn"
 rsvp_url: "https://partiful.com/e/OCYHq1Lc3wZVhQDp6Xo7"
 public_short_url: "https://go.partiful.com/s0hRj5wB"
-google_maps: "https://www.google.com/maps/search/?api=1&query=193%206th%20St%2C%20Brooklyn%2C%20NY%2011215"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FIuwE1LZDtUQjfIonTCbNnnaVLxM2%2F-OAS7TPQPE847F_l1DrGG"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FIuwE1LZDtUQjfIonTCbNnnaVLxM2%2F-OAS7TPQPE847F_l1DrGG?alt=media&token=87a36119-db45-4180-a876-def03fac7650"
 visibility: "public"
 at_capacity: false
-going_guest_count: 17
+going_guest_count: 49
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["IuwE1LZDtUQjfIonTCbNnnaVLxM2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 33
-total_guest_count: 17
+remaining_capacity: 1
+canceled: false
 approved_guest_count: 0
 local_image: "images/OCYHq1Lc3wZVhQDp6Xo7.jpg"
-canceled: false
 ---
 
 # The Future of Relocation: AI, Fintech & Logistics Converging
@@ -34,10 +31,9 @@ canceled: false
 
 **Hosts:** MoveSwitcher Inc  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Sunday, June 7, 2026 · 10:00am ET
-**Where:** 193 6th St, Brooklyn, NY 11215 · Brooklyn
-**Capacity:** capped at 50 · 17 taken, 33 remaining
+**Where:** Brooklyn
+**Capacity:** capped at 50 · 49 taken, 1 remaining
 **RSVP:** https://partiful.com/e/OCYHq1Lc3wZVhQDp6Xo7
-**Map:** https://www.google.com/maps/search/?api=1&query=193%206th%20St%2C%20Brooklyn%2C%20NY%2011215
 
 ### Hosts on Partiful
 
@@ -67,10 +63,6 @@ This is not a traditional networking event. Attendance is limited to ensure high
 Coffee and breakfast will be included. VC, Angel Investor mixer
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

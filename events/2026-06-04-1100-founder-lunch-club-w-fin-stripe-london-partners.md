@@ -14,20 +14,18 @@ neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/dNyJfF1YLi6KV6hSI5em"
 public_short_url: "https://go.partiful.com/2BtHqonb"
 google_maps: "https://www.google.com/maps/search/?api=1&query=398%20W%20Broadway%2C%20New%20York%2C%20NY%2010012"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FGYyWDhY5rwSidNAewWZs%2FprJjbpz21en5wIlbqZnEp"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FGYyWDhY5rwSidNAewWZs%2FprJjbpz21en5wIlbqZnEp?alt=media&token=660928ac-a6d9-42ed-ba09-617d3ce8c613"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 392
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["GYyWDhY5rwSidNAewWZs", "7DFu4rITofNzKIjA7hCx", "jKy8yqTLX3cFT0tAxRP1BVpF4Sy2", "D3zHuXuWarUFXKKyMuprJn6gmwl2"]
 is_capped: false
-total_guest_count: 396
-approved_guest_count: 7
-local_image: "images/dNyJfF1YLi6KV6hSI5em.png"
 canceled: false
+approved_guest_count: 102
+local_image: "images/dNyJfF1YLi6KV6hSI5em.png"
 ---
 
 # Founder Lunch Club w/ Fin, Stripe, London & Partners
@@ -37,7 +35,7 @@ canceled: false
 **Hosts:** Fin, Stripe  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 11:00am–2:00pm ET
 **Where:** Ladurée Soho · 398 W Broadway, New York, NY 10012 · SoHo
-**Going:** 392 of 396
+**Going:** 102
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/dNyJfF1YLi6KV6hSI5em
 **Map:** https://www.google.com/maps/search/?api=1&query=398%20W%20Broadway%2C%20New%20York%2C%20NY%2010012
@@ -61,10 +59,6 @@ canceled: false
 ​​We’re keeping it small by design.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

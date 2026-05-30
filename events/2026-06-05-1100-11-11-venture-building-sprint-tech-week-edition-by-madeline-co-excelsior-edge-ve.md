@@ -8,25 +8,23 @@ end_time: "10:00pm ET"
 start_iso: "2026-06-05T15:00:00.000Z"
 end_iso: "2026-06-06T02:00:00.000Z"
 host: "Madeline & Co., Excelsior Edge Ventures"
-venue_address: "26 Broadway, Brooklyn, NY 11249"
+venue_name: "26 Broadway"
+venue_address: "26 Broadway, FL 8, New York, NY 10004"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/qyk65dBFAtgDutz68VMK"
 public_short_url: "https://go.partiful.com/nEB3Lx0p"
-google_maps: "https://www.google.com/maps/search/?api=1&query=26%20Broadway%2C%20Brooklyn%2C%20NY%2011249"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FmiIhAjTZRJoFd1pKLShN%2FVeEMK0dqPicL1j-YnQ4Ba"
+google_maps: "https://www.google.com/maps/search/?api=1&query=26%20Broadway%2C%20FL%208%2C%20New%20York%2C%20NY%2010004"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FmiIhAjTZRJoFd1pKLShN%2FVeEMK0dqPicL1j-YnQ4Ba?alt=media&token=571dc8af-e474-4496-a297-6a44284ae9d0"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 885
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["r1HQcxBufIckLJmYm1RKRhLUKEo1", "miIhAjTZRJoFd1pKLShN", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 884
-approved_guest_count: 0
-local_image: "images/qyk65dBFAtgDutz68VMK.png"
 canceled: false
+local_image: "images/qyk65dBFAtgDutz68VMK.png"
 ---
 
 # 11-11 Venture Building Sprint: Tech Week Edition by Madeline & Co. + Excelsior Edge Ventures
@@ -35,11 +33,10 @@ canceled: false
 
 **Hosts:** Madeline & Co., Excelsior Edge Ventures  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 11:00am–10:00pm ET
-**Where:** 26 Broadway, Brooklyn, NY 11249 · Financial District
-**Going:** 885 of 884
+**Where:** 26 Broadway · 26 Broadway, FL 8, New York, NY 10004 · Financial District
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/qyk65dBFAtgDutz68VMK
-**Map:** https://www.google.com/maps/search/?api=1&query=26%20Broadway%2C%20Brooklyn%2C%20NY%2011249
+**Map:** https://www.google.com/maps/search/?api=1&query=26%20Broadway%2C%20FL%208%2C%20New%20York%2C%20NY%2010004
 
 ### Hosts on Partiful
 
@@ -58,6 +55,11 @@ Get early access:   https://www.madeline.one/waitlist_
 Please read the participation terms before applying:
 https://11-11.madeline.one/
 -----
+
+Stop browsing 1,400 events. Madweek curates your perfect TechWeek in 30 seconds — free. → https://madweek.madeline.one
+
+We built Madweek for TechWeek, one of our fav weeks of the year - and one of the most exhausting. You show up with a list and leave with a blur. Met someone important Tuesday, can't remember their name Friday. $80 Ubers to the wrong venue. A brilliant panel and nothing published. So we built Madweek. Tell Madeline who you are. She builds your schedule, navigates you between events, captures panels, and remembers everyone you meet. Free  —>  https://madweek.madeline.one
+Madweek by Madeline & Co. 
 
 Our TechWeek Line up:
 
@@ -78,14 +80,6 @@ A final celebration to close the week with the broader founder and investor comm
 https://partiful.com/e/LCvyYaFwldgIhU0yb8cW
 
 For founder applications, sponsorships, partnerships, or media inquiries, contact: events@madeline.one
-
---
-
-Our friends at Concentrate AI are giving our community $100 in free AI credits (Claude, OpenAI, Gemini + more). One API, all the major models, instant savings.
-
-Sign up at concentrate.ai, list Madeline as your source, and ping their Help Chat if you need anything: tinyurl.com/yc68has4
-
-
 -------
 
 After launching the first 11-11 cohort this spring, Madeline & Co. and Excelsior Edge Ventures are bringing the sprint back for NY Tech Week in a new format. https://11-11.madeline.one/
@@ -161,10 +155,6 @@ Excelsior Edge is the community behind 11-11 Sprints, a live venture-building ca
 Cohorts consist of 11 aspiring and early founders with real domain insight, strong instincts, and something worth building, whether that means a raw idea, a loose concept, or simply a problem they understand deeply enough to attack. Over 11 days, we’ll work with one founder per day to help shape the strategic backbone of their startup in public. https://11-11.madeline.one/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

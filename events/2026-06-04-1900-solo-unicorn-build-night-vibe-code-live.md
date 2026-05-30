@@ -8,26 +8,23 @@ end_time: "10:00pm ET"
 start_iso: "2026-06-04T23:00:00.000Z"
 end_iso: "2026-06-05T02:00:00.000Z"
 host: "Solo Unicorn Club, Manhattan Elite Club"
-venue_address: "225 W 34th St, New York, NY 10122"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/gX1zdtbIO2AvDe8bhWzy"
 public_short_url: "https://go.partiful.com/zqFHxGnM"
-google_maps: "https://www.google.com/maps/search/?api=1&query=225%20W%2034th%20St%2C%20New%20York%2C%20NY%2010122"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F5e3cCqntxWb5Uu3D8K1r%2Fkm0AmREphZy3bJKhoB1fZ"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F5e3cCqntxWb5Uu3D8K1r%2Fkm0AmREphZy3bJKhoB1fZ?alt=media&token=c1674ccb-d878-4403-a7c9-c401339b6778"
 visibility: "public"
 at_capacity: false
-going_guest_count: 7
+going_guest_count: 26
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["5e3cCqntxWb5Uu3D8K1r", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 92
-total_guest_count: 10
+remaining_capacity: 74
+canceled: false
 approved_guest_count: 0
 local_image: "images/gX1zdtbIO2AvDe8bhWzy.png"
-canceled: false
 ---
 
 # SOLO UNICORN BUILD NIGHT — Vibe Code Live
@@ -36,10 +33,9 @@ canceled: false
 
 **Hosts:** Solo Unicorn Club, Manhattan Elite Club
 **When:** Thursday, June 4, 2026 · 7:00pm–10:00pm ET
-**Where:** 225 W 34th St, New York, NY 10122 · Midtown
-**Capacity:** capped at 100 · 8 taken, 92 remaining
+**Where:** Midtown
+**Capacity:** capped at 100 · 26 taken, 74 remaining
 **RSVP:** https://partiful.com/e/gX1zdtbIO2AvDe8bhWzy
-**Map:** https://www.google.com/maps/search/?api=1&query=225%20W%2034th%20St%2C%20New%20York%2C%20NY%2010122
 
 ### Hosts on Partiful
 
@@ -73,10 +69,6 @@ Bring: your laptop if you want to follow along.
 Want to be one of the 4 builders? Email  hello@SoloUnicorn.Club.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

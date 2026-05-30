@@ -14,20 +14,20 @@ neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/7giOIl1G0R949i9stVOE"
 public_short_url: "https://go.partiful.com/RLzBOrkV"
 google_maps: "https://www.google.com/maps/search/?api=1&query=SoHo%2C%20SoHo%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F6alkJKsV5gMEFIuKpwS7bod8qDC3%2FMEeGs61tSmp-6DLWA7lRs"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F6alkJKsV5gMEFIuKpwS7bod8qDC3%2FMEeGs61tSmp-6DLWA7lRs?alt=media&token=e4e0ad7f-c550-438c-ac40-2838f16310eb"
 visibility: "public"
 at_capacity: false
+going_guest_count: 90
 badges: []
 fetch_status: ok
 owner_count: 1
 owner_ids: ["6alkJKsV5gMEFIuKpwS7bod8qDC3"]
 is_capped: true
 max_capacity: 150
-remaining_capacity: 149
-total_guest_count: 1
+remaining_capacity: 60
+canceled: false
 approved_guest_count: 0
 local_image: "images/7giOIl1G0R949i9stVOE.png"
-canceled: false
 ---
 
 # Agentic Finance Summit
@@ -37,7 +37,7 @@ canceled: false
 **Hosts:** Party Action People, Microsoft
 **When:** Wednesday, June 3, 2026 · 3:00am–12:00pm ET
 **Where:** SoHo · SoHo, Manhattan, New York, NY · SoHo
-**Capacity:** capped at 150 · 1 taken, 149 remaining
+**Capacity:** capped at 150 · 90 taken, 60 remaining
 **RSVP:** https://partiful.com/e/7giOIl1G0R949i9stVOE
 **Map:** https://www.google.com/maps/search/?api=1&query=SoHo%2C%20SoHo%2C%20Manhattan%2C%20New%20York%2C%20NY
 
@@ -53,10 +53,6 @@ Hosted by Microsoft & Enterprise Ethereum Alliance.
 Tickets need to be purchased on the website. Venue will be disclosed when you receive the ticket.
 
 Agentic Finance Summit is a one-day conference for the teams building the infrastructure that makes that possible. Founders, CTOs, engineers, and technical decision-makers working across AI, payments, crypto, and fintech, in one room, focused on what is actually working today.
-
-
-
-
 
 
 

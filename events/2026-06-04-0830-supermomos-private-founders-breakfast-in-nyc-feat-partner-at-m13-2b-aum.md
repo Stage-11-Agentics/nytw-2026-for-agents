@@ -11,20 +11,18 @@ host: "Supermomos"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/LuziHALFvFZP6nJUhoIX"
 public_short_url: "https://go.partiful.com/uszLvjGC"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FFWU6zXVH0qZbbPq3lomB2ZWfKRT2%2FaNt-e3pMQM34-CJPGeIc_"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FFWU6zXVH0qZbbPq3lomB2ZWfKRT2%2FaNt-e3pMQM34-CJPGeIc_?alt=media&token=9649b7a8-1da4-4389-8a25-72be3a8eb70d"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 121
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["7DFu4rITofNzKIjA7hCx", "iWo82h1ANVTansHF9NVS"]
 is_capped: false
-total_guest_count: 122
+canceled: false
 approved_guest_count: 1
 local_image: "images/LuziHALFvFZP6nJUhoIX.png"
-canceled: false
 ---
 
 # Supermomos Private Founders Breakfast in NYC feat. Partner at M13 (~$2B AUM)
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** Supermomos  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 8:30am–10:30am ET
 **Where:** Midtown
-**Going:** 121 of 122
+**Going:** 1
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/LuziHALFvFZP6nJUhoIX
 
@@ -61,10 +59,6 @@ Morgan is a partner at M13 who focuses on agentic workflow automation that targe
 Prior to M13, Morgan spent five years in investment banking at Morgan Stanley. Prior to building experience in regulated, operationally complex industries, she worked on a presidential campaign at Bloomberg Philanthropies and had a consultancy servicing start-ups and political organizations.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -14,22 +14,20 @@ neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/tVledXQK9bwSVjCF0OUT"
 public_short_url: "https://go.partiful.com/hBnjECVL"
 google_maps: "https://www.google.com/maps/search/?api=1&query=15%20Beekman%20St%2C%20New%20York%2C%20NY%2010038"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FGpohFMxkIpeTGfxNI5FwciPMEZQ2%2FtuQn3UsOcrnqPcx_VVWco"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FGpohFMxkIpeTGfxNI5FwciPMEZQ2%2FtuQn3UsOcrnqPcx_VVWco?alt=media&token=23604d94-e487-4c7b-826d-721eaeec6dc5"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 153
 badges: []
 fetch_status: ok
 owner_count: 6
 owner_ids: ["Hc3Aico8FXVFkZlk8mzxg38NIiR2", "LcZD2hHcN8bugyJLSW7lnXD2N4k1", "UH7VYlZKNqMB5wcwLWIM403EjAs2", "7DFu4rITofNzKIjA7hCx", "5u9VdtZ0lSM3aStyBjh5uNfhvh03", "GpohFMxkIpeTGfxNI5FwciPMEZQ2"]
 is_capped: true
-max_capacity: 250
-remaining_capacity: 110
-total_guest_count: 158
-approved_guest_count: 140
-local_image: "images/tVledXQK9bwSVjCF0OUT.png"
+max_capacity: 225
+remaining_capacity: 25
 canceled: false
+approved_guest_count: 200
+local_image: "images/tVledXQK9bwSVjCF0OUT.png"
 ---
 
 # Hacking Customer Retention with AI
@@ -39,7 +37,7 @@ canceled: false
 **Hosts:** Wooxy  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 1:00pm–5:00pm ET
 **Where:** Pace University Seidenberg School Of Computer Science And Information Systems · 15 Beekman St, New York, NY 10038 · Financial District
-**Capacity:** capped at 250 · 140 taken, 110 remaining
+**Capacity:** capped at 225 · 200 taken, 25 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/tVledXQK9bwSVjCF0OUT
 **Map:** https://www.google.com/maps/search/?api=1&query=15%20Beekman%20St%2C%20New%20York%2C%20NY%2010038
@@ -106,10 +104,6 @@ A clear next step to turn your hack into a live experiment or product
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 This event is sponsored by The Front Yard at Pace University. Learn more about their entrepreneur program at: https://www.linkedin.com/company/the-front-yard-at-pace-university
-
-
-
-
 
 
 

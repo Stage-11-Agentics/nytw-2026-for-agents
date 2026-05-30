@@ -14,20 +14,18 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/VlgbZfX2aKmyl0kobR3q"
 public_short_url: "https://go.partiful.com/AL5NVkWE"
 google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fh3ZOzhmJDVh0P1Ukc94y5hkKbIT2%2Fh7pTyb5hfeIR7i54JDfL7"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fh3ZOzhmJDVh0P1Ukc94y5hkKbIT2%2Fh7pTyb5hfeIR7i54JDfL7?alt=media&token=47a1a82f-bd9b-44c3-a437-03383ec49329"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 74
 badges: []
 fetch_status: ok
 owner_count: 5
 owner_ids: ["h3ZOzhmJDVh0P1Ukc94y5hkKbIT2", "7DFu4rITofNzKIjA7hCx", "7XBP22S0QqZrxHmRc5SjxkKEcOq2", "0OHigCIukjROqq78y629OeqgBtB3", "bgys5wvYkrhjv4SE3eUUYjOXJJ13"]
 is_capped: false
-total_guest_count: 79
-approved_guest_count: 19
-local_image: "images/VlgbZfX2aKmyl0kobR3q.png"
 canceled: false
+approved_guest_count: 14
+local_image: "images/VlgbZfX2aKmyl0kobR3q.png"
 ---
 
 # Community Jam: NYC
@@ -37,7 +35,7 @@ canceled: false
 **Hosts:** Snyk  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 2:00pm–5:00pm ET
 **Where:** New York, NY · New York, NY · Midtown
-**Going:** 74 of 79
+**Going:** 14
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/VlgbZfX2aKmyl0kobR3q
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -71,10 +69,6 @@ AGENDA
 
 
 Don't stay on the sidelines. RSVP to huddle with the best in the industry and refine your AI security playbook for the wins ahead.
-
-
-
-
 
 
 

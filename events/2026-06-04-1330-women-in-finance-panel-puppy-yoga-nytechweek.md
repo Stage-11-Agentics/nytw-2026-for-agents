@@ -8,26 +8,21 @@ end_time: "4:00pm ET"
 start_iso: "2026-06-04T17:30:00.000Z"
 end_iso: "2026-06-04T20:00:00.000Z"
 host: "Pigment"
-venue_name: "Flatiron"
-venue_address: "Flatiron, Manhattan, New York, NY"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/5brBOX6e1W7B5elBchq7"
 public_short_url: "https://go.partiful.com/K7ThxDHr"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FQOkcuAfe8tbkclqFIwNf1QKkfXM2%2FoaxZaRHY6um2jETN_5pR6"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FQOkcuAfe8tbkclqFIwNf1QKkfXM2%2FoaxZaRHY6um2jETN_5pR6?alt=media&token=99b05118-b3a3-4691-b941-7ffaa4c451cc"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 82
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["QOkcuAfe8tbkclqFIwNf1QKkfXM2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 84
-approved_guest_count: 4
-local_image: "images/5brBOX6e1W7B5elBchq7.png"
 canceled: false
+approved_guest_count: 5
+local_image: "images/5brBOX6e1W7B5elBchq7.png"
 ---
 
 # Women in Finance: Panel & Puppy Yoga #NYTECHWEEK
@@ -36,11 +31,10 @@ canceled: false
 
 **Hosts:** Pigment  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 1:30pm–4:00pm ET
-**Where:** Flatiron · Flatiron, Manhattan, New York, NY · Flatiron
-**Going:** 82 of 84
+**Where:** Flatiron
+**Going:** 5
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/5brBOX6e1W7B5elBchq7
-**Map:** https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -68,10 +62,6 @@ Unwind with a light, beginner-friendly yoga session surrounded by playful puppie
 Mingle, exchange ideas, and play with the puppies before heading into the rest of your day.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

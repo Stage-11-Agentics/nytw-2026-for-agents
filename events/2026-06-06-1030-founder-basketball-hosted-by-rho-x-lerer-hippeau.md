@@ -11,30 +11,32 @@ host: "Rho, Lerer Hippeau"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/HtAfI5g4LYFrR0hAMWGg"
 public_short_url: "https://go.partiful.com/2T0cGmRw"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FfbGzDRIjrjMmgnG6GZZpaBu41Tb2%2Fivl1WO1tGeaGV2icNTojP"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FfbGzDRIjrjMmgnG6GZZpaBu41Tb2%2Fivl1WO1tGeaGV2icNTojP?alt=media&token=d28b3e74-27d9-4913-9c41-7b04022ba3f4"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 119
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["fbGzDRIjrjMmgnG6GZZpaBu41Tb2", "FtzXc6MouWQNyZVS0SOcJ8VL7cN2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 122
+canceled: true
+canceled_at: "2026-05-29T19:00:32.018Z"
+canceled_by: "FtzXc6MouWQNyZVS0SOcJ8VL7cN2"
 approved_guest_count: 0
 local_image: "images/HtAfI5g4LYFrR0hAMWGg.png"
-canceled: false
 ---
 
 # ​Founder Basketball [Hosted by Rho x Lerer Hippeau]
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-29T19:00:32.018Z_
 
 ![​Founder Basketball [Hosted by Rho x Lerer Hippeau]](images/HtAfI5g4LYFrR0hAMWGg.png)
 
 **Hosts:** Rho, Lerer Hippeau  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 10:30am–1:00pm ET
 **Where:** Chelsea
-**Going:** 119 of 122
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/HtAfI5g4LYFrR0hAMWGg
 
@@ -60,10 +62,6 @@ Lerer Hippeau is an early-stage venture capital firm founded and operated in NYC
 ​​​Rho is a fintech company, not a bank. Checking and card services are provided by Webster Bank, N.A., member FDIC; savings account services are provided by American Deposit Management Co. and its partner banks.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

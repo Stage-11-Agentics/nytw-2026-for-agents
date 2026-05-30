@@ -7,36 +7,34 @@ start_time: "6:00pm ET"
 end_time: "9:00pm ET"
 start_iso: "2026-06-04T22:00:00.000Z"
 end_iso: "2026-06-05T01:00:00.000Z"
-host: "Rippling, The Varo"
+host: "The Varo, Rippling"
 neighborhood: "Nomad"
 rsvp_url: "https://partiful.com/e/ngIR5POoNayvrfRI63Ka"
 public_short_url: "https://go.partiful.com/2VGDkLtd"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FpYhMY7z15AZYHJEhww6Ak7UfzBI2%2F_XJPLsrzMDmFfMy20gMbs"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FpYhMY7z15AZYHJEhww6Ak7UfzBI2%2F_XJPLsrzMDmFfMy20gMbs?alt=media&token=0c98246a-7c14-41f0-9c78-ccf98792de93"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 354
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["pYhMY7z15AZYHJEhww6Ak7UfzBI2", "7DFu4rITofNzKIjA7hCx", "9DhMdVeoxHeNKxf0yFC1lVufsYu2", "pgwNOTrPdZNS0ZM8RrgpFgftoJ82"]
 is_capped: true
 max_capacity: 200
-remaining_capacity: 49
-total_guest_count: 359
-approved_guest_count: 151
-local_image: "images/ngIR5POoNayvrfRI63Ka.png"
+remaining_capacity: 5
 canceled: false
+approved_guest_count: 195
+local_image: "images/ngIR5POoNayvrfRI63Ka.png"
 ---
 
 # Rippling x Superhuman Mail x The Varo: Founders at Every Stage #NYTW26
 
 ![Rippling x Superhuman Mail x The Varo: Founders at Every Stage #NYTW26](images/ngIR5POoNayvrfRI63Ka.png)
 
-**Hosts:** Rippling, The Varo  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** The Varo, Rippling  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm–9:00pm ET
 **Where:** Nomad
-**Capacity:** capped at 200 · 151 taken, 49 remaining
+**Capacity:** capped at 200 · 195 taken, 5 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ngIR5POoNayvrfRI63Ka
 
@@ -83,10 +81,6 @@ About The Varo
 By clicking 'Get on the list' you agree to the use of your data in accordance with Rippling's Privacy Notice, including for marketing purposes; and the sharing of your data with the event’s sponsors, who may contact you about their services.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

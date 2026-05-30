@@ -14,22 +14,18 @@ neighborhood: "Nomad"
 rsvp_url: "https://partiful.com/e/gM5zKPJV8oJRiBVnmwEf"
 public_short_url: "https://go.partiful.com/wzJKV4Uz"
 google_maps: "https://www.google.com/maps/search/?api=1&query=1204%20Broadway%2C%20New%20York%2C%20NY%2010001"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F2wZbZPlGMpbE9MNRiQAdSu3Y0QT2%2FGLrBOH_FX0TC3wAriMX2x"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F2wZbZPlGMpbE9MNRiQAdSu3Y0QT2%2FGLrBOH_FX0TC3wAriMX2x?alt=media&token=15b4daee-5e69-4d7b-849d-fe847250feac"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 55
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["2wZbZPlGMpbE9MNRiQAdSu3Y0QT2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 35
-remaining_capacity: 3
-total_guest_count: 56
-approved_guest_count: 32
-local_image: "images/gM5zKPJV8oJRiBVnmwEf.jpg"
 canceled: false
+local_image: "images/gM5zKPJV8oJRiBVnmwEf.jpg"
 ---
 
 # Stop Scaling Churn: What Founders Get Wrong About Customer Success
@@ -39,7 +35,8 @@ canceled: false
 **Hosts:** Customer Over Chaos  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 9:00am–10:30am ET
 **Where:** Luminary · 1204 Broadway, New York, NY 10001 · Nomad
-**Capacity:** capped at 35 · 32 taken, 3 remaining
+**Capacity:** capped at 35
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/gM5zKPJV8oJRiBVnmwEf
 **Map:** https://www.google.com/maps/search/?api=1&query=1204%20Broadway%2C%20New%20York%2C%20NY%2010001
@@ -70,10 +67,6 @@ Capacity: 15 founders
 Intentionally small. Come ready to talk.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

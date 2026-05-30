@@ -9,20 +9,18 @@ host: "Colectivo"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/f6KrALsCB9k0DXqcG63d"
 public_short_url: "https://go.partiful.com/iPc5BApF"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fk9o75egDXRZGkjxMT2fDaTGNjv52%2FiWUsG7zJhDD1r34hFfKuL"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fk9o75egDXRZGkjxMT2fDaTGNjv52%2FiWUsG7zJhDD1r34hFfKuL?alt=media&token=e6c06dd3-8bf8-4b16-8fe0-a0cbd255138e"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 93
 badges: []
 fetch_status: ok
 owner_count: 5
 owner_ids: ["k9o75egDXRZGkjxMT2fDaTGNjv52", "7DFu4rITofNzKIjA7hCx", "eSRV03jtrOekte4WDGegHN1vqqw1", "mOUdyWR57LhjFYRjcfLXpCLP0xf1", "5u5a87JUtnUEE0ndwdWu1TFOrgx1"]
 is_capped: false
-total_guest_count: 93
-approved_guest_count: 9
-local_image: "images/f6KrALsCB9k0DXqcG63d.png"
 canceled: false
+approved_guest_count: 25
+local_image: "images/f6KrALsCB9k0DXqcG63d.png"
 ---
 
 # Latinos In VC Vol lI
@@ -32,7 +30,7 @@ canceled: false
 **Hosts:** Colectivo  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 9:00am ET
 **Where:** Midtown
-**Going:** 93
+**Going:** 25
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/f6KrALsCB9k0DXqcG63d
 
@@ -64,10 +62,6 @@ Join the Latino Tech Week WhatsApp community:
 https://chat.whatsapp.com/LmBobs1cLC0GmwBkHNyZS0
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

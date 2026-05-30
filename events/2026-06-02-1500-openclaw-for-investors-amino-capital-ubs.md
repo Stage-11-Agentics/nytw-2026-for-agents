@@ -13,22 +13,18 @@ neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/EKVRCkLXxR7HVL9Ogump"
 public_short_url: "https://go.partiful.com/5CfdmaAy"
 google_maps: "https://www.google.com/maps/search/?api=1&query=11%20Madison%20Ave%2C%20New%20York%2C%20NY%2010010"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fb50V1RdDxGNpRGq0UzhjycGDBPL2%2F-VQyEfgoYlQNvC_2S9LfR"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fb50V1RdDxGNpRGq0UzhjycGDBPL2%2F-VQyEfgoYlQNvC_2S9LfR?alt=media&token=ebd93a87-6220-42d7-8dde-b7fba670bd21"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 202
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["b50V1RdDxGNpRGq0UzhjycGDBPL2", "7DFu4rITofNzKIjA7hCx", "A06Tk817jSbHI6GxsbC1C8Nyh592"]
 is_capped: true
 max_capacity: 60
-remaining_capacity: 13
-total_guest_count: 210
-approved_guest_count: 47
-local_image: "images/EKVRCkLXxR7HVL9Ogump.png"
 canceled: false
+local_image: "images/EKVRCkLXxR7HVL9Ogump.png"
 ---
 
 # OpenClaw for Investors (Amino Capital & UBS)
@@ -38,7 +34,8 @@ canceled: false
 **Hosts:** Amino Capital  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 3:00pm–7:30pm ET
 **Where:** 11 Madison Ave, New York, NY 10010 · Flatiron
-**Capacity:** capped at 60 · 47 taken, 13 remaining
+**Capacity:** capped at 60
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/EKVRCkLXxR7HVL9Ogump
 **Map:** https://www.google.com/maps/search/?api=1&query=11%20Madison%20Ave%2C%20New%20York%2C%20NY%2010010
@@ -133,10 +130,6 @@ Benefits may include: speaking opportunities, brand visibility, panel naming rig
 ​UBS is a global financial services firm and the world’s largest wealth manager, with over $5 trillion in invested assets. Serving clients across more than 50 markets, UBS provides expertise in wealth management, asset management, and investment banking, while actively investing in innovation across AI, digital assets, and next-generation financial technologies.
 
 ​This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

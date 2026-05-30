@@ -17,18 +17,16 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 28
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["JcHknna1zPYvyA4TJT8OEDbvrwv1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 30
-remaining_capacity: 10
-total_guest_count: 28
-approved_guest_count: 20
-local_image: "images/1tdv13r8Ven8DkmlqSvF.png"
+remaining_capacity: 3
 canceled: false
+approved_guest_count: 27
+local_image: "images/1tdv13r8Ven8DkmlqSvF.png"
 ---
 
 # GenAi: Acquire Properties Swiftly
@@ -38,7 +36,7 @@ canceled: false
 **Hosts:** Project Reds, Inc.
 **When:** Thursday, June 4, 2026 · 2:30pm–3:30pm ET
 **Where:** 529 5th Ave, New York, NY 10017 · Central Park
-**Capacity:** capped at 30 · 20 taken, 10 remaining
+**Capacity:** capped at 30 · 27 taken, 3 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/1tdv13r8Ven8DkmlqSvF
 **Map:** https://www.google.com/maps/search/?api=1&query=529%205th%20Ave%2C%20New%20York%2C%20NY%2010017
@@ -50,6 +48,8 @@ canceled: false
 
 
 ## Description
+
+Project REDS, "Real Estate Development Streamliner."
 
 Without Project REDS, the current predevelopment timeline is:
 1) Site Selection & Feasibility: 6 months to 2 years (includes market analysis and locating land).
@@ -67,9 +67,7 @@ Learn more about us: https://www.projectreds.info/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
-
-
-
+#proptech #realestate #commercialdevelopers #construction #ai #genai #generativeai
 
 
 

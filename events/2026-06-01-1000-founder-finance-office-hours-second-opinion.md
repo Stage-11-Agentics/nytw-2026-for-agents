@@ -14,20 +14,17 @@ neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/iNz2d5f2PFPwdFnpvHOl"
 public_short_url: "https://go.partiful.com/amPbCf2I"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Chelsea%2C%20Chelsea%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FQnWG0MrBE9Y9VKKIbUmK%2FC8pofJqNHY2Db-TdgOFNB"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FQnWG0MrBE9Y9VKKIbUmK%2FC8pofJqNHY2Db-TdgOFNB?alt=media&token=6770f1dd-887a-46d0-af32-981444baae65"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 55
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["QnWG0MrBE9Y9VKKIbUmK", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 55
-approved_guest_count: 35
-local_image: "images/iNz2d5f2PFPwdFnpvHOl.png"
 canceled: false
+local_image: "images/iNz2d5f2PFPwdFnpvHOl.png"
 ---
 
 # Founder Finance Office Hours: Second Opinion
@@ -37,7 +34,6 @@ canceled: false
 **Hosts:** Haven  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 10:00am–2:00pm ET
 **Where:** Chelsea · Chelsea, Manhattan, New York, NY · Chelsea
-**Going:** 55
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/iNz2d5f2PFPwdFnpvHOl
 **Map:** https://www.google.com/maps/search/?api=1&query=Chelsea%2C%20Chelsea%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -77,10 +73,6 @@ About the Host
 Haven is a modern full-stack accounting platform for startups and SMBs — bookkeeping, taxes, and R&D credits, AR/AP, all in one place. Learn more at usehaven.com
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

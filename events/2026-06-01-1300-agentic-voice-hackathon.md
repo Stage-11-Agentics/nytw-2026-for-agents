@@ -11,23 +11,21 @@ host: "Cloudonix, Inc"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/E915u2aKmufVgYwg0Cdf"
 public_short_url: "https://go.partiful.com/pMsZjYGS"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FLcZD2hHcN8bugyJLSW7lnXD2N4k1%2FwpUymbzOoWtxq1jL1QyKu"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FLcZD2hHcN8bugyJLSW7lnXD2N4k1%2FwpUymbzOoWtxq1jL1QyKu?alt=media&token=4d258e79-32cf-4bab-9cb5-d7eb97a3ca0f"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 69
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["LcZD2hHcN8bugyJLSW7lnXD2N4k1", "7DFu4rITofNzKIjA7hCx", "UH7VYlZKNqMB5wcwLWIM403EjAs2"]
 is_capped: false
-total_guest_count: 68
-approved_guest_count: 67
-local_image: "images/E915u2aKmufVgYwg0Cdf.png"
 canceled: true
 canceled_at: "2026-05-11T18:05:47.944Z"
 canceled_by: "LcZD2hHcN8bugyJLSW7lnXD2N4k1"
 cancellation_message: "Sorry, that we have to cancel.\nAir France canceled our flights and we will not be able to get to NY for Tech Week."
+approved_guest_count: 65
+local_image: "images/E915u2aKmufVgYwg0Cdf.png"
 ---
 
 # Agentic Voice Hackathon
@@ -43,7 +41,7 @@ cancellation_message: "Sorry, that we have to cancel.\nAir France canceled our f
 **Hosts:** Cloudonix, Inc  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 1:00pm–5:00pm ET
 **Where:** Financial District
-**Going:** 69 of 68
+**Going:** 65
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/E915u2aKmufVgYwg0Cdf
 
@@ -119,10 +117,6 @@ Who Should Participate
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.   
 This event is sponsored by The Front Yard at Pace University.  Learn more about their entrepreneur program at So use this 
 https://www.linkedin.com/company/the-front-yard-at-pace-university
-
-
-
-
 
 
 

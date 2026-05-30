@@ -11,22 +11,20 @@ host: "Lumaril Corporation, General Catalyst, NA"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/9x67cUmFh48zj6PY01IC"
 public_short_url: "https://go.partiful.com/ubsJmcGr"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FVlJMfRmnBf7ySxiSHIWV%2Fve3Q_KNXVv-TXHrYukXU1"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FVlJMfRmnBf7ySxiSHIWV%2Fve3Q_KNXVv-TXHrYukXU1?alt=media&token=9600ab58-2ee5-4a57-a817-2bf7bb6927a0"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 38
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["VlJMfRmnBf7ySxiSHIWV", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 30
-remaining_capacity: 19
-total_guest_count: 38
-approved_guest_count: 11
-local_image: "images/9x67cUmFh48zj6PY01IC.png"
+remaining_capacity: 14
 canceled: false
+approved_guest_count: 16
+local_image: "images/9x67cUmFh48zj6PY01IC.png"
 ---
 
 # Make Every Deal your Best Deal
@@ -36,7 +34,7 @@ canceled: false
 **Hosts:** Lumaril Corporation, General Catalyst, NA
 **When:** Wednesday, June 3, 2026 · 6:30pm–9:30pm ET
 **Where:** Chelsea
-**Capacity:** capped at 30 · 11 taken, 19 remaining
+**Capacity:** capped at 30 · 16 taken, 14 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/9x67cUmFh48zj6PY01IC
 
@@ -52,13 +50,9 @@ NY Tech Week has a lot going on. We think you should be here.
 
 Join Lumaril and General Catalyst at our New York HQ for a night of poker, good company, and better snacks. Start loose — grab a drink, find your table, and get a feel for the room. Then at 7:30, the stakes go up: a seated tournament begins and only one player walks away with the bragging rights.
 
-No buy-in. No dress code. Just sharp people having a good time.
+No buy-in. No dress code. Just sharp people having a good time. And prizes, of course.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

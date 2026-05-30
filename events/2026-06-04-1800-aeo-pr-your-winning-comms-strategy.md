@@ -6,26 +6,21 @@ day: "Thursday"
 start_time: "6:00pm ET"
 start_iso: "2026-06-04T22:00:00.000Z"
 host: "SUSO Digital, Kite Hill"
-venue_name: "Flatiron"
-venue_address: "Flatiron, Manhattan, New York, NY"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/FHQzZG7KWORsvYyorbhQ"
 public_short_url: "https://go.partiful.com/VItdkOA0"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F1QEi1eR2oUPQVjNnQTFUmqHxPEK2%2FSO1nIrkbf9aPj9PgsM13N"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F1QEi1eR2oUPQVjNnQTFUmqHxPEK2%2FSO1nIrkbf9aPj9PgsM13N?alt=media&token=3dba48e4-a0f4-48f7-8be5-c8961dcdea51"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 94
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["1QEi1eR2oUPQVjNnQTFUmqHxPEK2", "gZJOppCCCqVGYyiFQblUVWOcQIJ3", "7DFu4rITofNzKIjA7hCx", "ghiwgdcOQyRmTVeG6GpGpH8y0253"]
 is_capped: false
-total_guest_count: 98
-approved_guest_count: 54
-local_image: "images/FHQzZG7KWORsvYyorbhQ.png"
 canceled: false
+approved_guest_count: 78
+local_image: "images/FHQzZG7KWORsvYyorbhQ.png"
 ---
 
 # AEO + PR = Your Winning Comms Strategy
@@ -34,11 +29,10 @@ canceled: false
 
 **Hosts:** SUSO Digital, Kite Hill  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
-**Where:** Flatiron · Flatiron, Manhattan, New York, NY · Flatiron
-**Going:** 94 of 98
+**Where:** Flatiron
+**Going:** 78
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/FHQzZG7KWORsvYyorbhQ
-**Map:** https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -70,10 +64,6 @@ Time of Events
 Elevator and Accessibility - Please be advised that the event space is on the 2nd floor and does not have an elevator. Guests must utilize stairs to reach the event floor. If you require mobility assistance, please get in touch with ops@kitehillpr.com so that we can coordinate alternative entry, if available.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

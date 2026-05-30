@@ -14,20 +14,17 @@ neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/OZNBqhG1v957gfSy9q4w"
 public_short_url: "https://go.partiful.com/w8k42TAg"
 google_maps: "https://www.google.com/maps/search/?api=1&query=222%20W%20Houston%20St%2C%20New%20York%2C%20NY%2010014"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fqpj93fqZRywqOsgRQXtS%2FqU2zg13rh0EKzk1OaIZNh"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fqpj93fqZRywqOsgRQXtS%2FqU2zg13rh0EKzk1OaIZNh?alt=media&token=418f4c5d-de83-412d-8bf2-77455025d2d7"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 431
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["qpj93fqZRywqOsgRQXtS", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 439
-approved_guest_count: 411
-local_image: "images/OZNBqhG1v957gfSy9q4w.jpg"
 canceled: false
+local_image: "images/OZNBqhG1v957gfSy9q4w.jpg"
 ---
 
 # The Investment Game: In Pursuit of Series A 
@@ -39,7 +36,6 @@ canceled: false
 **Hosts:** Hubspot for Startups  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:00pm–7:00pm ET
 **Where:** Houston Hall · 222 W Houston St, New York, NY 10014 · SoHo
-**Going:** 431 of 439
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/OZNBqhG1v957gfSy9q4w
 **Map:** https://www.google.com/maps/search/?api=1&query=222%20W%20Houston%20St%2C%20New%20York%2C%20NY%2010014
@@ -70,10 +66,6 @@ Following the session, stick around and make your own connections over drinks, l
 __
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

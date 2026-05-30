@@ -11,20 +11,18 @@ host: "KRCG"
 neighborhood: "Virtual (NYC)"
 rsvp_url: "https://partiful.com/e/7xiFS67WNTZphi6dvhYs"
 public_short_url: "https://go.partiful.com/ftGvNEAM"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FX7qRCNwv9WOLzTGBgOJh5WuEYoo1%2F7l0CcUu72n7nS5af3-2lV"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FX7qRCNwv9WOLzTGBgOJh5WuEYoo1%2F7l0CcUu72n7nS5af3-2lV?alt=media&token=57690730-91b3-4b55-aa4e-65761ae9fcd9"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 38
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["X7qRCNwv9WOLzTGBgOJh5WuEYoo1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 39
-approved_guest_count: 36
-local_image: "images/7xiFS67WNTZphi6dvhYs.png"
 canceled: false
+approved_guest_count: 55
+local_image: "images/7xiFS67WNTZphi6dvhYs.png"
 ---
 
 # Ask a VP of Sales: Live GTM Office Hours for Early-Stage B2B Founders (Virtual)
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** KRCG  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Sunday, June 7, 2026 · 12:00pm–1:00pm ET
 **Where:** Virtual (NYC)
-**Going:** 38 of 39
+**Going:** 55
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/7xiFS67WNTZphi6dvhYs
 
@@ -75,10 +73,6 @@ Host will message you with a recommended 15- minute time slot during the hour, b
 Kat's LinkedIn: https://www.linkedin.com/in/kat-rucker/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

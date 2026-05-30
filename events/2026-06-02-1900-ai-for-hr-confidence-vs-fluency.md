@@ -9,20 +9,18 @@ host: "peoplepower.ai"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/mS9ovrUMKl2c2XK2ZjPC"
 public_short_url: "https://go.partiful.com/5mjwqLIQ"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fq8EuE2TMl8TknoRxihV6RGtH94k2%2FE_tv2kcVqT0ruLX5vBWPo"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fq8EuE2TMl8TknoRxihV6RGtH94k2%2FE_tv2kcVqT0ruLX5vBWPo?alt=media&token=676da266-bd8d-402d-92ce-f3bd5ea84489"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 62
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["q8EuE2TMl8TknoRxihV6RGtH94k2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 64
+canceled: false
 approved_guest_count: 21
 local_image: "images/mS9ovrUMKl2c2XK2ZjPC.png"
-canceled: false
 ---
 
 # AI for HR: Confidence vs Fluency
@@ -32,7 +30,7 @@ canceled: false
 **Hosts:** peoplepower.ai  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 7:00pm ET
 **Where:** Midtown
-**Going:** 62 of 64
+**Going:** 21
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/mS9ovrUMKl2c2XK2ZjPC
 
@@ -47,10 +45,6 @@ canceled: false
 You're using AI. Your team is using AI. But do you actually understand what you're doing? We assessed 577 HR leaders and found something that should worry every CHRO: 45% think they're further along than they really are. They're confident. They're not fluent. There's a 43-point gap between how HR applies AI practically and how well they understand the people and culture implications. In this working session, we'll surface where that gap lives in your organization, why it matters, and what to do about it. This isn't a lecture. We'll dig into real scenarios, map your team's actual readiness, and walk out with a clear picture of what fluency actually looks like for your function. Bring your questions. Bring your friction points. Leave with a path forward.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

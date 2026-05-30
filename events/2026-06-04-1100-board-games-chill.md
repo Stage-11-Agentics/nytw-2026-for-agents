@@ -14,21 +14,20 @@ neighborhood: "Hudson Yards"
 rsvp_url: "https://partiful.com/e/0BKvQ3xufkQ7kvMMKcZN"
 public_short_url: "https://go.partiful.com/u7iIeK98"
 google_maps: "https://www.google.com/maps/search/?api=1&query=25%2011th%20Ave%2C%20New%20York%2C%20NY%2010011"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FTsrt5RrXDpRRnyQ3jTKVb7sOisl1%2FpCOhJeuwn4tFHOM9GN0or"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FTsrt5RrXDpRRnyQ3jTKVb7sOisl1%2FpCOhJeuwn4tFHOM9GN0or?alt=media&token=5af36d56-f03b-4eab-a6e7-a5d018dc9f19"
 visibility: "public"
-at_capacity: false
-going_guest_count: 64
+at_capacity: true
+going_guest_count: 100
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["Tsrt5RrXDpRRnyQ3jTKVb7sOisl1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 75
-remaining_capacity: 7
-total_guest_count: 77
+max_capacity: 100
+remaining_capacity: 0
+canceled: false
 approved_guest_count: 0
 local_image: "images/0BKvQ3xufkQ7kvMMKcZN.png"
-canceled: false
 ---
 
 # Board Games & Chill @
@@ -38,7 +37,8 @@ canceled: false
 **Hosts:** Mentor Me Collective, Apache Beam, MeshIQ
 **When:** Thursday, June 4, 2026 · 11:00am–2:00pm ET
 **Where:** Pier 57 · 25 11th Ave, New York, NY 10011 · Hudson Yards
-**Capacity:** capped at 75 · 68 taken, 7 remaining
+**Capacity:** capped at 100 · 100 taken, 0 remaining · ⚠ **FULL**
+**Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/0BKvQ3xufkQ7kvMMKcZN
 **Map:** https://www.google.com/maps/search/?api=1&query=25%2011th%20Ave%2C%20New%20York%2C%20NY%2010011
 
@@ -60,10 +60,6 @@ Come for the games. Stay for the community.
 
 June 4th | 11AM to 2PM | Pier 57, NYC
 Hosted by Mentor Me Collective
-
-
-
-
 
 
 

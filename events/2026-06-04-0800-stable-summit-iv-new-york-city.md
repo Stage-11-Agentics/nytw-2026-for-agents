@@ -11,21 +11,20 @@ host: "Stable Summit"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/JBz0cmetzCNNmrxKhAfI"
 public_short_url: "https://go.partiful.com/hG37SCrh"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F6alkJKsV5gMEFIuKpwS7bod8qDC3%2Fa-nxuqVku6hDrAZ-rvA-I"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F6alkJKsV5gMEFIuKpwS7bod8qDC3%2Fa-nxuqVku6hDrAZ-rvA-I?alt=media&token=a2ea27bc-817e-4121-9a9d-303c0618c47d"
 visibility: "public"
 at_capacity: false
-going_guest_count: 1
+going_guest_count: 41
 badges: []
 fetch_status: ok
 owner_count: 1
 owner_ids: ["6alkJKsV5gMEFIuKpwS7bod8qDC3"]
 is_capped: true
 max_capacity: 500
-remaining_capacity: 498
-total_guest_count: 3
+remaining_capacity: 459
+canceled: false
 approved_guest_count: 0
 local_image: "images/JBz0cmetzCNNmrxKhAfI.png"
-canceled: false
 ---
 
 # Stable Summit IV: New York City
@@ -35,7 +34,7 @@ canceled: false
 **Hosts:** Stable Summit
 **When:** Thursday, June 4, 2026 · 8:00am–5:00pm ET
 **Where:** SoHo
-**Capacity:** capped at 500 · 2 taken, 498 remaining
+**Capacity:** capped at 500 · 41 taken, 459 remaining
 **RSVP:** https://partiful.com/e/JBz0cmetzCNNmrxKhAfI
 
 ### Hosts on Partiful
@@ -50,10 +49,6 @@ Hosted by Curve. Tickets need to be purchased on the website. Venue will be disc
 Taking place during NY Tech Week, Stable Summit IV will expand beyond issuance and regulation to focus on distribution, integration and real-world usage, including how stablecoins interface with existing payment systems, enterprise platforms and consumer-facing products. 
  
 This is Stable Summit IV.
-
-
-
-
 
 
 

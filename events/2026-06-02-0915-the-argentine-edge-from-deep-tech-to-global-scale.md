@@ -8,26 +8,20 @@ end_time: "10:45am ET"
 start_iso: "2026-06-02T13:15:00.000Z"
 end_iso: "2026-06-02T14:45:00.000Z"
 host: "Consulate General of Argentina in New York"
-venue_name: "Consulate General Of Argentina"
-venue_address: "12 W 56th St, New York, NY 10019"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/BlZgZXgnXauVuQtAvgTc"
 public_short_url: "https://go.partiful.com/uLsFMzzg"
-google_maps: "https://www.google.com/maps/search/?api=1&query=12%20W%2056th%20St%2C%20New%20York%2C%20NY%2010019"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FUFLWR7fz5AmfgETqvyYh%2Fc4xlG52eQRsyum-Ydlmvs"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FUFLWR7fz5AmfgETqvyYh%2Fc4xlG52eQRsyum-Ydlmvs?alt=media&token=2b257a5d-3f33-4187-b0a3-291c456cd4fe"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 14
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["UFLWR7fz5AmfgETqvyYh", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 16
-approved_guest_count: 0
-local_image: "images/BlZgZXgnXauVuQtAvgTc.jpg"
 canceled: false
+local_image: "images/BlZgZXgnXauVuQtAvgTc.jpg"
 ---
 
 # The Argentine Edge: From Deep Tech to Global Scale
@@ -36,11 +30,9 @@ canceled: false
 
 **Hosts:** Consulate General of Argentina in New York  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 9:15am–10:45am ET
-**Where:** Consulate General Of Argentina · 12 W 56th St, New York, NY 10019 · Midtown
-**Going:** 14 of 16
+**Where:** Midtown
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/BlZgZXgnXauVuQtAvgTc
-**Map:** https://www.google.com/maps/search/?api=1&query=12%20W%2056th%20St%2C%20New%20York%2C%20NY%2010019
 
 ### Hosts on Partiful
 
@@ -56,17 +48,13 @@ A high-impact showcase of Argentina’s Knowledge Economy, featuring leading com
 
 Speakers:
 
-   - Argencon
+- Jerónimo Vargas-  President at Aconcagua Software Firm (ASF)
+- Melisa de Carlo, Head of Marketing & Digital Experience at Baufest
+- Nahuel Franchi, Executive Director - Globant Enterprise AI & Globant CODA
 
-   - Globant
-
-   - Baufest
+Moderador: Leandro Mora Alfonsín, Executive Director at Argencon
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

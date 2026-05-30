@@ -12,22 +12,18 @@ neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/ClDoZdTBs7mmjqoMw3k2"
 public_short_url: "https://go.partiful.com/atLyhtt3"
 google_maps: "https://www.google.com/maps/search/?api=1&query=124%20E%2014th%20St%2C%20New%20York%2C%20NY%2010003"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FKqxeGQFUvpN63AWW46ry4jK1cL73%2FbyFxd0j_vs77UA76nRK_u"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FKqxeGQFUvpN63AWW46ry4jK1cL73%2Fa1gcfEZk0y7ZpJYa5KxiM?alt=media&token=0760ee33-130e-4640-ad28-17acf6f60b1a"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 44
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["KqxeGQFUvpN63AWW46ry4jK1cL73", "7DFu4rITofNzKIjA7hCx", "q6dM7T4HQ7hUuoWJ1AGYlFAaEEJ2"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 77
-total_guest_count: 44
-approved_guest_count: 23
-local_image: "images/ClDoZdTBs7mmjqoMw3k2.png"
 canceled: false
+local_image: "images/ClDoZdTBs7mmjqoMw3k2.png"
 ---
 
 # from PMF to Scale! If Your GTM doesn't scale, let's build an agentic GTM system
@@ -37,7 +33,7 @@ canceled: false
 **Hosts:** DragonflyAI Consulting, Civic Hall  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:30pm ET
 **Where:** Civic Hall · 124 E 14th St, New York, NY 10003 · Chelsea
-**Capacity:** capped at 100 · 23 taken, 77 remaining
+**Capacity:** capped at 100
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ClDoZdTBs7mmjqoMw3k2
 **Map:** https://www.google.com/maps/search/?api=1&query=124%20E%2014th%20St%2C%20New%20York%2C%20NY%2010003
@@ -62,10 +58,6 @@ Where should you start? RSVP to receive via email a free GTM assessment that tak
 Come ready to work!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

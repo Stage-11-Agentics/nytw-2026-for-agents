@@ -14,20 +14,18 @@ neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/RvVuxFKB01u59pmVZnTE"
 public_short_url: "https://go.partiful.com/vDjwl9LF"
 google_maps: "https://www.google.com/maps/search/?api=1&query=180%20Orchard%20St%2C%20FL%2015%2C%20New%20York%2C%20NY%2010002"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FA1xo1YqxZhPcirnlNunLRsxd69e2%2Fi165tgTh6HbtZfh6Nz6LM"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FA1xo1YqxZhPcirnlNunLRsxd69e2%2F30Ciw9Uso1QF1CKky8bhL?alt=media&token=574b94b8-4525-4d6f-ad51-32b838d9d5b9"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 396
 badges: []
 fetch_status: ok
 owner_count: 6
 owner_ids: ["A1xo1YqxZhPcirnlNunLRsxd69e2", "rDiTgJA6A3hVV9NiCrGtS30uA3j2", "YVULHUzkzuUf4LWCoF5sQikuA7F2", "7DFu4rITofNzKIjA7hCx", "1rkcpX4WamV4YaZZGXeWNKoJkMc2", "eNKl6SbdlhVYrxUCzuJt2iLGHOc2"]
 is_capped: false
-total_guest_count: 406
-approved_guest_count: 115
-local_image: "images/RvVuxFKB01u59pmVZnTE.png"
 canceled: false
+approved_guest_count: 157
+local_image: "images/RvVuxFKB01u59pmVZnTE.png"
 ---
 
 # MATCH HOUSE 
@@ -39,7 +37,7 @@ Founders, Investors, Operators](images/RvVuxFKB01u59pmVZnTE.png)
 **Hosts:** MatchPlay Ventures, Boop, FirstGlance  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 12:00pm–5:00pm ET
 **Where:** Mr. Purple · 180 Orchard St, FL 15, New York, NY 10002 · Flatiron
-**Going:** 396 of 406
+**Going:** 157
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/RvVuxFKB01u59pmVZnTE
 **Map:** https://www.google.com/maps/search/?api=1&query=180%20Orchard%20St%2C%20FL%2015%2C%20New%20York%2C%20NY%2010002
@@ -69,13 +67,25 @@ Schedule:
      - Fireside Chat w/ Ronnen Harrary - founder of SPIN Masters
 4PM - Happy hour
 
+In partnership with:
+
+Everclear (www.everclearmarketing.com): Marketing that drives venture-scale exits.
+KPMG Private / Emerging Growth (https://kpmg.com/us/en/industries/emerging-growth.html)
+Agency (www.getagency.com): Security and compliance for SaaS startups.
+Amazatic (www.amazatic.com): Affordable, flexible global development expertise.
+SHOPLINE (www.shopline.com): Global commerce platform for scaling brands.
+TKN Tyson (www.tkntysonlaw.com): Helping startups & funds with unique legal needs.
+
+Our Ecosystem Partners
+
+Leave Normal Behind: Think tank for human flourishing.
+Introstars: Super connectors trading B2B referrals.
+Playhouse: Newsletter community for curious builders.
+Narrativ by AK: Helping founders & brands turn their story into revenue. 
+
 This event is a part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
 
 Interested in partnering? cal.com/horaciorilo/match-house-partnership
-
-
-
-
 
 
 

@@ -7,15 +7,14 @@ start_time: "12:00pm ET"
 end_time: "4:00pm ET"
 start_iso: "2026-06-05T16:00:00.000Z"
 end_iso: "2026-06-05T20:00:00.000Z"
-host: "JEA Advertising, InsureMEP"
+host: "Johnson Edman Adv., InsureMEP"
 neighborhood: "Meatpacking District"
 rsvp_url: "https://partiful.com/e/ncMRzEENiRelhy8yHSIM"
 public_short_url: "https://go.partiful.com/Dc8hTSRc"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FdDZamIWfPeaomWI5OwK6ApngmL23%2F2G5YhYWaQ3GkYoKP03KiX"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FdDZamIWfPeaomWI5OwK6ApngmL23%2F2G5YhYWaQ3GkYoKP03KiX?alt=media&token=83f2e709-8f0d-4153-ae2c-f09a56158149"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 10
 badges: []
 fetch_status: ok
 owner_count: 3
@@ -23,17 +22,16 @@ owner_ids: ["dDZamIWfPeaomWI5OwK6ApngmL23", "7DFu4rITofNzKIjA7hCx", "zOaKIJaaTIW
 is_capped: true
 max_capacity: 250
 remaining_capacity: 246
-total_guest_count: 11
+canceled: false
 approved_guest_count: 4
 local_image: "images/ncMRzEENiRelhy8yHSIM.jpg"
-canceled: false
 ---
 
 # The City Hacks the State: Part 2 - Hackathon
 
 ![The City Hacks the State: Part 2 - Hackathon](images/ncMRzEENiRelhy8yHSIM.jpg)
 
-**Hosts:** JEA Advertising, InsureMEP  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Johnson Edman Adv., InsureMEP  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 12:00pm–4:00pm ET
 **Where:** Meatpacking District
 **Capacity:** capped at 250 · 4 taken, 246 remaining
@@ -62,10 +60,6 @@ What to expect:
 • Direct path to internships & apprenticeships
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

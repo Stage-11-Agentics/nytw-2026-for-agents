@@ -11,19 +11,18 @@ host: "XLAI"
 neighborhood: "Upper East Side"
 rsvp_url: "https://partiful.com/e/0drPw9UHAL5xfy3TvITt"
 public_short_url: "https://go.partiful.com/jaB1d1bE"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F4r1CIfaQQQPa4kMHUpZpu2Kyl2k2%2FX0FED6mgxRPDdPc4dY6Im"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F4r1CIfaQQQPa4kMHUpZpu2Kyl2k2%2FX0FED6mgxRPDdPc4dY6Im?alt=media&token=92d749df-a791-459b-a053-6b90bb1a591d"
 visibility: "public"
 at_capacity: false
-going_guest_count: 153
+going_guest_count: 274
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["4r1CIfaQQQPa4kMHUpZpu2Kyl2k2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 170
+canceled: false
 approved_guest_count: 0
 local_image: "images/0drPw9UHAL5xfy3TvITt.png"
-canceled: false
 ---
 
 # Friday Night Disco
@@ -33,7 +32,7 @@ canceled: false
 **Hosts:** XLAI  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 7:00pm–12:00am ET
 **Where:** Upper East Side
-**Going:** 153 of 170
+**Going:** 274
 **RSVP:** https://partiful.com/e/0drPw9UHAL5xfy3TvITt
 
 ### Hosts on Partiful
@@ -75,10 +74,6 @@ Come through early. Stay too late.
 
 —
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

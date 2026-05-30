@@ -13,16 +13,14 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 95
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["sQVJzncM2wPqTWArLX7YQONxE6d2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 95
-approved_guest_count: 0
-local_image: "images/ldlqu4a7ndyU37GIi7X0.png"
 canceled: false
+approved_guest_count: 30
+local_image: "images/ldlqu4a7ndyU37GIi7X0.png"
 ---
 
 # Healthcare Innovation Night
@@ -32,7 +30,7 @@ canceled: false
 **Hosts:** Aiwomenfounders  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 3:00pm ET
 **Where:** Flatiron
-**Going:** 95
+**Going:** 30
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ldlqu4a7ndyU37GIi7X0
 
@@ -49,10 +47,6 @@ Learn more at www.tech-week.com.
 Fireside chat with a healthcare leader , followed by a panel of ai innovation from policy makers, builders, clinicians and operators organized by Owle Ai
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

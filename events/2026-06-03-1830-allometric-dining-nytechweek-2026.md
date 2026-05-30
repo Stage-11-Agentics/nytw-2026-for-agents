@@ -7,18 +7,17 @@ start_time: "6:30pm ET"
 end_time: "9:30pm ET"
 start_iso: "2026-06-03T22:30:00.000Z"
 end_iso: "2026-06-04T01:30:00.000Z"
-host: "Dispatch Ventures, Allometry"
+host: "Allometry, Dispatch Ventures"
 venue_name: "Greenpoint"
 venue_address: "Greenpoint, Brooklyn, New York, NY"
 neighborhood: "Lower East Side"
 rsvp_url: "https://partiful.com/e/ngqSYGVrZpgvkP9AuoFT"
 public_short_url: "https://go.partiful.com/lFfWjSHg"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Greenpoint%2C%20Greenpoint%2C%20Brooklyn%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F2nqkXmmGpueUD1Co0FMa%2Fp2PNzTDODhsKW2P72iWkX"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F2nqkXmmGpueUD1Co0FMa%2Fp2PNzTDODhsKW2P72iWkX?alt=media&token=419ca72e-6419-41cb-8650-c6d36151ad74"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 360
 badges: []
 fetch_status: ok
 owner_count: 6
@@ -26,17 +25,16 @@ owner_ids: ["2nqkXmmGpueUD1Co0FMa", "7DFu4rITofNzKIjA7hCx", "zN3pCoUusHhnvuUWqrg
 is_capped: true
 max_capacity: 12
 remaining_capacity: 12
-total_guest_count: 360
+canceled: false
 approved_guest_count: 0
 local_image: "images/ngqSYGVrZpgvkP9AuoFT.png"
-canceled: false
 ---
 
 # Allometric Dining #NYTechWeek 2026
 
 ![Allometric Dining #NYTechWeek 2026](images/ngqSYGVrZpgvkP9AuoFT.png)
 
-**Hosts:** Dispatch Ventures, Allometry  _(+4 more host(s) on Partiful — see description for full list)_
+**Hosts:** Allometry, Dispatch Ventures  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:30pm–9:30pm ET
 **Where:** Greenpoint · Greenpoint, Brooklyn, New York, NY · Lower East Side
 **Capacity:** capped at 12 · 0 taken, 12 remaining
@@ -91,10 +89,6 @@ If you sit at one of those tables, write to hello@allometry.com.
 
 
 This event is part of #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at tech-week.com.
-
-
-
-
 
 
 

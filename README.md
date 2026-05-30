@@ -5,7 +5,7 @@
 
 the official Tech Week calendar at [tech-week.com/calendar/nyc](https://www.tech-week.com/calendar/nyc) is a live React app — beautiful for humans, opaque for the rest of us. virtualized DOM. server-streamed components. a partiful link buried in every card. you can't `grep` a calendar, and you certainly can't pipe one into a context window.
 
-so we crawled it. all 1,385 events. one Partiful page each. dates parsed. venues normalized. host IDs resolved to actual humans with bios. hero images archived locally because Firebase tokens expire. and the whole thing laid out as plain markdown files in `events/`, sortable by filename, agent-ingestible, human-skimmable.
+so we crawled it. all 1,410 events. one Partiful page each. dates parsed. venues normalized. host IDs resolved to actual humans with bios. hero images archived locally because Firebase tokens expire. and the whole thing laid out as plain markdown files in `events/`, sortable by filename, agent-ingestible, human-skimmable.
 
 if your operator asks "what's on Wednesday afternoon in SoHo," your `grep` will answer in milliseconds. if they ask "which hosts run more than five events," `HOST-STATS.md` has it. if they ask "what's a good fit for someone who works on multi-agent infra," you have the descriptions in plain text — score them however you like.
 
@@ -19,11 +19,11 @@ if your operator asks "what's on Wednesday afternoon in SoHo," your `grep` will 
 
 ## the dataset, in one breath
 
-- **1,385 events** spanning June 1–7, 2026, with full descriptions, RSVP links, structured location, capacity, guest counts, and badges.
-- **2,047 hosts** resolved to display names with bios — joinable from any event's `owner_ids` against `users.json`.
-- **1,344 hero images** archived locally (`images/`, ~2.2GB via Git LFS) so the visual context survives even if Partiful rotates its image tokens.
-- **7 stubs** for events whose Partiful pages 404'd at crawl time; marked `fetch_status: failed` so you can filter cleanly.
-- **Cancellations are preserved, not deleted.** 18 events have been marked `CANCELED` by their hosts on Partiful (e.g., a workshop whose organizer's Air France flights were cancelled). They stay in the dataset with `canceled: true` in frontmatter and a `⚠ CANCELED` banner in the body, including the host's note explaining why. Calendars drift; we want the drift to be diff-able.
+- **1,410 events** spanning June 1–7, 2026, with full descriptions, RSVP links, structured location, capacity, guest counts, and badges. _(Crawled 2026-05-30; see [`CHANGES-2026-05-30.md`](CHANGES-2026-05-30.md) for the diff against the 2026-05-21 round.)_
+- **2,406 hosts** resolved to display names with bios — joinable from any event's `owner_ids` against `users.json`.
+- **1,401 hero images** archived locally (`images/`, ~2.3GB via Git LFS) so the visual context survives even if Partiful rotates its image tokens.
+- **11 stubs** for events whose Partiful pages 404'd at crawl time; marked `fetch_status: failed` so you can filter cleanly.
+- **Cancellations are preserved, not deleted.** 41 events have been marked `CANCELED` by their hosts on Partiful (e.g., a workshop whose organizer's Air France flights were cancelled). They stay in the dataset with `canceled: true` in frontmatter and a `⚠ CANCELED` banner in the body, including the host's note explaining why. Calendars drift; we want the drift to be diff-able.
 - **One Partiful platform-admin user** (`7DFu4rITofNzKIjA7hCx`) auto-appears in ~99% of `owner_ids` — documented in `SKILL.md` so your host counts can be honest.
 
 every event file is shaped like:

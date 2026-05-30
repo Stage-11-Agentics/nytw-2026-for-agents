@@ -12,20 +12,18 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/0CnNiFTmqb0m0QqQkoob"
 public_short_url: "https://go.partiful.com/tyu40sCs"
 google_maps: "https://www.google.com/maps/search/?api=1&query=38%20W%2026th%20St%2C%20New%20York%2C%20NY%2010010"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FeNKl6SbdlhVYrxUCzuJt2iLGHOc2%2FbbZ_TzJuxM7zA4y78WcOd"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FeNKl6SbdlhVYrxUCzuJt2iLGHOc2%2FbbZ_TzJuxM7zA4y78WcOd?alt=media&token=01497221-c698-46ab-b5a6-09d27beb0f2f"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 194
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["eNKl6SbdlhVYrxUCzuJt2iLGHOc2", "7DFu4rITofNzKIjA7hCx", "ltsFXKxoutepvrloyWZFe8xaSGm1"]
 is_capped: false
-total_guest_count: 202
-approved_guest_count: 139
-local_image: "images/0CnNiFTmqb0m0QqQkoob.avif"
 canceled: false
+approved_guest_count: 219
+local_image: "images/0CnNiFTmqb0m0QqQkoob.avif"
 ---
 
 # Gather 01 by 165 Global: NYC Launch Party -  for Investors and founders
@@ -35,7 +33,7 @@ canceled: false
 **Hosts:** 165 Global  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 8:00pm ET
 **Where:** Ploume · 38 W 26th St, New York, NY 10010 · Midtown
-**Going:** 194 of 202
+**Going:** 219
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/0CnNiFTmqb0m0QqQkoob
 **Map:** https://www.google.com/maps/search/?api=1&query=38%20W%2026th%20St%2C%20New%20York%2C%20NY%2010010
@@ -98,10 +96,6 @@ Alcohol Policy: This event may serve alcohol. You must be 21 years of age or old
 Changes and Cancellations: Event details including time, venue, and programming are subject to change. Organizers will make reasonable efforts to notify registered guests of any material changes.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

@@ -11,22 +11,20 @@ host: "GRAIL, Cloudonix, Inc"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/glbUe1VF4t4MRsDbktVx"
 public_short_url: "https://go.partiful.com/l9CcSbSQ"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FHurf6uog36ZG2LQfgGWzAnI16Vx2%2Fsb4tyOKC2cB5LkwOYRyRY"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FHurf6uog36ZG2LQfgGWzAnI16Vx2%2Fsb4tyOKC2cB5LkwOYRyRY?alt=media&token=bbead620-9932-46a2-aed4-e8fded6a3d0c"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 86
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["Hurf6uog36ZG2LQfgGWzAnI16Vx2", "LcZD2hHcN8bugyJLSW7lnXD2N4k1", "7DFu4rITofNzKIjA7hCx", "q8zVidvw8dYBmivPk2IBKMDl5YG2"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 25
-total_guest_count: 86
-approved_guest_count: 75
-local_image: "images/glbUe1VF4t4MRsDbktVx.png"
+remaining_capacity: -8
 canceled: false
+approved_guest_count: 108
+local_image: "images/glbUe1VF4t4MRsDbktVx.png"
 ---
 
 # Building AI Agents for Science
@@ -36,7 +34,8 @@ canceled: false
 **Hosts:** GRAIL, Cloudonix, Inc  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 1:00pm–3:00pm ET
 **Where:** Financial District
-**Capacity:** capped at 100 · 75 taken, 25 remaining
+**Capacity:** capped at 100 · 108 taken, -8 remaining
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/glbUe1VF4t4MRsDbktVx
 
@@ -83,10 +82,6 @@ Duration
 2-hour
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com. This event is sponsored by The Front Yard at Pace University.  Learn more about their entrepreneur program at https://www.linkedin.com/company/the-front-yard-at-pace-university
-
-
-
-
 
 
 

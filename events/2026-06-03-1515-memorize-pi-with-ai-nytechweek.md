@@ -8,26 +8,21 @@ end_time: "6:15pm ET"
 start_iso: "2026-06-03T19:15:00.000Z"
 end_iso: "2026-06-03T22:15:00.000Z"
 host: "CopyCat Language"
-venue_name: "St Marks Comedy Club"
-venue_address: "12 St Marks Pl, New York, NY 10003"
 neighborhood: "East Village"
 rsvp_url: "https://partiful.com/e/MhtX7VF0KCx9iVNYduLe"
 public_short_url: "https://go.partiful.com/9lcsXquw"
-google_maps: "https://www.google.com/maps/search/?api=1&query=12%20St%20Marks%20Pl%2C%20New%20York%2C%20NY%2010003"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FOlW3zpauetUfdXwYBPT8sxcvmrc2%2FmECv6cFsNl6vRXjDC-P7e"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FOlW3zpauetUfdXwYBPT8sxcvmrc2%2FmECv6cFsNl6vRXjDC-P7e?alt=media&token=04c10d24-b080-40a5-b900-7f6e6ea31379"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 17
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["OlW3zpauetUfdXwYBPT8sxcvmrc2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 17
-approved_guest_count: 17
-local_image: "images/MhtX7VF0KCx9iVNYduLe.png"
 canceled: false
+approved_guest_count: 16
+local_image: "images/MhtX7VF0KCx9iVNYduLe.png"
 ---
 
 # Memorize PI with AI - #NYTechweek
@@ -36,11 +31,10 @@ canceled: false
 
 **Hosts:** CopyCat Language  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 3:15pm–6:15pm ET
-**Where:** St Marks Comedy Club · 12 St Marks Pl, New York, NY 10003 · East Village
-**Going:** 17
+**Where:** East Village
+**Going:** 16
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/MhtX7VF0KCx9iVNYduLe
-**Map:** https://www.google.com/maps/search/?api=1&query=12%20St%20Marks%20Pl%2C%20New%20York%2C%20NY%2010003
 
 ### Hosts on Partiful
 
@@ -53,10 +47,6 @@ canceled: false
 Discover how AI tools and storytelling combine to help you memorize the first 100 digits of Pi—faster and easier than you’d expect.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

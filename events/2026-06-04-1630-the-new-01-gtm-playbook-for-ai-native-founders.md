@@ -14,20 +14,18 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/r0srpfriv3SWRcQEBVk7"
 public_short_url: "https://go.partiful.com/LSwWm6Ua"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F1INO9RjWjjdPf5ghrSBfxvew3sk2%2F89S3999NjIOpdmLdlWSGr"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F1INO9RjWjjdPf5ghrSBfxvew3sk2%2F89S3999NjIOpdmLdlWSGr?alt=media&token=035ac9dc-14ac-4cba-b928-eff58e9d1828"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 181
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["1INO9RjWjjdPf5ghrSBfxvew3sk2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 184
-approved_guest_count: 22
-local_image: "images/r0srpfriv3SWRcQEBVk7.png"
 canceled: false
+approved_guest_count: 77
+local_image: "images/r0srpfriv3SWRcQEBVk7.png"
 ---
 
 # The New 0→1 GTM Playbook for AI-Native Founders
@@ -37,7 +35,7 @@ canceled: false
 **Hosts:** Digitalista  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 4:30pm–6:30pm ET
 **Where:** Manhattan · Manhattan, New York, NY · Midtown
-**Going:** 181 of 184
+**Going:** 77
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/r0srpfriv3SWRcQEBVk7
 **Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -54,7 +52,7 @@ Join Digitalista during NYTechWeek for a curated founder conversation on what 0�
 
 This is designed as a high-signal founder room, not another generic GTM panel.
 
-We’ll bring together AI-native founders, B2B SaaS operators, GTM-focused investors, and category thinkers to unpack how founders move from scattered customer calls, vague ICPs, founder-led sales, and disconnected experiments into a repeatable system for learning, messaging, growth, and revenue.
+We’re bringing together early-stage investors, AI-native GTM operators, and founders/operators building in fast-moving markets to unpack how teams move from scattered customer calls, vague ICPs, founder-led sales, and disconnected experiments into a repeatable system for learning, messaging, growth, and revenue.
 
 4:30–5:00pm - Arrival & networking
 5:00–5:45pm - Panel
@@ -73,15 +71,20 @@ Potential discussion themes:
 
 – how to build a GTM system before hiring a full GTM team
 
-Confirmed speakers and venue TBC soon.
+– how to move from scattered experiments to a repeatable GTM workflow
+
+Speakers include:
+
+– Jay Bhandari, GTM at Clay
+– Nikolai Kirpichikov, Partner at AltaIR Capital
+– Alexander Zemlyak, Partner at Geek Ventures
+– Additional AI-native founder / operator speaker TBA
+
+Venue: Midtown Manhattan. Exact address will be shared with approved guests 24 hours before the event.
 
 Hosted by Digitalista, an AI-native GTM system for early-stage B2B SaaS and AI founders. Digitalista helps founders turn customer signals, positioning, and experiments into a repeatable growth engine.
 
 This event is part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

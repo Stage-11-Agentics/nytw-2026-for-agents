@@ -14,19 +14,18 @@ neighborhood: "Nomad"
 rsvp_url: "https://partiful.com/e/Mt1yixuqsZw3l7qHMq3T"
 public_short_url: "https://go.partiful.com/yBkXxzK8"
 google_maps: "https://www.google.com/maps/search/?api=1&query=29%20Little%20W%2012th%20St%2C%20New%20York%2C%20NY%2010014"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FCjbTluOMkUhnrWyl2RALBgZjmLi1%2Fey54fvVE1N26NKHewHUt1"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FCjbTluOMkUhnrWyl2RALBgZjmLi1%2Fey54fvVE1N26NKHewHUt1?alt=media&token=da73c42d-c3db-41f3-bafd-22bb2dfc5815"
 visibility: "public"
 at_capacity: false
-going_guest_count: 27
+going_guest_count: 42
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["CjbTluOMkUhnrWyl2RALBgZjmLi1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 30
+canceled: false
 approved_guest_count: 0
 local_image: "images/Mt1yixuqsZw3l7qHMq3T.png"
-canceled: false
 ---
 
 # Building with the Bard: Remixing Shakespeare
@@ -36,7 +35,7 @@ canceled: false
 **Hosts:** Build First  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 9:30am–12:00pm ET
 **Where:** Betaworks Studios · 29 Little W 12th St, New York, NY 10014 · Nomad
-**Going:** 27 of 30
+**Going:** 42
 **RSVP:** https://partiful.com/e/Mt1yixuqsZw3l7qHMq3T
 **Map:** https://www.google.com/maps/search/?api=1&query=29%20Little%20W%2012th%20St%2C%20New%20York%2C%20NY%2010014
 
@@ -86,10 +85,6 @@ The best way to learn how to build with AI is to build something through, end-to
 ​—
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

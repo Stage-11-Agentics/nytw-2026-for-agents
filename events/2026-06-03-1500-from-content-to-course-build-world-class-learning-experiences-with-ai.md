@@ -8,26 +8,21 @@ end_time: "5:00pm ET"
 start_iso: "2026-06-03T19:00:00.000Z"
 end_iso: "2026-06-03T21:00:00.000Z"
 host: "PrismLearn, NexPost"
-venue_name: "NoMad"
-venue_address: "NoMad, Manhattan, New York, NY"
 neighborhood: "Nomad"
 rsvp_url: "https://partiful.com/e/1HMgJJdddcGD4CQChLYG"
 public_short_url: "https://go.partiful.com/wAjdsUXC"
-google_maps: "https://www.google.com/maps/search/?api=1&query=NoMad%2C%20NoMad%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FwgY7gTxfPfRUZRBTn51Fy5Tmex72%2FLnhbLr68yiO3jG-qXjICQ"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FwgY7gTxfPfRUZRBTn51Fy5Tmex72%2FLnhbLr68yiO3jG-qXjICQ?alt=media&token=8ccb0f41-f2a3-41c4-8e62-30b360efa667"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 42
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["wgY7gTxfPfRUZRBTn51Fy5Tmex72", "7DFu4rITofNzKIjA7hCx", "xamEr6EWU0cgsySD7lXTe84U8Em2"]
 is_capped: false
-total_guest_count: 42
-approved_guest_count: 39
-local_image: "images/1HMgJJdddcGD4CQChLYG.png"
 canceled: false
+approved_guest_count: 56
+local_image: "images/1HMgJJdddcGD4CQChLYG.png"
 ---
 
 # From Content to Course 
@@ -38,11 +33,10 @@ Build World Class Learning Experiences with AI](images/1HMgJJdddcGD4CQChLYG.png)
 
 **Hosts:** PrismLearn, NexPost  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 3:00pm–5:00pm ET
-**Where:** NoMad · NoMad, Manhattan, New York, NY · Nomad
-**Going:** 42
+**Where:** Nomad
+**Going:** 56
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/1HMgJJdddcGD4CQChLYG
-**Map:** https://www.google.com/maps/search/?api=1&query=NoMad%2C%20NoMad%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -59,7 +53,7 @@ Most teams already have product docs, call transcripts, demos, and internal know
 
 This hands-on lab is led by Melissa Hamilton, Founder of PrismLearn, and Nia Joseph, AI Product Leader, and focuses on converting existing content into structured, repeatable learning systems.
 
-📍 Nomad, Manhattan, NYC (exact location TBD)
+📍 Workplayce, 154 West 70th Street, New York, NY
 📅 Tuesday, June 3
 ⏰ 3:00 PM – 5:00 PM
 
@@ -93,10 +87,6 @@ Come ready to turn knowledge into systems that drive revenue.
 Spots are limited. Save your spot.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

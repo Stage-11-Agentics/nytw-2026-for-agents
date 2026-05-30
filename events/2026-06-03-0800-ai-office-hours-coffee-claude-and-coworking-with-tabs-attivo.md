@@ -8,39 +8,33 @@ end_time: "4:30pm ET"
 start_iso: "2026-06-03T12:00:00.000Z"
 end_iso: "2026-06-03T20:30:00.000Z"
 host: "Tabs, Attivo"
-venue_name: "SoHo"
-venue_address: "SoHo, Manhattan, New York, NY"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/DGJ1CuMG1bUlTJN89gAi"
 public_short_url: "https://go.partiful.com/oUPKwbgJ"
-google_maps: "https://www.google.com/maps/search/?api=1&query=SoHo%2C%20SoHo%2C%20Manhattan%2C%20New%20York%2C%20NY"
 image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 108
 badges: []
 fetch_status: ok
-owner_count: 5
-owner_ids: ["SfaAvaMQxnvunqKAih9C", "RljyWMAkYyNrujAUIldJ7OA3d9Z2", "7DFu4rITofNzKIjA7hCx", "3EiNioKPZRQNyUnkk06lVjtOhGd2", "HvQVrZ3y1xQ1X8fwXZQ6sal28jA3"]
+owner_count: 6
+owner_ids: ["SfaAvaMQxnvunqKAih9C", "RljyWMAkYyNrujAUIldJ7OA3d9Z2", "7DFu4rITofNzKIjA7hCx", "3EiNioKPZRQNyUnkk06lVjtOhGd2", "HvQVrZ3y1xQ1X8fwXZQ6sal28jA3", "yaJJmif6p4XWSKH52tbcYDGaNY52"]
 is_capped: false
-total_guest_count: 111
-approved_guest_count: 3
-local_image: "images/DGJ1CuMG1bUlTJN89gAi.png"
 canceled: false
+approved_guest_count: 60
+local_image: "images/DGJ1CuMG1bUlTJN89gAi.png"
 ---
 
 # AI Office Hours: Coffee, Claude, and Coworking with Tabs & Attivo
 
 ![AI Office Hours: Coffee, Claude, and Coworking with Tabs & Attivo](images/DGJ1CuMG1bUlTJN89gAi.png)
 
-**Hosts:** Tabs, Attivo  _(+3 more host(s) on Partiful — see description for full list)_
+**Hosts:** Tabs, Attivo  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 8:00am–4:30pm ET
-**Where:** SoHo · SoHo, Manhattan, New York, NY · SoHo
-**Going:** 108 of 111
+**Where:** SoHo
+**Going:** 60
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/DGJ1CuMG1bUlTJN89gAi
-**Map:** https://www.google.com/maps/search/?api=1&query=SoHo%2C%20SoHo%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -48,6 +42,7 @@ canceled: false
 - [Louise Ng](https://partiful.com/u/RljyWMAkYyNrujAUIldJ7OA3d9Z2)
 - [Attivo Partners](https://partiful.com/u/3EiNioKPZRQNyUnkk06lVjtOhGd2)
 - [Daniel Rosenthal](https://partiful.com/u/HvQVrZ3y1xQ1X8fwXZQ6sal28jA3)
+- [Kristen](https://partiful.com/u/yaJJmif6p4XWSKH52tbcYDGaNY52)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -76,10 +71,6 @@ Time: 8:00 AM – 4:30 PM
 Drop in anytime throughout the day.
 
 This event is part of #NYTechWeek — a week of events hosted by VCs and startups bringing together the tech ecosystem.
-
-
-
-
 
 
 

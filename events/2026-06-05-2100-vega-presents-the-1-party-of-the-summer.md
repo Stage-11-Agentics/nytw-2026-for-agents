@@ -9,22 +9,20 @@ host: "Vega"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/oXjXF7XulL335ng19B6b"
 public_short_url: "https://go.partiful.com/V4fDWrXk"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fo2meOCZYRdZ09wFQexRrdVcuboU2%2FP5iL5eIiMIcc-Lv9HRS2e"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fo2meOCZYRdZ09wFQexRrdVcuboU2%2FP5iL5eIiMIcc-Lv9HRS2e?alt=media&token=48c13df0-35d7-49a8-accb-5ba0e171bb24"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 286
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["I3x8IbKoWCakKZs0Xcg1ol9nr762", "o2meOCZYRdZ09wFQexRrdVcuboU2", "7DFu4rITofNzKIjA7hCx", "Fn3x6INVS3ZFGF66imM8"]
 is_capped: true
-max_capacity: 175
-remaining_capacity: 20
-total_guest_count: 289
-approved_guest_count: 155
-local_image: "images/oXjXF7XulL335ng19B6b.png"
+max_capacity: 270
+remaining_capacity: -18
 canceled: false
+approved_guest_count: 288
+local_image: "images/oXjXF7XulL335ng19B6b.png"
 ---
 
 # Vega Presents: The +1 Party of the Summer
@@ -34,7 +32,8 @@ canceled: false
 **Hosts:** Vega  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 9:00pm ET
 **Where:** SoHo
-**Capacity:** capped at 175 · 155 taken, 20 remaining
+**Capacity:** capped at 270 · 288 taken, -18 remaining
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/oXjXF7XulL335ng19B6b
 
@@ -56,10 +55,6 @@ Requirements:
 3. Send your +1 this partiful
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

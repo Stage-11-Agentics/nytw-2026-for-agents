@@ -13,32 +13,30 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/3utTkNZhe2NKwkVBuUdU"
 public_short_url: "https://go.partiful.com/MKtNSz9E"
 google_maps: "https://www.google.com/maps/search/?api=1&query=33%20W%2017th%20St%2C%20New%20York%2C%20NY%2010011"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FB9OiC628PCggMJK7aNHuusygU3U2%2FUNsqN790akDkDwgVxQDLu"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FB9OiC628PCggMJK7aNHuusygU3U2%2FUNsqN790akDkDwgVxQDLu?alt=media&token=47dd35b6-107a-4547-98e4-9b426a70ce27"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 121
 badges: []
 fetch_status: ok
-owner_count: 4
-owner_ids: ["ah4ZlSmU6LRwxxjfaDzaPJcqv5n1", "B9OiC628PCggMJK7aNHuusygU3U2", "7DFu4rITofNzKIjA7hCx", "nADjcMP0B8M1LFGrvy2g1iuhqn52"]
+owner_count: 5
+owner_ids: ["ah4ZlSmU6LRwxxjfaDzaPJcqv5n1", "B9OiC628PCggMJK7aNHuusygU3U2", "7DFu4rITofNzKIjA7hCx", "nADjcMP0B8M1LFGrvy2g1iuhqn52", "iBqgzhzeyrNZVKozvVot3apjeEZ2"]
 is_capped: true
-max_capacity: 125
-remaining_capacity: 27
-total_guest_count: 121
-approved_guest_count: 98
-local_image: "images/3utTkNZhe2NKwkVBuUdU.jpg"
+max_capacity: 150
+remaining_capacity: 10
 canceled: false
+approved_guest_count: 140
+local_image: "images/3utTkNZhe2NKwkVBuUdU.jpg"
 ---
 
 # She Ships: A Guided Build Session for Women with Ideas
 
 ![She Ships: A Guided Build Session for Women with Ideas](images/3utTkNZhe2NKwkVBuUdU.jpg)
 
-**Hosts:** Somarae, How I AI Podcast  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** Somarae, How I AI Podcast  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:30pm–8:00pm ET
 **Where:** 33 W 17th St, New York, NY 10011 · Midtown
-**Capacity:** capped at 125 · 98 taken, 27 remaining
+**Capacity:** capped at 150 · 140 taken, 10 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/3utTkNZhe2NKwkVBuUdU
 **Map:** https://www.google.com/maps/search/?api=1&query=33%20W%2017th%20St%2C%20New%20York%2C%20NY%2010011
@@ -50,12 +48,13 @@ Lovable & Connectd Global Ambassador
 🎤 TEDx & Keynote Speaker, Content Creator, Community Builder, Global Retreat Host_
 - [Brooke Gramer](https://partiful.com/u/B9OiC628PCggMJK7aNHuusygU3U2) — _I’m Brooke Gramer, the host of the weekly podcast How I AI. I interview founders, creatives, and operators about how they’re using AI in real life, what’s actually working, and what’s changing fast. I’m Miami-based and pretty plugged into the local tech scene, and I’m especially interested in the overlap of AI, wellness, creativity, and human potential. I love conversations that connect the dots and turn big ideas into real momentum._
 - [Kaila](https://partiful.com/u/nADjcMP0B8M1LFGrvy2g1iuhqn52)
+- [Roslyn Jin](https://partiful.com/u/iBqgzhzeyrNZVKozvVot3apjeEZ2)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
 ## Description
 
-She Ships is a 2-hour guided build session for women who have an idea and are ready to do something about it, in the room, live.
+She Ships is a 2-hour guided build session for women who have an idea and are ready to do something about it, in the room, live. (All attendees will receive 100 complimentary Lovable credits!)
 
 NO coding background required.
 NO competition.
@@ -65,9 +64,7 @@ HOSTS
 - Marian Bacol, Founder of Somarae + Lovable Global Ambassador
 - Brooke Gramer, Host of How I AI Podcast + AI Strategist
 
-She Ships walks you from raw idea to working product in a single session using Lovable and other AI tools. (All attendees will receive 100 complimentary Lovable credits!)
-
-At the end of the event, attendees can demo what you built to everyone and network with others in the tech community.
+She Ships walks you from raw idea to working product in a single session using Lovable and other AI tools. At the end of the event, attendees can demo what you built to everyone and network with others in the tech community.
 
 WHAT YOU’LL WALK THROUGH
 - Clarify and structure your idea before you touch a single tool
@@ -83,7 +80,7 @@ THIS IS FOR YOU IF YOU’RE A...
 - Creator, side-hustler, or anyone who just wants to make something for themselves
 
 OUR MISSION
-She Ships isn’t a hackathon. There’s no competition, no winners, no gatekeeping. Just women building in real time, being seen, and walking out knowing they can do this.
+She Ships isn’t a hackathon. There’s no competition, no winners, no gatekeeping. Just women building in real time, being seen, and walking out knowing they can do this. (All attendees will receive 100 complimentary Lovable credits!)
 
 Come with an idea. Leave with a product.
 
@@ -108,10 +105,6 @@ We value and appreciate our male allies. However, this particular workshop is de
 
 TICKETING
 This is a free event. Registration does not guarantee entry. Seats are limited based on venue capacity and desks are on a first come, first served basis.
-
-
-
-
 
 
 

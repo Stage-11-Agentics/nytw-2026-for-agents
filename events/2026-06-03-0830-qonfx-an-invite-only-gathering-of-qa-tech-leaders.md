@@ -8,25 +8,21 @@ end_time: "4:30pm ET"
 start_iso: "2026-06-03T12:30:00.000Z"
 end_iso: "2026-06-03T20:30:00.000Z"
 host: "The Test Tribe"
-venue_address: "159 W 25th St, New York, NY, United States"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/orQg3cOa8TT6n5TAgni0"
 public_short_url: "https://go.partiful.com/S9kiYmz3"
-google_maps: "https://www.google.com/maps/search/?api=1&query=159%20W%2025th%20St%2C%20New%20York%2C%20NY%2C%20United%20States"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FmgsKMNlwjqh2qiDxbsPw57cOqdw1%2Fyzl8n003QxpFPzXi4koLb"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FmgsKMNlwjqh2qiDxbsPw57cOqdw1%2Fyzl8n003QxpFPzXi4koLb?alt=media&token=447579a1-23a8-44c0-8769-79b40bc5b3a0"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 7
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["mgsKMNlwjqh2qiDxbsPw57cOqdw1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 7
-approved_guest_count: 1
-local_image: "images/orQg3cOa8TT6n5TAgni0.png"
 canceled: false
+approved_guest_count: 2
+local_image: "images/orQg3cOa8TT6n5TAgni0.png"
 ---
 
 # QonfX - An Invite-Only Gathering of QA & Tech Leaders
@@ -35,11 +31,10 @@ canceled: false
 
 **Hosts:** The Test Tribe  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 8:30am–4:30pm ET
-**Where:** 159 W 25th St, New York, NY, United States · Chelsea
-**Going:** 7
+**Where:** Chelsea
+**Going:** 2
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/orQg3cOa8TT6n5TAgni0
-**Map:** https://www.google.com/maps/search/?api=1&query=159%20W%2025th%20St%2C%20New%20York%2C%20NY%2C%20United%20States
 
 ### Hosts on Partiful
 
@@ -97,10 +92,6 @@ QonfX is brought to you by The Test Tribe, the World's Largest Software Testing/
 
 The Test Tribe is the world's largest Software Testing Community with over 900+ events, 45 offline chapters, and members in 136+ countries. They have run 26 large-scale Testing Conferences gathering thousands of professionals across the globe.
 Started in 2018 with a mission to give Testing Craft the glory it deserves, The Test Tribe co-creates smarter, prouder, and more confident testers, intending to provide life-altering growth to every serious Testing and Tech professional on the planet through community and technology.
-
-
-
-
 
 
 

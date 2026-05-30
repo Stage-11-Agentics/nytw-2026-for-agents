@@ -14,22 +14,20 @@ neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/dbFdiExJUT9aHL4FekHK"
 public_short_url: "https://go.partiful.com/CUd2DPiv"
 google_maps: "https://www.google.com/maps/search/?api=1&query=55%20Water%20St%2C%20New%20York%2C%20NY%2010041"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FPM0t58OCz1kg5yBM3zLy%2Fs4Xd3OKL-LHcJhT1RWomu"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FPM0t58OCz1kg5yBM3zLy%2Fs4Xd3OKL-LHcJhT1RWomu?alt=media&token=2664847f-cc5c-4b75-8cbe-bfd83457f767"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: true
-going_guest_count: 453
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["PM0t58OCz1kg5yBM3zLy", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 141
-remaining_capacity: -1
-total_guest_count: 458
-approved_guest_count: 142
-local_image: "images/dbFdiExJUT9aHL4FekHK.png"
+remaining_capacity: -13
 canceled: false
+approved_guest_count: 154
+local_image: "images/dbFdiExJUT9aHL4FekHK.png"
 ---
 
 # Future of Search: AI SEO, AEO Panel
@@ -39,7 +37,7 @@ canceled: false
 **Hosts:** Mucker Capital  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 2:30pm–3:30pm ET
 **Where:** Justworks - Headquarters · 55 Water St, New York, NY 10041 · Financial District
-**Capacity:** capped at 141 · 142 taken, -1 remaining
+**Capacity:** capped at 141 · 154 taken, -13 remaining
 **Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/dbFdiExJUT9aHL4FekHK
@@ -96,10 +94,6 @@ If you do not consent to being photographed or recorded, please withdraw your RS
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at
 
 www.tech-week.com
-
-
-
-
 
 
 

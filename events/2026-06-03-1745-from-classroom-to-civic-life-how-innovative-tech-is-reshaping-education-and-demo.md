@@ -9,21 +9,20 @@ host: "New Rising Ventures"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/Mj2iNm6MWK3WnCtIHaRb"
 public_short_url: "https://go.partiful.com/N7Ob16TA"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FyqDw3a93S2ZF0RThE1DninSTqLH2%2FQovgn1vaJU8MF9JQ-cC9h"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FhUK0qmvI0TQUJ1T5gWr4zLdNFe92%2FYJWM4cpKeqDQHQiarpqn_?alt=media&token=0a893129-b8d5-42a0-9d45-7f18c65a2df2"
 visibility: "public"
-at_capacity: false
-going_guest_count: 117
+at_capacity: true
+going_guest_count: 150
 badges: []
 fetch_status: ok
 owner_count: 5
 owner_ids: ["8T6Negdyeqg2lWHyYOc9V5JZDU82", "7DFu4rITofNzKIjA7hCx", "hUK0qmvI0TQUJ1T5gWr4zLdNFe92", "yqDw3a93S2ZF0RThE1DninSTqLH2", "tX3vaibCLgQCzAFfpmqdbrcPPVp1"]
 is_capped: true
-max_capacity: 130
-remaining_capacity: 12
-total_guest_count: 126
+max_capacity: 150
+remaining_capacity: 0
+canceled: false
 approved_guest_count: 0
 local_image: "images/Mj2iNm6MWK3WnCtIHaRb.png"
-canceled: false
 ---
 
 # From Classroom to Civic Life: How Innovative Tech Is Reshaping Education and Democracy
@@ -33,7 +32,8 @@ canceled: false
 **Hosts:** New Rising Ventures  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:45pm ET
 **Where:** Midtown
-**Capacity:** capped at 130 · 118 taken, 12 remaining
+**Capacity:** capped at 150 · 150 taken, 0 remaining · ⚠ **FULL**
+**Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/Mj2iNm6MWK3WnCtIHaRb
 
 ### Hosts on Partiful
@@ -54,10 +54,6 @@ Moderated by Liz Willen, editor-in-chief of The Hechinger Report, the event feat
 The event will include a networking reception with drinks and light bites, offering a unique chance to connect with professionals, foundations, investors and changemakers. Discover how education technology is shaping a more equitable and engaging future for all.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

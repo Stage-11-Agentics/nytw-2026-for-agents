@@ -11,23 +11,21 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/Y4qVEuhXoPZo3xGIptiA"
 public_short_url: "https://go.partiful.com/csiwhvtn"
 google_maps: "https://www.google.com/maps/search/?api=1&query=229%20W%2028th%20St%2C%20New%20York%2C%20NY%2010001"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FdiBWKUeogOQ7DF47t5PQ5OtXEPE3%2FM2V9KNpbFweISVZvd_5ob"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FdiBWKUeogOQ7DF47t5PQ5OtXEPE3%2FM2V9KNpbFweISVZvd_5ob?alt=media&token=b438c0ad-a678-4e29-b065-a98789b0b179"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 39
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["diBWKUeogOQ7DF47t5PQ5OtXEPE3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 39
-approved_guest_count: 0
-local_image: "images/Y4qVEuhXoPZo3xGIptiA.jpg"
 canceled: true
 canceled_at: "2026-05-13T14:42:53.603Z"
 canceled_by: "diBWKUeogOQ7DF47t5PQ5OtXEPE3"
 cancellation_message: "Very sorry folks - next year!"
+approved_guest_count: 0
+local_image: "images/Y4qVEuhXoPZo3xGIptiA.jpg"
 ---
 
 # Cyber threats in the AI Era
@@ -42,7 +40,6 @@ cancellation_message: "Very sorry folks - next year!"
 **Hosts:** How2Scale, Consulate General of Canada in New York
 **When:** Wednesday, June 3, 2026 · 6:00pm ET
 **Where:** 229 W 28th St, New York, NY 10001 · Midtown
-**Going:** 39
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Y4qVEuhXoPZo3xGIptiA
 **Map:** https://www.google.com/maps/search/?api=1&query=229%20W%2028th%20St%2C%20New%20York%2C%20NY%2010001
@@ -72,10 +69,6 @@ Connecting Canada’s strength in AI & cyber with NYC’s scale, capital, and en
 This event will be photographed and recorded. By registering and attending, you grant the organizers and their partners the right to use any photographs or video footage in which you may appear for marketing, communications, and promotional purposes, without compensation.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -14,32 +14,28 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/6FmuBjS60nrpePXnGWhC"
 public_short_url: "https://go.partiful.com/8wPhsNbA"
 google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fsd4kKBUFd2V0qGCDaQKt%2Fg8kaUGmof5ecAnGHBCNQ8"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F2LY7V7x5T1hEAMxdAN4VMVTNaB03%2Fpgt_DEArY2rzr3oQDU4Mn?alt=media&token=4e2e6997-86be-46c7-b82d-dee2cbe23fb1"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 5
 badges: []
 fetch_status: ok
-owner_count: 5
-owner_ids: ["2LY7V7x5T1hEAMxdAN4VMVTNaB03", "7DFu4rITofNzKIjA7hCx", "sd4kKBUFd2V0qGCDaQKt", "lbssDY0tVFbfUEsr44rjduNAQNj1", "2T4HfFnvnCQihOqNPJVq0DI1eFp2"]
+owner_count: 6
+owner_ids: ["2LY7V7x5T1hEAMxdAN4VMVTNaB03", "7DFu4rITofNzKIjA7hCx", "sd4kKBUFd2V0qGCDaQKt", "lbssDY0tVFbfUEsr44rjduNAQNj1", "2T4HfFnvnCQihOqNPJVq0DI1eFp2", "h6Ac7eP2fAYwPKvRrbxTwYa9W5r1"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 95
-total_guest_count: 5
-approved_guest_count: 0
-local_image: "images/6FmuBjS60nrpePXnGWhC.png"
 canceled: false
+local_image: "images/6FmuBjS60nrpePXnGWhC.png"
 ---
 
 # The Future of Healthcare: Innovation, Access, and Value
 
 ![The Future of Healthcare: Innovation, Access, and Value](images/6FmuBjS60nrpePXnGWhC.png)
 
-**Hosts:** Columbia Venture Community, Columbia University Mailman School of Public Health Alumni Board  _(+3 more host(s) on Partiful — see description for full list)_
+**Hosts:** Columbia Venture Community, Columbia University Mailman School of Public Health Alumni Board  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–8:00pm ET
 **Where:** New York, NY · New York, NY · Midtown
-**Capacity:** capped at 100 · 5 taken, 95 remaining
+**Capacity:** capped at 100
 **RSVP:** https://partiful.com/e/6FmuBjS60nrpePXnGWhC
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
 
@@ -53,6 +49,7 @@ Our mission is to foster entrepreneurship among Columbia University alumni, stud
 CVC is endorsed by Columbia University and is classified as a shared interest group (SIG) under the Columbia Alumni Association (CAA)._
 - [Lily](https://partiful.com/u/lbssDY0tVFbfUEsr44rjduNAQNj1)
 - [Grace Mammen](https://partiful.com/u/2T4HfFnvnCQihOqNPJVq0DI1eFp2)
+- [Elise Omaits](https://partiful.com/u/h6Ac7eP2fAYwPKvRrbxTwYa9W5r1)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -67,10 +64,6 @@ Attendees will gain insights into the key opportunities and challenges facing he
 This event is ideal for founders, clinicians, investors, and healthcare operators interested in the intersection of innovation, access, and value.
 
 This event is a part of #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -11,22 +11,21 @@ host: "EZ Visa LLC, DreamIT ESL"
 neighborhood: "Korea Town"
 rsvp_url: "https://partiful.com/e/RexRXYvIzwqZbEtws5Kt"
 public_short_url: "https://go.partiful.com/F6tuy5fm"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FOwmxRfAl6OTsJPqJnp2ZT0u2lrN2%2FjZwLy9rpjflWeuiYUtMVT"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FOwmxRfAl6OTsJPqJnp2ZT0u2lrN2%2FjZwLy9rpjflWeuiYUtMVT?alt=media&token=a8ab18e8-9e55-4d3e-a477-ea3108af3053"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 15
+going_guest_count: 71
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["OwmxRfAl6OTsJPqJnp2ZT0u2lrN2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 50
-remaining_capacity: 33
-total_guest_count: 18
+max_capacity: 75
+remaining_capacity: 4
+canceled: false
 approved_guest_count: 0
 local_image: "images/RexRXYvIzwqZbEtws5Kt.png"
-canceled: false
 ---
 
 # Land Your First U.S. Tech Opportunity
@@ -36,7 +35,7 @@ canceled: false
 **Hosts:** EZ Visa LLC, DreamIT ESL
 **When:** Tuesday, June 2, 2026 · 1:00pm–2:30pm ET
 **Where:** Korea Town
-**Capacity:** capped at 50 · 17 taken, 33 remaining
+**Capacity:** capped at 75 · 71 taken, 4 remaining
 **RSVP:** https://partiful.com/e/RexRXYvIzwqZbEtws5Kt
 
 ### Hosts on Partiful
@@ -71,10 +70,6 @@ DreamIT ESL · Midtown Manhattan
 Reserve your free seat now. We fill up fast.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

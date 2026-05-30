@@ -11,20 +11,17 @@ host: "J.P. Morgan"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/VWOXJodKGekLVm8asBjU"
 public_short_url: "https://go.partiful.com/QRk4e4fk"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F7ZTMjPyFwRZ5BGsgS1URn5j18zp2%2FnQrEVTtpzopBHZCbVA-xI"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F7ZTMjPyFwRZ5BGsgS1URn5j18zp2%2FnQrEVTtpzopBHZCbVA-xI?alt=media&token=e6f8518a-a81f-4aed-9a13-2a0dabe68961"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 491
 badges: []
 fetch_status: ok
 owner_count: 6
 owner_ids: ["7ZTMjPyFwRZ5BGsgS1URn5j18zp2", "7DFu4rITofNzKIjA7hCx", "xT0oXyoxgATw1kg7k9rBn75ykKk1", "uEGRlnNl3ohqhPfFy99rLO9mxU62", "1mZBbpHI3Ub3l6W7uJKTLc3TRAt2", "XlhnX5D2q3OuGilxlBh4EwYtZ2F3"]
 is_capped: false
-total_guest_count: 502
-approved_guest_count: 17
-local_image: "images/VWOXJodKGekLVm8asBjU.png"
 canceled: false
+local_image: "images/VWOXJodKGekLVm8asBjU.png"
 ---
 
 # Future Forward w/ J.P. Morgan
@@ -34,7 +31,6 @@ canceled: false
 **Hosts:** J.P. Morgan  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:00pm–9:00pm ET
 **Where:** Midtown
-**Going:** 491 of 502
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/VWOXJodKGekLVm8asBjU
 
@@ -50,15 +46,13 @@ canceled: false
 
 ## Description
 
+***This event is now at full capacity.***
+
 Join the Innovation Economy team at New York Tech Week as we showcase our brand new space and welcome an exclusive group of founders and investors from the innovation economy.
 
 Approved guests only. No +1s admitted. Guest list confirmation + photo ID required.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

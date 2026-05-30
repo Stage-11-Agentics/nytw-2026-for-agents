@@ -5,40 +5,34 @@ date: 2026-06-03
 day: "Wednesday"
 start_time: "7:00pm ET"
 start_iso: "2026-06-03T23:00:00.000Z"
-host: "Yorkseed, Ugly Talk"
-venue_name: "Belong NYC"
-venue_address: "218 Lafayette St, FL 2, New York, NY 10012"
+host: "Ugly Talk, Yorkseed"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/68VP2zOWWMpKd3gZsojI"
 public_short_url: "https://go.partiful.com/cDbP08b0"
-google_maps: "https://www.google.com/maps/search/?api=1&query=218%20Lafayette%20St%2C%20FL%202%2C%20New%20York%2C%20NY%2010012"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FBkRb8WXVjRTB0FK8gItaihwSjFC3%2Fb20zwZZaz-0aDX7t5a5Ht"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FBkRb8WXVjRTB0FK8gItaihwSjFC3%2Fb20zwZZaz-0aDX7t5a5Ht?alt=media&token=e3a3098e-dbb2-4f8f-b802-1a1680713ef1"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 104
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["ewVvfwCDEifyj4ykvdRVNB42zr42", "7DFu4rITofNzKIjA7hCx", "BkRb8WXVjRTB0FK8gItaihwSjFC3", "i4XQa1sdTgRma2XaNAKe942tsru2"]
 is_capped: false
-total_guest_count: 105
-approved_guest_count: 100
-local_image: "images/68VP2zOWWMpKd3gZsojI.jpg"
 canceled: false
+approved_guest_count: 167
+local_image: "images/68VP2zOWWMpKd3gZsojI.jpg"
 ---
 
 # Ugly Talk: The Future of Fashion & Beauty Tech - #NYTechweek
 
 ![Ugly Talk: The Future of Fashion & Beauty Tech - #NYTechweek](images/68VP2zOWWMpKd3gZsojI.jpg)
 
-**Hosts:** Yorkseed, Ugly Talk  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** Ugly Talk, Yorkseed  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 7:00pm ET
-**Where:** Belong NYC · 218 Lafayette St, FL 2, New York, NY 10012 · SoHo
-**Going:** 104 of 105
+**Where:** SoHo
+**Going:** 167
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/68VP2zOWWMpKd3gZsojI
-**Map:** https://www.google.com/maps/search/?api=1&query=218%20Lafayette%20St%2C%20FL%202%2C%20New%20York%2C%20NY%2010012
 
 ### Hosts on Partiful
 
@@ -88,10 +82,9 @@ Bonnie Young is founder of the luxury brand BY. Bonnie Young, known for its time
 
 
 Moderator:
-Jessica Sophia Wong - Founder & CEO of Yorkseed
+Jessica Sophia Wong - Founder & CEO of Yorkseed.co
 
 Jessica Sophia Wong is the founder of Yorkseed — a venture intelligence and relationship platform built for the people who move capital and companies across borders. Through Yorkseed Connect, she has built one of the most active cross-border founder and investor ecosystems in the world, operating across 50+ city hubs and running alongside SXSW, Web Summit, Davos, CES, VivaTech, and New York Tech Week. She also founded Valois, a private invitation-only network for family offices, HNWI, and fund managers at the highest level of global capital. Venture Partner at VNTR Capital. Based in NYC and Paris.
-
 
 
 💬 What We Do Not Sugarcoat
@@ -103,15 +96,11 @@ Jessica Sophia Wong is the founder of Yorkseed — a venture intelligence and re
 
 🤝 Who's Hosting It
 
-Yorkseed - Yorkseed is a global venture platform and community connecting founders, investors, and operators. 
+Yorkseed - Yorkseed is a global venture platform and community connecting founders, investors, and operators. https://yorkseedhouse.com/nytw2026
 
 Belong NYC- We offer our members a unique blend of luxury and convenience, including access to showers, locker space, luggage storage, private phone booths, conference rooms, nap pods, and co-working space.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

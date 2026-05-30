@@ -6,23 +6,23 @@ day: "Monday"
 start_time: "6:00pm ET"
 start_iso: "2026-06-01T22:00:00.000Z"
 host: "Arizona Commerce Authority (ACA), Musa Capital"
+venue_address: "575 Madison Ave, New York, NY 10022"
 neighborhood: "Hudson Yards"
 rsvp_url: "https://partiful.com/e/ZUYiQONLFm1fcVMiVAL2"
 public_short_url: "https://go.partiful.com/LDwjxqmb"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FD9wVwx2s6xgdNddPMOONtGH8Xdf1%2FGsMfiYxOwZ2_CiD3EcQIC"
+google_maps: "https://www.google.com/maps/search/?api=1&query=575%20Madison%20Ave%2C%20New%20York%2C%20NY%2010022"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FD9wVwx2s6xgdNddPMOONtGH8Xdf1%2FGsMfiYxOwZ2_CiD3EcQIC?alt=media&token=869c52e1-a62b-4d4b-9c3f-6cb76c8e2185"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 84
 badges: []
 fetch_status: ok
 owner_count: 5
 owner_ids: ["D9wVwx2s6xgdNddPMOONtGH8Xdf1", "7DFu4rITofNzKIjA7hCx", "OssqLLVmHmfq4InZR9YWS3MOtGN2", "byos0GFY86SHMmBCIh0Z", "whTxzitRFEeT9rCRn8cL45cbTx43"]
 is_capped: false
-total_guest_count: 84
-approved_guest_count: 14
-local_image: "images/ZUYiQONLFm1fcVMiVAL2.png"
 canceled: false
+approved_guest_count: 15
+local_image: "images/ZUYiQONLFm1fcVMiVAL2.png"
 ---
 
 # Scale Without the Burn in AZ: A Private Founder Dinner
@@ -31,10 +31,11 @@ canceled: false
 
 **Hosts:** Arizona Commerce Authority (ACA), Musa Capital  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:00pm ET
-**Where:** Hudson Yards
-**Going:** 84
+**Where:** 575 Madison Ave, New York, NY 10022 · Hudson Yards
+**Going:** 15
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ZUYiQONLFm1fcVMiVAL2
+**Map:** https://www.google.com/maps/search/?api=1&query=575%20Madison%20Ave%2C%20New%20York%2C%20NY%2010022
 
 ### Hosts on Partiful
 
@@ -81,10 +82,6 @@ Companies must have a minimum of $1M in revenue and be open to exploring relocat
 Attendance is limited and subject to approval
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

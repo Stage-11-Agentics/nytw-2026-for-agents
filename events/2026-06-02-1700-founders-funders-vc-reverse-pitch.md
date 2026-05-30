@@ -7,40 +7,32 @@ start_time: "5:00pm ET"
 end_time: "7:00pm ET"
 start_iso: "2026-06-02T21:00:00.000Z"
 end_iso: "2026-06-02T23:00:00.000Z"
-host: "Atlassian, Founders N’ Funders"
-venue_name: "New York, NY"
-venue_address: "New York, NY"
+host: "Founders N’ Funders, Atlassian"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/M3xlfwQ93o3IjcGUAkIQ"
 public_short_url: "https://go.partiful.com/k4ctIVBb"
-google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F4fpGfFrH0LV7M2jrzMsWKw6oHek1%2FvAyut_WZIMfdawFOskRd1"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F4fpGfFrH0LV7M2jrzMsWKw6oHek1%2FubUouj8zAaJmhGtLsPhpE?alt=media&token=2af7e775-4d90-4176-b403-9e3415eb4092"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 255
 badges: []
 fetch_status: ok
 owner_count: 6
 owner_ids: ["4fpGfFrH0LV7M2jrzMsWKw6oHek1", "7DFu4rITofNzKIjA7hCx", "8xYQIQ8YBKZsbTYCoJqP8CqnSOr2", "dUYHYPPxr3NJl2Osq1cqgZgWGgc2", "OJpFjrrrkDaJ73TsKZLuhc83c1u1", "I8NFZ8RrRbOlaSo9eYOZ"]
 is_capped: false
-total_guest_count: 259
-approved_guest_count: 46
-local_image: "images/M3xlfwQ93o3IjcGUAkIQ.png"
 canceled: false
+local_image: "images/M3xlfwQ93o3IjcGUAkIQ.png"
 ---
 
 # Founders & Funders: VC Reverse Pitch
 
 ![Founders & Funders: VC Reverse Pitch](images/M3xlfwQ93o3IjcGUAkIQ.png)
 
-**Hosts:** Atlassian, Founders N’ Funders  _(+4 more host(s) on Partiful — see description for full list)_
+**Hosts:** Founders N’ Funders, Atlassian  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:00pm–7:00pm ET
-**Where:** New York, NY · New York, NY · Midtown
-**Going:** 255 of 259
+**Where:** Midtown
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/M3xlfwQ93o3IjcGUAkIQ
-**Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -71,15 +63,11 @@ Previous events have resulted in multiple term sheets and successful funding rou
 This highly curated event prioritizes Pre-Seed and Seed founders raising capital, and active investors. You must be APPROVED to attend!
 
 Sponsored by
-Atlassian • Agora • Carta • Shopline
+Atlassian • Auth0 • Agora • Carta • GNOMI • Novus
 
 The event is a part of #NYTechWeek- a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 #venturecapital #VC #startupfunding #fundraising #founder #investor
-
-
-
-
 
 
 

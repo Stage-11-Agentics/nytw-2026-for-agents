@@ -8,26 +8,21 @@ end_time: "8:00pm ET"
 start_iso: "2026-06-05T21:00:00.000Z"
 end_iso: "2026-06-06T00:00:00.000Z"
 host: "Bounty"
-venue_name: "Manhattan"
-venue_address: "Manhattan, New York, NY"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/kYWNQTNgGYDZV4EfE9Ia"
 public_short_url: "https://go.partiful.com/xMNn3Evj"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F4YVoojjWTyR06Or8pGChKuhQabj2%2F_1xO8QThXI4-X00jHH46y"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F4YVoojjWTyR06Or8pGChKuhQabj2%2F_1xO8QThXI4-X00jHH46y?alt=media&token=97ec5606-030f-4bec-b6f5-3d81183c8513"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 181
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["4YVoojjWTyR06Or8pGChKuhQabj2", "JdW44CcjVrPDEA6ye6eNp21TpRB3", "zoD4bN6bksSOjQ5bxbwb0FpSVuJ3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 182
-approved_guest_count: 156
-local_image: "images/kYWNQTNgGYDZV4EfE9Ia.png"
 canceled: false
+approved_guest_count: 219
+local_image: "images/kYWNQTNgGYDZV4EfE9Ia.png"
 ---
 
 # After Hours by Bounty
@@ -36,11 +31,10 @@ canceled: false
 
 **Hosts:** Bounty  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 5:00pm–8:00pm ET
-**Where:** Manhattan · Manhattan, New York, NY · SoHo
-**Going:** 181 of 182
+**Where:** SoHo
+**Going:** 219
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/kYWNQTNgGYDZV4EfE9Ia
-**Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -61,10 +55,6 @@ After Hours by Bounty is an official NY Tech Week event for founders, creators, 
 No tech background required!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

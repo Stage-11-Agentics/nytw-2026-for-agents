@@ -8,26 +8,20 @@ end_time: "4:30pm ET"
 start_iso: "2026-06-02T18:00:00.000Z"
 end_iso: "2026-06-02T20:30:00.000Z"
 host: "McKinsey & Co"
-venue_name: "Financial District"
-venue_address: "Financial District, Manhattan, New York, NY"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/zejQuL4V8LSSfgC67L5g"
 public_short_url: "https://go.partiful.com/Z8HOEFMc"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Financial%20District%2C%20Financial%20District%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fva6ageZVG7LQbnrIm1gY%2Ff1p57rADOCmaqFTrZpVx7"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fva6ageZVG7LQbnrIm1gY%2Ff1p57rADOCmaqFTrZpVx7?alt=media&token=78cb5743-22a6-4534-8bb6-a5d990ef9c01"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 526
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["va6ageZVG7LQbnrIm1gY", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 539
-approved_guest_count: 152
-local_image: "images/zejQuL4V8LSSfgC67L5g.png"
 canceled: false
+local_image: "images/zejQuL4V8LSSfgC67L5g.png"
 ---
 
 # McKinsey x NY Tech Week: What actually drives AI value
@@ -36,11 +30,9 @@ canceled: false
 
 **Hosts:** McKinsey & Co  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 2:00pm–4:30pm ET
-**Where:** Financial District · Financial District, Manhattan, New York, NY · Financial District
-**Going:** 526 of 539
+**Where:** Financial District
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/zejQuL4V8LSSfgC67L5g
-**Map:** https://www.google.com/maps/search/?api=1&query=Financial%20District%2C%20Financial%20District%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -57,10 +49,6 @@ This event is for founders and operators interested in how AI is changing growth
 Seats are limited. Registration does not guarantee admission, and attendance will be confirmed directly with approved guests. Venue details will be shared with confirmed attendees in advance of the event.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -6,26 +6,21 @@ day: "Monday"
 start_time: "3:00pm ET"
 start_iso: "2026-06-01T19:00:00.000Z"
 host: "QUAY Acceleration, Brown Rudnick"
-venue_name: "Times Square"
-venue_address: "Times Square, Manhattan, New York, NY"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/Ns37lYVhz9dp10iFZURH"
 public_short_url: "https://go.partiful.com/pcSTHVL5"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Times%20Square%2C%20Times%20Square%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FsTIJ2YE7hBxj4qTtFef2%2FVE1sjHJyJctMasa6-Flvp"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FsTIJ2YE7hBxj4qTtFef2%2FVE1sjHJyJctMasa6-Flvp?alt=media&token=46aa588c-24e2-48a0-aab5-2cec05b42f4f"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 76
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["sTIJ2YE7hBxj4qTtFef2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 81
-approved_guest_count: 45
-local_image: "images/Ns37lYVhz9dp10iFZURH.png"
 canceled: false
+approved_guest_count: 115
+local_image: "images/Ns37lYVhz9dp10iFZURH.png"
 ---
 
 # The Bridge Ecosystem Forum: A Panel on Public-Private Collaborations by QUAY and Brown Rudnick
@@ -34,11 +29,10 @@ canceled: false
 
 **Hosts:** QUAY Acceleration, Brown Rudnick
 **When:** Monday, June 1, 2026 · 3:00pm ET
-**Where:** Times Square · Times Square, Manhattan, New York, NY · Midtown
-**Going:** 76 of 81
+**Where:** Midtown
+**Going:** 115
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Ns37lYVhz9dp10iFZURH
-**Map:** https://www.google.com/maps/search/?api=1&query=Times%20Square%2C%20Times%20Square%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -65,10 +59,6 @@ QUAY Acceleration leads a portfolio of over 900+ technology startups and SMB’s
 
 About Brown Rudnick:
 Brown Rudnick is a leading international law firm that provides exceptional, client-driven service in global litigation, crisis management (restructuring, investigations and special situations), brand and reputation management, life sciences and technology.  We advise on high-profile cross-border matters while providing the kind of personal attention to clients that is typically found at boutiques. Our enterprising and tenacious lawyers serve our clients around the globe from offices in key financial centers in the U.S. and the U.K., and have been recognized by, among others, Chambers USA, Legal 500, Benchmark Litigation and Law360 for excellence in their fields. Learn more at: https://brownrudnick.com/
-
-
-
-
 
 
 

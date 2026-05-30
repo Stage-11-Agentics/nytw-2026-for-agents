@@ -9,20 +9,19 @@ host: "Raisi, Forecastr"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/qG3izuxTUNhkCyhc3I45"
 public_short_url: "https://go.partiful.com/0wbanqjn"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F8M6HSKroHeMSyx8jiQBnD9RvEyI3%2FNs2I7cxaWJ3A0jYfL4Aod"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F8M6HSKroHeMSyx8jiQBnD9RvEyI3%2FNs2I7cxaWJ3A0jYfL4Aod?alt=media&token=26cb377a-cb45-48db-bcbc-aa219cff4f7c"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 54
+going_guest_count: 103
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["8M6HSKroHeMSyx8jiQBnD9RvEyI3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 59
+canceled: false
 approved_guest_count: 0
 local_image: "images/qG3izuxTUNhkCyhc3I45.png"
-canceled: false
 ---
 
 # Raisi x Forecastr: 
@@ -36,7 +35,7 @@ Panel + Pitch Competition](images/qG3izuxTUNhkCyhc3I45.png)
 **Hosts:** Raisi, Forecastr
 **When:** Thursday, June 4, 2026 · 8:00pm ET
 **Where:** SoHo
-**Going:** 54 of 59
+**Going:** 103
 **RSVP:** https://partiful.com/e/qG3izuxTUNhkCyhc3I45
 
 ### Hosts on Partiful
@@ -93,10 +92,6 @@ About Forecastr
 Forecastr helps founders build investor-ready financial models and projections. From early-stage planning to growth-stage forecasting, Forecastr gives you the clarity and structure investors expect, so you can walk into conversations with confidence and back up your story with real numbers.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

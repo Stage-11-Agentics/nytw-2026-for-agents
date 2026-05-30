@@ -5,36 +5,35 @@ date: 2026-06-04
 day: "Thursday"
 start_time: "11:00am ET"
 start_iso: "2026-06-04T15:00:00.000Z"
-host: "Consulate General of Argentina in New York, Southern Code"
+host: "Southern Code, Consulate General of Argentina in New York"
 neighborhood: "Central Park"
 rsvp_url: "https://partiful.com/e/JSaitRA2wgRoRy9FP45G"
 public_short_url: "https://go.partiful.com/8hjS51hz"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FVHmZLxFwWjdNN2pLjoKVlUjGfhx1%2F6dRXivTeIlSHy09SeaLtL"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FVHmZLxFwWjdNN2pLjoKVlUjGfhx1%2F6dRXivTeIlSHy09SeaLtL?alt=media&token=dec943f7-d0fe-4d5b-b654-938fa529b567"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 8
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["VHmZLxFwWjdNN2pLjoKVlUjGfhx1", "UFLWR7fz5AmfgETqvyYh", "7DFu4rITofNzKIjA7hCx", "YtEQKe1uFbXfJNPL11OJtIdCNVz2"]
 is_capped: true
 max_capacity: 12
-remaining_capacity: 4
-total_guest_count: 9
-approved_guest_count: 8
-local_image: "images/JSaitRA2wgRoRy9FP45G.png"
+remaining_capacity: -11
 canceled: false
+approved_guest_count: 23
+local_image: "images/JSaitRA2wgRoRy9FP45G.png"
 ---
 
 # Southern Code — Harness Engineering for Founders: How to Ship Real Software with AI at
 
 ![Southern Code — Harness Engineering for Founders: How to Ship Real Software with AI at](images/JSaitRA2wgRoRy9FP45G.png)
 
-**Hosts:** Consulate General of Argentina in New York, Southern Code  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** Southern Code, Consulate General of Argentina in New York  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 11:00am ET
 **Where:** Central Park
-**Capacity:** capped at 12 · 8 taken, 4 remaining
+**Capacity:** capped at 12 · 23 taken, -11 remaining
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/JSaitRA2wgRoRy9FP45G
 
@@ -42,7 +41,7 @@ canceled: false
 
 - [Alexis Giovoglanian](https://partiful.com/u/VHmZLxFwWjdNN2pLjoKVlUjGfhx1)
 - [Consulate General of Argentina in New York](https://partiful.com/u/UFLWR7fz5AmfgETqvyYh) — _Consulate General and Promotion Center of Argentina in New York_
-- [user `YtEQKe1uFbXfJNPL11OJtIdCNVz2`](https://partiful.com/u/YtEQKe1uFbXfJNPL11OJtIdCNVz2) _(name not resolved)_
+- [Exequiel Zamar](https://partiful.com/u/YtEQKe1uFbXfJNPL11OJtIdCNVz2)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -61,10 +60,6 @@ Built for founders, operators, and leaders at companies adopting AI coding — w
 Hosted at the Argentina Tech Hub during #NYTechWeek.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

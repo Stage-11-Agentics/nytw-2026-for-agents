@@ -18,16 +18,14 @@ image: "https://assets.getpartiful.com/posters/dinner-party-mauve-floral"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 22
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["pYZwmCQhLyHFzxGf3kuc", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 22
-approved_guest_count: 19
-local_image: "images/0D0CXzkR1otSnvSekJh4.png"
 canceled: false
+approved_guest_count: 18
+local_image: "images/0D0CXzkR1otSnvSekJh4.png"
 ---
 
 # Queens Founders & Investors Dinner
@@ -37,7 +35,7 @@ canceled: false
 **Hosts:** Enpak  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
 **Where:** Long Island City · Long Island City, New York, NY · Queens
-**Going:** 22
+**Going:** 18
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/0D0CXzkR1otSnvSekJh4
 **Map:** https://www.google.com/maps/search/?api=1&query=Long%20Island%20City%2C%20Long%20Island%20City%2C%20New%20York%2C%20NY
@@ -64,17 +62,13 @@ An intimate, curated dinner bringing together a select group of founders and inv
 ​
 🎟️ $150 per person — This is a paid, curated experience with limited capacity.
 ​🍽️ Dinner will be served
-✨ Limited to 10 founders and 10 investors
+
 
 ​Please note: This is a curated experience. Submitting your interest does not guarantee a seat. Selected attendees will be notified directly.
 
 By registering, you’ll be added to the Enpak newsletter to stay connected to future events, local opportunities, and community updates. You can unsubscribe at any time.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

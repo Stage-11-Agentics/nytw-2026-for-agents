@@ -5,37 +5,35 @@ date: 2026-06-05
 day: "Friday"
 start_time: "6:30pm ET"
 start_iso: "2026-06-05T22:30:00.000Z"
-host: "Geeks & Experts, Products by Women"
+host: "Products by Women, Geeks & Experts"
 venue_name: "Tom and Jerry's Bar"
 venue_address: "288 Elizabeth St, New York, NY 10012"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/qcs6HrzV1RsoT1Hj1tnI"
 public_short_url: "https://go.partiful.com/e8cOh3Zq"
 google_maps: "https://www.google.com/maps/search/?api=1&query=288%20Elizabeth%20St%2C%20New%20York%2C%20NY%2010012"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FcbgrQlHqiqUs1Use3D0AUOvLPbr1%2FjIXhFlp3vXQTjMwAAMZQQ"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FcbgrQlHqiqUs1Use3D0AUOvLPbr1%2F0CPIdxICJ9EmPAf8Pio9r?alt=media&token=beecffd7-f116-4266-bf06-d3672e4557d9"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 272
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["cbgrQlHqiqUs1Use3D0AUOvLPbr1", "7DFu4rITofNzKIjA7hCx", "ZWgKFrZH7Qc9xmwJ11N2UFFqOvF2"]
 is_capped: false
-total_guest_count: 280
-approved_guest_count: 148
-local_image: "images/qcs6HrzV1RsoT1Hj1tnI.png"
 canceled: false
+approved_guest_count: 244
+local_image: "images/qcs6HrzV1RsoT1Hj1tnI.png"
 ---
 
 # South Asian Builders Happy Hour / Networking
 
 ![South Asian Builders Happy Hour / Networking](images/qcs6HrzV1RsoT1Hj1tnI.png)
 
-**Hosts:** Geeks & Experts, Products by Women  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Products by Women, Geeks & Experts  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 6:30pm ET
 **Where:** Tom and Jerry's Bar · 288 Elizabeth St, New York, NY 10012 · Chelsea
-**Going:** 272 of 280
+**Going:** 244
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/qcs6HrzV1RsoT1Hj1tnI
 **Map:** https://www.google.com/maps/search/?api=1&query=288%20Elizabeth%20St%2C%20New%20York%2C%20NY%2010012
@@ -51,17 +49,15 @@ Building @productsbywomen_
 
 ## Description
 
-Join us for a casual South Asian Builders Happy Hour — a relaxed evening for founders, operators, engineers, and investors actively building, creating, and backing startups across the diaspora.
+Join us for a casual South Asian Builders Happy Hour — a relaxed evening for founders, operators, engineers, and investors actively building, creating, and backing startups across the diaspora. 
 
 Whether you're founding a company, writing code, leading product, or writing angel checks, this is your crowd. We're bringing together individuals and operators who are shaping the future of tech.
 
 No panels. No pitches. Just meaningful conversations with people who get it.
 
+Cash bar with drinks available for purchase. 
+
 This event is part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech community.
-
-
-
-
 
 
 

@@ -15,16 +15,14 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 89
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["ZEdbNotQwNjZkUY2Os2y", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 89
+canceled: false
 approved_guest_count: 0
 local_image: "images/m5xlxRZNLV9VsZZ97lGf.png"
-canceled: false
 ---
 
 # Data + UX in the Reality of AI agents, synthetic users
@@ -34,7 +32,6 @@ canceled: false
 **Hosts:** STELLANS.io  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:30pm–9:00pm ET
 **Where:** Union Square
-**Going:** 89
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/m5xlxRZNLV9VsZZ97lGf
 
@@ -52,10 +49,6 @@ Data + UX in the New Reality of AI agents and synthetic users
 
 Stellans.io is hosting a panel focusing on the ways UX professionals work together with data engineers and data scientists in an era of large-scale data extraction, data amalgamation, synthetic users, and a new kind of user: AI agents. We explore what those shifts mean for how teams understand behavior, define users, make decisions, and design experiences that still feel trustworthy and useful. Speakers will bring perspectives from data, UX, and applied technology to discuss what is already changing, what remains unresolved, and what deserves much closer scrutiny. The panel will be followed by networking and informal discussions.
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

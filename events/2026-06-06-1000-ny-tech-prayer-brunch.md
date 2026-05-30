@@ -14,22 +14,18 @@ neighborhood: "Brooklyn"
 rsvp_url: "https://partiful.com/e/otWn9aTcoYTcUY4QWh5x"
 public_short_url: "https://go.partiful.com/BAh69jIe"
 google_maps: "https://www.google.com/maps/search/?api=1&query=11217%2C%20Brooklyn%2C%20NY%2011217"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FgNz2JClQtlyLxKtHVjD9%2FTowhBmWS4Bk7PFM4uGH0z"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FgNz2JClQtlyLxKtHVjD9%2FTowhBmWS4Bk7PFM4uGH0z?alt=media&token=011291b5-01f9-4a2b-9f15-8f0427540ff6"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 13
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["gNz2JClQtlyLxKtHVjD9", "7DFu4rITofNzKIjA7hCx", "SU8riP3jNodC8Jx1su56HqcjUR23"]
 is_capped: true
 max_capacity: 60
-remaining_capacity: 47
-total_guest_count: 17
-approved_guest_count: 0
-local_image: "images/otWn9aTcoYTcUY4QWh5x.png"
 canceled: false
+local_image: "images/otWn9aTcoYTcUY4QWh5x.png"
 ---
 
 # NY TECH PRAYER BRUNCH
@@ -39,7 +35,7 @@ canceled: false
 **Hosts:** Gather for Glory, Baddies in Tech  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 10:00am–12:30pm ET
 **Where:** 11217 · Brooklyn, NY 11217 · Brooklyn
-**Capacity:** capped at 60 · 13 taken, 47 remaining
+**Capacity:** capped at 60
 **RSVP:** https://partiful.com/e/otWn9aTcoYTcUY4QWh5x
 **Map:** https://www.google.com/maps/search/?api=1&query=11217%2C%20Brooklyn%2C%20NY%2011217
 
@@ -59,9 +55,7 @@ Gather for Glory and Baddies in Tech are hosting a Prayer Brunch for Christian t
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
 
-
-
-
+📸 By purchasing a ticket to this event, you acknowledge that Gather for Glory, Baddies in Tech, and affiliated sponsors may photograph, film, and share content from the event on their respective platforms and marketing materials.
 
 
 

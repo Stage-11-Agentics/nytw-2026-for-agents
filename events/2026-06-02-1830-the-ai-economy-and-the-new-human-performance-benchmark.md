@@ -12,11 +12,10 @@ neighborhood: "Union Square"
 rsvp_url: "https://partiful.com/e/I8n2nZDvvQZvMcpwPZWx"
 public_short_url: "https://go.partiful.com/QnV9w5OP"
 google_maps: "https://www.google.com/maps/search/?api=1&query=201%20Park%20Ave%20S%2C%20New%20York%2C%20NY%2010003"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FlsLJBp9GIGeIzolKQBiSq7Rb1Cj1%2F_mpMqKgDSf7C9QQJIdU4u"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FlsLJBp9GIGeIzolKQBiSq7Rb1Cj1%2F_mpMqKgDSf7C9QQJIdU4u?alt=media&token=822668e4-46d3-4561-bdcd-249ad5c5e9ed"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 45
 badges: []
 fetch_status: ok
 owner_count: 3
@@ -24,10 +23,9 @@ owner_ids: ["lsLJBp9GIGeIzolKQBiSq7Rb1Cj1", "7DFu4rITofNzKIjA7hCx", "QMu2WUju4WZ
 is_capped: true
 max_capacity: 16
 remaining_capacity: 16
-total_guest_count: 45
+canceled: false
 approved_guest_count: 0
 local_image: "images/I8n2nZDvvQZvMcpwPZWx.jpg"
-canceled: false
 ---
 
 # The AI Economy and the New Human Performance Benchmark
@@ -70,10 +68,6 @@ ___
 Sponsored by Atlas Primer • https://atlasprimer.com/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

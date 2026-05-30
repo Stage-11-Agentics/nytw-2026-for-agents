@@ -12,20 +12,17 @@ neighborhood: "Upper Manhattan"
 rsvp_url: "https://partiful.com/e/MPI0obsZsnEvkyHZ81mm"
 public_short_url: "https://go.partiful.com/YEjmLOoL"
 google_maps: "https://www.google.com/maps/search/?api=1&query=124%20E%2014th%20St%2C%20New%20York%2C%20NY%2010003"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FdZcVXYW3lsPb4Kqi6BtAr2fKf7E2%2FQ5G_7rdSzzvx3glOR3Rvo"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FdZcVXYW3lsPb4Kqi6BtAr2fKf7E2%2FQ5G_7rdSzzvx3glOR3Rvo?alt=media&token=77aab6f8-a4f4-490a-b446-c5235062ecd7"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 246
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["dZcVXYW3lsPb4Kqi6BtAr2fKf7E2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 246
-approved_guest_count: 98
-local_image: "images/MPI0obsZsnEvkyHZ81mm.png"
 canceled: false
+local_image: "images/MPI0obsZsnEvkyHZ81mm.png"
 ---
 
 # Tech Week Takeoff: Hosted by Nimbus Aerospace
@@ -35,7 +32,6 @@ canceled: false
 **Hosts:** Nimbus Aerospace  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:00pm ET
 **Where:** Time Out Market Union Square · 124 E 14th St, New York, NY 10003 · Upper Manhattan
-**Going:** 246
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/MPI0obsZsnEvkyHZ81mm
 **Map:** https://www.google.com/maps/search/?api=1&query=124%20E%2014th%20St%2C%20New%20York%2C%20NY%2010003
@@ -80,10 +76,6 @@ Follow us @NimbusAerospace
 Website: www.NimbusAerospace.com
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

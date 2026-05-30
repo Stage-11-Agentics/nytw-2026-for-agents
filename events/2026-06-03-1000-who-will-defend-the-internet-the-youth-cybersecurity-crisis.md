@@ -8,26 +8,25 @@ end_time: "11:00am ET"
 start_iso: "2026-06-03T14:00:00.000Z"
 end_iso: "2026-06-03T15:00:00.000Z"
 host: "Girls Who Code"
-venue_name: "New York, NY"
-venue_address: "New York, NY"
+venue_name: "Civic Hall"
+venue_address: "124 E 14th St, New York, NY 10003"
 neighborhood: "Union Square"
 rsvp_url: "https://partiful.com/e/3d1kwJIjPBslCneBS0Ij"
 public_short_url: "https://go.partiful.com/xkdyYs4e"
-google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fq7QrARjFTyIhSuNllV9W%2FcnOUIp8to0tf_G8L0dHTM"
+google_maps: "https://www.google.com/maps/search/?api=1&query=124%20E%2014th%20St%2C%20New%20York%2C%20NY%2010003"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fq7QrARjFTyIhSuNllV9W%2FcnOUIp8to0tf_G8L0dHTM?alt=media&token=8a7483e2-e4a9-4ef5-a278-6464c5a1b626"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 83
+going_guest_count: 185
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["q7QrARjFTyIhSuNllV9W", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 97
+canceled: false
 approved_guest_count: 0
 local_image: "images/3d1kwJIjPBslCneBS0Ij.png"
-canceled: false
 ---
 
 # Who Will Defend the Internet? The Youth Cybersecurity Crisis
@@ -36,10 +35,10 @@ canceled: false
 
 **Hosts:** Girls Who Code  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 10:00am–11:00am ET
-**Where:** New York, NY · New York, NY · Union Square
-**Going:** 83 of 97
+**Where:** Civic Hall · 124 E 14th St, New York, NY 10003 · Union Square
+**Going:** 185
 **RSVP:** https://partiful.com/e/3d1kwJIjPBslCneBS0Ij
-**Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
+**Map:** https://www.google.com/maps/search/?api=1&query=124%20E%2014th%20St%2C%20New%20York%2C%20NY%2010003
 
 ### Hosts on Partiful
 
@@ -65,10 +64,6 @@ Vivian Yu, Girl Scouts of Greater New York
 Opening remarks by Craig Newmark, Founder of craigslist 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

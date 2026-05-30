@@ -8,26 +8,20 @@ end_time: "7:00pm ET"
 start_iso: "2026-06-03T21:00:00.000Z"
 end_iso: "2026-06-03T23:00:00.000Z"
 host: "Sequoia"
-venue_name: "Flatiron"
-venue_address: "Flatiron, Manhattan, New York, NY"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/5bTJOqJWwdhk70hBt7sx"
 public_short_url: "https://go.partiful.com/BeqKN0GS"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY"
 image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 257
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["fhIht7tQskPUZcYWruMVZOg48zp2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 263
-approved_guest_count: 56
-local_image: "images/5bTJOqJWwdhk70hBt7sx.png"
 canceled: false
+local_image: "images/5bTJOqJWwdhk70hBt7sx.png"
 ---
 
 # Sequoia Leader Connect
@@ -36,11 +30,9 @@ canceled: false
 
 **Hosts:** Sequoia  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:00pm–7:00pm ET
-**Where:** Flatiron · Flatiron, Manhattan, New York, NY · Flatiron
-**Going:** 257 of 263
+**Where:** Flatiron
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/5bTJOqJWwdhk70hBt7sx
-**Map:** https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -57,10 +49,6 @@ It will be a short, deck-free conversation, packed with wisdom and insights, and
 This event is intended for Senior Leaders (Founders, CFOs, CHROs)  at Tech Companies. 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

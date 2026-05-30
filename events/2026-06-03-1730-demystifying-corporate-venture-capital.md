@@ -8,26 +8,21 @@ end_time: "9:00pm ET"
 start_iso: "2026-06-03T21:30:00.000Z"
 end_iso: "2026-06-04T01:00:00.000Z"
 host: "The Vertical, Elpis Labs"
-venue_name: "Civic Hall"
-venue_address: "124 E 14th St, New York, NY 10003"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/CFX87WLiZbQpNWETbUcP"
 public_short_url: "https://go.partiful.com/M1FFD4JJ"
-google_maps: "https://www.google.com/maps/search/?api=1&query=124%20E%2014th%20St%2C%20New%20York%2C%20NY%2010003"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJWhsHkifBWPIyhMiY58OqCjOwxo1%2FCmQ_JPR5sRNSWldXHMJKo"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJWhsHkifBWPIyhMiY58OqCjOwxo1%2FoIFNvw_3bsYhlTtU1EVHo?alt=media&token=d49a9799-4c44-4cf2-a396-328e00bb309f"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 94
 badges: []
 fetch_status: ok
 owner_count: 5
 owner_ids: ["JWhsHkifBWPIyhMiY58OqCjOwxo1", "7DFu4rITofNzKIjA7hCx", "3eKpXSYvOywwrXd2JCSV", "idMxr9xCMDUeoDD5WnFaDrkwURU2", "TO4HaoLJauXYqemS3rHRMttCQ3S2"]
 is_capped: false
-total_guest_count: 96
-approved_guest_count: 86
-local_image: "images/CFX87WLiZbQpNWETbUcP.png"
 canceled: false
+approved_guest_count: 154
+local_image: "images/CFX87WLiZbQpNWETbUcP.png"
 ---
 
 # Demystifying
@@ -40,11 +35,10 @@ Venture Capital](images/CFX87WLiZbQpNWETbUcP.png)
 
 **Hosts:** The Vertical, Elpis Labs  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:30pm–9:00pm ET
-**Where:** Civic Hall · 124 E 14th St, New York, NY 10003 · Midtown
-**Going:** 94 of 96
+**Where:** Midtown
+**Going:** 154
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/CFX87WLiZbQpNWETbUcP
-**Map:** https://www.google.com/maps/search/?api=1&query=124%20E%2014th%20St%2C%20New%20York%2C%20NY%2010003
 
 ### Hosts on Partiful
 
@@ -59,7 +53,7 @@ Venture Capital](images/CFX87WLiZbQpNWETbUcP.png)
 
 NY Techweek - Demystifying Corporate Venture Capital
 
-We kickstart our curated CVC event series connecting corporate investors & high-growth founderts to forge alliances that move industries.
+We kickstart our curated CVC event series connecting corporate investors & high-growth founders to forge alliances that move industries.
 
 Despite its growing influence, the CVC ecosystem remains opaque: relationships siloed, capital misaligned, and founders navigating a maze of gatekeepers with no map.
 
@@ -71,7 +65,9 @@ Speakers include:
 
 - Coppelia Marincovic, Partner, Syensqo Ventures
 
-- Toan Huynh, Operating Advisor, EiR, Corporate Innovation Strategy, Emerging Technologies, Morgan Stanley Inclusive Ventures
+- Toni Peña, Managing Partner, Kamay Ventures, LatAm’s first multi-corporate VC fund (The Coca-Cola Company, Grupo Bimbo, U.S. IDFC etc.) 
+
+- Niko Koenning, Principal, Cigna Ventures
 
 Moderated by: 
 Kenneth Huynh,  Managing Partner, Elpis Labs
@@ -95,10 +91,6 @@ Elpis Labs is a technology alignment and corporate to start up matchmaking servi
 The Vertical
 
 The Vertical is an online publication,  community platform, and event series focusing on international Tech in the U.S., including startups, VCs, and other building blocks of the venture ecosystem.
-
-
-
-
 
 
 

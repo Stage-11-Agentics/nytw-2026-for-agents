@@ -8,26 +8,20 @@ end_time: "8:30pm ET"
 start_iso: "2026-06-03T22:30:00.000Z"
 end_iso: "2026-06-04T00:30:00.000Z"
 host: "moccet"
-venue_name: "New York, NY"
-venue_address: "New York, NY"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/DeSu8551onFwpwFq7tnW"
 public_short_url: "https://go.partiful.com/PUGqkmi3"
-google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FH904QH1MwtZMNewq3uNTUBEeQ0B3%2F9bjdRah0AKLMKYGvVNMXf"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FH904QH1MwtZMNewq3uNTUBEeQ0B3%2F9bjdRah0AKLMKYGvVNMXf?alt=media&token=91fc6bc1-a2a3-4068-b0fe-f68f8e249514"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 12
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["H904QH1MwtZMNewq3uNTUBEeQ0B3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 12
-approved_guest_count: 1
-local_image: "images/DeSu8551onFwpwFq7tnW.png"
 canceled: false
+local_image: "images/DeSu8551onFwpwFq7tnW.png"
 ---
 
 # How to Live Longer & Happier: The future of AI
@@ -36,11 +30,9 @@ canceled: false
 
 **Hosts:** moccet  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:30pm–8:30pm ET
-**Where:** New York, NY · New York, NY · SoHo
-**Going:** 12
+**Where:** SoHo
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/DeSu8551onFwpwFq7tnW
-**Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -63,10 +55,6 @@ Then we open the room in conversation, plus hands on access to moccet to explore
 Light refreshments, coffee, tea, matcha, and treats, courtesy of our sponsors.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

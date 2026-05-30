@@ -11,20 +11,17 @@ host: "HiBob"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/F8vJqLhP62bGK7Stqdgg"
 public_short_url: "https://go.partiful.com/IzJK43Sa"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F8hSS5ZAmkd7O1OJN4pi6%2F8JpZuHcq7h52ai3etgF88"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F8hSS5ZAmkd7O1OJN4pi6%2F8JpZuHcq7h52ai3etgF88?alt=media&token=275cb09a-f3ea-454a-a3e8-294bea23494d"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 128
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["8hSS5ZAmkd7O1OJN4pi6", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 131
-approved_guest_count: 54
-local_image: "images/F8vJqLhP62bGK7Stqdgg.png"
 canceled: false
+local_image: "images/F8vJqLhP62bGK7Stqdgg.png"
 ---
 
 # The Future of Work: AI for People Operations
@@ -34,7 +31,6 @@ canceled: false
 **Hosts:** HiBob  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:30pm–7:30pm ET
 **Where:** Flatiron
-**Going:** 128 of 131
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/F8vJqLhP62bGK7Stqdgg
 
@@ -60,10 +56,6 @@ Kenneth Matos, Ph.D., is Director, Insights Lab at HiBob.  He leads HiBob’s re
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

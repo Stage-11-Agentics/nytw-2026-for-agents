@@ -7,37 +7,33 @@ start_time: "6:00pm ET"
 end_time: "9:00pm ET"
 start_iso: "2026-06-03T22:00:00.000Z"
 end_iso: "2026-06-04T01:00:00.000Z"
-host: "Beau Monde Matchmaking, LEVEL™"
+host: "LEVEL™, Beau Monde Matchmaking"
 venue_name: "Cafe-flor"
 venue_address: "218 Eighth Ave, New York, NY 10011"
 neighborhood: "West Village"
 rsvp_url: "https://partiful.com/e/GNv7CypZevOpJN6ol6Jk"
 public_short_url: "https://go.partiful.com/Do9Xw61l"
 google_maps: "https://www.google.com/maps/search/?api=1&query=218%20Eighth%20Ave%2C%20New%20York%2C%20NY%2010011"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fq9o8vGsT4nYH2mMzO5iZ99lL1f12%2Fz1IomCRlodlZOJ2X9XDxu"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fq9o8vGsT4nYH2mMzO5iZ99lL1f12%2Fz1IomCRlodlZOJ2X9XDxu?alt=media&token=7164f3fd-49c1-49dd-b6cf-671f39fc3922"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 94
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["q9o8vGsT4nYH2mMzO5iZ99lL1f12", "nvC4SxQ3IuT960pBunVZkDgj8Z33", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 94
-approved_guest_count: 80
-local_image: "images/GNv7CypZevOpJN6ol6Jk.jpg"
 canceled: false
+local_image: "images/GNv7CypZevOpJN6ol6Jk.jpg"
 ---
 
 # Connect on Your LEVEL™
 
 ![Connect on Your LEVEL™](images/GNv7CypZevOpJN6ol6Jk.jpg)
 
-**Hosts:** Beau Monde Matchmaking, LEVEL™  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** LEVEL™, Beau Monde Matchmaking  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
 **Where:** Cafe-flor · 218 Eighth Ave, New York, NY 10011 · West Village
-**Going:** 94
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/GNv7CypZevOpJN6ol6Jk
 **Map:** https://www.google.com/maps/search/?api=1&query=218%20Eighth%20Ave%2C%20New%20York%2C%20NY%2010011
@@ -78,10 +74,6 @@ Address: 218 8th Ave, New York, NY 10011
 Come as you are—leave with new connections, fresh perspective, and perhaps something more.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

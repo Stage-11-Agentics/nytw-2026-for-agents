@@ -11,20 +11,18 @@ host: "Barsys"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/wxObiQNzth3nAApeyYWG"
 public_short_url: "https://go.partiful.com/ktjGGQQG"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FmW9JEYAp4fDn2RVj0JSy%2FpukvYOqxcGBhIPgmacxiM"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FmW9JEYAp4fDn2RVj0JSy%2FpukvYOqxcGBhIPgmacxiM?alt=media&token=05eb7bd7-eff4-435e-a25a-b2c4f05d7bee"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 71
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["mW9JEYAp4fDn2RVj0JSy", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 73
+canceled: false
 approved_guest_count: 0
 local_image: "images/wxObiQNzth3nAApeyYWG.png"
-canceled: false
 ---
 
 # Barsys Tech Week Happy Hour
@@ -34,7 +32,6 @@ canceled: false
 **Hosts:** Barsys  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:30pm–7:00pm ET
 **Where:** Midtown
-**Going:** 71 of 73
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/wxObiQNzth3nAApeyYWG
 
@@ -49,10 +46,6 @@ canceled: false
 Barsys is hosting a laid-back happy hour during NY Tech Week for a curated crowd of founders, creators, and operators. Come for the cocktails, stay for the conversations. Expect a great atmosphere, strong drinks, and even stronger connections 🍸
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -11,20 +11,18 @@ host: "The Pattern Maker"
 neighborhood: "Hudson Yards"
 rsvp_url: "https://partiful.com/e/879TRtQv5hiyNbvqtea6"
 public_short_url: "https://go.partiful.com/vdkc7p1z"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fpwz2MotQoHZmHL6w0Pvjmd11ZJo2%2FdPxn9H5Qna4O-HLdBHdXa"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fpwz2MotQoHZmHL6w0Pvjmd11ZJo2%2FdPxn9H5Qna4O-HLdBHdXa?alt=media&token=ccde22e3-a49e-439d-8016-d3bd923289f8"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 73
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["lWFu5TNr5Qbh2fkKZzmDqNTwDfG2", "7DFu4rITofNzKIjA7hCx", "pwz2MotQoHZmHL6w0Pvjmd11ZJo2"]
 is_capped: false
-total_guest_count: 73
-approved_guest_count: 0
-local_image: "images/879TRtQv5hiyNbvqtea6.png"
 canceled: false
+approved_guest_count: 50
+local_image: "images/879TRtQv5hiyNbvqtea6.png"
 ---
 
 # Fashion Tech Pitch Practice
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** The Pattern Maker  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–8:00pm ET
 **Where:** Hudson Yards
-**Going:** 73
+**Going:** 50
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/879TRtQv5hiyNbvqtea6
 
@@ -84,10 +82,6 @@ https://thepatternmaker.substack.com/
 ---
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at [www.tech-week.com](http://www.tech-week.com/).
-
-
-
-
 
 
 

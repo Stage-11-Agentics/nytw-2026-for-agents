@@ -14,21 +14,20 @@ neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/04HsBAOTcvaqnnCycyQD"
 public_short_url: "https://go.partiful.com/GSzBtP1U"
 google_maps: "https://www.google.com/maps/search/?api=1&query=11%20Wall%20St%2C%20New%20York%2C%20NY%2010005"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F6alkJKsV5gMEFIuKpwS7bod8qDC3%2FjM9-VqZ6ReBhztCQfwUkq"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F6alkJKsV5gMEFIuKpwS7bod8qDC3%2FjM9-VqZ6ReBhztCQfwUkq?alt=media&token=3a457fb7-6565-45c9-bd56-1ded30ea92c3"
 visibility: "public"
 at_capacity: false
-going_guest_count: 1
+going_guest_count: 19
 badges: []
 fetch_status: ok
 owner_count: 1
 owner_ids: ["6alkJKsV5gMEFIuKpwS7bod8qDC3"]
 is_capped: true
 max_capacity: 500
-remaining_capacity: 499
-total_guest_count: 1
+remaining_capacity: 481
+canceled: false
 approved_guest_count: 0
 local_image: "images/04HsBAOTcvaqnnCycyQD.png"
-canceled: false
 ---
 
 # Vault Summit: New York City
@@ -38,7 +37,7 @@ canceled: false
 **Hosts:** Vault Summit
 **When:** Friday, June 5, 2026 · 8:00am–10:00pm ET
 **Where:** NYSE · 11 Wall St, New York, NY 10005 · SoHo
-**Capacity:** capped at 500 · 1 taken, 499 remaining
+**Capacity:** capped at 500 · 19 taken, 481 remaining
 **RSVP:** https://partiful.com/e/04HsBAOTcvaqnnCycyQD
 **Map:** https://www.google.com/maps/search/?api=1&query=11%20Wall%20St%2C%20New%20York%2C%20NY%2010005
 
@@ -56,10 +55,6 @@ Tickets need to be purchased on the website. Venue will be disclosed when you re
 Vault Summit is a global conference series focused on onchain vault infrastructure for institutional asset management.  Institutional confidence in on-chain asset management, built vault by vault.  
  
 This is Vault Summit NYC.
-
-
-
-
 
 
 

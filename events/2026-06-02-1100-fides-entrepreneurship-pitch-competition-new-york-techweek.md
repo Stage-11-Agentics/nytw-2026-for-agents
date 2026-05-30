@@ -15,18 +15,16 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 25
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["Aw6bQsNFJLQgJ5fVoVDJqzZz67Z2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 80
-remaining_capacity: 80
-total_guest_count: 25
-approved_guest_count: 0
-local_image: "images/m4g7u5LC1jpbWNzOM60R.png"
+remaining_capacity: 79
 canceled: false
+approved_guest_count: 1
+local_image: "images/m4g7u5LC1jpbWNzOM60R.png"
 ---
 
 # Fides Entrepreneurship Pitch Competition - # New York TechWeek
@@ -36,7 +34,7 @@ canceled: false
 **Hosts:** Fides Entrepreneurship LLC, Altar Ventures
 **When:** Tuesday, June 2, 2026 · 11:00am–5:45pm ET
 **Where:** Upper East Side
-**Capacity:** capped at 80 · 0 taken, 80 remaining
+**Capacity:** capped at 80 · 1 taken, 79 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/m4g7u5LC1jpbWNzOM60R
 
@@ -51,10 +49,6 @@ canceled: false
 On Tuesday, June 2nd, as part of NYC Tech Week, we are honored to host the inaugural Fides Startup Pitch Competition, bringing together Catholic founders, investors, and operators for an evening dedicated to discerning what it means to build great companies in alignment with the faith.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

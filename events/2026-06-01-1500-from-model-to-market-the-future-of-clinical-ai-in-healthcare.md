@@ -7,34 +7,32 @@ start_time: "3:00pm ET"
 end_time: "5:00pm ET"
 start_iso: "2026-06-01T19:00:00.000Z"
 end_iso: "2026-06-01T21:00:00.000Z"
-host: "Milken Institute, Oak HC/FT, Manatt"
+host: "Manatt, Milken Institute, Oak HC/FT"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/Za7fre0uqCIayfraXeE9"
 public_short_url: "https://go.partiful.com/4QyyGZXU"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FPSf7o3XNaqasVz0NpoijLjUtDNh2%2FpH1tfE8LaedICpxkhzfkL"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FPSf7o3XNaqasVz0NpoijLjUtDNh2%2FpH1tfE8LaedICpxkhzfkL?alt=media&token=f4cbb531-0bc0-4fd6-8ff3-fe31f6fd8256"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 317
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["PSf7o3XNaqasVz0NpoijLjUtDNh2", "7DFu4rITofNzKIjA7hCx", "fEO8AEGRcLN3in3ntiocABNiqdu1"]
 is_capped: false
-total_guest_count: 326
-approved_guest_count: 162
-local_image: "images/Za7fre0uqCIayfraXeE9.jpg"
 canceled: false
+approved_guest_count: 234
+local_image: "images/Za7fre0uqCIayfraXeE9.jpg"
 ---
 
 # From Model to Market: The Future of Clinical AI in Healthcare
 
 ![From Model to Market: The Future of Clinical AI in Healthcare](images/Za7fre0uqCIayfraXeE9.jpg)
 
-**Hosts:** Milken Institute, Oak HC/FT, Manatt
+**Hosts:** Manatt, Milken Institute, Oak HC/FT
 **When:** Monday, June 1, 2026 · 3:00pm–5:00pm ET
 **Where:** Midtown
-**Going:** 317 of 326
+**Going:** 234
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Za7fre0uqCIayfraXeE9
 
@@ -58,6 +56,11 @@ We’ll cover topics including:
 - Key legal, regulatory, and business considerations that shape partnerships
 - What differentiates startups that move beyond pilots from those that stall
 
+Agenda: 
+- 3:00 to 3:30 PM — Check-in, networking, and light bites
+- 3:30 to 4:30 PM — Moderated panel discussion and Q&A
+- 4:30 to 5:00 PM — Networking through close
+
 Panelists:
 - Jared Augenstein, Manatt
 - Ashley Beecy, Sutter Health
@@ -68,10 +71,6 @@ Panelists:
 Expect a thoughtful, off‑the‑record discussion with time for audience Q&A and informal networking with fellow founders, operators, investors and health system innovators. Refreshments will be provided.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

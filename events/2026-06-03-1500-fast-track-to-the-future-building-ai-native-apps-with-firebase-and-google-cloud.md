@@ -13,20 +13,17 @@ neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/6yRRQjBxExk25JqIoBoJ"
 public_short_url: "https://go.partiful.com/1b0CON0e"
 google_maps: "https://www.google.com/maps/search/?api=1&query=110%20W%2019th%20St%2C%20New%20York%2C%20NY%2010011"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FrHxCovxMAacoEZ9KuJHPjAYLTDu2%2FRmtJqJzSYxzS82M0WE3kG"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FrHxCovxMAacoEZ9KuJHPjAYLTDu2%2FRmtJqJzSYxzS82M0WE3kG?alt=media&token=af64f881-1b77-4d6a-bbb0-7bfdbc5e1e29"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 65
 badges: []
 fetch_status: ok
 owner_count: 6
 owner_ids: ["rHxCovxMAacoEZ9KuJHPjAYLTDu2", "7DFu4rITofNzKIjA7hCx", "A6QMGq8qSxO0ms2FI62s8LGwumO2", "xpvIxjA7eha2VjlBr6k33rdhaaa2", "jYY4FSHvOINOTESXcxi37xmIqKg2", "UYuAoIBauwYSbU0yAop5YziWdL83"]
 is_capped: false
-total_guest_count: 65
-approved_guest_count: 57
-local_image: "images/6yRRQjBxExk25JqIoBoJ.png"
 canceled: false
+local_image: "images/6yRRQjBxExk25JqIoBoJ.png"
 ---
 
 # Fast Track to the Future: Building AI-Native Apps with Firebase and Google Cloud
@@ -36,7 +33,6 @@ canceled: false
 **Hosts:** Google for Startups  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 3:00pm–4:15pm ET
 **Where:** 110 W 19th St, New York, NY 10011 · Chelsea
-**Going:** 65
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/6yRRQjBxExk25JqIoBoJ
 **Map:** https://www.google.com/maps/search/?api=1&query=110%20W%2019th%20St%2C%20New%20York%2C%20NY%2010011
@@ -64,10 +60,6 @@ We expect these sessions to fill up quickly and be in high demand.  Space is lim
 Guests will be permitted in the Google for Startups Hub only during the time slot they are approved for.  
 
 We invite all guests to return for the Google For Developers Happy Hour at 4p.  Only those with valid badges will be permitted, space allowing.
-
-
-
-
 
 
 

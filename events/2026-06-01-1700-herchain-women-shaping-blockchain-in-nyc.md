@@ -7,39 +7,40 @@ start_time: "5:00pm ET"
 end_time: "7:00pm ET"
 start_iso: "2026-06-01T21:00:00.000Z"
 end_iso: "2026-06-01T23:00:00.000Z"
-host: "Women Uninterrupted! Comedy, babs NYC.news"
-venue_address: "St Marks Pl, New York, NY 10003"
+host: "babs NYC.news, Women Uninterrupted! Comedy"
+venue_name: "St Marks Comedy Club"
+venue_address: "12 St Marks Pl, New York, NY 10003"
 neighborhood: "East Village"
 rsvp_url: "https://partiful.com/e/e0YuY73DbgjtYRu0DgJj"
 public_short_url: "https://go.partiful.com/9wnh5guA"
-google_maps: "https://www.google.com/maps/search/?api=1&query=St%20Marks%20Pl%2C%20New%20York%2C%20NY%2010003"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fu3TFnGNTMhPgi1Ng7MEVTDeFBg63%2FH1sy1pEA3nHzExcQBg3ch"
+google_maps: "https://www.google.com/maps/search/?api=1&query=12%20St%20Marks%20Pl%2C%20New%20York%2C%20NY%2010003"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fu3TFnGNTMhPgi1Ng7MEVTDeFBg63%2FABE-Ey4_54LhHI5WOoAaK?alt=media&token=77b27664-b8c7-49f8-b3f7-23fa7cc3cfb6"
 visibility: "public"
-at_capacity: false
-going_guest_count: 96
+at_capacity: true
+going_guest_count: 136
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["8XE4f4fHOCRiSc4qonG7Hm7NOyc2", "7DFu4rITofNzKIjA7hCx", "u3TFnGNTMhPgi1Ng7MEVTDeFBg63"]
 is_capped: true
-max_capacity: 120
-remaining_capacity: 22
-total_guest_count: 108
+max_capacity: 136
+remaining_capacity: 0
+canceled: false
 approved_guest_count: 0
 local_image: "images/e0YuY73DbgjtYRu0DgJj.png"
-canceled: false
 ---
 
 # HerChain: Women shaping blockchain in NYC
 
 ![HerChain: Women shaping blockchain in NYC](images/e0YuY73DbgjtYRu0DgJj.png)
 
-**Hosts:** Women Uninterrupted! Comedy, babs NYC.news  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** babs NYC.news, Women Uninterrupted! Comedy  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 5:00pm–7:00pm ET
-**Where:** St Marks Pl, New York, NY 10003 · East Village
-**Capacity:** capped at 120 · 98 taken, 22 remaining
+**Where:** St Marks Comedy Club · 12 St Marks Pl, New York, NY 10003 · East Village
+**Capacity:** capped at 136 · 136 taken, 0 remaining · ⚠ **FULL**
+**Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/e0YuY73DbgjtYRu0DgJj
-**Map:** https://www.google.com/maps/search/?api=1&query=St%20Marks%20Pl%2C%20New%20York%2C%20NY%2010003
+**Map:** https://www.google.com/maps/search/?api=1&query=12%20St%20Marks%20Pl%2C%20New%20York%2C%20NY%2010003
 
 ### Hosts on Partiful
 
@@ -79,10 +80,6 @@ The future is all of us - we welcome people of all genders interested in this to
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
 
 By RSVPing, you agree to receive follow‑up emails about this event and updates from babsNYCnews. Thank you and we can't wait to see you!
-
-
-
-
 
 
 

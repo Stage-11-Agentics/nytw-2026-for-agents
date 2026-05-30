@@ -12,20 +12,17 @@ neighborhood: "Brooklyn"
 rsvp_url: "https://partiful.com/e/wwClRE624eCpsxm0k0LP"
 public_short_url: "https://go.partiful.com/LhMqtMUA"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Dumbo%2C%20Dumbo%2C%20Brooklyn%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FHvfkP2mbqNt35FdsvEVd%2FQziJA9p63afX5Mv8UAhUE"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FHvfkP2mbqNt35FdsvEVd%2FQziJA9p63afX5Mv8UAhUE?alt=media&token=87c105f4-2a90-43a7-8843-e37fdf3ec1f2"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 267
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["HvfkP2mbqNt35FdsvEVd", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 271
-approved_guest_count: 101
-local_image: "images/wwClRE624eCpsxm0k0LP.png"
 canceled: false
+local_image: "images/wwClRE624eCpsxm0k0LP.png"
 ---
 
 # Physical AI: 
@@ -37,7 +34,6 @@ A Reality Check on AI’s Next Frontier by ALLSIDES & NVIDIA](images/wwClRE624eC
 **Hosts:** ALLSIDES, NVIDIA
 **When:** Wednesday, June 3, 2026 · 5:30pm ET
 **Where:** Dumbo · Dumbo, Brooklyn, New York, NY · Brooklyn
-**Going:** 267 of 271
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/wwClRE624eCpsxm0k0LP
 **Map:** https://www.google.com/maps/search/?api=1&query=Dumbo%2C%20Dumbo%2C%20Brooklyn%2C%20New%20York%2C%20NY
@@ -65,10 +61,6 @@ The conversation will explore how simulation, infrastructure, and AI come togeth
 This is a curated gathering of founders, investors, developers, and researchers working at the intersection of AI and the physical world.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

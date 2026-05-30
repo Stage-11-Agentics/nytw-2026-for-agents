@@ -11,22 +11,20 @@ host: "AIN Ventures, Differential Ventures"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/NsKvGW4mUmItETWlK3v4"
 public_short_url: "https://go.partiful.com/LxfawaSB"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJOiF2d5C5bIgXGf6pP6i%2F7zBlOa-hjN85zFZuljpee"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FxqKhRJ0fREMBztY4Q0QUlJQCcIj2%2FWsd1sHx9RBK3g0Vcgonhe?alt=media&token=a004cb0a-828c-4b7d-9e44-9334c6a8e96e"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 67
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["JOiF2d5C5bIgXGf6pP6i", "7DFu4rITofNzKIjA7hCx", "qPe4nG5jS9Y7OuvsjCWBmgyuJQt1", "xqKhRJ0fREMBztY4Q0QUlJQCcIj2"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 63
-total_guest_count: 71
-approved_guest_count: 37
-local_image: "images/NsKvGW4mUmItETWlK3v4.jpg"
+remaining_capacity: 17
 canceled: false
+approved_guest_count: 83
+local_image: "images/NsKvGW4mUmItETWlK3v4.jpg"
 ---
 
 # Beyond the Terminal: Building AI for the Real World
@@ -36,7 +34,7 @@ canceled: false
 **Hosts:** AIN Ventures, Differential Ventures  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 10:00am–12:00pm ET
 **Where:** SoHo
-**Capacity:** capped at 100 · 37 taken, 63 remaining
+**Capacity:** capped at 100 · 83 taken, 17 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/NsKvGW4mUmItETWlK3v4
 
@@ -57,10 +55,6 @@ AI is rapidly moving beyond static models into systems that learn and adapt to t
 The panel conversation will followed by a short networking reception. Light bites will be provided!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -11,30 +11,26 @@ host: "TheProductSociety"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/2QlDq6efVNjMcnOCGY3E"
 public_short_url: "https://go.partiful.com/NRY7Shoe"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2FiXetCaYIoBcLbA9WKSwhRNlhAoe2%2FK4aEPkIQC99nH2RfkMCos"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FiXetCaYIoBcLbA9WKSwhRNlhAoe2%2Fj6Prb2uEdGwGkZYoT4oDS?alt=media&token=af06b232-0e3f-4525-915d-60fa52740fdf"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 125
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["iXetCaYIoBcLbA9WKSwhRNlhAoe2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 128
-approved_guest_count: 0
-image_download_error: "HTTP Error 403: Forbidden"
 canceled: false
+local_image: "images/2QlDq6efVNjMcnOCGY3E.png"
 ---
 
 # Advanced Product Managers social
 
-![Advanced Product Managers social](https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2FiXetCaYIoBcLbA9WKSwhRNlhAoe2%2FK4aEPkIQC99nH2RfkMCos)
+![Advanced Product Managers social](images/2QlDq6efVNjMcnOCGY3E.png)
 
 **Hosts:** TheProductSociety  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–8:00pm ET
 **Where:** Chelsea
-**Going:** 125 of 128
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/2QlDq6efVNjMcnOCGY3E
 
@@ -59,10 +55,6 @@ This event is sponsored by Popadelics, and Rupee beer!
 Follow @Theproductsociety for future socials and dm for any questions
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

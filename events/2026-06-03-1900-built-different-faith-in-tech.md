@@ -7,34 +7,30 @@ start_time: "7:00pm ET"
 end_time: "10:00pm ET"
 start_iso: "2026-06-03T23:00:00.000Z"
 end_iso: "2026-06-04T02:00:00.000Z"
-host: "a16z, The Line"
+host: "The Line, a16z"
 neighborhood: "Meatpacking District"
 rsvp_url: "https://partiful.com/e/jrazXyiGkUZ8d8FqotR2"
 public_short_url: "https://go.partiful.com/6Yrqirdn"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FpukdMXO64MSN72u6mMaM6NFnxkA3%2FJ9aYYjBIQTPCTHwfpqM21"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FpukdMXO64MSN72u6mMaM6NFnxkA3%2FJ9aYYjBIQTPCTHwfpqM21?alt=media&token=a78a13d2-ef3e-4470-b226-0ade8d1a181a"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 60
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["pukdMXO64MSN72u6mMaM6NFnxkA3", "5VUUR2G7kBevY86haB6gdYxIVgr1", "7DFu4rITofNzKIjA7hCx", "Cs0fCzWBD4f4PxK9XtbUJWbL7Hl2"]
 is_capped: false
-total_guest_count: 61
-approved_guest_count: 23
-local_image: "images/jrazXyiGkUZ8d8FqotR2.jpg"
 canceled: false
+local_image: "images/jrazXyiGkUZ8d8FqotR2.jpg"
 ---
 
 # Built Different _ Faith in Tech
 
 ![Built Different _ Faith in Tech](images/jrazXyiGkUZ8d8FqotR2.jpg)
 
-**Hosts:** a16z, The Line  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** The Line, a16z  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 7:00pm–10:00pm ET
 **Where:** Meatpacking District
-**Going:** 60 of 61
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/jrazXyiGkUZ8d8FqotR2
 
@@ -65,10 +61,6 @@ This is not for everyone.
 Attendance is limited and approved to protect the depth and intention of the experience.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

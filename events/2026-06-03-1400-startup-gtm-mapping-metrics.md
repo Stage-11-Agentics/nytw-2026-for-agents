@@ -4,27 +4,25 @@ event_id: "MR78mhKL31baYtdbziHm"
 date: 2026-06-03
 day: "Wednesday"
 start_time: "2:00pm ET"
+end_time: "5:00pm ET"
 start_iso: "2026-06-03T18:00:00.000Z"
+end_iso: "2026-06-03T21:00:00.000Z"
 host: "Pollen8, Die-Hard.io, Edge Studio"
-venue_name: "Edge Studio Voice Over"
-venue_address: "115 W 45th St, FL 8, New York, NY 10036"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/MR78mhKL31baYtdbziHm"
 public_short_url: "https://go.partiful.com/EiECdfdm"
-google_maps: "https://www.google.com/maps/search/?api=1&query=115%20W%2045th%20St%2C%20FL%208%2C%20New%20York%2C%20NY%2010036"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FahVxpJsp11zKmHM2mZQq%2FXmzTsl9elUm0-GqFwyk1Q"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FahVxpJsp11zKmHM2mZQq%2FXmzTsl9elUm0-GqFwyk1Q?alt=media&token=7de3bd24-c007-4abd-892c-e37995b4778a"
 visibility: "public"
 at_capacity: false
-going_guest_count: 112
+going_guest_count: 222
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["ahVxpJsp11zKmHM2mZQq", "7DFu4rITofNzKIjA7hCx", "cf9875PKIt383yHcSMOb"]
 is_capped: false
-total_guest_count: 121
+canceled: false
 approved_guest_count: 0
 local_image: "images/MR78mhKL31baYtdbziHm.jpg"
-canceled: false
 ---
 
 # Startup GTM — Mapping + Metrics
@@ -32,11 +30,10 @@ canceled: false
 ![Startup GTM — Mapping + Metrics](images/MR78mhKL31baYtdbziHm.jpg)
 
 **Hosts:** Pollen8, Die-Hard.io, Edge Studio
-**When:** Wednesday, June 3, 2026 · 2:00pm ET
-**Where:** Edge Studio Voice Over · 115 W 45th St, FL 8, New York, NY 10036 · Midtown
-**Going:** 112 of 121
+**When:** Wednesday, June 3, 2026 · 2:00pm–5:00pm ET
+**Where:** Midtown
+**Going:** 222
 **RSVP:** https://partiful.com/e/MR78mhKL31baYtdbziHm
-**Map:** https://www.google.com/maps/search/?api=1&query=115%20W%2045th%20St%2C%20FL%208%2C%20New%20York%2C%20NY%2010036
 
 ### Hosts on Partiful
 
@@ -83,10 +80,6 @@ Insight into building repeatable growth loops
 Conversations with operators focused on scaling
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

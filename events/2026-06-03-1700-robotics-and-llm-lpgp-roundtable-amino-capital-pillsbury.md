@@ -14,32 +14,28 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/J5kt9cgXjjQeboadzazj"
 public_short_url: "https://go.partiful.com/s5K9u7qj"
 google_maps: "https://www.google.com/maps/search/?api=1&query=31%20W%2052nd%20St%2C%20New%20York%2C%20NY%2010019"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fb50V1RdDxGNpRGq0UzhjycGDBPL2%2FjOlEIR5AYDGT8qhJlEUeZ"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fb50V1RdDxGNpRGq0UzhjycGDBPL2%2FjOlEIR5AYDGT8qhJlEUeZ?alt=media&token=c18e6463-5f03-4716-9062-9342f8622450"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 109
 badges: []
 fetch_status: ok
-owner_count: 4
-owner_ids: ["b50V1RdDxGNpRGq0UzhjycGDBPL2", "7DFu4rITofNzKIjA7hCx", "5hnihCEZBXasDUptsjEj9MhRa023", "ZV9Scp3Nm7QTwgQ5fp9nSvPDlLO2"]
+owner_count: 5
+owner_ids: ["b50V1RdDxGNpRGq0UzhjycGDBPL2", "7DFu4rITofNzKIjA7hCx", "5hnihCEZBXasDUptsjEj9MhRa023", "ZV9Scp3Nm7QTwgQ5fp9nSvPDlLO2", "5FrTXyU59WYlFxCi4IAOmwbw04e2"]
 is_capped: true
-max_capacity: 100
-remaining_capacity: 37
-total_guest_count: 113
-approved_guest_count: 63
-local_image: "images/J5kt9cgXjjQeboadzazj.png"
+max_capacity: 153
 canceled: false
+local_image: "images/J5kt9cgXjjQeboadzazj.png"
 ---
 
 # Robotics and LLM: LP–GP Roundtable (Amino Capital, Pillsbury)
 
 ![Robotics and LLM: LP–GP Roundtable (Amino Capital, Pillsbury)](images/J5kt9cgXjjQeboadzazj.png)
 
-**Hosts:** Amino Capital  _(+3 more host(s) on Partiful — see description for full list)_
+**Hosts:** Amino Capital  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:00pm–7:30pm ET
 **Where:** Pillsbury Winthrop Shaw Pittman · 31 W 52nd St, New York, NY 10019 · Midtown
-**Capacity:** capped at 100 · 63 taken, 37 remaining
+**Capacity:** capped at 153
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/J5kt9cgXjjQeboadzazj
 **Map:** https://www.google.com/maps/search/?api=1&query=31%20W%2052nd%20St%2C%20New%20York%2C%20NY%2010019
@@ -48,7 +44,8 @@ canceled: false
 
 - [Sue Xu](https://partiful.com/u/b50V1RdDxGNpRGq0UzhjycGDBPL2)
 - [Meredith Kintner](https://partiful.com/u/5hnihCEZBXasDUptsjEj9MhRa023)
-- [user `ZV9Scp3Nm7QTwgQ5fp9nSvPDlLO2`](https://partiful.com/u/ZV9Scp3Nm7QTwgQ5fp9nSvPDlLO2) _(name not resolved)_
+- [Vishal Singh](https://partiful.com/u/ZV9Scp3Nm7QTwgQ5fp9nSvPDlLO2)
+- [Frances Luu & Sovann Prom](https://partiful.com/u/5FrTXyU59WYlFxCi4IAOmwbw04e2) — _Parents of Finley & Charlie Prom_
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -90,13 +87,19 @@ Evan Tao is the Co-Founder and CEO of Chestnut Robotics, with background includi
 
 Neal Jean, Ph.D., is the Co-founder and CEO of Beacons, an AI-driven platform for over 2 million creators, who leverages his Stanford machine learning background to build advanced tools for the creator economy.
 
+Kazuki Tanida, Sumitomo Heavy Industries USA
+
 ​Boyang Song, Portfolio Manager and Venture Investor, NataRock Partners (LP allocation perspective)
 
 Holly Wu, Director, North America Tech M&A, Venture and Partnerships at Mercedes-Benz
 
 ​Simon Kim, Principal, SK Telecom Ventures
 
-Sue Xu, Ph.D., Managing Partner at Amino Capital (2012-present)— angel investor in nearly 20 unicorns; postdoc and entrepreneurship mentor at Stanford University; founding CEO of Stanford spin-offs CandyHouse and CyteSi; UNGA 2024 speaker advocating AI for combating human trafficking and protecting women and children; recipient of the Outstanding Asian American Woman Who Dared award (2025); Board Member of Joy Library and Culture Foundation.
+Jerry Wang, Executive Chairman, Faraday Future, Faraday X Robotics
+
+Joanne Chien, Co-founder and CEO, Richoo
+
+Sue Xu, Ph.D., Managing Partner at Amino Capital (2012-present)
 
 ​This time around, we have a restricted number of openings for the upcoming intimate event. Feel free to submit your application, and if additional space becomes accessible, we will certainly accommodate more attendees.
 
@@ -120,10 +123,6 @@ Pillsbury is a leading international law firm advising innovative companies, inv
 
 
 ​This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -16,18 +16,16 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 205
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["DSUX5xFhgigOZOFJ8IsUFBOVV7J3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 150
-remaining_capacity: 43
-total_guest_count: 209
-approved_guest_count: 107
-local_image: "images/1DfnTdwjX1aN2XaPS5YC.png"
+remaining_capacity: 37
 canceled: false
+approved_guest_count: 113
+local_image: "images/1DfnTdwjX1aN2XaPS5YC.png"
 ---
 
 # Mastercard’s Discovering Quantum Computing
@@ -37,7 +35,7 @@ canceled: false
 **Hosts:** Mastercard  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 4:00pm ET
 **Where:** Mastercard · 150 Fifth Ave, New York, NY 10011 · Flatiron
-**Capacity:** capped at 150 · 107 taken, 43 remaining
+**Capacity:** capped at 150 · 113 taken, 37 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/1DfnTdwjX1aN2XaPS5YC
 **Map:** https://www.google.com/maps/search/?api=1&query=150%20Fifth%20Ave%2C%20New%20York%2C%20NY%2010011
@@ -53,10 +51,6 @@ canceled: false
 Join us at Mastercard’s NYC Tech Hub for Discovering Quantum, an event dedicated to demystifying the technology set to redefine computation as we know it. From qubits to quantum annealing, this event brings together pioneers at the forefront of quantum innovation to share insights, breakthroughs, and practical applications that are shaping the future.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -21,10 +21,9 @@ owner_ids: ["SLWhdjRfQ7XhKXm6G3beTLtTw5U2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
 remaining_capacity: 0
-total_guest_count: 55
+canceled: false
 approved_guest_count: 0
 local_image: "images/zgdltkCVCJs9VWdjnxpX.gif"
-canceled: false
 ---
 
 # Stop Guessing: How Top Teams Make Hiring Decisions      From Gut Feel to Structured Decisions
@@ -63,10 +62,6 @@ We’ll cover:
 For founders, operators, and hiring managers scaling teams.
 
 This event is part of #NYTechWeek — a week of events hosted by VCs and startups bringing together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

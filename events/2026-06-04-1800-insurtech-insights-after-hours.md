@@ -6,26 +6,21 @@ day: "Thursday"
 start_time: "6:00pm ET"
 start_iso: "2026-06-04T22:00:00.000Z"
 host: "VirtusLab"
-venue_name: "New York, NY"
-venue_address: "New York, NY"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/7YHD19kDNMhkBd3Az3wx"
 public_short_url: "https://go.partiful.com/Oc0QFWWn"
-google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F0IysbYnMdBTrjAojlzGUE7nsIKW2%2FXPb-0dH1YvkhmeYyd1KoM"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F0IysbYnMdBTrjAojlzGUE7nsIKW2%2FXPb-0dH1YvkhmeYyd1KoM?alt=media&token=0c91dbd3-0002-429c-b9b6-4425ccef69cb"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 36
 badges: []
 fetch_status: ok
 owner_count: 8
 owner_ids: ["AWwvoutHk1OjFIiagLtQzMDgDxW2", "HRzsLahIw1baysZFuCwWc3MxYwy2", "7DFu4rITofNzKIjA7hCx", "2zosxiEDxpVM7B4SIpzhYyXXv1A2", "azurLr0dJodo25Olf3x4SHm7Vha2", "hbmzkkSaeHOD9d2SH8ka4CUYDLX2", "0IysbYnMdBTrjAojlzGUE7nsIKW2", "sa6JbzJML0SUxRZqaRiyRR0lEd03"]
 is_capped: false
-total_guest_count: 38
-approved_guest_count: 4
-local_image: "images/7YHD19kDNMhkBd3Az3wx.jpg"
 canceled: false
+approved_guest_count: 13
+local_image: "images/7YHD19kDNMhkBd3Az3wx.jpg"
 ---
 
 # InsurTech Insights after-hours
@@ -34,11 +29,10 @@ canceled: false
 
 **Hosts:** VirtusLab  _(+7 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
-**Where:** New York, NY · New York, NY · Midtown
-**Going:** 36 of 38
+**Where:** Midtown
+**Going:** 13
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/7YHD19kDNMhkBd3Az3wx
-**Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -68,10 +62,6 @@ Sponsored by VirtusLab.
 VirtusLab is a technology partner for the insurance industry, bridging the gap that stands between ambition and execution for MGAs, Carriers, and Brokers.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

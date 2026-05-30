@@ -8,27 +8,23 @@ end_time: "11:00pm ET"
 start_iso: "2026-06-04T23:00:00.000Z"
 end_iso: "2026-06-05T03:00:00.000Z"
 host: "FLORA"
-venue_address: "300 Kent Ave, Brooklyn, NY 11249"
 neighborhood: "Brooklyn"
 rsvp_url: "https://partiful.com/e/OfGCygDIYyGdcDxkFikr"
 public_short_url: "https://go.partiful.com/TPw1ZgmG"
-google_maps: "https://www.google.com/maps/search/?api=1&query=300%20Kent%20Ave%2C%20Brooklyn%2C%20NY%2011249"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FF9JITQbuvUdeo0VdN817RkoHIDv2%2Fk5nJI-6qCcq8QL11xnt-C"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FF9JITQbuvUdeo0VdN817RkoHIDv2%2Fk5nJI-6qCcq8QL11xnt-C?alt=media&token=7c29fa32-a4c6-4f96-a255-03b7b82bdd48"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 136
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["F9JITQbuvUdeo0VdN817RkoHIDv2", "CjJI2iY5yRPowOiQj6WrCBCtyqV2", "7DFu4rITofNzKIjA7hCx", "heUE1uLKRPb2C9ZUTEYOqKUwqgI2"]
 is_capped: true
-max_capacity: 100
-remaining_capacity: 37
-total_guest_count: 140
-approved_guest_count: 63
-local_image: "images/OfGCygDIYyGdcDxkFikr.png"
+max_capacity: 175
+remaining_capacity: 2
 canceled: false
+approved_guest_count: 173
+local_image: "images/OfGCygDIYyGdcDxkFikr.png"
 ---
 
 # NEXUS: A Night for Creatives in AI
@@ -37,11 +33,10 @@ canceled: false
 
 **Hosts:** FLORA  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 7:00pm–11:00pm ET
-**Where:** 300 Kent Ave, Brooklyn, NY 11249 · Brooklyn
-**Capacity:** capped at 100 · 63 taken, 37 remaining
+**Where:** Brooklyn
+**Capacity:** capped at 175 · 173 taken, 2 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/OfGCygDIYyGdcDxkFikr
-**Map:** https://www.google.com/maps/search/?api=1&query=300%20Kent%20Ave%2C%20Brooklyn%2C%20NY%2011249
 
 ### Hosts on Partiful
 
@@ -69,6 +64,8 @@ Speakers:
 
 · Brent Vartan (Bullish, Co-Founder & Managing Director)
 
+· Alex Li (FLORA, Co-Founder) & Alec Harmon (FLORA, Staff Platform Engineer)
+
 Artist Lineup:
 
 · Vivian Wang on the decks (soundcloud.com/vivian-yu-wang)
@@ -84,10 +81,6 @@ Artist Lineup:
 · Audrey Chou presenting Laser Installation (instagram.com/_audreychou.studio_)
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

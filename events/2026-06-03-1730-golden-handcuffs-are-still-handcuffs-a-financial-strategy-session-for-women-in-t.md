@@ -14,22 +14,20 @@ neighborhood: "Nomad"
 rsvp_url: "https://partiful.com/e/bhnr3EP9n2yG63jDrQa7"
 public_short_url: "https://go.partiful.com/rg2Go3Vf"
 google_maps: "https://www.google.com/maps/search/?api=1&query=1204%20Broadway%2C%20New%20York%2C%20NY%2010001"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F2wZbZPlGMpbE9MNRiQAdSu3Y0QT2%2FBMgm917XZL9HeyExX7llf"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F2wZbZPlGMpbE9MNRiQAdSu3Y0QT2%2FBMgm917XZL9HeyExX7llf?alt=media&token=e4916e70-64fb-426a-a657-d2d897824b1c"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: true
-going_guest_count: 54
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["2wZbZPlGMpbE9MNRiQAdSu3Y0QT2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 35
-remaining_capacity: -1
-total_guest_count: 56
-approved_guest_count: 36
-local_image: "images/bhnr3EP9n2yG63jDrQa7.png"
+remaining_capacity: -13
 canceled: false
+approved_guest_count: 48
+local_image: "images/bhnr3EP9n2yG63jDrQa7.png"
 ---
 
 # Golden Handcuffs are still Handcuffs: A Financial Strategy Session for Women in Tech
@@ -41,7 +39,7 @@ canceled: false
 **Hosts:** Alana D'Angelica Coaching & Consulting  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:30pm–7:00pm ET
 **Where:** Luminary · 1204 Broadway, New York, NY 10001 · Nomad
-**Capacity:** capped at 35 · 36 taken, -1 remaining
+**Capacity:** capped at 35 · 48 taken, -13 remaining
 **Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/bhnr3EP9n2yG63jDrQa7
@@ -68,10 +66,6 @@ In this session, we’ll walk through a practical framework to:
 So when you think about your next chapter - whether that’s a break, a pivot, or something new - you’re actually in a position to choose it.
 
 Includes a 45-minute session followed by Q&A and networking over wine and light bites.
-
-
-
-
 
 
 

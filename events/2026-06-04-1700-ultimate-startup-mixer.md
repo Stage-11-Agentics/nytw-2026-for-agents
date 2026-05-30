@@ -12,37 +12,37 @@ neighborhood: "East Village"
 rsvp_url: "https://partiful.com/e/WeAEyXk7Z8ZVyIvTgn1P"
 public_short_url: "https://go.partiful.com/2mkMqqg8"
 google_maps: "https://www.google.com/maps/search/?api=1&query=110%20Delancey%20St%2C%20New%20York%2C%20NY%2010002"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F8ljlUHnSH7YawwtJulVZrwjPLQU2%2F9Zz1wGkHLpRnt_HJtCZHD"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F8ljlUHnSH7YawwtJulVZrwjPLQU2%2F9Zz1wGkHLpRnt_HJtCZHD?alt=media&token=3793995f-3564-4bd7-b74c-c79f6e67c897"
 visibility: "public"
 at_capacity: false
-going_guest_count: 29
+going_guest_count: 52
 badges: []
 fetch_status: ok
-owner_count: 2
-owner_ids: ["8ljlUHnSH7YawwtJulVZrwjPLQU2", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 3
+owner_ids: ["8ljlUHnSH7YawwtJulVZrwjPLQU2", "7DFu4rITofNzKIjA7hCx", "DZSlsEjLpxOq4GpfoFOiDNUEVyn1"]
 is_capped: true
 max_capacity: 120
-remaining_capacity: 89
-total_guest_count: 52
+remaining_capacity: 68
+canceled: false
 approved_guest_count: 0
 local_image: "images/WeAEyXk7Z8ZVyIvTgn1P.png"
-canceled: false
 ---
 
 # Ultimate startup mixer
 
 ![Ultimate startup mixer](images/WeAEyXk7Z8ZVyIvTgn1P.png)
 
-**Hosts:** Startup+  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Startup+  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:00pm ET
 **Where:** Sour Mouse · 110 Delancey St, New York, NY 10002 · East Village
-**Capacity:** capped at 120 · 31 taken, 89 remaining
+**Capacity:** capped at 120 · 52 taken, 68 remaining
 **RSVP:** https://partiful.com/e/WeAEyXk7Z8ZVyIvTgn1P
 **Map:** https://www.google.com/maps/search/?api=1&query=110%20Delancey%20St%2C%20New%20York%2C%20NY%2010002
 
 ### Hosts on Partiful
 
 - [Startup+](https://partiful.com/u/8ljlUHnSH7YawwtJulVZrwjPLQU2) — _Startup+ is NYC’s largest post-pandemic startup community—bringing together founders, investors, and operators through high-energy pitch nights, networking mixers, and real conversations (not small talk). Come for the vibe, stay for the people. 🚀_
+- [Holly Sawyer](https://partiful.com/u/DZSlsEjLpxOq4GpfoFOiDNUEVyn1) — _Events Lead at SeedLegals, the full-stack legal platform from incorporation to Series A and beyond._
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -78,10 +78,6 @@ By joining, you agree that photos/video taken may be used in future Startup+ pro
 See you IRL!!!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

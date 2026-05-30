@@ -11,21 +11,20 @@ host: "LUMAS Gallery"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/cwByFgUxH8YwBKozvBcP"
 public_short_url: "https://go.partiful.com/eWXqlQcb"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJ1JEFpEAjiSDLw1v8uEBIjjtKhf2%2FWrQxvGNoppWrm7ktaDDaQ"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJ1JEFpEAjiSDLw1v8uEBIjjtKhf2%2FWrQxvGNoppWrm7ktaDDaQ?alt=media&token=1bce7bcc-e118-4765-907e-5dd3848deea1"
 visibility: "public"
 at_capacity: false
-going_guest_count: 126
+going_guest_count: 285
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["J1JEFpEAjiSDLw1v8uEBIjjtKhf2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 300
-remaining_capacity: 170
-total_guest_count: 132
+remaining_capacity: 15
+canceled: false
 approved_guest_count: 0
 local_image: "images/cwByFgUxH8YwBKozvBcP.jpg"
-canceled: false
 ---
 
 # AI & Arts - Sip and Learn
@@ -35,7 +34,7 @@ canceled: false
 **Hosts:** LUMAS Gallery  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm–8:00pm ET
 **Where:** SoHo
-**Capacity:** capped at 300 · 130 taken, 170 remaining
+**Capacity:** capped at 300 · 285 taken, 15 remaining
 **RSVP:** https://partiful.com/e/cwByFgUxH8YwBKozvBcP
 
 ### Hosts on Partiful
@@ -55,10 +54,6 @@ In focus: Contemporary works that make new artistic possibilities visible - from
 With drinks, music, and a relaxed atmosphere, we invite you to a conversation about what endures - and what's emerging.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

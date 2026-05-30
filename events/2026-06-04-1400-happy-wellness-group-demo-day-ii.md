@@ -14,20 +14,17 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/ZKdzI3nrlNT6w8ofxtWk"
 public_short_url: "https://go.partiful.com/S5Fdx5yj"
 google_maps: "https://www.google.com/maps/search/?api=1&query=524%20W%2059th%20St%2C%20New%20York%2C%20NY%2010019"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FYnhffflreVWukMgbHpnzJmp8VnC3%2FU5r3b6od5kFpt9v6wi9Ws"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FYnhffflreVWukMgbHpnzJmp8VnC3%2FU5r3b6od5kFpt9v6wi9Ws?alt=media&token=0bf821f9-e7e2-4bda-9c70-a4374566f378"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 139
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["YnhffflreVWukMgbHpnzJmp8VnC3", "7DFu4rITofNzKIjA7hCx", "WLBS05YTjFVK2CU1nK8TTZv6ICI3"]
 is_capped: false
-total_guest_count: 145
-approved_guest_count: 47
-local_image: "images/ZKdzI3nrlNT6w8ofxtWk.png"
 canceled: false
+local_image: "images/ZKdzI3nrlNT6w8ofxtWk.png"
 ---
 
 # Happy Wellness Group Demo Day II
@@ -37,7 +34,6 @@ canceled: false
 **Hosts:** Happy Wellness Group  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 2:00pm–5:30pm ET
 **Where:** Gerald W. Lynch Theater · 524 W 59th St, New York, NY 10019 · Midtown
-**Going:** 139 of 145
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ZKdzI3nrlNT6w8ofxtWk
 **Map:** https://www.google.com/maps/search/?api=1&query=524%20W%2059th%20St%2C%20New%20York%2C%20NY%2010019
@@ -57,6 +53,13 @@ The main event, taking place in a gorgeous theater in midtown Manhattan, is a fa
 
 Every seat in the room holds real capital, and every pitch has the potential to change a company’s trajectory. This is where the next category-defining wellness brands may be discovered.
 
+*Key Note Speaker:
+Andrew Yang, Entrepreneur & Former Presidential Candidate, CEO of Noble Mobile (https://noblemobile.com/)
+
+*With Special Guest (in honor of America 250):
+Lauren Brzozowski, U.S. National Bobsled Team & Olympic Hopeful
+(https://www.usabs.com/profiles/lauren-brzozowski)
+
 Thank you to our partner sponsors:
 Michael Loeb's Uncharted Community (https://www.joinuncharted.com/)
 Quay Acceleration (https://www.quay.co/)
@@ -66,11 +69,12 @@ Seed-Stage Sponsor:
 Ramp (https://ramp.com/)
 
 In-Kind Sponsors (over 20K worth of prizes) :
-Gildr, Acorn PD, CPG Growth, Hawke Media, Swapt QR
+Gildr, Acorn PD, CPG Growth, Hawke Media, Swapt QR, Reitler Law
 
 VIP Judges:
 Dan Einhorn - General Partner, Capital Midwest Fund (https://www.capitalmidwest.com/)
 Nate Kline - Managing General Partner, Cistern Capital (https://cistern-capital.com/)
+Delphine Le Grand - Co-Founder, Protocole (https://theprotocole.com)
 
 *Disclaimer: This event is intended primarily for investors. Founders will be invited on a very selective basis to attend for free, or can attend as a sponsor. Additional information might be requested to confirm your attendance after you register. 
 
@@ -81,10 +85,6 @@ Event Slide Deck: https://drive.google.com/file/d/1lmkBVtdE6KAvOwAjvpWgAZM1mFmRP
 Interested in pitching? Applications close on  5/8 https://form.jotform.com/260854543442155
 
 Interested in sponsoring? Applications close on  5/8  https://form.jotform.com/260877906415163
-
-
-
-
 
 
 

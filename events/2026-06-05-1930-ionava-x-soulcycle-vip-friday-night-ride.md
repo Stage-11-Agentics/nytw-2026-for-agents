@@ -14,20 +14,20 @@ neighborhood: "Greenwich Village"
 rsvp_url: "https://partiful.com/e/0Acg5QNuZq1LMb3lI20Q"
 public_short_url: "https://go.partiful.com/2uN6xYOu"
 google_maps: "https://www.google.com/maps/search/?api=1&query=384%20Lafayette%20St%2C%20New%20York%2C%20NY%2010003"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FOSXT5FliwDUt8iw0yG7vHxtJJdx1%2FLarkaKpQikhtKsQ_uUgS_"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FOSXT5FliwDUt8iw0yG7vHxtJJdx1%2Fgqs0LGKHUh338VMtxHFll?alt=media&token=4645c8cf-21f9-4b3e-9232-8c165b19f8a3"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 119
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["WwPo1IF9JXPDA8cCyY7JoBQzA8M2", "7DFu4rITofNzKIjA7hCx", "swEfJ2jFMsQYhSyj47EKpMw6Gg03", "OSXT5FliwDUt8iw0yG7vHxtJJdx1"]
-is_capped: false
-total_guest_count: 121
-approved_guest_count: 0
-local_image: "images/0Acg5QNuZq1LMb3lI20Q.png"
+is_capped: true
+max_capacity: 60
+remaining_capacity: 29
 canceled: false
+approved_guest_count: 31
+local_image: "images/0Acg5QNuZq1LMb3lI20Q.png"
 ---
 
 # ionava x SoulCycle: VIP Friday Night Ride
@@ -37,7 +37,7 @@ canceled: false
 **Hosts:** ionava, SoulCycle  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 7:30pm–9:30pm ET
 **Where:** SoulCycle - NoHo · 384 Lafayette St, New York, NY 10003 · Greenwich Village
-**Going:** 119 of 121
+**Capacity:** capped at 60 · 31 taken, 29 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/0Acg5QNuZq1LMb3lI20Q
 **Map:** https://www.google.com/maps/search/?api=1&query=384%20Lafayette%20St%2C%20New%20York%2C%20NY%2010003
@@ -65,10 +65,6 @@ By signing up for our event, you agree to join Club ionava and receive emails wi
 Please kindly note that photography and videography will take place throughout the event. By attending, you consent to the use of your likeness, voice, and appearance in event recap, promotional, and marketing materials by ionava, SoulCycle, and their partners.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

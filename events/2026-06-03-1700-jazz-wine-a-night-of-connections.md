@@ -11,21 +11,20 @@ host: "Alt-Black, TriNet"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/AweaKcED4gNSr3LJzfCG"
 public_short_url: "https://go.partiful.com/LsuEQHXv"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F7aa4U8SjslZXiWCpmYuScG4nFAq1%2FMtZHMJa_3nGn56B6q6w_O"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F7aa4U8SjslZXiWCpmYuScG4nFAq1%2FMtZHMJa_3nGn56B6q6w_O?alt=media&token=33002f94-4d45-44c9-8c72-c7188cbe2ed6"
 visibility: "public"
 at_capacity: true
-going_guest_count: 150
+going_guest_count: 151
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["7aa4U8SjslZXiWCpmYuScG4nFAq1", "7DFu4rITofNzKIjA7hCx", "jD8RMiQGflgg0lOUshTbKBWM4JP2"]
 is_capped: true
-max_capacity: 150
+max_capacity: 151
 remaining_capacity: 0
-total_guest_count: 347
+canceled: false
 approved_guest_count: 0
 local_image: "images/AweaKcED4gNSr3LJzfCG.png"
-canceled: false
 ---
 
 # Jazz & Wine: A Night of Connections
@@ -35,7 +34,7 @@ canceled: false
 **Hosts:** Alt-Black, TriNet  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:00pm–8:00pm ET
 **Where:** Midtown
-**Capacity:** capped at 150 · 150 taken, 0 remaining · ⚠ **FULL**
+**Capacity:** capped at 151 · 151 taken, 0 remaining · ⚠ **FULL**
 **Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/AweaKcED4gNSr3LJzfCG
 
@@ -57,10 +56,6 @@ End your day in the Big Apple with the perfect blend of melody, flavor, and conn
 Join us for a memorable close to your evening, where great wine meets great minds.
 
 This event is a part of #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

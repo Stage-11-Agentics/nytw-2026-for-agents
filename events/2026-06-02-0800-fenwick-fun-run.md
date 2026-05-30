@@ -11,20 +11,18 @@ host: "Fenwick"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/BflyCpXXs8gQCLPyme7y"
 public_short_url: "https://go.partiful.com/QnDHAi8L"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FBEyCEP4Eh7hBy5ga4vUt%2FP468anhGktErm8AcZ1CZ5"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FBEyCEP4Eh7hBy5ga4vUt%2FP468anhGktErm8AcZ1CZ5?alt=media&token=63efcee2-b90d-4dfe-b5bc-c8ad97f8ad14"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 68
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["BEyCEP4Eh7hBy5ga4vUt", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 70
-approved_guest_count: 60
-local_image: "images/BflyCpXXs8gQCLPyme7y.png"
 canceled: false
+approved_guest_count: 129
+local_image: "images/BflyCpXXs8gQCLPyme7y.png"
 ---
 
 # Fenwick Fun Run
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** Fenwick  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 8:00am–10:00am ET
 **Where:** Flatiron
-**Going:** 68 of 70
+**Going:** 129
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/BflyCpXXs8gQCLPyme7y
 
@@ -55,10 +53,6 @@ The run will be led by professional running coaches Matt and Sammy McClintock!
 By confirming your attendance you agree to receive communications and updates from Fenwick.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

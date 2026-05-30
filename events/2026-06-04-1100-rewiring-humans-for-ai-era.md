@@ -13,21 +13,20 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/3FJhBMtmVPBNG5pIaPlb"
 public_short_url: "https://go.partiful.com/LRgREfiY"
 google_maps: "https://www.google.com/maps/search/?api=1&query=12%20W%2056th%20St%2C%20New%20York%2C%20NY%2010019"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FTEQkc4HMmNdMtaHM5bFLE4K4PvD3%2FHqkHsCpF92obS8gt0TDM5"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FTEQkc4HMmNdMtaHM5bFLE4K4PvD3%2FHqkHsCpF92obS8gt0TDM5?alt=media&token=a2a0c980-bf56-4ee6-a978-e5912958695f"
 visibility: "public"
-at_capacity: false
-going_guest_count: 20
+at_capacity: true
+going_guest_count: 40
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["TEQkc4HMmNdMtaHM5bFLE4K4PvD3", "UFLWR7fz5AmfgETqvyYh", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 40
-remaining_capacity: 19
-total_guest_count: 24
+remaining_capacity: 0
+canceled: false
 approved_guest_count: 0
 local_image: "images/3FJhBMtmVPBNG5pIaPlb.png"
-canceled: false
 ---
 
 # Rewiring Humans for AI Era
@@ -37,7 +36,8 @@ canceled: false
 **Hosts:** RobinTests, Consulate General of Argentina in New York  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 11:00am–12:30pm ET
 **Where:** 12 W 56th St, New York, NY 10019 · Midtown
-**Capacity:** capped at 40 · 21 taken, 19 remaining
+**Capacity:** capped at 40 · 40 taken, 0 remaining · ⚠ **FULL**
+**Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/3FJhBMtmVPBNG5pIaPlb
 **Map:** https://www.google.com/maps/search/?api=1&query=12%20W%2056th%20St%2C%20New%20York%2C%20NY%2010019
 
@@ -85,10 +85,6 @@ Presented by Argentine neurotechnology company RobinTests, with the support of t
 Join founder Noelia Aguirre for an exploration into why the AI economy may also become the Brain Economy — and what humans will need to become truly AI-ready.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

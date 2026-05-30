@@ -11,32 +11,35 @@ host: "Vonage"
 neighborhood: "Central Park"
 rsvp_url: "https://partiful.com/e/AxEyDd2VdRrG1VU7mG3P"
 public_short_url: "https://go.partiful.com/GQ8A6HE7"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FAElXoekF405ZK2ScPNuq%2Fai3nUw6FMsTZgpj0JFQaZ"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FAElXoekF405ZK2ScPNuq%2Fai3nUw6FMsTZgpj0JFQaZ?alt=media&token=4bd9cc9f-d4d8-45c7-813d-8d2dd177390f"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 54
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["AElXoekF405ZK2ScPNuq", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 100
-remaining_capacity: 67
-total_guest_count: 54
-approved_guest_count: 33
+max_capacity: 35
+remaining_capacity: 3
+canceled: true
+canceled_at: "2026-05-29T18:52:30.007Z"
+canceled_by: "AElXoekF405ZK2ScPNuq"
+approved_guest_count: 32
 local_image: "images/AxEyDd2VdRrG1VU7mG3P.png"
-canceled: false
 ---
 
 # Communications APIs & Coffee w/ Vonage...A Stroll through Central Park
+
+> ## ⚠ CANCELED  
+> _canceled 2026-05-29T18:52:30.007Z_
 
 ![Communications APIs & Coffee w/ Vonage...A Stroll through Central Park](images/AxEyDd2VdRrG1VU7mG3P.png)
 
 **Hosts:** Vonage  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 8:30am–10:30am ET
 **Where:** Central Park
-**Capacity:** capped at 100 · 33 taken, 67 remaining
+**Capacity:** capped at 35 · 32 taken, 3 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/AxEyDd2VdRrG1VU7mG3P
 
@@ -54,10 +57,6 @@ Bring your questions.
 Apply to the Vonage Startup Program here: https://vonage.dev/startups-NY-tech-week
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

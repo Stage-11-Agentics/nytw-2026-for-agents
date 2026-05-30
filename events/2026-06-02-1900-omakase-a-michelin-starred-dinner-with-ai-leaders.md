@@ -12,22 +12,20 @@ neighborhood: "Lower East Side"
 rsvp_url: "https://partiful.com/e/FCICxMPNjXHXmSYNvQPn"
 public_short_url: "https://go.partiful.com/LaEsXFIg"
 google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FHYtKPsUbTaR5pm6pediBfFQgDCj2%2FhwaHfzHYHRE8n47tyEpeQ"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FHYtKPsUbTaR5pm6pediBfFQgDCj2%2FhwaHfzHYHRE8n47tyEpeQ?alt=media&token=66f55954-0841-4a97-8e5c-203e304ba2b1"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 184
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["HYtKPsUbTaR5pm6pediBfFQgDCj2", "7DFu4rITofNzKIjA7hCx", "aePIFrBPOihpPW7wAGdrriodJKx1"]
 is_capped: true
 max_capacity: 10
-remaining_capacity: 9
-total_guest_count: 186
-approved_guest_count: 1
-local_image: "images/FCICxMPNjXHXmSYNvQPn.png"
+remaining_capacity: -16
 canceled: false
+approved_guest_count: 26
+local_image: "images/FCICxMPNjXHXmSYNvQPn.png"
 ---
 
 # Omakase - A Michelin-starred dinner with AI Leaders
@@ -37,7 +35,8 @@ canceled: false
 **Hosts:** Lyzr  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 7:00pm ET
 **Where:** New York, NY · New York, NY · Lower East Side
-**Capacity:** capped at 10 · 1 taken, 9 remaining
+**Capacity:** capped at 10 · 26 taken, -16 remaining
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/FCICxMPNjXHXmSYNvQPn
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -67,10 +66,6 @@ Counter seating means no head of the table. Every voice carries. You'll leave fu
 By invitation only. Address shared with confirmed guests closer to the date. Kindly confirm by May 26.
 
 This event is a part of #NYTechWeek - a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

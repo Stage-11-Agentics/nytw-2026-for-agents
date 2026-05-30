@@ -11,20 +11,18 @@ host: "NexPost"
 neighborhood: "Nomad"
 rsvp_url: "https://partiful.com/e/zJHDqWIiejSqWi4VR7Hq"
 public_short_url: "https://go.partiful.com/UcaNNHe2"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FwgY7gTxfPfRUZRBTn51Fy5Tmex72%2FZiEaNMXtrF6C4giynOvCL"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FwgY7gTxfPfRUZRBTn51Fy5Tmex72%2FZiEaNMXtrF6C4giynOvCL?alt=media&token=cc4c3255-4c62-44f6-ae14-0ba5d23890bd"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 96
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["wgY7gTxfPfRUZRBTn51Fy5Tmex72", "7DFu4rITofNzKIjA7hCx", "xamEr6EWU0cgsySD7lXTe84U8Em2"]
 is_capped: false
-total_guest_count: 99
-approved_guest_count: 93
-local_image: "images/zJHDqWIiejSqWi4VR7Hq.png"
 canceled: false
+approved_guest_count: 128
+local_image: "images/zJHDqWIiejSqWi4VR7Hq.png"
 ---
 
 # From Idea to Impact: Building Products That Actually Ship
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** NexPost  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 3:00pm–5:00pm ET
 **Where:** Nomad
-**Going:** 96 of 99
+**Going:** 128
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/zJHDqWIiejSqWi4VR7Hq
 
@@ -86,7 +84,8 @@ Bring your laptop.
 • Operators working on 0 → 1 ideas
 • Ideal for: aspiring entrepreneurs, early-stage founders, indie builders, product managers, and operators ready to move from idea to MVP
 
-📍 Nomad, Manhattan, NYC (exact location TBD)
+📍 Hunter College (CUNY) – Room 603
+ 695 Park Avenue, New York, NY 10065
 📅 Tuesday, June 2
 ⏰ 3:00 PM – 5:00 PM
 
@@ -95,10 +94,6 @@ Come ready to think, build, and leave with something real.
 Spots are limited. Save your spot.
 
 This event is a part of NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

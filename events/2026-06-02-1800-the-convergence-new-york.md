@@ -11,20 +11,17 @@ host: "1985 Capital"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/oAa83UPQN9OaHE8Pvaya"
 public_short_url: "https://go.partiful.com/DCWh5sVY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FCQjrFOXGP9zTYYZKqKrk%2FPQJmwGFUlEJF8wVHw6GSN"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FCQjrFOXGP9zTYYZKqKrk%2FPQJmwGFUlEJF8wVHw6GSN?alt=media&token=7b031f0b-fb85-43b9-b31d-dd6e5cec8784"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 434
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["CQjrFOXGP9zTYYZKqKrk", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 442
-approved_guest_count: 14
-local_image: "images/oAa83UPQN9OaHE8Pvaya.png"
 canceled: false
+local_image: "images/oAa83UPQN9OaHE8Pvaya.png"
 ---
 
 # The Convergence: New York
@@ -34,7 +31,6 @@ canceled: false
 **Hosts:** 1985 Capital  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–8:00pm ET
 **Where:** Financial District
-**Going:** 434 of 442
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/oAa83UPQN9OaHE8Pvaya
 
@@ -51,10 +47,6 @@ The Convergence: New York - the flagship gathering from 1985 Capital - brings to
 This invite-only, off-the-record evening will feature candid conversations around how world-shaping companies are built, positioned, and scaled by the leaders who've defined them.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

@@ -13,20 +13,17 @@ neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/bbf0MhFQiA55SIIJN7J6"
 public_short_url: "https://go.partiful.com/2lFKhKb2"
 google_maps: "https://www.google.com/maps/search/?api=1&query=110%20W%2019th%20St%2C%20New%20York%2C%20NY%2010011"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FrHxCovxMAacoEZ9KuJHPjAYLTDu2%2F_7BssHXxQAnvcfPhHaygr"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FrHxCovxMAacoEZ9KuJHPjAYLTDu2%2F_7BssHXxQAnvcfPhHaygr?alt=media&token=8157690e-bcd2-4bd0-b73f-23813b128009"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 82
 badges: []
 fetch_status: ok
 owner_count: 5
 owner_ids: ["rHxCovxMAacoEZ9KuJHPjAYLTDu2", "7DFu4rITofNzKIjA7hCx", "jYY4FSHvOINOTESXcxi37xmIqKg2", "UYuAoIBauwYSbU0yAop5YziWdL83", "A6QMGq8qSxO0ms2FI62s8LGwumO2"]
 is_capped: false
-total_guest_count: 86
-approved_guest_count: 76
-local_image: "images/bbf0MhFQiA55SIIJN7J6.png"
 canceled: false
+local_image: "images/bbf0MhFQiA55SIIJN7J6.png"
 ---
 
 # Ditch the Script: Building AI-Augmented Agents with CX Agent Studio
@@ -36,7 +33,6 @@ canceled: false
 **Hosts:** Google for Startups  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 2:00pm–3:45pm ET
 **Where:** 110 W 19th St, New York, NY 10011 · Chelsea
-**Going:** 82 of 86
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/bbf0MhFQiA55SIIJN7J6
 **Map:** https://www.google.com/maps/search/?api=1&query=110%20W%2019th%20St%2C%20New%20York%2C%20NY%2010011
@@ -64,10 +60,6 @@ We expect these sessions to fill up quickly and be in high demand.  Space is lim
 Guests will be permitted in the Google for Startups Hub only during the time slot they are approved for.  
 
 We invite all guests to return for the Google For Developers Happy Hour at 4p.  Only those with valid badges will be permitted, space allowing.
-
-
-
-
 
 
 

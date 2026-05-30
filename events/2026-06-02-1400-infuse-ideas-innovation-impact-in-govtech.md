@@ -6,26 +6,20 @@ day: "Tuesday"
 start_time: "2:00pm ET"
 start_iso: "2026-06-02T18:00:00.000Z"
 host: "ZenGov"
-venue_name: "Flatiron"
-venue_address: "Flatiron, Manhattan, New York, NY"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/9N0RjmWO3QMw0GCbSndf"
 public_short_url: "https://go.partiful.com/QBLhPIoJ"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY"
 image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 64
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["tJhChuMUoJUVcog6J7lPLcJcHVD3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 66
-approved_guest_count: 0
-local_image: "images/9N0RjmWO3QMw0GCbSndf.png"
 canceled: false
+local_image: "images/9N0RjmWO3QMw0GCbSndf.png"
 ---
 
 # Infuse  - Ideas, Innovation, & Impact in GovTech
@@ -34,11 +28,9 @@ canceled: false
 
 **Hosts:** ZenGov  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 2:00pm ET
-**Where:** Flatiron · Flatiron, Manhattan, New York, NY · Flatiron
-**Going:** 64 of 66
+**Where:** Flatiron
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/9N0RjmWO3QMw0GCbSndf
-**Map:** https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -52,10 +44,6 @@ Join us for a meetup hosted by our team at ZenGov. We’ll kick things off with 
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

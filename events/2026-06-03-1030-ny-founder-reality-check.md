@@ -14,20 +14,18 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/gP72ufePZapekTZvw8WN"
 public_short_url: "https://go.partiful.com/fKFHZSbW"
 google_maps: "https://www.google.com/maps/search/?api=1&query=124%20E%2014th%20St%2C%20New%20York%2C%20NY%2010003"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FYh6usLcWMtKQpmnCCEjj%2F9EwT4tVT4eQKkOSZ1Nitx"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FYh6usLcWMtKQpmnCCEjj%2F9EwT4tVT4eQKkOSZ1Nitx?alt=media&token=7e143c22-b0d9-4eb4-b565-39c9b450a1a3"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 480
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["7DFu4rITofNzKIjA7hCx", "Yh6usLcWMtKQpmnCCEjj", "zEG6fYpKocBg6rTqxCy7", "VzZxTvtvyBMMN8ixL6tBaVjx9983"]
 is_capped: false
-total_guest_count: 480
-approved_guest_count: 83
-local_image: "images/gP72ufePZapekTZvw8WN.png"
 canceled: false
+approved_guest_count: 118
+local_image: "images/gP72ufePZapekTZvw8WN.png"
 ---
 
 # NY: FOUNDER REALITY CHECK
@@ -37,7 +35,7 @@ canceled: false
 **Hosts:** York Effect  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 10:30am–12:30pm ET
 **Where:** Civic Hall · 124 E 14th St, New York, NY 10003 · Midtown
-**Going:** 480
+**Going:** 118
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/gP72ufePZapekTZvw8WN
 **Map:** https://www.google.com/maps/search/?api=1&query=124%20E%2014th%20St%2C%20New%20York%2C%20NY%2010003
@@ -62,10 +60,6 @@ Who It’s For:
 Founders (Pre-Seed to Series A) who need to scale: revenue; customers; or product.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

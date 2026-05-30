@@ -9,21 +9,20 @@ host: "Finta"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/7Vqi83f78jnzCQpxqes7"
 public_short_url: "https://go.partiful.com/BW4YTCbJ"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FAq4xOZOuV5RHadYqLTy12vt0vYm1%2F8a-XQUEG2U57VdWCrPCS-"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FAq4xOZOuV5RHadYqLTy12vt0vYm1%2F8a-XQUEG2U57VdWCrPCS-?alt=media&token=aebf311a-a3c3-4793-adda-02245a85a02b"
 visibility: "public"
-at_capacity: false
-going_guest_count: 60
+at_capacity: true
+going_guest_count: 100
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["Aq4xOZOuV5RHadYqLTy12vt0vYm1", "7DFu4rITofNzKIjA7hCx", "z7wGSIYiFaZ6yB492TopitXU6i83"]
 is_capped: true
-max_capacity: 70
-remaining_capacity: 9
-total_guest_count: 63
+max_capacity: 100
+remaining_capacity: 0
+canceled: false
 approved_guest_count: 0
 local_image: "images/7Vqi83f78jnzCQpxqes7.png"
-canceled: false
 ---
 
 # The Relationship Layer of Capital
@@ -33,7 +32,8 @@ canceled: false
 **Hosts:** Finta  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:30pm ET
 **Where:** Flatiron
-**Capacity:** capped at 70 · 61 taken, 9 remaining
+**Capacity:** capped at 100 · 100 taken, 0 remaining · ⚠ **FULL**
+**Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/7Vqi83f78jnzCQpxqes7
 
 ### Hosts on Partiful
@@ -50,10 +50,6 @@ Capital still moves through trust, but the tooling and tactics around that trust
 Hosted by Kevin Siskar, CEO of Finta, with additional speakers (TBD) from the founder/investor/operator ecosystem. What makes it special is that this is a direct conversation about how capital actually moves now, with a real product/news hook instead of another vague “future of AI” panel.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

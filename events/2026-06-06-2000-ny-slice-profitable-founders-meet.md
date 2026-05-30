@@ -14,20 +14,18 @@ neighborhood: "Tribeca"
 rsvp_url: "https://partiful.com/e/tYvAB17by93hhfnp5k8H"
 public_short_url: "https://go.partiful.com/RgGE0abJ"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Tribeca%2C%20Tribeca%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FUNITvnclNeMr8X0tQpy4sS3MIAH3%2FgNCjSxWNQNoIufVw0ubPq"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FUNITvnclNeMr8X0tQpy4sS3MIAH3%2FgNCjSxWNQNoIufVw0ubPq?alt=media&token=5f4af5f3-6e1d-4fda-9425-0ed42002b8d1"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 2024
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["UNITvnclNeMr8X0tQpy4sS3MIAH3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 2027
-approved_guest_count: 55
-local_image: "images/tYvAB17by93hhfnp5k8H.png"
 canceled: false
+approved_guest_count: 84
+local_image: "images/tYvAB17by93hhfnp5k8H.png"
 ---
 
 # NY Slice Profitable Founders Meet
@@ -37,7 +35,7 @@ canceled: false
 **Hosts:** staaake  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 8:00pm–9:00pm ET
 **Where:** Tribeca · Tribeca, Manhattan, New York, NY · Tribeca
-**Going:** 2024 of 2027
+**Going:** 84
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/tYvAB17by93hhfnp5k8H
 **Map:** https://www.google.com/maps/search/?api=1&query=Tribeca%2C%20Tribeca%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -67,9 +65,15 @@ Reverse Networking events can happen anywhere, from parks and co-working spaces 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
+Sponsor
 
+SeedLegals
+https://seedlegals.com/us/
+SeedLegals is the platform and team to help you get investment ready and raise investment.
 
+staaake
 
+**www.staaake.com**
 
 
 

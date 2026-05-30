@@ -11,20 +11,18 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/HbxTd2UuJeIGLlNF9NFX"
 public_short_url: "https://go.partiful.com/zoVLN5e1"
 google_maps: "https://www.google.com/maps/search/?api=1&query=60%20E%2042nd%20St%2C%20New%20York%2C%20NY%2010017"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FCxPo24N2NBNYhGy2DvSAg9NmgHA2%2FeIXrDtsIqtu2eIIlxJyjx"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FCxPo24N2NBNYhGy2DvSAg9NmgHA2%2FeIXrDtsIqtu2eIIlxJyjx?alt=media&token=189c2fec-4e2f-4b87-b140-0717192ff349"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 86
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["CxPo24N2NBNYhGy2DvSAg9NmgHA2", "7DFu4rITofNzKIjA7hCx", "O7jKw8XDSvNmTn8oFlt0hOv2Jaf1"]
-is_capped: false
-total_guest_count: 90
-approved_guest_count: 9
-local_image: "images/HbxTd2UuJeIGLlNF9NFX.jpg"
+is_capped: true
+max_capacity: 50
 canceled: false
+local_image: "images/HbxTd2UuJeIGLlNF9NFX.jpg"
 ---
 
 # Change Agents: Tech for Sustainability
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** GPM, MIGSO-PCUBE  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:00pm ET
 **Where:** 60 E 42nd St, New York, NY 10017 · Midtown
-**Going:** 86 of 90
+**Capacity:** capped at 50
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/HbxTd2UuJeIGLlNF9NFX
 **Map:** https://www.google.com/maps/search/?api=1&query=60%20E%2042nd%20St%2C%20New%20York%2C%20NY%2010017
@@ -63,10 +61,6 @@ The goal is not to build a polished product, but to explore ideas, test concepts
 Spots are limited ✨
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

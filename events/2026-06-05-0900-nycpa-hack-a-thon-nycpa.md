@@ -11,19 +11,20 @@ host: "NYCPA"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/BGETQMMJexGVcvaJYX6l"
 public_short_url: "https://go.partiful.com/UC4gl59O"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FztinVizeexW8yrhXcqkcChaD7013%2FTCVOrBVf8OfvBe3ay41pj"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FztinVizeexW8yrhXcqkcChaD7013%2FTCVOrBVf8OfvBe3ay41pj?alt=media&token=d819d1dd-4a56-4a7c-816b-50c9f93b1034"
 visibility: "public"
+guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 133
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["ztinVizeexW8yrhXcqkcChaD7013", "7DFu4rITofNzKIjA7hCx"]
-is_capped: false
-total_guest_count: 147
-approved_guest_count: 0
-local_image: "images/BGETQMMJexGVcvaJYX6l.png"
+is_capped: true
+max_capacity: 150
+remaining_capacity: 1
 canceled: false
+approved_guest_count: 149
+local_image: "images/BGETQMMJexGVcvaJYX6l.png"
 ---
 
 # NYCPA 
@@ -35,7 +36,8 @@ Hack-a-thon - #NYCPA](images/BGETQMMJexGVcvaJYX6l.png)
 **Hosts:** NYCPA  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 9:00am–3:45pm ET
 **Where:** Midtown
-**Going:** 133 of 147
+**Capacity:** capped at 150 · 149 taken, 1 remaining
+**Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/BGETQMMJexGVcvaJYX6l
 
 ### Hosts on Partiful
@@ -87,10 +89,6 @@ This event is a part of #NYTechWeek—a week of events hosted by VCs and startup
 
 
 
-
-
-
-
 ---
 
-[RSVP on Partiful →](https://partiful.com/e/BGETQMMJexGVcvaJYX6l)
+[Apply on Partiful →](https://partiful.com/e/BGETQMMJexGVcvaJYX6l)

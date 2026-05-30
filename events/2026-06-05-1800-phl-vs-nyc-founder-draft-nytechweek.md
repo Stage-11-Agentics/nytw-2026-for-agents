@@ -5,39 +5,35 @@ date: 2026-06-05
 day: "Friday"
 start_time: "6:00pm ET"
 start_iso: "2026-06-05T22:00:00.000Z"
-host: "localhost:nyc, TechBrig, Pace University"
+host: "localhost:nyc, TechBrig, Seera, Brown Rudnick"
 venue_name: "Brown Rudnick"
 venue_address: "1451 Broadway, New York, NY 10036"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/vMnZZEd9ek0rQ09zFpeE"
 public_short_url: "https://go.partiful.com/dNMZo0CX"
 google_maps: "https://www.google.com/maps/search/?api=1&query=1451%20Broadway%2C%20New%20York%2C%20NY%2010036"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FuHJLUU6DQ2QpVViHnv6XkETL5Ba2%2FIWCXzTKvF6Ftv0cKl2vFC"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FuHJLUU6DQ2QpVViHnv6XkETL5Ba2%2FIpAUDkmN9Y2iFs_A9AVEH?alt=media&token=3512ba8d-0275-486c-9f8d-5c2e0de553bc"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 108
 badges: []
 fetch_status: ok
 owner_count: 5
 owner_ids: ["abET93wpY3QwFNI5Lr1nGyQhPGs1", "7DFu4rITofNzKIjA7hCx", "uHJLUU6DQ2QpVViHnv6XkETL5Ba2", "XeyiV04XN9c6njCpPumpyzGH6l53", "RiCsGweHtncbU1QawlqeR8Uthc13"]
 is_capped: true
-max_capacity: 150
-remaining_capacity: 55
-total_guest_count: 108
-approved_guest_count: 95
-local_image: "images/vMnZZEd9ek0rQ09zFpeE.png"
+max_capacity: 250
 canceled: false
+local_image: "images/vMnZZEd9ek0rQ09zFpeE.png"
 ---
 
 # PHL vs NYC Founder Draft - #NYTECHWEEK
 
 ![PHL vs NYC Founder Draft - #NYTECHWEEK](images/vMnZZEd9ek0rQ09zFpeE.png)
 
-**Hosts:** localhost:nyc, TechBrig, Pace University  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** localhost:nyc, TechBrig, Seera, Brown Rudnick  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 6:00pm ET
 **Where:** Brown Rudnick · 1451 Broadway, New York, NY 10036 · Midtown
-**Capacity:** capped at 150 · 95 taken, 55 remaining
+**Capacity:** capped at 250
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/vMnZZEd9ek0rQ09zFpeE
 **Map:** https://www.google.com/maps/search/?api=1&query=1451%20Broadway%2C%20New%20York%2C%20NY%2010036
@@ -61,9 +57,7 @@ We’ll have three seed-stage B2B founders from each city pitching two VCs from 
 
 Come watch Philly and NYC go head-to-head, back your city, and leave knowing exactly who showed up strong.
 
-
-
-
+This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
 
 
 

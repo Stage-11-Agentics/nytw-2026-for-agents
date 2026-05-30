@@ -6,27 +6,23 @@ day: "Monday"
 start_time: "10:00am ET"
 start_iso: "2026-06-01T14:00:00.000Z"
 host: "Comida For Familias, Inc."
-venue_name: "Tempe, AZ"
-venue_address: "Tempe, AZ"
 neighborhood: "Virtual (NYC)"
 rsvp_url: "https://partiful.com/e/w5gAuNIs4Dq5I6cYkPia"
 public_short_url: "https://go.partiful.com/1Zsielmx"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Tempe%2C%20AZ%2C%20Tempe%2C%20AZ"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FMywbddbwhfmxufVTHlYr%2FBiT5jsTYkz8-pQgkAZl70"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FMywbddbwhfmxufVTHlYr%2FBiT5jsTYkz8-pQgkAZl70?alt=media&token=ceabfd8c-0e02-41d7-8f15-dbe02ee3dd19"
 visibility: "public"
-at_capacity: false
-going_guest_count: 13
+at_capacity: true
+going_guest_count: 20
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["MywbddbwhfmxufVTHlYr", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 20
-remaining_capacity: 7
-total_guest_count: 16
+remaining_capacity: 0
+canceled: false
 approved_guest_count: 0
 local_image: "images/w5gAuNIs4Dq5I6cYkPia.png"
-canceled: false
 ---
 
 # CEO Intern Public Service Entrepreneurship
@@ -35,10 +31,10 @@ canceled: false
 
 **Hosts:** Comida For Familias, Inc.
 **When:** Monday, June 1, 2026 · 10:00am ET
-**Where:** Tempe, AZ · Tempe, AZ · Virtual (NYC)
-**Capacity:** capped at 20 · 13 taken, 7 remaining
+**Where:** Virtual (NYC)
+**Capacity:** capped at 20 · 20 taken, 0 remaining · ⚠ **FULL**
+**Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/w5gAuNIs4Dq5I6cYkPia
-**Map:** https://www.google.com/maps/search/?api=1&query=Tempe%2C%20AZ%2C%20Tempe%2C%20AZ
 
 ### Hosts on Partiful
 
@@ -51,10 +47,6 @@ canceled: false
 Join CEO Intern's seminar to discover how you can become CEO of a tax-exempt organization and qualify for student loan forgiveness. This session provides a comprehensive overview of eligibility requirements for a certain loan forgiveness program and informs you on all of the activities you can accomplish for your vision on social entrepreneurship. Explore how entrepreneurs can establish tax-exempt organizations to advance scientific, educational, and charitable initiatives for the public benefit.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem.  Learn more at www.tech-week.com.
-
-
-
-
 
 
 

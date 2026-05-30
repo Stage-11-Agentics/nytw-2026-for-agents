@@ -16,16 +16,13 @@ image: "https://assets.getpartiful.com/posters/Happy%20Hour%203"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 90
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["L8bDXUAz6aRFO3n845nudRzDMiT2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 90
-approved_guest_count: 0
-local_image: "images/DcfibtJxRFnjfeZzA7PZ.jpg"
 canceled: false
+local_image: "images/DcfibtJxRFnjfeZzA7PZ.jpg"
 ---
 
 # Politics to Tech: A NYC Happy Hour
@@ -35,7 +32,6 @@ canceled: false
 **Hosts:** EO Ventures  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
 **Where:** West Village · West Village, Manhattan, New York, NY · West Village
-**Going:** 90
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/DcfibtJxRFnjfeZzA7PZ
 **Map:** https://www.google.com/maps/search/?api=1&query=West%20Village%2C%20West%20Village%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -55,10 +51,6 @@ Hosted by Kate Cummings, Partner at EO Ventures.
 EO Ventures was founded by Bill Helman (ex-Greylock) and Roland Fryer (Harvard economist) to back companies that increase economic mobility in America.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

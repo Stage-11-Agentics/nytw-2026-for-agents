@@ -14,20 +14,18 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/QfUCKBQL13W8DA0Yutl5"
 public_short_url: "https://go.partiful.com/qeyldsPi"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Times%20Square%2C%20Times%20Square%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FsTIJ2YE7hBxj4qTtFef2%2FWtVh2_bHc_DynAzkQCoNj"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FsTIJ2YE7hBxj4qTtFef2%2FWtVh2_bHc_DynAzkQCoNj?alt=media&token=6f93ab69-d186-49fc-8cb7-2e1fea4babf2"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 1550
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["sTIJ2YE7hBxj4qTtFef2", "7DFu4rITofNzKIjA7hCx", "udWBQaNpZ0g8WCCqqqycT7l674t1", "UWpPqGnRW9am64wqkkU3eCAWFgr2"]
 is_capped: false
-total_guest_count: 1571
-approved_guest_count: 308
-local_image: "images/QfUCKBQL13W8DA0Yutl5.png"
 canceled: false
+approved_guest_count: 400
+local_image: "images/QfUCKBQL13W8DA0Yutl5.png"
 ---
 
 # Networking Happy Hour by Morgan Stanley Inclusive & Sustainable Ventures and QUAY Acceleration
@@ -37,7 +35,7 @@ canceled: false
 **Hosts:** QUAY Acceleration, Morgan Stanley Inclusive & Sustainable Ventures  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 5:00pm–7:00pm ET
 **Where:** Times Square · Times Square, Manhattan, New York, NY · Midtown
-**Going:** 1550 of 1571
+**Going:** 400
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/QfUCKBQL13W8DA0Yutl5
 **Map:** https://www.google.com/maps/search/?api=1&query=Times%20Square%2C%20Times%20Square%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -69,10 +67,6 @@ Morgan Stanley Inclusive & Sustainable Ventures provides early-stage innovators 
 
 About QUAY Acceleration:
 QUAY Acceleration supports US and international economic development groups to generate business outcomes through our accelerator programs. Our goal is to assist innovators in exploring new markets and achieving business growth by providing exceptional knowledge, connections, and resources. We collaborate with a network of public and private partners to deliver customized programs for startups across the globe. Learn more at https://www.quay.co/
-
-
-
-
 
 
 

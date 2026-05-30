@@ -14,20 +14,17 @@ neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/LCvyYaFwldgIhU0yb8cW"
 public_short_url: "https://go.partiful.com/zh4trCyS"
 google_maps: "https://www.google.com/maps/search/?api=1&query=406%20Broome%20St%2C%20New%20York%2C%20NY%2010013"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FmiIhAjTZRJoFd1pKLShN%2F_1UFtBQoNGnO0jyGRAOqO"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FmiIhAjTZRJoFd1pKLShN%2F_1UFtBQoNGnO0jyGRAOqO?alt=media&token=ca757c1e-d2d1-497a-9a4c-f3f791bf7411"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 683
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["r1HQcxBufIckLJmYm1RKRhLUKEo1", "miIhAjTZRJoFd1pKLShN", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 691
-approved_guest_count: 68
-local_image: "images/LCvyYaFwldgIhU0yb8cW.png"
 canceled: false
+local_image: "images/LCvyYaFwldgIhU0yb8cW.png"
 ---
 
 # Tech Week Closing Party by Madeline & Co. + Excelsior Edge Ventures
@@ -37,7 +34,6 @@ canceled: false
 **Hosts:** Madeline & Co., Excelsior Edge Ventures  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 7:00pm–10:00pm ET
 **Where:** Ketchy Shuby · 406 Broome St, New York, NY 10013 · SoHo
-**Going:** 683 of 691
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/LCvyYaFwldgIhU0yb8cW
 **Map:** https://www.google.com/maps/search/?api=1&query=406%20Broome%20St%2C%20New%20York%2C%20NY%2010013
@@ -56,6 +52,11 @@ Get early access:   https://www.madeline.one/waitlist_
 
 ## Description
 
+Stop browsing 1,400 events. Madweek curates your perfect TechWeek in 30 seconds — free. → https://madweek.madeline.one
+
+We built Madweek for TechWeek, one of our fav weeks of the year - and one of the most exhausting. You show up with a list and leave with a blur. Met someone important Tuesday, can't remember their name Friday. $80 Ubers to the wrong venue. A brilliant panel and nothing published. So we built Madweek. Tell Madeline who you are. She builds your schedule, navigates you between events, captures panels, and remembers everyone you meet. Free  —>  https://madweek.madeline.one
+Madweek by Madeline & Co. 
+
 Monday, June 1 - 8PM
 TechWeek opening night party for founders, investors, operators, and the AI/startup community.
 https://partiful.com/e/SoDNNl5aPjceB4M661s4?c=hiAmmX2_
@@ -71,13 +72,7 @@ A live venture-building sprint where founders build and sharpen new ventures fro
 https://partiful.com/e/qyk65dBFAtgDutz68VMK
 
 For sponsorships, partnerships, or media inquiries, contact: events@madeline.one
-
---
-
-Our friends at Concentrate AI are giving our community $100 in free AI credits (Claude, OpenAI, Gemini + more). One API, all the major models, instant savings.
-
-Sign up at concentrate.ai, list Madeline as your source, and ping their Help Chat if you need anything: tinyurl.com/yc68has4
-----
+------
 
 We’re closing NY Tech Week in true New York fashion: underground, high-energy, curated, and a little dangerous in the tasteful way.
 
@@ -108,10 +103,6 @@ https://www.thelewfirm.com/
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

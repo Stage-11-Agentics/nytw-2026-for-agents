@@ -13,16 +13,14 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 22
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["2guvWZ07SdR1kBH442f9FdQ3Hi02", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 22
-approved_guest_count: 20
-local_image: "images/mfI66ljwzfZeqxn7v52g.png"
 canceled: false
+approved_guest_count: 30
+local_image: "images/mfI66ljwzfZeqxn7v52g.png"
 ---
 
 # The Founder's Exit Hackathon: From Identity to Asset
@@ -32,7 +30,7 @@ canceled: false
 **Hosts:** Exette  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 11:00am ET
 **Where:** Flatiron
-**Going:** 22
+**Going:** 30
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/mfI66ljwzfZeqxn7v52g
 
@@ -47,9 +45,12 @@ canceled: false
 Most exit readiness programs focus on financials. This one focuses on you.
 
 The number one barrier women cite to exiting their business is not valuation. It is identity. Who am I without this company? Do I deserve this exit?
+
 The founders who exit on their own terms, who convert what they have built into lasting wealth, started thinking about it long before they were ready to sell. This workshop is for established women founders who are scaling, not selling. Yet.
 
-Guided by Alisha Pennington, multi-seven figure exited founder and creator of Exette, this workshop moves established women founders through a structured framework addressing the psychosocial, emotional, and identity dimensions that determine whether a woman actually exits or just keeps building past the point she should have stopped.
+Guided by three experts who have lived and worked every dimension of the exit, this workshop moves established women founders through a structured framework addressing the psychosocial, emotional, identity, financial, and operational work that determines whether a woman actually exits or just keeps building past the point she should have stopped.
+
+Alisha Pennington, multi-seven figure exited founder and creator of Exette, leads the identity and psychosocial framework. Alexis Allen, CEPA of the Teixeira Loughran Group, brings the financial planning lens, helping founders understand what their business is worth and what it takes to convert it into lasting wealth. Adrienne Dorison of Level 11 Leaders, covers the operational side, helping founders build a business that runs without them so the exit is actually possible.
 
 You leave with a personal exit identity roadmap and a clear picture of what it means to build your business as a wealth asset, not an extension of your worth.
 
@@ -57,11 +58,14 @@ Alisha's Social Connection Links:
 https://www.instagram.com/itsalishamp
 https://www.linkedin.com/in/alisha-m-pennington
 
+Alexis' Social Connection Links:
+https://www.linkedin.com/in/alexisteixeira/
+
+Adrienne's Social Connection Links: 
+https://www.instagram.com/adriennedorison
+https://www.linkedin.com/in/adriennedorison/
+
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

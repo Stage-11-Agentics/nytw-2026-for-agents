@@ -11,20 +11,21 @@ host: "Build First, Studio Rodrigo"
 neighborhood: "Brooklyn"
 rsvp_url: "https://partiful.com/e/N7nJMJdM3bIOtaUWfcmN"
 public_short_url: "https://go.partiful.com/PvcttFb0"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FDHQcmBL6hDbqj1mMH9azif9oZXd2%2FXFyQ5jOUG1NyNIKv2w7dj"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FDHQcmBL6hDbqj1mMH9azif9oZXd2%2FXFyQ5jOUG1NyNIKv2w7dj?alt=media&token=7bc4ee0c-a6c3-4cc4-848c-e727b078ebf1"
 visibility: "public"
 guest_action: "RSVP"
-at_capacity: false
-going_guest_count: 173
+at_capacity: true
+going_guest_count: 299
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["CjbTluOMkUhnrWyl2RALBgZjmLi1", "7DFu4rITofNzKIjA7hCx", "DHQcmBL6hDbqj1mMH9azif9oZXd2", "xHTPwyHTapcvdRu2wj8B0THhJQh2"]
-is_capped: false
-total_guest_count: 201
+is_capped: true
+max_capacity: 299
+remaining_capacity: 0
+canceled: false
 approved_guest_count: 0
 local_image: "images/N7nJMJdM3bIOtaUWfcmN.png"
-canceled: false
 ---
 
 # Design Thinking Meets AI: Book Talk & Live Build
@@ -34,7 +35,8 @@ canceled: false
 **Hosts:** Build First, Studio Rodrigo  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 5:00pm–7:30pm ET
 **Where:** Brooklyn
-**Going:** 173 of 201
+**Capacity:** capped at 299 · 299 taken, 0 remaining · ⚠ **FULL**
+**Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/N7nJMJdM3bIOtaUWfcmN
 
 ### Hosts on Partiful
@@ -77,10 +79,6 @@ Bethany and Louise will take a design concept from the book and build it live, i
 ​https://www.studiorodrigo.com/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

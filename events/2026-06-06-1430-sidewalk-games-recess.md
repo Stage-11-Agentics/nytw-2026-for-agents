@@ -14,21 +14,20 @@ neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/0YT8cdfJmiZ7RfwO6QNv"
 public_short_url: "https://go.partiful.com/IuZpnhXC"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Liberty%20St%2C%20New%20York%2C%20NY%2010006"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FBCPm5SM8jYrtNPBiXe5j%2Fjy7baYTfAgZW2oX4vl907"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FBCPm5SM8jYrtNPBiXe5j%2Fjy7baYTfAgZW2oX4vl907?alt=media&token=60ca8d57-473d-478a-b9a0-27d2966acfaf"
 visibility: "public"
 at_capacity: false
-going_guest_count: 14
+going_guest_count: 24
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["BCPm5SM8jYrtNPBiXe5j", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 45
-remaining_capacity: 31
-total_guest_count: 27
+remaining_capacity: 21
+canceled: false
 approved_guest_count: 0
 local_image: "images/0YT8cdfJmiZ7RfwO6QNv.png"
-canceled: false
 ---
 
 # Sidewalk Games: Recess
@@ -38,7 +37,7 @@ canceled: false
 **Hosts:** Urban Origins NYC  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 2:30pm–5:00pm ET
 **Where:** Zuccotti Park · Liberty St, New York, NY 10006 · Financial District
-**Capacity:** capped at 45 · 14 taken, 31 remaining
+**Capacity:** capped at 45 · 24 taken, 21 remaining
 **RSVP:** https://partiful.com/e/0YT8cdfJmiZ7RfwO6QNv
 **Map:** https://www.google.com/maps/search/?api=1&query=Liberty%20St%2C%20New%20York%2C%20NY%2010006
 
@@ -63,10 +62,6 @@ Founders, operators, and anyone in tech who wants to meet people somewhere other
 This is a free event hosted by Urban Origins, makers of Sidewalk Games — outdoor, team-building experiences.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

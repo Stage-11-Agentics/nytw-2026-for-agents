@@ -11,20 +11,17 @@ host: "Nutrinity"
 neighborhood: "Queens"
 rsvp_url: "https://partiful.com/e/p7KXoFYmCuOcPl7nBRkg"
 public_short_url: "https://go.partiful.com/7Z61fXsT"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FxCFbBGkKtdOpxtbWMBnLlNK7pDU2%2Fyf0TI-_ISvqqHEAl43dC2"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FxCFbBGkKtdOpxtbWMBnLlNK7pDU2%2Fyf0TI-_ISvqqHEAl43dC2?alt=media&token=666b028a-dcc4-42d3-83b4-42fce4db6db1"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 60
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["xCFbBGkKtdOpxtbWMBnLlNK7pDU2", "mFze2IGWOyMbxeqxGugfruwDBk73", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 62
-approved_guest_count: 58
-local_image: "images/p7KXoFYmCuOcPl7nBRkg.png"
 canceled: false
+local_image: "images/p7KXoFYmCuOcPl7nBRkg.png"
 ---
 
 # Nutrinity: Data to Diet - #NYTECHWEEK
@@ -34,7 +31,6 @@ canceled: false
 **Hosts:** Nutrinity  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Sunday, June 7, 2026 · 3:00pm–5:00pm ET
 **Where:** Queens
-**Going:** 60 of 62
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/p7KXoFYmCuOcPl7nBRkg
 
@@ -74,10 +70,6 @@ About Us
 Nutrinity is an AI driven platform focused on transforming nutrition from a manual process into an intelligent system. By combining real-time data, user preferences, and external inputs such as food availability, the platform generates optimized meal decisions aligned with performance and lifestyle. Instead of acting as a passive tracker, it operates as an active decision engine that continuously adapts and refines outputs, reducing friction and making optimization the default. Learn more here: https://nutrinity.app
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

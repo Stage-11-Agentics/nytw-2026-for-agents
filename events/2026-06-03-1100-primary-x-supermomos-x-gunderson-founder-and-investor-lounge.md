@@ -7,39 +7,32 @@ start_time: "11:00am ET"
 end_time: "2:00pm ET"
 start_iso: "2026-06-03T15:00:00.000Z"
 end_iso: "2026-06-03T18:00:00.000Z"
-host: "Supermomos, Gunderson Dettmer, Primary Venture Partners"
-venue_address: "1250 Broadway, New York, NY 10001"
+host: "Gunderson Dettmer, Supermomos, Primary Venture Partners"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/4XKbTFLap5PbNCSGsQMC"
 public_short_url: "https://go.partiful.com/OoZljrJx"
-google_maps: "https://www.google.com/maps/search/?api=1&query=1250%20Broadway%2C%20New%20York%2C%20NY%2010001"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fm09P8fAm1xStBpeJa2Ua%2F5sS-fDoMfGaEG2kwK7J7p"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fm09P8fAm1xStBpeJa2Ua%2F5sS-fDoMfGaEG2kwK7J7p?alt=media&token=a63518f9-78d9-4e14-9083-dd2743a52f52"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 217
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["m09P8fAm1xStBpeJa2Ua", "7DFu4rITofNzKIjA7hCx", "TT201iOG2FhEdSw0dhnBKd26kct2", "iWo82h1ANVTansHF9NVS"]
 is_capped: false
-total_guest_count: 220
-approved_guest_count: 192
-local_image: "images/4XKbTFLap5PbNCSGsQMC.png"
 canceled: false
+local_image: "images/4XKbTFLap5PbNCSGsQMC.png"
 ---
 
 # Primary x Supermomos x Gunderson: Founder and Investor Lounge
 
 ![Primary x Supermomos x Gunderson: Founder and Investor Lounge](images/4XKbTFLap5PbNCSGsQMC.png)
 
-**Hosts:** Supermomos, Gunderson Dettmer, Primary Venture Partners  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Gunderson Dettmer, Supermomos, Primary Venture Partners  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 11:00am–2:00pm ET
-**Where:** 1250 Broadway, New York, NY 10001 · Midtown
-**Going:** 217 of 220
+**Where:** Midtown
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/4XKbTFLap5PbNCSGsQMC
-**Map:** https://www.google.com/maps/search/?api=1&query=1250%20Broadway%2C%20New%20York%2C%20NY%2010001
 
 ### Hosts on Partiful
 
@@ -72,10 +65,6 @@ Supermomos is NYC's premier platform for connecting with professional communitie
 Primary is the largest dedicated seed firm in the country, with $1.6B in AUM, a 60-person team, and sector-specialized partners across Compute, Healthcare, GTM, Enterprise AI, Fintech, Cybersecurity, Vertical AI, Industrials, and Consumer. The Impact team outnumbers investors 2:1 and runs at full operating intensity year-round: 2,500 hours of embedded fractional leadership, 3,000 candidate interviews, a live pool of 5,000+ job seekers, and 250 events for the NYC tech community.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

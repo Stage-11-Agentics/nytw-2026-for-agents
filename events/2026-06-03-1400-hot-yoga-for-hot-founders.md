@@ -14,19 +14,18 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/w4CqnXyNmx6In2gtvd9m"
 public_short_url: "https://go.partiful.com/74yFQFJD"
 google_maps: "https://www.google.com/maps/search/?api=1&query=24%20W%2040th%20St%2C%20New%20York%2C%20NY%2010018"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FTcqU5BM2tdcjY3xv7KoVEbzImxh2%2FUUXFtNuiYkfVHVzMMhuPI"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FTcqU5BM2tdcjY3xv7KoVEbzImxh2%2FUUXFtNuiYkfVHVzMMhuPI?alt=media&token=626a786f-f691-4c54-9bc1-0afd80161857"
 visibility: "public"
 at_capacity: false
-going_guest_count: 197
+going_guest_count: 262
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["TcqU5BM2tdcjY3xv7KoVEbzImxh2", "7DFu4rITofNzKIjA7hCx", "D4YtiHl4xrQqmXxFfhu2", "HWKWBnsoITSBn6rPhJ6Rgll5qSu1"]
 is_capped: false
-total_guest_count: 208
+canceled: false
 approved_guest_count: 0
 local_image: "images/w4CqnXyNmx6In2gtvd9m.jpg"
-canceled: false
 ---
 
 # Hot Yoga for Hot Founders
@@ -36,7 +35,7 @@ canceled: false
 **Hosts:** Propel Earth  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 2:00pm–4:00pm ET
 **Where:** CorePower Yoga - Bryant Park · 24 W 40th St, New York, NY 10018 · Midtown
-**Going:** 197 of 208
+**Going:** 262
 **RSVP:** https://partiful.com/e/w4CqnXyNmx6In2gtvd9m
 **Map:** https://www.google.com/maps/search/?api=1&query=24%20W%2040th%20St%2C%20New%20York%2C%20NY%2010018
 
@@ -53,10 +52,6 @@ canceled: false
 Take some time to align in the middle of tech week and enjoy a relaxing yoga session at Core Power Yoga - Bryant Park
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

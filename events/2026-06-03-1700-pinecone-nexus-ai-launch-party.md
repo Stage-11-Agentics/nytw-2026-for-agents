@@ -11,20 +11,18 @@ host: "Pinecone"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/47mPwA31ZZoWx6Tzozgr"
 public_short_url: "https://go.partiful.com/DrPtvtvo"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fqgw0HnD9FXStanimR4Zi65d5Cjy2%2Fq4dLYqtuFPUVobmAEgXEv"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fqgw0HnD9FXStanimR4Zi65d5Cjy2%2Fq4dLYqtuFPUVobmAEgXEv?alt=media&token=ec38d343-143a-4319-9631-ff8d6f4a837b"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 254
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["qgw0HnD9FXStanimR4Zi65d5Cjy2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 259
-approved_guest_count: 207
-local_image: "images/47mPwA31ZZoWx6Tzozgr.png"
 canceled: false
+approved_guest_count: 325
+local_image: "images/47mPwA31ZZoWx6Tzozgr.png"
 ---
 
 # Pinecone Nexus AI Launch Party
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** Pinecone  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:00pm–7:00pm ET
 **Where:** Flatiron
-**Going:** 254 of 259
+**Going:** 325
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/47mPwA31ZZoWx6Tzozgr
 
@@ -50,11 +48,9 @@ Come celebrate the launch of Pinecone Nexus with us!
 
 We're throwing a party and you're invited. Come hang with the Pinecone team, get an early look at what we've been building, and meet some of the coolest people in NYC tech.
 
+We will start at 5:15 pm ET with a presentation and demo of Pinecone Nexus from our VP of Product, Jeff Zhu, followed by Q&A. The remaining time will be networking with your peers. Light snacks will be provided. 
+
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

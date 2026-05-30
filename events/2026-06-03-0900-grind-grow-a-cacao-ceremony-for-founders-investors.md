@@ -8,23 +8,24 @@ end_time: "11:00am ET"
 start_iso: "2026-06-03T13:00:00.000Z"
 end_iso: "2026-06-03T15:00:00.000Z"
 host: "A-Players, Brderless"
+venue_name: "Hotel on Rivington"
+venue_address: "107 Rivington St, New York, NY 10002"
 neighborhood: "Lower East Side"
 rsvp_url: "https://partiful.com/e/NCbNEdj2iHAMwKqJkBHa"
 public_short_url: "https://go.partiful.com/Qh109I5A"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FQOpFAiUjgoVX8wPRlCMDylys4pT2%2FWuwwmFmezV5DHHJRzoghc"
+google_maps: "https://www.google.com/maps/search/?api=1&query=107%20Rivington%20St%2C%20New%20York%2C%20NY%2010002"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FQOpFAiUjgoVX8wPRlCMDylys4pT2%2FWuwwmFmezV5DHHJRzoghc?alt=media&token=bc442fc3-6f10-4f89-ab27-e49e7a5654b2"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 66
 badges: []
 fetch_status: ok
 owner_count: 8
 owner_ids: ["QOpFAiUjgoVX8wPRlCMDylys4pT2", "6Hbi8dGlMjVDfl4YMep1jBCnpPR2", "X7a2veUUbIbLRxoWLSnlcmgKsfL2", "xK2xrhlVa6a0nn9lW7ZZrAsHgL43", "7DFu4rITofNzKIjA7hCx", "9yb9hCLElcbDViid0mk9", "tXYPu3w5uwgIpMx1alpO9Xxifnl2", "2HOxyKETjjdzNUriQKbSGOqfLL92"]
-is_capped: false
-total_guest_count: 70
-approved_guest_count: 3
-local_image: "images/NCbNEdj2iHAMwKqJkBHa.png"
+is_capped: true
+max_capacity: 24
 canceled: false
+local_image: "images/NCbNEdj2iHAMwKqJkBHa.png"
 ---
 
 # Grind & Grow: A Cacao Ceremony for Founders & Investors
@@ -33,10 +34,11 @@ canceled: false
 
 **Hosts:** A-Players, Brderless  _(+6 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 9:00am–11:00am ET
-**Where:** Lower East Side
-**Going:** 66 of 70
+**Where:** Hotel on Rivington · 107 Rivington St, New York, NY 10002 · Lower East Side
+**Capacity:** capped at 24
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/NCbNEdj2iHAMwKqJkBHa
+**Map:** https://www.google.com/maps/search/?api=1&query=107%20Rivington%20St%2C%20New%20York%2C%20NY%2010002
 
 ### Hosts on Partiful
 
@@ -77,10 +79,6 @@ wiggin(x) is Wiggin and Dana’s venture-focused platform for high-growth compan
 Silicon Valley Bank (SVB) specializes in providing clients, especially at the earliest stages, a dedicated Relationship Team to help founders access startup-focused resources (including venture debt), optimize their banking infrastructure, and bridge relevant connections across the innovation economy.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

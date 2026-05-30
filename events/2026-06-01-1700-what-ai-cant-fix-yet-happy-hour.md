@@ -11,20 +11,18 @@ host: "Somnio Software"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/rsCEzQaaJQJ2gbgdNrvP"
 public_short_url: "https://go.partiful.com/tibYnbju"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FzfA0IY70Q7WMpDzAgzKjiUMH6gg2%2FUnNHZ-NSwZ9mk-HDHxMIt"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FzfA0IY70Q7WMpDzAgzKjiUMH6gg2%2FUnNHZ-NSwZ9mk-HDHxMIt?alt=media&token=a4b113ad-14ea-40db-91d7-44440f5e24c0"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 84
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["zfA0IY70Q7WMpDzAgzKjiUMH6gg2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 89
+canceled: false
 approved_guest_count: 0
 local_image: "images/rsCEzQaaJQJ2gbgdNrvP.png"
-canceled: false
 ---
 
 # 🥃 What AI Can't Fix Yet
@@ -36,7 +34,6 @@ Happy Hour](images/rsCEzQaaJQJ2gbgdNrvP.png)
 **Hosts:** Somnio Software  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 5:00pm–7:00pm ET
 **Where:** SoHo
-**Going:** 84 of 89
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/rsCEzQaaJQJ2gbgdNrvP
 
@@ -53,10 +50,6 @@ As a company that focuses on customized solutions, we grasp the unique needs and
 ## Description
 
 This event is a part of #NY TechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

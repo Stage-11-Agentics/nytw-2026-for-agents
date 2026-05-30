@@ -13,20 +13,18 @@ neighborhood: "Brooklyn"
 rsvp_url: "https://partiful.com/e/hDKxAgHY63MzSrmj4pv3"
 public_short_url: "https://go.partiful.com/rWUVE4Oe"
 google_maps: "https://www.google.com/maps/search/?api=1&query=10%20Jay%20St%2C%20Brooklyn%2C%20NY%2011201"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FdmmojRcEgchU2EToC6nFcqVOLe52%2FHkTxHAioTvzQmKiT4XO44"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FdmmojRcEgchU2EToC6nFcqVOLe52%2FHkTxHAioTvzQmKiT4XO44?alt=media&token=434239e7-bde1-4aa1-9665-ee1c550c6d83"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 28
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["dmmojRcEgchU2EToC6nFcqVOLe52", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 31
-approved_guest_count: 20
-local_image: "images/hDKxAgHY63MzSrmj4pv3.jpg"
 canceled: false
+approved_guest_count: 75
+local_image: "images/hDKxAgHY63MzSrmj4pv3.jpg"
 ---
 
 # Happy Hour  x Soho Works
@@ -36,7 +34,7 @@ canceled: false
 **Hosts:** Tacos & Trends  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 4:00pm–6:00pm ET
 **Where:** 10 Jay St, Brooklyn, NY 11201 · Brooklyn
-**Going:** 28 of 31
+**Going:** 75
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/hDKxAgHY63MzSrmj4pv3
 **Map:** https://www.google.com/maps/search/?api=1&query=10%20Jay%20St%2C%20Brooklyn%2C%20NY%2011201
@@ -61,10 +59,6 @@ Stay for the conversation.
 RSVP to confirm your attendance. Spaces are limited - secure your spot today.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -14,22 +14,20 @@ neighborhood: "Nomad"
 rsvp_url: "https://partiful.com/e/JPEEcl2tkCTbrJdLhM0K"
 public_short_url: "https://go.partiful.com/NkxZBDn3"
 google_maps: "https://www.google.com/maps/search/?api=1&query=NoMad%2C%20NoMad%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fn5sRdVM8UlYBHh8uyR7bAdTMM163%2Fm9J-56YCgiRUs4q9Rmzcn"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fn5sRdVM8UlYBHh8uyR7bAdTMM163%2Fm9J-56YCgiRUs4q9Rmzcn?alt=media&token=5ac4f3d2-7b6e-4102-861f-3bef53763d22"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 71
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["n5sRdVM8UlYBHh8uyR7bAdTMM163", "7DFu4rITofNzKIjA7hCx", "0thOexvF2aRDBnRROiSQRAohw8a2", "hFvqMHKOZLbucoaawqW37Wz4d7D2"]
 is_capped: true
 max_capacity: 15
-remaining_capacity: 5
-total_guest_count: 74
-approved_guest_count: 10
-local_image: "images/JPEEcl2tkCTbrJdLhM0K.png"
+remaining_capacity: 2
 canceled: false
+approved_guest_count: 13
+local_image: "images/JPEEcl2tkCTbrJdLhM0K.png"
 ---
 
 # Ancient Wisdom Meets Modern Fertility: A Sound Bath + Conversation on Cycle Intelligence
@@ -39,7 +37,7 @@ canceled: false
 **Hosts:** Lotus Fertility, The Rewilding Collective  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 2:00pm–3:30pm ET
 **Where:** NoMad · NoMad, Manhattan, New York, NY · Nomad
-**Capacity:** capped at 15 · 10 taken, 5 remaining
+**Capacity:** capped at 15 · 13 taken, 2 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/JPEEcl2tkCTbrJdLhM0K
 **Map:** https://www.google.com/maps/search/?api=1&query=NoMad%2C%20NoMad%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -93,10 +91,6 @@ The Rewilding Collective designs experiential gatherings that help people reconn
 \\\\\
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

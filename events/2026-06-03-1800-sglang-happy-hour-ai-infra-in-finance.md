@@ -8,25 +8,20 @@ end_time: "9:00pm ET"
 start_iso: "2026-06-03T22:00:00.000Z"
 end_iso: "2026-06-04T01:00:00.000Z"
 host: "SGLang, HOF Capital, Arklex AI"
-venue_address: "1 Bond St, New York, NY 10012"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/p74X9KDrgoLaDtU8BmvS"
 public_short_url: "https://go.partiful.com/e0CoonCm"
-google_maps: "https://www.google.com/maps/search/?api=1&query=1%20Bond%20St%2C%20New%20York%2C%20NY%2010012"
-image: "https://assets.getpartiful.com/posters/tech_week_20250218"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FahiFvbpX1C97yysOCtb1%2FbuL6WsLCPJK9l5U5Zrx-8?alt=media&token=70f10343-7bae-4de1-b77f-f81a592aa36b"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 17
 badges: []
 fetch_status: ok
 owner_count: 8
 owner_ids: ["KAnCR9MZ5ZYj5W0JSpD0tJWkCMK2", "7DFu4rITofNzKIjA7hCx", "u1DfEe4aEmZslVmOjC2YZ6VHHdM2", "YiuI93z7FoS1N6F4eJR3ufGxdSp2", "arh0zRclkLOsJPibAyROHN5OIGt1", "oSlRCf9FN7QkfMccEKicmaIoGMf2", "ahiFvbpX1C97yysOCtb1", "1uIxEJ0TVuhSLySc0dnzqHImzez1"]
 is_capped: false
-total_guest_count: 61
-approved_guest_count: 47
-local_image: "images/p74X9KDrgoLaDtU8BmvS.png"
 canceled: false
+local_image: "images/p74X9KDrgoLaDtU8BmvS.png"
 ---
 
 # SGLang Happy Hour: AI Infra in Finance
@@ -35,11 +30,9 @@ canceled: false
 
 **Hosts:** SGLang, HOF Capital, Arklex AI  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
-**Where:** 1 Bond St, New York, NY 10012 · SoHo
-**Going:** 17 of 61
+**Where:** SoHo
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/p74X9KDrgoLaDtU8BmvS
-**Map:** https://www.google.com/maps/search/?api=1&query=1%20Bond%20St%2C%20New%20York%2C%20NY%2010012
 
 ### Hosts on Partiful
 
@@ -73,13 +66,12 @@ Join SGLang, HOF Capital, Crusoe, Cloudflare, and Arklex AI for an evening of li
 ​- Zhou Yu, Associate Professor at Columbia, Co-founder & CEO of Arklex AI
 ​(Full lineup announced soon.)
 
+Who's in the room
+Expected attendees include engineers, researchers, and decision-makers from leading quant funds, banks, and trading firms including Jane Street, Citadel, Two Sigma, Goldman Sachs, Bloomberg, and more.
+
 ​See you in NYC!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

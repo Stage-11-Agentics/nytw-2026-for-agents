@@ -9,19 +9,18 @@ host: "PromptLayer"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/gso3akWkut37bwv4WsuU"
 public_short_url: "https://go.partiful.com/lEXQi8Ss"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FTgRpzBmNprcLDSjrzeXsPEQzwJR2%2FoPgSm9yr-uE47VQnN173r"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FTgRpzBmNprcLDSjrzeXsPEQzwJR2%2FoPgSm9yr-uE47VQnN173r?alt=media&token=86ebf615-bd55-4328-a5c3-5404b492f0dc"
 visibility: "public"
 at_capacity: false
-going_guest_count: 151
+going_guest_count: 288
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["TgRpzBmNprcLDSjrzeXsPEQzwJR2", "7DFu4rITofNzKIjA7hCx", "qH1URO1ujlVXcaDFmXKCsi0oVpm2", "mucGjS08fDVXui9UFpcKceZq0zx1"]
 is_capped: false
-total_guest_count: 330
+canceled: false
 approved_guest_count: 0
 local_image: "images/gso3akWkut37bwv4WsuU.png"
-canceled: false
 ---
 
 # Jazz Speakeasy Happy Hour #nytechweek
@@ -31,7 +30,7 @@ canceled: false
 **Hosts:** PromptLayer  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:30pm ET
 **Where:** Flatiron
-**Going:** 151 of 330
+**Going:** 288
 **RSVP:** https://partiful.com/e/gso3akWkut37bwv4WsuU
 
 ### Hosts on Partiful
@@ -58,10 +57,6 @@ Hosted by PromptLayer and Concentrate.ai
 
 -------------
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -13,22 +13,20 @@ neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/8ziM85jjl6N9qzjZtFYf"
 public_short_url: "https://go.partiful.com/Yengw1n5"
 google_maps: "https://www.google.com/maps/search/?api=1&query=11%20Times%20Square%2C%20New%20York%2C%20NY%2010036"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FE3pfYlpti9UyLUezScON07VedGm1%2FgES2MDs1tR-Bf3yVpU3xL"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FE3pfYlpti9UyLUezScON07VedGm1%2FgES2MDs1tR-Bf3yVpU3xL?alt=media&token=e0db1b66-bf03-40c4-8bb1-58603083e9c9"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 283
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["E3pfYlpti9UyLUezScON07VedGm1", "7DFu4rITofNzKIjA7hCx", "ZNP9T8n8tch6r9CEZv8b1wVFWSB3"]
 is_capped: true
 max_capacity: 250
-remaining_capacity: 76
-total_guest_count: 287
-approved_guest_count: 174
-local_image: "images/8ziM85jjl6N9qzjZtFYf.png"
+remaining_capacity: 6
 canceled: false
+approved_guest_count: 244
+local_image: "images/8ziM85jjl6N9qzjZtFYf.png"
 ---
 
 # From Idea to Live MVP in 6 Hours with GitHub Copilot — $25K Azure Prize —
@@ -38,7 +36,7 @@ canceled: false
 **Hosts:** Microsoft  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 9:30am–4:30pm ET
 **Where:** 11 Times Square, New York, NY 10036 · Financial District
-**Capacity:** capped at 250 · 174 taken, 76 remaining
+**Capacity:** capped at 250 · 244 taken, 6 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/8ziM85jjl6N9qzjZtFYf
 **Map:** https://www.google.com/maps/search/?api=1&query=11%20Times%20Square%2C%20New%20York%2C%20NY%2010036
@@ -67,8 +65,8 @@ What you'll leave with: A deployed MVP, a new team of builders, and hands-on exp
 Agenda: 
 9:30 am - Check-in & breakfast
 10:00 am - Opening + GitHub Copilot Masterclass
-11:30 am - Lunch, team formation, idea pitches
-12:30 pm - Build sprint begins
+11:00 am - Lunch, team formation, idea pitches
+12:00 pm - Build sprint begins
 3:30 pm - Demos and judging 
 4:30 pm - Winner announcement & close
 
@@ -82,10 +80,6 @@ Includes:
 - Everything you need to create
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -8,26 +8,21 @@ end_time: "8:15pm ET"
 start_iso: "2026-06-02T21:45:00.000Z"
 end_iso: "2026-06-03T00:15:00.000Z"
 host: "The Data Market Network: DMN"
-venue_name: "Midtown"
-venue_address: "Midtown, Manhattan, New York, NY"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/JugbSvGkWlKMfxKIwdsY"
 public_short_url: "https://go.partiful.com/GbKlspmW"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FKzDD4t7PIRT5lhZ6hCyzwgPP6wB3%2F-7A6p8VDO7ZouXCRiuUfR"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FKzDD4t7PIRT5lhZ6hCyzwgPP6wB3%2F-7A6p8VDO7ZouXCRiuUfR?alt=media&token=276de064-4712-4128-828e-7828c59aa6d6"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 114
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["KzDD4t7PIRT5lhZ6hCyzwgPP6wB3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 116
-approved_guest_count: 109
-local_image: "images/JugbSvGkWlKMfxKIwdsY.png"
 canceled: false
+approved_guest_count: 149
+local_image: "images/JugbSvGkWlKMfxKIwdsY.png"
 ---
 
 # Alternative Data Happy Hour #36
@@ -36,11 +31,10 @@ canceled: false
 
 **Hosts:** The Data Market Network: DMN  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:45pm–8:15pm ET
-**Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 114 of 116
+**Where:** Midtown
+**Going:** 149
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/JugbSvGkWlKMfxKIwdsY
-**Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -63,10 +57,6 @@ Cost: Free, but you handle your own tab. Happy hour specials last until 7 PM so 
 Agenda: Nothing formal, just good old-fashioned mingling & intelligent conversation. I ask everyone to just be respectful, listen to others, and contribute naturally.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

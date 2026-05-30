@@ -12,22 +12,20 @@ neighborhood: "Brooklyn"
 rsvp_url: "https://partiful.com/e/XelMoqGV0xD1bUAgYeff"
 public_short_url: "https://go.partiful.com/oyW1nthi"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Brooklyn%2C%20Brooklyn%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fv0SCt7Voq2dohPoVpLY2PtEy4533%2FkG6X22PqzoHrH9dXjUdTE"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fv0SCt7Voq2dohPoVpLY2PtEy4533%2FkG6X22PqzoHrH9dXjUdTE?alt=media&token=4ffe4373-4626-46fe-8daa-89c9d8e7db37"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 95
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["v0SCt7Voq2dohPoVpLY2PtEy4533", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 4
-total_guest_count: 98
-approved_guest_count: 46
-local_image: "images/XelMoqGV0xD1bUAgYeff.png"
+remaining_capacity: -19
 canceled: false
+approved_guest_count: 69
+local_image: "images/XelMoqGV0xD1bUAgYeff.png"
 ---
 
 # From Early Traction to Repeatable Pipeline: AI GTM Workshop for Founders
@@ -37,7 +35,8 @@ canceled: false
 **Hosts:** AIMAR  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:00pm ET
 **Where:** Brooklyn · Brooklyn, New York, NY · Brooklyn
-**Capacity:** capped at 50 · 46 taken, 4 remaining
+**Capacity:** capped at 50 · 69 taken, -19 remaining
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/XelMoqGV0xD1bUAgYeff
 **Map:** https://www.google.com/maps/search/?api=1&query=Brooklyn%2C%20Brooklyn%2C%20New%20York%2C%20NY
@@ -65,10 +64,6 @@ Just the frameworks, decisions, and practical tactics founders need to build a m
 Best fit for founders with paying customers who are ready to build a more structured GTM engine but are not yet ready to hire a full-time CMO.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

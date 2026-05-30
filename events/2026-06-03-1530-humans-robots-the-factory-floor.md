@@ -14,30 +14,28 @@ neighborhood: "Brooklyn"
 rsvp_url: "https://partiful.com/e/FymrHYN71HqMEA2aqaO4"
 public_short_url: "https://go.partiful.com/DOTBtfPk"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Brooklyn%2C%20Brooklyn%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fo2Nq2vsWEnVxnmrD2dPKDH0JGup2%2FRWcB2TfrXNsRvQUDXzQmP"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fo2Nq2vsWEnVxnmrD2dPKDH0JGup2%2FRWcB2TfrXNsRvQUDXzQmP?alt=media&token=004eb9a6-40a8-4cd9-bd5a-33abd3723f01"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 266
 badges: []
 fetch_status: ok
-owner_count: 3
-owner_ids: ["o2Nq2vsWEnVxnmrD2dPKDH0JGup2", "CwsxP00cwnoI87JX9eDO", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 4
+owner_ids: ["o2Nq2vsWEnVxnmrD2dPKDH0JGup2", "CwsxP00cwnoI87JX9eDO", "7DFu4rITofNzKIjA7hCx", "f0KOhd0C0tTkT0HOKnG9oGjVwFc2"]
 is_capped: false
-total_guest_count: 270
-approved_guest_count: 233
-local_image: "images/FymrHYN71HqMEA2aqaO4.jpg"
 canceled: false
+approved_guest_count: 353
+local_image: "images/FymrHYN71HqMEA2aqaO4.jpg"
 ---
 
 # Humans, Robots & The Factory Floor –
 
 ![Humans, Robots & The Factory Floor –](images/FymrHYN71HqMEA2aqaO4.jpg)
 
-**Hosts:** New York Robotics, American Manufacturing Futures Institute  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** New York Robotics, American Manufacturing Futures Institute  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 3:30pm–5:30pm ET
 **Where:** Brooklyn · Brooklyn, New York, NY · Brooklyn
-**Going:** 266 of 270
+**Going:** 353
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/FymrHYN71HqMEA2aqaO4
 **Map:** https://www.google.com/maps/search/?api=1&query=Brooklyn%2C%20Brooklyn%2C%20New%20York%2C%20NY
@@ -48,6 +46,7 @@ canceled: false
 - [American Manufacturing Futures Institute](https://partiful.com/u/CwsxP00cwnoI87JX9eDO) — _The American Manufacturing Futures Institute is a national 501(c)(3) committed to redefining
 the role of manufacturing in America's economic development by focusing on
 human-centered approaches to policy, place and people._
+- [Newlab Brooklyn](https://partiful.com/u/f0KOhd0C0tTkT0HOKnG9oGjVwFc2) — _Newlab is a global venture platform for critical technology startups._
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -77,10 +76,6 @@ New York Robotics (NYR) is a nonprofit organization dedicated to advancing the r
 The American Manufacturing Futures Institute (AMFI) is a national 501(c)(3) advancing U.S. manufacturing through the intersection of policy, people, and place.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

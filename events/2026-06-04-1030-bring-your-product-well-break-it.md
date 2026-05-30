@@ -4,7 +4,9 @@ event_id: "yLzERjsutx3rP8h0Dw3m"
 date: 2026-06-04
 day: "Thursday"
 start_time: "10:30am ET"
+end_time: "11:30am ET"
 start_iso: "2026-06-04T14:30:00.000Z"
+end_iso: "2026-06-04T15:30:00.000Z"
 host: "Tequity"
 venue_name: "Flatiron"
 venue_address: "Flatiron, Manhattan, New York, NY"
@@ -12,20 +14,18 @@ neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/yLzERjsutx3rP8h0Dw3m"
 public_short_url: "https://go.partiful.com/bQ7fx0YP"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://assets.getpartiful.com/posters/tech_week_20250218"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FK5BvXyKdG9ajSoXIYLo9FucCyHy2%2FSC289XYMxz-XfzW9chI8H?alt=media&token=94f2f93e-f1c9-4c9e-8169-c5cda08c5868"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 8
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["K5BvXyKdG9ajSoXIYLo9FucCyHy2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 9
-approved_guest_count: 1
-local_image: "images/yLzERjsutx3rP8h0Dw3m.png"
 canceled: false
+approved_guest_count: 16
+local_image: "images/yLzERjsutx3rP8h0Dw3m.png"
 ---
 
 # Bring Your Product. We'll Break It.
@@ -33,9 +33,9 @@ canceled: false
 ![Bring Your Product. We'll Break It.](images/yLzERjsutx3rP8h0Dw3m.png)
 
 **Hosts:** Tequity  _(+1 more host(s) on Partiful — see description for full list)_
-**When:** Thursday, June 4, 2026 · 10:30am ET
+**When:** Thursday, June 4, 2026 · 10:30am–11:30am ET
 **Where:** Flatiron · Flatiron, Manhattan, New York, NY · Flatiron
-**Going:** 8 of 9
+**Going:** 16
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/yLzERjsutx3rP8h0Dw3m
 **Map:** https://www.google.com/maps/search/?api=1&query=Flatiron%2C%20Flatiron%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -90,10 +90,6 @@ Limited to 10 companies so each team gets hands-on attention.
 Led by Tequity, an applied AI company, working with early-stage startups across AI, health-tech, fintech, and enterprise software. Our teams work closely with zero-to-one founders to build products that are not only usable and scalable, but resilient under real-world conditions.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

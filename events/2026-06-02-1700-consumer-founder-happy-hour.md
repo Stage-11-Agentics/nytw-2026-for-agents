@@ -18,16 +18,13 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 147
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["4OOP2CE5lXMlR8VOjwCpQOwbH273", "7DFu4rITofNzKIjA7hCx", "aid1NE7pw3WoDG21ly2uWB057A22"]
 is_capped: false
-total_guest_count: 147
-approved_guest_count: 15
-local_image: "images/utGQhLBSFG3hyIlAFlEp.png"
 canceled: false
+local_image: "images/utGQhLBSFG3hyIlAFlEp.png"
 ---
 
 # Consumer Founder Happy Hour
@@ -37,7 +34,6 @@ canceled: false
 **Hosts:** Helium  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:00pm–7:00pm ET
 **Where:** Dante NYC · 79-81 MacDougal St, New York, NY 10012 · SoHo
-**Going:** 147
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/utGQhLBSFG3hyIlAFlEp
 **Map:** https://www.google.com/maps/search/?api=1&query=79-81%20MacDougal%20St%2C%20New%20York%2C%20NY%2010012
@@ -61,10 +57,6 @@ Drink, eat and mingle with consumer founders from seed to Series D working on ev
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

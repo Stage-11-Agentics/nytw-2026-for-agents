@@ -8,26 +8,20 @@ end_time: "3:00pm ET"
 start_iso: "2026-06-05T15:00:00.000Z"
 end_iso: "2026-06-05T19:00:00.000Z"
 host: "a16z speedrun, Orrick"
-venue_name: "Orrick"
-venue_address: "51 W 52nd St, New York, NY 10019"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/JXbUkObwnkyVvC87cz8a"
 public_short_url: "https://go.partiful.com/3PeWFPMe"
-google_maps: "https://www.google.com/maps/search/?api=1&query=51%20W%2052nd%20St%2C%20New%20York%2C%20NY%2010019"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FFn3x6INVS3ZFGF66imM8%2FaE1ktRFK9IHhcRj2X66Id"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FFn3x6INVS3ZFGF66imM8%2FaE1ktRFK9IHhcRj2X66Id?alt=media&token=1725d631-c88e-4793-bdb4-8d4ff56df0c9"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 956
-badges: ["Morning"]
+badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["Fn3x6INVS3ZFGF66imM8", "7DFu4rITofNzKIjA7hCx", "YzGV0wF47xbDevhTPiQCOgDeAj53"]
 is_capped: false
-total_guest_count: 978
-approved_guest_count: 5
-local_image: "images/JXbUkObwnkyVvC87cz8a.png"
 canceled: false
+local_image: "images/JXbUkObwnkyVvC87cz8a.png"
 ---
 
 # a16z speedrun AI Faire
@@ -36,11 +30,9 @@ canceled: false
 
 **Hosts:** a16z speedrun, Orrick  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 11:00am–3:00pm ET
-**Where:** Orrick · 51 W 52nd St, New York, NY 10019 · Midtown
-**Going:** 956 of 978
+**Where:** Midtown
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/JXbUkObwnkyVvC87cz8a
-**Map:** https://www.google.com/maps/search/?api=1&query=51%20W%2052nd%20St%2C%20New%20York%2C%20NY%2010019
 
 ### Hosts on Partiful
 
@@ -64,10 +56,6 @@ a16z speedrun is Andreessen Horowitz’s program to invest in and support early-
 Due to capacity constraints, not all applications can be accommodated. Please wait for a confirmation email stating “you’re on the list” before making plans to attend. Thank you for understanding.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

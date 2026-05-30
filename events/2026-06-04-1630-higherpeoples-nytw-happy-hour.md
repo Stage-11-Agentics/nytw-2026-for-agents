@@ -11,21 +11,20 @@ host: "HigherPeople"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/AMDCAbR2zrSQ3gTtQBgs"
 public_short_url: "https://go.partiful.com/T1jHG5A1"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FdfyFB6cJj6fTe0JY2STfk8CJmUU2%2FrZBf39zKCLshLbVeLD5SA"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FdfyFB6cJj6fTe0JY2STfk8CJmUU2%2FrZBf39zKCLshLbVeLD5SA?alt=media&token=e4986580-d0ef-4f49-8e1d-dbc58e1d1d24"
 visibility: "public"
 at_capacity: false
-going_guest_count: 15
+going_guest_count: 53
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["dfyFB6cJj6fTe0JY2STfk8CJmUU2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 50
-remaining_capacity: 33
-total_guest_count: 17
+max_capacity: 70
+remaining_capacity: 17
+canceled: false
 approved_guest_count: 0
 local_image: "images/AMDCAbR2zrSQ3gTtQBgs.png"
-canceled: false
 ---
 
 # HigherPeople's NYTW Happy Hour
@@ -35,7 +34,7 @@ canceled: false
 **Hosts:** HigherPeople  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 4:30pm–6:30pm ET
 **Where:** SoHo
-**Capacity:** capped at 50 · 17 taken, 33 remaining
+**Capacity:** capped at 70 · 53 taken, 17 remaining
 **RSVP:** https://partiful.com/e/AMDCAbR2zrSQ3gTtQBgs
 
 ### Hosts on Partiful
@@ -46,13 +45,9 @@ canceled: false
 
 ## Description
 
-Join our Senior Recruiter, Nikki Adamson, during New York Tech Week in mixing and mingling with startup founders, senior leaders, and top tech talent over drinks!
+Join our Senior Recruiter, Nikki Adamson, during New York Tech Week in mixing and mingling with startup founders and operators, senior leaders and top tech talent over drinks. 
 
-This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
+This event is a part of #NYTechWeek (a week of events hosted by VCs and startups to bring together the tech ecosystem). Learn more at www.tech-week.com
 
 
 

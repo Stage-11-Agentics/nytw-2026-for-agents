@@ -14,22 +14,20 @@ neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/jYCTZCrfy1mYhHbJm771"
 public_short_url: "https://go.partiful.com/NnJOy8c5"
 google_maps: "https://www.google.com/maps/search/?api=1&query=122%205th%20Ave%2C%20New%20York%2C%20NY%2010011"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FE3pfYlpti9UyLUezScON07VedGm1%2FRz-Y4XrzK66L8YuMcJYTE"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FE3pfYlpti9UyLUezScON07VedGm1%2Flz5GVU2JLlCi8NYGpBo-i?alt=media&token=27ac8c9f-3425-4460-bfed-994ecc3f9d56"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 849
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["E3pfYlpti9UyLUezScON07VedGm1", "s47b3coMBoWOReOLtyJ7UnkCg5R2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 240
-remaining_capacity: 8
-total_guest_count: 864
-approved_guest_count: 232
-local_image: "images/jYCTZCrfy1mYhHbJm771.png"
+max_capacity: 375
+remaining_capacity: 0
 canceled: false
+approved_guest_count: 375
+local_image: "images/jYCTZCrfy1mYhHbJm771.png"
 ---
 
 # The AI Founder Playbook: Breakfast & Panel @ Microsoft —
@@ -39,7 +37,8 @@ canceled: false
 **Hosts:** Microsoft  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 8:30am–12:00pm ET
 **Where:** 122 Fifth Avenue · 122 5th Ave, New York, NY 10011 · Financial District
-**Capacity:** capped at 240 · 232 taken, 8 remaining
+**Capacity:** capped at 375 · 375 taken, 0 remaining · ⚠ **FULL**
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/jYCTZCrfy1mYhHbJm771
 **Map:** https://www.google.com/maps/search/?api=1&query=122%205th%20Ave%2C%20New%20York%2C%20NY%2010011
@@ -61,11 +60,11 @@ This event is for early-stage founders, engineers considering the leap, investor
 
 Doors open at 8:30 AM with bagels and coffee, the panel runs 9:30–10:50, and we'll close with rooftop networking until noon.
 
+Special thank you to our event sponsors:
+- Awana. We help founders hire software engineers and technical talent (sales, marketing, operations.
+- Silicon Valley Bank (SVB), a division of First Citizens Bank, has been the trusted financial partner of the innovation economy since 1983.  From seed to IPO, SVB offers startups, founders, and investors the expertise, connections, and tailored solutions to fuel their growth.
+
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

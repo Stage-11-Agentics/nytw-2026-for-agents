@@ -5,41 +5,34 @@ date: 2026-06-04
 day: "Thursday"
 start_time: "6:00pm ET"
 start_iso: "2026-06-04T22:00:00.000Z"
-host: "JPMorgan, New Enterprise Associates"
-venue_address: "104 5th Ave, New York, NY 10011"
+host: "New Enterprise Associates, JPMorgan"
 neighborhood: "Union Square"
 rsvp_url: "https://partiful.com/e/WWPAAjfT9ybpzmNwU0UZ"
 public_short_url: "https://go.partiful.com/Hrs3ImQl"
-google_maps: "https://www.google.com/maps/search/?api=1&query=104%205th%20Ave%2C%20New%20York%2C%20NY%2010011"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FuqGH4Yj4hXWQostZKGZEOYcpfbH3%2Fa-OrWuHESVquLdcdAgpi1"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FuqGH4Yj4hXWQostZKGZEOYcpfbH3%2Fa-OrWuHESVquLdcdAgpi1?alt=media&token=c64bc0c0-ebc1-48f1-b341-f931b221a0a1"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 186
 badges: []
 fetch_status: ok
-owner_count: 6
-owner_ids: ["uqGH4Yj4hXWQostZKGZEOYcpfbH3", "7DFu4rITofNzKIjA7hCx", "E8pPmotF7wPJA4uAwLd3Rb0Jogm2", "jPzmg9xSq0ZgDwFnpXl0U6lT1GD2", "SuXP9lhYENMt3wZp27J5eSKKnNK2", "viCHFmukX8dctUEZvhFkD7DoId83"]
+owner_count: 7
+owner_ids: ["uqGH4Yj4hXWQostZKGZEOYcpfbH3", "7DFu4rITofNzKIjA7hCx", "E8pPmotF7wPJA4uAwLd3Rb0Jogm2", "jPzmg9xSq0ZgDwFnpXl0U6lT1GD2", "SuXP9lhYENMt3wZp27J5eSKKnNK2", "viCHFmukX8dctUEZvhFkD7DoId83", "2GzTQiMkZq2CCxUiN40n"]
 is_capped: true
 max_capacity: 100
-remaining_capacity: 100
-total_guest_count: 194
-approved_guest_count: 0
-local_image: "images/WWPAAjfT9ybpzmNwU0UZ.png"
 canceled: false
+local_image: "images/WWPAAjfT9ybpzmNwU0UZ.png"
 ---
 
 # Sunset Sips & Sushi with Female Founders and Execs
 
 ![Sunset Sips & Sushi with Female Founders and Execs](images/WWPAAjfT9ybpzmNwU0UZ.png)
 
-**Hosts:** JPMorgan, New Enterprise Associates  _(+4 more host(s) on Partiful — see description for full list)_
+**Hosts:** New Enterprise Associates, JPMorgan  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
-**Where:** 104 5th Ave, New York, NY 10011 · Union Square
-**Capacity:** capped at 100 · 0 taken, 100 remaining
+**Where:** Union Square
+**Capacity:** capped at 100
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/WWPAAjfT9ybpzmNwU0UZ
-**Map:** https://www.google.com/maps/search/?api=1&query=104%205th%20Ave%2C%20New%20York%2C%20NY%2010011
 
 ### Hosts on Partiful
 
@@ -49,6 +42,7 @@ www.nea.com_
 - [Tiffany Luck](https://partiful.com/u/jPzmg9xSq0ZgDwFnpXl0U6lT1GD2)
 - [Sarah Milewski](https://partiful.com/u/SuXP9lhYENMt3wZp27J5eSKKnNK2)
 - [Melina Bergkamp](https://partiful.com/u/viCHFmukX8dctUEZvhFkD7DoId83)
+- [Wilson Sonsini](https://partiful.com/u/2GzTQiMkZq2CCxUiN40n)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -58,7 +52,7 @@ www.nea.com_
 
 ​​This isn't your typical happy hour; our goal is to make space for meaningful connection amidst the craziness of NY Tech Week. This will be a highly curated group of female founders, operators, and VCs, and there will be flowing 🥂, 🍣, and conversation starters. You'll leave with new friends, business connections, and new thoughts on how to hit that next level of personal or company growth.
 
-​​Upon arrival, we'll have a few quick questions to match you with a conversation group. Because of this, we ask that you be on time at 6 PM and come with an open heart. If you can no longer make it, please let us know as there is a waitlist.
+We ask that you be on time at 6 PM and come with an open heart. If you can no longer make it, please let us know as there is a waitlist.
 
 ​​This event has limited capacity, so please request to attend. You'll receive a notification once your slot is confirmed ❤️‍🔥
 
@@ -73,10 +67,6 @@ For more than 60 years, Wilson Sonsini has represented technology pioneers assoc
 Today, Wilson Sonsini is synonymous with ushering promising and innovative technology and life sciences companies through their business life cycle.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

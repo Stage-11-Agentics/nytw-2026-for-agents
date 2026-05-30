@@ -14,22 +14,18 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/6iJnKBHJDDD6pzokZKqh"
 public_short_url: "https://go.partiful.com/Ib2wDs4g"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fi7K7adQMHnboNAiPqPKWC8ItP7s1%2FLbT24Aku8cyENPtCUBUhD"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fi7K7adQMHnboNAiPqPKWC8ItP7s1%2FLbT24Aku8cyENPtCUBUhD?alt=media&token=0d80ed00-b9d1-4c6a-9008-0ffde7c6a647"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 19
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["i7K7adQMHnboNAiPqPKWC8ItP7s1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
-remaining_capacity: 45
-total_guest_count: 22
-approved_guest_count: 5
-local_image: "images/6iJnKBHJDDD6pzokZKqh.png"
 canceled: false
+local_image: "images/6iJnKBHJDDD6pzokZKqh.png"
 ---
 
 # Investing in Deeptech 2026 - for VCs, angels, family offices
@@ -39,7 +35,7 @@ canceled: false
 **Hosts:** Good Investor Club  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 2:30pm–5:30pm ET
 **Where:** Manhattan · Manhattan, New York, NY · Midtown
-**Capacity:** capped at 50 · 5 taken, 45 remaining
+**Capacity:** capped at 50
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/6iJnKBHJDDD6pzokZKqh
 **Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -71,10 +67,6 @@ Join this expertly-curated event to connect with other angel, ultra-high-net-wor
 From the Good Investor Club.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

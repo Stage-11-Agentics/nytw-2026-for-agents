@@ -11,20 +11,18 @@ host: "OpenAI"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/ivy3zWZg7HTpUJBnhy3e"
 public_short_url: "https://go.partiful.com/T9MDbh1h"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FwyxdVrOD7xutkddNjJvt%2FTaGBMS152gG3iUaJDDIBi"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FwyxdVrOD7xutkddNjJvt%2FTaGBMS152gG3iUaJDDIBi?alt=media&token=6403bfef-1f89-48af-a348-8999c6505f30"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 669
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["wyxdVrOD7xutkddNjJvt", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 675
+canceled: false
 approved_guest_count: 0
 local_image: "images/ivy3zWZg7HTpUJBnhy3e.png"
-canceled: false
 ---
 
 # OpenAI Builder Lounge
@@ -34,7 +32,6 @@ canceled: false
 **Hosts:** OpenAI  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 2:00pm–5:30pm ET
 **Where:** SoHo
-**Going:** 669 of 675
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ivy3zWZg7HTpUJBnhy3e
 
@@ -55,10 +52,6 @@ Join us at the OpenAI Builder Lounge for an evening of coworking and new connect
 -​Codex demos on the next era of agentic delegation
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

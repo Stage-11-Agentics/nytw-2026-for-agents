@@ -11,20 +11,18 @@ host: "Your Next Win, Astrostyle"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/yd3Guyw42WWbKU5yvfOf"
 public_short_url: "https://go.partiful.com/ouicyJG8"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FPCcCIvd31PfWZh3LV7lXpgr9llR2%2FepBJa-dippUZFZ4HZ91VI"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FPCcCIvd31PfWZh3LV7lXpgr9llR2%2FepBJa-dippUZFZ4HZ91VI?alt=media&token=9ac7c43d-c4c9-41be-b43f-c3b3127398fa"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 55
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["BwIi9FPi1N8l0r33ci0D", "7DFu4rITofNzKIjA7hCx", "fzO6nEIWc3UoVrjD5S7KiJobRmq1", "PCcCIvd31PfWZh3LV7lXpgr9llR2"]
 is_capped: false
-total_guest_count: 55
-approved_guest_count: 40
-local_image: "images/yd3Guyw42WWbKU5yvfOf.png"
 canceled: false
+approved_guest_count: 71
+local_image: "images/yd3Guyw42WWbKU5yvfOf.png"
 ---
 
 # Sip & Ship: The Un-Hackathon
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** Your Next Win, Astrostyle  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:00pm–7:00pm ET
 **Where:** Flatiron
-**Going:** 55
+**Going:** 71
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/yd3Guyw42WWbKU5yvfOf
 
@@ -75,10 +73,6 @@ Landing page, MVP, automation, content system, data viz—scrappy to real, fast.
 
 🥂 Flow
 Drop in. Build. Share. Iterate.
-
-
-
-
 
 
 

@@ -11,19 +11,18 @@ host: "Women Who Code"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/5apSj4xpKEHJ0C1DzIXb"
 public_short_url: "https://go.partiful.com/fTxg2d0f"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FUeslnxCHmaYmNSerxkYgkGjkmOT2%2FL4mSuFo1BhYjXDZXVE-Wo"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FUeslnxCHmaYmNSerxkYgkGjkmOT2%2FL4mSuFo1BhYjXDZXVE-Wo?alt=media&token=54bd23e3-d28c-4c77-aaa7-c95aea75d952"
 visibility: "public"
 at_capacity: false
-going_guest_count: 14
+going_guest_count: 124
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["UeslnxCHmaYmNSerxkYgkGjkmOT2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 20
+canceled: false
 approved_guest_count: 0
 local_image: "images/5apSj4xpKEHJ0C1DzIXb.jpg"
-canceled: false
 ---
 
 # Women Who Code Summit Cocktails & Conversations - Tuesday, June 2nd
@@ -33,7 +32,7 @@ canceled: false
 **Hosts:** Women Who Code  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:00pm–7:00pm ET
 **Where:** Financial District
-**Going:** 14 of 20
+**Going:** 124
 **RSVP:** https://partiful.com/e/5apSj4xpKEHJ0C1DzIXb
 
 ### Hosts on Partiful
@@ -55,10 +54,6 @@ Calling all creatives, engineers, technical talent and women interested in learn
 Limited access, so RSVP for your complimentary access.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

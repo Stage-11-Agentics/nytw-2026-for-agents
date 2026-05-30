@@ -11,20 +11,17 @@ host: "GenZtea"
 neighborhood: "East Village"
 rsvp_url: "https://partiful.com/e/T7KQRZ1EBzOI0lhAdXwp"
 public_short_url: "https://go.partiful.com/3klbe4Th"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FMnrTVn6T1Yc80jibtVg1tau6sQI2%2FqK8zHeYiQjh8xB_FNFh6q"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FMnrTVn6T1Yc80jibtVg1tau6sQI2%2FqK8zHeYiQjh8xB_FNFh6q?alt=media&token=dff2370c-9201-4105-a5bd-41cb9a04b791"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 190
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["MnrTVn6T1Yc80jibtVg1tau6sQI2", "7DFu4rITofNzKIjA7hCx", "A9dy7amuljdJfHXmcyUWlRI9sb12", "z4KHeW92DxNWblE7qr5PbiOLNf93"]
 is_capped: false
-total_guest_count: 198
-approved_guest_count: 146
-local_image: "images/T7KQRZ1EBzOI0lhAdXwp.png"
 canceled: false
+local_image: "images/T7KQRZ1EBzOI0lhAdXwp.png"
 ---
 
 # Gen Z Founder + Creator Mixer
@@ -34,7 +31,6 @@ canceled: false
 **Hosts:** GenZtea  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 2:00pm–4:30pm ET
 **Where:** East Village
-**Going:** 190 of 198
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/T7KQRZ1EBzOI0lhAdXwp
 
@@ -65,8 +61,8 @@ we've hosted 10+ of these mixers now. 2,000+ attendees. featured in Business Ins
 - Hillary Fernandez — Strategic Technology Partnerships at Ramp
 - Kashvi P (41K Twitter followers) — Socials & Community Lead at Boundless Network
 - Gianna Prudente — Senior Editor at LinkedIn
-
-...and more to be announced 👀
+ 
+and 2 other surprise guest speakers.
 
 ​come celebrate your entrepreneurial journey with us this summer network with fellow ONE-OF-A-KIND Gen Z founders. share your wins. find your next collab. eat some snacks. leave with at least 3 new connections (that's the rule ok)
 
@@ -96,10 +92,6 @@ email natalie@thegenztea.com
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

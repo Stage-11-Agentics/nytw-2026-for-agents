@@ -8,26 +8,20 @@ end_time: "9:00pm ET"
 start_iso: "2026-06-03T22:00:00.000Z"
 end_iso: "2026-06-04T01:00:00.000Z"
 host: "Scale AI"
-venue_name: "Chelsea"
-venue_address: "Chelsea, Manhattan, New York, NY"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/ddUgaIgdAlkIM2AlSWDk"
 public_short_url: "https://go.partiful.com/iIhLngyc"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Chelsea%2C%20Chelsea%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FrzhtCGMTholWioOsZFMO%2FOagycUEuxY-9BdToR95RK"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FrzhtCGMTholWioOsZFMO%2FOagycUEuxY-9BdToR95RK?alt=media&token=afb317f9-c5f2-470a-9b82-001b7cbf4300"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 441
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["rzhtCGMTholWioOsZFMO", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 448
-approved_guest_count: 89
-local_image: "images/ddUgaIgdAlkIM2AlSWDk.png"
 canceled: false
+local_image: "images/ddUgaIgdAlkIM2AlSWDk.png"
 ---
 
 # Scale AI | Human in the Loop LIVE
@@ -36,11 +30,9 @@ canceled: false
 
 **Hosts:** Scale AI  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
-**Where:** Chelsea · Chelsea, Manhattan, New York, NY · Chelsea
-**Going:** 441 of 448
+**Where:** Chelsea
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ddUgaIgdAlkIM2AlSWDk
-**Map:** https://www.google.com/maps/search/?api=1&query=Chelsea%2C%20Chelsea%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -65,10 +57,6 @@ Afterward, stick around for drinks and bites from an up-and-coming NYC chef in t
 Please note: RSVP is required for this event.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

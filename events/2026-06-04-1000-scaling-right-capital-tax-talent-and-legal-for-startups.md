@@ -8,27 +8,23 @@ end_time: "12:00pm ET"
 start_iso: "2026-06-04T14:00:00.000Z"
 end_iso: "2026-06-04T16:00:00.000Z"
 host: "SOSA, CLA (CliftonLarsonAllen), wiggin(x), TriNet"
-venue_name: "One Grand Central Place"
-venue_address: "60 E 42nd St, New York, NY 10017"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/bMKstHf0ullgoWj4gOg5"
 public_short_url: "https://go.partiful.com/biZr8zdU"
-google_maps: "https://www.google.com/maps/search/?api=1&query=60%20E%2042nd%20St%2C%20New%20York%2C%20NY%2010017"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FmDHBXeJZmoz7bSQyxAd0%2FXubN9RHyMn5qs7TsZBNws"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FmDHBXeJZmoz7bSQyxAd0%2FXubN9RHyMn5qs7TsZBNws?alt=media&token=fa8725fa-c240-4f57-9b75-478d7ad738ce"
 visibility: "public"
-at_capacity: false
-going_guest_count: 57
+at_capacity: true
+going_guest_count: 101
 badges: []
 fetch_status: ok
-owner_count: 2
-owner_ids: ["mDHBXeJZmoz7bSQyxAd0", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 3
+owner_ids: ["mDHBXeJZmoz7bSQyxAd0", "7DFu4rITofNzKIjA7hCx", "FqjbBOiSrKPH1vOGYPO7KS6bcR63"]
 is_capped: true
-max_capacity: 100
-remaining_capacity: 41
-total_guest_count: 64
+max_capacity: 101
+remaining_capacity: 0
+canceled: false
 approved_guest_count: 0
 local_image: "images/bMKstHf0ullgoWj4gOg5.png"
-canceled: false
 ---
 
 # Scaling Right: Capital, Tax, Talent, and Legal for Startups
@@ -37,14 +33,15 @@ canceled: false
 
 **Hosts:** SOSA, CLA (CliftonLarsonAllen), wiggin(x), TriNet
 **When:** Thursday, June 4, 2026 · 10:00am–12:00pm ET
-**Where:** One Grand Central Place · 60 E 42nd St, New York, NY 10017 · Midtown
-**Capacity:** capped at 100 · 59 taken, 41 remaining
+**Where:** Midtown
+**Capacity:** capped at 101 · 101 taken, 0 remaining · ⚠ **FULL**
+**Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/bMKstHf0ullgoWj4gOg5
-**Map:** https://www.google.com/maps/search/?api=1&query=60%20E%2042nd%20St%2C%20New%20York%2C%20NY%2010017
 
 ### Hosts on Partiful
 
 - [SOSA](https://partiful.com/u/mDHBXeJZmoz7bSQyxAd0) — _SOSA is a global open innovation company._
+- [Julie](https://partiful.com/u/FqjbBOiSrKPH1vOGYPO7KS6bcR63)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -57,10 +54,6 @@ Featuring a panel discussion and interactive roundtables with leaders from CLA, 
 This event is perfect for early-stage founders, especially those navigating operational complexity. Come network with fellow innovators, investors, and ecosystem players!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

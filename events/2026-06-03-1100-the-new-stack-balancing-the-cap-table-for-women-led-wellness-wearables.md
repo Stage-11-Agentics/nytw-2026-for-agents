@@ -11,22 +11,20 @@ host: "Crush It Ventures, Wearable Tech Ventures"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/KSKVdpcLANun9pXuG0m3"
 public_short_url: "https://go.partiful.com/NBwgljZK"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F66vAOZKqBQaOOWfOXwbGkB40zXi1%2FWCzqzd99hVwOh3ZJKth4X"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F66vAOZKqBQaOOWfOXwbGkB40zXi1%2FWCzqzd99hVwOh3ZJKth4X?alt=media&token=8c95f43e-1cac-41a2-8e49-eb6e77bc1b4a"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 95
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["66vAOZKqBQaOOWfOXwbGkB40zXi1", "7DFu4rITofNzKIjA7hCx", "kvqFWzRTYhhhR7Mckj1GZVr6YbB2"]
 is_capped: true
-max_capacity: 120
-remaining_capacity: 36
-total_guest_count: 98
-approved_guest_count: 84
-local_image: "images/KSKVdpcLANun9pXuG0m3.png"
+max_capacity: 150
+remaining_capacity: 25
 canceled: false
+approved_guest_count: 125
+local_image: "images/KSKVdpcLANun9pXuG0m3.png"
 ---
 
 # The New Stack: Balancing the Cap Table  for  Women-Led Wellness & Wearables
@@ -36,7 +34,7 @@ canceled: false
 **Hosts:** Crush It Ventures, Wearable Tech Ventures  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 11:00am–2:30pm ET
 **Where:** SoHo
-**Capacity:** capped at 120 · 84 taken, 36 remaining
+**Capacity:** capped at 150 · 125 taken, 25 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/KSKVdpcLANun9pXuG0m3
 
@@ -54,10 +52,6 @@ Join us for an exclusive, high-impact gathering designed for those redefining th
 We are bringing together a powerhouse room of serious investors and experienced founders to dismantle the status quo of the industry. Over a premium catered lunch, we will dive into the "Full Stack" approach to wellness and wearables—integrating technical excellence with equitable business foundations.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

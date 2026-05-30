@@ -6,27 +6,23 @@ day: "Monday"
 start_time: "5:30pm ET"
 start_iso: "2026-06-01T21:30:00.000Z"
 host: "Totems of Hope: Your Brain on Philanthropy"
-venue_name: "Duca Sartoria"
-venue_address: "237 E 60th St, New York, NY 10022"
 neighborhood: "Upper East Side"
 rsvp_url: "https://partiful.com/e/SgKlRCyR9G7xYn2ftKRu"
 public_short_url: "https://go.partiful.com/RPWMpjhG"
-google_maps: "https://www.google.com/maps/search/?api=1&query=237%20E%2060th%20St%2C%20New%20York%2C%20NY%2010022"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FToClD7bXG7UNUBm7wGjYlyzClCG2%2F2tdHXSFK3jTS_CdHcodoG"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FToClD7bXG7UNUBm7wGjYlyzClCG2%2F2tdHXSFK3jTS_CdHcodoG?alt=media&token=323f3c5c-3684-4f39-9626-62485b0fd0d6"
 visibility: "public"
 at_capacity: true
-going_guest_count: 67
+going_guest_count: 104
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["ToClD7bXG7UNUBm7wGjYlyzClCG2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 67
+max_capacity: 104
 remaining_capacity: 0
-total_guest_count: 78
+canceled: false
 approved_guest_count: 0
 local_image: "images/SgKlRCyR9G7xYn2ftKRu.png"
-canceled: false
 ---
 
 # Totems of Hope: Your Brain On Philanthropy
@@ -35,11 +31,10 @@ canceled: false
 
 **Hosts:** Totems of Hope: Your Brain on Philanthropy  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 5:30pm ET
-**Where:** Duca Sartoria · 237 E 60th St, New York, NY 10022 · Upper East Side
-**Capacity:** capped at 67 · 67 taken, 0 remaining · ⚠ **FULL**
+**Where:** Upper East Side
+**Capacity:** capped at 104 · 104 taken, 0 remaining · ⚠ **FULL**
 **Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/SgKlRCyR9G7xYn2ftKRu
-**Map:** https://www.google.com/maps/search/?api=1&query=237%20E%2060th%20St%2C%20New%20York%2C%20NY%2010022
 
 ### Hosts on Partiful
 
@@ -67,10 +62,6 @@ Presented internationally, including at AWE USA and LA Tech Week / Internet Tech
 A space to slow down, tune in, and experience technology differently — not as distraction, but as a medium for connection.
 
 This event is part of NY Tech Week — a week of events hosted by VCs and startups bringing together the technology ecosystem.
-
-
-
-
 
 
 

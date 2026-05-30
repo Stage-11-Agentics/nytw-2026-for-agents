@@ -1,6 +1,6 @@
 ---
 title: "Liquidity for RWA Private Credit Asset Managers"
-event_id: "05ZXMuLsZr76jJcu6T5N"
+event_id: "h8O1Xi3GohXMHZ1FqrK0"
 date: 2026-06-03
 day: "Wednesday"
 start_time: "4:00pm ET"
@@ -8,38 +8,31 @@ end_time: "8:00pm ET"
 start_iso: "2026-06-03T20:00:00.000Z"
 end_iso: "2026-06-04T00:00:00.000Z"
 host: "Protofire"
-venue_address: "529 5th Ave, New York, NY 10017"
 neighborhood: "SoHo"
-rsvp_url: "https://partiful.com/e/05ZXMuLsZr76jJcu6T5N"
-public_short_url: "https://go.partiful.com/BwE2Vzt1"
-google_maps: "https://www.google.com/maps/search/?api=1&query=529%205th%20Ave%2C%20New%20York%2C%20NY%2010017"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FDjjNSnV3cKSAcV6WdF9IDkU6eWN2%2FCudFFVxyKF5sPx5C0iNSf"
+rsvp_url: "https://partiful.com/e/h8O1Xi3GohXMHZ1FqrK0"
+public_short_url: "https://go.partiful.com/R9bZwd40"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FDjjNSnV3cKSAcV6WdF9IDkU6eWN2%2FlIkUzOkEKtZm34nGPzQ42?alt=media&token=533e2416-9a9a-4ead-bdb1-d97101824d90"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 70
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["DjjNSnV3cKSAcV6WdF9IDkU6eWN2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 71
-approved_guest_count: 64
-local_image: "images/05ZXMuLsZr76jJcu6T5N.png"
 canceled: false
+local_image: "images/h8O1Xi3GohXMHZ1FqrK0.png"
 ---
 
 # Liquidity for RWA Private Credit Asset Managers
 
-![Liquidity for RWA Private Credit Asset Managers](images/05ZXMuLsZr76jJcu6T5N.png)
+![Liquidity for RWA Private Credit Asset Managers](images/h8O1Xi3GohXMHZ1FqrK0.png)
 
 **Hosts:** Protofire  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 4:00pm–8:00pm ET
-**Where:** 529 5th Ave, New York, NY 10017 · SoHo
-**Going:** 70 of 71
+**Where:** SoHo
 **Access:** apply / hosts approve
-**RSVP:** https://partiful.com/e/05ZXMuLsZr76jJcu6T5N
-**Map:** https://www.google.com/maps/search/?api=1&query=529%205th%20Ave%2C%20New%20York%2C%20NY%2010017
+**RSVP:** https://partiful.com/e/h8O1Xi3GohXMHZ1FqrK0
 
 ### Hosts on Partiful
 
@@ -79,10 +72,6 @@ Seats are limited. If you're building the liquidity layer for real-world assets,
 
 
 
-
-
-
-
 ---
 
-[Apply on Partiful →](https://partiful.com/e/05ZXMuLsZr76jJcu6T5N)
+[Apply on Partiful →](https://partiful.com/e/h8O1Xi3GohXMHZ1FqrK0)

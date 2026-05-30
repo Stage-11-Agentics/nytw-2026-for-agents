@@ -14,22 +14,20 @@ neighborhood: "Long Island"
 rsvp_url: "https://partiful.com/e/VqJRZaJnyH6fButRkTtV"
 public_short_url: "https://go.partiful.com/MjzTeg60"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Long%20Island%2C%20NY%2C%20Long%20Island%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FG7xio58xumSZGA1aWdWDkx9zUs83%2FMqbndV7CVavlREP4TlMhr"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FG7xio58xumSZGA1aWdWDkx9zUs83%2FMqbndV7CVavlREP4TlMhr?alt=media&token=06cc32cf-c7b6-4164-875e-f2415e592197"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 25
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["G7xio58xumSZGA1aWdWDkx9zUs83", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 30
+max_capacity: 40
 remaining_capacity: 7
-total_guest_count: 26
-approved_guest_count: 23
-local_image: "images/VqJRZaJnyH6fButRkTtV.jpg"
 canceled: false
+approved_guest_count: 33
+local_image: "images/VqJRZaJnyH6fButRkTtV.jpg"
 ---
 
 # The Innovator’s Spark: Art Meditation in AI Era
@@ -39,7 +37,7 @@ canceled: false
 **Hosts:** Sunning Hill Retreat, New York Youth Roundtable, YOUTH CIVIC SERVICE INC.
 **When:** Saturday, June 6, 2026 · 1:00pm–5:00pm ET
 **Where:** Long Island, NY · Long Island, NY · Long Island
-**Capacity:** capped at 30 · 23 taken, 7 remaining
+**Capacity:** capped at 40 · 33 taken, 7 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/VqJRZaJnyH6fButRkTtV
 **Map:** https://www.google.com/maps/search/?api=1&query=Long%20Island%2C%20NY%2C%20Long%20Island%2C%20NY
@@ -69,10 +67,6 @@ This session also offers a glimpse into Sunning Hill Retreat’s broader Art of 
 This experience is hosted by Sunning Hill Retreat and co-hosted by New York Youth Roundtable and Youth Civic Service, bringing together mindfulness, creativity, youth leadership, civic engagement, and meaningful community connection.
 
 This event is part of #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

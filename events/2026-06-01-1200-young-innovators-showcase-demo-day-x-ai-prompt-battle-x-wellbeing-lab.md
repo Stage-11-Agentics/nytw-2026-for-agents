@@ -14,20 +14,17 @@ neighborhood: "Upper Manhattan"
 rsvp_url: "https://partiful.com/e/QKl9xqtTykyORMM50ifg"
 public_short_url: "https://go.partiful.com/DGvY4YK2"
 google_maps: "https://www.google.com/maps/search/?api=1&query=44%20W%20Fourth%20St%2C%20New%20York%2C%20NY%2010012"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FjXSXBegtnth4Bc8VxG9T5KCzRQo1%2F35OyZ8bobsMPICYX-UT9M"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FjXSXBegtnth4Bc8VxG9T5KCzRQo1%2FatHb0FHgmGmyBB3OFh93A?alt=media&token=45606423-a92d-42e3-8c67-7424a1c37b07"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 51
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["jXSXBegtnth4Bc8VxG9T5KCzRQo1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 51
-approved_guest_count: 41
-local_image: "images/QKl9xqtTykyORMM50ifg.png"
 canceled: false
+local_image: "images/QKl9xqtTykyORMM50ifg.png"
 ---
 
 # Young Innovators Showcase : Demo Day x AI Prompt Battle x Wellbeing Lab
@@ -37,7 +34,6 @@ canceled: false
 **Hosts:** The Kijana Company  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 12:00pm–3:00pm ET
 **Where:** NYU Stern School of Business · 44 W Fourth St, New York, NY 10012 · Upper Manhattan
-**Going:** 51
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/QKl9xqtTykyORMM50ifg
 **Map:** https://www.google.com/maps/search/?api=1&query=44%20W%20Fourth%20St%2C%20New%20York%2C%20NY%2010012
@@ -54,12 +50,12 @@ You're already building.
 
 Maybe you haven't told the world yet, but you know it. This is the room for you.
 
-The Young Innovators Showcase is a half-day experience designed for young founders, student founders, creators, and builders who deserve real feedback, real exposure, and real challenge, not the watered-down version that's usually handed to people your age.
+The Young Innovators Showcase is an experience designed for young founders, student founders, creators, and builders who deserve real feedback, real exposure, and real challenge, not the watered-down version.
 
 Three tracks. One afternoon. No fluff.
 
 Pitch Stage
-Take your startup in front of VCs and operators. Not a simulation. Not a practice run. The real thing.
+We're bringing together the boldest young founders in the city for a live showcase where they demo what they're building, get real feedback from the room, and compete for prizes. 
 
 AI Prompt Battle
 Compete live on the AI prompt stage. Show what you can do when intelligence meets creativity.
@@ -73,11 +69,12 @@ Spots are limited. Entry is free.
 If this isn't for you, it's for someone you know. The college student in your circle who is sharper than most rooms they've been allowed into. The younger sibling who keeps talking about that idea. The young person who just needs one real shot. Send them this page.
 Register above. See you on June 1st.
 Under 18 attendees must have parental consent to attend this event. 
+  
+Hosted by 
+Kijana -  the #1 launchpad for young go-getters to earn, learn, and get ahead—before your first job, and your next.
+
+
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

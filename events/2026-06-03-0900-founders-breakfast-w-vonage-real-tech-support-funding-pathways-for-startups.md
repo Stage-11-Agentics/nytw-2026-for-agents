@@ -1,0 +1,70 @@
+---
+title: "Founders Breakfast w/ Vonage: Real Tech Support & Funding Pathways for Startups"
+event_id: "VzFiSUj168Sj3mJvvD3N"
+date: 2026-06-03
+day: "Wednesday"
+start_time: "9:00am ET"
+end_time: "11:30am ET"
+start_iso: "2026-06-03T13:00:00.000Z"
+end_iso: "2026-06-03T15:30:00.000Z"
+host: "Vonage"
+neighborhood: "SoHo"
+rsvp_url: "https://partiful.com/e/VzFiSUj168Sj3mJvvD3N"
+public_short_url: "https://go.partiful.com/VEOrGTTF"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FAElXoekF405ZK2ScPNuq%2FeJyTHPKqUpvZGJyUxnmVJ?alt=media&token=8822bae5-1cbb-4b09-927c-9da22b3a19cf"
+visibility: "public"
+guest_action: "APPLY"
+at_capacity: true
+badges: []
+fetch_status: ok
+owner_count: 2
+owner_ids: ["AElXoekF405ZK2ScPNuq", "7DFu4rITofNzKIjA7hCx"]
+is_capped: true
+max_capacity: 100
+remaining_capacity: -177
+canceled: false
+approved_guest_count: 277
+local_image: "images/VzFiSUj168Sj3mJvvD3N.png"
+---
+
+# Founders Breakfast w/ Vonage: Real Tech Support & Funding Pathways for Startups
+
+![Founders Breakfast w/ Vonage: Real Tech Support & Funding Pathways for Startups](images/VzFiSUj168Sj3mJvvD3N.png)
+
+**Hosts:** Vonage  _(+1 more host(s) on Partiful — see description for full list)_
+**When:** Wednesday, June 3, 2026 · 9:00am–11:30am ET
+**Where:** SoHo
+**Capacity:** capped at 100 · 277 taken, -177 remaining
+**Status:** ⚠ at capacity
+**Access:** apply / hosts approve
+**RSVP:** https://partiful.com/e/VzFiSUj168Sj3mJvvD3N
+
+### Hosts on Partiful
+
+- [Vonage](https://partiful.com/u/AElXoekF405ZK2ScPNuq) — _Vonage, part of Ericsson, empowers enterprises and developers to lead in the next era of digital transformation. Our Network APIs, CPaaS, CCaaS, and UCaaS solutions enable innovative customer experiences across mobile networks and the cloud. Through the Vonage Startup Program, early-stage teams receive API credits, technical support, and co-marketing to scale faster on global infrastructure._
+- _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
+
+
+## Description
+
+NOTE: Due to a large number of RSVPs, this event will be first come, first served.
+
+Candid perspectives on what it takes to raise and scale today, featuring a panel of speakers from VC & Vonage Ecosystem Partners.
+
+Speakers:
+-Matt Nagle -- Global Leader, Startup Partners at AWS
+-Becky Yang -- Regional Lead, Women Defining AI 
+-Jenny Fielding -- Co-founder & GP at Everywhere Ventures 
+-Autumn Penaloza -- Sr. Startup Program Manager, Vonage
+
+A small, founder-first breakfast bringing together leading technology and VC voices to unpack today’s landscape and what it takes to scale in the current market. The conversation will spotlight ecosystem partners and startup programs supporting early-stage teams as they grow. Designed for practical insight, meaningful connections, and real conversation with the people backing the next generation of startups. Arrive hungry.
+
+Apply to the Vonage Startup Program here: https://vonage.dev/startups-NY-tech-week
+
+This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
+
+
+
+---
+
+[Apply on Partiful →](https://partiful.com/e/VzFiSUj168Sj3mJvvD3N)

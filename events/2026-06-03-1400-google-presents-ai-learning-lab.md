@@ -8,27 +8,23 @@ end_time: "5:30pm ET"
 start_iso: "2026-06-03T18:00:00.000Z"
 end_iso: "2026-06-03T21:30:00.000Z"
 host: "Google"
-venue_address: "110 W 19th St, New York, NY 10011"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/FJbZcfppRGdMVP1o534z"
 public_short_url: "https://go.partiful.com/B8drDLrL"
-google_maps: "https://www.google.com/maps/search/?api=1&query=110%20W%2019th%20St%2C%20New%20York%2C%20NY%2010011"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FDnj9jflXSkS29Y1RkgCgvyD97QG3%2FsBGXzdtl-NnQh5k2WnygL"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FDnj9jflXSkS29Y1RkgCgvyD97QG3%2FsBGXzdtl-NnQh5k2WnygL?alt=media&token=79f703df-78ec-4796-856f-ccc2a283f615"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 443
 badges: []
 fetch_status: ok
 owner_count: 6
 owner_ids: ["Dnj9jflXSkS29Y1RkgCgvyD97QG3", "7DFu4rITofNzKIjA7hCx", "rHxCovxMAacoEZ9KuJHPjAYLTDu2", "xpvIxjA7eha2VjlBr6k33rdhaaa2", "jYY4FSHvOINOTESXcxi37xmIqKg2", "UYuAoIBauwYSbU0yAop5YziWdL83"]
 is_capped: true
 max_capacity: 400
-remaining_capacity: 99
-total_guest_count: 454
-approved_guest_count: 301
-local_image: "images/FJbZcfppRGdMVP1o534z.jpg"
+remaining_capacity: 109
 canceled: false
+approved_guest_count: 291
+local_image: "images/FJbZcfppRGdMVP1o534z.jpg"
 ---
 
 # Google Presents AI Learning Lab
@@ -37,11 +33,10 @@ canceled: false
 
 **Hosts:** Google  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 2:00pm–5:30pm ET
-**Where:** 110 W 19th St, New York, NY 10011 · Chelsea
-**Capacity:** capped at 400 · 301 taken, 99 remaining
+**Where:** Chelsea
+**Capacity:** capped at 400 · 291 taken, 109 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/FJbZcfppRGdMVP1o534z
-**Map:** https://www.google.com/maps/search/?api=1&query=110%20W%2019th%20St%2C%20New%20York%2C%20NY%2010011
 
 ### Hosts on Partiful
 
@@ -76,10 +71,6 @@ We expect these sessions to fill up quickly and be in high demand.  Space is lim
 Guests will be permitted in the Google for Startups Hub only during the time slot they are approved for.  
 
 We invite all guests to return for the Google For Developers Happy Hour at 4p.  Only those with valid badges will be permitted, space allowing.
-
-
-
-
 
 
 

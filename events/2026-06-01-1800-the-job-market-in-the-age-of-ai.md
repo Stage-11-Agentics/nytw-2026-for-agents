@@ -12,22 +12,20 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/pBO053WMRiTeA0rADpmR"
 public_short_url: "https://go.partiful.com/cTiA0NDv"
 google_maps: "https://www.google.com/maps/search/?api=1&query=529%205th%20Ave%2C%20New%20York%2C%20NY%2010017"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F21pbqC443tbCuR6gckjmTMxhENF3%2FA6PhLcvA1zDLeqcS4Z0Ig"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F21pbqC443tbCuR6gckjmTMxhENF3%2FA6PhLcvA1zDLeqcS4Z0Ig?alt=media&token=0094dc60-2a92-4d03-8b11-9596e2228fb7"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 146
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["21pbqC443tbCuR6gckjmTMxhENF3", "YEooLYZxPtR4aNQ86I1kX6JDzIq1", "7DFu4rITofNzKIjA7hCx", "DmFMyi4u6GQKlDEivk8yW9Kf26D2"]
 is_capped: true
-max_capacity: 50
-remaining_capacity: 50
-total_guest_count: 149
-approved_guest_count: 0
-local_image: "images/pBO053WMRiTeA0rADpmR.png"
+max_capacity: 160
+remaining_capacity: 0
 canceled: false
+approved_guest_count: 160
+local_image: "images/pBO053WMRiTeA0rADpmR.png"
 ---
 
 # The job market in the age of AI
@@ -37,7 +35,8 @@ canceled: false
 **Hosts:** Unlocked Consultancy, Gartner  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:00pm ET
 **Where:** 529 Fifth Avenue · 529 5th Ave, New York, NY 10017 · Midtown
-**Capacity:** capped at 50 · 0 taken, 50 remaining
+**Capacity:** capped at 160 · 160 taken, 0 remaining · ⚠ **FULL**
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/pBO053WMRiTeA0rADpmR
 **Map:** https://www.google.com/maps/search/?api=1&query=529%205th%20Ave%2C%20New%20York%2C%20NY%2010017
@@ -65,10 +64,6 @@ Andrea is a Partner at DHR Global (top 6 exec search firm), a Perplexity Fellow,
 Max Horton is a Director at Oakleaf Partnership, leading the firm’s New York office, specializing in executive search across the CPG, manufacturing and life-sciences sectors. With over a decade of experience in the talent market, he advises clients on hiring strategy, leadership trends and the impact of AI on workforce structure and capability needs.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

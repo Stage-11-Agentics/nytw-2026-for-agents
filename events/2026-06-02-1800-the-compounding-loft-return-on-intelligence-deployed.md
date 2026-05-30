@@ -8,26 +8,21 @@ end_time: "9:00pm ET"
 start_iso: "2026-06-02T22:00:00.000Z"
 end_iso: "2026-06-03T01:00:00.000Z"
 host: "CovQ by 8W8"
-venue_name: "Midtown"
-venue_address: "Midtown, Manhattan, New York, NY"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/q2bahuz7xsdgwd4VJpEU"
 public_short_url: "https://go.partiful.com/rrAU9s7V"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FrHfDU35UsxZ8oYyft2y8POBmBv82%2FbAeuiEwPFs9Rg9Q5JNqQ4"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FrHfDU35UsxZ8oYyft2y8POBmBv82%2FbAeuiEwPFs9Rg9Q5JNqQ4?alt=media&token=2a034a87-6ff2-44a1-bf2b-75ba025490dc"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 54
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["rHfDU35UsxZ8oYyft2y8POBmBv82", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 54
+canceled: false
 approved_guest_count: 1
 local_image: "images/q2bahuz7xsdgwd4VJpEU.png"
-canceled: false
 ---
 
 # The Compounding Loft: Return on Intelligence Deployed
@@ -36,11 +31,10 @@ canceled: false
 
 **Hosts:** CovQ by 8W8  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–9:00pm ET
-**Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 54
+**Where:** Midtown
+**Going:** 1
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/q2bahuz7xsdgwd4VJpEU
-**Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -54,10 +48,6 @@ www.8W8.com_
 The inaugural Compounding Loft session brings together an exclusive group of senior enterprise operators and capital allocators focused on how intelligence, execution, and systems translate into enterprise value. The panel will start 6.30 pm.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

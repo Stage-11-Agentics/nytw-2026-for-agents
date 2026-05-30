@@ -7,34 +7,32 @@ start_time: "9:00am ET"
 end_time: "11:00am ET"
 start_iso: "2026-06-03T13:00:00.000Z"
 end_iso: "2026-06-03T15:00:00.000Z"
-host: "The Ember Company, Animal Capital, Manatt"
+host: "Manatt, The Ember Company, Animal Capital"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/89fRnFZuajb3BzXK9rEJ"
 public_short_url: "https://go.partiful.com/YAowDeJV"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FPSf7o3XNaqasVz0NpoijLjUtDNh2%2FQKhLgcvt_YmtUw_vYXtKC"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FPSf7o3XNaqasVz0NpoijLjUtDNh2%2FQKhLgcvt_YmtUw_vYXtKC?alt=media&token=27a520de-44ef-4a0d-876e-7715bd17c712"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 240
 badges: []
 fetch_status: ok
 owner_count: 5
 owner_ids: ["PSf7o3XNaqasVz0NpoijLjUtDNh2", "7DFu4rITofNzKIjA7hCx", "83JiqQ3YGRrokPYNUS9T", "T5M7LlWZwU9z2oL1OXKD", "ztETaWsIpeXJYn60eDdNV1SSzZw2"]
 is_capped: false
-total_guest_count: 245
-approved_guest_count: 104
-local_image: "images/89fRnFZuajb3BzXK9rEJ.jpg"
 canceled: false
+approved_guest_count: 141
+local_image: "images/89fRnFZuajb3BzXK9rEJ.jpg"
 ---
 
 # The Future of Entertainment:  Content, Creators and Capital –
 
 ![The Future of Entertainment:  Content, Creators and Capital –](images/89fRnFZuajb3BzXK9rEJ.jpg)
 
-**Hosts:** The Ember Company, Animal Capital, Manatt  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** Manatt, The Ember Company, Animal Capital  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 9:00am–11:00am ET
 **Where:** Flatiron
-**Going:** 240 of 245
+**Going:** 141
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/89fRnFZuajb3BzXK9rEJ
 
@@ -70,10 +68,6 @@ Panelists for this event include:
 Expect a candid, off the record conversation with time for audience Q&A, followed by informal networking with fellow founders, operators, and investors across entertainment, advertising, hardware, and consumer tech. Refreshments will be provided.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

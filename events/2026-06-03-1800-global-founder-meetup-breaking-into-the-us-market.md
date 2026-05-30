@@ -12,20 +12,18 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/6rbvin19cnCqiv6pRd3v"
 public_short_url: "https://go.partiful.com/2SJHpQn4"
 google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fix7kL3E62KVYGBYcyFNZdu2eT5y2%2FkXuGXzXAkO6DeYtsZwNfN"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fix7kL3E62KVYGBYcyFNZdu2eT5y2%2FkXuGXzXAkO6DeYtsZwNfN?alt=media&token=080b1824-c7e1-48d7-88a0-8de5972f41fb"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 80
 badges: []
 fetch_status: ok
-owner_count: 5
-owner_ids: ["ix7kL3E62KVYGBYcyFNZdu2eT5y2", "7DFu4rITofNzKIjA7hCx", "gOaASOwKov7C00sbWVnL", "nFrfxX2xyJUR145EGfOlIyIIzHr2", "kut1cgTTsOV1rAVqKcGZzCR2IKG3"]
+owner_count: 6
+owner_ids: ["ix7kL3E62KVYGBYcyFNZdu2eT5y2", "7DFu4rITofNzKIjA7hCx", "gOaASOwKov7C00sbWVnL", "nFrfxX2xyJUR145EGfOlIyIIzHr2", "kut1cgTTsOV1rAVqKcGZzCR2IKG3", "nMFpfchwA1kAGXrtC5gK"]
 is_capped: false
-total_guest_count: 81
-approved_guest_count: 49
-local_image: "images/6rbvin19cnCqiv6pRd3v.png"
 canceled: false
+approved_guest_count: 128
+local_image: "images/6rbvin19cnCqiv6pRd3v.png"
 ---
 
 # Global Founder Meetup:
@@ -34,10 +32,10 @@ Breaking Into the U.S. Market
 ![Global Founder Meetup:
 Breaking Into the U.S. Market](images/6rbvin19cnCqiv6pRd3v.png)
 
-**Hosts:** Build Momentum  _(+4 more host(s) on Partiful — see description for full list)_
+**Hosts:** Build Momentum  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm ET
 **Where:** New York, NY · New York, NY · Midtown
-**Going:** 80 of 81
+**Going:** 128
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/6rbvin19cnCqiv6pRd3v
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -54,6 +52,7 @@ Fun facts: I don’t shy from a challenge—once biking across the U.S. from Bos
 - [Founders and Fractionals](https://partiful.com/u/gOaASOwKov7C00sbWVnL)
 - [Patrick Driscoll](https://partiful.com/u/nFrfxX2xyJUR145EGfOlIyIIzHr2)
 - [Eylo](https://partiful.com/u/kut1cgTTsOV1rAVqKcGZzCR2IKG3) — _Founder @Unemployables | COO @BuildMomentum_
+- [Build Momentum](https://partiful.com/u/nMFpfchwA1kAGXrtC5gK) — _Build Momentum is LA’s founder-first venture studio, helping founders turn expertise into companies._
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -98,10 +97,6 @@ Build Momentum is a venture studio helping international founders enter and grow
 Holland & Knight is a global law firm supporting companies, founders, investors, and institutions across key legal, regulatory, transactional, and growth moments.
 
 This event is part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

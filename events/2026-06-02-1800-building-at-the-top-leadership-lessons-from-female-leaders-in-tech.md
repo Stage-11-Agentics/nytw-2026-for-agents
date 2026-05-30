@@ -16,16 +16,14 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 114
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["NRIdJ3dzbSdXpZFcyjXa9wCL4yd2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 116
-approved_guest_count: 85
-local_image: "images/NJNZyUqjxcUsyY9CYu1z.png"
 canceled: false
+approved_guest_count: 143
+local_image: "images/NJNZyUqjxcUsyY9CYu1z.png"
 ---
 
 # Building at the Top:  Leadership Lessons from Female Leaders in Tech
@@ -35,7 +33,7 @@ canceled: false
 **Hosts:** Topline Pro  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm ET
 **Where:** Williamsburg · Williamsburg, Brooklyn, New York, NY · Brooklyn
-**Going:** 114 of 116
+**Going:** 143
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/NJNZyUqjxcUsyY9CYu1z
 **Map:** https://www.google.com/maps/search/?api=1&query=Williamsburg%2C%20Williamsburg%2C%20Brooklyn%2C%20New%20York%2C%20NY
@@ -59,10 +57,6 @@ Panelists include:
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

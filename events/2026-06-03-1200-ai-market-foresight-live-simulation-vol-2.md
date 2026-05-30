@@ -14,20 +14,17 @@ neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/MapuUg1D3MB9pAp550DP"
 public_short_url: "https://go.partiful.com/BzmbR57s"
 google_maps: "https://www.google.com/maps/search/?api=1&query=SoHo%2C%20SoHo%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FVQbjlJEwDHNUaRuM7RfijqMjt4p2%2F4QHNbw3hGqO55t-c0RTu8"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FVQbjlJEwDHNUaRuM7RfijqMjt4p2%2F4QHNbw3hGqO55t-c0RTu8?alt=media&token=b8914f59-afbb-4461-8e66-e9f44800615f"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 307
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["VQbjlJEwDHNUaRuM7RfijqMjt4p2", "uBdLczWSPEexRAga8wPrwJGmN1s2", "7DFu4rITofNzKIjA7hCx", "5j69ciu7zqfkOzO3Krsc5g8oBLz2"]
 is_capped: false
-total_guest_count: 309
-approved_guest_count: 38
-local_image: "images/MapuUg1D3MB9pAp550DP.png"
 canceled: false
+local_image: "images/MapuUg1D3MB9pAp550DP.png"
 ---
 
 # AI Market Foresight: Live Simulation Vol. 2
@@ -37,7 +34,6 @@ canceled: false
 **Hosts:** Principle  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 12:00pm–3:30pm ET
 **Where:** SoHo · SoHo, Manhattan, New York, NY · SoHo
-**Going:** 307 of 309
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/MapuUg1D3MB9pAp550DP
 **Map:** https://www.google.com/maps/search/?api=1&query=SoHo%2C%20SoHo%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -70,10 +66,6 @@ Brought to you by Principle.
 futureprinciple.com
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

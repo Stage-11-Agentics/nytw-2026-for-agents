@@ -14,20 +14,18 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/MFfmDRWvhSBTDNsj9Koj"
 public_short_url: "https://go.partiful.com/xNV9iQCb"
 google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20New%20York"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FQjAQ7et3eKrudQ24m09Q%2Frk7cY_rLwR90xuVXu0j7j"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FQjAQ7et3eKrudQ24m09Q%2Frk7cY_rLwR90xuVXu0j7j?alt=media&token=8c17af97-ecb9-4694-b573-11fb8d798b15"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 56
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["QjAQ7et3eKrudQ24m09Q", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 59
-approved_guest_count: 49
-local_image: "images/MFfmDRWvhSBTDNsj9Koj.png"
 canceled: false
+approved_guest_count: 111
+local_image: "images/MFfmDRWvhSBTDNsj9Koj.png"
 ---
 
 # South Asians in Finance
@@ -37,7 +35,7 @@ canceled: false
 **Hosts:** American South Asian Network  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:30pm–8:30pm ET
 **Where:** New York · New York · Midtown
-**Going:** 56 of 59
+**Going:** 111
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/MFfmDRWvhSBTDNsj9Koj
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20New%20York
@@ -76,10 +74,6 @@ South Asians in Finance brings together South Asian leaders across finance, fint
 https://www.instagram.com/asan.fyi https://www.linkedin.com/company/asanfyi  
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

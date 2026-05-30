@@ -4,27 +4,24 @@ event_id: "TbbdKjbVcYRMaHyA5PTp"
 date: 2026-06-01
 day: "Monday"
 start_time: "7:00am ET"
-end_time: "8:45am ET"
+end_time: "8:30am ET"
 start_iso: "2026-06-01T11:00:00.000Z"
-end_iso: "2026-06-01T12:45:00.000Z"
+end_iso: "2026-06-01T12:30:00.000Z"
 host: "Build Momentum, Founders and Fractioals"
 neighborhood: "Greenwich Village"
 rsvp_url: "https://partiful.com/e/TbbdKjbVcYRMaHyA5PTp"
 public_short_url: "https://go.partiful.com/vkrL6TaA"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fix7kL3E62KVYGBYcyFNZdu2eT5y2%2Fhnkf0_0ouWLZUyXEzOR9L"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fix7kL3E62KVYGBYcyFNZdu2eT5y2%2Fhnkf0_0ouWLZUyXEzOR9L?alt=media&token=84f9673f-cfa8-4e84-942e-bb61d6b7d14c"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 229
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["ix7kL3E62KVYGBYcyFNZdu2eT5y2", "7DFu4rITofNzKIjA7hCx", "kut1cgTTsOV1rAVqKcGZzCR2IKG3"]
 is_capped: false
-total_guest_count: 233
-approved_guest_count: 0
-local_image: "images/TbbdKjbVcYRMaHyA5PTp.png"
 canceled: false
+local_image: "images/TbbdKjbVcYRMaHyA5PTp.png"
 ---
 
 # Sweat Equity: Founder + Investor HIIT Workout & Coffee
@@ -32,9 +29,8 @@ canceled: false
 ![Sweat Equity: Founder + Investor HIIT Workout & Coffee](images/TbbdKjbVcYRMaHyA5PTp.png)
 
 **Hosts:** Build Momentum, Founders and Fractioals  _(+1 more host(s) on Partiful — see description for full list)_
-**When:** Monday, June 1, 2026 · 7:00am–8:45am ET
+**When:** Monday, June 1, 2026 · 7:00am–8:30am ET
 **Where:** Greenwich Village
-**Going:** 229 of 233
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/TbbdKjbVcYRMaHyA5PTp
 
@@ -70,15 +66,11 @@ Founders & Fractionals connects startups with leading fractional talent, senior 
 Schedule
 7:00 AM Arrival
 7:15-8:10 class AM HIIT class
-8:10-9:00 AM Coffee + morning mixer
+8:10-8:30 AM Coffee + morning mixer
 
 Come ready to move, meet sharp founders and investors, and start Tech Week with momentum.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

@@ -14,20 +14,17 @@ neighborhood: "Gramercy Park"
 rsvp_url: "https://partiful.com/e/oS8dmcPrh1qCmoXJmag0"
 public_short_url: "https://go.partiful.com/a2zISPc3"
 google_maps: "https://www.google.com/maps/search/?api=1&query=384%20Third%20Ave%2C%20New%20York%2C%20NY%2010016"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FzHpwVsyZuiY64cEL5HRNAoY09JI3%2FAoXz77fuZV7C_pDg38e7a"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FzHpwVsyZuiY64cEL5HRNAoY09JI3%2FAoXz77fuZV7C_pDg38e7a?alt=media&token=fbe8b6bb-9b4e-49cb-90c7-5134a7b2b319"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 2016
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["zHpwVsyZuiY64cEL5HRNAoY09JI3", "7DFu4rITofNzKIjA7hCx", "vnWRvqH3i0NKFeJCzfLG2NcbMek2"]
 is_capped: false
-total_guest_count: 2015
-approved_guest_count: 42
-local_image: "images/oS8dmcPrh1qCmoXJmag0.png"
 canceled: false
+local_image: "images/oS8dmcPrh1qCmoXJmag0.png"
 ---
 
 # Close the Laptop, Validate in Person (Sponsored by BMO)
@@ -37,7 +34,6 @@ canceled: false
 **Hosts:** Startup Baddie, Social Company of Soho  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–8:30pm ET
 **Where:** Tara Rose · 384 Third Ave, New York, NY 10016 · Gramercy Park
-**Going:** 2016 of 2015
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/oS8dmcPrh1qCmoXJmag0
 **Map:** https://www.google.com/maps/search/?api=1&query=384%20Third%20Ave%2C%20New%20York%2C%20NY%2010016
@@ -72,10 +68,6 @@ BMO has strong roots in and a deep understanding of the technology space and its
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

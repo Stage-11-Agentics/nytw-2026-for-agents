@@ -13,20 +13,18 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/Ol2qfN9cV1M4bsImhMJy"
 public_short_url: "https://go.partiful.com/2qNDkxdD"
 google_maps: "https://www.google.com/maps/search/?api=1&query=22%20Vanderbilt%20Ave%2C%20New%20York%2C%20NY%2010017"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FH4TQkvMub4P74iPqfuazIPgngUi2%2FByvcWkHlLcazrpndGtMLh"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FH4TQkvMub4P74iPqfuazIPgngUi2%2FByvcWkHlLcazrpndGtMLh?alt=media&token=56ce388e-3962-4a61-8fc5-3a5226ab64fe"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 24
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["ha2XczuDLzcgNygNq1IW2PitY463", "7DFu4rITofNzKIjA7hCx", "H4TQkvMub4P74iPqfuazIPgngUi2", "VoJkBixQZgSJodkEyMaHTQ1APc93"]
 is_capped: false
-total_guest_count: 26
-approved_guest_count: 8
-local_image: "images/Ol2qfN9cV1M4bsImhMJy.png"
 canceled: false
+approved_guest_count: 16
+local_image: "images/Ol2qfN9cV1M4bsImhMJy.png"
 ---
 
 # Founders House - Launch
@@ -36,7 +34,7 @@ canceled: false
 **Hosts:** Founder  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:30am–5:00pm ET
 **Where:** 22 Vanderbilt Ave, New York, NY 10017 · Midtown
-**Going:** 24 of 26
+**Going:** 16
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Ol2qfN9cV1M4bsImhMJy
 **Map:** https://www.google.com/maps/search/?api=1&query=22%20Vanderbilt%20Ave%2C%20New%20York%2C%20NY%2010017
@@ -58,10 +56,6 @@ Join us for the official launch of Founders House. Come meet other founders, ope
 ​It's a workspace (phone booths, conference room and hot desks), a wellness club, and a community in one - designed around how founders actually spend their days.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

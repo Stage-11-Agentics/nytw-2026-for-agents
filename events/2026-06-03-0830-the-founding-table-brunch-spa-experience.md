@@ -12,23 +12,21 @@ neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/bkKnnXki0QaAP3cUZvPD"
 public_short_url: "https://go.partiful.com/NhTa2khd"
 google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F3s0uYdxiWwQPHaiA9cardg6O1bp2%2FT-fCm_FCE0Q_Ms1sI2ZwJ"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F3s0uYdxiWwQPHaiA9cardg6O1bp2%2FT-fCm_FCE0Q_Ms1sI2ZwJ?alt=media&token=6d66993f-63f3-4ca4-b858-71aa0e1af9e8"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 15
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["3s0uYdxiWwQPHaiA9cardg6O1bp2", "JEynswOp1o6YMsFcfKLE", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 15
-approved_guest_count: 0
-local_image: "images/bkKnnXki0QaAP3cUZvPD.png"
 canceled: true
 canceled_at: "2026-05-18T23:44:30.323Z"
 canceled_by: "3s0uYdxiWwQPHaiA9cardg6O1bp2"
 cancellation_message: "We merged this event with https://partiful.com/e/EDvSG5uaWJ1DJVAlgj6q"
+approved_guest_count: 0
+local_image: "images/bkKnnXki0QaAP3cUZvPD.png"
 ---
 
 # The Founding Table: Brunch & Spa Experience
@@ -43,7 +41,6 @@ cancellation_message: "We merged this event with https://partiful.com/e/EDvSG5ua
 **Hosts:** Persona  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 8:30am ET
 **Where:** New York, NY · New York, NY · Flatiron
-**Going:** 15
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/bkKnnXki0QaAP3cUZvPD
 **Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
@@ -68,10 +65,6 @@ Spots are extremely limited. If you received this link, you're already on the sh
 Seed stage · AI founders · 20 guests maximum
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -6,23 +6,23 @@ day: "Friday"
 start_time: "10:00am ET"
 start_iso: "2026-06-05T14:00:00.000Z"
 host: "Exette"
+venue_address: "432 Park Ave S, New York, NY 10016"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/rlMYu1yn8OTgJ0Vbaopm"
 public_short_url: "https://go.partiful.com/vWYaiMwH"
+google_maps: "https://www.google.com/maps/search/?api=1&query=432%20Park%20Ave%20S%2C%20New%20York%2C%20NY%2010016"
 image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 46
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["2guvWZ07SdR1kBH442f9FdQ3Hi02", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 47
-approved_guest_count: 39
-local_image: "images/rlMYu1yn8OTgJ0Vbaopm.png"
 canceled: false
+approved_guest_count: 62
+local_image: "images/rlMYu1yn8OTgJ0Vbaopm.png"
 ---
 
 # She's Selling: Building the $3.3T Future of Female Exits with Fintech
@@ -31,10 +31,11 @@ canceled: false
 
 **Hosts:** Exette  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 10:00am ET
-**Where:** Flatiron
-**Going:** 46 of 47
+**Where:** 432 Park Ave S, New York, NY 10016 · Flatiron
+**Going:** 62
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/rlMYu1yn8OTgJ0Vbaopm
+**Map:** https://www.google.com/maps/search/?api=1&query=432%20Park%20Ave%20S%2C%20New%20York%2C%20NY%2010016
 
 ### Hosts on Partiful
 
@@ -59,10 +60,6 @@ https://www.instagram.com/itsalishamp
 https://www.linkedin.com/in/alisha-m-pennington
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

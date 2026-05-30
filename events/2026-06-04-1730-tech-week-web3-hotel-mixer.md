@@ -8,25 +8,21 @@ end_time: "7:30pm ET"
 start_iso: "2026-06-04T21:30:00.000Z"
 end_iso: "2026-06-04T23:30:00.000Z"
 host: "Peiheng"
-venue_name: "W Hotels"
-venue_address: "201 Park Ave S, New York, NY 10003"
 neighborhood: "Union Square"
 rsvp_url: "https://partiful.com/e/lBLDmnEK3sHNl8q3phmR"
 public_short_url: "https://go.partiful.com/a5d7YG5l"
-google_maps: "https://www.google.com/maps/search/?api=1&query=201%20Park%20Ave%20S%2C%20New%20York%2C%20NY%2010003"
 image: "https://media2.giphy.com/media/anQKkoitxlTtpdFCLy/giphy.gif?cid=c00e53c6f5mwxzyz55uzkyhf7yq4fx1m5yvi0g2c3ljxqcup&ep=v1_gifs_search&rid=giphy.gif&ct=g"
 visibility: "public"
 at_capacity: false
-going_guest_count: 30
+going_guest_count: 119
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["ifcfhex4pKg5EHKMf7hB1mnvqaD2", "7DFu4rITofNzKIjA7hCx", "io3hiRxUgyGU2x4Q95IV"]
 is_capped: false
-total_guest_count: 34
+canceled: false
 approved_guest_count: 0
 local_image: "images/lBLDmnEK3sHNl8q3phmR.gif"
-canceled: false
 ---
 
 # Tech Week Web3 Hotel Mixer
@@ -35,10 +31,9 @@ canceled: false
 
 **Hosts:** Peiheng  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:30pm–7:30pm ET
-**Where:** W Hotels · 201 Park Ave S, New York, NY 10003 · Union Square
-**Going:** 30 of 34
+**Where:** Union Square
+**Going:** 119
 **RSVP:** https://partiful.com/e/lBLDmnEK3sHNl8q3phmR
-**Map:** https://www.google.com/maps/search/?api=1&query=201%20Park%20Ave%20S%2C%20New%20York%2C%20NY%2010003
 
 ### Hosts on Partiful
 
@@ -57,9 +52,7 @@ Join Peiheng for a casual meetup focused on the future of tech. We’re skipping
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
 
-
-
-
+The event is kindly sponsored by Mangrove AI: Mangrove is a wealthtech ecosystem built for the era of digital asset investing and agentic finance. The platform helps RIAs, wealth managers, self-directed investors, and AI agents participate in 24/7 digital asset markets through AI-assisted trading strategies, programmable guardrails, and embedded risk controls — letting users design, test, and deploy automated strategies without writing code or handing over their wallets.
 
 
 

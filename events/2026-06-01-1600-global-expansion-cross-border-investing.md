@@ -8,26 +8,21 @@ end_time: "7:00pm ET"
 start_iso: "2026-06-01T20:00:00.000Z"
 end_iso: "2026-06-01T23:00:00.000Z"
 host: "Yorkseed"
-venue_name: "Flatiron District"
-venue_address: "Flatiron District, Manhattan, New York, NY"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/M05fTDt8E8MbWXkEHO6a"
 public_short_url: "https://go.partiful.com/XLTJoy7C"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Flatiron%20District%2C%20Flatiron%20District%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fi4XQa1sdTgRma2XaNAKe942tsru2%2FJV9d9yELAr8mHjXo_hF37"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fi4XQa1sdTgRma2XaNAKe942tsru2%2FJV9d9yELAr8mHjXo_hF37?alt=media&token=0e130d69-0036-4a05-9b5c-2092b59692fb"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 78
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["i4XQa1sdTgRma2XaNAKe942tsru2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 80
+canceled: false
 approved_guest_count: 0
 local_image: "images/M05fTDt8E8MbWXkEHO6a.png"
-canceled: false
 ---
 
 # Global Expansion & Cross-Border Investing
@@ -36,11 +31,9 @@ canceled: false
 
 **Hosts:** Yorkseed  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 4:00pm–7:00pm ET
-**Where:** Flatiron District · Flatiron District, Manhattan, New York, NY · Midtown
-**Going:** 78 of 80
+**Where:** Midtown
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/M05fTDt8E8MbWXkEHO6a
-**Map:** https://www.google.com/maps/search/?api=1&query=Flatiron%20District%2C%20Flatiron%20District%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -83,10 +76,6 @@ To maintain the quality of the ecosystem, applications go through a review and d
 Apply via app.yorkseed.co
 
 This event is part of #NYTechWeek — a week of events hosted by VCs and startups bringing together the global tech ecosystem.
-
-
-
-
 
 
 

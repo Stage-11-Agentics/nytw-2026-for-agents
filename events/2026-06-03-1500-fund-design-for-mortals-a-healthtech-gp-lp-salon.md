@@ -20,10 +20,9 @@ owner_ids: ["4h6OCQmVBhgGTRSQQVhBpXfZFrd2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 30
 remaining_capacity: 0
-total_guest_count: 53
+canceled: false
 approved_guest_count: 0
 local_image: "images/ktsk3lKZaqugwSxqHfO9.jpg"
-canceled: false
 ---
 
 # Fund Design For Mortals: A Healthtech GP / LP Salon
@@ -52,10 +51,6 @@ In an era where 84% of healthcare VC exits fall below $650M and 42% fall below $
 To apply to participate, you must currently be either the GP or MP of a healthtech focused fund or a current LP into the same.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

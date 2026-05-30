@@ -6,39 +6,36 @@ day: "Tuesday"
 start_time: "7:00pm ET"
 start_iso: "2026-06-02T23:00:00.000Z"
 host: "Gamma"
-venue_name: "Freemans"
-venue_address: "End of Freeman Alley, New York, NY 10002"
 neighborhood: "Lower East Side"
 rsvp_url: "https://partiful.com/e/USH73kQlduUcSCS6j9Q2"
 public_short_url: "https://go.partiful.com/obLZkGOc"
-google_maps: "https://www.google.com/maps/search/?api=1&query=End%20of%20Freeman%20Alley%2C%20New%20York%2C%20NY%2010002"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F0wMLtF8eSPHMQQCEkIZn%2F1F5iNJXTf4ubxFlgEm806"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F0wMLtF8eSPHMQQCEkIZn%2F1F5iNJXTf4ubxFlgEm806?alt=media&token=efbb655f-800e-46be-872c-90f6d6427766"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 208
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["0wMLtF8eSPHMQQCEkIZn", "7DFu4rITofNzKIjA7hCx"]
-is_capped: false
-total_guest_count: 213
-approved_guest_count: 17
-image_download_error: "HTTP Error 403: Forbidden"
+is_capped: true
+max_capacity: 32
+remaining_capacity: -2
 canceled: false
+approved_guest_count: 34
+image_download_error: "HTTP Error 403: Forbidden"
 ---
 
 # Star Sellers Dinner
 
-![Star Sellers Dinner](https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F0wMLtF8eSPHMQQCEkIZn%2F1F5iNJXTf4ubxFlgEm806)
+![Star Sellers Dinner](https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F0wMLtF8eSPHMQQCEkIZn%2F1F5iNJXTf4ubxFlgEm806?alt=media&token=efbb655f-800e-46be-872c-90f6d6427766)
 
 **Hosts:** Gamma  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 7:00pm ET
-**Where:** Freemans · End of Freeman Alley, New York, NY 10002 · Lower East Side
-**Going:** 208 of 213
+**Where:** Lower East Side
+**Capacity:** capped at 32 · 34 taken, -2 remaining
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/USH73kQlduUcSCS6j9Q2
-**Map:** https://www.google.com/maps/search/?api=1&query=End%20of%20Freeman%20Alley%2C%20New%20York%2C%20NY%2010002
 
 ### Hosts on Partiful
 
@@ -59,10 +56,6 @@ An intimate dinner for brilliant sellers.
 ​Space is limited and we're curating the room intentionally. Request your seat and we'll review and confirm your spot.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

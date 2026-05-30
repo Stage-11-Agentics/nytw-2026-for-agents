@@ -7,40 +7,36 @@ start_time: "6:00pm ET"
 end_time: "9:00pm ET"
 start_iso: "2026-06-02T22:00:00.000Z"
 end_iso: "2026-06-03T01:00:00.000Z"
-host: "Datadog, a16z speedrun, Replit"
-venue_name: "Manhattan"
-venue_address: "Manhattan, New York, NY"
+host: "a16z speedrun, Datadog, Replit"
+venue_name: "Limusina"
+venue_address: "441 9th Ave, New York, NY 10001"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/CKP1QMCbZPFuWHlNo6y0"
 public_short_url: "https://go.partiful.com/Gtd5BOIh"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FFn3x6INVS3ZFGF66imM8%2FO3rQz3pjKUp_OUOhDBvHh"
+google_maps: "https://www.google.com/maps/search/?api=1&query=441%209th%20Ave%2C%20New%20York%2C%20NY%2010001"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FFn3x6INVS3ZFGF66imM8%2FO3rQz3pjKUp_OUOhDBvHh?alt=media&token=5f37c70d-0f43-4972-9172-e8700ff87c62"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 337
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["Fn3x6INVS3ZFGF66imM8", "Qh6aQBcEyegnGFVaOfNi", "7DFu4rITofNzKIjA7hCx", "ofYzIubzOnJBiXRDYVLS"]
 is_capped: false
-total_guest_count: 340
-approved_guest_count: 9
-local_image: "images/CKP1QMCbZPFuWHlNo6y0.png"
 canceled: false
+local_image: "images/CKP1QMCbZPFuWHlNo6y0.png"
 ---
 
 # speedrun Insiders VIP Dinner
 
 ![speedrun Insiders VIP Dinner](images/CKP1QMCbZPFuWHlNo6y0.png)
 
-**Hosts:** Datadog, a16z speedrun, Replit  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** a16z speedrun, Datadog, Replit  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–9:00pm ET
-**Where:** Manhattan · Manhattan, New York, NY · SoHo
-**Going:** 337 of 340
+**Where:** Limusina · 441 9th Ave, New York, NY 10001 · SoHo
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/CKP1QMCbZPFuWHlNo6y0
-**Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
+**Map:** https://www.google.com/maps/search/?api=1&query=441%209th%20Ave%2C%20New%20York%2C%20NY%2010001
 
 ### Hosts on Partiful
 
@@ -65,10 +61,6 @@ Location details will be shared upon event registration and acceptance.
 Due to limited capacity, attendance is by application only. Thank you for understanding.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

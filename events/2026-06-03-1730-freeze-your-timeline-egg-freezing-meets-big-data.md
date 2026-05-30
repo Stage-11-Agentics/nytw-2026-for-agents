@@ -8,27 +8,23 @@ end_time: "7:30pm ET"
 start_iso: "2026-06-03T21:30:00.000Z"
 end_iso: "2026-06-03T23:30:00.000Z"
 host: "Sunfish, Cooley LLP"
-venue_address: "730 Third Ave, New York, NY 10017"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/jyXY5GxuVgFFmcUtI6X0"
 public_short_url: "https://go.partiful.com/ioAZKMPV"
-google_maps: "https://www.google.com/maps/search/?api=1&query=730%20Third%20Ave%2C%20New%20York%2C%20NY%2010017"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FVSxlpBruxkHVnXzJOYYG%2FKHE3-O1AmBVVw5fVZ2GGD"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FVSxlpBruxkHVnXzJOYYG%2FKHE3-O1AmBVVw5fVZ2GGD?alt=media&token=653cf003-6264-4e93-a89b-c149bbdeb7ea"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 73
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["VSxlpBruxkHVnXzJOYYG", "7DFu4rITofNzKIjA7hCx", "j1QoYOAkEvOf3HCTbHyb542W2u72"]
 is_capped: true
-max_capacity: 95
-remaining_capacity: 32
-total_guest_count: 85
-approved_guest_count: 63
-local_image: "images/jyXY5GxuVgFFmcUtI6X0.png"
+max_capacity: 110
+remaining_capacity: 4
 canceled: false
+approved_guest_count: 106
+local_image: "images/jyXY5GxuVgFFmcUtI6X0.png"
 ---
 
 # Freeze Your Timeline: Egg Freezing Meets Big Data
@@ -37,11 +33,10 @@ canceled: false
 
 **Hosts:** Sunfish, Cooley LLP  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:30pm–7:30pm ET
-**Where:** 730 Third Ave, New York, NY 10017 · Midtown
-**Capacity:** capped at 95 · 63 taken, 32 remaining
+**Where:** Midtown
+**Capacity:** capped at 110 · 106 taken, 4 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/jyXY5GxuVgFFmcUtI6X0
-**Map:** https://www.google.com/maps/search/?api=1&query=730%20Third%20Ave%2C%20New%20York%2C%20NY%2010017
 
 ### Hosts on Partiful
 
@@ -52,7 +47,7 @@ canceled: false
 
 ## Description
 
-Join us in New York City to discuss one of the hottest topics in healthcare + tech: egg freezing.  
+Join us in New York City to discuss one of the hottest topics in healthcare + tech: egg freezing, at the Sunfish office (near Grand Central Station).  
 
 Presented by AI startup Sunfish and the Cooley Healthcare Team, at the Sunfish offices, this event will bring together medical expertise, patient testimonials, and analytical leaders for a conversation about how new data can help provide more clarity. 
 
@@ -68,10 +63,6 @@ What You'll Get:
 - Leave with discounts and swag 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem in New York. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

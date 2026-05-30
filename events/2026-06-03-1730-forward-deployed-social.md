@@ -11,20 +11,18 @@ host: "Cresta AI"
 neighborhood: "Upper Manhattan"
 rsvp_url: "https://partiful.com/e/WDT8qQr3GmiczlMEqStK"
 public_short_url: "https://go.partiful.com/vDwOr8nw"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FNmWqEL0qwVdA5LvZU4W50QPGZ9O2%2FNkvfsTAs3XY1Yt_bmsIcx"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FNmWqEL0qwVdA5LvZU4W50QPGZ9O2%2FNkvfsTAs3XY1Yt_bmsIcx?alt=media&token=69449e34-ab88-47e7-8364-99e711ee79d0"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 39
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["NmWqEL0qwVdA5LvZU4W50QPGZ9O2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 40
-approved_guest_count: 0
-local_image: "images/WDT8qQr3GmiczlMEqStK.png"
 canceled: false
+approved_guest_count: 77
+local_image: "images/WDT8qQr3GmiczlMEqStK.png"
 ---
 
 # Forward Deployed Social
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** Cresta AI  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:30pm–7:30pm ET
 **Where:** Upper Manhattan
-**Going:** 39 of 40
+**Going:** 77
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/WDT8qQr3GmiczlMEqStK
 
@@ -63,10 +61,6 @@ We’ll explore topics including:
 This is an invite-only event with limited capacity. If you're building, deploying, or obsessing over AI in production — request your spot now.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

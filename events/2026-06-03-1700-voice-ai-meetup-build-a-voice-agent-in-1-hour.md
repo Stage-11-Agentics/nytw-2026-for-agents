@@ -14,20 +14,17 @@ neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/pIS8aostHgPm9GXmaN6X"
 public_short_url: "https://go.partiful.com/LxoRquuF"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Rockefeller%20Center%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FdAZog6knFqprDqrlnIZQ%2F4aAVjbEzyY-Sl7qf3FgoQ"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FdAZog6knFqprDqrlnIZQ%2F4aAVjbEzyY-Sl7qf3FgoQ?alt=media&token=2b62f0d1-bde7-4ce7-9b68-ed0709d806e4"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 38
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["dAZog6knFqprDqrlnIZQ", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 41
-approved_guest_count: 35
-local_image: "images/pIS8aostHgPm9GXmaN6X.png"
 canceled: false
+local_image: "images/pIS8aostHgPm9GXmaN6X.png"
 ---
 
 # Voice AI Meetup: Build a Voice Agent in 1 hour
@@ -37,7 +34,6 @@ canceled: false
 **Hosts:** AssemblyAI  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:00pm–8:00pm ET
 **Where:** Rockefeller Center · New York, NY · SoHo
-**Going:** 38 of 41
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/pIS8aostHgPm9GXmaN6X
 **Map:** https://www.google.com/maps/search/?api=1&query=Rockefeller%20Center%2C%20New%20York%2C%20NY
@@ -88,10 +84,6 @@ Please confirm your participation in the 'Build a Voice Agent' portion of our ev
 ​By signing up for this event, you opt in to receiving AssemblyAI marketing emails. You may unsubscribe at any time. By attending this event, you acknowledge that photography and video recording may take place; if you do not consent, please contact the event host.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

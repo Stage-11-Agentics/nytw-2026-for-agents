@@ -6,26 +6,23 @@ day: "Thursday"
 start_time: "3:30pm ET"
 start_iso: "2026-06-04T19:30:00.000Z"
 host: "Pluvo"
-venue_name: "New York, NY"
-venue_address: "New York, NY"
+venue_name: "Midtown Manhattan"
+venue_address: "Midtown Manhattan, Manhattan, New York, NY"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/HjUT9chDvQXxrCHGkfcA"
 public_short_url: "https://go.partiful.com/vRz1r9Fa"
-google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FKLoIMrS4zRMmyocMRWUG%2F_yzTOckLtR9ifUXeTrOMQ"
+google_maps: "https://www.google.com/maps/search/?api=1&query=Midtown%20Manhattan%2C%20Midtown%20Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FKLoIMrS4zRMmyocMRWUG%2F_yzTOckLtR9ifUXeTrOMQ?alt=media&token=884c3a1f-7528-4c9b-9a6c-0240cb52f138"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 388
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["KLoIMrS4zRMmyocMRWUG", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 395
-approved_guest_count: 118
-local_image: "images/HjUT9chDvQXxrCHGkfcA.png"
 canceled: false
+local_image: "images/HjUT9chDvQXxrCHGkfcA.png"
 ---
 
 # AI for Finance: Building with Claude + Excel, MCP, and more!
@@ -34,11 +31,10 @@ canceled: false
 
 **Hosts:** Pluvo  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 3:30pm ET
-**Where:** New York, NY · New York, NY · Financial District
-**Going:** 388 of 395
+**Where:** Midtown Manhattan · Midtown Manhattan, Manhattan, New York, NY · Financial District
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/HjUT9chDvQXxrCHGkfcA
-**Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
+**Map:** https://www.google.com/maps/search/?api=1&query=Midtown%20Manhattan%2C%20Midtown%20Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -64,10 +60,6 @@ Hosted by Pluvo & BMO, this session is designed to help finance teams cut manual
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 About BMO: BMO has strong roots in and a deep understanding of the technology space and its many subsectors. Our seamless, integrated approach provides technology companies with full lifecycle coverage from whether you’re a growth-stage company in need of recurring revenue lending, a mature-stage company forming a bank syndicate or tapping the capital markets for the first time, or a well-established large multinational with the most complex financial needs, we’re here as trusted expert advisers to support you in your growth journey. BMO’s Technology Banking practice spans North America with offices in Canada and the U.S. and is the 8th largest bank in North America by assets as of January 31, 2026. We provide personal and commercial banking, global markets and investment banking services to approximately 13 million clients.
-
-
-
-
 
 
 

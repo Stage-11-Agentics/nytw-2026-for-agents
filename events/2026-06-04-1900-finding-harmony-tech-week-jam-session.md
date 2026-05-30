@@ -12,11 +12,10 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/zv377n2JhHS9VlfJ8UXS"
 public_short_url: "https://go.partiful.com/HzzXclyL"
 google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FHaz1gkimAER3yHDgjkiDT29ugGp2%2FHA-BRd6F9D5ZNm9hI4kry"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FHaz1gkimAER3yHDgjkiDT29ugGp2%2FHA-BRd6F9D5ZNm9hI4kry?alt=media&token=b10a4ab3-0e8e-42eb-9106-67bb7cffc965"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: true
-going_guest_count: 19
 badges: []
 fetch_status: ok
 owner_count: 2
@@ -24,10 +23,9 @@ owner_ids: ["Haz1gkimAER3yHDgjkiDT29ugGp2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 18
 remaining_capacity: 0
-total_guest_count: 19
+canceled: false
 approved_guest_count: 18
 local_image: "images/zv377n2JhHS9VlfJ8UXS.jpg"
-canceled: false
 ---
 
 # Finding Harmony Tech Week Jam Session
@@ -68,10 +66,6 @@ We’ll have drums, keys, guitars, basses, mics, and a whole percussion closet t
 Make this the #NYTECHWEEK one to remember.
 
 This event is a part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -4,37 +4,35 @@ event_id: "048KYO6HrSDLWMwlMUTm"
 date: 2026-06-03
 day: "Wednesday"
 start_time: "5:00pm ET"
-end_time: "7:30pm ET"
+end_time: "8:30pm ET"
 start_iso: "2026-06-03T21:00:00.000Z"
-end_iso: "2026-06-03T23:30:00.000Z"
-host: "Alumni Ventures, SurrealDB"
+end_iso: "2026-06-04T00:30:00.000Z"
+host: "SurrealDB, Alumni Ventures"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/048KYO6HrSDLWMwlMUTm"
 public_short_url: "https://go.partiful.com/hCf43V1s"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FKw5f8e3tIQayj1arAxyRl0kPfwd2%2FVjZTSQc1wrQBQET6WR564"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FKw5f8e3tIQayj1arAxyRl0kPfwd2%2FJ4h-sGa6oseWb9NgtM8wu?alt=media&token=357156dd-a7fa-4a60-a8ef-e36f895ad103"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 162
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["Kw5f8e3tIQayj1arAxyRl0kPfwd2", "7DFu4rITofNzKIjA7hCx", "e2yYXLVgnRWw622eNzbKuTRbKxf1", "BhonLo79fubkXaW26rkz"]
 is_capped: false
-total_guest_count: 162
-approved_guest_count: 110
-local_image: "images/048KYO6HrSDLWMwlMUTm.jpg"
 canceled: false
+approved_guest_count: 202
+local_image: "images/048KYO6HrSDLWMwlMUTm.jpg"
 ---
 
 # Agents in Production: The Memory Problem
 
 ![Agents in Production: The Memory Problem](images/048KYO6HrSDLWMwlMUTm.jpg)
 
-**Hosts:** Alumni Ventures, SurrealDB  _(+2 more host(s) on Partiful — see description for full list)_
-**When:** Wednesday, June 3, 2026 · 5:00pm–7:30pm ET
+**Hosts:** SurrealDB, Alumni Ventures  _(+2 more host(s) on Partiful — see description for full list)_
+**When:** Wednesday, June 3, 2026 · 5:00pm–8:30pm ET
 **Where:** Midtown
-**Going:** 162
+**Going:** 202
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/048KYO6HrSDLWMwlMUTm
 
@@ -58,9 +56,13 @@ We'll be joined by engineering teams from Pydantic and Tavily - covering how to 
 
 Hard questions welcome. Drinks on us.
 
+--Talks--
 
+Tobie Mogan Hitchcock - Knowledge, Memory, Cognition: The Journey Towards Agent Consciousness
 
+Jameson Lee - The Agent Harness: Memory, Observability, and Runtime Control for Production AI
 
+Evan Rimer - Agentic Search: Context Management in Research Agents
 
 
 

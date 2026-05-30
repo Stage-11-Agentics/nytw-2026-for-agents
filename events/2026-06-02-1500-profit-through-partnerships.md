@@ -13,20 +13,17 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/x0UO9Ulp9lpbwxFsBecQ"
 public_short_url: "https://go.partiful.com/DFsLm1KF"
 google_maps: "https://www.google.com/maps/search/?api=1&query=677%205th%20Ave%2C%20New%20York%2C%20NY%2010022"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FA9dy7amuljdJfHXmcyUWlRI9sb12%2FcXx22XR2c8ZqgmRjwuiRa"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FA9dy7amuljdJfHXmcyUWlRI9sb12%2FcXx22XR2c8ZqgmRjwuiRa?alt=media&token=14772ea8-f95c-4444-b4bb-30a6242a8f10"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 184
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["A9dy7amuljdJfHXmcyUWlRI9sb12", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 188
-approved_guest_count: 125
-local_image: "images/x0UO9Ulp9lpbwxFsBecQ.png"
 canceled: false
+local_image: "images/x0UO9Ulp9lpbwxFsBecQ.png"
 ---
 
 # Profit through Partnerships
@@ -36,7 +33,6 @@ canceled: false
 **Hosts:** Partner1, Microsoft
 **When:** Tuesday, June 2, 2026 · 3:00pm–5:00pm ET
 **Where:** 677 5th Ave, New York, NY 10022 · Midtown
-**Going:** 184 of 188
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/x0UO9Ulp9lpbwxFsBecQ
 **Map:** https://www.google.com/maps/search/?api=1&query=677%205th%20Ave%2C%20New%20York%2C%20NY%2010022
@@ -61,10 +57,6 @@ This session combines a fireside chat with operators who have done it and a hand
 If you are building or investing in a SaaS or AI company and not actively leveraging cloud partnerships, you are likely leaving both growth and capital on the table. Join us for dessert, drinks and revenue acceleration on June 2, 3-5pm and supercharge your partnerships journey.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

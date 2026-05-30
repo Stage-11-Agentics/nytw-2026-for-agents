@@ -6,41 +6,35 @@ day: "Tuesday"
 start_time: "4:00pm ET"
 start_iso: "2026-06-02T20:00:00.000Z"
 host: "VirtusLab"
-venue_name: "Manhattan"
-venue_address: "Manhattan, New York, NY"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/bn5h1g13xzOV6R5XkLaE"
 public_short_url: "https://go.partiful.com/1h8yHSRV"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FAWwvoutHk1OjFIiagLtQzMDgDxW2%2FRLVDQbQGb4eOMhAZwfgyz"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FAWwvoutHk1OjFIiagLtQzMDgDxW2%2FRLVDQbQGb4eOMhAZwfgyz?alt=media&token=6589b493-2440-4bcc-8e67-dc6e759789e2"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 42
 badges: []
 fetch_status: ok
-owner_count: 5
-owner_ids: ["AWwvoutHk1OjFIiagLtQzMDgDxW2", "7DFu4rITofNzKIjA7hCx", "azurLr0dJodo25Olf3x4SHm7Vha2", "hbmzkkSaeHOD9d2SH8ka4CUYDLX2", "HCkWVd2DF9YRoVyzUS0GI5Drhc83"]
+owner_count: 6
+owner_ids: ["AWwvoutHk1OjFIiagLtQzMDgDxW2", "7DFu4rITofNzKIjA7hCx", "azurLr0dJodo25Olf3x4SHm7Vha2", "hbmzkkSaeHOD9d2SH8ka4CUYDLX2", "HCkWVd2DF9YRoVyzUS0GI5Drhc83", "2zosxiEDxpVM7B4SIpzhYyXXv1A2"]
 is_capped: true
 max_capacity: 200
-remaining_capacity: 174
-total_guest_count: 42
-approved_guest_count: 26
-local_image: "images/bn5h1g13xzOV6R5XkLaE.png"
+remaining_capacity: 129
 canceled: false
+approved_guest_count: 71
+local_image: "images/bn5h1g13xzOV6R5XkLaE.png"
 ---
 
 # From Copilot to Control Plane - Visdom
 
 ![From Copilot to Control Plane - Visdom](images/bn5h1g13xzOV6R5XkLaE.png)
 
-**Hosts:** VirtusLab  _(+4 more host(s) on Partiful — see description for full list)_
+**Hosts:** VirtusLab  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:00pm ET
-**Where:** Manhattan · Manhattan, New York, NY · Midtown
-**Capacity:** capped at 200 · 26 taken, 174 remaining
+**Where:** Midtown
+**Capacity:** capped at 200 · 71 taken, 129 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/bn5h1g13xzOV6R5XkLaE
-**Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -50,6 +44,7 @@ canceled: false
 EMBAG26 / COO at VirtusLab / NY at the moment_
 - [Magdalena Brych](https://partiful.com/u/hbmzkkSaeHOD9d2SH8ka4CUYDLX2)
 - [Artur Skowronski](https://partiful.com/u/HCkWVd2DF9YRoVyzUS0GI5Drhc83) — _Head of Application Development at VirtusLab._
+- [Sebastian VirtusLab](https://partiful.com/u/2zosxiEDxpVM7B4SIpzhYyXXv1A2)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -95,10 +90,6 @@ If you're working on AI in software delivery, this is where it starts to actuall
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

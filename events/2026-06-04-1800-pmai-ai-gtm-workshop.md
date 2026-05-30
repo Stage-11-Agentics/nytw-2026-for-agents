@@ -9,20 +9,18 @@ host: "Pioneering Minds AI"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/Q50pWz1Jw0pVwULvZ8WA"
 public_short_url: "https://go.partiful.com/cRkRjcBC"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FvMiCBGZtVlfj7J2Y9uU6rLTOWdJ3%2F_YoK6f531P_OyVIuHVfq7"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FvMiCBGZtVlfj7J2Y9uU6rLTOWdJ3%2F_YoK6f531P_OyVIuHVfq7?alt=media&token=8bf5d8a9-33c0-4074-93f8-1ff2fb6462a1"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 62
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["vMiCBGZtVlfj7J2Y9uU6rLTOWdJ3", "7DFu4rITofNzKIjA7hCx", "OJWp88qFGSc3J8dGoWAn4zCQSZt1"]
 is_capped: false
-total_guest_count: 66
-approved_guest_count: 62
-local_image: "images/Q50pWz1Jw0pVwULvZ8WA.png"
 canceled: false
+approved_guest_count: 120
+local_image: "images/Q50pWz1Jw0pVwULvZ8WA.png"
 ---
 
 # PMAI: AI GTM Workshop
@@ -32,7 +30,7 @@ canceled: false
 **Hosts:** Pioneering Minds AI  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
 **Where:** Midtown
-**Going:** 62 of 66
+**Going:** 120
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Q50pWz1Jw0pVwULvZ8WA
 
@@ -90,10 +88,6 @@ Our mission is straightforward:
 ​​​Create Lasting Impact: Offer continued mentorship and post-event partnerships so promising concepts can scale beyond the weekend.
 
 ​​This event is part of #NYTechWeek — Techweek creates and curates engaging media, dynamic events and disruptive content on web, digital and interactive technology, bringing together diverse communities of entrepreneurs, corporate professionals and thought leaders. The ultimate goal of Techweek is to spotlight and enable innovation ecosystems.
-
-
-
-
 
 
 

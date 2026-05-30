@@ -14,20 +14,19 @@ neighborhood: "Central Park"
 rsvp_url: "https://partiful.com/e/MkFFhfLec1pWUceNGwmu"
 public_short_url: "https://go.partiful.com/DZWPsFOe"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Columbus%20Cir%2C%20New%20York%2C%20NY%2010028"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FgKwyVcuqgUew9w0Jp1tU%2FpFS2lsaX1LtW-ndBhLPik"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FgKwyVcuqgUew9w0Jp1tU%2FpFS2lsaX1LtW-ndBhLPik?alt=media&token=f098aca8-7ace-4123-9071-68f98af35bd7"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 2
+going_guest_count: 65
 badges: []
 fetch_status: ok
 owner_count: 5
 owner_ids: ["gKwyVcuqgUew9w0Jp1tU", "w053T7BHb7UtR1gGs5qeGV4zG8t1", "xK51laKjUpV1w2zOf3QmsixJpYz1", "7DFu4rITofNzKIjA7hCx", "9OjSPSSVGmSJdOMQdn1HQYwJckJ3"]
 is_capped: false
-total_guest_count: 8
+canceled: false
 approved_guest_count: 0
 local_image: "images/MkFFhfLec1pWUceNGwmu.png"
-canceled: false
 ---
 
 # Connection Hike presented by HubSpot for Startups
@@ -37,7 +36,7 @@ canceled: false
 **Hosts:** HubSpot, Business Outside  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 9:00am–11:00am ET
 **Where:** Maine Monument · Columbus Cir, New York, NY 10028 · Central Park
-**Going:** 2 of 8
+**Going:** 65
 **RSVP:** https://partiful.com/e/MkFFhfLec1pWUceNGwmu
 **Map:** https://www.google.com/maps/search/?api=1&query=Columbus%20Cir%2C%20New%20York%2C%20NY%2010028
 
@@ -58,8 +57,6 @@ You can find him: skiing, hiking, biking, reading, cooking, camping, backpacking
 
 Step outside during NY Tech Week and join HubSpot for Startups for a refreshing Connection Hike through Central Park.
 
-Step outside during NY Tech Week and join HubSpot for Startups for a refreshing Connection Hike through Central Park.
-
 This experience is designed for founders, operators, investors, and startup leaders looking to build meaningful, authentic relationships while enjoying movement, conversation, and nature in the middle of the city.
 
 Unlike traditional networking events, this walk prioritizes conversation over pace. Throughout the hike, BusinessOutside® will facilitate rotating discussions centered around:
@@ -72,10 +69,6 @@ Unlike traditional networking events, this walk prioritizes conversation over pa
 Go beyond “networking”... and connect.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

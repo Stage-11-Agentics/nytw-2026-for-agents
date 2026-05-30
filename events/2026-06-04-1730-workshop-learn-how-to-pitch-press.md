@@ -6,26 +6,21 @@ day: "Thursday"
 start_time: "5:30pm ET"
 start_iso: "2026-06-04T21:30:00.000Z"
 host: "Rock Yard Ventures, SutherlandGold"
-venue_name: "Manhattan"
-venue_address: "Manhattan, New York, NY"
 neighborhood: "Union Square"
 rsvp_url: "https://partiful.com/e/Ij7ljdnLIT3ixkj3yh1g"
 public_short_url: "https://go.partiful.com/aV8xu4c2"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FVrHDcKtkVwbGZQ2j9zctIs0m4Ow1%2FhFlrmdop4HaWrd6bufE9d"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FVrHDcKtkVwbGZQ2j9zctIs0m4Ow1%2FhFlrmdop4HaWrd6bufE9d?alt=media&token=128b2e55-9df4-44d4-8474-0c1630fc9466"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 35
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["VrHDcKtkVwbGZQ2j9zctIs0m4Ow1", "7DFu4rITofNzKIjA7hCx", "9w3y90F6OUdWjTwAq5ffxuERGrd2", "D48sn5g2hzfWrCQM1ShPA0rCkAn1"]
 is_capped: false
-total_guest_count: 37
-approved_guest_count: 0
-local_image: "images/Ij7ljdnLIT3ixkj3yh1g.png"
 canceled: false
+approved_guest_count: 24
+local_image: "images/Ij7ljdnLIT3ixkj3yh1g.png"
 ---
 
 # WORKSHOP: Learn how to pitch press
@@ -34,11 +29,10 @@ canceled: false
 
 **Hosts:** Rock Yard Ventures, SutherlandGold  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:30pm ET
-**Where:** Manhattan · Manhattan, New York, NY · Union Square
-**Going:** 35 of 37
+**Where:** Union Square
+**Going:** 24
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Ij7ljdnLIT3ixkj3yh1g
-**Map:** https://www.google.com/maps/search/?api=1&query=Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -74,10 +68,6 @@ Sutherland Gold is a communications agency that has spent 20 years shaping the n
 Forum Ventures is the leading early-stage fund, accelerator, and venture studio for B2B tech startups. Founded in 2014 and based in New York, San Francisco, and Toronto, we’re on a mission to make the zero-to-one journey easier, more accessible, and successful for founders. Forum is investing in 65+ companies this year.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

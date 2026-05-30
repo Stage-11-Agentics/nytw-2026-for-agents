@@ -12,22 +12,20 @@ neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/CKm2RMoLRlu5EwbQTzLQ"
 public_short_url: "https://go.partiful.com/nyFkFUOS"
 google_maps: "https://www.google.com/maps/search/?api=1&query=44%20W%2029th%20St%2C%20FL%2018%2C%20New%20York%2C%20NY%2010001"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJ1e3OvJPR1OuWOqXVX7CBF2TzDi2%2FqJM2sUcYg_OrjrgNsxEbf"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJ1e3OvJPR1OuWOqXVX7CBF2TzDi2%2FqJM2sUcYg_OrjrgNsxEbf?alt=media&token=c0e5b7b2-d2e1-470f-ac47-188fc5930c54"
 visibility: "public"
 guest_action: "APPLY"
-at_capacity: false
-going_guest_count: 168
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["J1e3OvJPR1OuWOqXVX7CBF2TzDi2", "MqaNiixUMdYC6A6tnMvyESrXAP23", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 200
-remaining_capacity: 42
-total_guest_count: 171
-approved_guest_count: 158
-local_image: "images/CKm2RMoLRlu5EwbQTzLQ.png"
+max_capacity: 250
+remaining_capacity: -7
 canceled: false
+approved_guest_count: 257
+local_image: "images/CKm2RMoLRlu5EwbQTzLQ.png"
 ---
 
 # The Age of Influence in B2B Marketing
@@ -37,7 +35,8 @@ canceled: false
 **Hosts:** Clarity Global, Inc.  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 9:00am ET
 **Where:** Good Behavior · 44 W 29th St, FL 18, New York, NY 10001 · Flatiron
-**Capacity:** capped at 200 · 158 taken, 42 remaining
+**Capacity:** capped at 250 · 257 taken, -7 remaining
+**Status:** ⚠ at capacity
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/CKm2RMoLRlu5EwbQTzLQ
 **Map:** https://www.google.com/maps/search/?api=1&query=44%20W%2029th%20St%2C%20FL%2018%2C%20New%20York%2C%20NY%2010001
@@ -71,10 +70,6 @@ This panel of enterprise B2B brand experts will explore how "Clarity through Inf
 With marketing budgets reaching five-year lows and "shrinkflation" putting pressure on decision-makers to deliver more for less, the ability to build trust and authority as a B2B tech brand is paramount. This discussion will provide actionable insights into how to bridge the gap between high-level awareness and product-driven conversion by utilizing a mix of digital marketing, communications, and web content expertise.
 
 This event is a part of #NYTechWeek - a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

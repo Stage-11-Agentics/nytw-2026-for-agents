@@ -12,30 +12,28 @@ neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/NoKxyoAj7jUITuEXT448"
 public_short_url: "https://go.partiful.com/M1lFnb7O"
 google_maps: "https://www.google.com/maps/search/?api=1&query=122%20W%2026th%20St%2C%20Unit%201201%2C%20New%20York%2C%20NY%2010001"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FNZSZuSOeoOfaxEkygZ0A8jfCW8B3%2FcJ0sUHredKa-kkKfNPFDO"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FNZSZuSOeoOfaxEkygZ0A8jfCW8B3%2FcJ0sUHredKa-kkKfNPFDO?alt=media&token=f2e667fa-2e3c-41ec-9cb5-2b3abe653c89"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 16
 badges: []
 fetch_status: ok
-owner_count: 3
-owner_ids: ["NZSZuSOeoOfaxEkygZ0A8jfCW8B3", "7DFu4rITofNzKIjA7hCx", "SRTO6a2nzbYiB2O30IlMQzMTIm42"]
+owner_count: 4
+owner_ids: ["NZSZuSOeoOfaxEkygZ0A8jfCW8B3", "7DFu4rITofNzKIjA7hCx", "SRTO6a2nzbYiB2O30IlMQzMTIm42", "oy2qbu0gVCGGXPgOCM2d"]
 is_capped: false
-total_guest_count: 17
-approved_guest_count: 0
-local_image: "images/NoKxyoAj7jUITuEXT448.png"
 canceled: false
+approved_guest_count: 44
+local_image: "images/NoKxyoAj7jUITuEXT448.png"
 ---
 
 # Why Are Women Spending $100K+ on IVF Without Real Answers?
 
 ![Why Are Women Spending $100K+ on IVF Without Real Answers?](images/NoKxyoAj7jUITuEXT448.png)
 
-**Hosts:** VitalHelix  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** VitalHelix  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:30pm ET
 **Where:** Lily + Horn Acupuncture · 122 W 26th St, Unit 1201, New York, NY 10001 · Flatiron
-**Going:** 16 of 17
+**Going:** 44
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/NoKxyoAj7jUITuEXT448
 **Map:** https://www.google.com/maps/search/?api=1&query=122%20W%2026th%20St%2C%20Unit%201201%2C%20New%20York%2C%20NY%2010001
@@ -44,6 +42,11 @@ canceled: false
 
 - [Diane  Yoo](https://partiful.com/u/NZSZuSOeoOfaxEkygZ0A8jfCW8B3)
 - [Mary, Myles And Sebastian](https://partiful.com/u/SRTO6a2nzbYiB2O30IlMQzMTIm42)
+- [Crazy Startup Guy](https://partiful.com/u/oy2qbu0gVCGGXPgOCM2d) — _host lots of events
+produce Venture Week
+building Space4Ads
+building Post4Food
+etc…_
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -62,10 +65,6 @@ Join VitalHelix Happy Hour during NY Tech Week for the exclusive unveiling of ou
 Come for the cocktails, stay for the paradigm shift. Let’s talk scalability, data moats, and changing the future of fertility.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

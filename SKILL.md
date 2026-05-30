@@ -1,6 +1,6 @@
 ---
 name: ny-tech-week-2026
-description: A flat-file, agent-friendly mirror of every NY Tech Week 2026 event (June 1–7, NYC). Use when planning a Tech Week schedule, filtering events for a specific person/company, or analyzing the event landscape (top hosts, neighborhoods, capacity). 1,385 events with full descriptions, RSVP links, hero images, and 2,047 resolved host profiles.
+description: A flat-file, agent-friendly mirror of every NY Tech Week 2026 event (June 1–7, NYC). Use when planning a Tech Week schedule, filtering events for a specific person/company, or analyzing the event landscape (top hosts, neighborhoods, capacity). 1,410 events with full descriptions, RSVP links, hero images, and 2,406 resolved host profiles.
 ---
 
 # NY Tech Week 2026 — Agent Skill
@@ -16,9 +16,9 @@ ny-tech-week-reference/
 ├── INDEX.md              ← chronological + by-host + by-neighborhood listing
 ├── HOST-STATS.md         ← top 50 hosts + recurring co-host pairs
 ├── manifest.json         ← raw calendar extraction
-├── users.json            ← 2,047 resolved Partiful profiles (id → name, bio, photo, socials, tags)
-├── events/               ← 1,385 markdown files, one per event
-└── images/               ← 1,344 hero images (PNG/JPG), keyed by event_id
+├── users.json            ← 2,406 resolved Partiful profiles (id → name, bio, photo, socials, tags)
+├── events/               ← 1,410 markdown files, one per event
+└── images/               ← 1,401 hero images (PNG/JPG), keyed by event_id
 ```
 
 Each `events/*.md` has YAML frontmatter and a body. Filename is `YYYY-MM-DD-HHMM-<slug>.md` — sortable by start time.
@@ -40,7 +40,7 @@ Each `events/*.md` has YAML frontmatter and a body. Filename is `YYYY-MM-DD-HHMM
 | `rsvp_url`, `public_short_url` | URL | Partiful links |
 | `google_maps` | URL | Pre-formed maps query |
 | `is_capped`, `max_capacity`, `remaining_capacity` | bool / int | When the host capped the guestlist |
-| `going_guest_count`, `total_guest_count`, `approved_guest_count` | int | Guest count at crawl time (2026-05-21) |
+| `going_guest_count`, `total_guest_count`, `approved_guest_count` | int | Guest count at crawl time (2026-05-30) |
 | `at_capacity` | bool | Whether RSVPs are currently closed |
 | `canceled` | bool | `true` if the host marked the event canceled on Partiful |
 | `canceled_at` | ISO 8601 | When cancellation was logged (only when `canceled: true`) |
@@ -104,7 +104,7 @@ Each `events/*.md` has YAML frontmatter and a body. Filename is `YYYY-MM-DD-HHMM
    live_events = [f for f in events if not f.get("canceled")]
    ```
 
-7. **Crawl provenance.** Snapshotted 2026-05-21. Event details, RSVP availability, and guest counts may have drifted since.
+7. **Crawl provenance.** Snapshotted 2026-05-30 (prior round 2026-05-21; see `CHANGES-2026-05-30.md` for the diff). Event details, RSVP availability, and guest counts may have drifted since.
 
 ## Common queries
 

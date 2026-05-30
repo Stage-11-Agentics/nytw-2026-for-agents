@@ -7,41 +7,36 @@ start_time: "5:00pm ET"
 end_time: "9:00pm ET"
 start_iso: "2026-06-04T21:00:00.000Z"
 end_iso: "2026-06-05T01:00:00.000Z"
-host: "Opine, Navattic"
-venue_address: "260 W 36th St, New York, NY 10018"
+host: "Navattic, Opine"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/rYca2LKVj8ucbtBacm8C"
 public_short_url: "https://go.partiful.com/RPm8lwX1"
-google_maps: "https://www.google.com/maps/search/?api=1&query=260%20W%2036th%20St%2C%20New%20York%2C%20NY%2010018"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FD9SwPeAeEdstXZqssqri%2FImzeMZ--HbIYivT4405_X"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FD9SwPeAeEdstXZqssqri%2FImzeMZ--HbIYivT4405_X?alt=media&token=f9de58d3-1729-4ad7-883c-e7fc25971904"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 53
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["D9SwPeAeEdstXZqssqri", "7DFu4rITofNzKIjA7hCx", "4E6XLZinsXon3h33PVZi"]
 is_capped: true
 max_capacity: 40
-remaining_capacity: 19
-total_guest_count: 53
-approved_guest_count: 21
-local_image: "images/rYca2LKVj8ucbtBacm8C.jpg"
+remaining_capacity: 9
 canceled: false
+approved_guest_count: 31
+local_image: "images/rYca2LKVj8ucbtBacm8C.jpg"
 ---
 
 # SE Improv Night + Happy Hour
 
 ![SE Improv Night + Happy Hour](images/rYca2LKVj8ucbtBacm8C.jpg)
 
-**Hosts:** Opine, Navattic  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Navattic, Opine  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:00pm–9:00pm ET
-**Where:** 260 W 36th St, New York, NY 10018 · Midtown
-**Capacity:** capped at 40 · 21 taken, 19 remaining
+**Where:** Midtown
+**Capacity:** capped at 40 · 31 taken, 9 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/rYca2LKVj8ucbtBacm8C
-**Map:** https://www.google.com/maps/search/?api=1&query=260%20W%2036th%20St%2C%20New%20York%2C%20NY%2010018
 
 ### Hosts on Partiful
 
@@ -65,10 +60,6 @@ Join fellow Sales Engineers for a night of laughs, camaraderie, and improv coach
 ​- 7:00 PM: Happy Hour + Light Bites
 
 Spots are limited, so be sure to register!
-
-
-
-
 
 
 

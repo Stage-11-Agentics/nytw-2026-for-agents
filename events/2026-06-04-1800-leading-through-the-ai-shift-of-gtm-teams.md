@@ -11,22 +11,20 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/0xOTioP4rEuXZH1VInVN"
 public_short_url: "https://go.partiful.com/vI5MRpCi"
 google_maps: "https://www.google.com/maps/search/?api=1&query=2-01%2050th%20Ave%2C%20Long%20Island%20City%2C%20NY%2011101"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fhc5rftkjLfR76KQ84iPoDWkkM212%2Fy3I6l0LslySzgcn7YFRY7"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fhc5rftkjLfR76KQ84iPoDWkkM212%2Fy3I6l0LslySzgcn7YFRY7?alt=media&token=522ca7d9-25fe-4979-9282-20fefcc37f8d"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 62
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["hc5rftkjLfR76KQ84iPoDWkkM212", "7DFu4rITofNzKIjA7hCx", "pW4DFsQL4IbNGIKIzEgxB8xLvfY2", "UmETNIaKb6tkcENdSDSl"]
 is_capped: true
 max_capacity: 40
-remaining_capacity: 21
-total_guest_count: 64
-approved_guest_count: 19
-local_image: "images/0xOTioP4rEuXZH1VInVN.png"
+remaining_capacity: 9
 canceled: false
+approved_guest_count: 31
+local_image: "images/0xOTioP4rEuXZH1VInVN.png"
 ---
 
 # Leading Through the AI Shift of GTM Teams
@@ -36,7 +34,7 @@ canceled: false
 **Hosts:** Emergences Labs  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
 **Where:** 2-01 50th Ave, Long Island City, NY 11101 · Midtown
-**Capacity:** capped at 40 · 19 taken, 21 remaining
+**Capacity:** capped at 40 · 31 taken, 9 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/0xOTioP4rEuXZH1VInVN
 **Map:** https://www.google.com/maps/search/?api=1&query=2-01%2050th%20Ave%2C%20Long%20Island%20City%2C%20NY%2011101
@@ -57,13 +55,15 @@ This is a private event for marketing directors, VPs of Brand, and Heads of Grow
 
 We will discuss: What does an AI-native marketing actually look like? What has changed? How are teams restructuring roles around AI workflows? Where is the talent, and how do you evaluate candidates who work differently than traditional marketers?
 
+Event Hosts:
+
+Emergences Labs: builds human competency models defining the transformative skills AI cannot distill, and researches how to cultivate human–AI collaborative agency toward individual and collective well-being.
+
+Hat-Trick Capital: a Silicon Valley-based and multi family offices-backed venture capital firm with $100M AUM. We invest in visionary founders and support immigrant founders who are ruthless in execution.
+
 ___
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

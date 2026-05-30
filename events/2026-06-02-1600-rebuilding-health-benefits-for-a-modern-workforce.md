@@ -8,26 +8,21 @@ end_time: "5:30pm ET"
 start_iso: "2026-06-02T20:00:00.000Z"
 end_iso: "2026-06-02T21:30:00.000Z"
 host: "Tusk Venture Partners, Smirk Health"
-venue_name: "P&T Knitwear"
-venue_address: "180 Orchard St, New York, NY 10002"
 neighborhood: "Lower East Side"
 rsvp_url: "https://partiful.com/e/ekOSu7Sy0DbFiW5Jpj9N"
 public_short_url: "https://go.partiful.com/SDM6Z5P4"
-google_maps: "https://www.google.com/maps/search/?api=1&query=180%20Orchard%20St%2C%20New%20York%2C%20NY%2010002"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FNNlH6mRQJ8USLSjjv57y%2FvcEdKzwKl5_lgjmZROZC0"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FNNlH6mRQJ8USLSjjv57y%2FvcEdKzwKl5_lgjmZROZC0?alt=media&token=bd2a0908-4454-4604-afe2-0cc1f89dea35"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 202
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["NNlH6mRQJ8USLSjjv57y", "7DFu4rITofNzKIjA7hCx", "n4AhGqQ8UVEkNus1SnYF"]
 is_capped: false
-total_guest_count: 208
-approved_guest_count: 154
-local_image: "images/ekOSu7Sy0DbFiW5Jpj9N.png"
 canceled: false
+approved_guest_count: 218
+local_image: "images/ekOSu7Sy0DbFiW5Jpj9N.png"
 ---
 
 # Rebuilding Health Benefits for a Modern Workforce
@@ -36,11 +31,10 @@ canceled: false
 
 **Hosts:** Tusk Venture Partners, Smirk Health  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:00pm–5:30pm ET
-**Where:** P&T Knitwear · 180 Orchard St, New York, NY 10002 · Lower East Side
-**Going:** 202 of 208
+**Where:** Lower East Side
+**Going:** 218
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ekOSu7Sy0DbFiW5Jpj9N
-**Map:** https://www.google.com/maps/search/?api=1&query=180%20Orchard%20St%2C%20New%20York%2C%20NY%2010002
 
 ### Hosts on Partiful
 
@@ -66,10 +60,6 @@ Join us for a conversation with leaders Ellyn Shook, former CHRO of Accenture; S
 This panel brings together leaders across tech, healthcare, and the future of work to explore what happens when foundational systems fall out of sync—and what's being built to replace them.
 
 This event is a part of #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

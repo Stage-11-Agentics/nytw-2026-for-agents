@@ -13,11 +13,10 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/5CiOULh6wh0ooq6LeF6X"
 public_short_url: "https://go.partiful.com/8ZLn8c15"
 google_maps: "https://www.google.com/maps/search/?api=1&query=1%20Penn%20Plaza%2C%20New%20York%2C%20NY%2010119"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FogFxDTOM9S2eM6KSUO3B%2FGeSgtr90RSVfLqoG1uWhl"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FogFxDTOM9S2eM6KSUO3B%2FGeSgtr90RSVfLqoG1uWhl?alt=media&token=e0b6be2e-de09-4409-89c2-e775703b8800"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 167
 badges: []
 fetch_status: ok
 owner_count: 2
@@ -25,10 +24,9 @@ owner_ids: ["ogFxDTOM9S2eM6KSUO3B", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
 remaining_capacity: 50
-total_guest_count: 168
+canceled: false
 approved_guest_count: 0
 local_image: "images/5CiOULh6wh0ooq6LeF6X.avif"
-canceled: false
 ---
 
 # Calm before the storm...NY Tech Week Breakfast
@@ -58,10 +56,6 @@ canceled: false
 ​A simple morning hang before the week begins.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -6,28 +6,26 @@ day: "Friday"
 start_time: "7:00pm ET"
 start_iso: "2026-06-05T23:00:00.000Z"
 host: "Coeus Collective Ventures, Salubrum"
-venue_name: "The Parlour Room"
-venue_address: "70 W 36th St, New York, NY 10018"
+venue_name: "ilili Midtown"
+venue_address: "157 E 53rd St, New York, NY 10022"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/waaD8WHscyLjlQkL4Uoi"
 public_short_url: "https://go.partiful.com/2OfShrN7"
-google_maps: "https://www.google.com/maps/search/?api=1&query=70%20W%2036th%20St%2C%20New%20York%2C%20NY%2010018"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FOSXT5FliwDUt8iw0yG7vHxtJJdx1%2FtAR61AeKXrStMSi1Fh7J5"
+google_maps: "https://www.google.com/maps/search/?api=1&query=157%20E%2053rd%20St%2C%20New%20York%2C%20NY%2010022"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FOSXT5FliwDUt8iw0yG7vHxtJJdx1%2FYEakRubvlyS6xrGP1lwOP?alt=media&token=189db8b3-468f-4633-8e8e-1dde07ae881c"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 48
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["OSXT5FliwDUt8iw0yG7vHxtJJdx1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 20
-remaining_capacity: 20
-total_guest_count: 48
-approved_guest_count: 0
-local_image: "images/waaD8WHscyLjlQkL4Uoi.png"
+max_capacity: 15
+remaining_capacity: 4
 canceled: false
+approved_guest_count: 11
+local_image: "images/waaD8WHscyLjlQkL4Uoi.png"
 ---
 
 # Salubrum Salon Dinner for Healthcare Investors
@@ -36,11 +34,11 @@ canceled: false
 
 **Hosts:** Coeus Collective Ventures, Salubrum
 **When:** Friday, June 5, 2026 · 7:00pm ET
-**Where:** The Parlour Room · 70 W 36th St, New York, NY 10018 · Midtown
-**Capacity:** capped at 20 · 0 taken, 20 remaining
+**Where:** ilili Midtown · 157 E 53rd St, New York, NY 10022 · Midtown
+**Capacity:** capped at 15 · 11 taken, 4 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/waaD8WHscyLjlQkL4Uoi
-**Map:** https://www.google.com/maps/search/?api=1&query=70%20W%2036th%20St%2C%20New%20York%2C%20NY%2010018
+**Map:** https://www.google.com/maps/search/?api=1&query=157%20E%2053rd%20St%2C%20New%20York%2C%20NY%2010022
 
 ### Hosts on Partiful
 
@@ -63,10 +61,6 @@ This a curated event, and thus you must have your RSVP request accepted to atten
 Disclaimer: By registering for this event, you agree to receive occasional emails from the organizers, including our newsletters and updates about future events. You can unsubscribe at any time.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

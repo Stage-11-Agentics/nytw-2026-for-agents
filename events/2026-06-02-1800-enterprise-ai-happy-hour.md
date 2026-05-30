@@ -6,26 +6,20 @@ day: "Tuesday"
 start_time: "6:00pm ET"
 start_iso: "2026-06-02T22:00:00.000Z"
 host: "Credal"
-venue_name: "Roxy Bar"
-venue_address: "2 6th Ave, New York, NY 10013"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/FSzOO6xPn11iqxVdtQ9j"
 public_short_url: "https://go.partiful.com/PHq9zjZx"
-google_maps: "https://www.google.com/maps/search/?api=1&query=2%206th%20Ave%2C%20New%20York%2C%20NY%2010013"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FMDiLE99xJ3he10yHfvKC9btdbWa2%2FuBViM_cNU4vZqhbhaPsNc"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FMDiLE99xJ3he10yHfvKC9btdbWa2%2FuBViM_cNU4vZqhbhaPsNc?alt=media&token=670defec-3b82-4ab4-8d34-b036bd766572"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 151
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["MDiLE99xJ3he10yHfvKC9btdbWa2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 159
-approved_guest_count: 51
-local_image: "images/FSzOO6xPn11iqxVdtQ9j.png"
 canceled: false
+local_image: "images/FSzOO6xPn11iqxVdtQ9j.png"
 ---
 
 # Enterprise AI Happy Hour
@@ -34,11 +28,9 @@ canceled: false
 
 **Hosts:** Credal  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm ET
-**Where:** Roxy Bar · 2 6th Ave, New York, NY 10013 · SoHo
-**Going:** 151 of 159
+**Where:** SoHo
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/FSzOO6xPn11iqxVdtQ9j
-**Map:** https://www.google.com/maps/search/?api=1&query=2%206th%20Ave%2C%20New%20York%2C%20NY%2010013
 
 ### Hosts on Partiful
 
@@ -67,10 +59,6 @@ About AI Platform Collective
 AI Platform Collective is a community for the people building the AI infrastructure layer inside enterprises, the platform leads, architects, and technology decision-makers shaping how their organizations adopt and scale AI.  Apply here: https://aiplatformcollective.com/
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

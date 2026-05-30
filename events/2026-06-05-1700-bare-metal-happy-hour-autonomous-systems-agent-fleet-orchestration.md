@@ -8,26 +8,21 @@ end_time: "8:00pm ET"
 start_iso: "2026-06-05T21:00:00.000Z"
 end_iso: "2026-06-06T00:00:00.000Z"
 host: "Lazy 8, Every"
-venue_name: "Union Square Park"
-venue_address: "201 Park Ave S, New York, NY 10003"
 neighborhood: "Union Square"
 rsvp_url: "https://partiful.com/e/jkjGahQgmH9PLIxjfTFt"
 public_short_url: "https://go.partiful.com/BFMhzFps"
-google_maps: "https://www.google.com/maps/search/?api=1&query=201%20Park%20Ave%20S%2C%20New%20York%2C%20NY%2010003"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FxIA3PJVDaeJUeCGuosJq%2F9BvzgAF2zEd6cSnRGnhEA"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FxIA3PJVDaeJUeCGuosJq%2F9BvzgAF2zEd6cSnRGnhEA?alt=media&token=c03b1fd4-5356-4d50-b1ec-e1dee43bd083"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 32
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["xIA3PJVDaeJUeCGuosJq", "undNituOo6T0hNT8eXT7yElQm4x2", "7DFu4rITofNzKIjA7hCx", "zEG6fYpKocBg6rTqxCy7"]
 is_capped: false
-total_guest_count: 32
-approved_guest_count: 30
-local_image: "images/jkjGahQgmH9PLIxjfTFt.png"
 canceled: false
+approved_guest_count: 64
+local_image: "images/jkjGahQgmH9PLIxjfTFt.png"
 ---
 
 # Bare Metal Happy Hour: Autonomous Systems & Agent Fleet Orchestration
@@ -36,11 +31,10 @@ canceled: false
 
 **Hosts:** Lazy 8, Every  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 5:00pm–8:00pm ET
-**Where:** Union Square Park · 201 Park Ave S, New York, NY 10003 · Union Square
-**Going:** 32
+**Where:** Union Square
+**Going:** 64
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/jkjGahQgmH9PLIxjfTFt
-**Map:** https://www.google.com/maps/search/?api=1&query=201%20Park%20Ave%20S%2C%20New%20York%2C%20NY%2010003
 
 ### Hosts on Partiful
 
@@ -67,10 +61,6 @@ Expect to talk about things like:
 Whether you're orchestrating agents through Claude or running Llama on bare metal, come ready to talk implementation details with people who are building the same way you are.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

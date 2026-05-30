@@ -5,36 +5,37 @@ date: 2026-06-04
 day: "Thursday"
 start_time: "7:00pm ET"
 start_iso: "2026-06-04T23:00:00.000Z"
-host: "Verci, Snowflake"
+host: "Snowflake, Verci"
+venue_address: "45 E 20th St, New York, NY 10003"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/ZxCTPNAXwPBHfwY631IS"
 public_short_url: "https://go.partiful.com/gWh36cMq"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fxzim090RhZKUhvBKmbgO%2FNbBGsLmXAicLZKxYXcQeN"
+google_maps: "https://www.google.com/maps/search/?api=1&query=45%20E%2020th%20St%2C%20New%20York%2C%20NY%2010003"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fxzim090RhZKUhvBKmbgO%2FNbBGsLmXAicLZKxYXcQeN?alt=media&token=8fe55d53-f738-4bf2-9d2c-0e5019f1d40c"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 121
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["xzim090RhZKUhvBKmbgO", "7DFu4rITofNzKIjA7hCx", "HEwQdOWT8kVeCn2JuoFl", "qHzWLX6VmJgztJIUnjfUtsdpNnt2"]
 is_capped: false
-total_guest_count: 123
-approved_guest_count: 24
-local_image: "images/ZxCTPNAXwPBHfwY631IS.png"
 canceled: false
+approved_guest_count: 104
+local_image: "images/ZxCTPNAXwPBHfwY631IS.png"
 ---
 
 # The Data Room by Snowflake and Verci
 
 ![The Data Room by Snowflake and Verci](images/ZxCTPNAXwPBHfwY631IS.png)
 
-**Hosts:** Verci, Snowflake  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** Snowflake, Verci  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 7:00pm ET
-**Where:** Flatiron
-**Going:** 121 of 123
+**Where:** 45 E 20th St, New York, NY 10003 · Flatiron
+**Going:** 104
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ZxCTPNAXwPBHfwY631IS
+**Map:** https://www.google.com/maps/search/?api=1&query=45%20E%2020th%20St%2C%20New%20York%2C%20NY%2010003
 
 ### Hosts on Partiful
 
@@ -53,10 +54,6 @@ Welcome to The Data Room: a jazz bar and speakeasy-style event with an open bar,
 👾 Verci is a workspace and community in NYC (and soon LA/SF), meticulously curated for founders, artists, and creatives. Learn more at verci.com and read our manifesto at verci.com/manifesto.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -13,30 +13,28 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/ASu0bbJUv36y2648J12G"
 public_short_url: "https://go.partiful.com/DPcT5JW2"
 google_maps: "https://www.google.com/maps/search/?api=1&query=11%20W%2042nd%20St%2C%20New%20York%2C%20NY%2010036"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FlPywKsh4riPs5S1MsNExYwZ7NdL2%2FQsWCOiBZgm_CJYM4DgQVN"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FlPywKsh4riPs5S1MsNExYwZ7NdL2%2FQsWCOiBZgm_CJYM4DgQVN?alt=media&token=cc3efd39-7c48-49f6-a99f-53d3ba0a33c7"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 1444
 badges: []
 fetch_status: ok
-owner_count: 11
-owner_ids: ["lPywKsh4riPs5S1MsNExYwZ7NdL2", "59pLIyQzvLUwaaqbfPTTEwunPcd2", "jD8RMiQGflgg0lOUshTbKBWM4JP2", "kkfxNDzwElM9940NDaPwzvSDYUi1", "CCpP4VlZssbSgdwzCWhIMe75YK22", "3h3blufhcdQ9Q3PfQL81izAGeEh2", "RA2yItkAT4b5ZeaikCuRFoZC5zX2", "7sPFt2LZOsVj9y8jUR76mLCWu1J3", "7DFu4rITofNzKIjA7hCx", "5HV8c1GklJx1YlEeJ4wY", "qPe4nG5jS9Y7OuvsjCWBmgyuJQt1"]
+owner_count: 12
+owner_ids: ["lPywKsh4riPs5S1MsNExYwZ7NdL2", "59pLIyQzvLUwaaqbfPTTEwunPcd2", "jD8RMiQGflgg0lOUshTbKBWM4JP2", "kkfxNDzwElM9940NDaPwzvSDYUi1", "CCpP4VlZssbSgdwzCWhIMe75YK22", "3h3blufhcdQ9Q3PfQL81izAGeEh2", "RA2yItkAT4b5ZeaikCuRFoZC5zX2", "7sPFt2LZOsVj9y8jUR76mLCWu1J3", "7DFu4rITofNzKIjA7hCx", "5HV8c1GklJx1YlEeJ4wY", "qPe4nG5jS9Y7OuvsjCWBmgyuJQt1", "Sch7RlfjFfcBGwiTrOc0"]
 is_capped: false
-total_guest_count: 1451
-approved_guest_count: 149
-local_image: "images/ASu0bbJUv36y2648J12G.jpg"
 canceled: false
+approved_guest_count: 377
+local_image: "images/ASu0bbJUv36y2648J12G.jpg"
 ---
 
 # How to Raise a Series A
 
 ![How to Raise a Series A](images/ASu0bbJUv36y2648J12G.jpg)
 
-**Hosts:** Silicon Valley Bank, SSM, Pilot, TriNet  _(+7 more host(s) on Partiful — see description for full list)_
+**Hosts:** Silicon Valley Bank, SSM, Pilot, TriNet  _(+8 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 11:30am–2:00pm ET
 **Where:** 11 W 42nd St, New York, NY 10036 · Midtown
-**Going:** 1444 of 1451
+**Going:** 377
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ASu0bbJUv36y2648J12G
 **Map:** https://www.google.com/maps/search/?api=1&query=11%20W%2042nd%20St%2C%20New%20York%2C%20NY%2010036
@@ -53,6 +51,7 @@ canceled: false
 - [Denis Nagasaki](https://partiful.com/u/7sPFt2LZOsVj9y8jUR76mLCWu1J3)
 - [BDev Ventures](https://partiful.com/u/5HV8c1GklJx1YlEeJ4wY)
 - [Differential Ventures](https://partiful.com/u/qPe4nG5jS9Y7OuvsjCWBmgyuJQt1)
+- [SUB](https://partiful.com/u/Sch7RlfjFfcBGwiTrOc0)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -78,7 +77,7 @@ Topics of Discussion:
 Sponsors:
 - Grace Power and Christina Sclafani of Trinet
 - Garrison Gowens of Cake Equity 
-- Denis Nagasaki of SVB
+- Denis Nagasaki of SVB, a division of First Citizens Bank
 - Lindsey S. Mignano of Mignano Law Group
 - Daniel Guthorn of Pilot.com 
 
@@ -93,10 +92,6 @@ Panelists:
 ​This event may be attended in person (if approved) or via Zoom.  If you attend via Zoom, please enter the room with your camera turned off and your mic muted.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

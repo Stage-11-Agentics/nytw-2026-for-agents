@@ -14,20 +14,17 @@ neighborhood: "East Village"
 rsvp_url: "https://partiful.com/e/G0vIARHkSQNe1IyBX0iS"
 public_short_url: "https://go.partiful.com/189VTuL7"
 google_maps: "https://www.google.com/maps/search/?api=1&query=East%20Village%2C%20East%20Village%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FYSaelH02npV9hP3avf81PPUB9k43%2Fc3k3cpR9MagC9OOsQFa48"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FYSaelH02npV9hP3avf81PPUB9k43%2Fc3k3cpR9MagC9OOsQFa48?alt=media&token=b29fdb96-aff8-451b-9e64-a2e810b88c7c"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 152
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["YSaelH02npV9hP3avf81PPUB9k43", "M5Tx60ZMjvdL2YzxAsDMAEpXfMJ3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 154
-approved_guest_count: 26
-local_image: "images/G0vIARHkSQNe1IyBX0iS.png"
 canceled: false
+local_image: "images/G0vIARHkSQNe1IyBX0iS.png"
 ---
 
 # Margs & Moonshots: Swell VC’s 4th Annual AI Mixer
@@ -37,7 +34,6 @@ canceled: false
 **Hosts:** Swell VC  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 4:00pm–5:30pm ET
 **Where:** East Village · East Village, Manhattan, New York, NY · East Village
-**Going:** 152 of 154
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/G0vIARHkSQNe1IyBX0iS
 **Map:** https://www.google.com/maps/search/?api=1&query=East%20Village%2C%20East%20Village%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -57,10 +53,6 @@ This event is a part of #NYTechWeek—a week of events hosted by VCs and startup
 
 Note:
 Along with a select group of preseed and seed VCs, this session is designed for B2B startup founders. Space is limited, and preference will be given to early-stage founders. Final location details will be shared upon approval.
-
-
-
-
 
 
 

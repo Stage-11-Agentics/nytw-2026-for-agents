@@ -14,22 +14,20 @@ neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/31H3VYXuOFJderTS31yH"
 public_short_url: "https://go.partiful.com/ngMM35bl"
 google_maps: "https://www.google.com/maps/search/?api=1&query=305%20W%2048th%20St%2C%20New%20York%2C%20NY%2010036"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F34Odr6VMoHh8mKNky38xJ1ZofX13%2F80hz8_lG1pnA8FqJKIVq0"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F34Odr6VMoHh8mKNky38xJ1ZofX13%2F80hz8_lG1pnA8FqJKIVq0?alt=media&token=f00fc503-f92f-4b06-81af-565fc300bd0e"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 50
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["34Odr6VMoHh8mKNky38xJ1ZofX13", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 45
-remaining_capacity: 5
-total_guest_count: 50
-approved_guest_count: 40
-local_image: "images/31H3VYXuOFJderTS31yH.png"
+max_capacity: 55
+remaining_capacity: 3
 canceled: false
+approved_guest_count: 52
+local_image: "images/31H3VYXuOFJderTS31yH.png"
 ---
 
 # THE AUTHORITY EDGE. Rooftop Experience for Founders & Tech Leaders
@@ -39,7 +37,7 @@ canceled: false
 **Hosts:** Speech & Mind  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:30pm–8:30pm ET
 **Where:** Starchild Rooftop Bar & Lounge · 305 W 48th St, New York, NY 10036 · Financial District
-**Capacity:** capped at 45 · 40 taken, 5 remaining
+**Capacity:** capped at 55 · 52 taken, 3 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/31H3VYXuOFJderTS31yH
 **Map:** https://www.google.com/maps/search/?api=1&query=305%20W%2048th%20St%2C%20New%20York%2C%20NY%2010036
@@ -83,10 +81,6 @@ Thank you to our venue sponsor:
 Perched 27 stories high atop the Civilian Hotel, Starchild Rooftop offers an elevated lounge experience with exceptional views. The retractable roof transforms this venue from a climatized, glass-enclosed space to an open-air rooftop in seconds. An uncovered outdoor terrace offers panoramic views of the city skyline, and the custom Funktion-One sound system creates a uniquely immersive experience. This one-of-a-kind, Rockwell designed space provides a breathtaking backdrop for corporate events, social celebrations, afterparties and milestones of all kinds.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

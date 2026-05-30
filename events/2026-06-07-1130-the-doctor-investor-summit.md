@@ -4,42 +4,49 @@ event_id: "L9pbPvwYLTbSngRjJIT4"
 date: 2026-06-07
 day: "Sunday"
 start_time: "11:30am ET"
+end_time: "1:30pm ET"
 start_iso: "2026-06-07T15:30:00.000Z"
+end_iso: "2026-06-07T17:30:00.000Z"
 host: "investDoc"
+venue_name: "Next Jump"
+venue_address: "512 W 22nd St, New York, NY 10011"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/L9pbPvwYLTbSngRjJIT4"
 public_short_url: "https://go.partiful.com/ghvdYX3Q"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FNZSZuSOeoOfaxEkygZ0A8jfCW8B3%2F5PfkJt8XQgn3A3gxenqfG"
+google_maps: "https://www.google.com/maps/search/?api=1&query=512%20W%2022nd%20St%2C%20New%20York%2C%20NY%2010011"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FNZSZuSOeoOfaxEkygZ0A8jfCW8B3%2F5PfkJt8XQgn3A3gxenqfG?alt=media&token=904e546e-dc56-4b0f-8dfb-97076708e49f"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 11
 badges: []
 fetch_status: ok
-owner_count: 3
-owner_ids: ["NZSZuSOeoOfaxEkygZ0A8jfCW8B3", "7DFu4rITofNzKIjA7hCx", "Eepe386pPWa3PkjCt603mOzXSxy2"]
+owner_count: 4
+owner_ids: ["NZSZuSOeoOfaxEkygZ0A8jfCW8B3", "7DFu4rITofNzKIjA7hCx", "Eepe386pPWa3PkjCt603mOzXSxy2", "oy2qbu0gVCGGXPgOCM2d"]
 is_capped: false
-total_guest_count: 14
-approved_guest_count: 9
-local_image: "images/L9pbPvwYLTbSngRjJIT4.png"
 canceled: false
+local_image: "images/L9pbPvwYLTbSngRjJIT4.png"
 ---
 
 # The Doctor Investor Summit
 
 ![The Doctor Investor Summit](images/L9pbPvwYLTbSngRjJIT4.png)
 
-**Hosts:** investDoc  _(+2 more host(s) on Partiful — see description for full list)_
-**When:** Sunday, June 7, 2026 · 11:30am ET
-**Where:** Midtown
-**Going:** 11 of 14
+**Hosts:** investDoc  _(+3 more host(s) on Partiful — see description for full list)_
+**When:** Sunday, June 7, 2026 · 11:30am–1:30pm ET
+**Where:** Next Jump · 512 W 22nd St, New York, NY 10011 · Midtown
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/L9pbPvwYLTbSngRjJIT4
+**Map:** https://www.google.com/maps/search/?api=1&query=512%20W%2022nd%20St%2C%20New%20York%2C%20NY%2010011
 
 ### Hosts on Partiful
 
 - [Diane  Yoo](https://partiful.com/u/NZSZuSOeoOfaxEkygZ0A8jfCW8B3)
 - [Amad Khan](https://partiful.com/u/Eepe386pPWa3PkjCt603mOzXSxy2)
+- [Crazy Startup Guy](https://partiful.com/u/oy2qbu0gVCGGXPgOCM2d) — _host lots of events
+produce Venture Week
+building Space4Ads
+building Post4Food
+etc…_
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -84,10 +91,6 @@ Topics
 * The future of physician-led venture ecosystems
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

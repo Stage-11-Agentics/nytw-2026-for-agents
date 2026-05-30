@@ -14,20 +14,18 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/M0IcRybbcOWR9tbpmutm"
 public_short_url: "https://go.partiful.com/WDQBxMHe"
 google_maps: "https://www.google.com/maps/search/?api=1&query=1170%20Broadway%2C%20New%20York%2C%20NY%2010001"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FOCUcq5XXFMgb9diniAkehivDuRi2%2Ft762wSoUJ2c-wWVsRWW22"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FOCUcq5XXFMgb9diniAkehivDuRi2%2Ft762wSoUJ2c-wWVsRWW22?alt=media&token=3f782bf2-9194-46df-a70f-f0bc8160ed27"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 177
 badges: []
 fetch_status: ok
 owner_count: 5
 owner_ids: ["OCUcq5XXFMgb9diniAkehivDuRi2", "7DFu4rITofNzKIjA7hCx", "oQD7FpPPPwPwJKoAYMHZ", "y83OZlMGyWl5odjY4Sn9", "5Ju90ZOai5YeSgKcpexY1gx3o7F2"]
 is_capped: false
-total_guest_count: 177
-approved_guest_count: 130
-local_image: "images/M0IcRybbcOWR9tbpmutm.png"
 canceled: false
+approved_guest_count: 154
+local_image: "images/M0IcRybbcOWR9tbpmutm.png"
 ---
 
 # Fitness For Founders: The TAY Way Pro Day
@@ -37,7 +35,7 @@ canceled: false
 **Hosts:** TAY Fitness, Technology Founders of America  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 9:00am–12:00pm ET
 **Where:** The Ned NoMad · 1170 Broadway, New York, NY 10001 · Midtown
-**Going:** 177
+**Going:** 154
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/M0IcRybbcOWR9tbpmutm
 **Map:** https://www.google.com/maps/search/?api=1&query=1170%20Broadway%2C%20New%20York%2C%20NY%2010001
@@ -99,10 +97,6 @@ Lock it in here: https://tinyurl.com/8nbn8f77
 …
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

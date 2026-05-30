@@ -14,22 +14,18 @@ neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/iQA2Cr8FK3gaZTajVpiO"
 public_short_url: "https://go.partiful.com/LekXACnV"
 google_maps: "https://www.google.com/maps/search/?api=1&query=817%20Broadway%2C%20New%20York%2C%20NY%2010003"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F9yb9hCLElcbDViid0mk9%2F5c6BugWKw0JvT5V-C-uWR"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F9yb9hCLElcbDViid0mk9%2F5c6BugWKw0JvT5V-C-uWR?alt=media&token=c3779a65-f536-427d-8d56-758fa569ec4b"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 62
 badges: []
 fetch_status: ok
 owner_count: 6
 owner_ids: ["9yb9hCLElcbDViid0mk9", "7DFu4rITofNzKIjA7hCx", "tXYPu3w5uwgIpMx1alpO9Xxifnl2", "3s0uYdxiWwQPHaiA9cardg6O1bp2", "JEynswOp1o6YMsFcfKLE", "2592xAfL4MU9WiIHNEkSoCSeHoh1"]
 is_capped: true
-max_capacity: 20
-remaining_capacity: 4
-total_guest_count: 63
-approved_guest_count: 16
-local_image: "images/iQA2Cr8FK3gaZTajVpiO.png"
+max_capacity: 25
 canceled: false
+local_image: "images/iQA2Cr8FK3gaZTajVpiO.png"
 ---
 
 # Founder Breakfast
@@ -39,7 +35,7 @@ canceled: false
 **Hosts:** Brderless, Persona  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 9:00am–11:00am ET
 **Where:** Leon's · 817 Broadway, New York, NY 10003 · SoHo
-**Capacity:** capped at 20 · 16 taken, 4 remaining
+**Capacity:** capped at 25
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/iQA2Cr8FK3gaZTajVpiO
 **Map:** https://www.google.com/maps/search/?api=1&query=817%20Broadway%2C%20New%20York%2C%20NY%2010003
@@ -86,10 +82,6 @@ MIA is a next-generation, AI-powered immigration App, designed to simplify the e
 ​Photography Notice: By attending, you consent to being photographed or recorded for promotional purposes.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -9,22 +9,20 @@ host: "Fierce Foundry"
 neighborhood: "Nomad"
 rsvp_url: "https://partiful.com/e/eBzPADEdUmk03eR8RNBu"
 public_short_url: "https://go.partiful.com/vd9YGAFI"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FgZvqazHSg3Oki5xUqgpDngrH1VD2%2FwYQvXPfOF6rsT_6ZGDxEM"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FgZvqazHSg3Oki5xUqgpDngrH1VD2%2FwYQvXPfOF6rsT_6ZGDxEM?alt=media&token=3137ec97-8f29-48f8-b167-5eb7f8211dde"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 1
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["gZvqazHSg3Oki5xUqgpDngrH1VD2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 1
-approved_guest_count: 0
-local_image: "images/eBzPADEdUmk03eR8RNBu.jpg"
 canceled: true
 canceled_at: "2026-04-17T16:16:23.252Z"
 canceled_by: "gZvqazHSg3Oki5xUqgpDngrH1VD2"
+approved_guest_count: 0
+local_image: "images/eBzPADEdUmk03eR8RNBu.jpg"
 ---
 
 # Femhack NYTechweek 2026
@@ -37,7 +35,6 @@ canceled_by: "gZvqazHSg3Oki5xUqgpDngrH1VD2"
 **Hosts:** Fierce Foundry  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 8:00am ET
 **Where:** Nomad
-**Going:** 1
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/eBzPADEdUmk03eR8RNBu
 
@@ -52,10 +49,6 @@ canceled_by: "gZvqazHSg3Oki5xUqgpDngrH1VD2"
 Ready to team up, innovate, and create something incredible? FEMHACK [NYC] is an all-female hackathon where you can join women in tech to build prototypes, and compete for cash prizes.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

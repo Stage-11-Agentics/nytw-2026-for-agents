@@ -15,18 +15,17 @@ google_maps: "https://www.google.com/maps/search/?api=1&query=Brooklyn%2C%20Broo
 image: "https://media0.giphy.com/media/aEWNSSzB29pQc/giphy.gif?cid=c00e53c6owmk08cv18wchnujhj0spgywqlxkgzop63xd4twf&ep=v1_gifs_search&rid=giphy.gif&ct=g"
 visibility: "public"
 at_capacity: true
-going_guest_count: 107
+going_guest_count: 168
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["6ZIOv6O9VVcdXWOxoS0N0qGs86m2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 107
+max_capacity: 168
 remaining_capacity: 0
-total_guest_count: 116
+canceled: false
 approved_guest_count: 0
 local_image: "images/aj9i4KLrw0lbSx1qRC2k.gif"
-canceled: false
 ---
 
 # Move Over Viral Dr. Pepper - Meet the Billion Views Creator-A Million Views for Brands & Creators
@@ -36,7 +35,7 @@ canceled: false
 **Hosts:** VCAR  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 8:30pm ET
 **Where:** Brooklyn · Brooklyn, NY · Brooklyn
-**Capacity:** capped at 107 · 107 taken, 0 remaining · ⚠ **FULL**
+**Capacity:** capped at 168 · 168 taken, 0 remaining · ⚠ **FULL**
 **Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/aj9i4KLrw0lbSx1qRC2k
 **Map:** https://www.google.com/maps/search/?api=1&query=Brooklyn%2C%20Brooklyn%2C%20NY
@@ -51,6 +50,10 @@ canceled: false
 
 Let's plant the seed to go Viral during New York Tech Week!
 
+*Note this event is also happening next week Monday June 8th, so if you are unable to get off the waitlist (there are almost 100 people), you can attend next weeks event.  Here is the link to register  
+
+https://partiful.com/e/pfqFOKXtnDTML9DSjBl4?focus=guests
+
 Long before the Viral Dr Pepper ad this year on tiktok, my song quietly went viral with Dr. Pepper and other brands like Pokemon, Pizza Hut, Fornite, Samsung and L'Oreal. 
 
 The Dr. Pepper ad quietly surmassed 10 million views while the Loreal ad got over 40 million.  
@@ -58,16 +61,13 @@ The Dr. Pepper ad quietly surmassed 10 million views while the Loreal ad got ove
 Over the past 5 years I've helped over 1000 brands and creators reach over a million views with my music. 
 
 Join this billion views creator for this intimate session where I break down how I came up with the viral hit and strategize how you can use sound to catapult your views and do the same. 
+Hi Everyone... This event is being repeated next Monday June 8th at 8:00PM.  So if you are on the waitlist or want to guarantee a spot, you can sign up for next weeks event.  Here is the link:
 
 This session is for creators and brands that want to stand out from the status quo.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
 *Please allow 12-72 hours for approval.
-
-
-
-
 
 
 

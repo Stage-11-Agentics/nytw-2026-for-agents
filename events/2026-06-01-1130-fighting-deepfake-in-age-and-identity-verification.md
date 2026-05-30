@@ -12,7 +12,7 @@ neighborhood: "West Village"
 rsvp_url: "https://partiful.com/e/z7K3rnyrNVrwKiHGPokb"
 public_short_url: "https://go.partiful.com/BptCTh8r"
 google_maps: "https://www.google.com/maps/search/?api=1&query=West%20Village%2C%20West%20Village%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJoWGwjDHsLUTdRQJqcUqNmXNHDs1%2Fl_RICSleA7N3Bc0LN8eEn"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FJoWGwjDHsLUTdRQJqcUqNmXNHDs1%2Fl_RICSleA7N3Bc0LN8eEn?alt=media&token=fd20f33c-d740-49b3-a3d1-26c7a295c7e9"
 visibility: "public"
 at_capacity: true
 going_guest_count: 50
@@ -23,10 +23,9 @@ owner_ids: ["JoWGwjDHsLUTdRQJqcUqNmXNHDs1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 50
 remaining_capacity: 0
-total_guest_count: 96
+canceled: false
 approved_guest_count: 0
 local_image: "images/z7K3rnyrNVrwKiHGPokb.png"
-canceled: false
 ---
 
 # Fighting deepfake in Age and Identity Verification
@@ -60,10 +59,6 @@ Come learn more, and discuss with others solving the same problem. Each particip
 Looking forward to seeing you!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

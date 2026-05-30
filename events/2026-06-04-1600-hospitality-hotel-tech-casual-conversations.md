@@ -15,18 +15,16 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 13
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["zwZKPwR9CRaXu2bS64ECHdfD5yD3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 20
-remaining_capacity: 13
-total_guest_count: 14
-approved_guest_count: 7
-local_image: "images/9lSsuMRBptuEgJaD4ByK.png"
+max_capacity: 30
+remaining_capacity: 6
 canceled: false
+approved_guest_count: 24
+local_image: "images/9lSsuMRBptuEgJaD4ByK.png"
 ---
 
 # Hospitality & Hotel Tech: Casual Conversations
@@ -36,7 +34,7 @@ canceled: false
 **Hosts:** Vosant Meetings  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 4:00pm–5:30pm ET
 **Where:** Midtown
-**Capacity:** capped at 20 · 7 taken, 13 remaining
+**Capacity:** capped at 30 · 24 taken, 6 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/9lSsuMRBptuEgJaD4ByK
 
@@ -53,10 +51,6 @@ A small, informal gathering of people working across hospitality and hotel tech.
 No panels, no presentations — just a chance to meet, catch up, and talk about how things are actually running across the industry right now.
 
 Drop in and join the conversation.  Downtown location details to be shared.
-
-
-
-
 
 
 

@@ -9,20 +9,18 @@ host: "Blueberries."
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/j2bZTtAyaOkOMidsx5YB"
 public_short_url: "https://go.partiful.com/F9nio6Ra"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F9Vya0HBtTDUXWvqcZSeK%2Fdg2HOGmOegpKjYH_oypXF"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F9Vya0HBtTDUXWvqcZSeK%2Fdg2HOGmOegpKjYH_oypXF?alt=media&token=a2bd4b5a-ad59-4925-a016-be1283bd64b6"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 60
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["9Vya0HBtTDUXWvqcZSeK", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 66
-approved_guest_count: 38
-local_image: "images/j2bZTtAyaOkOMidsx5YB.png"
 canceled: false
+approved_guest_count: 200
+local_image: "images/j2bZTtAyaOkOMidsx5YB.png"
 ---
 
 # VC & Founder Cocktail Event
@@ -32,7 +30,7 @@ canceled: false
 **Hosts:** Blueberries.  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 5:00pm ET
 **Where:** Midtown
-**Going:** 60 of 66
+**Going:** 200
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/j2bZTtAyaOkOMidsx5YB
 
@@ -59,10 +57,6 @@ Applications will be reviewed individually. Make sure to tell us who you are and
 This event is part of #NYTechWeek, a week of events hosted by VCs and startups to bring together the tech ecosystem. 
 
 Learn more at www.tech-week.com
-
-
-
-
 
 
 

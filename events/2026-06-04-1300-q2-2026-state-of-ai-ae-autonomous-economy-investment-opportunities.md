@@ -11,35 +11,32 @@ host: "Untapped Ventures"
 neighborhood: "Virtual (NYC)"
 rsvp_url: "https://partiful.com/e/QDVul6t9zZuHr6NvZYrF"
 public_short_url: "https://go.partiful.com/97yzinxG"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FCgnfdmvicSM51KcASWWn%2Fpzgo6F0txAySP77tBOudz"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FCgnfdmvicSM51KcASWWn%2Fpzgo6F0txAySP77tBOudz?alt=media&token=83e084b4-7c20-48aa-9d55-f22f2983f6e7"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 56
 badges: []
 fetch_status: ok
-owner_count: 2
-owner_ids: ["CgnfdmvicSM51KcASWWn", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 3
+owner_ids: ["CgnfdmvicSM51KcASWWn", "7DFu4rITofNzKIjA7hCx", "EoUbPY2a6gWKu45okpdXTPQYyDO2"]
 is_capped: false
-total_guest_count: 58
-approved_guest_count: 0
-local_image: "images/QDVul6t9zZuHr6NvZYrF.png"
 canceled: false
+local_image: "images/QDVul6t9zZuHr6NvZYrF.png"
 ---
 
 # Q2 2026 State of AI + AE (Autonomous Economy) & Investment Opportunities
 
 ![Q2 2026 State of AI + AE (Autonomous Economy) & Investment Opportunities](images/QDVul6t9zZuHr6NvZYrF.png)
 
-**Hosts:** Untapped Ventures  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Untapped Ventures  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 1:00pm–2:00pm ET
 **Where:** Virtual (NYC)
-**Going:** 56 of 58
 **RSVP:** https://partiful.com/e/QDVul6t9zZuHr6NvZYrF
 
 ### Hosts on Partiful
 
 - [Untapped Ventures](https://partiful.com/u/CgnfdmvicSM51KcASWWn) — _Untapped Ventures invests in early-stage AI Startups that Uplift Humanity._
+- [George Bandarian](https://partiful.com/u/EoUbPY2a6gWKu45okpdXTPQYyDO2) — _General Partner of Untapped Ventures, a VC fund investing in early-stage AI Startups that Uplift Humanity._
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -69,10 +66,6 @@ Through Untapped Ventures, he has backed 35+ AI-native companies, including xAI,
 George works closely with founders at the pre-seed and seed stages on company building, positioning, and go-to-market, and is also the host of the Agentic podcast (www.agenticai.vc).
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -6,26 +6,21 @@ day: "Thursday"
 start_time: "6:00pm ET"
 start_iso: "2026-06-04T22:00:00.000Z"
 host: "How2Scale"
-venue_name: "Boffi Soho"
-venue_address: "99 Madison Ave, New York, NY 10016"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/TgONROpj21IPSTpuQ806"
 public_short_url: "https://go.partiful.com/2ATeUyGl"
-google_maps: "https://www.google.com/maps/search/?api=1&query=99%20Madison%20Ave%2C%20New%20York%2C%20NY%2010016"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FdiBWKUeogOQ7DF47t5PQ5OtXEPE3%2F4RnD49OWDoaDmoyspdamN"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FdiBWKUeogOQ7DF47t5PQ5OtXEPE3%2F4RnD49OWDoaDmoyspdamN?alt=media&token=ad2a36f1-1e97-470b-af13-202d89452f0f"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 647
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["diBWKUeogOQ7DF47t5PQ5OtXEPE3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 656
-approved_guest_count: 318
-local_image: "images/TgONROpj21IPSTpuQ806.jpg"
 canceled: false
+approved_guest_count: 467
+local_image: "images/TgONROpj21IPSTpuQ806.jpg"
 ---
 
 # The European Innovation Summit - TechCrunch & 13 Countries
@@ -34,11 +29,10 @@ canceled: false
 
 **Hosts:** How2Scale  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm ET
-**Where:** Boffi Soho · 99 Madison Ave, New York, NY 10016 · Midtown
-**Going:** 647 of 656
+**Where:** Midtown
+**Going:** 467
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/TgONROpj21IPSTpuQ806
-**Map:** https://www.google.com/maps/search/?api=1&query=99%20Madison%20Ave%2C%20New%20York%2C%20NY%2010016
 
 ### Hosts on Partiful
 
@@ -49,7 +43,7 @@ canceled: false
 ## Description
 
 Last year sold out in 4days. This year will too. Featuring Leaders from:
-Wise 🇪🇪 🇭🇺 • Nord VPN 🇱🇹 • ElevenLabs 🇵🇱 • fal 🇹🇷 • special guest
+Wise 🇪🇪 🇭🇺 • Nord VPN 🇱🇹 • ElevenLabs 🇵🇱 • fal 🇹🇷 • Nvidia
 
 13 Founders representing their countries pitching (60sec) emceed by TechCrunch
 
@@ -76,9 +70,17 @@ Run of Show:
 Expect founders, VCs, and senior operators shaping the next wave of AI.
 ⚠️ Note: Limited capacity. Curated guest list. Approval required.
 
+🤝 Sponsored by  NYCEDC
+
+New York City Economic Development Corporation works to position NYC as one of the world’s leading destinations for innovation, entrepreneurship, and global business. By supporting startups, scaling technologies, and fostering partnerships between public and private sectors, NYCEDC helps accelerate the ecosystems shaping the future of AI, climate, fintech, and deep tech. 
+
 🤝 Sponsored by JPMorgan Chase
 
 JPMorgan Chase supports founders and scaling companies with the capital, infrastructure, and global network needed to grow across markets, making them a key partner for companies expanding between Europe and the US.
+
+🤝 Sponsored by Pierson Ferdinand LLP
+
+With 285+ lawyers throughout the U.S., Pierson Ferdinand is the law firm of choice for European startups.  We are fully remote and partner-only, resulting in high quality work at reasonable rates.  We handle the entire spectrum: from U.S. market-entry, to fundraising (through a Delaware flip or otherwise), to exit transactions.
 
 🌍Countries co-hosting this 2026 Edition:
 
@@ -93,16 +95,12 @@ JPMorgan Chase supports founders and scaling companies with the capital, infrast
 🇱🇹 Consulate General of the Republic of Lithuania in New York
 🇵🇱 Polish Investment and Trade Agency (PAIH) & Ministry of Foreign Affairs of the Republic of Poland
 🇪🇪 Enterprise Estonia & Consulate General of Estonia in New York
-🇮🇪 Digital Irish New York & Enterprise Ireland USA
+🇮🇪 Consulate General of Ireland, Enterprise Ireland USA & Digital Irish
 
 ⚠️ Note
 This event will be photographed and recorded. By registering and attending, you grant the organizers and their partners the right to use any photographs or video footage in which you may appear for marketing, communications, and promotional purposes, without compensation.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

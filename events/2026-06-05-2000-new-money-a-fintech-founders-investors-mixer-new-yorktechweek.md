@@ -13,16 +13,14 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 89
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["RuzwSq64FcbPHTM9GbCOcv0PJXh2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 92
+canceled: false
 approved_guest_count: 0
 local_image: "images/HNzBBTq1gXdenq3tLu9i.png"
-canceled: false
 ---
 
 # "New Money" — A Fintech Founders & Investors Mixer
@@ -34,7 +32,6 @@ canceled: false
 **Hosts:** Rolla  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 8:00pm ET
 **Where:** Financial District
-**Going:** 89 of 92
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/HNzBBTq1gXdenq3tLu9i
 
@@ -54,10 +51,6 @@ Fintech-focused VCs & angels, Family offices investing in emerging fintech, Acce
 
 
 This event is a part of #NewYorkTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

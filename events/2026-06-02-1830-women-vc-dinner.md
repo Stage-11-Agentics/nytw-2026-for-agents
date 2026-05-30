@@ -14,20 +14,18 @@ neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/uikRyS2dekXcz1wNKKzy"
 public_short_url: "https://go.partiful.com/nme383Xz"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Flatiron%20District%2C%20Flatiron%20District%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fi4XQa1sdTgRma2XaNAKe942tsru2%2FJV9d9yELAr8mHjXo_hF37"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fi4XQa1sdTgRma2XaNAKe942tsru2%2FJV9d9yELAr8mHjXo_hF37?alt=media&token=0e130d69-0036-4a05-9b5c-2092b59692fb"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 72
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["i4XQa1sdTgRma2XaNAKe942tsru2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 72
+canceled: false
 approved_guest_count: 0
 local_image: "images/uikRyS2dekXcz1wNKKzy.png"
-canceled: false
 ---
 
 # Women VC Dinner
@@ -37,7 +35,6 @@ canceled: false
 **Hosts:** Yorkseed, Ugly Talk
 **When:** Tuesday, June 2, 2026 · 6:30pm–9:30pm ET
 **Where:** Flatiron District · Flatiron District, Manhattan, New York, NY · Flatiron
-**Going:** 72
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/uikRyS2dekXcz1wNKKzy
 **Map:** https://www.google.com/maps/search/?api=1&query=Flatiron%20District%2C%20Flatiron%20District%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -75,10 +72,6 @@ Founders get Raise Hub to manage their entire round in one place. Investors get 
 Plus a vetted member directory, warm intro system, and an investor match engine. Founding Member spots are capped. Once they're gone, they're gone.
 
 Apply at yorkseed.co
-
-
-
-
 
 
 

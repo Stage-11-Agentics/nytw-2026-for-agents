@@ -11,20 +11,18 @@ host: "Recess, Throwback Fitness"
 neighborhood: "West Village"
 rsvp_url: "https://partiful.com/e/0GFyTBq0UAi8E6N64Rlz"
 public_short_url: "https://go.partiful.com/L5SUpLuT"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FlxLVpw15y0Y6pOW2hV40%2Fpp86xkZhs_OclcABsnnwh"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FlxLVpw15y0Y6pOW2hV40%2Fpp86xkZhs_OclcABsnnwh?alt=media&token=e4dd2ca6-941b-4690-845d-35eae376d038"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 59
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["lxLVpw15y0Y6pOW2hV40", "7DFu4rITofNzKIjA7hCx", "AA9EgONl91Qnh959u2NwYhFpK323"]
 is_capped: false
-total_guest_count: 60
-approved_guest_count: 54
-local_image: "images/0GFyTBq0UAi8E6N64Rlz.png"
 canceled: false
+approved_guest_count: 94
+local_image: "images/0GFyTBq0UAi8E6N64Rlz.png"
 ---
 
 # Recess at Tech Week: Throwback Field Day
@@ -34,7 +32,7 @@ canceled: false
 **Hosts:** Recess, Throwback Fitness  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 4:00pm–5:30pm ET
 **Where:** West Village
-**Going:** 59 of 60
+**Going:** 94
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/0GFyTBq0UAi8E6N64Rlz
 
@@ -65,10 +63,6 @@ Winning team gets eternal glory (and bragging rights through the rest of Tech We
 4. Winning team gets eternal glory (and bragging rights through the rest of Tech Week)
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

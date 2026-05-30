@@ -5,40 +5,34 @@ date: 2026-06-04
 day: "Thursday"
 start_time: "6:30pm ET"
 start_iso: "2026-06-04T22:30:00.000Z"
-host: "Linnify, Safe Space"
-venue_name: "New York, NY"
-venue_address: "New York, NY"
+host: "Safe Space, Linnify"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/VelsqrAD2a26jnovmOK1"
 public_short_url: "https://go.partiful.com/uwNV4sjb"
-google_maps: "https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fjp5KrurBNtZI61jcNjK0zNS9APA2%2FWFvldnk7iVZ3Ffkv93PFe"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fjp5KrurBNtZI61jcNjK0zNS9APA2%2FWFvldnk7iVZ3Ffkv93PFe?alt=media&token=492756e9-9ed4-47e8-a43a-c6cd17503e1e"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 47
 badges: []
 fetch_status: ok
 owner_count: 6
 owner_ids: ["3aok2s9X5eYHM3LQTY0DaeE9qXC2", "7DFu4rITofNzKIjA7hCx", "jp5KrurBNtZI61jcNjK0zNS9APA2", "z9pnBM7hcJawEJ5JAkDQEBrEcOv1", "MNpp47hOmDaEeNo9Q0rpfUXtqFb2", "wCfndHJU43dHyADmRU38c3UeV073"]
 is_capped: false
-total_guest_count: 47
-approved_guest_count: 8
-local_image: "images/VelsqrAD2a26jnovmOK1.png"
 canceled: false
+approved_guest_count: 36
+local_image: "images/VelsqrAD2a26jnovmOK1.png"
 ---
 
 # Fund It or Kill It: The CFO–CIO AI ROI Lab
 
 ![Fund It or Kill It: The CFO–CIO AI ROI Lab](images/VelsqrAD2a26jnovmOK1.png)
 
-**Hosts:** Linnify, Safe Space  _(+4 more host(s) on Partiful — see description for full list)_
+**Hosts:** Safe Space, Linnify  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:30pm ET
-**Where:** New York, NY · New York, NY · Financial District
-**Going:** 47
+**Where:** Financial District
+**Going:** 36
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/VelsqrAD2a26jnovmOK1
-**Map:** https://www.google.com/maps/search/?api=1&query=New%20York%2C%20NY%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -61,10 +55,6 @@ Hosted by Andra Vaduva, Founder and CEO of SafeSpace, a New York–based AI Adop
 Together, they combine expertise in AI adoption and implementation to help U.S. mid-market companies move beyond the hype and deploy AI in ways that drive real, measurable business value.
 
 This event is part of #NYTechWeek — a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

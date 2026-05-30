@@ -14,20 +14,18 @@ neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/KhKOePrEky8gzr3zllTi"
 public_short_url: "https://go.partiful.com/1uvymQ1M"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Chelsea%2C%20Chelsea%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FUNITvnclNeMr8X0tQpy4sS3MIAH3%2FZiaB9YsAoXbXXkmZHXtNF"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FUNITvnclNeMr8X0tQpy4sS3MIAH3%2FZiaB9YsAoXbXXkmZHXtNF?alt=media&token=c4aef75b-0cc4-4591-a13c-5f3f5004b74a"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 2022
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["UNITvnclNeMr8X0tQpy4sS3MIAH3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 2022
-approved_guest_count: 46
-local_image: "images/KhKOePrEky8gzr3zllTi.png"
 canceled: false
+approved_guest_count: 72
+local_image: "images/KhKOePrEky8gzr3zllTi.png"
 ---
 
 # NYC University Founders ONLY Meet
@@ -37,7 +35,7 @@ canceled: false
 **Hosts:** staaake  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Saturday, June 6, 2026 · 1:00pm–2:00pm ET
 **Where:** Chelsea · Chelsea, Manhattan, New York, NY · Chelsea
-**Going:** 2022
+**Going:** 72
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/KhKOePrEky8gzr3zllTi
 **Map:** https://www.google.com/maps/search/?api=1&query=Chelsea%2C%20Chelsea%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -85,9 +83,15 @@ Reverse Networking events can happen anywhere, from parks and co-working spaces 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
 
+Sponsor
 
+SeedLegals
+https://seedlegals.com/us/
+SeedLegals is the platform and team to help you get investment ready and raise investment.
 
+staaake
 
+**www.staaake.com**
 
 
 

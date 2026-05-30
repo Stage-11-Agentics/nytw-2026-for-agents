@@ -8,28 +8,21 @@ end_time: "6:00pm ET"
 start_iso: "2026-06-02T20:00:00.000Z"
 end_iso: "2026-06-02T22:00:00.000Z"
 host: "The Council Capital"
-venue_name: "SPIN New York Flatiron"
-venue_address: "48 E 23rd St, New York, NY 10010"
 neighborhood: "Central Park"
 rsvp_url: "https://partiful.com/e/X7auQ9epT2J1JmoewLKi"
 public_short_url: "https://go.partiful.com/XABKwDmv"
-google_maps: "https://www.google.com/maps/search/?api=1&query=48%20E%2023rd%20St%2C%20New%20York%2C%20NY%2010010"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fw0uuG2f0EGfVvarKohW7%2FQqz_uSgtsC6Gx2A3pDiuT"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fw0uuG2f0EGfVvarKohW7%2FQqz_uSgtsC6Gx2A3pDiuT?alt=media&token=268445cd-23d5-4f96-88c9-a87fe5246a4c"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 26
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["w0uuG2f0EGfVvarKohW7", "7DFu4rITofNzKIjA7hCx", "y1mSDCFfcVZhVptqjBiwdj8DZau2", "QVkZLC5QhlPBhcgdhmacTnid3dG3"]
 is_capped: true
 max_capacity: 35
-remaining_capacity: 18
-total_guest_count: 29
-approved_guest_count: 17
-local_image: "images/X7auQ9epT2J1JmoewLKi.png"
 canceled: false
+local_image: "images/X7auQ9epT2J1JmoewLKi.png"
 ---
 
 # Rally & Connect: Ping Pong for Founders & Angels
@@ -38,11 +31,10 @@ canceled: false
 
 **Hosts:** The Council Capital  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:00pm–6:00pm ET
-**Where:** SPIN New York Flatiron · 48 E 23rd St, New York, NY 10010 · Central Park
-**Capacity:** capped at 35 · 17 taken, 18 remaining
+**Where:** Central Park
+**Capacity:** capped at 35
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/X7auQ9epT2J1JmoewLKi
-**Map:** https://www.google.com/maps/search/?api=1&query=48%20E%2023rd%20St%2C%20New%20York%2C%20NY%2010010
 
 ### Hosts on Partiful
 
@@ -64,10 +56,6 @@ Light snacks & beverages provided!
 
 ---
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

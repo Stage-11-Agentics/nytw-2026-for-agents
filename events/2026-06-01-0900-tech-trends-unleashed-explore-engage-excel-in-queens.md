@@ -16,18 +16,17 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 41
+going_guest_count: 71
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["TnnizHY6UMRaeeWMwVYzdR9MhYv1", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 250
-remaining_capacity: 209
-total_guest_count: 46
+remaining_capacity: 179
+canceled: false
 approved_guest_count: 0
 local_image: "images/8NDpBHnUtRgzbjpPnFz6.png"
-canceled: false
 ---
 
 # Tech Trends Unleashed: Explore, Engage, Excel in Queens!
@@ -37,7 +36,7 @@ canceled: false
 **Hosts:** Queens Chamber of Commerce, Firstlight Cloud Xchange
 **When:** Monday, June 1, 2026 · 9:00am ET
 **Where:** Bulova Corporate Center Conference · 7520 Astoria Blvd N, Ste 50, East Elmhurst, NY 11370 · Queens
-**Capacity:** capped at 250 · 41 taken, 209 remaining
+**Capacity:** capped at 250 · 71 taken, 179 remaining
 **RSVP:** https://partiful.com/e/8NDpBHnUtRgzbjpPnFz6
 **Map:** https://www.google.com/maps/search/?api=1&query=7520%20Astoria%20Blvd%20N%2C%20Ste%2050%2C%20East%20Elmhurst%2C%20NY%2011370
 
@@ -91,10 +90,6 @@ IT ecosystem to optimize your business for AI and the future. Hear from five loc
 Don't miss out on this opportunity to connect with local experts who can help your business flourish!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -12,29 +12,25 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/vMgh1HOU0xqBmBJdxwCI"
 public_short_url: "https://go.partiful.com/Amu77TwU"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Midtown%20Manhattan%2C%20Midtown%20Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FimZR3YxtOSRQB2rkkZtGltdx3Cg1%2FCVDmJJ9WdYn-qcod7YmN2"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FimZR3YxtOSRQB2rkkZtGltdx3Cg1%2FsXlT2fPbAXvTnqSyP0euc?alt=media&token=0a4b8ee6-97d8-4c54-843b-9c2be0dfb458"
 visibility: "public"
 at_capacity: false
-going_guest_count: 90
 badges: []
 fetch_status: ok
-owner_count: 3
-owner_ids: ["imZR3YxtOSRQB2rkkZtGltdx3Cg1", "7DFu4rITofNzKIjA7hCx", "ucRg5vdY8EUu5SMYhwVN"]
+owner_count: 4
+owner_ids: ["imZR3YxtOSRQB2rkkZtGltdx3Cg1", "7DFu4rITofNzKIjA7hCx", "ucRg5vdY8EUu5SMYhwVN", "oy2qbu0gVCGGXPgOCM2d"]
 is_capped: false
-total_guest_count: 549
-approved_guest_count: 0
-local_image: "images/vMgh1HOU0xqBmBJdxwCI.jpg"
 canceled: false
+local_image: "images/vMgh1HOU0xqBmBJdxwCI.jpg"
 ---
 
 # Jetzy presents: The Future of Travel - Meet Investors and Founders
 
 ![Jetzy presents: The Future of Travel - Meet Investors and Founders](images/vMgh1HOU0xqBmBJdxwCI.jpg)
 
-**Hosts:** Jetzy  _(+2 more host(s) on Partiful — see description for full list)_
+**Hosts:** Jetzy  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm ET
 **Where:** Midtown Manhattan · Midtown Manhattan, Manhattan, New York, NY · Midtown
-**Going:** 90 of 549
 **RSVP:** https://partiful.com/e/vMgh1HOU0xqBmBJdxwCI
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%20Manhattan%2C%20Midtown%20Manhattan%2C%20Manhattan%2C%20New%20York%2C%20NY
 
@@ -42,6 +38,11 @@ canceled: false
 
 - [Shama Zehra](https://partiful.com/u/imZR3YxtOSRQB2rkkZtGltdx3Cg1) — _I'm the founder of Jetzy which is an exclusive lifestyle social club where members get VIP perks and up to 70% discount for travel & leisure._
 - [Jetzy](https://partiful.com/u/ucRg5vdY8EUu5SMYhwVN)
+- [Crazy Startup Guy](https://partiful.com/u/oy2qbu0gVCGGXPgOCM2d) — _host lots of events
+produce Venture Week
+building Space4Ads
+building Post4Food
+etc…_
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -94,10 +95,6 @@ https://jetzy.com/download.html
 Invite Code: Jetzy-me
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

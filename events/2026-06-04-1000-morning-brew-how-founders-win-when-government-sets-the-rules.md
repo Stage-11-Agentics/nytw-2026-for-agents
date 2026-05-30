@@ -8,26 +8,21 @@ end_time: "12:00pm ET"
 start_iso: "2026-06-04T14:00:00.000Z"
 end_iso: "2026-06-04T16:00:00.000Z"
 host: "Tusk Venture Partners, Odyssey"
-venue_name: "P&T Knitwear"
-venue_address: "180 Orchard St, New York, NY 10002"
 neighborhood: "Lower East Side"
 rsvp_url: "https://partiful.com/e/SH6BD91ODnGWa6TGY52P"
 public_short_url: "https://go.partiful.com/hxCdYM3X"
-google_maps: "https://www.google.com/maps/search/?api=1&query=180%20Orchard%20St%2C%20New%20York%2C%20NY%2010002"
 image: "https://res.cloudinary.com/partiful/image/upload/posters/tech_week_20250218.png"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 89
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["8IZXvl2vfUdldnqFy6qcrKbeeUv2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 92
-approved_guest_count: 82
-local_image: "images/SH6BD91ODnGWa6TGY52P.png"
 canceled: false
+approved_guest_count: 149
+local_image: "images/SH6BD91ODnGWa6TGY52P.png"
 ---
 
 # Morning  Brew: How Founders Win When Government Sets the Rules
@@ -36,11 +31,10 @@ canceled: false
 
 **Hosts:** Tusk Venture Partners, Odyssey
 **When:** Thursday, June 4, 2026 · 10:00am–12:00pm ET
-**Where:** P&T Knitwear · 180 Orchard St, New York, NY 10002 · Lower East Side
-**Going:** 89 of 92
+**Where:** Lower East Side
+**Going:** 149
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/SH6BD91ODnGWa6TGY52P
-**Map:** https://www.google.com/maps/search/?api=1&query=180%20Orchard%20St%2C%20New%20York%2C%20NY%2010002
 
 ### Hosts on Partiful
 
@@ -67,10 +61,6 @@ This discussion will explore:
 For founders, investors, and operators, this is a conversation about where innovation is headed next, and how to stay ahead of it.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -5,39 +5,37 @@ date: 2026-06-03
 day: "Wednesday"
 start_time: "7:00pm ET"
 start_iso: "2026-06-03T23:00:00.000Z"
-host: "125 Ventures, Coeus Collective Ventures"
+host: "Coeus Collective Ventures, 125 Ventures"
 venue_name: "Heritage Grand Restaurant and Pizza Bar"
 venue_address: "8 W 40th St, New York, NY 10018"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/3Rk3nK0982QHPfnqh6tH"
 public_short_url: "https://go.partiful.com/q8jjvOGj"
 google_maps: "https://www.google.com/maps/search/?api=1&query=8%20W%2040th%20St%2C%20New%20York%2C%20NY%2010018"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FOSXT5FliwDUt8iw0yG7vHxtJJdx1%2F7XwTF3T8sG-5e5coZR_L4"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FOSXT5FliwDUt8iw0yG7vHxtJJdx1%2F7XwTF3T8sG-5e5coZR_L4?alt=media&token=c6d2f254-9e35-4efd-aa50-af6543f23ed4"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 213
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["OSXT5FliwDUt8iw0yG7vHxtJJdx1", "nNsAdQYFJhRrK3YCbyRx3SMvBKB2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 20
-remaining_capacity: 19
-total_guest_count: 213
-approved_guest_count: 1
-local_image: "images/3Rk3nK0982QHPfnqh6tH.png"
+remaining_capacity: 5
 canceled: false
+approved_guest_count: 15
+local_image: "images/3Rk3nK0982QHPfnqh6tH.png"
 ---
 
 # Sports, Media & Entertainment Tech Dinner
 
 ![Sports, Media & Entertainment Tech Dinner](images/3Rk3nK0982QHPfnqh6tH.png)
 
-**Hosts:** 125 Ventures, Coeus Collective Ventures  _(+1 more host(s) on Partiful — see description for full list)_
+**Hosts:** Coeus Collective Ventures, 125 Ventures  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 7:00pm ET
 **Where:** Heritage Grand Restaurant and Pizza Bar · 8 W 40th St, New York, NY 10018 · Midtown
-**Capacity:** capped at 20 · 1 taken, 19 remaining
+**Capacity:** capped at 20 · 15 taken, 5 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/3Rk3nK0982QHPfnqh6tH
 **Map:** https://www.google.com/maps/search/?api=1&query=8%20W%2040th%20St%2C%20New%20York%2C%20NY%2010018
@@ -66,10 +64,6 @@ This a curated event, and thus you must have your RSVP request accepted to atten
 Disclaimer: By registering for this event, you agree to receive occasional emails from the organizers, including our newsletters and updates about future events. You can unsubscribe at any time.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

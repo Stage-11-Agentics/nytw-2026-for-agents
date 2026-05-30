@@ -11,21 +11,20 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/wqueNyka7qksh4pd6DTb"
 public_short_url: "https://go.partiful.com/LtIiJH7J"
 google_maps: "https://www.google.com/maps/search/?api=1&query=1460%20Broadway%2C%20New%20York%2C%20NY%2010036"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F5kGBfOiltAQ4KZ5MpGaGiDfZYVU2%2FcASLZH-N6lP5A_n58nHf6"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F5kGBfOiltAQ4KZ5MpGaGiDfZYVU2%2FcASLZH-N6lP5A_n58nHf6?alt=media&token=0692df57-fce9-4883-bf5c-9920d1910b42"
 visibility: "public"
 at_capacity: true
-going_guest_count: 20
+going_guest_count: 33
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["5kGBfOiltAQ4KZ5MpGaGiDfZYVU2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
-max_capacity: 20
+max_capacity: 33
 remaining_capacity: 0
-total_guest_count: 113
+canceled: false
 approved_guest_count: 0
 local_image: "images/wqueNyka7qksh4pd6DTb.jpg"
-canceled: false
 ---
 
 # AI → Alpha: How Data Becomes Investment Edge
@@ -35,7 +34,7 @@ canceled: false
 **Hosts:** Wind Information  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:00pm ET
 **Where:** 1460 Broadway, New York, NY 10036 · Midtown
-**Capacity:** capped at 20 · 20 taken, 0 remaining · ⚠ **FULL**
+**Capacity:** capped at 33 · 33 taken, 0 remaining · ⚠ **FULL**
 **Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/wqueNyka7qksh4pd6DTb
 **Map:** https://www.google.com/maps/search/?api=1&query=1460%20Broadway%2C%20New%20York%2C%20NY%2010036
@@ -67,10 +66,6 @@ Who should attend
 • Data & AI professionals in finance
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

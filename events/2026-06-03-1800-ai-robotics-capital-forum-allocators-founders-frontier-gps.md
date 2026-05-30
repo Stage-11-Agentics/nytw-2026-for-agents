@@ -14,20 +14,17 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/XFVFlVvd7oHLoxAu8IkK"
 public_short_url: "https://go.partiful.com/R34xyJK0"
 google_maps: "https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fma3QmNXUhAWcSVguecbki3BTj8j2%2FuaEDYAL0-QHa6LHUTt-GT"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Fma3QmNXUhAWcSVguecbki3BTj8j2%2FuaEDYAL0-QHa6LHUTt-GT?alt=media&token=9f24f00e-9ef5-48d2-9cd1-07cca617a374"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 123
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["7TCXhM9ALXUn0TWMJXppGMX3TA03", "7DFu4rITofNzKIjA7hCx", "a1GKjjab4cggFRHkKDBzItFFg2T2", "ma3QmNXUhAWcSVguecbki3BTj8j2"]
 is_capped: false
-total_guest_count: 128
-approved_guest_count: 5
-local_image: "images/XFVFlVvd7oHLoxAu8IkK.png"
 canceled: false
+local_image: "images/XFVFlVvd7oHLoxAu8IkK.png"
 ---
 
 # AI & Robotics Capital Forum - Allocators, Founders & Frontier GPs
@@ -37,7 +34,6 @@ canceled: false
 **Hosts:** Geek Ventures  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–9:00pm ET
 **Where:** Midtown · Midtown, Manhattan, New York, NY · Midtown
-**Going:** 123 of 128
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/XFVFlVvd7oHLoxAu8IkK
 **Map:** https://www.google.com/maps/search/?api=1&query=Midtown%2C%20Midtown%2C%20Manhattan%2C%20New%20York%2C%20NY
@@ -69,10 +65,6 @@ Important:
 GPs are welcome with an allocator or LP guest. Priority access is given to family offices and institutional investors.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

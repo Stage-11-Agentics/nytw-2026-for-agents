@@ -6,26 +6,21 @@ day: "Thursday"
 start_time: "8:00am ET"
 start_iso: "2026-06-04T12:00:00.000Z"
 host: "a16z, Sequence, Thompson"
-venue_name: "Central Park"
-venue_address: "New York, NY 10028"
 neighborhood: "Central Park"
 rsvp_url: "https://partiful.com/e/KMSWRIxZnOswbjCUdFLI"
 public_short_url: "https://go.partiful.com/jmiV5pqW"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Central%20Park%2C%20New%20York%2C%20NY%2010028"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FbxP1rSBK2xYGrvMiWILHTJF9xlT2%2FObF1AUtshdtjGcMhIqRbO"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FbxP1rSBK2xYGrvMiWILHTJF9xlT2%2FObF1AUtshdtjGcMhIqRbO?alt=media&token=08006520-2a9e-40c4-9d3d-b6af8b954423"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 126
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["bxP1rSBK2xYGrvMiWILHTJF9xlT2", "7DFu4rITofNzKIjA7hCx", "aV0aBzQPhZV5fmuaqeIn16nZq4v2"]
 is_capped: false
-total_guest_count: 129
-approved_guest_count: 25
-local_image: "images/KMSWRIxZnOswbjCUdFLI.png"
 canceled: false
+approved_guest_count: 44
+local_image: "images/KMSWRIxZnOswbjCUdFLI.png"
 ---
 
 # a16z + Sequence + Thomson Group Ride: Watts & Multiples
@@ -34,11 +29,10 @@ canceled: false
 
 **Hosts:** a16z, Sequence, Thompson
 **When:** Thursday, June 4, 2026 · 8:00am ET
-**Where:** Central Park · New York, NY 10028 · Central Park
-**Going:** 126 of 129
+**Where:** Central Park
+**Going:** 44
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/KMSWRIxZnOswbjCUdFLI
-**Map:** https://www.google.com/maps/search/?api=1&query=Central%20Park%2C%20New%20York%2C%20NY%2010028
 
 ### Hosts on Partiful
 
@@ -61,10 +55,6 @@ Our plan is to split into two groups with laps around the Central Park (before s
 - Ride 2: Social Ride with Thomson / Pace 15+ mph average - 2 laps
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

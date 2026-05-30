@@ -11,20 +11,17 @@ host: "Collinear Capital"
 neighborhood: "East Village"
 rsvp_url: "https://partiful.com/e/KdLa1WJ6PlhHPaaWJKgJ"
 public_short_url: "https://go.partiful.com/f9iEz9w2"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FfnDBe1wRR0eqJUmr0WzHECC8xkw2%2F7s_KnVk57ORT5NXFNwQ6P"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FfnDBe1wRR0eqJUmr0WzHECC8xkw2%2F7s_KnVk57ORT5NXFNwQ6P?alt=media&token=6203c9e1-198e-41f1-8443-dea12fa9638a"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 89
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["qZjONzXmFseI1IwExXskGbfqn9f1", "7DFu4rITofNzKIjA7hCx", "fnDBe1wRR0eqJUmr0WzHECC8xkw2", "jrNXgkbx0oQZBTftdfOSycQaW1G2"]
 is_capped: false
-total_guest_count: 90
-approved_guest_count: 46
-local_image: "images/KdLa1WJ6PlhHPaaWJKgJ.png"
 canceled: false
+local_image: "images/KdLa1WJ6PlhHPaaWJKgJ.png"
 ---
 
 # Venture Capital for enterprise leaders Happy Hour
@@ -34,7 +31,6 @@ canceled: false
 **Hosts:** Collinear Capital  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Thursday, June 4, 2026 · 6:00pm–8:00pm ET
 **Where:** East Village
-**Going:** 89 of 90
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/KdLa1WJ6PlhHPaaWJKgJ
 
@@ -63,10 +59,6 @@ Collinear Capital brings to bear the collective expertise of its community of co
 Find out more about how we work with consultants, technologists, and enterprise leaders at collinearcapital.vc
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -7,36 +7,34 @@ start_time: "5:00pm ET"
 end_time: "8:00pm ET"
 start_iso: "2026-06-03T21:00:00.000Z"
 end_iso: "2026-06-04T00:00:00.000Z"
-host: "Atlassian, AI Collective"
+host: "The AI Collective, Atlassian"
 neighborhood: "Union Square"
 rsvp_url: "https://partiful.com/e/WDfboGXhdigeIntfwsNW"
 public_short_url: "https://go.partiful.com/fPblm17V"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FinRGIWKbozapKAhdOnaHELRzHrf2%2FhqmdDVi1vqttSFWo135K9"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FjXUrflNbfiYNoZmzowY99zAs9sf2%2Fv88qBFPzyrlyFamshiHiq?alt=media&token=e141c77a-c34a-40c2-9b55-cbcca62c7863"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 310
 badges: []
 fetch_status: ok
-owner_count: 5
-owner_ids: ["inRGIWKbozapKAhdOnaHELRzHrf2", "7DFu4rITofNzKIjA7hCx", "OJpFjrrrkDaJ73TsKZLuhc83c1u1", "I8NFZ8RrRbOlaSo9eYOZ", "S6VsoMffZTRrV6ErYoQaUM4ol3m1"]
+owner_count: 7
+owner_ids: ["inRGIWKbozapKAhdOnaHELRzHrf2", "7DFu4rITofNzKIjA7hCx", "OJpFjrrrkDaJ73TsKZLuhc83c1u1", "I8NFZ8RrRbOlaSo9eYOZ", "S6VsoMffZTRrV6ErYoQaUM4ol3m1", "jXUrflNbfiYNoZmzowY99zAs9sf2", "sfo7ktVQeXMoLv46c9fGSxnOolQ2"]
 is_capped: true
-max_capacity: 75
-remaining_capacity: 27
-total_guest_count: 315
-approved_guest_count: 48
-local_image: "images/WDfboGXhdigeIntfwsNW.png"
+max_capacity: 150
+remaining_capacity: 63
 canceled: false
+approved_guest_count: 87
+local_image: "images/WDfboGXhdigeIntfwsNW.png"
 ---
 
 # AI Collective Demo Night
 
 ![AI Collective Demo Night](images/WDfboGXhdigeIntfwsNW.png)
 
-**Hosts:** Atlassian, AI Collective  _(+3 more host(s) on Partiful — see description for full list)_
+**Hosts:** The AI Collective, Atlassian  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 5:00pm–8:00pm ET
 **Where:** Union Square
-**Capacity:** capped at 75 · 48 taken, 27 remaining
+**Capacity:** capped at 150 · 87 taken, 63 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/WDfboGXhdigeIntfwsNW
 
@@ -47,6 +45,8 @@ canceled: false
 atlassian.com/startups_
 - [Adam Gilleland](https://partiful.com/u/I8NFZ8RrRbOlaSo9eYOZ) — _Product Marketing @ Atlassian for Startups_
 - [Paula McMahon](https://partiful.com/u/S6VsoMffZTRrV6ErYoQaUM4ol3m1)
+- [The AI Collective](https://partiful.com/u/jXUrflNbfiYNoZmzowY99zAs9sf2) — _The world’s largest AI community: 250,000+ pioneers exploring the technological frontier. We are the human side of AI._
+- [Freddy Brito](https://partiful.com/u/sfo7ktVQeXMoLv46c9fGSxnOolQ2)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -83,10 +83,6 @@ AI Collective's Demo Night brings together the best minds in AI for an evening o
 ​​Unfortunately, space is very limited at these community events and we can not always accept everyone we would like to. If you are not accepted to this event, please keep applying! We appreciate your application tremendously and we are looking forward to seeing you at a future event very soon!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

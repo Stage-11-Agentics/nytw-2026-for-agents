@@ -8,26 +8,21 @@ end_time: "5:00pm ET"
 start_iso: "2026-06-02T13:00:00.000Z"
 end_iso: "2026-06-02T21:00:00.000Z"
 host: "Tavily AI, Microsoft"
-venue_name: "Microsoft Research Lab"
-venue_address: "300 Lafayette St, New York, NY 10012"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/yZ0XKuQUzUUArbmiCNh5"
 public_short_url: "https://go.partiful.com/jmR0TjsI"
-google_maps: "https://www.google.com/maps/search/?api=1&query=300%20Lafayette%20St%2C%20New%20York%2C%20NY%2010012"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F1BP7bszmiLZBK9thhgaVd16Pu532%2Fx7pmuImnB2i6Dyo7utHOe"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2F1BP7bszmiLZBK9thhgaVd16Pu532%2Fx7pmuImnB2i6Dyo7utHOe?alt=media&token=a0b34da1-5d72-42db-9521-ee65e6e32f0c"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 387
 badges: []
 fetch_status: ok
 owner_count: 6
 owner_ids: ["64JYOa64QjXp9L1GicW02t0QHZF3", "7DFu4rITofNzKIjA7hCx", "8pTQBTDs9FfsDN8opizRj8ZKXeg1", "fEDrl39A2sapOZdqlQS4xKtu0Qj1", "S1H1mharW8TawdbQkeTUJvYMiHP2", "1BP7bszmiLZBK9thhgaVd16Pu532"]
 is_capped: false
-total_guest_count: 397
-approved_guest_count: 184
-local_image: "images/yZ0XKuQUzUUArbmiCNh5.jpg"
 canceled: false
+approved_guest_count: 318
+local_image: "images/yZ0XKuQUzUUArbmiCNh5.jpg"
 ---
 
 # Agentic Commerce: Build Day
@@ -36,11 +31,10 @@ canceled: false
 
 **Hosts:** Tavily AI, Microsoft  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 9:00am–5:00pm ET
-**Where:** Microsoft Research Lab · 300 Lafayette St, New York, NY 10012 · SoHo
-**Going:** 387 of 397
+**Where:** SoHo
+**Going:** 318
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/yZ0XKuQUzUUArbmiCNh5
-**Map:** https://www.google.com/maps/search/?api=1&query=300%20Lafayette%20St%2C%20New%20York%2C%20NY%2010012
 
 ### Hosts on Partiful
 
@@ -100,10 +94,6 @@ Hosted by Microsoft in collaboration with Tavily and Coinbase.
 ​🎟️ RSVP
 
 ​Spots are limited. Apply early to secure your place.
-
-
-
-
 
 
 

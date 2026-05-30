@@ -7,39 +7,32 @@ start_time: "9:00am ET"
 end_time: "10:00am ET"
 start_iso: "2026-06-03T13:00:00.000Z"
 end_iso: "2026-06-03T14:00:00.000Z"
-host: "Fonzi AI, Venture Sails"
-venue_address: "25 Kent Ave, Brooklyn, NY 11249"
+host: "Venture Sails, Fonzi AI"
 neighborhood: "Brooklyn"
 rsvp_url: "https://partiful.com/e/ljR8QfU0ZrVOSiE6diIr"
 public_short_url: "https://go.partiful.com/sjqU2H9g"
-google_maps: "https://www.google.com/maps/search/?api=1&query=25%20Kent%20Ave%2C%20Brooklyn%2C%20NY%2011249"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FlSJ6LIJElBVKPQ3p4KtEUzKR6F63%2Fiqffx0_nWDisp36GyA6LD"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FlSJ6LIJElBVKPQ3p4KtEUzKR6F63%2Fiqffx0_nWDisp36GyA6LD?alt=media&token=2c2179a7-7ea0-4d2c-9e42-63bbcb875cc2"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 2165
 badges: []
 fetch_status: ok
 owner_count: 5
 owner_ids: ["ve5mdx9JIcTY4QwLoDZ0OaQMJI62", "7DFu4rITofNzKIjA7hCx", "lSJ6LIJElBVKPQ3p4KtEUzKR6F63", "V94duEAXsCebnFnaviw1aev1oPl1", "5y2fL1FByaddvzOo3LVBDjJrxZ52"]
 is_capped: false
-total_guest_count: 2176
-approved_guest_count: 179
-local_image: "images/ljR8QfU0ZrVOSiE6diIr.png"
 canceled: false
+local_image: "images/ljR8QfU0ZrVOSiE6diIr.png"
 ---
 
 # VentureSails Breakfast
 
 ![VentureSails Breakfast](images/ljR8QfU0ZrVOSiE6diIr.png)
 
-**Hosts:** Fonzi AI, Venture Sails  _(+3 more host(s) on Partiful — see description for full list)_
+**Hosts:** Venture Sails, Fonzi AI  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 9:00am–10:00am ET
-**Where:** 25 Kent Ave, Brooklyn, NY 11249 · Brooklyn
-**Going:** 2165 of 2176
+**Where:** Brooklyn
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ljR8QfU0ZrVOSiE6diIr
-**Map:** https://www.google.com/maps/search/?api=1&query=25%20Kent%20Ave%2C%20Brooklyn%2C%20NY%2011249
 
 ### Hosts on Partiful
 
@@ -77,10 +70,6 @@ Spots are limited and we curate every room with care. Request to join below. If 
 
 🫡 THE OFFICIAL BIT:
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

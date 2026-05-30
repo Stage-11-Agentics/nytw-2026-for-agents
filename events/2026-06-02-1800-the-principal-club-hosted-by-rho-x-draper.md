@@ -8,26 +8,21 @@ end_time: "8:00pm ET"
 start_iso: "2026-06-02T22:00:00.000Z"
 end_iso: "2026-06-03T00:00:00.000Z"
 host: "Rho, Draper"
-venue_name: "Grey Lady"
-venue_address: "77 Delancey St, New York, NY 10002"
 neighborhood: "East Village"
 rsvp_url: "https://partiful.com/e/rlRAQPlPid3iy9JOVTRs"
 public_short_url: "https://go.partiful.com/zIn2wcNX"
-google_maps: "https://www.google.com/maps/search/?api=1&query=77%20Delancey%20St%2C%20New%20York%2C%20NY%2010002"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FfbGzDRIjrjMmgnG6GZZpaBu41Tb2%2FSr79P4RkOS0slpN-7-0fY"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FfbGzDRIjrjMmgnG6GZZpaBu41Tb2%2FSr79P4RkOS0slpN-7-0fY?alt=media&token=435471ab-2b44-4ef5-965e-8aec18907862"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 257
 badges: []
 fetch_status: ok
 owner_count: 4
 owner_ids: ["fbGzDRIjrjMmgnG6GZZpaBu41Tb2", "FtzXc6MouWQNyZVS0SOcJ8VL7cN2", "pBNRc5XNDbPFiWl7I3Qq7M5sSfo2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 260
-approved_guest_count: 122
-local_image: "images/rlRAQPlPid3iy9JOVTRs.png"
 canceled: false
+approved_guest_count: 146
+local_image: "images/rlRAQPlPid3iy9JOVTRs.png"
 ---
 
 # The Principal Club [Hosted by Rho x Draper]
@@ -36,11 +31,10 @@ canceled: false
 
 **Hosts:** Rho, Draper  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–8:00pm ET
-**Where:** Grey Lady · 77 Delancey St, New York, NY 10002 · East Village
-**Going:** 257 of 260
+**Where:** East Village
+**Going:** 146
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/rlRAQPlPid3iy9JOVTRs
-**Map:** https://www.google.com/maps/search/?api=1&query=77%20Delancey%20St%2C%20New%20York%2C%20NY%2010002
 
 ### Hosts on Partiful
 
@@ -68,10 +62,6 @@ This event is a part of #NYTechWeek—a week of events hosted by VCs and startup
 
 
 🌟 If you are a Principal / Senior Associate and have not yet been accepted into The Principal Club yet, please apply here: https://9m54pmmw1pd.typeform.com/principalclub
-
-
-
-
 
 
 

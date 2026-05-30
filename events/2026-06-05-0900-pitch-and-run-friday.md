@@ -6,37 +6,33 @@ day: "Friday"
 start_time: "9:00am ET"
 start_iso: "2026-06-05T13:00:00.000Z"
 host: "Pitch and Run"
-venue_address: "62 Chelsea Piers, New York, NY 10011"
 neighborhood: "Chelsea"
 rsvp_url: "https://partiful.com/e/h1cWOUaSCLmevpgdttai"
 public_short_url: "https://go.partiful.com/B3noMZ86"
-google_maps: "https://www.google.com/maps/search/?api=1&query=62%20Chelsea%20Piers%2C%20New%20York%2C%20NY%2010011"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2Fxzvn0sbT5jTcOgtlWgfIPpkeCQA3%2FZeOZggL0CTXc_cK6VovCa"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2Fxzvn0sbT5jTcOgtlWgfIPpkeCQA3%2FZeOZggL0CTXc_cK6VovCa?alt=media&token=cf46bc37-0fbe-46ae-859a-cb902e4d36ef"
 visibility: "public"
 guest_action: "RSVP"
 at_capacity: false
-going_guest_count: 45
+going_guest_count: 89
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["xzvn0sbT5jTcOgtlWgfIPpkeCQA3", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 48
+canceled: false
 approved_guest_count: 0
 image_download_error: "HTTP Error 403: Forbidden"
-canceled: false
 ---
 
 # Pitch and Run Friday
 
-![Pitch and Run Friday](https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2Fxzvn0sbT5jTcOgtlWgfIPpkeCQA3%2FZeOZggL0CTXc_cK6VovCa)
+![Pitch and Run Friday](https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/user%2Fxzvn0sbT5jTcOgtlWgfIPpkeCQA3%2FZeOZggL0CTXc_cK6VovCa?alt=media&token=cf46bc37-0fbe-46ae-859a-cb902e4d36ef)
 
 **Hosts:** Pitch and Run  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 9:00am ET
-**Where:** 62 Chelsea Piers, New York, NY 10011 · Chelsea
-**Going:** 45 of 48
+**Where:** Chelsea
+**Going:** 89
 **RSVP:** https://partiful.com/e/h1cWOUaSCLmevpgdttai
-**Map:** https://www.google.com/maps/search/?api=1&query=62%20Chelsea%20Piers%2C%20New%20York%2C%20NY%2010011
 
 ### Hosts on Partiful
 
@@ -57,10 +53,6 @@ Run 4.5 Miles down WSH and back https://www.strava.com/routes/304616978043334129
 Coffee after
 
 Pitch and Run was founded to make it easy for founders to connect with Angels and VCs without the pressure of a pitch meeting and to allow founders and startup employees to connect. Many companies have raised their round, found customers, and met their co-founders, and even found jobs from connections made at Pitch and Run
-
-
-
-
 
 
 

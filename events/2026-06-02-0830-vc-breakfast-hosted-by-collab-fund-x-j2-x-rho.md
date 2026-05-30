@@ -8,26 +8,21 @@ end_time: "11:30am ET"
 start_iso: "2026-06-02T12:30:00.000Z"
 end_iso: "2026-06-02T15:30:00.000Z"
 host: "J2 Ventures, Rho, Collab Fund"
-venue_name: "Creatures Rooftop"
-venue_address: "518 W 27th St, New York, NY 10001"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/W1pVUsH2vjwnOsmqM7QT"
 public_short_url: "https://go.partiful.com/oamotXGp"
-google_maps: "https://www.google.com/maps/search/?api=1&query=518%20W%2027th%20St%2C%20New%20York%2C%20NY%2010001"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FfbGzDRIjrjMmgnG6GZZpaBu41Tb2%2FKaFPuOFYUo6iUVO2WTs9T"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FfbGzDRIjrjMmgnG6GZZpaBu41Tb2%2FKaFPuOFYUo6iUVO2WTs9T?alt=media&token=5019f127-2dab-4143-86c3-d36d916f894f"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 156
 badges: []
 fetch_status: ok
 owner_count: 6
 owner_ids: ["fbGzDRIjrjMmgnG6GZZpaBu41Tb2", "7DFu4rITofNzKIjA7hCx", "NsNvNrDG8fGPq1jPShF4", "Td2XfvkO8bRFLvpilYDApHpw2TB2", "KtbYtWz3ByO6TXZUHiamJYxaycu1", "FtzXc6MouWQNyZVS0SOcJ8VL7cN2"]
 is_capped: false
-total_guest_count: 164
-approved_guest_count: 11
-local_image: "images/W1pVUsH2vjwnOsmqM7QT.png"
 canceled: false
+approved_guest_count: 86
+local_image: "images/W1pVUsH2vjwnOsmqM7QT.png"
 ---
 
 # VC Breakfast [Hosted by Collab Fund x J2 x Rho]
@@ -36,11 +31,10 @@ canceled: false
 
 **Hosts:** J2 Ventures, Rho, Collab Fund  _(+3 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 8:30am–11:30am ET
-**Where:** Creatures Rooftop · 518 W 27th St, New York, NY 10001 · Flatiron
-**Going:** 156 of 164
+**Where:** Flatiron
+**Going:** 86
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/W1pVUsH2vjwnOsmqM7QT
-**Map:** https://www.google.com/maps/search/?api=1&query=518%20W%2027th%20St%2C%20New%20York%2C%20NY%2010001
 
 ### Hosts on Partiful
 
@@ -67,10 +61,6 @@ Collab Fund's mission is to identify and support companies that live at the inte
 ​​​​Rho is a fintech company, not a bank. Checking and card services are provided by Webster Bank, N.A., member FDIC; savings account services are provided by American Deposit Management Co. and its partner banks.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

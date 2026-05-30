@@ -17,16 +17,14 @@ image: "https://assets.getpartiful.com/posters/tech_week_20250218"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 183
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["KyHD8bGnbvr19XpFt8c7", "7DFu4rITofNzKIjA7hCx", "wyLRyhNpJKSVnASSpeLvgyDxLC22"]
 is_capped: false
-total_guest_count: 187
-approved_guest_count: 0
-local_image: "images/ueVqfll5t78q0RIaZosC.png"
 canceled: false
+approved_guest_count: 109
+local_image: "images/ueVqfll5t78q0RIaZosC.png"
 ---
 
 # AI in Construction
@@ -36,7 +34,7 @@ canceled: false
 **Hosts:** Adaptive  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Wednesday, June 3, 2026 · 6:00pm–8:30pm ET
 **Where:** 200 Park Ave S, New York, NY 10003 · Union Square
-**Going:** 183 of 187
+**Going:** 109
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/ueVqfll5t78q0RIaZosC
 **Map:** https://www.google.com/maps/search/?api=1&query=200%20Park%20Ave%20S%2C%20New%20York%2C%20NY%2010003
@@ -68,10 +66,6 @@ Panel followed by drinks, networking, and conversation with founders, operators,
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

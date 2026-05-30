@@ -11,20 +11,17 @@ host: "Deel, Betterment"
 neighborhood: "Hudson Yards"
 rsvp_url: "https://partiful.com/e/Lzs3GJd3dscd60ZHfliX"
 public_short_url: "https://go.partiful.com/tlFE33zP"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FkIxlvv5RQfQs5Zv1WjLQBcaRbAw2%2FOI0BMLLlFLg4cKTkXLF_l"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FkIxlvv5RQfQs5Zv1WjLQBcaRbAw2%2FOI0BMLLlFLg4cKTkXLF_l?alt=media&token=5f75f996-fdf1-4b12-847d-251c0589cb97"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 456
 badges: []
 fetch_status: ok
 owner_count: 7
 owner_ids: ["l1hKX68uH7hDeYHw03V02u0jkA93", "mNFDOvxDQCNF0dZoBzDZc0kA1p03", "7DFu4rITofNzKIjA7hCx", "Fm72xABwlaOT9rs8GnNqlHqlAqq2", "kIxlvv5RQfQs5Zv1WjLQBcaRbAw2", "BaCBVcO1aIjk4A3X4h8H", "xhqyGkVu6tX8ch1RfRNR8PyyWun2"]
 is_capped: false
-total_guest_count: 463
-approved_guest_count: 151
-local_image: "images/Lzs3GJd3dscd60ZHfliX.png"
 canceled: false
+local_image: "images/Lzs3GJd3dscd60ZHfliX.png"
 ---
 
 # Founders' Landing, Tech Week Kickoff
@@ -34,7 +31,6 @@ canceled: false
 **Hosts:** Deel, Betterment  _(+5 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 4:00pm–6:00pm ET
 **Where:** Hudson Yards
-**Going:** 456 of 463
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/Lzs3GJd3dscd60ZHfliX
 
@@ -64,10 +60,6 @@ This event is a part of #NYTechWeek—a week of events hosted by VCs and startup
 This event is presented by Betterment, Deel & DealMaker. 
 
 Want to learn more about Deel? Get in touch here and https://www.deel.com/partners/a16ztechweek/
-
-
-
-
 
 
 

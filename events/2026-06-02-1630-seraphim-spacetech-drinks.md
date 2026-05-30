@@ -8,45 +8,38 @@ end_time: "7:30pm ET"
 start_iso: "2026-06-02T20:30:00.000Z"
 end_iso: "2026-06-02T23:30:00.000Z"
 host: "Seraphim Space, Crowell & Moring"
-venue_name: "Crowell & Moring LLP"
-venue_address: "153 E 53rd St, New York, NY 10022"
 neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/NEACQLRcBvDYbv4ERCaW"
 public_short_url: "https://go.partiful.com/Lpo3yKVQ"
-google_maps: "https://www.google.com/maps/search/?api=1&query=153%20E%2053rd%20St%2C%20New%20York%2C%20NY%2010022"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FLNX6FH857cdOjlFjHcfLP4id3XW2%2F0lAmSZBIEvgAEWyxld788"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FLNX6FH857cdOjlFjHcfLP4id3XW2%2F0lAmSZBIEvgAEWyxld788?alt=media&token=193139d9-8b66-4ef4-a532-426fa04857a4"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 378
 badges: []
 fetch_status: ok
-owner_count: 2
-owner_ids: ["LNX6FH857cdOjlFjHcfLP4id3XW2", "7DFu4rITofNzKIjA7hCx"]
+owner_count: 3
+owner_ids: ["LNX6FH857cdOjlFjHcfLP4id3XW2", "7DFu4rITofNzKIjA7hCx", "Y8AERMeTDsQKQVkVJSphHv6xjWA2"]
 is_capped: true
 max_capacity: 120
-remaining_capacity: 69
-total_guest_count: 381
-approved_guest_count: 51
-local_image: "images/NEACQLRcBvDYbv4ERCaW.png"
 canceled: false
+local_image: "images/NEACQLRcBvDYbv4ERCaW.png"
 ---
 
 # Seraphim SpaceTech Drinks
 
 ![Seraphim SpaceTech Drinks](images/NEACQLRcBvDYbv4ERCaW.png)
 
-**Hosts:** Seraphim Space, Crowell & Moring
+**Hosts:** Seraphim Space, Crowell & Moring  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:30pm–7:30pm ET
-**Where:** Crowell & Moring LLP · 153 E 53rd St, New York, NY 10022 · Midtown
-**Capacity:** capped at 120 · 51 taken, 69 remaining
+**Where:** Midtown
+**Capacity:** capped at 120
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/NEACQLRcBvDYbv4ERCaW
-**Map:** https://www.google.com/maps/search/?api=1&query=153%20E%2053rd%20St%2C%20New%20York%2C%20NY%2010022
 
 ### Hosts on Partiful
 
 - [Ellie Gyaurova](https://partiful.com/u/LNX6FH857cdOjlFjHcfLP4id3XW2)
+- [Freda](https://partiful.com/u/Y8AERMeTDsQKQVkVJSphHv6xjWA2)
 - _(plus Partiful platform admin `7DFu4rITofNzKIjA7hCx` — auto-added to most events)_
 
 
@@ -64,10 +57,6 @@ Space is limited and registrations will be reviewed and approved.
 
 
 This event is a part of NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

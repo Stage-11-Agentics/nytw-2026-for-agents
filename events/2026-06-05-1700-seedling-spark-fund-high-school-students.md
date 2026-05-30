@@ -6,26 +6,24 @@ day: "Friday"
 start_time: "5:00pm ET"
 start_iso: "2026-06-05T21:00:00.000Z"
 host: "Yalla Now AI - High School Students"
-venue_name: "SoHo"
-venue_address: "SoHo, Manhattan, New York, NY"
+venue_name: "Battery Park City"
+venue_address: "Battery Park City, Manhattan, New York, NY"
 neighborhood: "SoHo"
 rsvp_url: "https://partiful.com/e/S0qnVAP4oH8tNJYQeU8J"
 public_short_url: "https://go.partiful.com/H1T7Ihme"
-google_maps: "https://www.google.com/maps/search/?api=1&query=SoHo%2C%20SoHo%2C%20Manhattan%2C%20New%20York%2C%20NY"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FbqIWzbaPt4QdpDjDyFOBrZl2bBG2%2FELIMDqedxFl6IFSHlhvjO"
+google_maps: "https://www.google.com/maps/search/?api=1&query=Battery%20Park%20City%2C%20Battery%20Park%20City%2C%20Manhattan%2C%20New%20York%2C%20NY"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FbqIWzbaPt4QdpDjDyFOBrZl2bBG2%2FZtOzoHxZSRv3AWH0w17mI?alt=media&token=0b1e57d4-5684-4ce0-8493-cc8d151356bb"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 34
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["bqIWzbaPt4QdpDjDyFOBrZl2bBG2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 34
-approved_guest_count: 32
-local_image: "images/S0qnVAP4oH8tNJYQeU8J.jpg"
 canceled: false
+approved_guest_count: 67
+local_image: "images/S0qnVAP4oH8tNJYQeU8J.jpg"
 ---
 
 # Seedling Spark Fund - High School Students
@@ -34,11 +32,11 @@ canceled: false
 
 **Hosts:** Yalla Now AI - High School Students  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 5:00pm ET
-**Where:** SoHo · SoHo, Manhattan, New York, NY · SoHo
-**Going:** 34
+**Where:** Battery Park City · Battery Park City, Manhattan, New York, NY · SoHo
+**Going:** 67
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/S0qnVAP4oH8tNJYQeU8J
-**Map:** https://www.google.com/maps/search/?api=1&query=SoHo%2C%20SoHo%2C%20Manhattan%2C%20New%20York%2C%20NY
+**Map:** https://www.google.com/maps/search/?api=1&query=Battery%20Park%20City%2C%20Battery%20Park%20City%2C%20Manhattan%2C%20New%20York%2C%20NY
 
 ### Hosts on Partiful
 
@@ -51,10 +49,6 @@ canceled: false
 A gathering of aspiring high school entrepreneurs that want to come together under innovation and bring their ideas to life using AI tools. Will also have Wharton MBA students and an advising entrepreneur to provide guidance.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

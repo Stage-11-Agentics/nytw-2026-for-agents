@@ -11,22 +11,20 @@ host: "Hinge"
 neighborhood: "Meatpacking District"
 rsvp_url: "https://partiful.com/e/WZRB36bFpwMiawawUMD5"
 public_short_url: "https://go.partiful.com/KhfEBmcP"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FbjHH9hyLBAlseoffkqVZ%2FSBXYMBOg3G4ywK2ixfZkX"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FbjHH9hyLBAlseoffkqVZ%2FSBXYMBOg3G4ywK2ixfZkX?alt=media&token=4a61ba16-ee40-4d55-a956-a4e173ab6eec"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 231
 badges: []
 fetch_status: ok
 owner_count: 5
 owner_ids: ["bjHH9hyLBAlseoffkqVZ", "7DFu4rITofNzKIjA7hCx", "Gi8eOywGJtZjiVdyCqUXZTVw7e12", "Ai15NXvcVCgFwmiFkffU9rh21Cv2", "8tcmlt8UsfhmezhkJDMWO0jOuGp2"]
 is_capped: true
 max_capacity: 75
-remaining_capacity: 26
-total_guest_count: 234
-approved_guest_count: 49
-local_image: "images/WZRB36bFpwMiawawUMD5.png"
+remaining_capacity: 9
 canceled: false
+approved_guest_count: 66
+local_image: "images/WZRB36bFpwMiawawUMD5.png"
 ---
 
 # Beyond the Match: Systems That Power Hinge
@@ -36,7 +34,7 @@ canceled: false
 **Hosts:** Hinge  _(+4 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 5:30pm–8:00pm ET
 **Where:** Meatpacking District
-**Capacity:** capped at 75 · 49 taken, 26 remaining
+**Capacity:** capped at 75 · 66 taken, 9 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/WZRB36bFpwMiawawUMD5
 
@@ -51,17 +49,13 @@ canceled: false
 
 ## Description
 
-As part of NY Tech Week, Hinge is opening its doors for an evening of conversation, connection, and real engineering insight. Join us for a series of talks from Hinge engineers exploring how we’re building and scaling the systems behind modern matchmaking, from recommender systems to machine learning in production.
+As part of NY Tech Week, Hinge is hosting an evening of conversation, connection, and real engineering insight. Join us for a series of talks from Hinge engineers exploring how we’re building and scaling the systems behind modern matchmaking, from recommender systems to machine learning in production.
 
 After the talks, stay for drinks, light bites, and the chance to connect with a curated group of engineers, builders, and the Hinge team! 
 
 Whether you're building, designing, leading, or simply curious about the intersection of technology and human connection, we’d love to see you there.
 
 This event is a part of #NYTechWeek-a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

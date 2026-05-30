@@ -13,21 +13,20 @@ neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/4WmNb227JLOKmvufTsET"
 public_short_url: "https://go.partiful.com/HEoNAsAw"
 google_maps: "https://www.google.com/maps/search/?api=1&query=15%20W%2018th%20St%2C%20New%20York%2C%20NY%2010011"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FQI7p5iuvmlMwdjQhm8appWbG0012%2F5POOUvAU6uQg3VgQq4k4W"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FQI7p5iuvmlMwdjQhm8appWbG0012%2F5POOUvAU6uQg3VgQq4k4W?alt=media&token=dbd92277-0fb3-453c-839a-5dd041a6e1f4"
 visibility: "public"
-at_capacity: false
-going_guest_count: 53
+at_capacity: true
+going_guest_count: 70
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["QI7p5iuvmlMwdjQhm8appWbG0012", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 70
-remaining_capacity: 16
-total_guest_count: 63
+remaining_capacity: 0
+canceled: false
 approved_guest_count: 0
 local_image: "images/4WmNb227JLOKmvufTsET.png"
-canceled: false
 ---
 
 # Good retrieval = good agents hackathon
@@ -37,7 +36,8 @@ canceled: false
 **Hosts:** Shaped  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 6:00pm–9:00pm ET
 **Where:** 15 W 18th St, New York, NY 10011 · Flatiron
-**Capacity:** capped at 70 · 54 taken, 16 remaining
+**Capacity:** capped at 70 · 70 taken, 0 remaining · ⚠ **FULL**
+**Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/4WmNb227JLOKmvufTsET
 **Map:** https://www.google.com/maps/search/?api=1&query=15%20W%2018th%20St%2C%20New%20York%2C%20NY%2010011
 
@@ -58,10 +58,6 @@ We'll guide you on setting up your first retrieval engine and wiring it to your 
 You'll get direct API access and real talk from people running this at scale.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

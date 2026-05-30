@@ -9,20 +9,18 @@ host: "Lyzr"
 neighborhood: "Brooklyn"
 rsvp_url: "https://partiful.com/e/DIYNw5DJj1QWLJxfDb4g"
 public_short_url: "https://go.partiful.com/r4eFLx5M"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FHYtKPsUbTaR5pm6pediBfFQgDCj2%2FjEnHXoFMomA6Q0ihGohH9"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FHYtKPsUbTaR5pm6pediBfFQgDCj2%2FjEnHXoFMomA6Q0ihGohH9?alt=media&token=fb12188a-1427-4ff3-9c26-a9a322146a50"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 159
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["HYtKPsUbTaR5pm6pediBfFQgDCj2", "7DFu4rITofNzKIjA7hCx", "aePIFrBPOihpPW7wAGdrriodJKx1"]
 is_capped: false
-total_guest_count: 160
+canceled: false
 approved_guest_count: 0
 local_image: "images/DIYNw5DJj1QWLJxfDb4g.png"
-canceled: false
 ---
 
 # NET Worth - A padel morning
@@ -32,7 +30,6 @@ canceled: false
 **Hosts:** Lyzr  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 9:00am ET
 **Where:** Brooklyn
-**Going:** 159 of 160
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/DIYNw5DJj1QWLJxfDb4g
 
@@ -54,10 +51,6 @@ Post-game: coffee and a slow debrief in the lounge.
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

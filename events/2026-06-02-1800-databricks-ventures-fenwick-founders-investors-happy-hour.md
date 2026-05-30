@@ -8,26 +8,21 @@ end_time: "9:00pm ET"
 start_iso: "2026-06-02T22:00:00.000Z"
 end_iso: "2026-06-03T01:00:00.000Z"
 host: "Databricks"
-venue_name: "LenLen"
-venue_address: "40 E 20th St, New York, NY 10003"
 neighborhood: "Flatiron"
 rsvp_url: "https://partiful.com/e/UVrf9v2ZAD5M4gdPdKh9"
 public_short_url: "https://go.partiful.com/wB3BFfMy"
-google_maps: "https://www.google.com/maps/search/?api=1&query=40%20E%2020th%20St%2C%20New%20York%2C%20NY%2010003"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FO39b1SKUHK9t7tDfNLmH%2FbvJdb1n9AuJGkG8ICDLIv"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FO39b1SKUHK9t7tDfNLmH%2FbvJdb1n9AuJGkG8ICDLIv?alt=media&token=8b63d00b-8a5a-4f1a-a585-e897ca377f46"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 1438
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["O39b1SKUHK9t7tDfNLmH", "7DFu4rITofNzKIjA7hCx", "BEyCEP4Eh7hBy5ga4vUt"]
 is_capped: false
-total_guest_count: 1453
-approved_guest_count: 176
-local_image: "images/UVrf9v2ZAD5M4gdPdKh9.png"
 canceled: false
+approved_guest_count: 214
+local_image: "images/UVrf9v2ZAD5M4gdPdKh9.png"
 ---
 
 # Databricks Ventures & Fenwick: Founders & Investors Happy Hour
@@ -36,11 +31,10 @@ canceled: false
 
 **Hosts:** Databricks  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 6:00pm–9:00pm ET
-**Where:** LenLen · 40 E 20th St, New York, NY 10003 · Flatiron
-**Going:** 1438 of 1453
+**Where:** Flatiron
+**Going:** 214
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/UVrf9v2ZAD5M4gdPdKh9
-**Map:** https://www.google.com/maps/search/?api=1&query=40%20E%2020th%20St%2C%20New%20York%2C%20NY%2010003
 
 ### Hosts on Partiful
 
@@ -67,10 +61,6 @@ About Fenwick:
 Fenwick is a leading law firm, purpose-built to guide visionary tech and life sciences companies and their investors through every stage of growth, from startups securing their first round of funding to leading publicly traded global enterprises. As one of Silicon Valley’s original legal practices, today we have over 600 lawyers, patent agents, engineers, and scientists serving clients all over the world. Visit www.fenwick.com to learn more.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

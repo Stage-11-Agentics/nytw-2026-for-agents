@@ -13,21 +13,17 @@ neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/piSMRtidmZjBAZR6kvqL"
 public_short_url: "https://go.partiful.com/q0bd6Ctf"
 google_maps: "https://www.google.com/maps/search/?api=1&query=240%20W%2040th%20St%2C%20New%20York%2C%20NY%2010018"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FScTxt1eiAnOQiZycuNfNlpL0NFN2%2F7r5A2zwKbVcHTHfWCzfCY"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FScTxt1eiAnOQiZycuNfNlpL0NFN2%2F7r5A2zwKbVcHTHfWCzfCY?alt=media&token=67082d46-53a2-4145-a71b-8cb207d2a743"
 visibility: "public"
-at_capacity: false
-going_guest_count: 9
+at_capacity: true
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["ScTxt1eiAnOQiZycuNfNlpL0NFN2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 30
-remaining_capacity: 19
-total_guest_count: 12
-approved_guest_count: 0
-local_image: "images/piSMRtidmZjBAZR6kvqL.svg"
 canceled: false
+local_image: "images/piSMRtidmZjBAZR6kvqL.svg"
 ---
 
 # Steeped in Tech: A Tea Reception Exploring AI, Taste & Human Experience
@@ -37,7 +33,8 @@ canceled: false
 **Hosts:** Tea Drunk  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 3:00pm–5:00pm ET
 **Where:** 240 W 40th St, New York, NY 10018 · Midtown
-**Capacity:** capped at 30 · 11 taken, 19 remaining
+**Capacity:** capped at 30
+**Status:** ⚠ at capacity
 **RSVP:** https://partiful.com/e/piSMRtidmZjBAZR6kvqL
 **Map:** https://www.google.com/maps/search/?api=1&query=240%20W%2040th%20St%2C%20New%20York%2C%20NY%2010018
 
@@ -64,10 +61,6 @@ This is a different kind of Tech Week room: slower, more human, and more memorab
 No alcohol. No hard pitch. Just exceptional tea, sharp minds, and real conversation.
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 

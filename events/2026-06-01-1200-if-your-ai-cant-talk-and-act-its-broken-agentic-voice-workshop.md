@@ -8,30 +8,26 @@ end_time: "3:00pm ET"
 start_iso: "2026-06-01T16:00:00.000Z"
 end_iso: "2026-06-01T19:00:00.000Z"
 host: "Cloudonix, Inc"
-venue_address: "1 Pace Plaza, New York, NY 10038"
 neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/pxdWahJXi0EQklEuU50W"
 public_short_url: "https://go.partiful.com/Qtm0ep93"
-google_maps: "https://www.google.com/maps/search/?api=1&query=1%20Pace%20Plaza%2C%20New%20York%2C%20NY%2010038"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FLcZD2hHcN8bugyJLSW7lnXD2N4k1%2Fp5aG0aGH0S_QpOpBQ0N2C"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FLcZD2hHcN8bugyJLSW7lnXD2N4k1%2Fp5aG0aGH0S_QpOpBQ0N2C?alt=media&token=b3870e8d-7693-4a6e-849e-5685d0c99731"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 78
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["LcZD2hHcN8bugyJLSW7lnXD2N4k1", "7DFu4rITofNzKIjA7hCx", "UH7VYlZKNqMB5wcwLWIM403EjAs2"]
 is_capped: true
 max_capacity: 90
-remaining_capacity: 12
-total_guest_count: 78
-approved_guest_count: 78
-local_image: "images/pxdWahJXi0EQklEuU50W.png"
+remaining_capacity: 15
 canceled: true
 canceled_at: "2026-05-11T18:04:44.550Z"
 canceled_by: "LcZD2hHcN8bugyJLSW7lnXD2N4k1"
 cancellation_message: "Sorry, we have to cancel. \nAir France canceled our flights and we will not be able to get to New York for Tech Week."
+approved_guest_count: 75
+local_image: "images/pxdWahJXi0EQklEuU50W.png"
 ---
 
 # If Your AI Can’t Talk and Act, It’s Broken - Agentic Voice Workshop
@@ -46,11 +42,10 @@ cancellation_message: "Sorry, we have to cancel. \nAir France canceled our fligh
 
 **Hosts:** Cloudonix, Inc  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Monday, June 1, 2026 · 12:00pm–3:00pm ET
-**Where:** 1 Pace Plaza, New York, NY 10038 · Financial District
-**Capacity:** capped at 90 · 78 taken, 12 remaining
+**Where:** Financial District
+**Capacity:** capped at 90 · 75 taken, 15 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/pxdWahJXi0EQklEuU50W
-**Map:** https://www.google.com/maps/search/?api=1&query=1%20Pace%20Plaza%2C%20New%20York%2C%20NY%2010038
 
 ### Hosts on Partiful
 
@@ -95,10 +90,6 @@ Duration
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

@@ -8,28 +8,23 @@ end_time: "5:30pm ET"
 start_iso: "2026-06-05T19:30:00.000Z"
 end_iso: "2026-06-05T21:30:00.000Z"
 host: "Meridian Collective"
-venue_name: "Cre8ive NYC"
-venue_address: "134 W 29th St, FL 2, New York, NY 10001"
-neighborhood: "Union Square"
+neighborhood: "Midtown"
 rsvp_url: "https://partiful.com/e/foEPEVCrozyJZCN4W19S"
 public_short_url: "https://go.partiful.com/8etgAIuk"
-google_maps: "https://www.google.com/maps/search/?api=1&query=134%20W%2029th%20St%2C%20FL%202%2C%20New%20York%2C%20NY%2010001"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Ffsb6hGqia6hlHYHN1j9d9KI0FCa2%2FmtJTpIa_zz_JNUjXu4KEy"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2Ffsb6hGqia6hlHYHN1j9d9KI0FCa2%2F-y5sEuWj7KWSnx-Yc9D5_?alt=media&token=b3352e2a-7a81-4411-b182-400a4373aa1a"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 10
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["fsb6hGqia6hlHYHN1j9d9KI0FCa2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: true
 max_capacity: 12
-remaining_capacity: 11
-total_guest_count: 10
-approved_guest_count: 1
-local_image: "images/foEPEVCrozyJZCN4W19S.png"
+remaining_capacity: 3
 canceled: false
+approved_guest_count: 9
+local_image: "images/foEPEVCrozyJZCN4W19S.png"
 ---
 
 # The Alignment Lab: a Live Experience to Reveal Your Human Advantages & Navigate Complexity
@@ -38,11 +33,10 @@ canceled: false
 
 **Hosts:** Meridian Collective  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 3:30pm–5:30pm ET
-**Where:** Cre8ive NYC · 134 W 29th St, FL 2, New York, NY 10001 · Union Square
-**Capacity:** capped at 12 · 1 taken, 11 remaining
+**Where:** Midtown
+**Capacity:** capped at 12 · 9 taken, 3 remaining
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/foEPEVCrozyJZCN4W19S
-**Map:** https://www.google.com/maps/search/?api=1&query=134%20W%2029th%20St%2C%20FL%202%2C%20New%20York%2C%20NY%2010001
 
 ### Hosts on Partiful
 
@@ -52,27 +46,23 @@ canceled: false
 
 ## Description
 
-Alignment, coherence, and authenticity are the ultimate human advantages in rapidly evolving environments.
+Discover your personal "human-market fit" 📈 Real connections with thoughtful people in a warm space.
 
 Chip in requested :-) $40 venmo @mariminal. cash app: $marialai111
 
-This boutique interactive experience invites ambitious Tech Week-ers to come home to the person who started it all - themselves: slow down and reconnect with what feels true beneath the pressure to perform. Through curated mini-relational games that shift how you experience your own thinking, small-group interactions designed for depth & presence, meaningful connection with self & others, and maybe even unexpected self-discovery, we’ll explore how uncertainty can become a source of clarity, and how alignment often begins where autopilot ends. Come curious. Leave with clearer signals and a memory.
+Alignment, coherence, and authenticity are the ultimate human advantages in rapidly evolving environments.
 
-Features tea, non-alcoholic elixirs, ambient soundscapes, and more delights. Please arrive on time to settle into the frequency.
+This boutique designed experience invites ambitious thoughtful Tech Week-ers to come home to the person who started it all - themselves: slow down and reconnect with what feels true beneath the pressure to perform. This is a safe space for professionals to soften.
 
-This indie oasis is part of an original body of work selected for the 2026 Grace Hopper Celebration—chosen through a selective process involving committee review and public voting. Attendees will join a private, immersive, and warm preview of a researched model vetted by a rigorous standard. The upcoming GHC session, “Alignment before Optimization: 7 Skills to Navigate Uncertainty in Today's Evolving Tech Careers,” forms the technical foundation of this interactive experience.
+Through curated mini-relational and collaborative games that shift how you experience your own thinking, small-group interactions designed for depth and presence, meaningful connection with self & others, we’ll explore how liminality can become a source of clarity, and how alignment often begins where autopilot ends.
 
-Who is the creator?
+Come curious. Leave with clearer signals for career alignment, personal direction, the unique human advantages that allow you to build more fulfilling and thriving careers ✨ and a memory.
 
-Maria Lai is a product architect and leader. Maria is passionate about building a bridge between high-scale systems and the human spirit.
+Features tea, non-alc elixirs, ambient soundscapes, and more delights. Please arrive on time to settle into the frequency.
 
-A limited number of pay-what-you-can spaces are available for those experiencing extenuating circumstances. If this applies to you, please RSVP and venmo what you’re able to contribute.
+A limited number of pay-what-feels-aligned spaces are available. If you’d like to take one, feel free to venmo whatever contribution feels aligned for you if approved.
 
-This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
+This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.t
 
 
 

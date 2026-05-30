@@ -6,25 +6,21 @@ day: "Friday"
 start_time: "5:00pm ET"
 start_iso: "2026-06-05T21:00:00.000Z"
 host: "Pync Inc."
-venue_name: "Central Park"
-venue_address: "New York, NY 10028"
 neighborhood: "Central Park"
 rsvp_url: "https://partiful.com/e/DbJ8hrweBskIasfuf4cM"
 public_short_url: "https://go.partiful.com/ntblflbi"
-google_maps: "https://www.google.com/maps/search/?api=1&query=Central%20Park%2C%20New%20York%2C%20NY%2010028"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FRNF8AwyguncSNDJAj5joaGroRwp2%2FDz6XNEhGFH3aCnR9xXgoG"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FRNF8AwyguncSNDJAj5joaGroRwp2%2FDz6XNEhGFH3aCnR9xXgoG?alt=media&token=bd27f8f1-80ce-434d-b247-56197ba4ce36"
 visibility: "public"
 at_capacity: false
-going_guest_count: 16
+going_guest_count: 48
 badges: []
 fetch_status: ok
 owner_count: 2
 owner_ids: ["RNF8AwyguncSNDJAj5joaGroRwp2", "7DFu4rITofNzKIjA7hCx"]
 is_capped: false
-total_guest_count: 22
+canceled: false
 approved_guest_count: 0
 local_image: "images/DbJ8hrweBskIasfuf4cM.png"
-canceled: false
 ---
 
 # Pet Tech Meet Up NYC
@@ -33,10 +29,9 @@ canceled: false
 
 **Hosts:** Pync Inc.  _(+1 more host(s) on Partiful — see description for full list)_
 **When:** Friday, June 5, 2026 · 5:00pm ET
-**Where:** Central Park · New York, NY 10028 · Central Park
-**Going:** 16 of 22
+**Where:** Central Park
+**Going:** 48
 **RSVP:** https://partiful.com/e/DbJ8hrweBskIasfuf4cM
-**Map:** https://www.google.com/maps/search/?api=1&query=Central%20Park%2C%20New%20York%2C%20NY%2010028
 
 ### Hosts on Partiful
 
@@ -55,10 +50,6 @@ Come connect, share ideas, and meet others shaping the space.
 🐶 Pets welcome!
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com.
-
-
-
-
 
 
 

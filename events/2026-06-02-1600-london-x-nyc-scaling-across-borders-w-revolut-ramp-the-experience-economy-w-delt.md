@@ -14,20 +14,18 @@ neighborhood: "Financial District"
 rsvp_url: "https://partiful.com/e/6racWcR6SfxbsyO2zmVA"
 public_short_url: "https://go.partiful.com/RsWqAjzD"
 google_maps: "https://www.google.com/maps/search/?api=1&query=28%20Liberty%20St%2C%20New%20York%2C%20NY%2010005"
-image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FgAlyVoOAe5YRiFW7h9mTDv610Mn2%2FrKfb5RehYoJ1760WTvXJ5"
+image: "https://firebasestorage.googleapis.com/v0/b/getpartiful.appspot.com/o/external%2Fuser%2FgAlyVoOAe5YRiFW7h9mTDv610Mn2%2FrKfb5RehYoJ1760WTvXJ5?alt=media&token=5e78547d-8dee-45b0-aae0-2d25b9897494"
 visibility: "public"
 guest_action: "APPLY"
 at_capacity: false
-going_guest_count: 359
 badges: []
 fetch_status: ok
 owner_count: 3
 owner_ids: ["D3zHuXuWarUFXKKyMuprJn6gmwl2", "gAlyVoOAe5YRiFW7h9mTDv610Mn2", "7DFu4rITofNzKIjA7hCx"]
-is_capped: false
-total_guest_count: 370
-approved_guest_count: 207
-local_image: "images/6racWcR6SfxbsyO2zmVA.jpg"
+is_capped: true
+max_capacity: 452
 canceled: false
+local_image: "images/6racWcR6SfxbsyO2zmVA.jpg"
 ---
 
 # London x NYC: Scaling Across Borders w/ Revolut & Ramp + the Experience Economy w/ Delta & Virgin
@@ -37,7 +35,7 @@ canceled: false
 **Hosts:** London & Partners  _(+2 more host(s) on Partiful — see description for full list)_
 **When:** Tuesday, June 2, 2026 · 4:00pm–7:00pm ET
 **Where:** 28 Liberty Street · 28 Liberty St, New York, NY 10005 · Financial District
-**Going:** 359 of 370
+**Capacity:** capped at 452
 **Access:** apply / hosts approve
 **RSVP:** https://partiful.com/e/6racWcR6SfxbsyO2zmVA
 **Map:** https://www.google.com/maps/search/?api=1&query=28%20Liberty%20St%2C%20New%20York%2C%20NY%2010005
@@ -86,10 +84,6 @@ This event is part of New York Tech Week, a week of events bringing together fou
 
 
 This event is a part of #NYTechWeek—a week of events hosted by VCs and startups to bring together the tech ecosystem. Learn more at www.tech-week.com
-
-
-
-
 
 
 
