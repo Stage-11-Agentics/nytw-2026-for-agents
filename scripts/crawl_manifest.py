@@ -171,10 +171,14 @@ def datetime_str(date_iso: str, time_iso: str) -> str:
 
 def to_manifest_entry(ev: dict) -> dict:
     hosts = ev.get("hosts") or []
+    # The `host` field is the calendar's joined display string of all hosts
+    # (e.g. "a16z speedrun, Orrick"), matching the dataset's documented schema.
+    # Falling back to a single `company` value dropped co-hosts on re-crawls.
+    host = ", ".join(h for h in hosts if h) or (ev.get("company") or "")
     return {
         "badges": [],
         "dateTime": datetime_str(ev["date"], ev["time"]),
-        "host": ev.get("company") or (hosts[0] if hosts else ""),
+        "host": host,
         "neighborhood": ev.get("location") or "",
         "source": "crawl",
         "title": ev["name"],
@@ -252,14 +256,33 @@ def main() -> int:
     keep = events if args.include_invite_only else [
         e for e in events if not e["isInviteOnly"]
     ]
-    entries = [to_manifest_entry(e) for e in keep]
     # Stable order by (date, time, id) so re-crawls produce minimal diffs.
     entries_sorted = sorted(
         keep, key=lambda e: (e["date"], e["time"], e["id"])
     )
+    # Dedupe by externalHref. The in-DOM dedup above keys on the calendar's
+    # internal row id (orig.id), but the calendar lists some events under
+    # multiple rows (e.g. a multi-day popup listed once per day) that all link
+    # to the same Partiful page. Those rows have distinct orig.ids but a single
+    # externalHref — which is what becomes the downstream event_id (and the
+    # images/ key). Collapse them so the dataset keeps one file per real event.
+    seen_urls: set[str] = set()
+    deduped = []
+    collapsed = 0
+    for e in entries_sorted:
+        key = (e.get("externalHref") or "").rstrip("/")
+        if key and key in seen_urls:
+            collapsed += 1
+            continue
+        if key:
+            seen_urls.add(key)
+        deduped.append(e)
+    if collapsed:
+        print(f"[crawl] collapsed {collapsed} duplicate calendar rows "
+              f"(same externalHref, distinct row id)")
     manifest = {
-        "count": len(entries_sorted),
-        "events": [to_manifest_entry(e) for e in entries_sorted],
+        "count": len(deduped),
+        "events": [to_manifest_entry(e) for e in deduped],
     }
     with open(args.out, "w") as f:
         json.dump(manifest, f, indent=2, ensure_ascii=False)

@@ -1,6 +1,6 @@
 # NY Tech Week Reference — agent instructions
 
-You are working inside a flat-file mirror of [tech-week.com/calendar/nyc](https://www.tech-week.com/calendar/nyc). 1,352 events, one markdown file per event, plus an `INDEX.md` and a raw `manifest.json`.
+You are working inside a flat-file mirror of [tech-week.com/calendar/nyc](https://www.tech-week.com/calendar/nyc). 1,410 events, one markdown file per event, plus an `INDEX.md` and a raw `manifest.json`.
 
 ## What you can do here
 
@@ -19,6 +19,18 @@ You are working inside a flat-file mirror of [tech-week.com/calendar/nyc](https:
 - `manifest.json` — raw extraction from the calendar page, exactly what the DOM contained at crawl time. Includes title, host, dateTime (string), neighborhood, badges, partiful URL.
 - `events/*.md` — composed from both the calendar manifest and the per-event Partiful `__NEXT_DATA__` payload. Frontmatter is structured; body has the full description.
 - See `README.md` for the dataset schema.
+- `rounds/` + `CHANGES-<date>.md` — versioned fingerprints and the change report for each re-crawl. Diff two rounds with `scripts/round_diff.py`; validate a round against live Partiful with `scripts/spot_check.py`.
+
+## Quirk: venues hide as events approach
+
+As Tech Week nears, many hosts switch their Partiful page to show only an
+`approximateLocation` (e.g. `"New York, NY"`) and drop the precise venue —
+`locationInfo.mapsInfo.name` and `addressLines` go empty. So `venue_name` /
+`venue_address` legitimately empty out between rounds (≈340 events did so
+2026-05-21 → 2026-05-30); the empty value matches the live source, it is not a
+crawl error. `neighborhood` still carries the general area. **Follow-up:**
+`fetch.py`/`enrich.py` do not yet capture `locationInfo.mapsInfo.approximateLocation`
+— wiring it in as a fallback would recover the coarse hint for these events.
 
 ## Quirk: the Partiful platform-admin user
 
